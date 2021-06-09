@@ -1,5 +1,0 @@
-title = Template:C
-redirects =
----
-
-'''©'''

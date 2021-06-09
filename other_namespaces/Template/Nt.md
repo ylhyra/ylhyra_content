@@ -1,5 +1,0 @@
-title = Template:Nt
-redirects =
----
-
-🌞
