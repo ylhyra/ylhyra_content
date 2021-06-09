@@ -18,7 +18,7 @@ When saying that something belongs to you, you have to add "[[the]]" to the word
 *„hér eru hús'''in mín'''“ ("here are '''the''' houses (of) '''mine'''")
 
 [https://inflections.ylhyra.is/minn/478792 Click here] to see the full list of inflections for the pronoun ''minn''.
----
+***
 
 
 If you're using a possessive pronoun (mine, yours), you always have to add "[[The]]" to the possessed word except in one situation: when talking about friends and specific family members.<ref>There are a few other situations but this is the general rule. The "the" can also be dropped when you want to sound more formal or poetic. </ref>
@@ -31,7 +31,7 @@ But that does not include kærasti, kærasta, (eigin)maður, (eigin)kona, fjöls
 
 *Ég fór með kærasta'''num''' mínum til Spánar. Núna er hann maður'''inn''' minn. Hann hefur hitt fjölskyldu'''na''' mína.
 
----
+***
 
 The possessive pronoun reflects the grammatical type of the possessed word, but not the person who owns it:
 

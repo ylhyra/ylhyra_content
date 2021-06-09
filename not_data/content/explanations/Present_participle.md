@@ -19,7 +19,7 @@ Cases where the present participle works include:
 *`Ég er vinn'''andi''' allar helgar.` (I'm work'''ing''' all weekends). "Er að vinna" would also have worked just as well in this context.
 *`Ég mæti hjól'''andi'''.` (I'll show up bicycl'''ing''' / on a bicycle)<br />
 <div class="notes">
----
+***
 
 '''Notes'''
 
@@ -39,7 +39,7 @@ These are [[nouns]]:
 *Ég er nemandi. (I am a student) The word "student" comes directly from "studying".
 *Hann er eigandi fyrirtækisins. (He is the owner of the company). The word "owner" comes directly from "owning".
 
----
+***
 
 {{reflist}}</div>
 {{cc0}}

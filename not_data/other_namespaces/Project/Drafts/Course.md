@@ -69,7 +69,7 @@ redirects =
 *Vocabulary: <small>vika, mánuður, heima, brauð, brúnn,</small> <small>að borða, að drekka, í, á</small>
 *[https://www.youtube.com/watch?v=F5pEtZGon9I Daði og Gagnamagnið] (2020)
 
----
+***
 
 ==Material for later chapters==
 

@@ -43,7 +43,7 @@ This small breath is extremely important, without it it's almost impossible to u
 *'''pt''' – "pt" is pronounced like "ft".
 **se'''pt'''ember, key'''pt'''i, sle'''ppt'''i, ka'''pt'''einn.
 
----
+***
 
 The name of the letter is "pé".
 

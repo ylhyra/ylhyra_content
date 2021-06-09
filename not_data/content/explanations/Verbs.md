@@ -4,7 +4,7 @@ redirects =
 - Verb
 >>>>
 
-{{a1}}
+<a1/>
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").
 
@@ -37,7 +37,7 @@ Explaining what you are currently doing is quite easy if you can memorize one fo
 
 This pattern is extremely common.
 
----
+***
 
 '''Further topics on verbs'''
 

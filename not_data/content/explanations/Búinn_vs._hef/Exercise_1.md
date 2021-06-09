@@ -7,7 +7,7 @@ redirects =
 This is an exercise in when to use [[Búinn vs. hef|búinn and when to use hef]]. You use ''búinn'' when speaking of a recent or specific incident, and you use ''have'' if you're speaking generally. There are many instances where either can be used, but when in doubt, use "ég er búinn" instead of "ég hef".
 
 Translate the phrases below and choose the correct answer:
----
+***
 
 I have forgotten all my Spanish.
 
@@ -24,7 +24,7 @@ Here we consider forgetting something to be a specific incident rather than some
 Using "hef" would not have been wrong per se, but it's not nearly as common.
 
 $cob$
----
+***
 
 
 Have you ever had a double cheeseburger?
@@ -40,7 +40,7 @@ $cot$
 We are speaking generally about whether something has ever happened in the person's life.
 
 $cob$
----
+***
 
 
 We have only been seeing each other for three weeks.
@@ -56,7 +56,7 @@ $cot$
 Speaking of a recent thing.
 
 $cob$
----
+***
 
 
 This is the best play that has ever been shown in Akureyri.
@@ -72,7 +72,7 @@ $cot$
 Speaking generally
 
 $cob$
----
+***
 
 
 Sorry I didn't reply, I have been abroad recently.
@@ -88,7 +88,7 @@ $cot$
 Speaking about a recent event.
 
 $cob$
----
+***
 
 
 Your application has been received. <br /><small>Note: This is a trick question</small>
@@ -106,7 +106,7 @@ The reason we use "hef" is because we are writing a [[Written Icelandic|formal]]
 If however you are speaking instead of writing, or writing less formally, you could have used "búinn".
 
 $cob$
----
+***
 
 
 Welcome back! Haven't you been really sick?
@@ -122,7 +122,7 @@ $cot$
 Recent event.
 
 $cob$
----
+***
 
 
 Yes, I have never been this sick before.
@@ -138,7 +138,7 @@ $cot$
 Speaking generally.
 
 $cob$
----
+***
 
 
 I don't recall having worn this shirt.
@@ -154,7 +154,7 @@ $cot$
 Speaking generally about something that has ever happened.
 
 $cob$
----
+***
 
 
 I have been practicing.

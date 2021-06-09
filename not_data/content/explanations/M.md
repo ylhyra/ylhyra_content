@@ -19,7 +19,7 @@ It appears in the following situations:<ref>It also appears when the next letter
 *When the next letter is a '''t''':
 **fi'''mm'''ti, ske'''mm'''tilegur
 
----
+***
 
 The name of the letter is "emm", same as in English.
 {{next simple|prev=l|next=n}}

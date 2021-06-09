@@ -67,7 +67,7 @@ There are several situations where you have to [[breathe out]] (exhale) a little
 **jöklar (/jöʰklar/), sjúklingur (/sjúʰklingur/), Hekla (/heʰkla/)
 
 This small breath is extremely important, without it it's almost impossible to understand you. It is better to exaggerate it rather than to do too little of it.
----
+***
 
 The name of the letter is "ká".
 

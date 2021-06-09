@@ -41,7 +41,7 @@ Remove the `-a` ending and add a '''`-ðu`/`-du`/`-tu`'''
 *að setja → settu!
 *að skipta → skiptu!
 
----
+***
 
 ==Ordering multiple people==
 {{B2}}

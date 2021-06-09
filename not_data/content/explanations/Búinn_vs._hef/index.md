@@ -13,7 +13,7 @@ Examples:
 *„Ég er ''búinn'' að borða kjúkling“ (I have ''already'' eaten chicken) – This is speaking of a recent or a specific incident, such as explaining that you've eaten chicken today.
 *„Ég ''hef'' borðað kjúkling“ (I ''have'' eaten chicken) – This is speaking more generally, such as explaining that you have had chicken some time in your life.
 
----
+***
 
 
 ==Exercices==

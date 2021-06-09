@@ -11,7 +11,7 @@ redirects =
 *Árni, þýðingar
 *Lára, efni
 
----
+***
 -->
 ==Kennsluefni í vinnslu==
 Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmislegt sem skrifað hefur verið en þarf að bæta við seinna er í drögum undir [[Project:Drafts/Course_WIP]], sjá einnig eldra dæmi undir [[Project:Drafts/Course]].
@@ -75,7 +75,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 **Elvar?
 
 
----
+***
 
 ==Introductory pages needing sorting, finishing==
 
@@ -106,7 +106,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 *👁 [[Course/A1/Want|Want]]
 
 
----
+***
 
 ==Annað==
 

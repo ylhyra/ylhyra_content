@@ -5,7 +5,7 @@ redirects =
 {{a1}}
 
 This is an exercise for the use of the word [[búinn]]. 
----
+***
 
 Fill in the blank:
 
@@ -19,7 +19,7 @@ $cot$
 The literal meaning is "I am finished reading this book."
 
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -31,7 +31,7 @@ $cot$
 Ég er '''búinn''' að borða.
 
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -43,7 +43,7 @@ $cot$
 Ertu '''búinn''' að drekka kaffi?
 
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -54,7 +54,7 @@ $cot$
 
 Ég er '''búinn''' að fara út með hundinn.
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -64,7 +64,7 @@ $cot$
 
 Hvenær ertu '''búinn'''?
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -75,7 +75,7 @@ $cot$
 
 Hvað ert þú '''búinn''' að gera í dag?
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -85,7 +85,7 @@ $cot$
 
 Ertu '''búinn''' að sjá nýju Spiderman myndina?
 $cob$
----
+***
 
 Fill in the blank:
 
@@ -107,7 +107,7 @@ $cot$
 
 Ég er '''búinn''' að vera að læra íslensku í tvo mánuði.
 $cob$
----
+***
 
 Fill in the blank:
 

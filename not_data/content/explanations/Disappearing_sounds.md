@@ -60,7 +60,7 @@ In particular you should remember the following common words:
 *a{{gray|ð}} – You should ''always'' pronounce it as just "a"
 *þa{{gray|ð}} – You should ''always'' pronounce it as just "þa" (or "ða" in an unstressed position)
 
----
+***
 
 ==Common words starting with Þ, Ð, or H==
 {{a2}}

@@ -9,7 +9,7 @@ redirects =
 In this exercise, you will attempt to figure out whether to use viðtengingarháttur or not. The only word we'll look at is the word "to be" because that is by far the most common verb you will have to place into viðtengingarháttur.
 
 Add either "er" (a regular framsöguháttur) or "sé" (viðtengingarháttur) to the following:
----
+***
 
 
 Hvað ___ hann að gera?

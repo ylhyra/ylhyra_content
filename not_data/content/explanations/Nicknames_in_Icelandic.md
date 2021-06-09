@@ -27,7 +27,7 @@ The following nicknames are extremely common:
 *Ragnhildur, Ragnheiður = Ragga
 *Ragnar = Raggi
 
----
+***
 
 The following nicknames are not as commonly seen as the above, but are still used by many:
 

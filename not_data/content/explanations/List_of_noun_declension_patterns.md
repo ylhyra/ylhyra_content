@@ -277,7 +277,7 @@ Words with umlaut:
 *eigandi (a→e in plural)
 *nemandi (a→e in plural)
 
----
+***
 
 =Feminine=
 
@@ -455,7 +455,7 @@ Irregularities*
 
 *nótt has "tt" only in the some cases
 
----
+***
 
 =Neuter=
 

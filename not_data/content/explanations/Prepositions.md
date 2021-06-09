@@ -10,7 +10,7 @@ redirects =
 [[w:Prepositions|Prepositions]] are the small words that indicate relationship between things, such as "from", "about", "below", "through" and so on.
 
 Prepositions in Icelandic cause words to have a particular [[cases|case]]. A preposition will never cause the first case ([[nominative]]), it will always cause one of the other three ([[accusative]], [[dative]], or [[genitive]]).
----
+***
 
 
 ==Prepositions that always result in the same case==
@@ -36,7 +36,7 @@ The following prepositions always cause words to be in the [[Genitive|'''fourth 
 *vegna (because of)
 *án (without)
 
----
+***
 
 
 ==Prepositions that can either cause the second or the third case==
@@ -46,7 +46,7 @@ Several prepositions can cause either the [[second case]] or the [[third case]] 
 *The [[third case]] {{þgf}} indicates that the subject is ''not'' moving relative to the object.
 
 The words are:
----
+***
 
 
 '''á''' (onto; on)
@@ -63,7 +63,7 @@ Examples:
 *Ég leggst á mosann = I lay myself down onto the moss. I am moving relative to the moss.
 *Ég ligg á mosanum = I am laying on the moss. I am not moving relative to the moss.
 
----
+***
 
 
 '''eftir''' (by, after)
@@ -87,7 +87,7 @@ Word phrases that include this preposition include:
 *Ég sé eftir því {{þgf}} = I regret it.
 *Ég tók ekki eftir því {{þgf}} = I didn't notice.
 
----
+***
 
 
 '''fyrir''' (for, before; standing in the way of)
@@ -120,7 +120,7 @@ Examples
 *Skiptir engu máli fyrir mér {{þgf}} = In my opinion, this doesn't make any difference. (Note that this means practically the exact same thing as the item above.)
 *Ég varð fyrir bílnum {{þgf}} = I got run over by the car. This is a bit complex since this is a phrase, but: I was standing in the way of the car. The car could not move because I was standing in its way. There has not been any movement yet. However, as soon as there is movement I will be run over by the car.
 
----
+***
 
 
 '''í''' (in, into; inside of)
@@ -142,7 +142,7 @@ Examples:
 *Mikið ertu í flottri peysu. {{þgf}} = Oh my, the sweater you're wearing is really nice. You are already wearing the sweater, there is no movement.
 
 ==[[Prepositions that cause cases/Í – exercise 1|Exercise 1 for ''í'']]==
----
+***
 
 
 '''með''' (with)
@@ -156,7 +156,7 @@ Examples:
 *{{þf}} Ég slæ þig í höfuðið með bækur. = I hit you in the head, and at the same time I am also carrying books. This sentence makes little sense and would never be used.
 *{{þgf}} Ég slæ þig í höfuðið með bókum. = I hit you in the head using books.
 
----
+***
 
 
 '''undir''' (under)
@@ -164,7 +164,7 @@ Examples:
 *Ég fer undir sófann {{þf}} = I go underneath the sofa
 *Ég er undir sófanum {{þgf}} = I am beneath the sofa
 
----
+***
 
 
 '''við''' (by, to)
@@ -181,7 +181,7 @@ The [[third case]] can be seen in some word phrases:
 *Við mér {{þgf}} blasti sorgleg sjón. = A sad sight laid there before my eyes.
 *Það er ekki til lækning við sjúkdómnum. {{þgf}} = No cure exists for the disease.
 
----
+***
 
 
 '''yfir''' (over; above)

@@ -27,7 +27,7 @@ More examples:
 *`Ætli sundlaugin sé opin?` – Do you suppose the pool is open?
 *`Ætli ég geti komið og sótt símann minn á eftir?` – I was wondering if I could come and fetch my telephone later.<br />
 
----
+***
 
 ==Ætli það ekki.==
 
@@ -73,7 +73,7 @@ Examples:
 *Ætli það væri ekki ódýrara að kaupa árskort? – Jú, örugglega.
 **Wouldn't you assume that it would be cheaper to buy a year's pass? – Yes, probably.
 
----
+***
 
 ==Exercise – Translate from English to Icelandic==
 I was wondering if there was some space in your car.

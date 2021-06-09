@@ -8,7 +8,7 @@ Magnús Jochum Pálsson (born 1997) is an author of short stories. He published 
 *[[/Pípulækningar|Pípulækningar]]
 *[[/Ánamaðkar|Ánamaðkar]]
 
----
+***
 
 The book is published under the following license:
 

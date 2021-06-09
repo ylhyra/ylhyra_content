@@ -45,7 +45,7 @@ This small breath is extremely important, without it it's almost impossible to u
 * "tns" is pronounced as "ss":
 ** vatns (/vass/), botns (/boss/)
 
----
+***
 
 The name of the letter is "té".
 

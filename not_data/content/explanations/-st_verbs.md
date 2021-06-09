@@ -25,7 +25,7 @@ Examples:
 *„Þau '''kysstust''' þegar þau '''sáust'''“ (They kissed each other when they saw each other). Shows that the two people do something to each other.
 *„Hvað er að '''gerast'''?“ (What is happening?) Shows that the thing in the process of being done.
 
----
+***
 
 Note that there may be ambiguity about whether something is actually an -st variant or just a form that happens to end in -st in one particular case but not all the related cases. See here:
 
@@ -33,7 +33,7 @@ Note that there may be ambiguity about whether something is actually an -st vari
 * ég kom'''st''' í gær (I was able to come yesterday), þú kom'''st''' í gær (you were able to come yesterday), hann kom'''st''' í gær (he was able to come yesterday). This is truly the -st form of the verb, all of the related words end in -st.
 
 This ambiguity is very rare, and you can almost always figure out what is meant from context.
----
+***
 
 <div class="notes">
 '''Notes'''

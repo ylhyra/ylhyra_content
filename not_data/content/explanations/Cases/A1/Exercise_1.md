@@ -16,7 +16,7 @@ In this exercise, you will place the word "my hamburger" into the correct form. 
 *'''á''' (on) causes the [[Third case|third case]] if the thing is already on the other thing
 
 You do not need to memorize these for now, instead what you should do is that for each problem below you should scroll up and see what case you should choose, then look at the table of cases above, and then try to make it fit into your sentence. 
----
+***
 
 Þetta er ______. (This is my hamburger).
 
@@ -25,7 +25,7 @@ You do not need to memorize these for now, instead what you should do is that fo
 
 The word "er" causes the first case, so here we use the first case.
 {{cob}}
----
+***
 
 Vilt þú ______? (Do you want my hamburger?)
 
@@ -34,7 +34,7 @@ Vilt þú '''hamborgarann minn'''? {{þf}}
 
 The word "vilja" causes the second case.
 {{cob}}
----
+***
 
 
 Ég ætla að setja ost á ______. (I am going to put cheese onto my hamburger)
@@ -44,7 +44,7 @@ The word "vilja" causes the second case.
 
 Here there is movement from the cheese to the hamburger. Because there is movement, the word "á" causes the second case.
 {{cob}}
----
+***
 
 
 Það er ostur á ______. (There is cheese on my hamburger)
@@ -54,7 +54,7 @@ Here there is movement from the cheese to the hamburger. Because there is moveme
 
 Here there is '''no''' movement, the cheese is staying still on the hamburger. Because there is no relative movement, the word "á" causes the third case.
 {{cob}}
----
+***
 
 
 Ég ætla að borða ______. (I am going to eat my hamburger)
@@ -64,7 +64,7 @@ Here there is '''no''' movement, the cheese is staying still on the hamburger. B
 
 The word "borða" causes the second case.
 {{cob}}
----
+***
 
 
 Af hverju er ______ svona góður? (Why is my hamburger so good?)

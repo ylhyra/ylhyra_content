@@ -46,7 +46,7 @@ Translate to Icelandic:
 
 I don't feel good today. It is because I did not eat lunch today. I am very hungry. I want a hamburger with cheese. I am going to cook a hamburger and then I am going to eat the hamburger.
 
----
+***
 
 Þetta er góður hamborgari.
 Hann er góður vinur.

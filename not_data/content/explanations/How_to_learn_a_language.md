@@ -32,7 +32,7 @@ At many points in your language-learning journey, it is possible that the normal
 ===Well-rounded learning===
 
 This brings us to the last section of general language tips I will provide. If your goal is to become proficient in the language you are learning, you must pay attention to train all four main skills of a language: reading, writing, speaking, and listening. If you devote all of your time to learning the language from a textbook and texting people, but never speaking to natives or hearing them speak, you will be very shocked when your writing is advanced but you are completely unable to hold a spoken conversation in the second language country. For that reason, you should never let your learning become too lopsided. Always balance out learning textbook grammar and vocabulary with watching shows, chatting with natives or finding ways to speak your second language in some fashion.
----
+***
 
 =Icelandic-specific skills=
 ===Written vs. spoken Icelandic===
@@ -42,7 +42,7 @@ In any case, you should begin practicing the slurredness of Icelandic pronunciat
 
 [[File:Loftmynd 2.jpg|center|700px]]
 
----
+***
 
 <div style="text-align:center;font-size:14px;font-family:Helvetica Neue,sans-serif;color: #5f5f5f;"> Written by <span style="">Árni Angelo Deleo</span></div></div>
 

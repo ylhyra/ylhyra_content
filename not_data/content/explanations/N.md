@@ -35,7 +35,7 @@ It appears:
 *In "'''ngt'''":
 **la'''n'''gt, alge'''n'''gt, ra'''n'''gt, þrö'''n'''gt
 
----
+***
 
 ==Exceptions==
 
@@ -44,7 +44,7 @@ It appears:
 *'''sn''' – The letter cluster "sn" is pronounced "sdn".
 **snúa (/sdnúa/), asnalegt (/asdnalegt/), losnaði (/losdn/)
 
----
+***
 
 The name of the letter is "enn", same as in English. 
 {{next simple|prev=m|next=o}}

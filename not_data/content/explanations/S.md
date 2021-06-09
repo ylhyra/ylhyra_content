@@ -8,7 +8,7 @@ The letter '''S''' is pronounced the same as in English ("'''''s'''ome, '''s'''i
 
 The name of the letter is "ess", same as in English
 
----
+***
 
 There are a few other sounds in Icelandic that to many foreigners sound like an S but aren't. Those are: 
 

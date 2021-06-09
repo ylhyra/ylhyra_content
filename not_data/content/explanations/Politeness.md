@@ -22,7 +22,7 @@ And we can even add more politeness:
 
 *'''Gæti''' ég '''nokkuð''' fengið hamborgara? = Could I by any chance get a hamburger?
 
----
+***
 
 -
 
@@ -38,7 +38,7 @@ This is ''very'' polite:
 
 :`'''Gætirðu''' nokkuð fært þig?`
 
----
+***
 
 -
 

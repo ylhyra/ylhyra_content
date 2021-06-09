@@ -31,7 +31,7 @@ This sound also occurs when the two letters "hr" are written together. Notice th
 
 *`'''hr'''afn, '''hr'''eyfa, '''hr'''útu'''r''', '''hr'''ingja, '''hr'''æddu'''r'''`
 
----
+***
 
 ==Exceptions==
 
@@ -43,7 +43,7 @@ The reason for this odd pronunciation is that when you go from "r" to "n", you w
 ** karlar (/kadlar/), varla (/vadla/)
 ** perla (/perdla/), þyrla (/þyrdla/)
 
----
+***
 
 The name of the letter is "err".
 

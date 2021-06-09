@@ -67,14 +67,14 @@ It appears in the following situations:
 *In words that are supposed to be cute, such as [[nicknames]]:
 **{{listen|Solla}} (short for Sólveig), {{listen|Kalli}} (short for Karl), Villi (short for Vilhjálmur)
 
----
+***
 
 ==Exceptions==
 
 *'''sl''' – The letter cluster "sl" is pronounced "sdl", same as the clicky double L in "a'''ll'''ir".
 **slaka (/sdlaka/), rusl (/rusdl/), slys (/sdlis/), versla (/versdla/)
 
----
+***
 
 The letter itself is known as "ell" (with a clicky double L at the end).
 

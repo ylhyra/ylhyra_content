@@ -10,7 +10,7 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 
 {{button|[[/1|Start reading]]}}
 
----
+***
 
 
 <!-- Total: 2150 words -->
@@ -27,7 +27,7 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 *'''[[/10|Part 10]]''' – The others try to flee, but most fail. The house burns down.<!-- 245 words -->
 *'''[[/Discussion|Discussion]]'''
 
----
+***
 
 <div class="notes">
 '''Links'''
