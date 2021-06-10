@@ -1,5 +1,6 @@
 ---
 title: Text:Guðmundur Kamban/Dúna Kvaran
+tags: Text
 ---
 
 Guðmundur Kamban
@@ -16,4 +17,4 @@ Hvað var það sem gaf nafninu hennar þennan töfrahljóm? Það var ekki marm
 
 Hún var ekki nema tuttugu og eins árs en hafði þó heimsótt næstum því allar höfuðborgir í Evrópu og búið í London, Vín, og París. En síðasta vetur hafði hún verið í Reykjavík, komið til að fylgja móður sinni í skurðaðgerð. [...] Í Reykjavík voru þeir óteljandi, mennirnir sem hún hafði tekið sem
 
-<noinclude>[[Category:Text]]</noinclude>
+<noinclude></noinclude>

@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Reiður á innsoginu
+tags: Videos
 ---
 
 {{start|Villi Neto/Reiður á innsoginu}}
@@ -24,4 +25,3 @@ Og ég er alltaf einn með börnin heima. Hvað á ég að gera? Hvað á ég a�
 }}
 {{end}}
 
-[[Category:Videos]]

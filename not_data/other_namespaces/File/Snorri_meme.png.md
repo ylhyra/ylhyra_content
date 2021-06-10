@@ -1,7 +1,7 @@
 ---
 title: File:Snorri meme.png
+tags: jörm
 ---
 
 == Summary ==
 
-[[Category:jörm]]

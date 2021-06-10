@@ -1,5 +1,6 @@
 ---
 title: Template:Message
+tags: Card templates
 ---
 
 <div data-children="object">
@@ -7,5 +8,5 @@ title: Template:Message
 <div data-name="from" data-children="string">{{{from|}}}</div>
 <div data-name="message" data-translate="yes">{{{message|}}}</div>
 </div><noinclude>
-[[Category:Card templates]]
+
 </noinclude>

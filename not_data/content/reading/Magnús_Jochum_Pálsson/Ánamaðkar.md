@@ -1,5 +1,6 @@
 ---
 title: Magnús Jochum Pálsson/Ánamaðkar
+tags: Text
 ---
 
 <noinclude><small>[[Español/Magnús_Jochum_Pálsson/Ánamaðkar|Read in Spanish]]</small><br/></noinclude>{{start|Magnús Jochum Pálsson/Ánamaðkar}}
@@ -15,4 +16,4 @@ title: Magnús Jochum Pálsson/Ánamaðkar
 
 </div>
 {{end}}<noinclude><br/></noinclude>
-<noinclude>[[Category:Text]]</noinclude>
+<noinclude></noinclude>

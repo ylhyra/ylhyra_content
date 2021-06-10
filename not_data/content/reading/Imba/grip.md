@@ -1,5 +1,7 @@
 ---
 title: Imba/grip
+tags: Poems
+tags: Imba
 ---
 
 <level b2/>
@@ -33,5 +35,4 @@ title: Imba/grip
 
 {{imba}}
 {{end}}
-[[Category:Imba]]
-[[Category:Poems]]
+

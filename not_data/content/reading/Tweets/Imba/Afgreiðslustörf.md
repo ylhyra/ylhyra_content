@@ -2,6 +2,8 @@
 title: Tweets/Imba/Afgreiðslustörf
 redirects:
 - Skvisumus/Í afgreiðslustörfum sér maður það
+tags: Imba
+tags: Tweets
 ---
 
 {{start|Tweets/Imba/Afgreiðslustörf}}
@@ -18,6 +20,6 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
-[[Category:Imba]]
+
+
 </noinclude>

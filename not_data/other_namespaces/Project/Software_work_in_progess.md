@@ -1,5 +1,6 @@
 ---
 title: Project:Software work in progess
+tags: Code
 ---
 
 *Parsing should not take 4 seconds on huge documents.
@@ -13,4 +14,3 @@ title: Project:Software work in progess
 *Add script to an external CDN? [https://www.jsdelivr.com]
 *DragDrop.js needs to be rewritten and focused
 *[[Project:Software work in progess/Útlit]]
-[[Category:Code]]

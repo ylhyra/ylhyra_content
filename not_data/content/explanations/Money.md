@@ -1,5 +1,6 @@
 ---
 title: Money
+tags: Word use
 ---
 
 Iceland's currency is the [[w:Icelandic króna|Icelandic króna]].
@@ -22,5 +23,5 @@ But you can '''not''' say:
 * níukall, fjörutíuogsjökall, fimmhundruðogáttakall, eittþúsundogeitthundraðkall, milljónkall<br />
 
 {{end}}
-[[Category:Word use]]
+
 <noinclude>{{cc0}}</noinclude>

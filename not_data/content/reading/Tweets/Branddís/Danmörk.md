@@ -2,6 +2,7 @@
 title: Tweets/Branddís/Danmörk
 redirects:
 - Branddis Asrun/Einföld lausn á þessu máli. Við bjöllum
+tags: Tweets
 ---
 
 {{start|Tweets/Branddís/Danmörk}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

@@ -2,6 +2,7 @@
 title: Ha?
 redirects:
 - Ha
+tags: Words
 ---
 
 {{start|Ha?}}
@@ -24,6 +25,6 @@ Sometimes foreigners think "`ha?`" sounds too aggressive, like the person saying
 {{me|Ha? Það getur ekki verið.}}
 }}
 
-[[Category:Words]]
+
 {{end}}
 <noinclude>{{cc0}}</noinclude>

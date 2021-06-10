@@ -1,5 +1,6 @@
 ---
 title: Project:About
+tags: Ylhýra
 ---
 
 {{button|[mailto:ylhyra@ylhyra.is Contact us]}}
@@ -37,5 +38,5 @@ The website runs [[mediawikiwiki:MediaWiki|MediaWiki]] and the code is [https://
 *[[Project:Become a collaborator|Become a collaborator]]
 *[[Help:Adding material|How to add or edit material]]
 
-[[Category:Ylhýra]]
+
 __NOINDEX__

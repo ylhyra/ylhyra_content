@@ -6,6 +6,7 @@ redirects:
 - Kyn
 - Masculine
 - Neuter
+tags: Gender (sortkey: -1)
 ---
 
 {{start|Gender}}
@@ -32,5 +33,5 @@ See the effect a word’s gender has on the rest of the sentence:
 
 {{end}}
 
-<noinclude>[[Category:Gender| ]]</noinclude>
+<noinclude></noinclude>
 <noinclude>{{cc0}}</noinclude>

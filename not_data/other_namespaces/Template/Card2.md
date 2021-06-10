@@ -1,5 +1,6 @@
 ---
 title: Template:Card2
+tags: Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">
@@ -22,5 +23,5 @@ title: Template:Card2
 </div><noinclude>
 {{/docs}}
 == TILRAUN TIL AÐ SAMEINA ALLT ANNAÐ ==
-[[Category:Card templates]]
+
 </noinclude>

@@ -3,6 +3,8 @@ title: Búinn
 redirects:
 - Búin
 - Búið
+tags: Words
+tags: Word use
 ---
 
 {{start|Búinn}}<level a1/>    
@@ -27,7 +29,7 @@ Although the masculine "búinn" and feminine "búin" are written differently, th
 
 *[[Búinn vs. hef]]
 
-[[Category:Word use]]
-[[Category:Words]]
+
+
 {{cc0}}
 {{end}}

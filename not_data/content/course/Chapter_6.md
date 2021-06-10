@@ -1,5 +1,6 @@
 ---
 title: Chapter 6
+tags: Chapters
 ---
 
 {{start|Chapter 6}}
@@ -71,5 +72,5 @@ Hann er að keyra = He is driving
 Ég fíla ekki að hlaupa = I don't like running
 As you can see, að hlaupa is both used for to run and running.
 
-[[Category:Chapters]]
+
 {{end}}

@@ -1,5 +1,6 @@
 ---
 title: Eiginlega
+tags: Words
 ---
 
 <level b2/>
@@ -19,4 +20,3 @@ title: Eiginlega
 *`Hvað kostar '''eiginlega''' að láta senda hluti hingað frá Kína?`
 *`Langar þig ekkert í sund?` `– Nei, '''eiginlega''' ekki.`
 
-[[Category:Words]]

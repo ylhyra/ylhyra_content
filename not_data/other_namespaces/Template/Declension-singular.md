@@ -1,5 +1,6 @@
 ---
 title: Template:Declension-singular
+tags: Table templates
 ---
 
 {| class="wikitable"
@@ -15,4 +16,4 @@ title: Template:Declension-singular
 |-
 !<span style="font-size:12px">[[Fourth case|4th case]]</span>
 |{{is|{{{4|}}}}}
-|}<noinclude>[[Category:Table templates]]</noinclude>
+|}<noinclude></noinclude>

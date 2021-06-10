@@ -1,5 +1,7 @@
 ---
 title: Politeness
+tags: Subjunctive
+tags: Word use
 ---
 
 {{start|Politeness}}In Icelandic, the way to show politeness is:
@@ -52,8 +54,8 @@ This is ''very'' polite:
 
 <br />
 
-[[Category:Word use]]
-[[Category:Subjunctive]]
+
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

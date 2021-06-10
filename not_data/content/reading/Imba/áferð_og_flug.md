@@ -2,6 +2,8 @@
 title: Imba/áferð og flug
 redirects:
 - Imba/áferð og flugi
+tags: Imba
+tags: Poems
 ---
 
 {{start|Imba/áferð og flug}}
@@ -31,5 +33,4 @@ redirects:
 {{imba}}
 {{end}}
 
-[[Category:Poems]]
-[[Category:Imba]]
+

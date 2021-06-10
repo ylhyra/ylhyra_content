@@ -2,6 +2,7 @@
 title: Tweets/Branddís/Mössuð
 redirects:
 - Branddis Asrun/Á þessu ári ætla ég að verða svo ógeðslega
+tags: Tweets
 ---
 
 {{start|Tweets/Branddís/Mössuð}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

@@ -1,5 +1,6 @@
 ---
 title: Sofðu unga ástin mín
+tags: Poems
 ---
 
 {{start|Sofðu unga ástin mín}}
@@ -29,6 +30,6 @@ title: Sofðu unga ástin mín
 
 
 <noinclude>
-[[Category:Poems]]
+
 </noinclude>
 <noinclude>{{public domain}}</noinclude>

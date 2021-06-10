@@ -2,6 +2,7 @@
 title: Tweets/Branddís/Crossfit
 redirects:
 - Branddis Asrun/Sá stelpu í crossfit nota sandpappír
+tags: Tweets
 ---
 
 {{start|Tweets/Branddís/Crossfit}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

@@ -2,6 +2,7 @@
 title: Tweets/Ása/Kettir
 redirects:
 - Asabergny/Að banna lausagöngu katta er fáránleg
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Kettir}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

@@ -1,5 +1,6 @@
 ---
 title: Project:Eliza Reid
+tags: Project
 ---
 
 [[File:Eliza_Reid.jpg|thumb|199x199px]]
@@ -13,4 +14,3 @@ title: Project:Eliza Reid
 
 – [https://www.forseti.is/en/the-president/first-lady-eliza-reid/ Eliza Reid] forsetafrú, 2017
 
-[[Category:Project]]

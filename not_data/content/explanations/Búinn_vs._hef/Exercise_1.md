@@ -1,5 +1,6 @@
 ---
 title: Búinn vs. hef/Exercise 1
+tags: Exercises
 ---
 
 <level a2/>
@@ -173,5 +174,5 @@ $cob$
 
 {{end}}
 
-[[Category:Exercises]]
+
 <noinclude>{{cc0}}</noinclude>

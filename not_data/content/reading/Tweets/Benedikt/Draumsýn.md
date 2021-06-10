@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Draumsýn
 redirects:
 - Forseti2k32/draumsýn/ teikna blóm á daginn, veiða
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Draumsýn}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

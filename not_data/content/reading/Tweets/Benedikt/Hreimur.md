@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Hreimur
 redirects:
 - Forseti2k32/Ákveðinn sigur þegar innfæddir halda
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Hreimur}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

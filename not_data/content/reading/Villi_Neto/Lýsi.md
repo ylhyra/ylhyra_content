@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Lýsi
+tags: Videos
 ---
 
 {{start|Villi Neto/Lýsi}}
@@ -41,6 +42,6 @@ The children's packaging of fish oil contains a character who is cool, has a bas
 
 }}
 
-[[Category:Videos]]
+
 
 {{end}}

@@ -2,6 +2,7 @@
 title: Tweets/Ása/Sund
 redirects:
 - Asabergny/Hver sundferð er endurfæðing
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Sund}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

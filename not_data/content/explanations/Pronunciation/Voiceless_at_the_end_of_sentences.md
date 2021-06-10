@@ -2,6 +2,7 @@
 title: Voiceless at the end of sentences
 redirects:
 - Devoicing
+tags: Pronunciation
 ---
 
 {{start|Devoicing}}
@@ -22,7 +23,7 @@ So, at the end of a sentence:
 *The [[G#Soft%20G%20with%20the%20voice|soft G]] sound {{listen|audio=pron V-Qm.mp3}}becomes the [[G#Soft G without the voice|soft throaty G]] sound {{listen|audio=pron f4FN.mp3}}
 **{{listen|`Lö'''g''' eru lö'''g'''.`|audio=I3Il.mp3}}
 
-[[Category:Pronunciation]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

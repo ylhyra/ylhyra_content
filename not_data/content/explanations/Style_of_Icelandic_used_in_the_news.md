@@ -1,5 +1,6 @@
 ---
 title: Style of Icelandic used in the news
+tags: Culture
 ---
 
 {{start|Style of Icelandic used in the news}}
@@ -29,6 +30,6 @@ Other examples:
 
 </div>
 
-[[Category:Culture]]
+
 
 {{end}}

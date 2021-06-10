@@ -1,5 +1,6 @@
 ---
 title: Template:Disambiguation
+tags: Disambiguation pages
 ---
 
-<includeonly>__DISAMBIG__ [[Category:Disambiguation pages]]</includeonly>
+<includeonly>__DISAMBIG__ </includeonly>

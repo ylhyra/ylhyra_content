@@ -1,5 +1,6 @@
 ---
 title: Chapter 3
+tags: Chapters
 ---
 
 {{start|Chapter 3}}
@@ -47,5 +48,5 @@ Hvenær kemur þú til Íslands?Ég kem í febrúar.
 ===Notes===
 {{notelist}}
 
-[[Category:Chapters]]
+
 {{end}}

@@ -1,5 +1,6 @@
 ---
 title: Template:Write is en
+tags: Card templates
 ---
 
 {{card|
@@ -11,5 +12,5 @@ Translate to English:
 {{{english}}}
 
 }}<noinclude>
-[[Category:Card templates]]
+
 </noinclude>

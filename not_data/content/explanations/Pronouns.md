@@ -1,5 +1,7 @@
 ---
 title: Pronouns
+tags: Parts of speech
+tags: Pronouns (sortkey: -1)
 ---
 
 {{start|Pronouns}}{{non native}}
@@ -206,6 +208,6 @@ and between
 
 
 {{Parts of speech}}
-[[Category:Pronouns| ]]
-[[Category:Parts of speech]]
+
+
 {{end}}

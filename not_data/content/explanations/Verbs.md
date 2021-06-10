@@ -3,6 +3,8 @@ title: Verbs
 redirects:
 - Sagnorð
 - Verb
+tags: Verbs (sortkey: -1)
+tags: Parts of speech
 ---
 
 <level a1/>
@@ -53,6 +55,6 @@ This pattern is extremely common.
 {{reflist}}
 </div>
 {{Parts of speech}}
-[[Category:Parts of speech]]
-[[Category:Verbs| ]]
+
+
 {{end}}

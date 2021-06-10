@@ -1,5 +1,6 @@
 ---
 title: Vísur Vatnsenda-Rósu
+tags: Poems
 ---
 
 <level c1/>
@@ -51,4 +52,3 @@ Later in life, Rósa became a [[w:Midwife|midwife]].
 </div>
 
 <noinclude>{{public domain}}</noinclude>
-[[Category:Poems]]

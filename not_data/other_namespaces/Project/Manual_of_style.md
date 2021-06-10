@@ -1,5 +1,6 @@
 ---
 title: Project:Manual of style
+tags: Ylhýra
 ---
 
 These are recommendations for which style to follow when translating material:
@@ -13,4 +14,3 @@ The following are not currently standardized and will need to be decided on:
 *Should pronouns be translated in the context of Icelandic or English? That is, should „hún“ in „Ég drekk mjólk, hún er góð“ be translated as "she" or "it".
 *Should Icelandic quotation marks be used around Icelandic examples in English text?
 
-[[Category:Ylhýra]]

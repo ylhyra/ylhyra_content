@@ -2,6 +2,7 @@
 title: Tweets/Ása/Sjófánar
 redirects:
 - Asabergny/Í dag dundaði ég mér við að festa
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Sjófánar}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

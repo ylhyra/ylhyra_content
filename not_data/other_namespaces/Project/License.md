@@ -4,6 +4,7 @@ redirects:
 -  Project/Copyrights
 -  Project/Licence
 -  Project/Licensing
+tags: Ylhýra
 ---
 
 Ylhýra is an open collaborative project and tries to publish as much as it can under an [[W:Free-culture movement|open license]].
@@ -14,4 +15,3 @@ Ylhýra is an open collaborative project and tries to publish as much as it can 
 ==Software==
 
 [https://github.com/ylhyra/ylhyra Ylhýra's software] is published under the [https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3) GPLv3] license.[[File:Landmannalaugar2.jpg|thumb|center|600px|link=]]
-[[Category:Ylhýra]]

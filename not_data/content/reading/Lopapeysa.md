@@ -1,5 +1,6 @@
 ---
 title: Lopapeysa
+tags: Culture
 ---
 
 {{start|Lopapeysa}}
@@ -26,4 +27,3 @@ The [[w:Wool|wool]] of [[w:Icelandic sheep|Icelandic sheep]] that is to be used 
 
 {{end}}
 
-[[Category:Culture]]

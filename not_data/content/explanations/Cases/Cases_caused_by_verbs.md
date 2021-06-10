@@ -3,6 +3,8 @@ title: Cases caused by verbs
 redirects:
 - Cases/Verbs that cause cases
 - Verbs that cause cases
+tags: Verbs
+tags: cases
 ---
 
 kThis is a list of the most common verbs and which [[case]] they cause.
@@ -223,5 +225,4 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 
 *[[Prepositions that cause cases|Prepositions and the cases they cause]]
 
-[[Category:cases]]
-[[Category:Verbs]]
+

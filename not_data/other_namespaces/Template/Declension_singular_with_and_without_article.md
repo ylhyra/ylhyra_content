@@ -1,5 +1,6 @@
 ---
 title: Template:Declension singular with and without article
+tags: Table templates
 ---
 
 {| class="wikitable"
@@ -23,4 +24,4 @@ title: Template:Declension singular with and without article
 !{{ef}}
 |{{is|{{trim|{{{5|}}}}}}}
 |{{is|{{trim|{{{9|}}}}}}}
-|}<noinclude>[[Category:Table templates]]</noinclude>
+|}<noinclude></noinclude>

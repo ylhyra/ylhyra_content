@@ -1,5 +1,6 @@
 ---
 title: Project:Todo/Bakarí
+tags: Todo
 ---
 
 <!--
@@ -33,4 +34,3 @@ Kristín og Katrín eru systur. Þær eru báðar mjög svangar og ætla þess v
 „Meiri mjólk?“
 „Nei takk, þetta er fínt. Takk fyrir“
 
-[[Category:Todo]]

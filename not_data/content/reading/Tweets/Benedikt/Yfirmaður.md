@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Yfirmaður
 redirects:
 - Forseti2k32/Verði ég yfirmaður á vinnustað mun
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Yfirmaður}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

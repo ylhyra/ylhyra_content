@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Blundur
 redirects:
 - Forseti2k32/Finnst fólk almennt ekki gera sér
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Blundur}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

@@ -1,5 +1,7 @@
 ---
 title: Búinn vs. hef
+tags: Word use
+tags: Grammar
 ---
 
 <level a2/>
@@ -20,8 +22,8 @@ Examples:
 
 *[[Búinn vs. hef/Exercise 1|Búinn vs. hef – Exercise 1]]
 
-[[Category:Grammar]]
-[[Category:Word use]]
+
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

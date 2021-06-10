@@ -1,5 +1,6 @@
 ---
 title: Sitt hvor
+tags: Word use
 ---
 
 <level b2/>
@@ -59,4 +60,3 @@ In the mind of a native speaker, “sitt hvor” does not behave like two differ
 *Það er betra að þið mætið í '''sitt hvoru''' lagi.
 
 {{end}}
-[[Category:Word use]]

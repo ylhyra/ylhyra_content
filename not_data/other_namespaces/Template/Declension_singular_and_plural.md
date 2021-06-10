@@ -1,5 +1,6 @@
 ---
 title: Template:Declension singular and plural
+tags: Table templates
 ---
 
 {| class="wikitable"
@@ -23,4 +24,4 @@ title: Template:Declension singular and plural
 ![[Fourth case]]
 |{{small|[[helper words|til]]}} {{is|{{trim|{{{4|}}}}}}}
 |{{small|[[helper words|til]]}} {{is|{{trim|{{{8|}}}}}}}
-|}<noinclude>[[Category:Table templates]]</noinclude>
+|}<noinclude></noinclude>

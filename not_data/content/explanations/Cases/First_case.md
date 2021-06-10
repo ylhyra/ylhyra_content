@@ -7,6 +7,7 @@ redirects:
 - Nom
 - Nominative
 - Nominative case
+tags: Cases (sortkey: -1)
 ---
 
 {{start|First case}}
@@ -27,7 +28,7 @@ Examples:
 
 {{cases}}
 
-[[Category:Cases|-1]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

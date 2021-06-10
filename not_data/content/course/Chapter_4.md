@@ -1,5 +1,6 @@
 ---
 title: Chapter 4
+tags: Chapters
 ---
 
 {{start|Chapter 4}}
@@ -56,5 +57,5 @@ There are two ways to say “I want” in Icelandic:
 Ég held
 
 {{chapters}}
-[[Category:Chapters]]
+
 {{end}}

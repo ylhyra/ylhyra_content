@@ -1,5 +1,6 @@
 ---
 title: Project:Todo/Short texts
+tags: Todo
 ---
 
 ''Geared towards: beginner, no experience with languages''
@@ -60,4 +61,3 @@ Sundlaugarnar á Íslandi eru heitur með hiti frá hverum. Þess vegna er hægt
 
 Baldur throwing competition?
 
-[[Category:Todo]]

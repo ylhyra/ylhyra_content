@@ -1,5 +1,7 @@
 ---
 title: Imba/current mood
+tags: Poems
+tags: Imba
 ---
 
 <level b1/>
@@ -18,5 +20,4 @@ title: Imba/current mood
 }}
 {{end}}
 {{imba}}
-[[Category:Imba]]
-[[Category:Poems]]
+

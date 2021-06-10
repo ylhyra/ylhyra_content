@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Ingólfur
 redirects:
 - Forseti2k32/,,við minnumst Ingólfs Arnarsonar
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Ingólfur}}
@@ -23,5 +24,5 @@ This tweet is a quote to a song by singer-songwriter [[w:Megas|Megas]] (the Icel
 ==Notes==
 {{reflist}}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

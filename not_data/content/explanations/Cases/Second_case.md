@@ -6,6 +6,7 @@ redirects:
 - Þf
 - Þf.
 - Þolfall
+tags: Cases (sortkey: -2)
 ---
 
 {{start|Accusative case}}
@@ -43,7 +44,7 @@ The majority of [[Cases caused by verbs|verbs cause the second case]]. Among com
 *að vilja (to want)
 {{cases}}
 {{notes}}
-[[Category:Cases|-2]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

@@ -3,6 +3,8 @@ title: Adverbs
 redirects:
 - Adverb
 - Atviksorð
+tags: Nouns (sortkey: -1)
+tags: Parts of speech
 ---
 
 {{start|Adverbs}}
@@ -24,8 +26,8 @@ redirects:
 {{reflist}}
 </div>
 {{Parts of speech}}
-[[Category:Parts of speech]]
-[[Category:Nouns| ]]
+
+
 <noinclude>{{cc0}}</noinclude>
 
 {{end}}

@@ -2,6 +2,8 @@
 title: Tweets/Imba/Þjóðverjar
 redirects:
 - Skvisumus/Barnalegt af Þjóðverjum að vera ekki
+tags: Imba
+tags: Tweets
 ---
 
 {{start|Tweets/Imba/Þjóðverjar}}
@@ -17,8 +19,8 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
-[[Category:Imba]]
+
+
 </noinclude>
 
 {{reflist}}

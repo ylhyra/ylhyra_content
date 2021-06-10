@@ -1,5 +1,7 @@
 ---
 title: Í vs. á
+tags: Word use
+tags: Prepositions
 ---
 
 {{start|Í vs. á}}<level a1/>
@@ -58,8 +60,8 @@ title: Í vs. á
 *á Selfossi
 *á Seltjarnarnesi
 
-[[Category:Prepositions]]
-[[Category:Word use]]
+
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

@@ -3,6 +3,8 @@ title: Giving orders
 redirects:
 - Boðháttur
 - Imperative
+tags: Grammatical moods
+tags: Verbs
 ---
 
 {{start|Giving orders}}
@@ -97,8 +99,8 @@ Negative orders are easier, you just start them with "do not" (''ekki'') and the
 * Borðaðu grænmeti, '''ekki borða''' nammi.
 * '''Ekki gera''' þetta!{{end}}
 
-[[Category:Verbs]]
-[[Category:Grammatical moods]]
+
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

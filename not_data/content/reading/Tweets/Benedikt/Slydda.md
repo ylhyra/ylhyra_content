@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Slydda
 redirects:
 - Forseti2k32/Hef nokkuð áreiðanlegar heimildir
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Slydda}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

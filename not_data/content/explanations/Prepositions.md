@@ -3,6 +3,8 @@ title: Prepositions
 redirects:
 - Preposition
 - Prepositions that cause cases
+tags: Cases
+tags: Prepositions
 ---
 
 {{start|Prepositions that cause cases}} 
@@ -190,8 +192,8 @@ The [[third case]] can be seen in some word phrases:
 *Flugvélin fer yfir húsið {{þf}} = The airplane goes over the house. There is movement.
 *Flugvélin er yfir húsinu {{þgf}} = The airplane is above the house. There is ''no'' movement. {{end}} 
 
-[[Category:Prepositions]]
-[[Category:Cases]]
+
+
 <noinclude> {{cc0}} <br />
 
 == See also ==

@@ -1,5 +1,6 @@
 ---
 title: Hljóta
+tags: Words
 ---
 
 Hljóta means "gotta be".
@@ -45,5 +46,5 @@ Hljóta is irregular:
 |þau hlutu
 |they must
 |}
-[[Category:Words]]
+
 <noinclude>{{cc0}}</noinclude>

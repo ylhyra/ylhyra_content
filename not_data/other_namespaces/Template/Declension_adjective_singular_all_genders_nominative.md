@@ -1,5 +1,6 @@
 ---
 title: Template:Declension adjective singular all genders nominative
+tags: Table templates
 ---
 
 {| class="wikitable"
@@ -12,5 +13,5 @@ title: Template:Declension adjective singular all genders nominative
 |{{is|{{{2|}}}}}
 |{{is|{{{3|}}}}}
 |}<noinclude>
-[[Category:Table templates]]
+
 </noinclude>

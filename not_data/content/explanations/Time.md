@@ -1,5 +1,7 @@
 ---
 title: Time
+tags: Time
+tags: Word use
 ---
 
 <level a1/>
@@ -67,7 +69,7 @@ You do not need to know the following words, but you might hear them in formal s
 
 ==References==
 {{reflist}}
-[[Category:Word use]]
-[[Category:Time]]
+
+
 
 {{end}}

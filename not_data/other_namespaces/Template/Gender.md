@@ -1,5 +1,6 @@
 ---
 title: Template:Gender
+tags: Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">
@@ -12,5 +13,5 @@ title: Template:Gender
 <div data-name="audio" data-children="string">{{GetAudio|{{{icelandic|}}}}}</div>
 </div><noinclude>
 <nowiki>{{Gender|icelandic|icelandic with article|gender|</nowiki>
-[[Category:Card templates]]
+
 </noinclude>

@@ -2,6 +2,7 @@
 title: Skal
 redirects:
 - Skulu
+tags: Word use
 ---
 
 {{start|Skal}}
@@ -70,4 +71,3 @@ Students have a tendency to incorrectly use this verb because they are thinking 
 
 {{end}}
 {{cc0}}
-[[Category:Word use]]

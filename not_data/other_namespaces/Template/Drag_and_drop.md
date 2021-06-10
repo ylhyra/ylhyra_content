@@ -2,6 +2,7 @@
 title: Template:Drag and drop
 redirects:
 -  Template/Drag drop
+tags: Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">
@@ -18,5 +19,5 @@ redirects:
 <div data-name="notes">{{{notes|}}}</div>
 </div><noinclude>
 {{/docs}}
-[[Category:Card templates]]
+
 </noinclude>

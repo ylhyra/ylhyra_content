@@ -1,5 +1,6 @@
 ---
 title: Heyrðu
+tags: Word use
 ---
 
 {{start|Heyrðu}}
@@ -18,7 +19,7 @@ Examples:
 * Heyrðu, ég átti alltaf eftir að kíkja í kaffi til þín.
 * Heyrðu, [[hérna]], ég var að spá...
 
-[[Category:Word use]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

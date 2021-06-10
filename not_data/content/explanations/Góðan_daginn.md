@@ -2,6 +2,7 @@
 title: Góðan daginn
 redirects:
 - Daginn
+tags: Word use
 ---
 
 {{start|Góðan daginn}}
@@ -21,5 +22,5 @@ redirects:
 *'''`Góða kvöldið!`''' = “Good evening!”
 {{end}}
 
-[[Category:Word use]]
+
 <noinclude>{{cc0}}</noinclude>

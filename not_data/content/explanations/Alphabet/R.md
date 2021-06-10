@@ -2,6 +2,7 @@
 title: R
 redirects:
 - Breathy R#Breathy R
+tags: Pronunciation
 ---
 
 {{start|R}}There are two different R sounds in Icelandic. One is an R using the voice {{listen|audio=SpJM.mp3}}, and one is an R without using the voice {{listen|audio=iZyO.mp3}}.
@@ -56,7 +57,7 @@ The name of the letter is "err".
 {{notelist}}
 </div>
 
-[[Category:Pronunciation]]
+
 <level a1/>
 
 {{end}}

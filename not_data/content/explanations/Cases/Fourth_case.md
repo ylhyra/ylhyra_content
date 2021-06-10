@@ -6,6 +6,7 @@ redirects:
 - Gen
 - Genitive
 - Genitive case
+tags: Cases (sortkey: -4)
 ---
 
 {{start|Fourth case}}
@@ -33,7 +34,7 @@ It also appears in sentences showing ownership such as:
 {{cases}}
 {{notes}}
 
-[[Category:Cases|-4]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

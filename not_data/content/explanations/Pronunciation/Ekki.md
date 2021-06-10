@@ -1,5 +1,6 @@
 ---
 title: Ekki
+tags: Pronunciation
 ---
 
 {{start|Ekki}}
@@ -10,7 +11,7 @@ title: Ekki
 # When [[stress]]ed, it is pronounced /ehgyi/
 # When unstressed, it is pronounced /iggyi/
 
-[[Category:Pronunciation]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

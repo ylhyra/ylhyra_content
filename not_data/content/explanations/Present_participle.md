@@ -1,5 +1,6 @@
 ---
 title: Present participle
+tags: Verbs
 ---
 
 <level b1/>
@@ -44,4 +45,3 @@ These are [[nouns]]:
 {{reflist}}</div>
 {{cc0}}
 
-[[Category:Verbs]]

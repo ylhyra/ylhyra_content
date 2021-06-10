@@ -4,6 +4,7 @@ redirects:
 -
 - Disappearing vowel#Vowels that merge into the next vowel Disappearing vowels
 - Slurring
+tags: Pronunciation
 ---
 
 {{start|Disappearing sounds}}
@@ -119,7 +120,7 @@ Mmm, góð sána og góðir vinir
 Ég shnappaði bara -->
 
 
-[[Category:Pronunciation]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

@@ -3,6 +3,8 @@ title: Yes
 redirects:
 - Course/A1/Yes
 - Jú
+tags: Word use
+tags: Words
 ---
 
 {{start|Yes}}
@@ -148,6 +150,6 @@ It is usually used in casual conversations, where you are casually showing agree
 
 {{end|Yes}}
 <noinclude>
-[[Category:Words]]
-[[Category:Word use]]
+
+
 </noinclude>

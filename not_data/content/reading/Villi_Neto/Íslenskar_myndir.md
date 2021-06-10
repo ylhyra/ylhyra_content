@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Íslenskar myndir
+tags: Videos
 ---
 
 {{start|Villi Neto/Íslenskar myndir}}
@@ -59,6 +60,6 @@ This video is a joke about Icelandic film clichés. All Icelandic films are abou
 
 }}
 
-[[Category:Videos]]
+
 
 {{end}}

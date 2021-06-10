@@ -1,5 +1,6 @@
 ---
 title: Template:Write
+tags: Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">
@@ -15,5 +16,5 @@ title: Template:Write
 <div data-name="image" style="max-width:150px">{{#if: {{{image|}}} | [[{{trim|{{{image}}}}}{{!}}300px]] |}}</div>
 </div><noinclude>
 {{/docs}}
-[[Category:Card templates]]
+
 </noinclude>

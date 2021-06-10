@@ -4,6 +4,7 @@ redirects:
 - Case
 - Cases/Introduction
 - Course/A1/Introduction to cases
+tags: Cases (sortkey:   )
 ---
 
 {{start|Cases}}
@@ -45,7 +46,7 @@ The Icelandic cases can be compared to the different forms that English [[pronou
 *If you have studied German, do note that the standard way of showing the four German cases is ''[[nominative]], [[genitive]], [[dative]], [[accusative]]'' while in Icelandic the order is ''[[nominative]], [[accusative]], [[dative]], [[genitive]]''.
 </div>
 
-[[Category:Cases|  ]]
+
 {{end}}
 <noinclude>{{cc0}}</noinclude>
 

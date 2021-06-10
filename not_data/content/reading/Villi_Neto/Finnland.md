@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Finnland
+tags: Videos
 ---
 
 {{start|Villi Neto/Finnland}}
@@ -29,6 +30,6 @@ In this video, Villi imitates a Finnish visiting the swimming pool in Iceland. H
 }}
 }}
 
-[[Category:Videos]]
+
 
 {{end}}

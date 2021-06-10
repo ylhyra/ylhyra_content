@@ -1,5 +1,6 @@
 ---
 title: Template:Declension adjective singular all genders
+tags: Table templates
 ---
 
 {| class="wikitable"
@@ -28,4 +29,4 @@ title: Template:Declension adjective singular all genders
 |{{is|{{{4|}}}}}
 |{{is|{{{8|}}}}}
 |{{is|{{{12|}}}}}
-|}<noinclude>[[Category:Table templates]]</noinclude>
+|}<noinclude></noinclude>

@@ -2,6 +2,7 @@
 title: Tweets/Ása/Ormurinn
 redirects:
 - Asabergny/Ég er með harðsperrur eftir orminn.
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Ormurinn}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>{{reflist}} 
-[[Category:Tweets]]
+
 </noinclude>

@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Skata
+tags: Videos
 ---
 
 {{start|Villi Neto/Skata}}
@@ -30,6 +31,6 @@ title: Villi Neto/Skata
 }}
 }}
 
-[[Category:Videos]]
+
 
 {{end}}

@@ -1,5 +1,6 @@
 ---
 title: Fóstbræður
+tags: Culture
 ---
 
 {{start|Fóstbræður}}
@@ -16,5 +17,5 @@ Húmorinn í þessum þáttum er frekar skrýtinn, en við mælum með að horfa
 
 {{end}}
 
-[[Category:Culture]]
+
 <noinclude>{{cc0}}</noinclude>

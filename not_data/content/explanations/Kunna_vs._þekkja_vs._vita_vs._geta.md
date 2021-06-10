@@ -1,5 +1,6 @@
 ---
 title: Kunna vs. þekkja vs. vita vs. geta
+tags: Word use
 ---
 
 <level a1/>
@@ -20,5 +21,5 @@ Fill in the blanks using the above words:
 
 {{end}}
 
-[[Category:Word use]]
+
 <noinclude>{{cc0}}</noinclude>

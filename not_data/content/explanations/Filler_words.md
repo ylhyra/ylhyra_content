@@ -2,6 +2,7 @@
 title: Filler words
 redirects:
 - Hikorð
+tags: Word use
 ---
 
 *[[Hérna]]
@@ -10,4 +11,3 @@ redirects:
 *[[Sem sagt]]
 *[[Eiginlega]]
 
-[[Category:Word use]]

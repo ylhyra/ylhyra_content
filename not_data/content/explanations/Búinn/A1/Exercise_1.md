@@ -1,5 +1,6 @@
 ---
 title: Búinn/A1/Exercise 1
+tags: Exercises
 ---
 
 <level a1/>
@@ -121,4 +122,3 @@ $cob$<!-- PAST TENSE
 Ég var búinn að gleyma því
 að þú sért búinn að koma þér -->
 
-[[Category:Exercises]]

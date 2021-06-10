@@ -2,6 +2,7 @@
 title: Tweets/Branddís/Köttur
 redirects:
 - Branddis Asrun/Kötturinn minn er alltaf að kúka á
+tags: Tweets
 ---
 
 {{start|Tweets/Branddís/Köttur}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

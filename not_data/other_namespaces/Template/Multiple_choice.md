@@ -1,5 +1,6 @@
 ---
 title: Template:Multiple choice
+tags: Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">
@@ -17,5 +18,5 @@ title: Template:Multiple choice
 <div data-name="show_english" data-children="boolean">{{{show_english|}}}</div>
 </div><noinclude>
 {{/docs}}
-[[Category:Card templates]]
+
 </noinclude>

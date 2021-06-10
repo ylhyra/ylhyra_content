@@ -2,6 +2,7 @@
 title: Explanations
 redirects:
 - Explanation
+tags: Content
 ---
 
 {{start|Explanations}}
@@ -19,7 +20,7 @@ redirects:
 
 *[[How to learn a language]]
 *[[How to use Ylhýra|Using ''Ylhýra'']]
-*[[:Category:Content|List of all pages]]
+<!--*[[:Category:Content|List of all pages]]-->
 *[[Course/A1/About Icelandic|About Icelandic]]
 *[[Alphabet and pronunciation]] <level a1/>
 **[[R]] <level a1/>
@@ -95,4 +96,3 @@ __INDEX__
 
 {{end}}
 
-[[Category:Content]]

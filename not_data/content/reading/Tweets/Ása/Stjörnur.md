@@ -2,6 +2,7 @@
 title: Tweets/Ása/Stjörnur
 redirects:
 - Asabergny/Óska eftir félaga til að horfa með
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Stjörnur}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

@@ -2,6 +2,7 @@
 title: Tweets/Benedikt/Ber
 redirects:
 - Forseti2k32/þegar árið 2016 er gert upp má ekki
+tags: Tweets
 ---
 
 {{start|Tweets/Benedikt/Ber}}
@@ -19,5 +20,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

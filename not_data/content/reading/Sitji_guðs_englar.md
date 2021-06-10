@@ -2,6 +2,7 @@
 title: Sitji guðs englar
 redirects:
 - Text/Sitji guðs englar
+tags: Poems
 ---
 
 [[File:Loftmynd.jpeg|thumb]]
@@ -24,5 +25,5 @@ This is an evening prayer commonly recited for children. It was written around 1
 '''Notes'''
 {{reflist}}
 </div>
-[[Category:Poems]]
+
 <noinclude>{{public domain}}</noinclude>

@@ -2,6 +2,7 @@
 title: Tweets/Kristín Ólafs/Unglingar
 redirects:
 - Krolafs/Það er unglingur hér fyrir utan Hagaskóla
+tags: Tweets
 ---
 
 {{start|Tweets/Kristín Ólafs/Unglingar}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

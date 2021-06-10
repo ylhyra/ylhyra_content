@@ -3,6 +3,7 @@ title: Þúfa
 redirects:
 - Þúfan
 - Þúfur
+tags: Culture
 ---
 
 {{start|Þúfa}}
@@ -40,4 +41,3 @@ Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður 
 {{end}}
 {{cc0}}
 
-[[Category:Culture]]

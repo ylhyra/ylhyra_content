@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Kaffi
+tags: Videos
 ---
 
 {{start|Villi Neto/Kaffi}}
@@ -23,4 +24,3 @@ title: Villi Neto/Kaffi
 
 {{end}}
 
-[[Category:Videos]]

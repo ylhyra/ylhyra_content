@@ -1,5 +1,6 @@
 ---
 title: Z
+tags: Pronunciation
 ---
 
 {{start|Z}}
@@ -7,4 +8,3 @@ The letter '''Z''' (`zeta`) was previously used in words like `íslenzka`, but i
 
 {{end}}
 
-[[Category:Pronunciation]]

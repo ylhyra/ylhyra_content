@@ -1,5 +1,0 @@
----
-title: MediaWiki:Mainpage
----
-
-Ylhýra

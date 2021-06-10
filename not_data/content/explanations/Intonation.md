@@ -1,5 +1,6 @@
 ---
 title: Intonation
+tags: Pronunciation
 ---
 
 {{start|Intonation}}<level a2/>
@@ -62,7 +63,7 @@ More examples:
 **Takk <sup>kær</sup> <sub>lega fyrir</sub>
 **Takk kærlega <sup>fyr</sup><sub>ir</sub>
 
-[[Category:Pronunciation]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

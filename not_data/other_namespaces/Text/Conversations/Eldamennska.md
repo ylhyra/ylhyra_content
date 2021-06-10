@@ -2,6 +2,7 @@
 title: Text:Conversations/Eldamennska
 redirects:
 -  Conversations/Eldamennska
+tags: Conversations (sortkey: A1)
 ---
 
 
@@ -20,6 +21,6 @@ redirects:
 {{me|Frábært, þá seturðu allt saman í skál og leggur síðan á borðið. Pastað er alveg að verða tilbúið.}}
 
 }}<noinclude>
-[[Category:Conversations|A1]]
+
 </noinclude>
 {{end}}

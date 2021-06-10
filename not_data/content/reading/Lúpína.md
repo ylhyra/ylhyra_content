@@ -1,5 +1,6 @@
 ---
 title: Lúpína
+tags: Culture
 ---
 
 {{start|Lúpína}}
@@ -36,5 +37,5 @@ Sources:
 
 {{end}}
 
-[[Category:Culture]]
+
 <noinclude>{{cc0}}</noinclude>

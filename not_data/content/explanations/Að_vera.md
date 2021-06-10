@@ -1,5 +1,6 @@
 ---
 title: Að vera
+tags: Verbs
 ---
 
 {{start|Að vera}}
@@ -23,5 +24,5 @@ title: Að vera
 | colspan="3" |ég hef '''verið'''
 |}
 
-[[Category:Verbs]]
+
 {{end}}

@@ -2,6 +2,7 @@
 title: Subjunctive/Exercise 1
 redirects:
 - Viðtengingarháttur/Exercise 1
+tags: Exercises
 ---
 
 {{start|Viðtengingarháttur/Exercise 1}}
@@ -94,4 +95,3 @@ $cob$
 
 {{end}}
 
-[[Category:Exercises]]

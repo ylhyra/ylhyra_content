@@ -1,5 +1,6 @@
 ---
 title: Chapter 2
+tags: Chapters
 ---
 
 {{start|Chapter 2}}
@@ -21,5 +22,5 @@ title: Chapter 2
 {{:Text:Gender/Vocabulary}}
 
 
-[[Category:Chapters]]
+
 {{end}}

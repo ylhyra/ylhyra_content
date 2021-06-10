@@ -1,5 +1,6 @@
 ---
 title: Text:Gylfaginning
+tags: Text
 ---
 
 https://docs.google.com/document/d/1Zaxz54OOpkNhoNIU8ad62QftcbEMuIlraSQ6054_gAM/edit
@@ -159,4 +160,3 @@ Gangleri spyr þá meira: „Hvað gerði Alföður eiginlega áður en himininn
 
 == English ==
 http://www.sacred-texts.com/neu/pre/pre04.htm
-[[Category:Text]]

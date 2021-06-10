@@ -2,6 +2,8 @@
 title: Tweets/Imba/Ligeglad
 redirects:
 - Skvisumus/Lífið snýst um að vera nógu ligeglad
+tags: Imba
+tags: Tweets
 ---
 
 {{start|Tweets/Imba/Ligeglad}}
@@ -24,6 +26,6 @@ redirects:
 "Ligeglad" is a loan word from Danish and describes the very Danish behavior of not stressing about life. Using Danish words in Icelandic is usually done in a somewhat joking manner, but you'll still hear it from time to time.
 
 {{end}}<noinclude>
-[[Category:Tweets]]
-[[Category:Imba]]
+
+
 </noinclude>

@@ -2,6 +2,7 @@
 title: How to learn a language
 redirects:
 - Course/A1/How to learn a language
+tags: Content
 ---
 
 {{start|How to learn a language}}
@@ -49,5 +50,5 @@ In any case, you should begin practicing the slurredness of Icelandic pronunciat
 
 {{end}}
 {{cc0}}
-[[Category:Content]]
+
 __INDEX__

@@ -2,6 +2,8 @@
 title: Náttúrulega
 redirects:
 - Náttla
+tags: Word use
+tags: Pronunciation
 ---
 
 {{start|Náttúrulega}}
@@ -283,8 +285,8 @@ Notes:
 {{game container end}}
 
 
-[[Category:Pronunciation]]
-[[Category:Word use]]
+
+
 
 {{end}}
 

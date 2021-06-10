@@ -9,6 +9,7 @@ redirects:
 - C1#C1
 - C2#C2 CEFR
 - Levels
+tags: Difficulty levels (sortkey: -1)
 ---
 
 {{start|Difficulty scale}}
@@ -59,5 +60,5 @@ The difficulty scale we use is the European language proficiency scale, known as
 
 {{end}}
 
-[[Category:Difficulty levels| ]]
+
 <!--<noinclude>{{ccbysa}}</noinclude>-->

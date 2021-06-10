@@ -2,6 +2,7 @@
 title: Texts
 redirects:
 - Text
+tags: Content
 ---
 
 {{start|Texts}}
@@ -116,6 +117,6 @@ __INDEX__
 
 {{Mailchimp}}
 
-[[Category:Content]]
+
 
 {{end}}

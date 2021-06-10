@@ -2,6 +2,7 @@
 title: Tweets/Ólafur/Ólæs
 redirects:
 - Kjamanden/Fyrir 20 árum var ég ólæs og kunni
+tags: Tweets
 ---
 
 {{start|Tweets/Ólafur/Ólæs}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

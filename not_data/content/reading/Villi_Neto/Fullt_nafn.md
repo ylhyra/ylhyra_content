@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Fullt nafn
+tags: Videos
 ---
 
 {{start|Villi Neto/Fullt nafn}}
@@ -28,4 +29,3 @@ Já...
 }}
 {{end}}
 
-[[Category:Videos]]

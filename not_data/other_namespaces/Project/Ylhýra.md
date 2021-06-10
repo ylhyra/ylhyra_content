@@ -2,6 +2,7 @@
 title: Project:Ylhýra
 redirects:
 -  Project
+tags: Ylhýra
 ---
 
 {{#addbodyclass:small_text}}
@@ -137,7 +138,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 *[[Special:NewPages]]
 
-[[Category:Ylhýra]]
+
 
 == Todo varðandi beyginar ==
 

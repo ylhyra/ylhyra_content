@@ -3,6 +3,8 @@ title: Adjectives
 redirects:
 - Adjective
 - Lýsingarorð
+tags: Adjectives (sortkey: -1)
+tags: Parts of speech
 ---
 
 '''Adjectives''' (lýsingarorð) are the words that describe things, such as ''interesting'', ''funny'', and ''difficult''.
@@ -28,6 +30,6 @@ There is yet another thing that complicates adjectives. They have two different 
 '''Notes'''
 {{reflist}}
 </div>
-[[Category:Parts of speech]]
-[[Category:Adjectives| ]]
+
+
 <noinclude>{{cc0}}</noinclude>

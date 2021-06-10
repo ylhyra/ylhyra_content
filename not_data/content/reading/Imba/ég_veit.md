@@ -1,5 +1,7 @@
 ---
 title: Imba/ég veit
+tags: Imba
+tags: Poems
 ---
 
 <level b2/>
@@ -31,5 +33,4 @@ title: Imba/ég veit
 {{end}}
 {{imba}}
 
-[[Category:Poems]]
-[[Category:Imba]]
+

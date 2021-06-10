@@ -1,7 +1,8 @@
 ---
 title: Template:Card
+tags: Card templates
 ---
 
 <div class=card>{{{1|}}}</div><noinclude>
-[[Category:Card templates]]
+
 </noinclude>

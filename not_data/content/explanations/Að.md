@@ -1,5 +1,6 @@
 ---
 title: Að
+tags: Words
 ---
 
 {{start|Að}}
@@ -39,6 +40,6 @@ This is the basic form of verbs, known as the [[infinitive]]:
 *Kötturinn er úti '''að''' nóttu til.
 *'''Að''' lokum endaði allt vel.
 
-[[Category:Words]]
+
 {{end}}
 <noinclude>{{cc0}}</noinclude>

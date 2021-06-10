@@ -2,6 +2,7 @@
 title: Tweets/Ása/Íslenskar bíómyndir
 redirects:
 - Asabergny/Einhvern veginn finnst mér flestar
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Íslenskar bíómyndir}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

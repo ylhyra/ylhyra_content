@@ -1,5 +1,6 @@
 ---
 title: Cases/A1/Exercise 1
+tags: Exercises
 ---
 
 <level a1/>
@@ -78,4 +79,3 @@ The word "er" causes the first case.
 
 {{cc0}}
 
-[[Category:Exercises]]

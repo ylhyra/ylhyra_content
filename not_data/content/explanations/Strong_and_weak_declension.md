@@ -7,6 +7,7 @@ redirects:
 - Veik beyging
 - Weak
 - Weak declension
+tags: Adjectives
 ---
 
 '''Strong declension''' is a declension pattern in which the words end in a consonant at least some of the time. In '''weak declension''', all of the word forms end in a vowel (for example, ending in a, e, i, o, u).
@@ -154,4 +155,3 @@ Weak declension
 
 
 {{end}}
-[[Category:Adjectives]]

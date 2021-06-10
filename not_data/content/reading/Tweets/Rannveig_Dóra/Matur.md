@@ -2,6 +2,7 @@
 title: Tweets/Rannveig Dóra/Matur
 redirects:
 - Rannveigdora/Maturinn er tilbúinn
+tags: Tweets
 ---
 
 {{start|Tweets/Rannveig Dóra/Matur}}
@@ -19,5 +20,5 @@ Uppáhalds setningin mín í lífinu
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

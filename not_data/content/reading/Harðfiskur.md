@@ -3,6 +3,7 @@ title: Harðfiskur
 redirects:
 - Text/A1/Harðfiskur
 - Text/A2/Harðfiskur
+tags: Culture
 ---
 
 {{start|Harðfiskur}}
@@ -20,7 +21,7 @@ Oft borðar maður harðfisk með smjöri. Það eru líka til litlir harðfiskb
 
 Öllum finnst harðfiskur góður, en það er því miður ekki hægt að borða harðfisk í skólanum eða í vinnunni af því að það er svo sterk lykt af honum. Lyktin er ekki vond, hún er bara sterk.
 {{book end}}
-[[Category:Culture]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

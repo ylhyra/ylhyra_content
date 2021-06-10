@@ -2,6 +2,7 @@
 title: Tweets/Ása/Lykt
 redirects:
 - Asabergny/Ég lykta svo vel í dag að ég vorkenni
+tags: Tweets
 ---
 
 {{start|Tweets/Ása/Lykt}}
@@ -17,5 +18,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

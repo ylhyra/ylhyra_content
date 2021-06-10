@@ -2,6 +2,7 @@
 title: Resources
 redirects:
 - Project/Helpful links
+tags: Content
 ---
 
 {{start|Resources}}
@@ -180,6 +181,6 @@ redirects:
 *[https://www.mcc.is/enska-forsida/ Guide to immigration]
 *[https://notendur.hi.is/haukurth/norse/ Introductory guide to Old Norse]
 
-[[Category:Content]]
+
 
 {{end}}

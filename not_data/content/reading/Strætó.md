@@ -1,5 +1,6 @@
 ---
 title: Strætó
+tags: Culture
 ---
 
 {{start|Strætó}}
@@ -19,5 +20,5 @@ Allavega, á Íslandi eru hvorki til lestir né neðanjarðarlestir (það búa 
 '''Further reading'''
 * [[-ó endings|A list of words with -ó endings]]
 
-[[Category:Culture]]
+
 <noinclude>{{cc0}}</noinclude>

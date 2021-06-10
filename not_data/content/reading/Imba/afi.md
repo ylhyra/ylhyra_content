@@ -1,5 +1,7 @@
 ---
 title: Imba/afi
+tags: Imba
+tags: Poems
 ---
 
 <level b1/>
@@ -38,5 +40,4 @@ title: Imba/afi
 {{book end}}
 {{end}}
 
-[[Category:Poems]]
-[[Category:Imba]]
+

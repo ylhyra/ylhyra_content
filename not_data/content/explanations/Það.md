@@ -1,5 +1,7 @@
 ---
 title: Það
+tags: Word use
+tags: Words
 ---
 
 {{start|Það}}
@@ -11,5 +13,4 @@ title: Það
 {{Disambiguation}}
 {{end}}
 
-[[Category:Words]]
-[[Category:Word use]]
+

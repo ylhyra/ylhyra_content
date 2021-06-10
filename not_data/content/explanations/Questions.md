@@ -2,6 +2,7 @@
 title: Questions
 redirects:
 - Question
+tags: Questions
 ---
 
 =Questions=
@@ -38,4 +39,3 @@ Like in English, the [[Word order|word order]] changes to indicate that a senten
 * Þessi hamborgari er góður. = This hamburger is good.
 * Er þessi hamborgari góður? = Is this hamburger good?
 
-[[Category:Questions]]

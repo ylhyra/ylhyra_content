@@ -2,6 +2,7 @@
 title: Tweets/Þorsteinn/Afi
 redirects:
 - Kristnihald/Þú þarft virkilega að gera eitthvað
+tags: Tweets
 ---
 
 {{start|Tweets/Þorsteinn/Afi}}
@@ -18,5 +19,5 @@ redirects:
 |verified=
 }}
 {{end}}<noinclude>
-[[Category:Tweets]]
+
 </noinclude>

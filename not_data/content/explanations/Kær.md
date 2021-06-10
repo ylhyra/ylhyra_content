@@ -3,6 +3,8 @@ title: Kær
 redirects:
 - Kæri
 - Kærlega
+tags: Word use
+tags: Words
 ---
 
 <level a1/>
@@ -18,6 +20,6 @@ It is used in the following words and phrases:
 *'''Kærasti / kærasta''' (boyfriend / girlfriend) – The Icelandic word for boyfriend / girlfriend is just "my dearest".
 
 {{end}}
-[[Category:Words]]
-[[Category:Word use]]
+
+
 <noinclude>{{cc0}}</noinclude>

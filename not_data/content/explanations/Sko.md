@@ -1,5 +1,6 @@
 ---
 title: Sko
+tags: Words
 ---
 
 <level a2/>
@@ -34,6 +35,6 @@ Examples:
 
 == Footnotes ==
 {{reflist}}
-[[Category:Words]]
+
 
 {{end}}

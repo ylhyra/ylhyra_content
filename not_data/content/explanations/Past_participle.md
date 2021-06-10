@@ -4,6 +4,7 @@ redirects:
 - Lhþt
 - Lýsingarháttur þátíðar Sagnbót#Sagnbót
 - Supine#Sagnbót
+tags: Verbs
 ---
 
 <level a1/>
@@ -125,4 +126,3 @@ The words listed above are the most important past participle forms that you nee
 
 {{cc0}}
 
-[[Category:Verbs]]

@@ -1,5 +1,6 @@
 ---
 title: Færeyjar
+tags: Culture
 ---
 
 {{start|Færeyjar}}
@@ -23,7 +24,7 @@ Mér finnst Færeyingar vera eins og litlu frændur okkar af því að þeir eru
 {{book end}}
 [[File:Faroe Islands Føroyar Færøerne Wyspy Owcze 2019 (1).jpg|center|467x467px]]
  
-[[Category:Culture]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

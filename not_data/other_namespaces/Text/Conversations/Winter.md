@@ -2,6 +2,7 @@
 title: Text:Conversations/Winter
 redirects:
 -  Conversations/Winter
+tags: Conversations (sortkey: A1 01)
 ---
 
 {{start|Text:Conversations/Winter}}
@@ -15,6 +16,6 @@ redirects:
 {{them|Er bakaríið opið í dag?}}
 {{me|Já, það er alltaf opið.}}
 }}{{end}}<noinclude>
-[[Category:Conversations|A1 01]]
+
 </noinclude>
 <noinclude>{{cc0}}</noinclude>

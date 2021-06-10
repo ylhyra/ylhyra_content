@@ -5,6 +5,7 @@ redirects:
 - Dative case
 - Þgf
 - Þágufall
+tags: Cases (sortkey: -3)
 ---
 
 {{start|Dative case}}
@@ -44,7 +45,7 @@ And these prepositions can either cause the [[Second case|second]] or the third 
 <br />{{cases}}
 {{notes}}
 
-[[Category:Cases|-3]]
+
 
 {{end}}
 <noinclude>{{cc0}}</noinclude>

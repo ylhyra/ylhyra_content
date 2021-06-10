@@ -1,5 +1,6 @@
 ---
 title: Chapter 1
+tags: Chapters
 ---
 
 {{start|Chapter 1}}In this chapter you'll see a few short texts that you should be able to understand by reading slowly and by clicking on the words to see their translations. Listen to the audio recordings a few times to get a feel for the pronunciation.
@@ -48,4 +49,3 @@ To wrap up Chapter 1, listen to the 2019 hit song `Veist af mér` by Huginn.
 *[https://www.youtube.com/watch?v=NrFXCSsEy_M YouTube]
 
 {{chapters}}-->
-[[Category:Chapters]]

@@ -5,6 +5,7 @@ redirects:
 - Icelandic alphabet
 - Pronunciation
 - Spelling
+tags: Pronunciation
 ---
 
 {{start|Alphabet and pronunciation}}
@@ -76,7 +77,7 @@ While these letters and letter clusters are a mixture of two sounds:
 *[[Disappearing sounds]]
 *[[Intonation]]
 
-[[Category:Pronunciation]]
+
 
 <noinclude>{{cc0}}</noinclude>
 

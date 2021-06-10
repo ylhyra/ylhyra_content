@@ -1,5 +1,7 @@
 ---
 title: Project:Work in progress/Culture
+tags: Todo
+tags: Culture
 ---
 
 {{start|Culture}}
@@ -90,6 +92,6 @@ title: Project:Work in progress/Culture
 *Greenland
 *Shared Nordic culture
 
-[[Category:Culture]]
-[[Category:Todo]]
+
+
 {{end}}

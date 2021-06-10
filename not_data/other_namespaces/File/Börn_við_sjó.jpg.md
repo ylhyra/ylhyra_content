@@ -1,5 +1,6 @@
 ---
 title: File:Börn við sjó.jpg
+tags: drawings
 ---
 
 == Summary ==
@@ -7,4 +8,3 @@ title: File:Börn við sjó.jpg
 
 https://www.metmuseum.org/art/collection/search/392216
 https://creativecommons.org/licenses/CC0/1.0/?ref=ccsearch&atype=rich
-[[Category:drawings]]

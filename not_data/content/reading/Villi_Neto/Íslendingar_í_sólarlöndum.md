@@ -1,5 +1,6 @@
 ---
 title: Villi Neto/Íslendingar í sólarlöndum
+tags: Videos
 ---
 
 {{start|Villi Neto/Íslendingar í sólarlöndum}}
@@ -35,4 +36,3 @@ Eruð þið að fara á ströndina? Heyrðu, ókei, ég kem eftir smá, ég þar
 }}
 {{end}}
 
-[[Category:Videos]]
