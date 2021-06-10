@@ -29,16 +29,12 @@ You can duplicate the words to be more casual. "Já já" means "yeah sure" like 
 * jú jú = yeah sure (responding to a negative question, more casual than just "jú")
 * nei nei = nah (more casual than just "nei")
 
-<br />
-
 * 1|Er þetta gott?
 * 2|Já já, þetta er ágætt. 
 * 1|Er þetta ekki gott?
 * 2|Jú jú, þetta er ágætt.
 * 1|Ætlar þú að koma á eftir?
 * 2|Nei, ég ætla ekki að koma á eftir.
-
-<br />
 
 == Vocabulary ==
 

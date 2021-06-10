@@ -220,8 +220,6 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að njóta
 **„Njóttu sumarfrísins.“
 
-<br />
-
 ==See also==
 
 *[[Prepositions that cause cases|Prepositions and the cases they cause]]

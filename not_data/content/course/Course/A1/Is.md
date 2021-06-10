@@ -16,7 +16,6 @@ Where are you from? Can you make a sentence?
 *Hann er að tala íslensku. ''He is speaking Icelandic.''
 
 The verb 'to be' changes, just like in English:
-<br />
 {| class="wikitable"
 |+To be
 !English

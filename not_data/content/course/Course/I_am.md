@@ -73,14 +73,11 @@ Practice pronouncing the following by exaggerating the length of "mjög" and "g�
 
 *Ég er mjög góð í íslensku. /<u>é er mjuööö goooúð í íslensku</u>/
 
-<br />
-
 *1|Er þetta gott?
 *2|Já, þetta er mjög gott.
 *1|Ert þú góður í íslensku?
 *2|Já, ég er mjög góður í íslensku.
 
-<br />
 <br />
 
 == Excercises ==

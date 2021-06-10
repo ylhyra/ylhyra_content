@@ -27,8 +27,6 @@ Remember that "rn" is pronounced "dn", so "hérna" is pronounced /hédna/.
 *þú b'''ý'''rð = you live somewhere, you reside
 *hann b'''ý'''r = he lives somewhere, he resides
 
-<br />
-
 *1|Hérna, hvar býrð þú?
 *2|Ég bý hérna í Reykjavík.
 *1|Ah, ókei.

@@ -27,7 +27,6 @@ Automatic translations and dictionary definitions are beneficial, but manual tra
 |til
 |boða.
 |}
-<br />
 |-
 !Manual word-for-word translations
 |-

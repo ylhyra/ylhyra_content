@@ -4,8 +4,6 @@ title: Project:Sound shift
 
 '''Sound shifts''' (or '''umlauts''')
 
-<br />
-
 *a -> u
 *a -> ö   fara>förum, mamma>mömmu, glaður>glöð, staður>stöðum
 *a → e   fara>fer, eigandi>eigendur

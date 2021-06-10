@@ -23,7 +23,6 @@ Núna er lúpínan út um allt. Núll komma þrjú prósent landsins er ekkert n
 Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo falleg að þeim er alveg sama þó að hún taki yfir. 
 </Book>
 
-<br />
 <div class="notes">
 Sources:
 

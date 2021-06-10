@@ -112,4 +112,4 @@ tags:
 **[[Tweets/Þorsteinn/Alþingi|Alþingi]] by Þorsteinn
 **[[Tweets/Ása/Sjófánar|Sjófánar]] by Ása<!--{{needs audio}}-->
 
-{{Mailchimp}}
+<!-- {{Mailchimp}} -->

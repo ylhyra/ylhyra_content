@@ -14,11 +14,11 @@ After greeting someone, you then ask them how they are:
 
 *„Hvað segir þú gott?“ = How are you?
 
-The phrase literally means "What do you say that is good?".   
+The phrase literally means "What do you say that is good?". 
 
-You can see several new things regarding pronunciation in this phrase:  
+You can see several new things regarding pronunciation in this phrase: 
 
-*'''hv''' is always pronounced '''kv''', meaning "hvað" is pronounced /kvað/.  The [[K]] sound {{listen|audio=8dpU.mp3}} in Icelandic has a slightly stronger outgoing breath of air (exhalation) than in English, if you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth after the K sound in "hvað", making a /kʰvað/.
+*'''hv''' is always pronounced '''kv''', meaning "hvað" is pronounced /kvað/. The [[K]] sound {{listen|audio=8dpU.mp3}} in Icelandic has a slightly stronger outgoing breath of air (exhalation) than in English, if you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth after the K sound in "hvað", making a /kʰvað/.
 *The letter [[Ð|'''Ð'''/'''ð''']] is a [[D]] with a line through it, and it makes the sound of the English word "''<b>th</b>en''". It's a very soft letter, it's often so soft that it disappears completely. Indeed, in the word "hvað" it is so soft that it just disappears. We now see that "hvað" is pronounced /kʰva/.
 *'''[[G]]''' is sometimes a soft letter in Icelandic, in the word "segir" it makes the sound {{listen|audio=tDNq.mp3}} of "'''''y'''es''". The word "segir" is therefore pronounced /se'''y'''ir/.
 *'''[[Þ]]''' is a letter you've not seen before, it is unrelated to the letter [[P]] and only exists in Icelandic. It makes the same sound as in the English ''“'''th'''ick”''.
@@ -65,8 +65,6 @@ Putting it all together, this is the conversation you will have a few thousand t
 {{them|Gott.}}
 }}
 
-<br />
-
 ==And how is your mother doing?==
 The way to say "your mom" is "mamma þín" ("''mom your''"):
 
@@ -79,8 +77,6 @@ This is a friendly question asking about the well-being of your mother. The resp
 Notice that "þín" (your) and "mín" (my) look the same except for the first letter. You can alternatively respond:
 
 *Hún segir allt gott. = She's doing well. ("She says everything good.")
-
-<br />
 
 {{conversation|
 {{them|Hæ.}}

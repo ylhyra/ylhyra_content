@@ -29,7 +29,5 @@ Examples:
 *Ég kann sko ekki á PowerPoint.
 *Þið ljóðskáldin, sko.
 
-<br />
-
 == Footnotes ==
 {{reflist}}

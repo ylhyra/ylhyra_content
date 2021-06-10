@@ -62,7 +62,6 @@ Some old phrases still survive where the meaning is still the English "shall". I
 
 Students have a tendency to incorrectly use this verb because they are thinking in English. They might for example incorrectly say „Skulum við byrja?“ ("Shall we start"), but what they should say is „Eigum við að byrja?“. Another example would be the incorrect „Skal ég fara?“ when what they want to say is „Á ég að fara?“.
 </div>
-<br />
 
 <div class="notes">
 '''Notes''':

@@ -1,8 +1,7 @@
 ---
 title: Text:Introduction to Icelandic politics
+status: draft
 ---
-
-{{May contain errors}}
 
 Ísland er lýðræðislýðveldi. 'Lýðræði' þýðir að '''ís'''lendingar geta '''kjósið''' fulltrúa sem koma '''þeirra fram fyrir hönd <u>í</u>''' Alþingi. 'Lýðveldi' þýðir að Ísland hefur líka fors'''eti'''. Forse'''tin''' er þjóðarleiðtogi. 
 

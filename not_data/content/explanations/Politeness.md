@@ -50,4 +50,3 @@ This is ''very'' polite:
 
 :`'''Værirðu''' til í að koma á morgun?`
 
-<br />

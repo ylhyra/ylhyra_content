@@ -6,7 +6,7 @@ tags:
 - Content
 ---
 
-{{image|Landmannalaugar2.jpg|thumb}}
+[[{{image|Landmannalaugar2.jpg|thumb}}
 ==External resources==
 
 *[[Resources]]
@@ -93,3 +93,4 @@ tags:
 
 {{button|[[Game:Kyn|Learn the Icelandic genders]]}}
 
+]]

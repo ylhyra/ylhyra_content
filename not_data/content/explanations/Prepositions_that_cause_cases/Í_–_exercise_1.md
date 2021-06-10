@@ -24,7 +24,6 @@ Explanation:
 *`Ég fór í úlpuna` ([[þolfall]]) means "I put my jacket on" because þolfall implies you are going into something. The subject is moving relative to the object, the object is static.
 *`Ég fór í úlpunni` ([[þágufall]]) means "I went somewhere wearing my jacket" because þágufall implies you are already inside something. The subject is '''not''' moving relative to the object.
 
-<br />
 ***
 
 Ég fór í '''bílinn''' minn og fór svo í '''vinnuna'''  í '''bílnum''' mínum.

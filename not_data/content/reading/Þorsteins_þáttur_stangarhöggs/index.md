@@ -10,8 +10,6 @@ The þáttur is often examined as it is considered to have strong artistic merit
 
 <small>(From [[w:The Tale of Thorstein Staff-Struck|Wikipedia]])</small>
 
-<br />
-
 *[[Þorsteins þáttur stangarhöggs/1]] {{done}}
 *[[Þorsteins þáttur stangarhöggs/2]] {{done}}
 *[[Þorsteins þáttur stangarhöggs/3]] {{in progress}}

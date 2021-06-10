@@ -31,22 +31,16 @@ When you want to describe that you desire an object, you have to use the phrase 
 
 ***
 
-<br />
-
 *Hvað vilt þú borða í kvöld?
 *Ég veit það ekki alveg. Mig langar smá í hamborgara.
 *Það hljómar vel. Mig langar mjög mikið í franskar kartöflur.
 *Mig líka.
-
-<br />
 
 *Langar þig að gera eitthvað í dag?
 *Nei.
 *Ókei. Er ekki allt í lagi?
 *Ég vil ekki tala um það.
 *Allt í lagi. Ég tala við þig á eftir.
-
-<br />
 
 * Mig langar að búa á Spáni. Mamma vill koma með mér.
 * Mamma vill koma í heimsókn. Mér finnst gaman að vera með henni.

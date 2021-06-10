@@ -77,8 +77,6 @@ Eiga að means that you should do something, because someone told you to. The ve
 |they had to
 |}
 
-<br />
-
 ==See also==
 
 *[[Hljóta]] – "it's gotta be"

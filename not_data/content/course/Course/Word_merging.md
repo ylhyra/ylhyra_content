@@ -45,8 +45,6 @@ If the word "þú" (you) appears [[Word order|after a verb]], such as in a [[que
 
 Although we add "-ðu" to verbs that end in "r", the "[[ð]]" is not pronounced. "Borðarðu" is just pronounced /borðaru/ and "segirðu" is just pronounced /segiru/. For that reason you will sometimes see people, especially younger speakers, write "segiru" instead of "segirðu". Do however note that the "ð" in "býrðu" is pronounced, because the verb itself ends in an "ð".
 
-<br />
-
 ==Vocabulary==
 
 *ertu? = are you?
