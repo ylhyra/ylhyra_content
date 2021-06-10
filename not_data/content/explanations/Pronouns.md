@@ -4,7 +4,6 @@ tags: Parts of speech
 tags: Pronouns (sortkey: -1)
 ---
 
-{{start|Pronouns}}{{non native}}
 =Pronouns=
 
 ==Possessive pronouns==
@@ -207,5 +206,3 @@ and between
 :Katrín þvær dóttur '''hennar''' ''Katrín washes '''her''' (i.e. someone else’s) daughter''
 
 {{Parts of speech}}
-
-{{end}}

@@ -6,7 +6,6 @@ tags: Imba
 tags: Poems
 ---
 
-{{start|Imba/áferð og flug}}
 <level c1/>
 <Book>
 
@@ -26,5 +25,4 @@ tags: Poems
 </Book>
 
 {{imba}}
-{{end}}
 

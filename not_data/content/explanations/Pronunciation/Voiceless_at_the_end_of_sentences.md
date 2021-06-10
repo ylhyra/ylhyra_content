@@ -6,7 +6,6 @@ tags: Pronunciation
 license: CC0
 ---
 
-{{start|Devoicing}}
 <level a1/>
 
 At the end of a sentence and before pauses, certain sounds become pronounced without the voice.
@@ -23,6 +22,3 @@ So, at the end of a sentence:
 **{{listen|`Ég e'''r''' eins og ég e'''r'''.`|audio=fDpc.mp3}}
 *The [[G#Soft%20G%20with%20the%20voice|soft G]] sound {{listen|audio=pron V-Qm.mp3}}becomes the [[G#Soft G without the voice|soft throaty G]] sound {{listen|audio=pron f4FN.mp3}}
 **{{listen|`Lö'''g''' eru lö'''g'''.`|audio=I3Il.mp3}}
-
-
-{{end}}

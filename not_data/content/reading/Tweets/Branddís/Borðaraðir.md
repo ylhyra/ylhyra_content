@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Branddís/Borðaraðir}}
 {{tweet
 |text=Bjó til plan þar sem borðaraðirnar á háskólabókasafninu skiptast á að gefa axlanudd. Gengur ansi illa að ná fram almennri sátt með fyrirkomulagið.
 |audio=LdUP.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-Branddis_Asrun-vfvk14.jpg
 |verified=
 }}
-{{end}}
 

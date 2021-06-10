@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Yfirmaður}}
 <level b2/>
 {{tweet
 |text=Verði ég yfirmaður á vinnustað mun ég sjá til þess að þar verði svefnherbergi.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}
 

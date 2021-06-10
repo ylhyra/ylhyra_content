@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Ása/Lykt}}
 {{tweet
 |text=Ég lykta svo vel í dag að ég vorkenni öllum sem fá ekki tækifæri til að hnusa af mér
 
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}
 

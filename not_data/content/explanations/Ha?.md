@@ -6,7 +6,6 @@ tags: Words
 license: CC0
 ---
 
-{{start|Ha?}}
 '''`Ha?`''' is equivalent to the English "Huh?" or "Hm?" but is used way more than in English and in more circumstances. It means ''“What did you just say?”'', but it's not rude at all. You say "`ha?`" when:
 
 *You didn’t hear what the other person said
@@ -25,5 +24,3 @@ Sometimes foreigners think "`ha?`" sounds too aggressive, like the person saying
 {{them|Þessi banani kostar 2.000 krónur.}}
 {{me|Ha? Það getur ekki verið.}}
 }}
-
-{{end}}

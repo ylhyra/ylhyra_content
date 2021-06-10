@@ -7,7 +7,6 @@ tags: Culture
 license: CC0
 ---
 
-{{start|Þúfa}}
 <level b2/>
 
 <div class="sans-serif notes">
@@ -37,6 +36,4 @@ Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður 
 *[https://www.facebook.com/pages/Studio-%C3%93l%C3%B6f-Nordal/419113361528680 Stúdíó Ólöf Nordal] on Facebook
 
 </div>
-
-{{end}}
 

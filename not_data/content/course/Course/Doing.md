@@ -2,7 +2,6 @@
 title: Course/Doing
 ---
 
-{{start|Course/Doing}}
 ==The basic form of verbs==
 The most basic form of a [[verb]], and the form always shown in dictionaries, is the form used in "to do", "to learn", and "to be". It is known as the [[infinitive]] form. Verbs on this form usually end with the letter "a":
 
@@ -79,5 +78,3 @@ Translate the following to Icelandic:
 == Recommendations ==
 
 * {{Recommendations/Study_vocabulary}}
-
-{{end}}

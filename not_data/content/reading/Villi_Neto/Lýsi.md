@@ -3,8 +3,6 @@ title: Villi Neto/Lýsi
 tags: Videos
 ---
 
-{{start|Villi Neto/Lýsi}}
-
 {{instagram
 |file=VilliNetoLýsi.mp4
 |url=https://www.instagram.com/p/B3UWZ_0g5rP/
@@ -41,6 +39,3 @@ The children's packaging of fish oil contains a character who is cool, has a bas
 }}
 
 }}
-
-
-{{end}}

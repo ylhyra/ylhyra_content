@@ -62,5 +62,4 @@ More examples:
 **Takk <sup>kær</sup> <sub>lega fyrir</sub>
 **Takk kærlega <sup>fyr</sup><sub>ir</sub>
 
-
 {{end}}

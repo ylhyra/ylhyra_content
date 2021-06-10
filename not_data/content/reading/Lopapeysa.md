@@ -4,7 +4,6 @@ tags: Culture
 license: CC0
 ---
 
-{{start|Lopapeysa}}
 <level b1/>
 
 <Book audio="Lopapeysa.mp3">
@@ -24,6 +23,4 @@ Margir prjóna peysur á fjölskyldumeðlimi sína. Meira að segja sumir unglin
 [[File:Kindur á beit.jpg|thumb]]
 The [[w:Wool|wool]] of [[w:Icelandic sheep|Icelandic sheep]] that is to be used for knitting is known as [[w:Lopi|lopi]]. Lopi originally referred to wool that had been [[w: Combing|combed]] but not yet [[w:Spinning (textiles)|spun]] into thread. In the early 20th century, women began knitting with unspun wool since spinning yarn was so time consuming. The use of unspun wool is not widespread in other countries.
 </div>
-
-{{end}}
 

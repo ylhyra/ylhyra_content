@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Blundur}}
 {{tweet
 |text=Finnst fólk almennt ekki gera sér grein fyrir mikilvægi þess að fá sér blund.
 |audio=cGBK.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}
 

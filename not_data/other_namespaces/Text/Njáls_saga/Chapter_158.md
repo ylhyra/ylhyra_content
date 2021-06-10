@@ -3,7 +3,6 @@ title: Text:Njáls saga/Chapter 158
 tags: Njáls saga
 ---
 
-{{start|Njáls saga/Chapter 158}}
 ## Chapter 158 - Of Flosi and Kari
 
 `NB this is Kafli 159 in the Modern Icelandic version. Italics is original in English, bold original in Modern Icelandic, upright is my translation. Source http://sagadb.org/brennu-njals_saga.is. Haven't decided yet what I want to do with the names, whether to Anglicise them or leave them as is.`
@@ -44,6 +43,3 @@ Men say that the end of Flosi’s life had come and he put out to sea when he ha
 These were the children of Kári Solmundsson and Helga Njálsdóttir: Þorgerður and Ragneiður and Valgerður and Þórður, who was burnt. And the children of Hildigunna and Kári were: Starkaður and Þórður and Flosi. Kolbeinn was the son of Flosi, who was the most famous men of that family.
 
 And here we end the saga of Burnt Njál.
-
-
-{{end}}

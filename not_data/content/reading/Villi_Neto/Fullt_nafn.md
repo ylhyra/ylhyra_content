@@ -3,8 +3,6 @@ title: Villi Neto/Fullt nafn
 tags: Videos
 ---
 
-{{start|Villi Neto/Fullt nafn}}
-
 {{instagram
 |file=Video by villineto-Bm510Y-HUDD.mp4
 |url=https://www.instagram.com/p/Bm510Y-HUDD/
@@ -27,5 +25,4 @@ Já...
 }}
 
 }}
-{{end}}
 

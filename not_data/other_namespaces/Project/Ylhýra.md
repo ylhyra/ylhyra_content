@@ -135,7 +135,6 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 *[[Special:NewPages]]
 
-
 == Todo varðandi beyginar ==
 
 * helgi er beygt "til helgar" ef það þýðir weekend, annars "til helgi"

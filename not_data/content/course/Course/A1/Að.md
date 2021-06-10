@@ -4,7 +4,6 @@ redirects:
 - Text/Að/Intro
 ---
 
-{{start|Text:Að/Intro}}
 {{is|[[Að]]}} is used a lot in Icelandic. It can have several different uses, but most often it means '''to''' as in "'''to''' sing" ({{is|'''að''' syngja}}). Another common use of "að" is to connect sentence together: {{is|Bjarni segir '''að''' mamma komi á eftir}}, but that is a more advanced topic.
 
 Like in English, when using the basic form of the verb (called the [[infinitive]] {{nh}} form), we usually include the "að":
@@ -20,4 +19,3 @@ But we also use it when English would use an '''-ing''' ending:{{efn|The -ing ve
 *{{is|Hvað ert þú '''að''' gera?!}} = What are you doing?!
 
 {{:Text:Að/Intro/Vocabulary}}
-{{end}}

@@ -3,7 +3,6 @@ title: Sveinbjörn Egilsson/Bí bí og blaka
 tags: Poems
 ---
 
-{{start|Sveinbjörn Egilsson/Bí bí og blaka}}
 <level c2/>
 
 This is a popular lullaby written by scholar [[w:Sveinbjörn Egilsson|Sveinbjörn Egilsson]] (1791–1852).
@@ -22,7 +21,6 @@ This is a popular lullaby written by scholar [[w:Sveinbjörn Egilsson|Sveinbjör
 {{line|að leita sér lamba.}}
 }}
 }}
-{{end}}
 
 Listen to this song:
 *[https://open.spotify.com/track/28PD0dykzqfvIsSjaahCHM?si=TZ-Jn13tTBKWbPu7ltBFtw By Þuríður Pálsdóttir] (on Spotify)

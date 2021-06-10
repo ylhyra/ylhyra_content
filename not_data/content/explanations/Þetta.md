@@ -5,10 +5,8 @@ redirects:
 tags: Pronouns
 ---
 
-{{start|Þetta}}
 [[:Text:Þetta/Intro]]
 [[:Text:Þetta/Full explanation]]
-
 
 
 ==''Todo''==
@@ -23,5 +21,3 @@ Work in progress:
 * In English, "'''this'''" refers to something that is close and "'''that'''" refers to something that is a bit farther away. ''(Stenst þetta? Hver er munurinn á þessi og sá?)''
 
 <br />
-
-{{end}}

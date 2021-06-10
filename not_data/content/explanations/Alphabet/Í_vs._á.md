@@ -62,5 +62,4 @@ license: CC0
 *á Seltjarnarnesi
 
 
-
 {{end}}

@@ -8,7 +8,6 @@ tags: Pronunciation
 license: CC0
 ---
 
-{{start|Disappearing sounds}}
 <level a1/>
 
 For most Icelandic words, you pronounce all the sounds that are written. But as soon as you start stringing those words together to form sentences, multiple sounds completely disappear.
@@ -119,7 +118,3 @@ Hvað á ég að gera?
 Við þurfum að fara þangað aftur
 Mmm, góð sána og góðir vinir
 Ég shnappaði bara -->
-
-
-
-{{end}}

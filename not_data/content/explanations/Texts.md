@@ -5,8 +5,6 @@ redirects:
 tags: Content
 ---
 
-{{start|Texts}}
-
 __INDEX__ 
 
 ==[[A1]]==
@@ -116,6 +114,3 @@ __INDEX__
 **[[Tweets/Ása/Sjófánar|Sjófánar]] by Ása<!--{{needs audio}}-->
 
 {{Mailchimp}}
-
-
-{{end}}

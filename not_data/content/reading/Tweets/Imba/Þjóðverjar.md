@@ -6,7 +6,6 @@ tags: Imba
 tags: Tweets
 ---
 
-{{start|Tweets/Imba/Þjóðverjar}}
 {{tweet
 |text=Barnalegt af Þjóðverjum að vera ekki með nammidag.<ref>The Nordic countries assign Saturday as "candy day" – the only day of the week you are allowed to buy candy – to limit children's candy consumption.</ref>
 |audio=YM0v.mp3
@@ -18,8 +17,6 @@ tags: Tweets
 |user_picture=Tweet-skvisumus-14rupeh.png
 |verified=
 }}
-{{end}}
-
 
 
 {{reflist}}

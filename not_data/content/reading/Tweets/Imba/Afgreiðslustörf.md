@@ -6,7 +6,6 @@ tags: Imba
 tags: Tweets
 ---
 
-{{start|Tweets/Imba/Afgreiðslustörf}}
 <level a2/>
 {{tweet
 |text=Í afgreiðslustörfum sér maður það besta og það versta í manninum.
@@ -19,5 +18,4 @@ tags: Tweets
 |user_picture=Tweet-skvisumus-14rupeh.png
 |verified=
 }}
-{{end}}
 

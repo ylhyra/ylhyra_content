@@ -2,8 +2,6 @@
 title: Text:Conversation/Thanks
 ---
 
-{{start|Snippet:Conversation/Thanks}}
-
 {{conversation|
 {{them|Hæ Anna.}}
 {{them|Vilt þú banana?}}
@@ -37,5 +35,3 @@ title: Text:Conversation/Thanks
 {{me|Mmm, þetta kaffi er mjög gott.}}
 {{them|Takk!}}
 }}
-
-{{end}}

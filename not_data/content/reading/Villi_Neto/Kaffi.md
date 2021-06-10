@@ -3,8 +3,6 @@ title: Villi Neto/Kaffi
 tags: Videos
 ---
 
-{{start|Villi Neto/Kaffi}}
-
 {{instagram
 |file=Villi Neto – Kaffi.mp4
 |url=https://www.instagram.com/p/Bu8dSzbAJIs/
@@ -21,6 +19,4 @@ tags: Videos
 
 – Hefurðu fengið instantkaffi?
 }}
-
-{{end}}
 

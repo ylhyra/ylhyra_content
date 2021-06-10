@@ -3,7 +3,6 @@ title: Chapter 2
 tags: Chapters
 ---
 
-{{start|Chapter 2}}
 == Thanks ==
 
 {{/Thanks}}
@@ -20,6 +19,3 @@ tags: Chapters
 
 {{:Gender}}
 {{:Text:Gender/Vocabulary}}
-
-
-{{end}}

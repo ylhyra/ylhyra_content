@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Ber}}
 <level c1/>
 {{tweet
 |text=Þegar árið 2016 er gert upp má ekki gleyma því að berjasprettan seinasta sumar var sú mesta í manna minnum.
@@ -19,5 +18,4 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}
 

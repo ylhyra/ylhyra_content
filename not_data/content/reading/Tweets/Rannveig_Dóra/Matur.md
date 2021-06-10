@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Rannveig Dóra/Matur}}
 <level a1/>
 {{tweet
 |text=„Rannveig Dóra, maturinn er tilbúinn“<br/>
@@ -19,5 +18,4 @@ Uppáhalds setningin mín í lífinu
 |user_picture=Tweet-rannveigdora-1jbr676.jpg
 |verified=
 }}
-{{end}}
 

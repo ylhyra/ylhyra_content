@@ -3,7 +3,6 @@ title: Chapter 6
 tags: Chapters
 ---
 
-{{start|Chapter 6}}
 =Verbs in Icelandic=
 
 There are many ways of saying how you are doing something. For example: ''I '''am''' cycling'', ''yesterday I '''went''' grocery shopping'', ''tomorrow I '''will watch''' a movie'', ''the world '''would have been''' a better place without ants'', and so on.
@@ -70,5 +69,3 @@ But the base version of verbs is use more broadly than in English:
 Hann er að keyra = He is driving
 Ég fíla ekki að hlaupa = I don't like running
 As you can see, að hlaupa is both used for to run and running.
-
-{{end}}

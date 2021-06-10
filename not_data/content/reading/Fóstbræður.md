@@ -4,7 +4,6 @@ tags: Culture
 license: CC0
 ---
 
-{{start|Fóstbræður}}
 <level a2/>
 [[File:Fósbræður.jpg|thumb|303x303px]]
 <Book audio="Fóstbræður2.mp3">
@@ -14,6 +13,4 @@ Húmorinn í þessum þáttum er frekar skrýtinn, en við mælum með að horfa
 
 Það er hægt að finna marga þætti [https://www.youtube.com/watch?v=vLQy22V72GY á YouTube], en það er reyndar enginn texti.
 </Book>
-
-{{end}}
 

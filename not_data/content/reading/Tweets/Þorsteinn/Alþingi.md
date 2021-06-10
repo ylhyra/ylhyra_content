@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Þorsteinn/Alþingi}}
 {{tweet
 |text=Það þarf engar siðareglur á Alþingi. Bara ef alþingismenn læsu nú saman Hávamál í byrjun þings. Það myndi nægja.
 |audio=Siðareglur.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-kristnihald-1dgxkmm.jpg
 |verified=
 }}
-{{end}}
 

@@ -12,7 +12,6 @@ redirects:
 tags: Difficulty levels (sortkey: -1)
 ---
 
-{{start|Difficulty scale}}
 The difficulty scale we use is the European language proficiency scale, known as [[w:CEFR|CEFR]]. Language proficiency is graded from the lowest to the highest level: '''A1''', '''A2''', '''B1''', '''B2''', '''C1''', and '''C2'''. It is widely used in European countries and therefore offers a good common ground when talking to other language learners, when choosing language-learning material, and for knowing where you stand.
 {| class="wikitable"
 |-
@@ -57,7 +56,5 @@ The difficulty scale we use is the European language proficiency scale, known as
 *Can summarize information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation.
 *Can express themselves spontaneously, very fluently and precisely, differentiating finer shades of meaning even in the most complex situations.
 |}
-
-{{end}}
 
 <!--{{ccbysa}}-->

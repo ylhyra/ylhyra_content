@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Þorsteinn/Afi}}
 <level b2/>
 {{tweet
 |text=Þú þarft virkilega að gera eitthvað í þínum málum ef tíræður afi þinn er bæði massaðri og liðugri heldur en þú.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-kristnihald-1dgxkmm.jpg
 |verified=
 }}
-{{end}}
 

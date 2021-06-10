@@ -6,7 +6,6 @@ tags: Content
 license: CC0
 ---
 
-{{start|How to learn a language}}
 <div class="book">
 =How to learn a language=
 [[File:Reykjavík_um_vetur.jpg|center|700px]]
@@ -48,7 +47,5 @@ In any case, you should begin practicing the slurredness of Icelandic pronunciat
 ***
 
 <div style="text-align:center;font-size:14px;font-family:Helvetica Neue,sans-serif;color: #5f5f5f;"> Written by <span style="">Árni Angelo Deleo</span></div></div>
-
-{{end}}
 
 __INDEX__

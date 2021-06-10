@@ -3,7 +3,6 @@ title: Conversations/Prentari
 license: CC0
 ---
 
-{{start|Conversations/Prentari}}
 <level a1/>
 {{audio|Prentari.mp3}}
 {{conversation|
@@ -13,4 +12,3 @@ license: CC0
 {{them|Nei nei.}}
 {{me|Takk! Þú ert bestur.}}
 }}
-{{end}}

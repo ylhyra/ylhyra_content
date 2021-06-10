@@ -4,7 +4,6 @@ redirects:
 - Chapter 2/Thanks
 ---
 
-{{start|Chapter 2/Thanks}}
 Icelandic words have a lot of tiny h-sounds in places that may not be obvious at first. 
 
 Let's take the word '''`takk`''' ("thanks") as an example. You need to let out a [[aspirations|tiny breath of air]] both after the "t" and before the "kk" so the word sounds like "t<span class="blue">(h)</span>a<span class="blue">(h)</span>kk".
@@ -20,5 +19,3 @@ Now, learn these phrases by heart:
 * '''`Nei takk`''' = No thanks.
 
 {{Text:Conversation/Thanks}}
-
-{{end}}

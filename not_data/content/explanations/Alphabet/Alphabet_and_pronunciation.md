@@ -9,7 +9,6 @@ tags: Pronunciation
 license: CC0
 ---
 
-{{start|Alphabet and pronunciation}}
 <!--[[Introduction to Icelandic spelling]]-->
 ==Alphabet==
 These are the letters of the Icelandic alphabet:
@@ -77,7 +76,3 @@ While these letters and letter clusters are a mixture of two sounds:
 *[[Voiceless at the end of sentences]]
 *[[Disappearing sounds]]
 *[[Intonation]]
-
-
-
-{{end}}

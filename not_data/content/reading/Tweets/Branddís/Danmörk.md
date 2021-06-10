@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Branddís/Danmörk}}
 {{tweet
 |text=Einföld lausn á þessu máli. Við bjöllum bara til Danmerkur og segjum að reynslutími okkar sem sjálfstæð þjóð sé búinn.
 |audio=IOUM.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-Branddis_Asrun-vfvk14.jpg
 |verified=
 }}
-{{end}}
 

@@ -3,8 +3,6 @@ title: Want
 tags: Word use
 ---
 
-{{start|Want}}
-
 <level a1/>
 
 There are two ways to say “I want” in Icelandic:
@@ -15,5 +13,3 @@ There are two ways to say “I want” in Icelandic:
 They can be used almost interchangeably, but since `mig langar` is more about your desires (it is softer) and `ég vil` is more about your demands (it is more blunt), it's better to use `mig langar` in situations where you're not sure which one to use. There are many situations and phrases where either one is always used.
 
 <br />
-
-{{end}}

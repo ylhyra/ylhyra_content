@@ -3,7 +3,6 @@ title: Text:A1/Reykjavík
 license: CC0
 ---
 
-{{start|Text:A1/Reykjavík}}
 <level a1/>
 [[File:Reykjavík um vetur.jpg|thumb]]
 [[File:Kirkja.jpg|thumb]]
@@ -16,5 +15,3 @@ en mér finnst Reykjavík vera of stór.
 Mig langar svolítið að búa úti á landi.
 Vera einn.
 </Book>
-
-{{end}}

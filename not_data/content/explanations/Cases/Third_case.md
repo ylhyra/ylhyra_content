@@ -9,7 +9,6 @@ tags: Cases (sortkey: -3)
 license: CC0
 ---
 
-{{start|Dative case}}
 <level a1/>
 
 There are four [[cases]] in Icelandic. The '''third case''' in the [[Declension table|declension table]] is known as the "dative case".<ref>On Ylhýra we refer to it as the "third case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
@@ -45,6 +44,3 @@ And these prepositions can either cause the [[Second case|second]] or the third 
 
 <br />{{cases}}
 {{notes}}
-
-
-{{end}}

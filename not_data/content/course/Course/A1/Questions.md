@@ -4,7 +4,6 @@ redirects:
 - Chapter 2/Questions
 ---
 
-{{start|Chapter 2/Questions}}
 English question words (''who'', ''where'', ''what'') start with <code>wh-</code>, but Icelandic question words flip it around and all start with <code>hv-</code>.
 
 * `Hvað?` = What?
@@ -28,4 +27,3 @@ Hvað vilt þú?
 Hvenær er tími fyrir kaffi?
 Hvar er hótelið þitt?
 Hver er heima
-{{end}}

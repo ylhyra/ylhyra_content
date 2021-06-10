@@ -65,9 +65,7 @@ You do not need to know the following words, but you might hear them in formal s
 {{end}}
 
 
-
 ==References==
 {{reflist}}
-
 
 {{end}}

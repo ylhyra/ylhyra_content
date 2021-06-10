@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Ingólfur}}
 <level b1/>
 {{tweet
 |text=„Við minnumst Ingólfs Arnarsonar í veislum<br>
@@ -23,5 +22,4 @@ This tweet is a quote to a song by singer-songwriter [[w:Megas|Megas]] (the Icel
 }}
 ==Notes==
 {{reflist}}
-{{end}}
 

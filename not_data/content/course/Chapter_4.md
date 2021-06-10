@@ -3,7 +3,6 @@ title: Chapter 4
 tags: Chapters
 ---
 
-{{start|Chapter 4}}
 ==At the supermarket==
 Since you will go to the store multiple times a week, you'll get very comfortable at repeating this formulaic interaction:
 
@@ -57,4 +56,3 @@ There are two ways to say “I want” in Icelandic:
 
 {{chapters}}
 
-{{end}}

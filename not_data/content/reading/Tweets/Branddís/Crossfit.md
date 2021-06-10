@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Branddís/Crossfit}}
 {{tweet
 |text=Sá stelpu í Crossfit nota sandpappír á handsiggið sitt. Spurði hana hvort það væri ekki soldið gróft ahahah
 |audio=GRof.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-Branddis_Asrun-vfvk14.jpg
 |verified=
 }}
-{{end}}
 

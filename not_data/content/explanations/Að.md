@@ -4,8 +4,6 @@ tags: Words
 license: CC0
 ---
 
-{{start|Að}}
-
 `Að` is used a lot in Icelandic. It can have several different uses, but most often it means '''''to''''' as in '''''to eat'''''.
 
 ==Main meanings==
@@ -40,5 +38,3 @@ This is the basic form of verbs, known as the [[infinitive]]:
 
 *Kötturinn er úti '''að''' nóttu til.
 *'''Að''' lokum endaði allt vel.
-
-{{end}}

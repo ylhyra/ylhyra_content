@@ -2,7 +2,6 @@
 title: Chapter 1/Er
 ---
 
-{{start|Chapter 1/Er}}
 '''`[[Að vera|Er]]`''' means "is". It is very similar to the English "you '''are'''".
 
 {{drag and drop|en|is
@@ -51,4 +50,3 @@ title: Chapter 1/Er
 |is=Elton John er góður á píanó.
 }}
 -->
-{{end}}

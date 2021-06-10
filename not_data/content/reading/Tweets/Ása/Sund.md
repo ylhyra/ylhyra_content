@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Ása/Sund}}
 {{tweet
 |text=Hver sundferð er endurfæðing.
 |audio=qiQ3.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}
 

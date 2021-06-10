@@ -4,8 +4,6 @@ redirects:
 -  Text/Gender/Vocabulary
 ---
 
-{{start|Text:Gender/Vocabulary}}
-
 gender cards:
 * kaka
 * pítsa
@@ -33,4 +31,3 @@ select the right gender:
 
 * Þetta er fínt. 
 * Oh hann er svo fínn!
-{{end}}

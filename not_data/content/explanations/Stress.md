@@ -5,7 +5,6 @@ redirects:
 tags: Pronunciation
 ---
 
-{{start|Stress}}
 <level a1/>
 
 ==Stress on words==
@@ -44,6 +43,3 @@ The word "[[ekki]]" is pronounced /eʰki/, with a small [[Preaspiration|breath o
 
 *"'''''ÞAÐ''' er ekki '''RÉTT'''''", meaning "that's not true" is pronounced /<u>það er iggi rétt</u>/
 *"''það er '''EKK'''i '''RÉTT'''''", meaning "that's '''not''' true" is pronounced /<u>það er eʰki rétt</u>/
-
-
-{{end}}

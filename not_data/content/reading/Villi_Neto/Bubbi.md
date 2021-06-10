@@ -3,7 +3,6 @@ title: Villi Neto/Bubbi
 tags: Videos
 ---
 
-{{start|Villi Neto/Bubbi}}
 {{instagram
 |file=Video by villineto-BoUBRXViuAQ.mp4
 |url=https://www.instagram.com/p/BoUBRXViuAQ/
@@ -27,6 +26,3 @@ The joke in this video is that a Mexican version of Bubbi jumps out and sings in
 </div>
 }}
 }}
-
-
-{{end}}

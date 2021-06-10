@@ -6,7 +6,6 @@ tags: Culture
 license: CC0
 ---
 
-{{start|Sund}}
 <level a1/>
 [[File:Sundlaug.jpg|thumb|338x338px]]
 <Book audio="Sund.mp3">
@@ -27,5 +26,3 @@ Sundlaugar eru mjög vinsælar á Íslandi. Það er sundlaug í næstum því h
 
 *The pool itself is called ''sundlaug'' ("swimming pool"), but the activity of going to the pools is called ''að fara í sund'' ("go into a swimming"). If you are at the pools, you are ''í sundi'' ("in a swimming").
 </div>
-
-{{end}}

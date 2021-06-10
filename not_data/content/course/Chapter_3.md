@@ -3,7 +3,6 @@ title: Chapter 3
 tags: Chapters
 ---
 
-{{start|Chapter 3}}
 ==Ha?==
 {{:ha?}}
 
@@ -44,6 +43,3 @@ Hvar ert þú? Ég er heima.
 
 Hvenær kemur þú til Íslands?Ég kem í febrúar.
 -->
-
-
-{{end}}

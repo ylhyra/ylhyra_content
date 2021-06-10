@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Ása/Íslenskar bíómyndir}}
 {{tweet
 |text=Einhvern veginn finnst mér flestar íslenskar kvikmyndir vera um karlmenn (á öllum aldri) í tilvistarkreppu.
 |audio=jSiQ.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}
 

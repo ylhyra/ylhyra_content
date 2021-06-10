@@ -4,7 +4,6 @@ tags: Culture
 license: CC0
 ---
 
-{{start|Færeyjar}}
 <level a1/>
 [[File:Idioma_feroés.PNG|thumb|237x237px]]
 <Book audio="Færeyska.mp3">
@@ -24,5 +23,3 @@ Mér finnst Færeyingar vera eins og litlu frændur okkar af því að þeir eru
 </Book>
 [[File:Faroe Islands Føroyar Færøerne Wyspy Owcze 2019 (1).jpg|center|467x467px]]
  
-
-{{end}}

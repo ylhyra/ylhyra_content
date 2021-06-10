@@ -3,8 +3,6 @@ title: Villi Neto/Íslenskar myndir
 tags: Videos
 ---
 
-{{start|Villi Neto/Íslenskar myndir}}
-
 {{instagram
 |file=Video by villineto-Bm1QnH2jnci.mp4
 |url=https://www.instagram.com/p/Bm1QnH2jnci/
@@ -59,6 +57,3 @@ This video is a joke about Icelandic film clichés. All Icelandic films are abou
 }}
 
 }}
-
-
-{{end}}

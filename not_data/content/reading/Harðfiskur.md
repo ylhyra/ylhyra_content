@@ -7,7 +7,6 @@ tags: Culture
 license: CC0
 ---
 
-{{start|Harðfiskur}}
 <level a2/>
 [[File:Stockfisch_in_Iceland_2005.JPG|thumb]]
 <Book audio="Harðfiskur.mp3">
@@ -21,5 +20,3 @@ Oft borðar maður harðfisk með smjöri. Það eru líka til litlir harðfiskb
 
 Öllum finnst harðfiskur góður, en það er því miður ekki hægt að borða harðfisk í skólanum eða í vinnunni af því að það er svo sterk lykt af honum. Lyktin er ekki vond, hún er bara sterk.
 </Book>
-
-{{end}}

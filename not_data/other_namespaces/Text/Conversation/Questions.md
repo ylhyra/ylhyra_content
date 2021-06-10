@@ -2,7 +2,6 @@
 title: Text:Conversation/Questions
 ---
 
-{{start|Snippet:Conversation/Questions}}
 {{conversation|
 {{me|Hæ}}
 {{drag drop|en|is
@@ -26,4 +25,3 @@ title: Text:Conversation/Questions
 }}
 {{me|Hvenær kemur mamma heim?}}
 }}
-{{end}}

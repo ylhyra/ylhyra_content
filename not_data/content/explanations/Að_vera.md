@@ -3,7 +3,6 @@ title: Að vera
 tags: Verbs
 ---
 
-{{start|Að vera}}
 '''`Að vera`''' = to be
 {| class="wikitable"
 |+
@@ -23,5 +22,3 @@ tags: Verbs
 !{{lh-þt}}
 | colspan="3" |ég hef '''verið'''
 |}
-
-{{end}}

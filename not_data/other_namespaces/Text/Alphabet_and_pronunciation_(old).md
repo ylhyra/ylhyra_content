@@ -2,8 +2,6 @@
 title: Text:Alphabet and pronunciation (old)
 ---
 
-{{start|Alphabet and pronunciation}}
-
 __INDEX__
 
 This reference page shows how to pronounce Icelandic letters.
@@ -302,5 +300,3 @@ All words starting with '''guð''' (meaning "God") sound like '''gvuð'''.
 ==References==
 
 <references />
-
-{{end}}

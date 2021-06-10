@@ -31,5 +31,4 @@ Although the masculine "búinn" and feminine "búin" are written differently, th
 *[[Búinn vs. hef]]
 
 
-
 {{end}}

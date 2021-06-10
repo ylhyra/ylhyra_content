@@ -2,7 +2,6 @@
 title: Project:Drafts/Course
 ---
 
-{{start|Course}}
 <!--<div class="frontpage-intro">This course is still a work in progress and will be published in the summer of 2020. Feel free to [[Project:About|contact us]] to suggest improvements.  </div>-->
 
 ==[[A1]] - Week 1==
@@ -81,5 +80,3 @@ title: Project:Drafts/Course
 *👁 [[Course/A1/Sko|Sko]]
 *👁 [[Course/A1/Want|Want]]
 *👁 [[Course/A1/Time|Time]]
-
-{{end}}

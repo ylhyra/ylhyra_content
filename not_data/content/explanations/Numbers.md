@@ -4,7 +4,6 @@ tags: Numbers
 license: CC0
 ---
 
-{{start|Numbers}}
 = Numbers and counting =
 
 The numbers can be a bit tricky. The numbers 1 to 4 conjugate just like adjectives, for all genders and for all cases. The rest of the numbers are simple, they don’t conjugate at all.
@@ -113,6 +112,4 @@ In case you want to count over one hundred, you will need to use the Icelandic w
 
 <!-- LM I don't understand this yet, but you use ordinals for dates and stuff. Need to have a warning about sixth being sjötta though -->
 fyrsti / fyrsta / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta
-
-{{end}}
 

@@ -2,7 +2,6 @@
 title: Vocabulary/All
 ---
 
-{{start|Vocabulary/All}}
 {| class="wikitable"
 |-
 ! Level !! Icelandic !! English
@@ -4275,5 +4274,3 @@ title: Vocabulary/All
 |-
 | 50 || föndra || do handicrafts
 |}
-
-{{end}}

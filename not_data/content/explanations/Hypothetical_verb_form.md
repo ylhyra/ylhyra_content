@@ -176,6 +176,5 @@ Forseti Indlands ___ (að segjast) ___ (að vera) spenntur fyrir geimfaraáætlu
 </div>
 
 
-
 {{end}}
 <references group="lower-alpha" />

@@ -2,8 +2,6 @@
 title: Chapter 1/Vocabulary
 ---
 
-{{start|Chapter 1/Vocabulary}}
-
 {{describe image
 |File:Light-person-woman-night (24030989050).jpg
 |is=Þessi kona er með hund.
@@ -130,4 +128,3 @@ title: Chapter 1/Vocabulary
 * ég: I
 * þú: you
 }}
-{{end}}

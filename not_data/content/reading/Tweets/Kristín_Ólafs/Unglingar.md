@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Kristín Ólafs/Unglingar}}
 <level b2/>
 {{tweet
 |text=Það er unglingur hér fyrir utan Hagaskóla á hjólabretti, að reykja og með sólgleraugu og ég vil bara viðurkenna það að ég er logandi hrædd.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-krolafs-wlyfer.jpg
 |verified=
 }}
-{{end}}
 

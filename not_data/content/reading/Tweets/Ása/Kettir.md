@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Ása/Kettir}}
 {{tweet
 |text=Að banna lausagöngu katta er fáránleg hugmynd en hins vegar mætti alveg endurskoða lausagöngu barna.
 |audio=Lausaganga.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}
 

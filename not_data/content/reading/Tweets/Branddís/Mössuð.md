@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Branddís/Mössuð}}
 <level b2/>
 {{tweet
 |text=Á þessu ári ætla ég að verða svo ógeðslega mössuð að hendurnar hætta að samræmast líkamanum og lærin verða jafn breið og þau eru löng.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-Branddis_Asrun-vfvk14.jpg
 |verified=
 }}
-{{end}}
 

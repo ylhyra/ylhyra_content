@@ -8,7 +8,6 @@ tags: Verbs
 license: CC0
 ---
 
-{{start|Giving orders}}
 A special verb form known as '''boðháttur''' (''imperative'') 👮 is used to give orders. It looks like this:
 
 *'''''Komdu''' hingað.'' = '''Come''' here!
@@ -99,7 +98,3 @@ Negative orders are easier, you just start them with "do not" (''ekki'') and the
 
 * Borðaðu grænmeti, '''ekki borða''' nammi.
 * '''Ekki gera''' þetta!{{end}}
-
-
-
-{{end}}

@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Draumsýn}}
 <level b2/>
 {{tweet
 |text=Draumsýn: Teikna blóm á daginn, veiða fisk á kvöldin. Búa í vita í heittempruðu loftslagi.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}
 

@@ -10,7 +10,6 @@ tags: Cases (sortkey: -2)
 license: CC0
 ---
 
-{{start|Accusative case}}
 {{a1|type=explanation}}
 
 There are four [[cases]] in Icelandic. The '''second case''' in the [[Declension table|declension table]] is known as the "accusative case".<ref>On Ylhýra we refer to it as the "second case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
@@ -45,5 +44,3 @@ The majority of [[Cases caused by verbs|verbs cause the second case]]. Among com
 *að vilja (to want)
 {{cases}}
 {{notes}}
-
-{{end}}

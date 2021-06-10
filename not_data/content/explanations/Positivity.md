@@ -31,4 +31,3 @@ The following words are particularly [[Politeness|polite]] and positive, and you
 == Kærlega ==
 [[Kærlega]] means "dearly" or "from my heart".
 
-

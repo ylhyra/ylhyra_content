@@ -4,7 +4,6 @@ tags: Todo
 tags: Culture
 ---
 
-{{start|Culture}}
 ==Daily life==
 
 *Religion
@@ -91,6 +90,3 @@ tags: Culture
 *Faroe islands
 *Greenland
 *Shared Nordic culture
-
-
-{{end}}

@@ -2,7 +2,6 @@
 title: Þorsteins þáttur stangarhöggs
 ---
 
-{{start|Þorsteins þáttur stangarhöggs}}
 2,600 words
 
 '''''Þorsteins þáttur stangarhöggs''''' is an Icelandic [[w:þáttr|þáttur]] which tells the tale of a conflict between the houses of Þórarinn and Bjarni Brodd-Helgason at Hof, Iceland. The tale is thought to have originated in the mid-13th century, however its earliest known record is on vellum fragments dated to the 15th century. The vast majority of the modern translation comes from 17th century paper fragments. 
@@ -29,5 +28,3 @@ The þáttur is often examined as it is considered to have strong artistic merit
 *[[Þorsteins þáttur stangarhöggs/14]] {{not done}}
 *[[Þorsteins þáttur stangarhöggs/15]] {{not done}}
 *[[Þorsteins þáttur stangarhöggs/16]] {{not done}}
-
-{{end}}

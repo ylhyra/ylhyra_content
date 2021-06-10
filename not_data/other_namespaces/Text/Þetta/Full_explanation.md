@@ -2,8 +2,6 @@
 title: Text:Þetta/Full explanation
 ---
 
-{{start|Text:Þetta/Full explanation}}
-
 To refer to something close, you use {{is|'''þetta'''}}.{{efn|{{is|Þetta}} is a [[Demonstrative pronoun|demonstrative pronoun]] ({{is|ábendingarfornafn}}).}} The word changes a bit based on gender: 
 {| class="wikitable"
 |+
@@ -70,5 +68,4 @@ The default is also a neuter {{is|þetta}} {{hk}} when the noun is somewhere els
 |{{gray|til}} þessarar {{gray|konu}}
 |{{gray|til}} þessa {{gray|barns}}
 |}
-{{end}}
 

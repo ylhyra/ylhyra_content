@@ -3,8 +3,6 @@ title: Villi Neto/Forníslenski sjomlinn
 tags: Videos
 ---
 
-{{start|Villi Neto/Forníslenski sjomlinn}}
-
 {{instagram
 |file=Villi Neto – Forníslenski sjomlinn.mp4
 |url=https://www.instagram.com/p/BysuJIVg2Qv/
@@ -32,5 +30,4 @@ Vér skulum fara framar í röð, ég er náttúrulega M.M.M., „mjög mikilvæ
 }}
 
 }}
-{{end}}
 

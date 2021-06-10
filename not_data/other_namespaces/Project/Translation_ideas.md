@@ -27,7 +27,6 @@ See [[Texts]]
 *Blær
 **[[Blær/Egg í áskrift|Egg í áskrift]] – Translation already exists [https://punktur.egill.xyz/egg.html here] but the original code is lost.
 
-
 https://twitter.com/asabergny/status/1194371221242220545
 https://twitter.com/asabergny/status/1189507156690849792
 https://twitter.com/asabergny/status/1154069146319110145

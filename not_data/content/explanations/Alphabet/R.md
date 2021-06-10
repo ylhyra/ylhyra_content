@@ -51,7 +51,6 @@ The name of the letter is "err".
 
 {{next simple|prev=p|next=s}}
 
-
 <level a1/>
 
 {{end}}

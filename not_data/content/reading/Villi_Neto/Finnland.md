@@ -3,7 +3,6 @@ title: Villi Neto/Finnland
 tags: Videos
 ---
 
-{{start|Villi Neto/Finnland}}
 {{instagram
 |file=Video by villineto-BtG9s6mg3Mc.mp4
 |url=https://www.instagram.com/p/BtG9s6mg3Mc/
@@ -29,6 +28,3 @@ In this video, Villi imitates a Finnish visiting the swimming pool in Iceland. H
 </div>
 }}
 }}
-
-
-{{end}}

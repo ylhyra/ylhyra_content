@@ -8,7 +8,6 @@ tags: Cases (sortkey:   )
 license: CC0
 ---
 
-{{start|Cases}}
 <onlyinclude>
 [[Nouns]], [[adjectives]], and [[pronouns]] all change their form depending on what's happening to them in a sentence. There are four such '''cases''' in Icelandic:
 
@@ -45,7 +44,5 @@ The Icelandic cases can be compared to the different forms that English [[pronou
 *The explanation of what the cases indicate is a simplification.
 *If you have studied German, do note that the standard way of showing the four German cases is ''[[nominative]], [[genitive]], [[dative]], [[accusative]]'' while in Icelandic the order is ''[[nominative]], [[accusative]], [[dative]], [[genitive]]''.
 </div>
-
-{{end}}
 
 {{end}}

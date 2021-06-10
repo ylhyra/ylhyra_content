@@ -21,5 +21,4 @@ Hérna can also be used to start new timid sentences, "uhh so...":
 
 You should always try to use ''hérna'' instead of "uhh" when you forget a word in Icelandic. Remember that it is pronounced /hyedna/ and '''not''' /hyerdna/.
 
-
 {{end}}

@@ -6,7 +6,6 @@ tags: Imba
 tags: Tweets
 ---
 
-{{start|Tweets/Imba/Rok}}
 {{tweet
 |audio=Rok.mp3
 |text=Rok er svarti sauðurinn í veðurfjölskyldunni.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-skvisumus-14rupeh.png
 |verified=
 }}
-{{end}}
 

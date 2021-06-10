@@ -3,8 +3,6 @@ title: Project:Drafts/Hannes Hafstein/Stormur
 tags: Poems
 ---
 
-{{start|Hannes Hafstein/Stormur}}
-
 {{poem|
 '''`Stormur`'''
 {{line|Ég elska þig, stormur, sem geisar um grund}}
@@ -87,6 +85,4 @@ And the birch you trust while you
 <br />
 
 * https://bokmenntaborgin.is/en/node/7643 – Includes a great translation by Sarah Brownsberger
-
-{{end}}
 <!---->

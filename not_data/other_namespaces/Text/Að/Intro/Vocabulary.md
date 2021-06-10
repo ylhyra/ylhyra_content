@@ -2,8 +2,6 @@
 title: Text:Að/Intro/Vocabulary
 ---
 
-{{start|Text:Að/Intro/Vocabulary}}
-
 {{drag and drop|en|is
 |image=File:Hundur í garði.jpg
 |en=
@@ -16,5 +14,3 @@ title: Text:Að/Intro/Vocabulary
 |is=Pabbi er að koma.
 |other options=
 }}
-
-{{end}}

@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Ása/Sjófánar}}
 <level b2/>
 {{tweet
 |text=Í dag dundaði ég mér við að festa saman sjófána og hlustaði á íslensk sjómannalög á meðan. Já, ég er í bestu vinnu í heimi.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}
 

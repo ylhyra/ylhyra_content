@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Kristín Ólafs/Slúður}}
 {{tweet
 |text=Þegar þú veist að það eru einhverjar tussur að slúðra um þig en þér er alveg sama
 |audio=FoRe.mp3
@@ -19,5 +18,4 @@ tags: Tweets
 |user_picture=Tweet-krolafs-wlyfer.jpg
 |verified=
 }}
-{{end}}
 

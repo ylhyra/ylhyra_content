@@ -3,8 +3,6 @@ title: Villi Neto/Íslendingar í sólarlöndum
 tags: Videos
 ---
 
-{{start|Villi Neto/Íslendingar í sólarlöndum}}
-
 {{instagram
 |file=Villi Neto – Íslendingar í sólarlöndum.mp4 ‎
 |url=https://www.instagram.com/p/Bxh97plgX94/
@@ -34,5 +32,4 @@ Eruð þið að fara á ströndina? Heyrðu, ókei, ég kem eftir smá, ég þar
 }}
 
 }}
-{{end}}
 

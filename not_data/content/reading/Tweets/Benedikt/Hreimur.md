@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Hreimur}}
 {{tweet
 |text=Ákveðinn sigur þegar innfæddir halda að þú talir mállýsku frá framandi landshluta heldur en að þú sért útlendingur.
 |audio=Ákveðinn.mp3
@@ -17,5 +16,4 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}
 

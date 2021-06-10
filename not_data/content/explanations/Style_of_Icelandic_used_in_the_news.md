@@ -3,7 +3,6 @@ title: Style of Icelandic used in the news
 tags: Culture
 ---
 
-{{start|Style of Icelandic used in the news}}
 <level b2/>
 <div class="book">
 If you've ever read an Icelandic newspaper, it may have surprised you just how strange the style of language used is. Words seem to be out of order and the vocabulary seems unnecessarily advanced.
@@ -29,6 +28,3 @@ Other examples:
 * ''„... að því er Reuters greinir frá.“'' The phrase „að því er“ is one example of a phrase that you'll only see in newspapers.
 
 </div>
-
-
-{{end}}

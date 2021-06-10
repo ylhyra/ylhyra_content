@@ -11,4 +11,3 @@ title: Template:Next simple
 </div>
 </div><div style="clear:both;"></div>
 
-

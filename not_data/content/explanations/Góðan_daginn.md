@@ -6,7 +6,6 @@ tags: Word use
 license: CC0
 ---
 
-{{start|Góðan daginn}}
 `Góðan daginn` (“Good day”) is a very common greeting, used from early morning until 6PM (that's when the day turns into an evening). You use it:
 
 * To say "good morning" to your family members when you wake up.
@@ -21,5 +20,4 @@ license: CC0
 }}
 
 *'''`Góða kvöldið!`''' = “Good evening!”
-{{end}}
 

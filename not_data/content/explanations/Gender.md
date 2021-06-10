@@ -10,7 +10,6 @@ tags: Gender (sortkey: -1)
 license: CC0
 ---
 
-{{start|Gender}}
 All [[nouns]] in Icelandic belong to one of three genders: he {{kk}}, she {{kvk}}, or it {{hk}}. The gender of a word is only reflected in how it causes other words (and word endings) to behave. The gender of a noun is what decides the gender of the [[adjective]] that describes it.
 
 Have a look at some words of different genders:
@@ -30,6 +29,4 @@ See the effect a word’s gender has on the rest of the sentence:
 *{{is|Hvað er hús'''ið''' {{hk}} þi'''tt''' {{hk}} gamal'''t'''{{hk}}?}}
 
 {{button|[[Game:Kyn|Learn the genders]]}}
-
-{{end}}
 

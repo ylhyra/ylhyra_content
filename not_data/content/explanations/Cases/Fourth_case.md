@@ -10,7 +10,6 @@ tags: Cases (sortkey: -4)
 license: CC0
 ---
 
-{{start|Fourth case}}
 <level a1/>
 
 There are four [[cases]] in Icelandic. The '''fourth case''' in the [[Declension table|declension table]] is known as the "genitive case".<ref>On Ylhýra we refer to it as the "fourth case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
@@ -34,6 +33,3 @@ It also appears in sentences showing ownership such as:
 *Þetta er köttur '''Gunnars'''. (This is the cat of Gunnar)
 {{cases}}
 {{notes}}
-
-
-{{end}}

@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Benedikt/Slydda}}
 <level c1/>
 {{tweet
 |text=Hef nokkuð áreiðanlegar heimildir fyrir því að Satan hafi fengið slyddu í vöggugjöf.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}
 

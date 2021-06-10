@@ -5,8 +5,6 @@ redirects:
 tags: Conversations (sortkey: A1)
 ---
 
-{{start|Conversations/Eldamennska}}
-
 {{conversation|
 {{me|Jæja ástin mín, nú þarft þú að hjálpa mér.}}
 {{them|Að gera hvað?}}
@@ -20,5 +18,3 @@ tags: Conversations (sortkey: A1)
 {{me|Frábært, þá seturðu allt saman í skál og leggur síðan á borðið. Pastað er alveg að verða tilbúið.}}
 
 }}
-
-{{end}}

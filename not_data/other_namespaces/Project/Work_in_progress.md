@@ -11,7 +11,6 @@ title: Project:Work in progress
 * [[Fóstbræður]]‎‎ 
 
 
-
 === In English ===
 
 * [[Kennitala]]

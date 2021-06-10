@@ -5,7 +5,6 @@ redirects:
 tags: Exercises
 ---
 
-{{start|Viðtengingarháttur/Exercise 1}}
 [[Viðtengingarháttur]] appears when there is uncertainty and when the sentence is a secondary sentence attached to the main sentence with words such as ''nema'', ''til þess að'', ''svo að'', ''þó að'', or ''þótt'' (and often also ''að'') but '''not''' when connected with ''ef'', ''og'', ''en'', or ''þegar''.
 
 In this exercise, you will attempt to figure out whether to use viðtengingarháttur or not. The only word we'll look at is the word "to be" because that is by far the most common verb you will have to place into viðtengingarháttur.
@@ -91,6 +90,4 @@ $cob$
 $cot$
 $cob$
 -->
-
-{{end}}
 

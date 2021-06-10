@@ -5,7 +5,6 @@ redirects:
 tags: Content
 ---
 
-{{start|Resources}}
 ==Online teachers==
 
 *[https://www.italki.com/teachers/icelandic?from%5B0%5D=IS Icelandic teachers on iTalki]. Classes are around {{usd|3000}} per hour.
@@ -180,6 +179,3 @@ tags: Content
 
 *[https://www.mcc.is/enska-forsida/ Guide to immigration]
 *[https://notendur.hi.is/haukurth/norse/ Introductory guide to Old Norse]
-
-
-{{end}}

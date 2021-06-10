@@ -2,7 +2,6 @@
 title: -ó endings/Less common words
 ---
 
-{{start|-ó endings/Less common words}}
 This is an appendix to the article on [[-ó endings]] and is a semi-exhaustive list of less common -ó words.
 
 ==Occasionally seen==
@@ -89,8 +88,6 @@ You should not make an effort to learn these proper names, but they are also lis
 **Mýrarhúsaskóli → '''Mýró'''
 **Réttarholtsskóli → '''Réttó'''
 **Valhúsaskóli → '''Való'''
-
-{{end}}
 
 <div class="notes">
 

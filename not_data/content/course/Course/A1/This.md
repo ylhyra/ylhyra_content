@@ -4,7 +4,6 @@ redirects:
 - Text/Þetta/Intro
 ---
 
-{{start|Text:Þetta/Intro}}
 To refer to something close, you use {{is|'''þetta'''}}.<!--{{efn|{{is|Þetta}} is a [[Demonstrative pronoun|demonstrative pronoun]] ({{is|ábendingarfornafn}}).}}--> The word changes a bit based on [[gender]]: 
 {| class="wikitable"
 |+
@@ -35,6 +34,4 @@ If we're referring to something more generally or if we're pointing something ou
 *{{is|Þetta{{hk}} er góð kaka{{kvk}}}} = This is a good cake, but this one is better.
 
 {{comment|„Þetta er góð kaka, en '''þessi''' er betri.“}}
-
-{{end}}
 

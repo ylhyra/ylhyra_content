@@ -5,7 +5,6 @@ redirects:
 - Nk
 ---
 
-{{start|Ng and nk rule}}
 ==Pronunciation before ''ng'' and ''nk''==
 Words that contain the letters ''ng'' and ''nk'' have an unintuitive pronunciation: The word "þungur" is pronounced "þ'''ú'''ngur" and the word "fingur" is pronounced "f'''í'''ngur".
 
@@ -25,5 +24,3 @@ The rules are:
 **fingur (/fíngur/), klink (/klínk/)
 *'''[[y]]''' before ''ng'' or ''nk'' is pronounced '''[[ý]]''' (remember that "ý" is the same sound as ''[[í]]'')
 **syngur (/sýngur/), þyngd (/þýngd/)
-
-{{end}}

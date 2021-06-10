@@ -5,7 +5,6 @@ redirects:
 tags: Tweets
 ---
 
-{{start|Tweets/Ása/Stjörnur}}
 <level b2/>
 {{tweet
 |text=Óska eftir félaga til að horfa með á stjörnurnar. Má gjarnan þekkja himininn betur en ég.
@@ -18,5 +17,4 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}
 
