@@ -9,7 +9,6 @@ tags:
 [[:Text:Þetta/Intro]]
 [[:Text:Þetta/Full explanation]]
 
-
 ==''Todo''==
 Munurinn á '''þessu''' og ábendingarfornafninu '''sá'''.
 

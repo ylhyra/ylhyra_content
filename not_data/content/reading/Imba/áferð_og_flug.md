@@ -5,9 +5,9 @@ redirects:
 tags:
 - Imba
 - Poems
+level: C1
 ---
 
-<level level="c1"/>
 <Book>
 
 {{poem|

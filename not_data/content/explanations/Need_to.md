@@ -5,7 +5,7 @@ tags:
 license: CC0
 ---
 
-{{start|Need to}}The following words all mean "I have to / I need to / I must":
+The following words all mean "I have to / I need to / I must":
 
 *að þurfa að = to need to
 *að verða að = to have to, must
@@ -82,6 +82,4 @@ Eiga að means that you should do something, because someone told you to. The ve
 ==See also==
 
 *[[Hljóta]] – "it's gotta be"
-
-{{end}}
 

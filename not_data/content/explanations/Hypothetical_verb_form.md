@@ -9,11 +9,8 @@ redirects:
 tags:
 - Grammatical moods
 - Subjunctive
+level: B1
 ---
-
-__TOC__
-
-<level level="b1"/>
 
 ==The hypothetical verb form==
 In Icelandic, [[verbs]] take on a different form when they express something that is hypothetical or uncertain. The form is known as the '''subjunctive''' ("viðtengingarháttur"). It appears in the following scenarios:
@@ -25,7 +22,7 @@ In Icelandic, [[verbs]] take on a different form when they express something tha
 
 The last one is the most common situation where you will encounter the subjunctive. When the subjunctive appears due to being in a secondary sentence it does not have to indicate that something is a hypothetical situation (in the sentence "My mom says that I ''am'' a good cook" there is no doubt that she did indeed say that), the only reason it appears is due to grammatical rules.
 
-=={{start|Viðtengingarháttur}}Examples==
+==Examples==
 {| class="wikitable"
 |+
 ![[Regular verb form]]
@@ -175,7 +172,4 @@ Forseti Indlands ___ (að segjast) ___ (að vera) spenntur fyrir geimfaraáætlu
 
 <ref>[https://skemman.is/bitstream/1946/7366/2/Lokaritgerd.pdf Notkun viðtengingarháttar í nútímaíslensku]. Hulda Óladóttir, 2011.</ref><ref>Höskuldur Þráinsson,  ''Íslensk tunga III'',  2005, p. 463-466. Cited by Hildur Ýr Ísberg in "''[https://skemman.is/bitstream/1946/7391/1/BAritgerd.pdf Viðtengingarháttur: Lifandi eða dauður?]''" (PDF), 2011 (Bachelor's thesis).</ref>{{reflist}}-->
 </div>
-
-
-{{end}}
 <references group="lower-alpha" />

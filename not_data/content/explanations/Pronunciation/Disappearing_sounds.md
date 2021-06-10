@@ -6,9 +6,8 @@ redirects:
 tags:
 - Pronunciation
 license: CC0
+level: A1
 ---
-
-<level level="a1"/>
 
 For most Icelandic words, you pronounce all the sounds that are written. But as soon as you start stringing those words together to form sentences, multiple sounds completely disappear.
 

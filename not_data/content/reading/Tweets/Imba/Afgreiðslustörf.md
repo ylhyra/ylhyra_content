@@ -5,9 +5,9 @@ redirects:
 tags:
 - Imba
 - Tweets
+level: A2
 ---
 
-<level level="a2"/>
 {{tweet
 |text=Í afgreiðslustörfum sér maður það besta og það versta í manninum.
 |audio=ZM8a.mp3

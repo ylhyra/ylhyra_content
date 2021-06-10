@@ -7,9 +7,8 @@ tags:
 - Words
 - Word use
 license: CC0
+level: A1
 ---
-
-{{start|Búinn}}<level level="a1"/>    
 
 '''Búinn''' means "done" or "finished". You use the word to when explaining what you '''have''' been doing, or more specifically when explaining what you've done ''recently'' and what you've ''already'' done.    
 
@@ -30,6 +29,3 @@ Although the masculine "búinn" and feminine "búin" are written differently, th
 ==See also==
 
 *[[Búinn vs. hef]]
-
-
-{{end}}

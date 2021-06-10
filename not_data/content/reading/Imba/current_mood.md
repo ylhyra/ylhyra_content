@@ -3,10 +3,9 @@ title: Imba/current mood
 tags:
 - Poems
 - Imba
+level: B1
 ---
 
-<level level="b1"/>
-{{start|Imba/current mood}}
 {{poem|
 '''''current mood'''''
 {{line|straumur}}
@@ -19,6 +18,5 @@ tags:
 {{line|tilfinningahitann}}
 {{line|enda skandinavísk tík}}
 }}
-{{end}}
 {{imba}}
 

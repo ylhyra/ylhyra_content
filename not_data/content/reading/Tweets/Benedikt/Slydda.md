@@ -4,9 +4,9 @@ redirects:
 - Forseti2k32/Hef nokkuð áreiðanlegar heimildir
 tags:
 - Tweets
+level: C1
 ---
 
-<level level="c1"/>
 {{tweet
 |text=Hef nokkuð áreiðanlegar heimildir fyrir því að Satan hafi fengið slyddu í vöggugjöf.
 |audio=vZvF.mp3

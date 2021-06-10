@@ -6,10 +6,9 @@ tags:
 - Age
 - Word use
 license: CC0
+level: A1
 ---
 
-<level level="a1"/>
-{{start|Age}}
 =Age=
 
 Ages are discussed in the fourth case ([[Genitive case|genitive case]] {{ef}}).
@@ -51,6 +50,4 @@ Most people don't actually know how old they are, instead they know which year t
 
 *Hvaða módel ertu? Ég er ’95 módel.
 *Bíddu, hvað er Ingibjörg aftur gömul? Hún er ’92.
-
-{{end}}
 

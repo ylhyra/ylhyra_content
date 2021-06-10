@@ -11,7 +11,6 @@ https://docs.google.com/document/d/1Zaxz54OOpkNhoNIU8ad62QftcbEMuIlraSQ6054_gAM/
 
 Gylfi konungur réð þar löndum er nú heitir Svíþjóð. Frá honum er það sagt að hann gaf einni farandi konu að launum skemmtunar sinnar eitt plógsland í ríki sínu það er fjórir öxn drægi upp dag og nótt. 
 
-
 En sú kona var ein af ása ætt, hún er nefnd Gefjun. Hún tók fjóra öxn norðan úr Jötunheimum, en það voru synir jötuns og hennar, og setti þá fyrir plóg. En plógurinn gekk svo hart og djúpt að upp leysti landið, og drógu öxnirnir það land út á hafið og vestur og námu staðar í sundi nokkru. Þar setti Gefjun landið og gaf nafn og kallaði Selund. Og þar sem landið hafði upp gengið var þar eftir vatn. Það er nú Lögurinn kallaður í Svíþjóð, og liggja svo víkur í Leginum sem nes í Selundi. Svo segir Bragi skáld gamli:
 
 Gefjun dró frá Gylfa
@@ -47,8 +46,6 @@ Sváfnis salnæfrar
 seggir hyggjandi.
 
 Gylfi sá mann í hallardurunum, og lék að handsöxum og hafði sjö senn á lofti. Sá spurði hann fyrr að nafni. Hann nefndist Gangleri og kominn af refilstígum og beiddist að sækja til náttstaðar og spurði hver höllina ætti. Hann svarar að það var konungur þeirra. "En fylgja má eg þér að sjá hann. Skaltu þá sjálfur spyrja hann nafns," og snerist sá maður fyrir honum inn í höllina, en hann gekk eftir og þegar laukst hurðin á hæla honum. 
-
-
 
 Þar sá hann mörg gólf og margt fólk, sumt með leikum, sumir drukku, sumir með vopnum og börðust. Þá litaðist hann um og þótti margir hlutir ótrúlegir þeir er hann sá. Þá mælti hann:
 

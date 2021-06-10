@@ -2,4 +2,4 @@
 title: Text:Ylhýra
 ---
 
-{{start|Text:Ylhýra}}{{is|[[Project:Name|Ylhýra]]}}{{end}}
+{{is|[[Project:Name|Ylhýra]]}}

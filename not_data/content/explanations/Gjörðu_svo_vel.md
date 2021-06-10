@@ -3,9 +3,8 @@ title: Gjörðu svo vel
 tags:
 - Word use
 license: CC0
+level: A2
 ---
-
-<level level="a2"/>
 
 '''Gjörðu svo vel''' means "here you go" or "you're welcome". It's literal meaning is "do so well", using the [[imperative]] form.
 

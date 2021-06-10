@@ -2,9 +2,8 @@
 title: Eiginlega
 tags:
 - Words
+level: B2
 ---
-
-<level level="b2"/>
 
 *`Hvað gerðist '''eiginlega'''?`
 *`Ég '''eiginlega''' gleymdi að taka kjúklinginn út úr frystinum.`

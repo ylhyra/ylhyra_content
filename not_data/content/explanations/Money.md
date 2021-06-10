@@ -24,5 +24,3 @@ But you can '''not''' say:
 
 * níukall, fjörutíuogsjökall, fimmhundruðogáttakall, eittþúsundogeitthundraðkall, milljónkall<br />
 
-{{end}}
-

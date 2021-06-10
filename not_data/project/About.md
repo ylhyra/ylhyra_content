@@ -37,4 +37,3 @@ The website runs [[mediawikiwiki:MediaWiki|MediaWiki]] and the code is [https://
 *[[Project:Become a collaborator|Become a collaborator]]
 *[[Help:Adding material|How to add or edit material]]
 
-__NOINDEX__

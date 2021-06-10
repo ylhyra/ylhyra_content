@@ -3,9 +3,8 @@ title: Intonation
 tags:
 - Pronunciation
 license: CC0
+level: A2
 ---
-
-{{start|Intonation}}<level level="a2"/>
 
 Intonation is the way you sing while speaking. Not all the words in a sentence have the same pitch (musical tone). For example in the English sentence "''You're cold''" the tone is going down on the last word, but in "''You're cold?''" the tone is rising, making it clear that it is a question.
 
@@ -62,5 +61,3 @@ More examples:
 *`Takk kærlega fyrir.` – Both mean the same thing, just [[Stress|stressing]] a different word:
 **Takk <sup>kær</sup> <sub>lega fyrir</sub>
 **Takk kærlega <sup>fyr</sup><sub>ir</sub>
-
-{{end}}

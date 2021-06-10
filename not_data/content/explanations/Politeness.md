@@ -6,7 +6,7 @@ tags:
 license: CC0
 ---
 
-{{start|Politeness}}In Icelandic, the way to show politeness is:
+In Icelandic, the way to show politeness is:
 
 *Greeting with „[[sæll]]“ and „[[daginn]]“, and using „[[Takk|takk fyrir]]“ enough.
 *To switch over to more [[Hypothetical|hypothetical sentences]], saying ''“Could you…”'' and ''“Would you…”'' instead of ''“Can you…”'' or ''“Will you…”''
@@ -28,7 +28,6 @@ And we can even add more politeness:
 
 ***
 
-
 This is not very polite:
 
 :`'''Geturðu''' fært þig?`
@@ -43,7 +42,6 @@ This is ''very'' polite:
 
 ***
 
-
 This is polite:
 
 :`'''Ertu''' til í að koma á morgun?`
@@ -53,6 +51,3 @@ This is ''very'' polite:
 :`'''Værirðu''' til í að koma á morgun?`
 
 <br />
-
-
-{{end}}

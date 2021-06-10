@@ -2,9 +2,8 @@
 title: Sitt hvor
 tags:
 - Word use
+level: B2
 ---
-
-<level level="b2"/>
 
 If “sitt hvor” wasn’t such a common phrase, the ‘correct’ way to [[decline]] it would be:
 
@@ -59,5 +58,3 @@ In the mind of a native speaker, “sitt hvor” does not behave like two differ
 *Viljið þið borga saman eða í '''sitt hvoru''' lagi?
 *Eigum við að fara á '''sitt hvorum''' bílnum til Akureyrar?
 *Það er betra að þið mætið í '''sitt hvoru''' lagi.
-
-{{end}}

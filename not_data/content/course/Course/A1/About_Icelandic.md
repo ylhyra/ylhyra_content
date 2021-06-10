@@ -2,7 +2,7 @@
 title: Course/A1/About Icelandic
 ---
 
-==About Icelandic{{start|Course/A1/About Icelandic}}==
+==About Icelandic==
 [[File:Iceland (orthographic projection).svg|thumb|The neighbors of Iceland are: 
 <ul>
 <li>[[w:Greenland|Greenland]] to the left</li>

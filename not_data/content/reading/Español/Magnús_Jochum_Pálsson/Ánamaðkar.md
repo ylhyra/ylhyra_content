@@ -2,7 +2,7 @@
 title: Español/Magnús Jochum Pálsson/Ánamaðkar
 ---
 
-<br/>{{start|Español/Magnús Jochum Pálsson/Ánamaðkar}}
+<br/>
 <div class="book" data-translate="true" data-audio-file="Ánamaðkar.mp3">
 {{audio|Ánamaðkar.mp3}}
 <h1>'''[[Magnús Jochum Pálsson/Ánamaðkar|Ánamaðkar]]'''</h1>
@@ -13,5 +13,4 @@ title: Español/Magnús Jochum Pálsson/Ánamaðkar
 
 Á yfirborðinu taka á móti þeim litlir barnaputtar. Börnin hafa enga samúð með slepjulegum félögum sínum og hrifsa þá til sín. Síðan slíta þau maðkana í sundur eða kremja þá undir sólum kuldaskónna.
 
-</div>
-{{end}}<br/>
+</div><br/>

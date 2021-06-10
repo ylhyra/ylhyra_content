@@ -4,9 +4,9 @@ redirects:
 - Krolafs/Það er unglingur hér fyrir utan Hagaskóla
 tags:
 - Tweets
+level: B2
 ---
 
-<level level="b2"/>
 {{tweet
 |text=Það er unglingur hér fyrir utan Hagaskóla á hjólabretti, að reykja og með sólgleraugu og ég vil bara viðurkenna það að ég er logandi hrædd.
 |audio=ao7p.mp3

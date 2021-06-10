@@ -3,11 +3,10 @@ title: Opinion
 tags:
 - Word use
 license: CC0
+level: A1
 ---
 
-<level level="a1"/>
-
-{{start|Opinion}}A common error is to translate "I think" as "ég hugsa". However, remember:
+A common error is to translate "I think" as "ég hugsa". However, remember:
 
 * Ég hugsa =
 ** I think with my brain

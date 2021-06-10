@@ -4,9 +4,9 @@ redirects:
 - Asabergny/Óska eftir félaga til að horfa með
 tags:
 - Tweets
+level: B2
 ---
 
-<level level="b2"/>
 {{tweet
 |text=Óska eftir félaga til að horfa með á stjörnurnar. Má gjarnan þekkja himininn betur en ég.
 |audio=hRki.mp3

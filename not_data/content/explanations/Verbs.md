@@ -6,9 +6,8 @@ redirects:
 tags:
 - Verbs
 - Parts of speech
+level: A1
 ---
-
-<level level="a1"/>
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").
 
@@ -56,5 +55,3 @@ This pattern is extremely common.
 {{reflist}}
 </div>
 {{Parts of speech}}
-
-{{end}}

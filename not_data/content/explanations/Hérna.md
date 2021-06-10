@@ -3,11 +3,8 @@ title: Hérna
 tags:
 - Words
 license: CC0
+level: A1
 ---
-
-<level level="a1"/>
-
-{{start|Hérna}}
 
 `Hérna` is the most common pause-word. It literally means "here", but in this context it just means "uhh, ehh, er, uhm".
 
@@ -21,5 +18,3 @@ Hérna can also be used to start new timid sentences, "uhh so...":
 *{{listen|audio=BR_j.mp3}} `'''Hérna''', er þessi Ívar frændi þinn?`
 
 You should always try to use ''hérna'' instead of "uhh" when you forget a word in Icelandic. Remember that it is pronounced /hyedna/ and '''not''' /hyerdna/.
-
-{{end}}

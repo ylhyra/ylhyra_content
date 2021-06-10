@@ -4,9 +4,9 @@ redirects:
 - Rannveigdora/Maturinn er tilbúinn
 tags:
 - Tweets
+level: A1
 ---
 
-<level level="a1"/>
 {{tweet
 |text=„Rannveig Dóra, maturinn er tilbúinn“<br/>
 Uppáhalds setningin mín í lífinu

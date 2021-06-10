@@ -6,7 +6,7 @@ tags:
 - Content
 ---
 
-__INDEX__ 
+ 
 
 ==[[A1]]==
 

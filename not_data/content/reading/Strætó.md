@@ -3,9 +3,9 @@ title: Strætó
 tags:
 - Culture
 license: CC0
+level: A1
 ---
 
-<level level="a1"/>
 <Book audio="Strætó.mp3">
 [[File:Strætó.JPG|thumb]]
 „Strætó“ er stytting á orðinu „strætisvagn“. Svona „-ó“ endingar eru nokkuð algengar í íslensku, til dæmis er hægt að stytta orðið „kærasti/kærasta“ í „kæró“.

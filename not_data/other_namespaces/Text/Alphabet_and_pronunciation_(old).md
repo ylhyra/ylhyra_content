@@ -2,8 +2,6 @@
 title: Text:Alphabet and pronunciation (old)
 ---
 
-__INDEX__
-
 This reference page shows how to pronounce Icelandic letters.
 
 The letters are: A, Á, B, D, [[Ð]], E, É, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, R, S, T, U, Ú, V, X, Y, Ý, [[Þ]], Æ, Ö.

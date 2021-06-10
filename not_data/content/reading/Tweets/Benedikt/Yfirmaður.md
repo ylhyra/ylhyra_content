@@ -4,9 +4,9 @@ redirects:
 - Forseti2k32/Verði ég yfirmaður á vinnustað mun
 tags:
 - Tweets
+level: B2
 ---
 
-<level level="b2"/>
 {{tweet
 |text=Verði ég yfirmaður á vinnustað mun ég sjá til þess að þar verði svefnherbergi.
 |audio=o2Js.mp3

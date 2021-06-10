@@ -3,9 +3,9 @@ title: Lúpína
 tags:
 - Culture
 license: CC0
+level: B1
 ---
 
-<level level="b1"/>
 [[File:Iceland_Nootka_Lupin_Flower_Fields.jpg|center|700px]]
 <Book audio="Lúpína.mp3">
 <!--<ref group="lower-alpha">Forests were cut down to make coal or to create more grassland for sheeps. Sheeps eat small plants and so they prevent new trees from growing.</ref>-->

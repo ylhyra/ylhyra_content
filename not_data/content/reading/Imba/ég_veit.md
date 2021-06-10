@@ -3,10 +3,9 @@ title: Imba/ég veit
 tags:
 - Imba
 - Poems
+level: B2
 ---
 
-<level level="b2"/>
-{{start|Imba/ég veit}}
 <Book audio="Imba eg veit.mp3">
 {{poem|
 '''ég veit'''
@@ -30,6 +29,5 @@ tags:
 }}
 }}
 </Book>
-{{end}}
 {{imba}}
 

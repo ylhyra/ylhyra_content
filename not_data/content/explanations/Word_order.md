@@ -4,7 +4,7 @@ tags:
 - Grammar
 ---
 
-{{start|Word order}}Word order in Icelandic is usually the same as you'd expect in English. Normal sentences start with the subject („Ég er köttur.“) while [[questions]] flip it around and start with the verb („Er ég köttur?“).
+Word order in Icelandic is usually the same as you'd expect in English. Normal sentences start with the subject („Ég er köttur.“) while [[questions]] flip it around and start with the verb („Er ég köttur?“).
 
 ==Adverbs==
 <level level="a1"/>
@@ -71,5 +71,3 @@ This is a list of common words that cause the word order to change if they are a
 **vanalega
 **svona
 **þess vegna
-
-{{end}}

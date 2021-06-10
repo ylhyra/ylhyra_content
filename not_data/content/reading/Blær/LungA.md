@@ -3,7 +3,7 @@ title: Blær/LungA
 ---
 
 {{Blær|http://blaer.is/grein/lunga}}
-{{start|Blær/LungA}}
+
 <div class="book" data-translate=true>
 <html>
 <div class="blaer article">
@@ -298,6 +298,5 @@ title: Blær/LungA
 </div>
 </html>
 </div>
-{{end}}
 
 {{Copyright/Blær}}

@@ -4,9 +4,9 @@ redirects:
 - Branddis Asrun/Á þessu ári ætla ég að verða svo ógeðslega
 tags:
 - Tweets
+level: B2
 ---
 
-<level level="b2"/>
 {{tweet
 |text=Á þessu ári ætla ég að verða svo ógeðslega mössuð að hendurnar hætta að samræmast líkamanum og lærin verða jafn breið og þau eru löng.
 |audio=nHTo.mp3

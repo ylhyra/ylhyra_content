@@ -4,9 +4,8 @@ tags:
 - Word use
 - Grammar
 license: CC0
+level: A2
 ---
-
-<level level="a2"/>
 
 There are two different ways to express what you have done: '''hef''' ("have") and '''[[búinn]]''' ("done/finished").
 
@@ -22,6 +21,3 @@ Examples:
 ==Exercices==
 
 *[[Búinn vs. hef/Exercise 1|Búinn vs. hef – Exercise 1]]
-
-
-{{end}}

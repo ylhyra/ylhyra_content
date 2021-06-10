@@ -49,4 +49,3 @@ In any case, you should begin practicing the slurredness of Icelandic pronunciat
 
 <div style="text-align:center;font-size:14px;font-family:Helvetica Neue,sans-serif;color: #5f5f5f;"> Written by <span style="">Árni Angelo Deleo</span></div></div>
 
-__INDEX__

@@ -18,7 +18,7 @@ To learn Icelandic, we recommend that you:
 *Take classes. The University of Iceland offers both [https://english.hi.is/icelandic_as_a_second_language_practical_diploma diplomas] and [https://english.hi.is/icelandic_as_a_second_language bachelor's courses] for very cheap. Evening classes are offered by [https://www.mimir.is/is/nam#study-icelandic Mímir] and others.
 *Read the texts here on Ylhýra ☺️
 
-==About Icelandic{{start|Introduction}}==
+==About Icelandic==
 [[File:Iceland (orthographic projection).svg|thumb|The neighbors of Iceland are:
 <ul>
 <li>[[w:Greenland|Greenland]] to the left</li>
@@ -78,8 +78,6 @@ For a student of Icelandic, it can be a bit tiring when the bartender switches o
 -->
 
 {{Chapters}}
-
-{{end}}
 
 ==References==
 {{reflist}}

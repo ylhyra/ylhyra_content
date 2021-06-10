@@ -98,4 +98,4 @@ Note that, unlike English, orders are not perceived as rude or impolite in Icela
 Negative orders are easier, you just start them with "do not" (''ekki'') and the rest is simple:
 
 * Borðaðu grænmeti, '''ekki borða''' nammi.
-* '''Ekki gera''' þetta!{{end}}
+* '''Ekki gera''' þetta!

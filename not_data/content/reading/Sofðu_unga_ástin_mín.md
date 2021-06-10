@@ -4,7 +4,6 @@ tags:
 - Poems
 ---
 
-{{start|Sofðu unga ástin mín}}
 [[File:Portrait_of_Jóhann_Sigurjónsson.jpg|thumb|120px|[[w:Jóhann Sigurjónsson|Jóhann Sigurjónsson]] (1880–1919)]]
 "'''Sofðu unga ástin mín'''" by [[w:Jóhann Sigurjónsson|Jóhann Sigurjónsson]] (1880–1919) is a lullaby that all parents sing for their children. You can listen to the song version here: [https://www.youtube.com/watch?v=0wXE4VcRV8Q Version 1], [https://www.youtube.com/watch?v=1Jh4M-g3dqs Version 2].
 
@@ -28,6 +27,5 @@ tags:
 -->
 
 {{end|Sofðu unga ástin mín}}
-
 
 {{public domain}}

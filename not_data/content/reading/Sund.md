@@ -5,9 +5,9 @@ redirects:
 tags:
 - Culture
 license: CC0
+level: A1
 ---
 
-<level level="a1"/>
 [[File:Sundlaug.jpg|thumb|338x338px]]
 <Book audio="Sund.mp3">
 Sundlaugar eru mjög vinsælar á Íslandi. Það er sundlaug í næstum því hverjum einasta bæ og það eru sautján sundlaugar í eða nálægt Reykjavík. Heitt vatn er ódýrt á Íslandi svo að það er ódýrara að vera með sundlaugar hérna en annars staðar í Evrópu.

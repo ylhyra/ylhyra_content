@@ -55,5 +55,3 @@ In English, you can say: “He '''calls himself''' John”. The same can be done
 *Hann brenndi '''sig'''. → Hann brenndi'''st'''.
 *''He burned '''himself'''. → He got burned.''
 </div>
-
-{{end}}

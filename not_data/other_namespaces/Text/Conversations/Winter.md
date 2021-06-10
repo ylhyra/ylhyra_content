@@ -7,7 +7,6 @@ tags:
 license: CC0
 ---
 
-{{start|Text:Conversations/Winter}}
 {{audio|Bakaríið_samtal.mp3}}
 {{conversation|
 {{me|Það er kalt. Fingurnir mínir eru frosnir.}}
@@ -17,5 +16,5 @@ license: CC0
 {{me|Já! Förum í bakaríið.}}
 {{them|Er bakaríið opið í dag?}}
 {{me|Já, það er alltaf opið.}}
-}}{{end}}
+}}
 

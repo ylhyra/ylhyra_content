@@ -3,9 +3,8 @@ title: Lopapeysa
 tags:
 - Culture
 license: CC0
+level: B1
 ---
-
-<level level="b1"/>
 
 <Book audio="Lopapeysa.mp3">
 [[File:Lopapeysa – John Shortland.jpg|thumb]]

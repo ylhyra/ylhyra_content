@@ -3,10 +3,9 @@ title: Imba/grip
 tags:
 - Poems
 - Imba
+level: B2
 ---
 
-<level level="b2"/>
-{{start|Imba/grip}}
 {{poem|
 '''grip'''
 {{line|það er svo hljótt}}
@@ -34,5 +33,4 @@ tags:
 }}
 
 {{imba}}
-{{end}}
 

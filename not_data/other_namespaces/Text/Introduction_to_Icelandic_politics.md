@@ -3,7 +3,6 @@ title: Text:Introduction to Icelandic politics
 ---
 
 {{May contain errors}}
-{{start|Introduction to Icelandic politics}}
 
 Ísland er lýðræðislýðveldi. 'Lýðræði' þýðir að '''ís'''lendingar geta '''kjósið''' fulltrúa sem koma '''þeirra fram fyrir hönd <u>í</u>''' Alþingi. 'Lýðveldi' þýðir að Ísland hefur líka fors'''eti'''. Forse'''tin''' er þjóðarleiðtogi. 
 
@@ -22,5 +21,3 @@ Iceland's democracy is very old. At the magnificent Þingvellir the local chieft
 Today, the Alþingi refers to the national parliament, located at Austurvöllur in Reykjavík. After elections, the parliament is formed by the leaders of the different political parties, and if they agree, the parliament is then appointed by the president, now Guðni Thorlacius Jóhannesson. The head of government is the prime minister, currently Katrín Jakobsdóttir of the Green Party. The president and the cabinet are elected every four years. 
 
 While the parliament resides in the Alþingi, the president lives at Bessastaðir, not far from the capital. The place has been occupied since the year 1000. Fun fact: Snorri Sturluson, the famous poet and writer of the Edda, also lived there in the 13th century.
-
-{{end}}

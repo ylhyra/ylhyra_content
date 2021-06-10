@@ -3,9 +3,8 @@ title: Ekki
 tags:
 - Pronunciation
 license: CC0
+level: B1
 ---
-
-<level level="b1"/>
 
 `Ekki` has two different possible pronunciations:
 

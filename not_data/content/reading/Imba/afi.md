@@ -3,10 +3,9 @@ title: Imba/afi
 tags:
 - Imba
 - Poems
+level: B1
 ---
 
-<level level="b1"/>
-{{start|Imba/afi}}
 <Book audio="Imba Afi.mp3">
 {{poem|
 '''afi'''
@@ -38,5 +37,4 @@ tags:
 {{imba}}
 
 </Book>
-{{end}}
 

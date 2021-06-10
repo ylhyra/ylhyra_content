@@ -1,9 +1,8 @@
 ---
 title: -ó endings
 license: CC0
+level: B1
 ---
-
-<level level="b1"/>
 
 There exists a fun little pattern of shortening Icelandic words, which is to take the first syllable of the word<ref>In rarer cases the word can also somehow be distilled into a single syllable, like in ''afbrýðisamur''→''abbó''.</ref> and then add {{nowrap|"-ó"}} to it. This pattern is surprisingly common in certain contexts. While most of them can only be used in informal contexts or make you sound like a teenager, a handful can be used in relatively formal speech. 
 

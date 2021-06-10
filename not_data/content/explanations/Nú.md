@@ -1,9 +1,8 @@
 ---
 title: Nú
 license: CC0
+level: A2
 ---
-
-<level level="a2"/>
 
 ''Nú'' means "now". You can add it to the middle of sentences to create a much more relaxed sentence:
 

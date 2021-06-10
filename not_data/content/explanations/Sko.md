@@ -2,11 +2,8 @@
 title: Sko
 tags:
 - Words
+level: A2
 ---
-
-<level level="a2"/>
-
-{{start|Sko}}
 
 ''Sko''<ref>''Sko'' is originally an [[Boðháttur|order]] form of the word ''að skoða'' (to observe, to take a look at), but today the meaning is much more vague although "look at this!" is also a part of the meaning.</ref> can mean:
 
@@ -36,5 +33,3 @@ Examples:
 
 == Footnotes ==
 {{reflist}}
-
-{{end}}

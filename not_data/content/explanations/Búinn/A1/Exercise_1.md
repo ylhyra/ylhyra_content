@@ -2,9 +2,8 @@
 title: Búinn/A1/Exercise 1
 tags:
 - Exercises
+level: A1
 ---
-
-<level level="a1"/>
 
 This is an exercise for the use of the word [[búinn]]. 
 ***

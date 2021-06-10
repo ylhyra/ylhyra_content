@@ -4,9 +4,9 @@ redirects:
 - Kjamanden/Fyrir 20 árum var ég ólæs og kunni
 tags:
 - Tweets
+level: B2
 ---
 
-<level level="b2"/>
 {{tweet
 |text=Fyrir 20 árum var ég ólæs og kunni varla að tala. Núna er ég fluglæs og tala við alls konar fólk sem á vegi mínum verður.
 |audio=fxWp.mp3

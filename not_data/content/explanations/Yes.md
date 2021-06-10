@@ -8,7 +8,6 @@ tags:
 - Words
 ---
 
-{{start|Yes}}
 There are '''two''' ways to say "yes" in Icelandic:
 
 *When answering "yes" to a question, you use `já`.

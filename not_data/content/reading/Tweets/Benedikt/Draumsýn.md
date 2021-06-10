@@ -4,9 +4,9 @@ redirects:
 - Forseti2k32/draumsýn/ teikna blóm á daginn, veiða
 tags:
 - Tweets
+level: B2
 ---
 
-<level level="b2"/>
 {{tweet
 |text=Draumsýn: Teikna blóm á daginn, veiða fisk á kvöldin. Búa í vita í heittempruðu loftslagi.
 |audio=KRFC.mp3

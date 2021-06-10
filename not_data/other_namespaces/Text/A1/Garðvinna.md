@@ -1,9 +1,9 @@
 ---
 title: Text:A1/Garðvinna
 license: CC0
+level: A1
 ---
 
-{{start|Text:A1/Garðvinna}}<level level="a1"/>
 [[File:Þreyttur hundur.jpg|thumb]]
 <Book audio="Garðvinna.mp3">
 Ég sit einn úti í garði með hundinum mínum. 
@@ -18,5 +18,3 @@ Já, þau eru örugglega í sundi í þessu góða veðri.
 Hundurinn minn liggur með mér á grasinu.
 Hann er örugglega þyrstur.
 </Book>
-
-{{end}}

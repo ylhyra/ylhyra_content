@@ -5,9 +5,9 @@ redirects:
 tags:
 - Imba
 - Tweets
+level: C1
 ---
 
-<level level="c1"/>
 {{tweet
 |text=Lífið snýst um að vera nógu ligeglad til þess að njóta og nógu strangur við sig til þess að ganga vel.
 |audio=sVkS.mp3

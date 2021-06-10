@@ -2,9 +2,8 @@
 title: Asking for things
 redirects:
 - Course/A1/Get ég fengið
+level: A1
 ---
-
-<level level="a1"/>
 
 The way to politely ask for things in Icelandic is with "Can I get ...?". The word for "to get" is "'''að fá'''" but the word "can" makes it radically alter its form (see the article on the [[Supine|past participle]] for the reason why) so the result is "Get ég '''fengið''' ...? ''Fá'' and ''fengið'' are the same word, just with a different form. [https://inflections.ylhyra.is/f%C3%A1/464090 Click here] to see the full table of conjugation for this word.
 

@@ -91,6 +91,5 @@ tags:
 **[[Nicknames]] <level level="c1"/>
 <!--Linguistic purism-->
 
-__INDEX__
 {{button|[[Game:Kyn|Learn the Icelandic genders]]}}
 

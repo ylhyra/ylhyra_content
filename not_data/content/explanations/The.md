@@ -7,10 +7,8 @@ redirects:
 - With article
 - With definite article
 - Without article
+level: A1
 ---
-
-<level level="a1"/>
-{{start|Definite article/Introduction}}
 
 The word "'''the'''" is known as the [[w:Definite article|definite article]]. In English it is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the relevant word ("hús'''ið'''").
 
@@ -53,5 +51,3 @@ Again, the "the" comes at the end of words instead of at the front. The endings 
 :-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in
 
 You do not need to memorize these endings for now, but you do need to be aware of them.
-
-{{end}}

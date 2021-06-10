@@ -5,9 +5,8 @@ redirects:
 tags:
 - Pronunciation
 license: CC0
+level: A1
 ---
-
-<level level="a1"/>
 
 At the end of a sentence and before pauses, certain sounds become pronounced without the voice.
 
