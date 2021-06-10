@@ -1,10 +1,9 @@
 ---
-title: Ylhýra
+title: ""
 redirects:
-- Main Page
+- Ylhýra
 ---
 
-<!-- No start -->
 <div id="frontpage-splash-screen">
 <div id="frontpage-splash-screen-english">
 {{:Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence, allowing you to read with ease.

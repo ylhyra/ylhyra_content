@@ -27,3 +27,7 @@ title: Project:Software work in progess/Útlit
 *https://missiveapp.com/features
 *https://www.ussherpress.com/freshcards/
 *https://mochi.cards/
+*https://www.editorx.com/
+*https://formik.org/docs/overview
+*https://auth0.com/pricing
+*https://dashboard.magic.link/login

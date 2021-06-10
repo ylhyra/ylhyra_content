@@ -2,9 +2,7 @@
 title: Project:Poster
 ---
 
-*[https://www.researchgate.net/profile/Manny_Rayner/publication/335948557_Overview_of_LARA_A_Learning_and_Reading_Assistant/links/5d930e8e299bf10cff1cdb6f/Overview-of-LARA-A-Learning-and-Reading-Assistant.pdf Overview of LARA] (pdf)
-
-'''Ylhýra''' is a project analogous to LARA, but which has a stronger focus on manual word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts. 
+'''Ylhýra''' is a project with a strong focus on word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts. 
 
 ==Detailed translations over automatic translations==
 Automatic translations and dictionary definitions are beneficial, but manual translations can be more helpful, more specific, and more correct. The reader can have trust in the translations offered, as opposed to the automatic ones which may be confusing or incorrect.
