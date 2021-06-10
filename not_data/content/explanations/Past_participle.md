@@ -4,11 +4,12 @@ redirects:
 - Lhþt
 - Lýsingarháttur þátíðar Sagnbót#Sagnbót
 - Supine#Sagnbót
-tags: Verbs
+tags:
+- Verbs
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 The '''past participle''' (''lýsingarháttur þátíðar'') is a [[verb]] form where the verb has been formed as if it were an [[adjective]] (a describing word).
 

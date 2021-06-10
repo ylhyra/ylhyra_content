@@ -3,13 +3,14 @@ title: Prepositions
 redirects:
 - Preposition
 - Prepositions that cause cases
-tags: Cases
-tags: Prepositions
+tags:
+- Cases
+- Prepositions
 license: CC0
 ---
 
 {{start|Prepositions that cause cases}} 
-<level a1/> 
+<level level="a1"/> 
 
 [[w:Prepositions|Prepositions]] are the small words that indicate relationship between things, such as "from", "about", "below", "through" and so on.
 

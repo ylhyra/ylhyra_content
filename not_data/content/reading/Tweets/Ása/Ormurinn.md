@@ -2,7 +2,8 @@
 title: Tweets/Ása/Ormurinn
 redirects:
 - Asabergny/Ég er með harðsperrur eftir orminn.
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{start|Tweets/Ása/Ormurinn}}

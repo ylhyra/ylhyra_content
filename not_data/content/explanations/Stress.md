@@ -2,10 +2,11 @@
 title: Stress
 redirects:
 - Emphasis
-tags: Pronunciation
+tags:
+- Pronunciation
 ---
 
-<level a1/>
+<level level="a1"/>
 
 ==Stress on words==
 Words are always pronounced with the stress (the emphasis) on the first part (the first syllable) of the word:

@@ -1,6 +1,7 @@
 ---
 title: File:Börn við sjó.jpg
-tags: drawings
+tags:
+- drawings
 ---
 
 "'Dad's Coming!' (Harper's Weekly, Vol. XVII)" by Winslow Homer is licensed under CC0 1.0

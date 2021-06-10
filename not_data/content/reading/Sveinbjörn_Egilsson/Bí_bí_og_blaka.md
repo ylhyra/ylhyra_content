@@ -1,9 +1,10 @@
 ---
 title: Sveinbjörn Egilsson/Bí bí og blaka
-tags: Poems
+tags:
+- Poems
 ---
 
-<level c2/>
+<level level="c2"/>
 
 This is a popular lullaby written by scholar [[w:Sveinbjörn Egilsson|Sveinbjörn Egilsson]] (1791–1852).
 

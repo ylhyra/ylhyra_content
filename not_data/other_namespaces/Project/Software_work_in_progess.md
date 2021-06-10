@@ -1,6 +1,7 @@
 ---
 title: Project:Software work in progess
-tags: Code
+tags:
+- Code
 ---
 
 *Parsing should not take 4 seconds on huge documents.

@@ -5,7 +5,8 @@ redirects:
 - Icelandic alphabet
 - Pronunciation
 - Spelling
-tags: Pronunciation
+tags:
+- Pronunciation
 license: CC0
 ---
 

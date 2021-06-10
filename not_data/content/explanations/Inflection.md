@@ -8,7 +8,7 @@ redirects:
 
 :''For the change in pitch when speaking, see [[intonation]].''
 
-<level a1/>
+<level level="a1"/>
 
 '''Inflection''' (''beyging'') is a change in a word's form that shows what the word's role is in the sentence. It can for example show what is happening to the word, show how many there are, or show when things occur.
 

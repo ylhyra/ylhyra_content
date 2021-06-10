@@ -5,11 +5,12 @@ redirects:
 - Dative case
 - Þgf
 - Þágufall
-tags: Cases (sortkey: -3)
+tags:
+- Cases
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 There are four [[cases]] in Icelandic. The '''third case''' in the [[Declension table|declension table]] is known as the "dative case".<ref>On Ylhýra we refer to it as the "third case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
 In Icelandic the first case is called '''þágufall''' and is abbreviated as '''þgf.''' Þágufall literally means "receiving case". The English name "dative" means "appropriate for giving" in Latin.</ref> It shows that the word has something or is being given something.

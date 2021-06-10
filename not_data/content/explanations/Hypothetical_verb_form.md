@@ -6,13 +6,14 @@ redirects:
 - Subjunctive mood
 - Vh
 - Viðtengingarháttur
-tags: Grammatical moods
-tags: Subjunctive
+tags:
+- Grammatical moods
+- Subjunctive
 ---
 
 __TOC__
 
-<level b1/>
+<level level="b1"/>
 
 ==The hypothetical verb form==
 In Icelandic, [[verbs]] take on a different form when they express something that is hypothetical or uncertain. The form is known as the '''subjunctive''' ("viðtengingarháttur"). It appears in the following scenarios:

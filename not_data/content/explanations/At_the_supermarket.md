@@ -1,6 +1,7 @@
 ---
 title: At the supermarket
-tags: Conversations
+tags:
+- Conversations
 license: CC0
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Project:Work in progress/Culture
-tags: Todo
-tags: Culture
+tags:
+- Todo
+- Culture
 ---
 
 ==Daily life==

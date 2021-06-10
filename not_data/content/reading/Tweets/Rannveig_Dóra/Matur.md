@@ -2,10 +2,11 @@
 title: Tweets/Rannveig Dóra/Matur
 redirects:
 - Rannveigdora/Maturinn er tilbúinn
-tags: Tweets
+tags:
+- Tweets
 ---
 
-<level a1/>
+<level level="a1"/>
 {{tweet
 |text=„Rannveig Dóra, maturinn er tilbúinn“<br/>
 Uppáhalds setningin mín í lífinu

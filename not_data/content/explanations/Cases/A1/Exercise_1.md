@@ -1,10 +1,11 @@
 ---
 title: Cases/A1/Exercise 1
-tags: Exercises
+tags:
+- Exercises
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 {{start|Cases/A1/Excercise 1}}Getting a feel for the [[Cases|four cases]] of Icelandic does take some time, but through repitition it becomes second nature. These are the four cases for the word "my hamburger" (literally "the hamburger of mine"). You can [https://inflections.ylhyra.is/hamborgari click here] to all the case tables for the word. Notice that the basic word is just "hamborgari", the additional "-nn" means "[[Definite article|''the'']]" (known as the [[Definite article|definite article]]). The reason we add "the" to the word is that to say "my hamburger" you have to say "'''the''' hamburger of mine" (see [[My|here]] for a further explanation).{{declension-singular|hér er '''hamborgari<u>nn</u> minn'''|um '''hamborgara<u>nn</u> minn'''|  frá '''hamborgara<u>num</u> mínum'''| til '''hamborgara<u>ns</u> míns'''}}
 The words "[[Helper words for declension|hér er, um, frá, til]]" are not a part of the sentence "my hamburger", instead they are [[Helper words for declension|helper words]] that we use to create the four items in the table. Speakers of Icelandic are not able to see a word and immediately tell you, for example, how the word is in the [[Third case|third case]]. Instead they have to generate a sentence (such as here "'''from''' my hamburger") that forces the word into the correct form — since the speaker has an innate feel for sentence structure the brain places it into the correct form, but the brain has no concept of a word being the third case or something else.

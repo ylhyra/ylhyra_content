@@ -2,7 +2,8 @@
 title: Þetta
 redirects:
 - Þessi
-tags: Pronouns
+tags:
+- Pronouns
 ---
 
 [[:Text:Þetta/Intro]]

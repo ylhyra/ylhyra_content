@@ -1,6 +1,7 @@
 ---
 title: Magnús Jochum Pálsson/Pípulækningar
-tags: Text
+tags:
+- Text
 ---
 
 <div class="book" data-translate="true" data-audio-file="Pípulækningar.mp3">

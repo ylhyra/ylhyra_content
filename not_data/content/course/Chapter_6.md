@@ -1,6 +1,7 @@
 ---
 title: Chapter 6
-tags: Chapters
+tags:
+- Chapters
 ---
 
 =Verbs in Icelandic=

@@ -1,6 +1,7 @@
 ---
 title: Hljóta
-tags: Words
+tags:
+- Words
 license: CC0
 ---
 

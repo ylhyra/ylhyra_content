@@ -1,12 +1,13 @@
 ---
 title: Future
-tags: Verbs
+tags:
+- Verbs
 license: CC0
 ---
 
 __INDEX__
 {{start|Future}}
-<level a1/>
+<level level="a1"/>
 
 Talking about things that will happen in the future is easy, you just speak the same way as if you were speaking about the present. The listener can see whether you're actually talking about the present or the future from the context.
 
@@ -16,7 +17,7 @@ Talking about things that will happen in the future is easy, you just speak the 
 *Ég fer í sund um helgina. = I '''will''' go swimming next weekend.
 
 ==Verður = will be / becomes==
-<level a1/>
+<level level="a1"/>
 
 The only exception to the simple explanation above is that you use ''að vera'' (to be) when speaking about the present, but you use a different word, ''að verða'' (to become), when speaking about the future.
 
@@ -26,7 +27,7 @@ The only exception to the simple explanation above is that you use ''að vera'' 
 *Þetta verður mjög skemmtilegt.
 
 ==Mun = will==
-<level b1/>
+<level level="b1"/>
 
 There does exist one other way to speak about the future, using ''mun'' (will):
 

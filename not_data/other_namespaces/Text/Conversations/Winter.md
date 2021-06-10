@@ -2,7 +2,8 @@
 title: Text:Conversations/Winter
 redirects:
 -  Conversations/Winter
-tags: Conversations (sortkey: A1 01)
+tags:
+- Conversations
 license: CC0
 ---
 

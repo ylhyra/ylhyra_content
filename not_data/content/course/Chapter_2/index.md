@@ -1,6 +1,7 @@
 ---
 title: Chapter 2
-tags: Chapters
+tags:
+- Chapters
 ---
 
 == Thanks ==

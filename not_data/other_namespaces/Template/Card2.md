@@ -1,6 +1,7 @@
 ---
 title: Template:Card2
-tags: Card templates
+tags:
+- Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">

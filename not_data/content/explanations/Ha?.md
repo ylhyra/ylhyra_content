@@ -2,7 +2,8 @@
 title: Ha?
 redirects:
 - Ha
-tags: Words
+tags:
+- Words
 license: CC0
 ---
 

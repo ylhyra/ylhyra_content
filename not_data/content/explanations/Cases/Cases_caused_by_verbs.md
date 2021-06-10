@@ -3,8 +3,9 @@ title: Cases caused by verbs
 redirects:
 - Cases/Verbs that cause cases
 - Verbs that cause cases
-tags: Verbs
-tags: cases
+tags:
+- Verbs
+- cases
 ---
 
 kThis is a list of the most common verbs and which [[case]] they cause.

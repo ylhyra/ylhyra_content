@@ -2,11 +2,12 @@
 title: Tweets/Imba/Afgreiðslustörf
 redirects:
 - Skvisumus/Í afgreiðslustörfum sér maður það
-tags: Imba
-tags: Tweets
+tags:
+- Imba
+- Tweets
 ---
 
-<level a2/>
+<level level="a2"/>
 {{tweet
 |text=Í afgreiðslustörfum sér maður það besta og það versta í manninum.
 |audio=ZM8a.mp3

@@ -2,10 +2,11 @@
 title: Tweets/Benedikt/Ber
 redirects:
 - Forseti2k32/þegar árið 2016 er gert upp má ekki
-tags: Tweets
+tags:
+- Tweets
 ---
 
-<level c1/>
+<level level="c1"/>
 {{tweet
 |text=Þegar árið 2016 er gert upp má ekki gleyma því að berjasprettan seinasta sumar var sú mesta í manna minnum.
 |audio=cYmI.mp3

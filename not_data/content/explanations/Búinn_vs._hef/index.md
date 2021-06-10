@@ -1,11 +1,12 @@
 ---
 title: Búinn vs. hef
-tags: Word use
-tags: Grammar
+tags:
+- Word use
+- Grammar
 license: CC0
 ---
 
-<level a2/>
+<level level="a2"/>
 
 There are two different ways to express what you have done: '''hef''' ("have") and '''[[búinn]]''' ("done/finished").
 

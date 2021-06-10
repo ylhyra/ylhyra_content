@@ -2,10 +2,11 @@
 title: Tweets/Ása/Sjófánar
 redirects:
 - Asabergny/Í dag dundaði ég mér við að festa
-tags: Tweets
+tags:
+- Tweets
 ---
 
-<level b2/>
+<level level="b2"/>
 {{tweet
 |text=Í dag dundaði ég mér við að festa saman sjófána og hlustaði á íslensk sjómannalög á meðan. Já, ég er í bestu vinnu í heimi.
 |audio=RjKt.mp3

@@ -4,7 +4,8 @@ redirects:
 -  Template/Cc0
 -  Template/PD
 -  Template/Public domain
-tags: CC0
+tags:
+- CC0
 ---
 
 <includeonly></includeonly>

@@ -3,11 +3,12 @@ title: Verbs
 redirects:
 - Sagnorð
 - Verb
-tags: Verbs (sortkey: -1)
-tags: Parts of speech
+tags:
+- Verbs
+- Parts of speech
 ---
 
-<level a1/>
+<level level="a1"/>
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").
 
@@ -44,11 +45,11 @@ This pattern is extremely common.
 
 '''Further topics on verbs'''
 
-*[[Past participle]] <level a1/>
-*[[Future]] <level a1/>
-*[[Giving orders]] <level a1/>
-*[[-st verbs]] <level a1/>
-*[[Present participle]] <level a1/>
+*[[Past participle]] <level level="a1"/>
+*[[Future]] <level level="a1"/>
+*[[Giving orders]] <level level="a1"/>
+*[[-st verbs]] <level level="a1"/>
+*[[Present participle]] <level level="a1"/>
 
 <div class="notes">
 '''Notes'''

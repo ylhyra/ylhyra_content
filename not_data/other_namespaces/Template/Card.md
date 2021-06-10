@@ -1,6 +1,7 @@
 ---
 title: Template:Card
-tags: Card templates
+tags:
+- Card templates
 ---
 
 <div class=card>{{{1|}}}</div>

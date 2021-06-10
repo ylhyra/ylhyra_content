@@ -1,10 +1,11 @@
 ---
 title: Time
-tags: Time
-tags: Word use
+tags:
+- Time
+- Word use
 ---
 
-<level a1/>
+<level level="a1"/>
 
 {{start|Time}}
 
@@ -52,7 +53,7 @@ Iceland does not use AM/PM, instead time is written in a 24 hour format<ref grou
 |Klukkan sjö um kvöld.
 |}
 ==Very uncommon ways to talk about time==
-<level c1/>
+<level level="c1"/>
 
 You do not need to know the following words, but you might hear them in formal speech:
 

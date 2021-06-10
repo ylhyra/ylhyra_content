@@ -1,9 +1,10 @@
 ---
 title: Written Icelandic
-tags: Word use
+tags:
+- Word use
 ---
 
-<level a1/>
+<level level="a1"/>
 
 Written Icelandic is much more formal than spoken Icelandic. In particular:
 

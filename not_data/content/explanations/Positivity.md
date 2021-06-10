@@ -1,6 +1,7 @@
 ---
 title: Positivity
-tags: Word use
+tags:
+- Word use
 license: CC0
 ---
 

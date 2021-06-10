@@ -2,7 +2,8 @@
 title: Subjunctive/Exercise 1
 redirects:
 - Viðtengingarháttur/Exercise 1
-tags: Exercises
+tags:
+- Exercises
 ---
 
 [[Viðtengingarháttur]] appears when there is uncertainty and when the sentence is a secondary sentence attached to the main sentence with words such as ''nema'', ''til þess að'', ''svo að'', ''þó að'', or ''þótt'' (and often also ''að'') but '''not''' when connected with ''ef'', ''og'', ''en'', or ''þegar''.

@@ -3,7 +3,7 @@ title: Text:A1/Garðvinna
 license: CC0
 ---
 
-{{start|Text:A1/Garðvinna}}<level a1/>
+{{start|Text:A1/Garðvinna}}<level level="a1"/>
 [[File:Þreyttur hundur.jpg|thumb]]
 <Book audio="Garðvinna.mp3">
 Ég sit einn úti í garði með hundinum mínum. 

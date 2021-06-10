@@ -1,6 +1,7 @@
 ---
 title: Template:Declension
-tags: Table templates
+tags:
+- Table templates
 ---
 
 {| class="wikitable"

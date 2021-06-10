@@ -2,7 +2,8 @@
 title: Filler words
 redirects:
 - Hikorð
-tags: Word use
+tags:
+- Word use
 ---
 
 *[[Hérna]]

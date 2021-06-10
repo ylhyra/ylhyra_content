@@ -2,10 +2,11 @@
 title: Tweets/Þorsteinn/Afi
 redirects:
 - Kristnihald/Þú þarft virkilega að gera eitthvað
-tags: Tweets
+tags:
+- Tweets
 ---
 
-<level b2/>
+<level level="b2"/>
 {{tweet
 |text=Þú þarft virkilega að gera eitthvað í þínum málum ef tíræður afi þinn er bæði massaðri og liðugri heldur en þú.
 |audio=XbLk.mp3

@@ -1,6 +1,7 @@
 ---
 title: Project:Eliza Reid
-tags: Project
+tags:
+- Project
 ---
 
 [[File:Eliza_Reid.jpg|thumb|199x199px]]

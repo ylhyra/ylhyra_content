@@ -1,10 +1,11 @@
 ---
 title: Búinn vs. hef/Exercise 1
-tags: Exercises
+tags:
+- Exercises
 license: CC0
 ---
 
-<level a2/>
+<level level="a2"/>
 
 This is an exercise in when to use [[Búinn vs. hef|búinn and when to use hef]]. You use ''búinn'' when speaking of a recent or specific incident, and you use ''have'' if you're speaking generally. There are many instances where either can be used, but when in doubt, use "ég er búinn" instead of "ég hef".
 

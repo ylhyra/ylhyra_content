@@ -1,6 +1,7 @@
 ---
 title: Project:Drafts/Hannes Hafstein/Stormur
-tags: Poems
+tags:
+- Poems
 ---
 
 {{poem|

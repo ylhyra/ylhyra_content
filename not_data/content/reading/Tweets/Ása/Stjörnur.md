@@ -2,10 +2,11 @@
 title: Tweets/Ása/Stjörnur
 redirects:
 - Asabergny/Óska eftir félaga til að horfa með
-tags: Tweets
+tags:
+- Tweets
 ---
 
-<level b2/>
+<level level="b2"/>
 {{tweet
 |text=Óska eftir félaga til að horfa með á stjörnurnar. Má gjarnan þekkja himininn betur en ég.
 |audio=hRki.mp3

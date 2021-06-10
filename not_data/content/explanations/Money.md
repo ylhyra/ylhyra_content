@@ -1,6 +1,7 @@
 ---
 title: Money
-tags: Word use
+tags:
+- Word use
 license: CC0
 ---
 

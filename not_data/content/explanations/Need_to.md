@@ -1,6 +1,7 @@
 ---
 title: Need to
-tags: Word use
+tags:
+- Word use
 license: CC0
 ---
 

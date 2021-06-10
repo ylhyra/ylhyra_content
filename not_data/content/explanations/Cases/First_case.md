@@ -7,11 +7,12 @@ redirects:
 - Nom
 - Nominative
 - Nominative case
-tags: Cases (sortkey: -1)
+tags:
+- Cases
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 There are four [[cases]] in Icelandic. The '''first case''' in the [[Declension table|declension table]] is known as the "nominative case".<ref>On Ylhýra we refer to it as the "first case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
 In Icelandic the first case is called '''nefnifall''' and is abbreviated as '''nf.''' Nefnifall literally means "naming case". The English name "nominative" also means "related to naming" in Latin.</ref> It is the default case for a word and it shows that the word is doing something — it is the main [[w:Subject (grammar)|subject]] of the sentence.

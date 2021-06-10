@@ -1,10 +1,11 @@
 ---
 title: Kunna vs. þekkja vs. vita vs. geta
-tags: Word use
+tags:
+- Word use
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 The following words have very similar or overlapping meanings, causing learners some problems:
 

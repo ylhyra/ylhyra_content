@@ -2,7 +2,8 @@
 title: Explanations
 redirects:
 - Explanation
-tags: Content
+tags:
+- Content
 ---
 
 {{image|Landmannalaugar2.jpg|thumb}}
@@ -21,73 +22,73 @@ tags: Content
 *[[How to use Ylhýra|Using ''Ylhýra'']]
 <!--*[[:Category:Content|List of all pages]]-->
 *[[Course/A1/About Icelandic|About Icelandic]]
-*[[Alphabet and pronunciation]] <level a1/>
-**[[R]] <level a1/>
-**[[Devoicing]] <level a1/>
-**[[Disappearing sounds]] <level a1/>
-**[[Intonation]] <level a2/>
+*[[Alphabet and pronunciation]] <level level="a1"/>
+**[[R]] <level level="a1"/>
+**[[Devoicing]] <level level="a1"/>
+**[[Disappearing sounds]] <level level="a1"/>
+**[[Intonation]] <level level="a2"/>
 *Grammar
 **[[Verbs]]
 <!--***[[Að vera]]-->
-***[[Giving orders]] <level b1/>
-***[[Future]] <level a2/>
-***[[Miðmynd]] <level b1/>
-***[[Past participle]] <level a1/>
-***[[Present participle]] <level b1/>
+***[[Giving orders]] <level level="b1"/>
+***[[Future]] <level level="a2"/>
+***[[Miðmynd]] <level level="b1"/>
+***[[Past participle]] <level level="a1"/>
+***[[Present participle]] <level level="b1"/>
 **[[Adjectives]]
-***[[Strong and weak declension]] <level b1/>
-**[[Definite article]] <level a1/>
-**[[Cases]] <level a1/>
+***[[Strong and weak declension]] <level level="b1"/>
+**[[Definite article]] <level level="a1"/>
+**[[Cases]] <level level="a1"/>
 ***[[Course/A1/Introduction to cases|Introduction to cases]]
 ***[[Prepositions that cause cases]]
 ***[[Verbs that cause cases]]
-**[[Gender]] <level a1/>
-**[[Subjunctive]] <level b1/>
-***[[Politeness]] <level a2/>
-**[[Pronouns]] <level a1/>
-***[[Þetta]] <level a1/>
-***[[Possessions]] <level a1/>
+**[[Gender]] <level level="a1"/>
+**[[Subjunctive]] <level level="b1"/>
+***[[Politeness]] <level level="a2"/>
+**[[Pronouns]] <level level="a1"/>
+***[[Þetta]] <level level="a1"/>
+***[[Possessions]] <level level="a1"/>
 **Prepositions
-***[[Í vs. á]] <level a1/>
-***[[Prepositions that cause cases]] <level a1/>
+***[[Í vs. á]] <level level="a1"/>
+***[[Prepositions that cause cases]] <level level="a1"/>
 ** [[Course/A1/Questions|Questions]]
-<!--*** [[Questions|Word flipping]] <level a1/>-->
-*** [[Word merging]] <level a1/>
+<!--*** [[Questions|Word flipping]] <level level="a1"/>-->
+*** [[Word merging]] <level level="a1"/>
 *Word use
-**[[Asking for things]] <level a1/>
-**[[Búinn vs. hef]] <level a1/>
-**[[Word order]] <level a1/>
-**[[Written Icelandic]] <level b1/>
-**[[Sletta]] <level a1/>
-**[[Age]] <level a2/>
-**[[Hérna]] <level a1/>
-**[[Eiginlega]] <level b2/>
-**[[Sko]] <level a2/>
-**[[Fíla]] <level a1/>
-**[[Money]] <level a1/>
-**[[Need to]] <level a1/>
-**[[Opinion]] <level a1/>
-**[[Yes]] <level a1/>
-**[[Want]] <level a1/>
-**[[Time]] <level a1/>
-**[[Sæll]] <level a1/>
-**[[Positivity]] <level a1/>
-**[[Að]] <level a1/>
-**[[Þú merging]] <level a1/>
-**[[Kunna vs. þekkja vs. vita vs. geta]] <level a1/>
-**[[Ha?]] <level a1/>
-**[[Kær]] <level a1/>
-**[[Sitt hvor]] <level b2/>
-**[[Heyrðu]] <level a1/>
-**[[Gjörðu svo vel]] <level a2/>
-**[[Náttúrulega]] <level a2/>
-**[[Skal]] <level b2/>
-**[[-ó endings]] <level b1/>
-**[[Ætli]] <level c1/>
-**[[Nú]] <level a2/>
+**[[Asking for things]] <level level="a1"/>
+**[[Búinn vs. hef]] <level level="a1"/>
+**[[Word order]] <level level="a1"/>
+**[[Written Icelandic]] <level level="b1"/>
+**[[Sletta]] <level level="a1"/>
+**[[Age]] <level level="a2"/>
+**[[Hérna]] <level level="a1"/>
+**[[Eiginlega]] <level level="b2"/>
+**[[Sko]] <level level="a2"/>
+**[[Fíla]] <level level="a1"/>
+**[[Money]] <level level="a1"/>
+**[[Need to]] <level level="a1"/>
+**[[Opinion]] <level level="a1"/>
+**[[Yes]] <level level="a1"/>
+**[[Want]] <level level="a1"/>
+**[[Time]] <level level="a1"/>
+**[[Sæll]] <level level="a1"/>
+**[[Positivity]] <level level="a1"/>
+**[[Að]] <level level="a1"/>
+**[[Þú merging]] <level level="a1"/>
+**[[Kunna vs. þekkja vs. vita vs. geta]] <level level="a1"/>
+**[[Ha?]] <level level="a1"/>
+**[[Kær]] <level level="a1"/>
+**[[Sitt hvor]] <level level="b2"/>
+**[[Heyrðu]] <level level="a1"/>
+**[[Gjörðu svo vel]] <level level="a2"/>
+**[[Náttúrulega]] <level level="a2"/>
+**[[Skal]] <level level="b2"/>
+**[[-ó endings]] <level level="b1"/>
+**[[Ætli]] <level level="c1"/>
+**[[Nú]] <level level="a2"/>
 *Other
-**[[Style of Icelandic used in the news]] <level b2/>
-**[[Nicknames]] <level c1/>
+**[[Style of Icelandic used in the news]] <level level="b2"/>
+**[[Nicknames]] <level level="c1"/>
 <!--Linguistic purism-->
 
 __INDEX__

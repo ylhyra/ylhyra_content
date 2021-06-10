@@ -2,7 +2,8 @@
 title: Tweets/Branddís/Borðaraðir
 redirects:
 - Branddis Asrun/Bjó til plan þar sem borðaraðirnar
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{tweet

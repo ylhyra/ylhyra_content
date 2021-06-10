@@ -2,7 +2,8 @@
 title: Text:Conversations/Eldamennska
 redirects:
 -  Conversations/Eldamennska
-tags: Conversations (sortkey: A1)
+tags:
+- Conversations
 ---
 
 {{conversation|

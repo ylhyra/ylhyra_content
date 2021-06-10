@@ -1,10 +1,11 @@
 ---
 title: Fóstbræður
-tags: Culture
+tags:
+- Culture
 license: CC0
 ---
 
-<level a2/>
+<level level="a2"/>
 [[File:Fósbræður.jpg|thumb|303x303px]]
 <Book audio="Fóstbræður2.mp3">
 Fóstbræður er íslenskur sjónvarpsþáttur sem var sýndur frá nítján hundruð níutíu og sjö til tvö þúsund og eitt. 

@@ -1,10 +1,11 @@
 ---
 title: Imba/grip
-tags: Poems
-tags: Imba
+tags:
+- Poems
+- Imba
 ---
 
-<level b2/>
+<level level="b2"/>
 {{start|Imba/grip}}
 {{poem|
 '''grip'''

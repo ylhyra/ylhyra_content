@@ -1,9 +1,10 @@
 ---
 title: Eiginlega
-tags: Words
+tags:
+- Words
 ---
 
-<level b2/>
+<level level="b2"/>
 
 *`Hvað gerðist '''eiginlega'''?`
 *`Ég '''eiginlega''' gleymdi að taka kjúklinginn út úr frystinum.`

@@ -1,10 +1,11 @@
 ---
 title: Imba/current mood
-tags: Poems
-tags: Imba
+tags:
+- Poems
+- Imba
 ---
 
-<level b1/>
+<level level="b1"/>
 {{start|Imba/current mood}}
 {{poem|
 '''''current mood'''''

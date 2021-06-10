@@ -1,6 +1,7 @@
 ---
 title: Template:Write is en
-tags: Card templates
+tags:
+- Card templates
 ---
 
 {{card|

@@ -7,7 +7,8 @@ redirects:
 - Realis
 - Realis mood
 - Regular verb form
-tags: Grammatical moods
+tags:
+- Grammatical moods
 ---
 
 The '''indicative''' ("framsöguháttur") is the default [[Grammatical mood|grammatical mood]] of [[verbs]]. It indicates that something is a fact, such as in "hann '''fer'''" (he goes) and "við '''fórum'''" (we went).

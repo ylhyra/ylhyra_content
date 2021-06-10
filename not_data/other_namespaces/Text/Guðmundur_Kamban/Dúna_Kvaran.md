@@ -1,6 +1,7 @@
 ---
 title: Text:Guðmundur Kamban/Dúna Kvaran
-tags: Text
+tags:
+- Text
 ---
 
 Guðmundur Kamban

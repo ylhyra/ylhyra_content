@@ -3,7 +3,7 @@ title: Vestmannaeyjar
 license: CC0
 ---
 
-<level a2/>
+<level level="a2"/>
 {{image|Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg}}
 {{start|Vestmannaeyjar}}
 <div data-translate="true" data-audio-file="Vestmannaeyjar.mp3">

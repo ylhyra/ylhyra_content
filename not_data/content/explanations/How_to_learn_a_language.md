@@ -2,7 +2,8 @@
 title: How to learn a language
 redirects:
 - Course/A1/How to learn a language
-tags: Content
+tags:
+- Content
 license: CC0
 ---
 

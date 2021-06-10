@@ -3,12 +3,13 @@ title: Kær
 redirects:
 - Kæri
 - Kærlega
-tags: Word use
-tags: Words
+tags:
+- Word use
+- Words
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 {{start|Kær}}
 `Kær` means ''dear'', ''beloved'', or ''cherished''. It is directly related to the English word ''cherished'', both came from the French word ''cher'' (it reached Iceland through the French [[w:Chivalric sagas|chivalric sagas]]).

@@ -2,7 +2,8 @@
 title: Texts
 redirects:
 - Text
-tags: Content
+tags:
+- Content
 ---
 
 __INDEX__ 

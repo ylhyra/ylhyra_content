@@ -2,7 +2,8 @@
 title: Tweets/Branddís/Danmörk
 redirects:
 - Branddis Asrun/Einföld lausn á þessu máli. Við bjöllum
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{tweet

@@ -6,7 +6,7 @@ redirects:
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 When saying that something belongs to you, you have to add "[[the]]" to the word. "My cat" in Icelandic is "''köttur'''inn''' '''minn'''''" ("'''the''' cat (of) '''mine'''").
 

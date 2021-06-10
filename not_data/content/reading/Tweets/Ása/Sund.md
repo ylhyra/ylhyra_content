@@ -2,7 +2,8 @@
 title: Tweets/Ása/Sund
 redirects:
 - Asabergny/Hver sundferð er endurfæðing
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{tweet

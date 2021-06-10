@@ -6,11 +6,12 @@ redirects:
 - Gen
 - Genitive
 - Genitive case
-tags: Cases (sortkey: -4)
+tags:
+- Cases
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 There are four [[cases]] in Icelandic. The '''fourth case''' in the [[Declension table|declension table]] is known as the "genitive case".<ref>On Ylhýra we refer to it as the "fourth case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
 In Icelandic the first case is called '''eignarfall''' and is abbreviated as '''ef.''' Eignarfall literally means "owning case". The English name "genitive" means "pertaining to origin" in Latin.</ref>  It shows that the word belongs to something.

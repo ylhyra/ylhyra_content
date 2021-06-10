@@ -1,6 +1,7 @@
 ---
 title: Chapter 3
-tags: Chapters
+tags:
+- Chapters
 ---
 
 ==Ha?==

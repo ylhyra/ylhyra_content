@@ -3,8 +3,9 @@ title: Adjectives
 redirects:
 - Adjective
 - Lýsingarorð
-tags: Adjectives (sortkey: -1)
-tags: Parts of speech
+tags:
+- Adjectives
+- Parts of speech
 license: CC0
 ---
 

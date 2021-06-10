@@ -1,6 +1,7 @@
 ---
 title: Template:Declension singular and plural
-tags: Table templates
+tags:
+- Table templates
 ---
 
 {| class="wikitable"

@@ -1,10 +1,11 @@
 ---
 title: Imba/ég veit
-tags: Imba
-tags: Poems
+tags:
+- Imba
+- Poems
 ---
 
-<level b2/>
+<level level="b2"/>
 {{start|Imba/ég veit}}
 <Book audio="Imba eg veit.mp3">
 {{poem|

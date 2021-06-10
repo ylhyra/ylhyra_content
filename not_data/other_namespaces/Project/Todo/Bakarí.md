@@ -1,6 +1,7 @@
 ---
 title: Project:Todo/Bakarí
-tags: Todo
+tags:
+- Todo
 ---
 
 <!--

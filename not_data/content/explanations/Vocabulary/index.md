@@ -1,6 +1,7 @@
 ---
 title: Vocabulary
-tags: Content
+tags:
+- Content
 ---
 
 [[Vocabulary/All]]

@@ -1,6 +1,7 @@
 ---
 title: How to use Ylhýra
-tags: Culture
+tags:
+- Culture
 ---
 
 = How to use Ylhýra =

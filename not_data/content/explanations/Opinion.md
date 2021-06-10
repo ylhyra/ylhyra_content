@@ -1,10 +1,11 @@
 ---
 title: Opinion
-tags: Word use
+tags:
+- Word use
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 {{start|Opinion}}A common error is to translate "I think" as "ég hugsa". However, remember:
 

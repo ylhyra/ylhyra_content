@@ -1,6 +1,7 @@
 ---
 title: Project:Schedule
-tags: Todo
+tags:
+- Todo
 ---
 
 = Beginner - Draft schedule =

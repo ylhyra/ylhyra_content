@@ -1,6 +1,7 @@
 ---
 title: Project:About
-tags: Ylhýra
+tags:
+- Ylhýra
 ---
 
 {{button|[mailto:ylhyra@ylhyra.is Contact us]}}

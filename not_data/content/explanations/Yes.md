@@ -3,8 +3,9 @@ title: Yes
 redirects:
 - Course/A1/Yes
 - Jú
-tags: Word use
-tags: Words
+tags:
+- Word use
+- Words
 ---
 
 {{start|Yes}}

@@ -2,10 +2,11 @@
 title: Tweets/Branddís/Mössuð
 redirects:
 - Branddis Asrun/Á þessu ári ætla ég að verða svo ógeðslega
-tags: Tweets
+tags:
+- Tweets
 ---
 
-<level b2/>
+<level level="b2"/>
 {{tweet
 |text=Á þessu ári ætla ég að verða svo ógeðslega mössuð að hendurnar hætta að samræmast líkamanum og lærin verða jafn breið og þau eru löng.
 |audio=nHTo.mp3

@@ -1,6 +1,7 @@
 ---
 title: Template:Declension adjective singular all genders
-tags: Table templates
+tags:
+- Table templates
 ---
 
 {| class="wikitable"

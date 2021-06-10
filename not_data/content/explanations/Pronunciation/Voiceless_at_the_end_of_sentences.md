@@ -2,11 +2,12 @@
 title: Voiceless at the end of sentences
 redirects:
 - Devoicing
-tags: Pronunciation
+tags:
+- Pronunciation
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 At the end of a sentence and before pauses, certain sounds become pronounced without the voice.
 

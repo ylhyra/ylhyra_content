@@ -3,12 +3,13 @@ title: Búinn
 redirects:
 - Búin
 - Búið
-tags: Words
-tags: Word use
+tags:
+- Words
+- Word use
 license: CC0
 ---
 
-{{start|Búinn}}<level a1/>    
+{{start|Búinn}}<level level="a1"/>    
 
 '''Búinn''' means "done" or "finished". You use the word to when explaining what you '''have''' been doing, or more specifically when explaining what you've done ''recently'' and what you've ''already'' done.    
 

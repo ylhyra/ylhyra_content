@@ -4,7 +4,7 @@ license: CC0
 ---
 
 [[File:Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg]]
-<level b1/>
+<level level="b1"/>
 {{start|Nafn Vestmannaeyja}}
 <Book audio="Nafn vestmannaeyja2.mp3 ">
 {{audio|Nafn vestmannaeyja2.mp3}}

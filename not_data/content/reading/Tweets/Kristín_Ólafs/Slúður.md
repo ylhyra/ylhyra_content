@@ -2,7 +2,8 @@
 title: Tweets/Kristín Ólafs/Slúður
 redirects:
 - Krolafs/Þegar þú veist að það eru einhverjar
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{tweet

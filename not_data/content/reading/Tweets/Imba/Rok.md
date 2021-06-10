@@ -2,8 +2,9 @@
 title: Tweets/Imba/Rok
 redirects:
 - Skvisumus/Rok er svarti sauðurinn í veðurfjölskyldunni.
-tags: Imba
-tags: Tweets
+tags:
+- Imba
+- Tweets
 ---
 
 {{tweet

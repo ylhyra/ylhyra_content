@@ -2,7 +2,8 @@
 title: Template:Drag and drop
 redirects:
 -  Template/Drag drop
-tags: Card templates
+tags:
+- Card templates
 ---
 
 <div class="card" data-type="vocabulary" data-children="object">

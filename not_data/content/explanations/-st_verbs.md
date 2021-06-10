@@ -5,7 +5,8 @@ redirects:
 - Mediopassive voice
 - Middle voice
 - Miðmynd
-tags: Verbs
+tags:
+- Verbs
 license: CC0
 ---
 

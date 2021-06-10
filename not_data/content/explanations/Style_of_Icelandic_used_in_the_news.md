@@ -1,9 +1,10 @@
 ---
 title: Style of Icelandic used in the news
-tags: Culture
+tags:
+- Culture
 ---
 
-<level b2/>
+<level level="b2"/>
 <div class="book">
 If you've ever read an Icelandic newspaper, it may have surprised you just how strange the style of language used is. Words seem to be out of order and the vocabulary seems unnecessarily advanced.
 

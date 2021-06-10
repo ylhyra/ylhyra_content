@@ -2,7 +2,8 @@
 title: Questions
 redirects:
 - Question
-tags: Questions
+tags:
+- Questions
 ---
 
 =Questions=

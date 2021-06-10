@@ -4,7 +4,8 @@ redirects:
 - Case
 - Cases/Introduction
 - Course/A1/Introduction to cases
-tags: Cases (sortkey:   )
+tags:
+- Cases
 license: CC0
 ---
 

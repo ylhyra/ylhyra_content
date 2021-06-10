@@ -2,11 +2,12 @@
 title: Sitji guðs englar
 redirects:
 - Text/Sitji guðs englar
-tags: Poems
+tags:
+- Poems
 ---
 
 [[File:Loftmynd.jpeg|thumb]]
-<level c1/>
+<level level="c1"/>
 
 {{start|Sitji guðs englar}}
 This is an evening prayer commonly recited for children. It was written around 1650 by reverend Sigurður Jónsson.

@@ -2,11 +2,12 @@
 title: Imba/áferð og flug
 redirects:
 - Imba/áferð og flugi
-tags: Imba
-tags: Poems
+tags:
+- Imba
+- Poems
 ---
 
-<level c1/>
+<level level="c1"/>
 <Book>
 
 {{poem|

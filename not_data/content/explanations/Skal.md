@@ -2,11 +2,12 @@
 title: Skal
 redirects:
 - Skulu
-tags: Word use
+tags:
+- Word use
 license: CC0
 ---
 
-<level b2/>
+<level level="b2"/>
 <div class="book">
 The Icelandic word "'''skal'''" was once synonymous with the English word "shall", but that isn't the case anymore.
 ***

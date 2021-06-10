@@ -1,6 +1,7 @@
 ---
 title: Text:Hulda/Fáninn
-tags: Text
+tags:
+- Text
 ---
 
 Hulda (Unnur Benediktsdóttir Bjarklind, 1881–1946)

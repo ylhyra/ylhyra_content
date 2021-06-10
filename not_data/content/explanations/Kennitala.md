@@ -3,7 +3,8 @@ title: Kennitala
 redirects:
 - Kt
 - Kt.
-tags: Culture
+tags:
+- Culture
 license: CC0
 ---
 

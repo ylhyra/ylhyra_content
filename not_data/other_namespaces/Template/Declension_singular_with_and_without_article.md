@@ -1,6 +1,7 @@
 ---
 title: Template:Declension singular with and without article
-tags: Table templates
+tags:
+- Table templates
 ---
 
 {| class="wikitable"

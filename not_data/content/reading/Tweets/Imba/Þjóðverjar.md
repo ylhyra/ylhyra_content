@@ -2,8 +2,9 @@
 title: Tweets/Imba/Þjóðverjar
 redirects:
 - Skvisumus/Barnalegt af Þjóðverjum að vera ekki
-tags: Imba
-tags: Tweets
+tags:
+- Imba
+- Tweets
 ---
 
 {{tweet

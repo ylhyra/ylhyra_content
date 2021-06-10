@@ -1,7 +1,8 @@
 ---
 title: Sæll
-tags: Word use
-tags: Words
+tags:
+- Word use
+- Words
 ---
 
 {{:Text:Sæll/Intro}}

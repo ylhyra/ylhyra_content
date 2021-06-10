@@ -1,6 +1,5 @@
 ---
 title: Text:Njáls saga/Chapter 158
-tags: Njáls saga
 ---
 
 ## Chapter 158 - Of Flosi and Kari

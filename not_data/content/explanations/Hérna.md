@@ -1,10 +1,11 @@
 ---
 title: Hérna
-tags: Words
+tags:
+- Words
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 {{start|Hérna}}
 

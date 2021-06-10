@@ -6,7 +6,8 @@ redirects:
 - Kyn
 - Masculine
 - Neuter
-tags: Gender (sortkey: -1)
+tags:
+- Gender
 license: CC0
 ---
 

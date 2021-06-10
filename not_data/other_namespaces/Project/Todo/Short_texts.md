@@ -1,6 +1,7 @@
 ---
 title: Project:Todo/Short texts
-tags: Todo
+tags:
+- Todo
 ---
 
 ''Geared towards: beginner, no experience with languages''

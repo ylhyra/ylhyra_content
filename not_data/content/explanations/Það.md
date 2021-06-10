@@ -1,7 +1,8 @@
 ---
 title: Það
-tags: Word use
-tags: Words
+tags:
+- Word use
+- Words
 ---
 
 '''Það''' can be a:

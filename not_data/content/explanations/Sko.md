@@ -1,9 +1,10 @@
 ---
 title: Sko
-tags: Words
+tags:
+- Words
 ---
 
-<level a2/>
+<level level="a2"/>
 
 {{start|Sko}}
 

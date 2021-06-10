@@ -1,6 +1,7 @@
 ---
 title: Magnús Jochum Pálsson/Ánamaðkar
-tags: Text
+tags:
+- Text
 ---
 
 <small>[[Español/Magnús_Jochum_Pálsson/Ánamaðkar|Read in Spanish]]</small><br/>{{start|Magnús Jochum Pálsson/Ánamaðkar}}

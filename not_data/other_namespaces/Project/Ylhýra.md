@@ -2,7 +2,8 @@
 title: Project:Ylhýra
 redirects:
 -  Project
-tags: Ylhýra
+tags:
+- Ylhýra
 ---
 
 {{#addbodyclass:small_text}}

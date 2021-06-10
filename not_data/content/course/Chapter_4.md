@@ -1,6 +1,7 @@
 ---
 title: Chapter 4
-tags: Chapters
+tags:
+- Chapters
 ---
 
 ==At the supermarket==

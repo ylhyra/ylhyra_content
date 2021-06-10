@@ -2,7 +2,8 @@
 title: Tweets/Þorsteinn/Alþingi
 redirects:
 - Kristnihald/Það þarf engar siðareglur á Alþingi.
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{tweet

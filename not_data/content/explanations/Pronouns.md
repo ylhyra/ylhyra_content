@@ -1,7 +1,8 @@
 ---
 title: Pronouns
-tags: Parts of speech
-tags: Pronouns (sortkey: -1)
+tags:
+- Parts of speech
+- Pronouns
 ---
 
 =Pronouns=

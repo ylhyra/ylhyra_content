@@ -1,6 +1,7 @@
 ---
 title: Að vera
-tags: Verbs
+tags:
+- Verbs
 ---
 
 '''`Að vera`''' = to be

@@ -6,7 +6,8 @@ redirects:
 - Þf
 - Þf.
 - Þolfall
-tags: Cases (sortkey: -2)
+tags:
+- Cases
 license: CC0
 ---
 

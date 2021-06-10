@@ -3,7 +3,7 @@ title: Text:A1/Reykjavík
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 [[File:Reykjavík um vetur.jpg|thumb]]
 [[File:Kirkja.jpg|thumb]]
 <Book audio="Reykjavik.mp3">

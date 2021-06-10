@@ -6,7 +6,7 @@ redirects:
 license: CC0
 ---
 
-<level b1/>
+<level level="b1"/>
 
 The following is a highly simplified retelling of the middle part of ''[[w:Njáls saga|Brennu-Njáls saga]]'', one of the most popular Icelandic [[w:saga|sagas]]. ''Brennu-Njáls saga'' was written in the 13th and tells the story of events from around the year 1000 AD. 
 

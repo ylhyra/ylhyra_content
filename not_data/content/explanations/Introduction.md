@@ -1,6 +1,7 @@
 ---
 title: Introduction
-tags: Chapters (sortkey: Chapter 0)
+tags:
+- Chapters
 license: CC0
 ---
 

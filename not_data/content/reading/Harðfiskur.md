@@ -3,11 +3,12 @@ title: Harðfiskur
 redirects:
 - Text/A1/Harðfiskur
 - Text/A2/Harðfiskur
-tags: Culture
+tags:
+- Culture
 license: CC0
 ---
 
-<level a2/>
+<level level="a2"/>
 [[File:Stockfisch_in_Iceland_2005.JPG|thumb]]
 <Book audio="Harðfiskur.mp3">
 Harðfiskur er fiskur sem er búið að þurrka. Þess vegna er hann harður.

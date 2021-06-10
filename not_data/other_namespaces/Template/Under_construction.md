@@ -1,6 +1,7 @@
 ---
 title: Template:Under construction
-tags: Under construction
+tags:
+- Under construction
 ---
 
 <div class="banner">

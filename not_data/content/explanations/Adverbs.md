@@ -3,8 +3,9 @@ title: Adverbs
 redirects:
 - Adverb
 - Atviksorð
-tags: Nouns (sortkey: -1)
-tags: Parts of speech
+tags:
+- Nouns
+- Parts of speech
 license: CC0
 ---
 

@@ -3,7 +3,7 @@ title: Text/Milk
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 
 {{start|Text/Milk}}
 <div data-audio-file="{{{audio|Mjólk.mp3}}}">

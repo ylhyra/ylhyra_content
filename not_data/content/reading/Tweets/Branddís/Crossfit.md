@@ -2,7 +2,8 @@
 title: Tweets/Branddís/Crossfit
 redirects:
 - Branddis Asrun/Sá stelpu í crossfit nota sandpappír
-tags: Tweets
+tags:
+- Tweets
 ---
 
 {{tweet

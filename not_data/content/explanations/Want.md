@@ -1,9 +1,10 @@
 ---
 title: Want
-tags: Word use
+tags:
+- Word use
 ---
 
-<level a1/>
+<level level="a1"/>
 
 There are two ways to say “I want” in Icelandic:
 

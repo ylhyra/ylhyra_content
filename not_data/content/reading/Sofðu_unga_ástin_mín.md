@@ -1,6 +1,7 @@
 ---
 title: Sofðu unga ástin mín
-tags: Poems
+tags:
+- Poems
 ---
 
 {{start|Sofðu unga ástin mín}}

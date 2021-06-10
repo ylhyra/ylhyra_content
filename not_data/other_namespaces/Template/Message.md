@@ -1,6 +1,7 @@
 ---
 title: Template:Message
-tags: Card templates
+tags:
+- Card templates
 ---
 
 <div data-children="object">

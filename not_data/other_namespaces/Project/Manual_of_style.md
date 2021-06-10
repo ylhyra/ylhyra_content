@@ -1,6 +1,7 @@
 ---
 title: Project:Manual of style
-tags: Ylhýra
+tags:
+- Ylhýra
 ---
 
 These are recommendations for which style to follow when translating material:

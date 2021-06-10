@@ -2,12 +2,13 @@
 title: Age
 redirects:
 - Módel#Módel
-tags: Age
-tags: Word use
+tags:
+- Age
+- Word use
 license: CC0
 ---
 
-<level a1/>
+<level level="a1"/>
 {{start|Age}}
 =Age=
 

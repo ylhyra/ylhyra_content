@@ -1,9 +1,10 @@
 ---
 title: Vísur Vatnsenda-Rósu
-tags: Poems
+tags:
+- Poems
 ---
 
-<level c1/>
+<level level="c1"/>
 
 {{start|Vísur Vatnsenda-Rósu}}'''Vísur Vatnsenda-Rósu''' (''the verses of Rose from Waters-end'') is a love poem written by Rósa Guðmundsdóttir (1795–1855).
 

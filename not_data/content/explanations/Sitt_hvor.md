@@ -1,9 +1,10 @@
 ---
 title: Sitt hvor
-tags: Word use
+tags:
+- Word use
 ---
 
-<level b2/>
+<level level="b2"/>
 
 If “sitt hvor” wasn’t such a common phrase, the ‘correct’ way to [[decline]] it would be:
 

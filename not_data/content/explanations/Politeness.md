@@ -1,7 +1,8 @@
 ---
 title: Politeness
-tags: Subjunctive
-tags: Word use
+tags:
+- Subjunctive
+- Word use
 license: CC0
 ---
 
@@ -27,7 +28,6 @@ And we can even add more politeness:
 
 ***
 
--
 
 This is not very polite:
 
@@ -43,7 +43,6 @@ This is ''very'' polite:
 
 ***
 
--
 
 This is polite:
 

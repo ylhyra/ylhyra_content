@@ -1,6 +1,7 @@
 ---
 title: Numbers
-tags: Numbers
+tags:
+- Numbers
 license: CC0
 ---
 
