@@ -5,7 +5,7 @@ tags:
 ---
 
 {{instagram
-|file=Villi Neto – Íslendingar í sólarlöndum.mp4 ‎
+|file=Villi Neto – Íslendingar í sólarlöndum.mp4 
 |url=https://www.instagram.com/p/Bxh97plgX94/
 |user_image=VilliNeto.jpg
 |user_name=Villi Neto

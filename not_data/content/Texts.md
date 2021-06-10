@@ -6,8 +6,6 @@ tags:
 - Content
 ---
 
- 
-
 ==[[A1]]==
 
 *General
@@ -29,7 +27,7 @@ tags:
 *General
 **[[Harðfiskur]] – 135 words
 **[[Fóstbræður]] – 70 words
-**[[Bláa lónið‎‎]] – 180 words
+**[[Bláa lónið]] – 180 words
 **[[Vestmannaeyjar]] – 90 words
 *Videos
 **[[Villi Neto/Finnland|Finnland]] by Villi Neto
@@ -43,7 +41,7 @@ tags:
 
 ==[[B1]]==
 
-*[[Lúpína‎‎]] – 215 words
+*[[Lúpína]] – 215 words
 *[[Lopapeysa ]] – 125 words
 *[[Nafn Vestmannaeyja ]] – 100 words
 *[[Brennu-Njáls_saga/Höskuldur_og_brennan|Brennu-Njáls saga – Höskuldur og brennan]] – 2200 words

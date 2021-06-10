@@ -27,7 +27,7 @@ title: Text:Frontpage
 </div>
 <div>
 [[Lúpína|<span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/Iceland_Nootka_Lupin_Flower_Fields.jpg|width=300}})"></span>]]
-<span class="latest-articles-title">[[Lúpína]]‎‎</span><span class="latest-articles-description">215 words {{b1|small|category=no}}</span>
+<span class="latest-articles-title">[[Lúpína]]</span><span class="latest-articles-description">215 words {{b1|small|category=no}}</span>
 </div>
 <div>
 [[Sund|<span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/Sundlaug.jpg|width=300}})"></span>]]
