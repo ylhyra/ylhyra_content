@@ -6,7 +6,7 @@ redirects =
 >>>>
 
 {{start|Disappearing sounds}}
-{{a1}}
+<level a1/>
 
 For most Icelandic words, you pronounce all the sounds that are written. But as soon as you start stringing those words together to form sentences, multiple sounds completely disappear.
 
@@ -63,7 +63,7 @@ In particular you should remember the following common words:
 ***
 
 ==Common words starting with Þ, Ð, or H==
-{{a2}}
+<level a2/>
 
 ==={{anchor|Thorn}}Þ disappearing, or sounding like Ð or H===
 [[Þ]] has a tendancy to become softer, especially when it comes to common words like "this, that, there, it" when they are not the most important word of the sentence. There are four different ways you will hear Þ being pronounced:

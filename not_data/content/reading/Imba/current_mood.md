@@ -2,7 +2,7 @@ title = Imba/current mood
 redirects =
 >>>>
 
-{{b1}}
+<level b1/>
 {{start|Imba/current mood}}
 {{poem|
 '''''current mood'''''

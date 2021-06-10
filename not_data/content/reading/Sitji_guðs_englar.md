@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 [[File:Loftmynd.jpeg|thumb]]
-{{c1}}
+<level c1/>
 
 {{start|Sitji guðs englar}}
 This is an evening prayer commonly recited for children. It was written around 1650 by reverend Sigurður Jónsson.

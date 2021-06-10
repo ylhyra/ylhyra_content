@@ -5,7 +5,7 @@ redirects =
 {{start|Word order}}Word order in Icelandic is usually the same as you'd expect in English. Normal sentences start with the subject („Ég er köttur.“) while [[questions]] flip it around and start with the verb („Er ég köttur?“).
 
 ==Adverbs==
-{{A1}}
+<level a1/>
 
 In most cases when a sentence starts with an [[adverb]], the order changes. Compare:
 
@@ -22,7 +22,7 @@ Question words also change them:
 *'''Hvenær''' kemur hún?
 
 ===When ... then===
-{{B1}}
+<level b1/>
 
 For certain adverbs that contain two sub-clauses, only the second one changes the word order:
 

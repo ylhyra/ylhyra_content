@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 <noinclude>
-{{a1}}
+<level a1/>
 </noinclude>
 {{start|Text/Milk}}
 <div data-audio-file="{{{audio|Mjólk.mp3}}}">

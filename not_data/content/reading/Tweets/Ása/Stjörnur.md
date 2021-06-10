@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Ása/Stjörnur}}
-{{b2}}
+<level b2/>
 {{tweet
 |text=Óska eftir félaga til að horfa með á stjörnurnar. Má gjarnan þekkja himininn betur en ég.
 |audio=hRki.mp3

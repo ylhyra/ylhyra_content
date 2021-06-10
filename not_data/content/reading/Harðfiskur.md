@@ -5,7 +5,7 @@ redirects =
 >>>>
 
 {{start|Harðfiskur}}
-{{A2}}
+<level a2/>
 [[File:Stockfisch_in_Iceland_2005.JPG|thumb]]
 {{book start|audio=Harðfiskur.mp3}}
 {{audio|Harðfiskur.mp3}}

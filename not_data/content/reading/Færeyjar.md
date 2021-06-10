@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Færeyjar}}
-{{a1}}
+<level a1/>
 [[File:Idioma_feroés.PNG|thumb|237x237px]]
 {{book start|audio=Færeyska.mp3}}
 {{audio|Færeyska.mp3}}

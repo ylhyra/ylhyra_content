@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Sund}}
-{{a1}}
+<level a1/>
 [[File:Sundlaug.jpg|thumb|338x338px]]
 {{book start|audio=Sund.mp3}}
 {{audio|Sund.mp3}}

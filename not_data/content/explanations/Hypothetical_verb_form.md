@@ -9,7 +9,7 @@ redirects =
 
 __TOC__
 
-{{b1}}
+<level b1/>
 
 ==The hypothetical verb form==
 In Icelandic, [[verbs]] take on a different form when they express something that is hypothetical or uncertain. The form is known as the '''subjunctive''' ("viðtengingarháttur"). It appears in the following scenarios:

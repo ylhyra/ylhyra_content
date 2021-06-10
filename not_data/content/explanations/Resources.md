@@ -29,25 +29,25 @@ redirects =
 
 ==Teaching material==
 
-*{{a1}} [https://www.alarichall.org.uk/teaching/modern_icelandic.php Audio course for beginners, by Alaric Hall]
-*{{a1}} [http://tungumalatorg.is/ifu/files/2011/12/%C3%81fram%C3%ADslenska1hluti-2.pdf ''Áfram, áfram, áfram íslenska'', worksheets]
-*{{a1}} [https://icelandiconline.com/ Icelandic Online], material tailored to [https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland's classes]
+*<level a1/> [https://www.alarichall.org.uk/teaching/modern_icelandic.php Audio course for beginners, by Alaric Hall]
+*<level a1/> [http://tungumalatorg.is/ifu/files/2011/12/%C3%81fram%C3%ADslenska1hluti-2.pdf ''Áfram, áfram, áfram íslenska'', worksheets]
+*<level a1/> [https://icelandiconline.com/ Icelandic Online], material tailored to [https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland's classes]
 *Memrise courses: 
-**{{a1}} [https://www.memrise.com/course/357011/icelandic-in-easy-stages-with-sound/][https://www.memrise.com/course/134020/beginners-icelandic/][https://www.memrise.com/course/728073/icelandic-vocabulary-and-phrases/]
-**{{b1}} [https://www.memrise.com/course/5700211/arnis-icelandic-lesson-vocab-b1-b2/]
+**<level a1/> [https://www.memrise.com/course/357011/icelandic-in-easy-stages-with-sound/][https://www.memrise.com/course/134020/beginners-icelandic/][https://www.memrise.com/course/728073/icelandic-vocabulary-and-phrases/]
+**<level b1/> [https://www.memrise.com/course/5700211/arnis-icelandic-lesson-vocab-b1-b2/]
 *[https://www.icelandicmadeeasier.com/ IcelandicMadeEasier.com], various articles on grammar topics
 
 '''Books'''
 
-*{{a1}} [https://www.forlagid.is/vara/learning-icelandic-2/ ''Learning Icelandic'', textbook]. {{to USD|5200}}
-*{{a1}} [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar excercises]. {{to USD|3000}}
-*{{b1}} [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. {{to USD|3700}} (''Can not be purchased online'')
+*<level a1/> [https://www.forlagid.is/vara/learning-icelandic-2/ ''Learning Icelandic'', textbook]. {{to USD|5200}}
+*<level a1/> [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar excercises]. {{to USD|3000}}
+*<level b1/> [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. {{to USD|3700}} (''Can not be purchased online'')
 
 ==Texts==
 
-*{{b2}} [http://digicoll.library.wisc.edu/IcelOnline/Browse.html#bilingual Bilingual texts] from ''Carry On Icelandic'' (2004)
-*{{a2}} [https://www.forlagid.is/vara/arstidir/ ''Árstíðir''] (2020) – Short stories for learners of Icelandic {{usd|2900}}
-*{{c1}} [https://www.forlagid.is/vara/joakim-aðalond-ævi-og-storf/ Donald Duck magazines] – these magazines are extremely popular with children in Iceland and Northern Europe.{{usd|1700}}
+*<level b2/> [http://digicoll.library.wisc.edu/IcelOnline/Browse.html#bilingual Bilingual texts] from ''Carry On Icelandic'' (2004)
+*<level a2/> [https://www.forlagid.is/vara/arstidir/ ''Árstíðir''] (2020) – Short stories for learners of Icelandic {{usd|2900}}
+*<level c1/> [https://www.forlagid.is/vara/joakim-aðalond-ævi-og-storf/ Donald Duck magazines] – these magazines are extremely popular with children in Iceland and Northern Europe.{{usd|1700}}
 
 '''Other recommended reading'''
 
@@ -112,7 +112,7 @@ redirects =
 
 ==Videos==
 
-*{{a1}} [http://tungumalatorg.is/viltu_laera_islensku/en Viltu læra íslensku], '''has subtitles'''
+*<level a1/> [http://tungumalatorg.is/viltu_laera_islensku/en Viltu læra íslensku], '''has subtitles'''
 *Latibær [https://www.youtube.com/playlist?list=PLSqBgl5gIvtNSzoWv-vJwbP4qL9Tb20rs]
 *Fairy tales [https://www.youtube.com/watch?v=eUAaeMNxJ1w] [https://www.youtube.com/watch?v=LGjEp7yxulk] [https://www.youtube.com/watch?v=TXFvcitHAUs]
 *[https://www.youtube.com/watch?v=f5qcytqPIjc Skýjahöllin]

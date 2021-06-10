@@ -2,7 +2,7 @@ title = Imba/grip
 redirects =
 >>>>
 
-{{B2}}
+<level b2/>
 {{start|Imba/grip}}
 {{poem|
 '''grip'''

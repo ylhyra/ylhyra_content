@@ -2,7 +2,7 @@ title = Present participle
 redirects =
 >>>>
 
-{{b1}}
+<level b1/>
 
 The '''present participle''' (''lýsingarháttur nútíðar'') is a [[verb]] form that describes something that is continually happening. This verb form is relatively rare – in almost all cases it's better to just use a simpler phrase. It is however one of the easiest verb forms to remember because it never changes forms – it looks the same for everyone. 
 

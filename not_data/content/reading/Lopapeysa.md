@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Lopapeysa}}
-{{b1}}
+<level b1/>
 
 {{book start|audio=Lopapeysa.mp3}}
 [[File:Lopapeysa – John Shortland.jpg|thumb]]

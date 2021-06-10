@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Benedikt/Draumsýn}}
-{{b2}}
+<level b2/>
 {{tweet
 |text=Draumsýn: Teikna blóm á daginn, veiða fisk á kvöldin. Búa í vita í heittempruðu loftslagi.
 |audio=KRFC.mp3

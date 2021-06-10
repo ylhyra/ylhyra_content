@@ -2,7 +2,7 @@ title = Sitt hvor
 redirects =
 >>>>
 
-{{B2}}
+<level b2/>
 
 If “sitt hvor” wasn’t such a common phrase, the ‘correct’ way to [[decline]] it would be:
 

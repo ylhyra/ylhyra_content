@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Ekki}}
-{{b1}}
+<level b1/>
 
 `Ekki` has two different possible pronunciations:
 

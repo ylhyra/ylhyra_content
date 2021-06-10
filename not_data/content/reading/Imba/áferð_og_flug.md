@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Imba/áferð og flug}}
-{{c1}}
+<level c1/>
 {{book start}}
 
 {{poem|

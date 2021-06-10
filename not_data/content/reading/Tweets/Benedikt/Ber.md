@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Benedikt/Ber}}
-{{c1}}
+<level c1/>
 {{tweet
 |text=Þegar árið 2016 er gert upp má ekki gleyma því að berjasprettan seinasta sumar var sú mesta í manna minnum.
 |audio=cYmI.mp3

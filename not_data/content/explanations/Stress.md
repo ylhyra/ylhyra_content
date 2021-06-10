@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Stress}}
-{{a1}}
+<level a1/>
 
 ==Stress on words==
 Words are always pronounced with the stress (the emphasis) on the first part (the first syllable) of the word:

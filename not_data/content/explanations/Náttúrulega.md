@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Náttúrulega}}
-{{b1}}
+<level b1/>
 
 The word "'''náttúrulega'''" {{listen|audio=1hAr.mp3}} (meaning ''naturally'', ''of course'') gets extremely shortened in spoken language when it has the meaning of "of course", and so it is pronounced /<u>náttla</u>/. {{listen|audio=6hyE.mp3}}
 

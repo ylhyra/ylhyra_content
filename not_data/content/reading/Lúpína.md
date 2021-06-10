@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Lúpína}}
-{{b1}}
+<level b1/>
 [[File:Iceland_Nootka_Lupin_Flower_Fields.jpg|center|700px]]
 {{book start|audio=Lúpína.mp3}}
 {{audio|Lúpína.mp3}}

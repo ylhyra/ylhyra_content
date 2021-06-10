@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Branddís/Mössuð}}
-{{b2}}
+<level b2/>
 {{tweet
 |text=Á þessu ári ætla ég að verða svo ógeðslega mössuð að hendurnar hætta að samræmast líkamanum og lærin verða jafn breið og þau eru löng.
 |audio=nHTo.mp3

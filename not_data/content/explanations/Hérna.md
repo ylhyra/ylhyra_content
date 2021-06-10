@@ -2,7 +2,7 @@ title = Hérna
 redirects =
 >>>>
 
-{{A1}}
+<level a1/>
 
 {{start|Hérna}}
 

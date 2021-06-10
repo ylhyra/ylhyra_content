@@ -4,7 +4,7 @@ redirects =
 - Verb
 >>>>
 
-<a1/>
+<level a1/>
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").
 
@@ -41,11 +41,11 @@ This pattern is extremely common.
 
 '''Further topics on verbs'''
 
-*[[Past participle]] {{a1}}
-*[[Future]] {{A2}}
-*[[Giving orders]] {{B1}}
-*[[-st verbs]] {{B1}}
-*[[Present participle]] {{b1}}
+*[[Past participle]] <level a1/>
+*[[Future]] <level a1/>
+*[[Giving orders]] <level a1/>
+*[[-st verbs]] <level a1/>
+*[[Present participle]] <level a1/>
 
 <div class="notes">
 '''Notes'''

@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Conversations/Prentari}}
-{{a1}}
+<level a1/>
 {{audio|Prentari.mp3}}
 {{conversation|
 {{me|Hjálp! Prentarinn minn virkar ekki!}}

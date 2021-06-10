@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Benedikt/Slydda}}
-{{c1}}
+<level c1/>
 {{tweet
 |text=Hef nokkuð áreiðanlegar heimildir fyrir því að Satan hafi fengið slyddu í vöggugjöf.
 |audio=vZvF.mp3

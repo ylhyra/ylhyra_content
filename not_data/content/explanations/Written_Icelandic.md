@@ -2,7 +2,7 @@ title = Written Icelandic
 redirects =
 >>>>
 
-{{a1}}
+<level a1/>
 
 Written Icelandic is much more formal than spoken Icelandic. In particular:
 

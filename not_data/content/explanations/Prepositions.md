@@ -5,7 +5,7 @@ redirects =
 >>>>
 
 {{start|Prepositions that cause cases}} 
-{{A1}} 
+<level a1/> 
 
 [[w:Prepositions|Prepositions]] are the small words that indicate relationship between things, such as "from", "about", "below", "through" and so on.
 

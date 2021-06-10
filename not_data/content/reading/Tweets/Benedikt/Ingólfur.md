@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Benedikt/Ingólfur}}
-{{b1}}
+<level b1/>
 {{tweet
 |text=„Við minnumst Ingólfs Arnarsonar í veislum<br>
 en óskum þess að skipið hans það hefði sokkið“<ref>According to tradition Ingólfur Arnarson was first permanent settler of Iceland who founded Reykjavík in the year 874. <br/>

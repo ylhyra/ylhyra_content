@@ -2,7 +2,7 @@ title = Sko
 redirects =
 >>>>
 
-{{a2}}
+<level a2/>
 
 {{start|Sko}}
 

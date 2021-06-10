@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Imba/Afgreiðslustörf}}
-{{a2}}
+<level a2/>
 {{tweet
 |text=Í afgreiðslustörfum sér maður það besta og það versta í manninum.
 |audio=ZM8a.mp3

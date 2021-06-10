@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Fóstbræður}}
-{{a2}}
+<level a2/>
 [[File:Fósbræður.jpg|thumb|303x303px]]
 {{book start|audio=Fóstbræður2.mp3}}
 {{audio|Fóstbræður2.mp3}}

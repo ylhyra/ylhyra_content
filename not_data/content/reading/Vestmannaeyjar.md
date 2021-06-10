@@ -2,7 +2,7 @@ title = Vestmannaeyjar
 redirects =
 >>>>
 
-{{a2}}
+<level a2/>
 {{image|Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg}}
 {{start|Vestmannaeyjar}}
 <div data-translate="true" data-audio-file="Vestmannaeyjar.mp3">

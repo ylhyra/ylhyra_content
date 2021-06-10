@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Text:A1/Reykjavík}}
-{{a1}}
+<level a1/>
 [[File:Reykjavík um vetur.jpg|thumb]]
 [[File:Kirkja.jpg|thumb]]
 {{book start|audio=Reykjavik.mp3}}

@@ -2,7 +2,7 @@ title = Kunna vs. þekkja vs. vita vs. geta
 redirects =
 >>>>
 
-{{a1}}
+<level a1/>
 
 The following words have very similar or overlapping meanings, causing learners some problems:
 

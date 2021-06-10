@@ -4,7 +4,7 @@ redirects =
 
 {{start|Want}}
 
-{{a1}}
+<level a1/>
 
 There are two ways to say “I want” in Icelandic:
 

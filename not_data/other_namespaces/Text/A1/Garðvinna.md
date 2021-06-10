@@ -2,7 +2,7 @@ title = Text:A1/Garðvinna
 redirects =
 >>>>
 
-{{start|Text:A1/Garðvinna}}{{a1}}
+{{start|Text:A1/Garðvinna}}<level a1/>
 [[File:Þreyttur hundur.jpg|thumb]]
 {{book start|audio=Garðvinna.mp3}}
 {{audio|Garðvinna.mp3}}

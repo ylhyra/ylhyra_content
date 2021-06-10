@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Style of Icelandic used in the news}}
-{{b2}}
+<level b2/>
 <div class="book">
 If you've ever read an Icelandic newspaper, it may have surprised you just how strange the style of language used is. Words seem to be out of order and the vocabulary seems unnecessarily advanced.
 

@@ -3,7 +3,7 @@ redirects =
 - Módel#Módel
 >>>>
 
-{{a1}}
+<level a1/>
 {{start|Age}}
 =Age=
 

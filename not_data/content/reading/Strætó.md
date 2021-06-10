@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 {{start|Strætó}}
-{{a1}}
+<level a1/>
 {{book start|audio=Strætó.mp3}}
 {{audio|Strætó.mp3}}
 [[File:Strætó.JPG|thumb]]

@@ -2,7 +2,7 @@ title = Intonation
 redirects =
 >>>>
 
-{{start|Intonation}}{{a2}}
+{{start|Intonation}}<level a2/>
 
 Intonation is the way you sing while speaking. Not all the words in a sentence have the same pitch (musical tone). For example in the English sentence "''You're cold''" the tone is going down on the last word, but in "''You're cold?''" the tone is rising, making it clear that it is a question.
 
@@ -33,7 +33,7 @@ Again, this is the most common way to sing sentences, even questions:
 **Hvað er eiginlega <sup>að</sup> <sub>þér</sub>
 
 == Other intonation forms ==
-{{a2}}
+<level a2/>
 
 Of course you have some freedom in your intonations. Sometimes people use sentences where the pitch is going up, it usually doesn't change the meaning at all.
 

@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Benedikt/Yfirmaður}}
-{{b2}}
+<level b2/>
 {{tweet
 |text=Verði ég yfirmaður á vinnustað mun ég sjá til þess að þar verði svefnherbergi.
 |audio=o2Js.mp3

@@ -3,7 +3,7 @@ redirects =
 >>>>
 
 [[File:Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg]]
-{{b1}}
+<level b1/>
 {{start|Nafn Vestmannaeyja}}
 {{book start|audio=Nafn vestmannaeyja2.mp3 }}
 {{audio|Nafn vestmannaeyja2.mp3}}

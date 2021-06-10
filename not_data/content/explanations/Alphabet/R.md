@@ -56,6 +56,6 @@ The name of the letter is "err".
 </div>
 
 [[Category:Pronunciation]]
-{{A1}}
+<level a1/>
 
 {{end}}

@@ -2,7 +2,7 @@ title = Búinn vs. hef
 redirects =
 >>>>
 
-{{a2}}
+<level a2/>
 
 There are two different ways to express what you have done: '''hef''' ("have") and '''[[búinn]]''' ("done/finished").
 

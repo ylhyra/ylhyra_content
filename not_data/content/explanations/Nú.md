@@ -2,7 +2,7 @@ title = Nú
 redirects =
 >>>>
 
-{{a2}}
+<level a2/>
 
 ''Nú'' means "now". You can add it to the middle of sentences to create a much more relaxed sentence:
 

@@ -2,7 +2,7 @@ title = Imba/ég veit
 redirects =
 >>>>
 
-{{b2}}
+<level b2/>
 {{start|Imba/ég veit}}
 {{book start|audio=Imba eg veit.mp3}}
 {{audio|Imba eg veit.mp3}}

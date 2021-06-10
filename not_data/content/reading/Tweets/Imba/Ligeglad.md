@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Imba/Ligeglad}}
-{{c1}}
+<level c1/>
 {{tweet
 |text=Lífið snýst um að vera nógu ligeglad til þess að njóta og nógu strangur við sig til þess að ganga vel.
 |audio=sVkS.mp3

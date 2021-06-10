@@ -2,7 +2,7 @@ title = Opinion
 redirects =
 >>>>
 
-{{a1}}
+<level a1/>
 
 {{start|Opinion}}A common error is to translate "I think" as "ég hugsa". However, remember:
 

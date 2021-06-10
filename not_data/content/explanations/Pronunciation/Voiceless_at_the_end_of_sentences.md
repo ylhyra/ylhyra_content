@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Devoicing}}
-{{A1}}
+<level a1/>
 
 At the end of a sentence and before pauses, certain sounds become pronounced without the voice.
 

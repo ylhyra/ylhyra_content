@@ -5,7 +5,7 @@ redirects =
 
 {{start|Þú merging}}
 {{DISPLAYTITLE:''Þú'' merging}}
-{{a1}}
+<level a1/>
 
 The word `þú` (you) wants to merge with the previous word if the previous word is a [[verb]]. This usually happens in [[questions]].
 

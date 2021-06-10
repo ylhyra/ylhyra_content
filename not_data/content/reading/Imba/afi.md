@@ -2,7 +2,7 @@ title = Imba/afi
 redirects =
 >>>>
 
-{{b1}}
+<level b1/>
 {{start|Imba/afi}}
 {{book start|audio=Imba Afi.mp3}}
 {{audio|Imba Afi.mp3}}

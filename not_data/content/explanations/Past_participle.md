@@ -5,7 +5,7 @@ redirects =
 - Supine#Sagnbót
 >>>>
 
-{{a1}}
+<level a1/>
 
 The '''past participle''' (''lýsingarháttur þátíðar'') is a [[verb]] form where the verb has been formed as if it were an [[adjective]] (a describing word).
 

@@ -4,7 +4,7 @@ redirects =
 >>>>
 
 {{start|Tweets/Rannveig Dóra/Matur}}
-{{a1}}
+<level a1/>
 {{tweet
 |text=„Rannveig Dóra, maturinn er tilbúinn“<br/>
 Uppáhalds setningin mín í lífinu

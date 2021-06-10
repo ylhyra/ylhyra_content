@@ -14,7 +14,7 @@ A special verb form known as '''boðháttur''' (''imperative'') 👮 is used to 
 *''Krakkar, '''gerið''' þetta fyrir mig.'' = Kids, '''do''' this for me.
 
 ==Ordering one person==
-{{b1}}
+<level b1/>
 
 To give orders to '''one''' person you need to make the word end in '''`-ðu`/`-du`/`-tu`'''. This '''`-ðu`/`-du`/`-tu`''' was originally the word ''þú'' that became merged with the word.<!-- Citation needed -->
 
@@ -44,7 +44,7 @@ Remove the `-a` ending and add a '''`-ðu`/`-du`/`-tu`'''
 ***
 
 ==Ordering multiple people==
-{{B2}}
+<level b2/>
 
 Giving orders to '''multiple''' people is much easier. See if you can see the pattern:
 

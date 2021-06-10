@@ -2,7 +2,7 @@ title = Eiginlega
 redirects =
 >>>>
 
-{{b2}}
+<level b2/>
 
 *`Hvað gerðist '''eiginlega'''?`
 *`Ég '''eiginlega''' gleymdi að taka kjúklinginn út úr frystinum.`
