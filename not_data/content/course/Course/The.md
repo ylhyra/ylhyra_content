@@ -127,7 +127,6 @@ The suffix for the "the" changes depending on a word's [[gender]], [[case]], and
 |}
 For now you will have to memorize which [[gender]] a word has, it's not possible to tell which category it belongs to just by looking at it. Later on in your studies you be able to notice a word's gender by seeing how it interacts with other words in the sentence such as [[adjectives]] and [[pronouns]].
 
-
 == Excercises ==
 Translate the following:
 

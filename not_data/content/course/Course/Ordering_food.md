@@ -5,7 +5,6 @@ title: Course/Ordering food
 ==Asking for coffee==
 "Að fá" means "to get". "Ég hef fengið" means "I have gotten". "Fá" and "fengið" are the same word, but "fengið" has a different form because it's in the [[Past participle|past participle]] form, same as "gotten". In both Icelandic and English, the [[Past participle|past participle]] appears when you say "I ''have'' gotten", but in Icelandic it also appears when you say "I ''can'' get" (if English followed the Icelandic pattern it would be "I ''can'' gotten").      
 
-
 *2|Góðan daginn.
 *2|Hérna, get ég fengið kaffi?
 *1|Já, hvernig kaffi vilt þú?

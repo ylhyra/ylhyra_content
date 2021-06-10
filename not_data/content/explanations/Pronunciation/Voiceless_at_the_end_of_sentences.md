@@ -3,6 +3,7 @@ title: Voiceless at the end of sentences
 redirects:
 - Devoicing
 tags: Pronunciation
+license: CC0
 ---
 
 {{start|Devoicing}}
@@ -24,6 +25,4 @@ So, at the end of a sentence:
 **{{listen|`Lö'''g''' eru lö'''g'''.`|audio=I3Il.mp3}}
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

@@ -17,7 +17,6 @@ tags: Card templates
 <div data-name="listen" data-children="boolean">{{{listen|}}}</div>
 <div data-name="image" style="max-width:150px">{{#if: {{{image|}}} | [[{{trim|{{{image}}}}}{{!}}300px]] |}}</div>
 <div data-name="notes">{{{notes|}}}</div>
-</div><noinclude>
+</div>
 {{/docs}}
 
-</noinclude>

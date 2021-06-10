@@ -23,6 +23,5 @@ This tweet is a quote to a song by singer-songwriter [[w:Megas|Megas]] (the Icel
 }}
 ==Notes==
 {{reflist}}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

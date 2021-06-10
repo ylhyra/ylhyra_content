@@ -118,5 +118,4 @@ __INDEX__
 {{Mailchimp}}
 
 
-
 {{end}}

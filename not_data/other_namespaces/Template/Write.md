@@ -14,7 +14,6 @@ tags: Card templates
 <div data-name="audio" data-children="string" class="hidden">{{filepath:{{{audio|}}}}}</div>
 <div data-name="listen" data-children="boolean">{{{listen|}}}</div>
 <div data-name="image" style="max-width:150px">{{#if: {{{image|}}} | [[{{trim|{{{image}}}}}{{!}}300px]] |}}</div>
-</div><noinclude>
+</div>
 {{/docs}}
 
-</noinclude>

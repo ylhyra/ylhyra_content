@@ -2,7 +2,6 @@
 title: Course/Why?
 ---
 
-
 ==Why?==
 "Af hverju?" means "why?".<ref>Word-by-word the translation is "Of what (reason)?"</ref> "Af því að" means "because".<ref>Word-by-word the translation is "Of it (reason) that".</ref>
 

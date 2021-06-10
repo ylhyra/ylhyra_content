@@ -15,6 +15,4 @@ Nýlega hef ég tekið upp á því að hringja í iðnaðarmenn í staðinn. Þ
 {{reflist}}
 <!--{{box|This short story was published in the 2018 book "Óbreytt ástand" by Magnús Jóchum Pálsson.}}-->
 {{end}}
-<noinclude>
 
-</noinclude>

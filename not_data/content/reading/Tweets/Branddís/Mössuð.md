@@ -18,6 +18,5 @@ tags: Tweets
 |user_picture=Tweet-Branddis_Asrun-vfvk14.jpg
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

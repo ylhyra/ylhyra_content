@@ -3,6 +3,7 @@ title: Brennu-Njáls saga/Höskuldur og brennan
 redirects:
 - Brennu-Njáls saga/Höskuldur og brennan/0
 - Njáls saga
+license: CC0
 ---
 
 <level b1/>
@@ -12,7 +13,6 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 {{button|[[/1|Start reading]]}}
 
 ***
-
 
 <!-- Total: 2150 words -->
 
@@ -44,4 +44,3 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 This is a retelling of chapters 94–130, the common printed version of ''Brennu-Njáls saga'' is 159 chapters in total. Several elements of the story are omitted for simplicity's sake.
 </div>
 
-{{cc0}}

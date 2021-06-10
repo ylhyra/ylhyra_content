@@ -5,6 +5,7 @@ redirects:
 - Lýsingarháttur þátíðar Sagnbót#Sagnbót
 - Supine#Sagnbót
 tags: Verbs
+license: CC0
 ---
 
 <level a1/>
@@ -124,5 +125,4 @@ The words listed above are the most important past participle forms that you nee
 
 </div>
 
-{{cc0}}
 

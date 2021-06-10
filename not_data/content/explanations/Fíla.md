@@ -1,6 +1,7 @@
 ---
 title: Fíla
 tags: Words
+license: CC0
 ---
 
 '''Fíla''' is slang for "to like something", it's particularly common when discussing how you liked a book, movie, or an activity.
@@ -15,4 +16,3 @@ It's an old loan word from the English "to feel", it is used similarly to how 19
 
 {{end}}
 
-<noinclude>{{cc0}}</noinclude>

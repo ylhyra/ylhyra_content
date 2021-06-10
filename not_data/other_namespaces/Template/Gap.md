@@ -2,6 +2,5 @@
 title: Template:Gap
 ---
 
-<span class="gap"></span><noinclude>
+<span class="gap"></span>
 
-</noinclude>

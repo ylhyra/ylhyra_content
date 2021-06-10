@@ -52,12 +52,6 @@ The name of the letter is "err".
 {{next simple|prev=p|next=s}}
 
 
-<div class="notes">
-'''Notes'''
-{{notelist}}
-</div>
-
-
 <level a1/>
 
 {{end}}

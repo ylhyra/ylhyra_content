@@ -2,7 +2,6 @@
 title: Brennu-Njáls saga/Höskuldur og brennan/Discussion
 ---
 
-
 ==Discussion==
 
 Here you've read a simplified retelling of the chapters leading up to the climactic event of ''[[:en:Brennu-Njáls saga|Brennu-Njáls saga]]'' ("''The Saga of Burnt Njáll''") in which the main character Njáll and all of his sons are killed when his house is burnt down.
@@ -14,6 +13,5 @@ Even being insulted can be sufficiently damaging to your reputation that you mus
 Njáll knows that he's too old to avenge the murder of his sons, so he chooses to die instead of living in shame.
 
 You can purchase a shortened version of the entire story in modern English [https://www.bokafelagid.is/products/the-saga-of-burnt-njal <u>here</u>] for 1,600 kr.
-
 
 [[File:Möðruvallabók f13r.jpg|thumb|center|270px|A part of ''Brennu-Njáls saga'' from a 14th century manuscript.]]

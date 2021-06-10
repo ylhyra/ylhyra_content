@@ -7,6 +7,7 @@ redirects:
 - Þf.
 - Þolfall
 tags: Cases (sortkey: -2)
+license: CC0
 ---
 
 {{start|Accusative case}}
@@ -45,6 +46,4 @@ The majority of [[Cases caused by verbs|verbs cause the second case]]. Among com
 {{cases}}
 {{notes}}
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

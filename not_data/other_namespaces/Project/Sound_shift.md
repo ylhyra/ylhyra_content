@@ -20,18 +20,15 @@ title: Project:Sound shift
 *jú → ý
 *jó → ý
 
-
 a mutation:
 
 *niður->neðar
 *vondur -> verri
 
-
 klofning??:
 
 *jö>i>ja   björn -> birni -> bjarnar, fjörður>firði>fjarðar
 *ö>e>a örn -> erni -> arnar, köttur>ketti>kattar
-
 
 óvíst:
 

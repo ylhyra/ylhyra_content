@@ -1,6 +1,7 @@
 ---
 title: Introduction
 tags: Chapters (sortkey: Chapter 0)
+license: CC0
 ---
 
 {{button|[[Chapter 1|Skip introduction]]}}
@@ -81,4 +82,3 @@ For a student of Icelandic, it can be a bit tiring when the bartender switches o
 
 ==References==
 {{reflist}}
-<noinclude>{{cc0}}</noinclude>

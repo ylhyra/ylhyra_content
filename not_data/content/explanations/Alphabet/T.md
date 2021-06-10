@@ -21,7 +21,6 @@ Doing the small breath of air (exhaling) after the letter is necessary. It is be
 ==Without a breath==
 {{listen|audio=Jap5.mp3}}
 
-
 This sound is the same as the above, just without the breath that comes after it. It is the same sound as the Icelandic [[D]] ("dansa"), and is the same sound as in the English ''s'''t'''and''. 
 
 In the middle of words or at the ends of sentences, '''''t''''' sounds like the Icelandic '''''d''''' or like the English ''s'''t'''and''.

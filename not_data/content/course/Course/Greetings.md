@@ -42,7 +42,6 @@ Notes on pronunciation:
 |{{is|sæl}}
 |}
 
-
 Notes on pronunciation:
 
 *"Sæll" is pronounced quickly (the æ is [[short]] because it's followed by two [[consonant]] letters). The double L is a [[Clicky double L|clicky double L]], meaning that you first pronounce a [[D]] sound and then a [[Breathy L|breathy L]] sound.

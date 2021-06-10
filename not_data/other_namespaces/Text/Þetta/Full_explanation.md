@@ -70,7 +70,5 @@ The default is also a neuter {{is|þetta}} {{hk}} when the noun is somewhere els
 |{{gray|til}} þessarar {{gray|konu}}
 |{{gray|til}} þessa {{gray|barns}}
 |}
-{{end}}<noinclude>
-==Notes==
-{{notelist}}
-</noinclude>
+{{end}}
+

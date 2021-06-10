@@ -4,6 +4,5 @@ redirects:
 -  Template/-
 ---
 
-<div style="clear:{{{1|both}}};"></div><noinclude>
+<div style="clear:{{{1|both}}};"></div>
 
-</noinclude>

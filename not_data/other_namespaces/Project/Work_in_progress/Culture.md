@@ -93,5 +93,4 @@ tags: Culture
 *Shared Nordic culture
 
 
-
 {{end}}

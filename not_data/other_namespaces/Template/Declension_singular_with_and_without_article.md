@@ -24,4 +24,4 @@ tags: Table templates
 !{{ef}}
 |{{is|{{trim|{{{5|}}}}}}}
 |{{is|{{trim|{{{9|}}}}}}}
-|}<noinclude></noinclude>
+|}

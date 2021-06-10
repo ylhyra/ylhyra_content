@@ -12,10 +12,7 @@ Gylfi konungur réð þar löndum er nú heitir Svíþjóð. Frá honum er það
 
 
 
-
-
 En sú kona var ein af ása ætt, hún er nefnd Gefjun. Hún tók fjóra öxn norðan úr Jötunheimum, en það voru synir jötuns og hennar, og setti þá fyrir plóg. En plógurinn gekk svo hart og djúpt að upp leysti landið, og drógu öxnirnir það land út á hafið og vestur og námu staðar í sundi nokkru. Þar setti Gefjun landið og gaf nafn og kallaði Selund. Og þar sem landið hafði upp gengið var þar eftir vatn. Það er nú Lögurinn kallaður í Svíþjóð, og liggja svo víkur í Leginum sem nes í Selundi. Svo segir Bragi skáld gamli:
-
 
 Gefjun dró frá Gylfa
 
@@ -33,18 +30,14 @@ fyrir vineyjar víðri
 
 valrauf, fjögur höfuð.
 
-
 '''2. kafli'''
 
 Gylfi konungur var maður vitur og fjölkunnugur. Hann undraðist það mjög er ásafólk var svo kunnugt að allir hlutir gengu að vilja þeirra. Það hugsaði hann hvort það myndi vera af eðli sjálfra þeirra eða myndi því valda goðmögn þau er þeir blótuðu.
 
-
 Hann byrjaði ferð sína til Ásgarðs og fór með laun og brá á sig gamals manns líki og duldist svo. En æsir voru því vísari að þeir höfðu spádóm, og sáu þeir ferð hans fyrr en hann kom og gerðu í móti honum sjónhverfingar. 
 
 
-
 En er hann kom í borgina, þá sá hann þar háa höll svo að varla mátti hann sjá yfir hana. Þak hennar var lagt gylltum skjöldum svo sem spónþak. Svo segir Þjóðólfur hinn hvinverski að Valhöll var skjöldum þökt:
-
 
 Á baki létu blíkja,
 
@@ -60,11 +53,7 @@ Gylfi sá mann í hallardurunum, og lék að handsöxum og hafði sjö senn á l
 
 
 
-
-
-
 Þar sá hann mörg gólf og margt fólk, sumt með leikum, sumir drukku, sumir með vopnum og börðust. Þá litaðist hann um og þótti margir hlutir ótrúlegir þeir er hann sá. Þá mælti hann:
-
 
 "Gáttir allar
 
@@ -80,11 +69,9 @@ sitja á fleti fyrir."
 
 Hann sá þrjú hásæti og hvert upp frá öðru og sátu þrír menn, sinn í hverju. Þá spurði hann hvert nafn höfðingja þeirra væri. Sá svarar er hann leiddi inn að sá er í hinu neðsta hásæti sat var konungur og heitir Hár, en þar næst sá er heitir Jafnhár, en sá ofarst er Þriðji heitir. Þá spyr Hár komandann hvort fleira er erindi hans, en heimill er matur og drykkur honum sem öllum þar í Hávahöll. Hann segir að fyrst vill hann spyrja ef nokkur er fróður maður inni. Hár segir að hann komi eigi heill út nema hann sé fróðari, og
 
-
 "stattu fram meðan þú fregn,
 
 sitja skal sá er segir."
-
 
 '''3. kafli'''
 
@@ -103,7 +90,6 @@ Hár segir: "Lifir hann of allar aldir og stjórnar öllu ríki sínu og ræður
 Þá mælti Gangleri: "Hvað hafðist hann að áður en himinn og jörð væru gjör?"
 
 Þá svarar Hár: "Þá var hann með hrímþursum."
-
 
 == Modern Icelandic ==
 ''Á einfaldri nútímaíslensku''

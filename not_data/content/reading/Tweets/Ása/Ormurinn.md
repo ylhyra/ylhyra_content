@@ -17,6 +17,5 @@ tags: Tweets
 |user_picture=Tweet-asabergny-jkfrbo.jpg
 |verified=
 }}
-{{end}}<noinclude>{{reflist}} 
+{{end}}{{reflist}} 
 
-</noinclude>

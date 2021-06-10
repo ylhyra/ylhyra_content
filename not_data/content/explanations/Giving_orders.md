@@ -5,6 +5,7 @@ redirects:
 - Imperative
 tags: Grammatical moods
 tags: Verbs
+license: CC0
 ---
 
 {{start|Giving orders}}
@@ -101,6 +102,4 @@ Negative orders are easier, you just start them with "do not" (''ekki'') and the
 
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

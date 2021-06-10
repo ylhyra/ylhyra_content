@@ -1,6 +1,7 @@
 ---
 title: Numbers
 tags: Numbers
+license: CC0
 ---
 
 {{start|Numbers}}
@@ -113,7 +114,5 @@ In case you want to count over one hundred, you will need to use the Icelandic w
 <!-- LM I don't understand this yet, but you use ordinals for dates and stuff. Need to have a warning about sixth being sjötta though -->
 fyrsti / fyrsta / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta
 
-
 {{end}}
 
-<noinclude>{{cc0}}</noinclude>

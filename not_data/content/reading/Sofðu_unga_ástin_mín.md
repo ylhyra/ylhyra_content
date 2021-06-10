@@ -29,7 +29,5 @@ tags: Poems
 {{end|Sofðu unga ástin mín}}
 
 
-<noinclude>
 
-</noinclude>
-<noinclude>{{public domain}}</noinclude>
+{{public domain}}

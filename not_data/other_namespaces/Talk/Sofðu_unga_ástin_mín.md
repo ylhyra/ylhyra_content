@@ -23,7 +23,6 @@ These troubles will soon teach you,
 as day turns to night,
 that people love, lose, cry, and mourn.
 
-
 Sleep, my young love.
 Outside, the rain is weeping.
 Mother will hold on to your precious toys,

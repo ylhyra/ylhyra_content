@@ -2,7 +2,6 @@
 title: File:Lopapeysa – John Shortland.jpg
 ---
 
-== Summary ==
 Image by John Shortland – https://www.flickr.com/photos/johnshortland/23414896233/
 
 Cropped from the original and color corrected.

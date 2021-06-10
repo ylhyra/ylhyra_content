@@ -1,6 +1,7 @@
 ---
 title: Need to
 tags: Word use
+license: CC0
 ---
 
 {{start|Need to}}The following words all mean "I have to / I need to / I must":
@@ -83,4 +84,3 @@ Eiga að means that you should do something, because someone told you to. The ve
 
 {{end}}
 
-<noinclude>{{cc0}}</noinclude>

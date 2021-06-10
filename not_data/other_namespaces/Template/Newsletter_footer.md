@@ -6,5 +6,5 @@ title: Template:Newsletter footer
 
 <div><span style="color: #6b6b6b;font-size:12px;">[mailto:ylhyra@ylhyra.is Email us] to suggest improvements or to report errors.</span>
 
-<span style="color: #6b6b6b;font-size:12px;">Wish to submit simple texts in Icelandic or <br />explanatory material in English? [{{fullurl:Project:Become a collaborator}} Click here]. </span> 
+<span style="color: #6b6b6b;font-size:12px;">Wish to submit simple texts in Icelandic or <br />explanatory material in English? [{{fullurl:Project:Become a collaborator}} Click here]. </span> 
 </div>

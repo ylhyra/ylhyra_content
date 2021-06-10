@@ -46,7 +46,6 @@ Inflecting incorrectly is usually okay when you're still at the [[A1]] level as 
 
 *[http://inflections.ylhyra.is/ A website where you can look up the inflections of words]
 
-
 <div class="notes">
 '''Notes'''
 

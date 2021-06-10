@@ -47,7 +47,6 @@ You order food by saying "Can I get coffee?"
 
 ==Language – I want==
 
-
 There are two ways to say “I want” in Icelandic:
 
 *`mig langar` = _I want, I desire_. This is the same variation as you might be familiar with from English, _“I '''long for''' the carefree days of my youth.”_ meaning having a strong desire for something, but in Icelandic the meaning is not as strong and generally just means “I want”.

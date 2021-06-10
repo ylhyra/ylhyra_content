@@ -18,7 +18,6 @@ Despite being written with an <code>h</code>, "hver" is actually pronounced like
 
 Mamma kemur heim klukkan 11:00.
 
-
 Hver er að syngja?
 Hvar er bakaríið?
 Hvenær er bakaríið opið?

@@ -11,7 +11,6 @@ tags: Card templates
 <div data-name="word_with_article" data-children="string">{{{icelandic with article|}}}</div>
 <div data-name="english" data-children="string">{{{english|}}}</div>
 <div data-name="audio" data-children="string">{{GetAudio|{{{icelandic|}}}}}</div>
-</div><noinclude>
+</div>
 <nowiki>{{Gender|icelandic|icelandic with article|gender|</nowiki>
 
-</noinclude>

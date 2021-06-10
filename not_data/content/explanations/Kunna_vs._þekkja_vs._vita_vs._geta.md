@@ -1,6 +1,7 @@
 ---
 title: Kunna vs. þekkja vs. vita vs. geta
 tags: Word use
+license: CC0
 ---
 
 <level a1/>
@@ -21,5 +22,3 @@ Fill in the blanks using the above words:
 
 {{end}}
 
-
-<noinclude>{{cc0}}</noinclude>

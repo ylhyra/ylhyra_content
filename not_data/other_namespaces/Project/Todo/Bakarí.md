@@ -23,7 +23,6 @@ Kristín hlægir, ‚Haha, hann hefur sjarma!‘ (?)
 Georg segir ‚Takk fyrir mjólkinni! Bless bless!‘
 ‚Bless!‘ segir Kristín. -->
 
-
 <!-- Það er ekki líklegt. -->
 
 Kristín og Katrín eru systur. Þær eru báðar mjög svangar og ætla þess vegna í bakaríið. Það tekur langan tíma að labba í bakaríið, og það

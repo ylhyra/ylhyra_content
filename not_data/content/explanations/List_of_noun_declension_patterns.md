@@ -338,7 +338,6 @@ Names:
 |búð'''a'''
 }}
 
-
 Regular words: 
 
 *mynd, sól, tónlist, sál, átt, bið, gæs, leið, list, mynd, rás, þjóð, ást, baun, blokk, borg, búð, frétt, hjálp, hurð, húð, lest, lykt, skák, skuldir, sorg, stjórn, sveit, von, heyrn, lausn, ferð, breidd, hæð, lengd, stærð, þyngd, einkunn, vakt, dýpt, hindrun, hugsun, höfuðborg, íbúð, ísbúð, ábyrgð, bíómynd, hugmynd, ljósmynd, tilraun, hljómsveit, framtíð, heimsókn, rannsókn, aðgerð, ritgerð, afsökun, hátíð, ull, bómull, hönnun, þróun, tónlist

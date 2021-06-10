@@ -5,6 +5,7 @@ redirects:
 - Disappearing vowel#Vowels that merge into the next vowel Disappearing vowels
 - Slurring
 tags: Pronunciation
+license: CC0
 ---
 
 {{start|Disappearing sounds}}
@@ -121,6 +122,4 @@ Mmm, góð sána og góðir vinir
 
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

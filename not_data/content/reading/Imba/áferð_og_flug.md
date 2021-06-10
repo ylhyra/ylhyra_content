@@ -8,7 +8,7 @@ tags: Poems
 
 {{start|Imba/áferð og flug}}
 <level c1/>
-{{book start}}
+<Book>
 
 {{poem|
 '''áferð og flug'''<ref>The title of this poem is a play on words. „Að vera á ferð og flugi“ means to be on the move or to be traveling to many places. „Á ferð“ (on travels) sound exactly like „áferð“ (texture).</ref>
@@ -23,14 +23,8 @@ tags: Poems
 }}
 }}
 
-{{book end}}
-
-
-<div class="">
-{{reflist}}
-</div>
+</Book>
 
 {{imba}}
 {{end}}
-
 

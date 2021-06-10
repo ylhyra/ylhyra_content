@@ -20,7 +20,4 @@ But we also use it when English would use an '''-ing''' ending:{{efn|The -ing ve
 *{{is|Hvað ert þú '''að''' gera?!}} = What are you doing?!
 
 {{:Text:Að/Intro/Vocabulary}}
-{{end}}<noinclude>
-==notes==
-{{notelist}}
-</noinclude>
+{{end}}

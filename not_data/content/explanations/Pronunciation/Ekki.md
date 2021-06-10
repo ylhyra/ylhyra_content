@@ -1,6 +1,7 @@
 ---
 title: Ekki
 tags: Pronunciation
+license: CC0
 ---
 
 {{start|Ekki}}
@@ -12,6 +13,4 @@ tags: Pronunciation
 # When unstressed, it is pronounced /iggyi/
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

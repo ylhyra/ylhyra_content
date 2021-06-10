@@ -36,7 +36,5 @@ If we're referring to something more generally or if we're pointing something ou
 
 {{comment|„Þetta er góð kaka, en '''þessi''' er betri.“}}
 
-{{end}}<noinclude>
-==Notes==
-{{notelist}}
-</noinclude>
+{{end}}
+

@@ -1,5 +1,6 @@
 ---
 title: Nú
+license: CC0
 ---
 
 <level a2/>
@@ -83,4 +84,3 @@ $cot$
 Ég veit það '''nú''' ekki alveg. – '''Well''', I don't quite know. 
 $cob$
 
-{{cc0}}

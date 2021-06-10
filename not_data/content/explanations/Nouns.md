@@ -5,6 +5,7 @@ redirects:
 - Noun
 tags: Nouns (sortkey: -1)
 tags: Parts of speech
+license: CC0
 ---
 
 '''Nouns''' (''nafnorð'') are the class of words that contain objects, creatures, ideas and so on such as: car, human, leg, happiness, Iceland.
@@ -17,5 +18,3 @@ If a word ends in a [[vowel]] in all [[cases]], its [[declension]] is said to be
 
 {{Parts of speech}}
 
-
-<noinclude>{{cc0}}</noinclude>

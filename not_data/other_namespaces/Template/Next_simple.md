@@ -9,8 +9,6 @@ title: Template:Next simple
 <div style="float:right;">
 {{#if:{{{next|}}}|{{button|[[{{{next|}}}|Next]]}}|}}
 </div>
-</div><div style="clear:both;"></div><noinclude>
+</div><div style="clear:both;"></div>
 
 
-
-</noinclude>

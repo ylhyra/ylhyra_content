@@ -25,7 +25,5 @@ tags: Tweets
 
 "Ligeglad" is a loan word from Danish and describes the very Danish behavior of not stressing about life. Using Danish words in Icelandic is usually done in a somewhat joking manner, but you'll still hear it from time to time.
 
-{{end}}<noinclude>
+{{end}}
 
-
-</noinclude>

@@ -4,6 +4,7 @@ redirects:
 - Módel#Módel
 tags: Age
 tags: Word use
+license: CC0
 ---
 
 <level a1/>
@@ -52,5 +53,3 @@ Most people don't actually know how old they are, instead they know which year t
 
 {{end}}
 
-
-<noinclude>{{cc0}}</noinclude>

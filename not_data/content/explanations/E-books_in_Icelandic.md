@@ -13,7 +13,6 @@ There are [https://www.forlagid.is/voruflokkur/rafbaekur/ over 1,000 e-books] an
 The following is a list of some recommended books where both the e-book and the audiobook are available for download.    
 ***
 
-
 [https://www.forlagid.is/vara/stofuhiti/ '''Stofuhiti'''] – Bergur Ebbi, 2017 <level b2/>
 
 Audiobook: 1,000 kr (4 hours)
@@ -22,7 +21,6 @@ E-book: 1,000 kr
 
 Stofuhiti is an essay on contemporary life. The writing is witty and the rapid stream-of-consciousness style makes it easy to lose yourself in the thoughts of the author.
 ***
-
 
 [https://www.forlagid.is/vara/myrin/ '''Mýrin'''] – [[w:Arnaldur Indriðason|Arnaldur Indriðason]], 2000 <level c1/>
 
@@ -42,7 +40,6 @@ E-book: 1,000 kr
 A murder thriller, nominated for the Icelandic Literary Prize.
 
 ***
-
 
 [https://www.forlagid.is/vara/draumatjofurinn/ '''Draumaþjófurinn'''] –  Gunnar Helgason, 2019 <level c1/>
 

@@ -11,7 +11,6 @@ tags: Poems
 {{start|Sitji guðs englar}}
 This is an evening prayer commonly recited for children. It was written around 1650 by reverend Sigurður Jónsson.
 
-
 {{poem|
 {{line|Vertu nú yfir og allt um kring }}
 {{line|með eilífri blessun þinni. }}
@@ -20,10 +19,9 @@ This is an evening prayer commonly recited for children. It was written around 1
 }}
 {{end}}
 
-
 <div class=notes>
 '''Notes'''
 {{reflist}}
 </div>
 
-<noinclude>{{public domain}}</noinclude>
+{{public domain}}

@@ -20,8 +20,7 @@ tags: Card templates
 <div data-name="image" style="max-width:150px">{{#if: {{{image|}}} | [[{{trim|{{{image}}}}}{{!}}300px]] |}}</div>
 <div data-name="notes">{{{notes|}}}</div>
 
-</div><noinclude>
+</div>
 {{/docs}}
 == TILRAUN TIL AÐ SAMEINA ALLT ANNAÐ ==
 
-</noinclude>

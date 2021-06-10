@@ -8,6 +8,7 @@ redirects:
 - Nominative
 - Nominative case
 tags: Cases (sortkey: -1)
+license: CC0
 ---
 
 {{start|First case}}
@@ -29,8 +30,6 @@ Examples:
 {{cases}}
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>
 
 {{end}}

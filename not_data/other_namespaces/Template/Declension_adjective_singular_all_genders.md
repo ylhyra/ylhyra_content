@@ -29,4 +29,4 @@ tags: Table templates
 |{{is|{{{4|}}}}}
 |{{is|{{{8|}}}}}
 |{{is|{{{12|}}}}}
-|}<noinclude></noinclude>
+|}

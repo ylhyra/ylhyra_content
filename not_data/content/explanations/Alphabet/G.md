@@ -83,10 +83,8 @@ If the letter is between '''''á''''', '''''ó''''', '''''ú''''', and '''''a'''
 == Exceptions ==
 The word for ''God'' is "Guð". For historical reasons, this word is pronounced /'''Gv'''uð/. Names that are derived from the term for God also follow this pattern: Guðmundur (/'''Gv'''uðmundur/), Guðlaug (/'''Gv'''uðlaug/), but no other words do.
 
-
 ***
 
 The name of the letter is "gé".
-
 
 {{next simple|prev=f|next=h}}

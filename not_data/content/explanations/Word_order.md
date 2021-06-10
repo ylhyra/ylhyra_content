@@ -71,5 +71,4 @@ This is a list of common words that cause the word order to change if they are a
 **svona
 **þess vegna
 
-
 {{end}}

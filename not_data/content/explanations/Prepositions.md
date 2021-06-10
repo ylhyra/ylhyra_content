@@ -5,6 +5,7 @@ redirects:
 - Prepositions that cause cases
 tags: Cases
 tags: Prepositions
+license: CC0
 ---
 
 {{start|Prepositions that cause cases}} 
@@ -14,7 +15,6 @@ tags: Prepositions
 
 Prepositions in Icelandic cause words to have a particular [[cases|case]]. A preposition will never cause the first case ([[nominative]]), it will always cause one of the other three ([[accusative]], [[dative]], or [[genitive]]).
 ***
-
 
 ==Prepositions that always result in the same case==
 Certain prepositions always result in the same case.
@@ -41,7 +41,6 @@ The following prepositions always cause words to be in the [[Genitive|'''fourth 
 
 ***
 
-
 ==Prepositions that can either cause the second or the third case==
 Several prepositions can cause either the [[second case]] or the [[third case]] depending on context. A general rule is that:
 
@@ -50,7 +49,6 @@ Several prepositions can cause either the [[second case]] or the [[third case]] 
 
 The words are:
 ***
-
 
 '''á''' (onto; on)
 
@@ -67,7 +65,6 @@ Examples:
 *Ég ligg á mosanum = I am laying on the moss. I am not moving relative to the moss.
 
 ***
-
 
 '''eftir''' (by, after)
 
@@ -91,7 +88,6 @@ Word phrases that include this preposition include:
 *Ég tók ekki eftir því {{þgf}} = I didn't notice.
 
 ***
-
 
 '''fyrir''' (for, before; standing in the way of)
 
@@ -125,7 +121,6 @@ Examples
 
 ***
 
-
 '''í''' (in, into; inside of)
 
 *If the subject is in the [[second case]] {{þf}} , there is movement ''into'' it. Can also discuss time spans.
@@ -147,7 +142,6 @@ Examples:
 ==[[Prepositions that cause cases/Í – exercise 1|Exercise 1 for ''í'']]==
 ***
 
-
 '''með''' (with)
 
 *{{þf}} ég er með hann = I am holding him
@@ -161,14 +155,12 @@ Examples:
 
 ***
 
-
 '''undir''' (under)
 
 *Ég fer undir sófann {{þf}} = I go underneath the sofa
 *Ég er undir sófanum {{þgf}} = I am beneath the sofa
 
 ***
-
 
 '''við''' (by, to)
 
@@ -186,17 +178,14 @@ The [[third case]] can be seen in some word phrases:
 
 ***
 
-
 '''yfir''' (over; above)
 
 *Flugvélin fer yfir húsið {{þf}} = The airplane goes over the house. There is movement.
 *Flugvélin er yfir húsinu {{þgf}} = The airplane is above the house. There is ''no'' movement. {{end}} 
 
 
-
-<noinclude> {{cc0}} <br />
+  <br />
 
 == See also ==
 
 * [[Verbs that cause cases|Verbs and the cases they cause]]
-</noinclude>

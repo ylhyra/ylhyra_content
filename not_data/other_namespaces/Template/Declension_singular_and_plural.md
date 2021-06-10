@@ -24,4 +24,4 @@ tags: Table templates
 ![[Fourth case]]
 |{{small|[[helper words|til]]}} {{is|{{trim|{{{4|}}}}}}}
 |{{small|[[helper words|til]]}} {{is|{{trim|{{{8|}}}}}}}
-|}<noinclude></noinclude>
+|}

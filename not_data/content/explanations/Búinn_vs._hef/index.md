@@ -2,6 +2,7 @@
 title: Búinn vs. hef
 tags: Word use
 tags: Grammar
+license: CC0
 ---
 
 <level a2/>
@@ -17,13 +18,10 @@ Examples:
 
 ***
 
-
 ==Exercices==
 
 *[[Búinn vs. hef/Exercise 1|Búinn vs. hef – Exercise 1]]
 
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

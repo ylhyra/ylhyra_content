@@ -16,4 +16,4 @@ tags: Table templates
 |-
 !<span style="font-size:12px">[[Fourth case|4th case]]</span>
 |{{is|{{{4|}}}}}
-|}<noinclude></noinclude>
+|}

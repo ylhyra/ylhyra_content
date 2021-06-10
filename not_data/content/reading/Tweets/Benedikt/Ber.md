@@ -19,6 +19,5 @@ tags: Tweets
 |user_picture=Tweet-forseti2k32-1rhck2j.jpg
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

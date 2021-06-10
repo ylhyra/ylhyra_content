@@ -4,6 +4,7 @@ redirects:
 - Náttla
 tags: Word use
 tags: Pronunciation
+license: CC0
 ---
 
 {{start|Náttúrulega}}
@@ -75,7 +76,6 @@ In this exercise you will learn to listen for dropped sounds.
 |audio=ugqb.mp3
 }}
 
-
 {{card2|is|is
 |type=write
 |listen=yes
@@ -87,7 +87,6 @@ Notes:
 
 *The "v" in "s'''<u>v</u>'''o" disappears.
 }}
-
 
 {{card2|en|en
 |type=multiple choice
@@ -260,7 +259,6 @@ Notes:
 /ye e náttl upptekinn alla helgina/
 }}
 
-
 {{card2
 |type=no game
 |is=til hvers?
@@ -286,8 +284,5 @@ Notes:
 
 
 
-
-
 {{end}}
 
-<noinclude>{{cc0}}</noinclude>

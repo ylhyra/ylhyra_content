@@ -36,5 +36,4 @@ Examples:
 == Footnotes ==
 {{reflist}}
 
-
 {{end}}

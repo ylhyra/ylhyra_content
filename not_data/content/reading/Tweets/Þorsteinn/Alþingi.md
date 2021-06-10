@@ -17,6 +17,5 @@ tags: Tweets
 |user_picture=Tweet-kristnihald-1dgxkmm.jpg
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

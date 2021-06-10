@@ -1,6 +1,5 @@
 ---
 title: File:Vestmannaeyjar.mp3
+license: CC0
 ---
 
-== Summary ==
-{{cc0}}

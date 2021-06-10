@@ -3,6 +3,7 @@ title: Ha?
 redirects:
 - Ha
 tags: Words
+license: CC0
 ---
 
 {{start|Ha?}}
@@ -25,6 +26,4 @@ Sometimes foreigners think "`ha?`" sounds too aggressive, like the person saying
 {{me|Ha? Það getur ekki verið.}}
 }}
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

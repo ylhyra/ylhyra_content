@@ -1,6 +1,7 @@
 ---
 title: Gjörðu svo vel
 tags: Word use
+license: CC0
 ---
 
 <level a2/>
@@ -13,4 +14,3 @@ There is one thing you must notice: This phrase is using "að gjöra", a complet
 
 "Gjörðu svo vel" is [[Slurring|slurred]], so it is pronounced /<u>gjössovel</u>/ (more slurring) or /<u>gjörrusovel</u>/ (speaking more clearly).
 
-<noinclude>{{cc0}}</noinclude>

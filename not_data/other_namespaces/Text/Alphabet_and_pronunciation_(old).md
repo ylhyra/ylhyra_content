@@ -296,11 +296,11 @@ y and ý are pronounced exactly the same as i and í.{{refn|group=note|They used
 All words starting with '''guð''' (meaning "God") sound like '''gvuð'''.
 
 ==Notes==
-{{reflist|group=note}}{{notelist}}
+{{reflist|group=note}}
+{{notelist}}
 
 ==References==
 
 <references />
-
 
 {{end}}

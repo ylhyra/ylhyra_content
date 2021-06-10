@@ -6,6 +6,7 @@ redirects:
 - Þgf
 - Þágufall
 tags: Cases (sortkey: -3)
+license: CC0
 ---
 
 {{start|Dative case}}
@@ -46,6 +47,4 @@ And these prepositions can either cause the [[Second case|second]] or the third 
 {{notes}}
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

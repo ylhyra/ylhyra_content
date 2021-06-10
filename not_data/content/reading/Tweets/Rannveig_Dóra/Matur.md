@@ -19,6 +19,5 @@ Uppáhalds setningin mín í lífinu
 |user_picture=Tweet-rannveigdora-1jbr676.jpg
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

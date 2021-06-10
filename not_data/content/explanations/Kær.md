@@ -5,6 +5,7 @@ redirects:
 - Kærlega
 tags: Word use
 tags: Words
+license: CC0
 ---
 
 <level a1/>
@@ -21,5 +22,3 @@ It is used in the following words and phrases:
 
 {{end}}
 
-
-<noinclude>{{cc0}}</noinclude>

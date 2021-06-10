@@ -5,6 +5,7 @@ redirects:
 - Lýsingarorð
 tags: Adjectives (sortkey: -1)
 tags: Parts of speech
+license: CC0
 ---
 
 '''Adjectives''' (lýsingarorð) are the words that describe things, such as ''interesting'', ''funny'', and ''difficult''.
@@ -25,11 +26,8 @@ There is yet another thing that complicates adjectives. They have two different 
 **`hér er góð'''i''' maður'''inn'''` – Ends in a vowel in this case and in all cases, this is a weak declension.
 {{Parts of speech}}
 
-
 <div class="notes">
 '''Notes'''
 {{reflist}}
 </div>
 
-
-<noinclude>{{cc0}}</noinclude>

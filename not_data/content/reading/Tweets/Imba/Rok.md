@@ -18,7 +18,5 @@ tags: Tweets
 |user_picture=Tweet-skvisumus-14rupeh.png
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-
-</noinclude>

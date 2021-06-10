@@ -7,6 +7,5 @@ tags: Card templates
 <div data-name="type" data-children="string">message</div>
 <div data-name="from" data-children="string">{{{from|}}}</div>
 <div data-name="message" data-translate="yes">{{{message|}}}</div>
-</div><noinclude>
+</div>
 
-</noinclude>

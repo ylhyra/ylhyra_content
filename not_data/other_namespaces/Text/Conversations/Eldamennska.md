@@ -5,7 +5,6 @@ redirects:
 tags: Conversations (sortkey: A1)
 ---
 
-
 {{start|Conversations/Eldamennska}}
 
 {{conversation|
@@ -20,7 +19,6 @@ tags: Conversations (sortkey: A1)
 {{them|Ég er búin að skera allt grænmetið og skola salatið.}}
 {{me|Frábært, þá seturðu allt saman í skál og leggur síðan á borðið. Pastað er alveg að verða tilbúið.}}
 
-}}<noinclude>
+}}
 
-</noinclude>
 {{end}}

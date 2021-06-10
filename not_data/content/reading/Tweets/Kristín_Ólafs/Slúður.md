@@ -19,6 +19,5 @@ tags: Tweets
 |user_picture=Tweet-krolafs-wlyfer.jpg
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

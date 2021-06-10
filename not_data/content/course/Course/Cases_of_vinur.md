@@ -5,7 +5,6 @@ title: Course/Cases of vinur
 ég ætla að hitta vin minn
 þetta er vinur minn
 
-
 == Vocabulary ==
 
 * hér er vinur = here is a friend

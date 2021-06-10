@@ -1,6 +1,7 @@
 ---
 title: Opinion
 tags: Word use
+license: CC0
 ---
 
 <level a1/>
@@ -15,5 +16,3 @@ tags: Word use
 == Exercise ==
 Ég ___ (held / hugsa) að ég verði upptekinn á miðvikudaginn, ég er að ___ (halda / hugsa) um að fara út í sveit. Þar get ég ___ (haldið / hugsað) í friði. Ég ___ (held / hugsa) að ég taki með mér bók og lesi.
 
-
-<noinclude>{{cc0}}</noinclude>

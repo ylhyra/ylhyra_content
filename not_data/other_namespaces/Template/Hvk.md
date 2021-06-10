@@ -5,6 +5,5 @@ redirects:
 tags: Grammar emojis
 ---
 
-[[Neuter|<span title="Neuter (hvorugkyn)" class='emoji neuter singular'></span>]]<noinclude>
+[[Neuter|<span title="Neuter (hvorugkyn)" class='emoji neuter singular'></span>]]
 
-</noinclude>

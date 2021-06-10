@@ -6,6 +6,7 @@ redirects:
 - Pronunciation
 - Spelling
 tags: Pronunciation
+license: CC0
 ---
 
 {{start|Alphabet and pronunciation}}
@@ -78,7 +79,5 @@ While these letters and letter clusters are a mixture of two sounds:
 *[[Intonation]]
 
 
-
-<noinclude>{{cc0}}</noinclude>
 
 {{end}}

@@ -1,6 +1,7 @@
 ---
 title: Búinn vs. hef/Exercise 1
 tags: Exercises
+license: CC0
 ---
 
 <level a2/>
@@ -27,7 +28,6 @@ Using "hef" would not have been wrong per se, but it's not nearly as common.
 $cob$
 ***
 
-
 Have you ever had a double cheeseburger?
 
 #Hefurðu einhverntímann fengið tvöfaldan ostborgara?
@@ -42,7 +42,6 @@ We are speaking generally about whether something has ever happened in the perso
 
 $cob$
 ***
-
 
 We have only been seeing each other for three weeks.
 
@@ -59,7 +58,6 @@ Speaking of a recent thing.
 $cob$
 ***
 
-
 This is the best play that has ever been shown in Akureyri.
 
 #Þetta er besta leikrit sem sýnt hefur verið á Akureyri.
@@ -75,7 +73,6 @@ Speaking generally
 $cob$
 ***
 
-
 Sorry I didn't reply, I have been abroad recently.
 
 #Sorrí að ég svaraði ekki, ég hef verið í útlöndum.
@@ -90,7 +87,6 @@ Speaking about a recent event.
 
 $cob$
 ***
-
 
 Your application has been received. <br /><small>Note: This is a trick question</small>
 
@@ -109,7 +105,6 @@ If however you are speaking instead of writing, or writing less formally, you co
 $cob$
 ***
 
-
 Welcome back! Haven't you been really sick?
 
 #Velkominn aftur, hefurðu ekki verið rosa veikur?
@@ -124,7 +119,6 @@ Recent event.
 
 $cob$
 ***
-
 
 Yes, I have never been this sick before.
 
@@ -141,7 +135,6 @@ Speaking generally.
 $cob$
 ***
 
-
 I don't recall having worn this shirt.
 
 #Ég man ekki eftir því að hafa verið í þessari skyrtu.
@@ -156,7 +149,6 @@ Speaking generally about something that has ever happened.
 
 $cob$
 ***
-
 
 I have been practicing.
 
@@ -174,5 +166,3 @@ $cob$
 
 {{end}}
 
-
-<noinclude>{{cc0}}</noinclude>

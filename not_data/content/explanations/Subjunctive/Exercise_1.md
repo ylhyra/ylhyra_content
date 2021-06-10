@@ -13,7 +13,6 @@ In this exercise, you will attempt to figure out whether to use viðtengingarhá
 Add either "er" (a regular framsöguháttur) or "sé" (viðtengingarháttur) to the following:
 ***
 
-
 Hvað ___ hann að gera?
 
 $cot$

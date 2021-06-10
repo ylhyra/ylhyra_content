@@ -12,6 +12,5 @@ tags: Table templates
 |{{is|{{{1|}}}}}
 |{{is|{{{2|}}}}}
 |{{is|{{{3|}}}}}
-|}<noinclude>
+|}
 
-</noinclude>

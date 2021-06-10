@@ -41,7 +41,7 @@ It would also be nice to have some indication of what kind of exercises would wo
 
 * ''‚Þarna‘ pronounciation'' Here and there.
 * ''son &amp; dóttir'' Surnames, families. (Needs noting that you can strictly speaking take your moms name but no-one does this. Is a recurring topic on fora.
-* ''Numbers (age)'' ára in accusative! And with e.g. 21 it becomes árs? Maybe something with counting money as well.
+* ''Numbers (age)'' ára in accusative! And with e.g. 21 it becomes árs? Maybe something with counting money as well.
 * ''-ðu, -tu (ætlarðu/kauptu)''
 * ''Describing: smá, mjög, stundum''
 
@@ -105,7 +105,7 @@ It would also be nice to have some indication of what kind of exercises would wo
 === Day 2 ===
 
 * ''Ertu ekki í lagi'' (being ill) Could be combined with some words regarding the body and the doctor
-* ''Búinn vs. hef''
+* ''Búinn vs. hef''
 * ''Þess vegna, af því að''
 * ''Vinstri og hægri''
 

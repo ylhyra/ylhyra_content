@@ -20,7 +20,6 @@ gender cards:
 * vín
 * bjór
 
-
 select the right gender:
 
 * gott að heyra 

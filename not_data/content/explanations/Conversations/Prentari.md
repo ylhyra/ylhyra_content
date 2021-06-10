@@ -1,5 +1,6 @@
 ---
 title: Conversations/Prentari
+license: CC0
 ---
 
 {{start|Conversations/Prentari}}
@@ -13,4 +14,3 @@ title: Conversations/Prentari
 {{me|Takk! Þú ert bestur.}}
 }}
 {{end}}
-<noinclude>{{cc0}}</noinclude>

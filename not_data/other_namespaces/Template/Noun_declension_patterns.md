@@ -2,8 +2,8 @@
 title: Template:Noun declension patterns
 ---
 
-<noinclude><span class="user-show">[https://ylhyra.is/Template:Noun_declension_patterns?veaction=edit '''Edit''']</span>
-</noinclude>
+<span class="user-show">[https://ylhyra.is/Template:Noun_declension_patterns?veaction=edit '''Edit''']</span>
+
 {| class="wikitable small"
 |+
 ! rowspan="2" |

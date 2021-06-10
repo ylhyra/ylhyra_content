@@ -2,7 +2,6 @@
 title: Template:Instructions
 ---
 
-
 <html><div class="instructions sans-serif">
   <ul class="mouse">
     <li>

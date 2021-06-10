@@ -1,6 +1,7 @@
 ---
 title: Money
 tags: Word use
+license: CC0
 ---
 
 Iceland's currency is the [[w:Icelandic króna|Icelandic króna]].
@@ -24,4 +25,3 @@ But you can '''not''' say:
 
 {{end}}
 
-<noinclude>{{cc0}}</noinclude>

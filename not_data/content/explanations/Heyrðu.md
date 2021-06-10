@@ -1,6 +1,7 @@
 ---
 title: Heyrðu
 tags: Word use
+license: CC0
 ---
 
 {{start|Heyrðu}}
@@ -20,6 +21,4 @@ Examples:
 * Heyrðu, [[hérna]], ég var að spá...
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

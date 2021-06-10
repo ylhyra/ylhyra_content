@@ -1,6 +1,7 @@
 ---
 title: Cases/A1/Exercise 1
 tags: Exercises
+license: CC0
 ---
 
 <level a1/>
@@ -37,7 +38,6 @@ The word "vilja" causes the second case.
 {{cob}}
 ***
 
-
 Ég ætla að setja ost á ______. (I am going to put cheese onto my hamburger)
 
 {{cot}}
@@ -46,7 +46,6 @@ The word "vilja" causes the second case.
 Here there is movement from the cheese to the hamburger. Because there is movement, the word "á" causes the second case.
 {{cob}}
 ***
-
 
 Það er ostur á ______. (There is cheese on my hamburger)
 
@@ -57,7 +56,6 @@ Here there is '''no''' movement, the cheese is staying still on the hamburger. B
 {{cob}}
 ***
 
-
 Ég ætla að borða ______. (I am going to eat my hamburger)
 
 {{cot}}
@@ -66,7 +64,6 @@ Here there is '''no''' movement, the cheese is staying still on the hamburger. B
 The word "borða" causes the second case.
 {{cob}}
 ***
-
 
 Af hverju er ______ svona góður? (Why is my hamburger so good?)
 
@@ -77,5 +74,4 @@ The word "er" causes the first case.
 {{cob}}
 {{end}}
 
-{{cc0}}
 

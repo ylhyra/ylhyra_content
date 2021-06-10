@@ -1,6 +1,7 @@
 ---
 title: Intonation
 tags: Pronunciation
+license: CC0
 ---
 
 {{start|Intonation}}<level a2/>
@@ -17,12 +18,10 @@ Listen to the following examples and notice the different rising and falling mus
 *{{listen|audio=k9bD.mp3}} `Ég veit ekki einu sinni hvað þú ert að tala um.`
 **{{listen|audio=ZZt1.mp3}} <small>É</small> <sup>veit</sup> <sub>ekk einu sinni hva þú ert a</sub> <sup>'''tal'''</sup> <small>um</small>.
 
-
 Sentences in Icelandic usually end with the pitch going down. A native Icelandic speaker will pronounce "Já" as <sup>J</sup><small>á</small><sub>á</sub> {{listen|audio=3FKh.mp3}} while a native Swedish speaker learning Icelandic will say <small>J</small><sub>á</sub><sup>á</sup> {{listen|audio=A6O3.mp3}} and a native Spanish speaker will say <small>Jáá</small> {{listen|audio=h88d.mp3}}(until they've practised their intonation).
 
 *`Takk`
 **<sup>T</sup>a<sub>ak</sub>
-
 
 Learning which intonations sound best takes practise. You need to listen to how people speak and imitate them – it's better to over-exaggerate the melodies rather than not doing enough!
 
@@ -64,6 +63,4 @@ More examples:
 **Takk kærlega <sup>fyr</sup><sub>ir</sub>
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

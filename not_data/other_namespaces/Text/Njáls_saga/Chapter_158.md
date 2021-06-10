@@ -46,5 +46,4 @@ These were the children of Kári Solmundsson and Helga Njálsdóttir: Þorgerðu
 And here we end the saga of Burnt Njál.
 
 
-
 {{end}}

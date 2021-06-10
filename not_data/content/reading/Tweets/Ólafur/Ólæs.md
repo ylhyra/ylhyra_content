@@ -18,6 +18,5 @@ tags: Tweets
 |user_picture=Landmannalaugar2.jpg
 |verified=
 }}
-{{end}}<noinclude>
+{{end}}
 
-</noinclude>

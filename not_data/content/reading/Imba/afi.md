@@ -6,8 +6,7 @@ tags: Poems
 
 <level b1/>
 {{start|Imba/afi}}
-{{book start|audio=Imba Afi.mp3}}
-{{audio|Imba Afi.mp3}}
+<Book audio="Imba Afi.mp3">
 {{poem|
 '''afi'''
 {{verse|
@@ -37,7 +36,6 @@ tags: Poems
 
 {{imba}}
 
-{{book end}}
+</Book>
 {{end}}
-
 

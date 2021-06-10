@@ -182,5 +182,4 @@ tags: Content
 *[https://notendur.hi.is/haukurth/norse/ Introductory guide to Old Norse]
 
 
-
 {{end}}

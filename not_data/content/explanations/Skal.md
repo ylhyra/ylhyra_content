@@ -3,6 +3,7 @@ title: Skal
 redirects:
 - Skulu
 tags: Word use
+license: CC0
 ---
 
 {{start|Skal}}
@@ -70,4 +71,4 @@ Students have a tendency to incorrectly use this verb because they are thinking 
 </div>
 
 {{end}}
-{{cc0}}
+

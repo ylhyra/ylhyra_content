@@ -19,7 +19,7 @@ title: Template:Instagram
 </div>
 </div>
 </div>
-</div><noinclude>
+</div>
 <pre><nowiki>
 {{instagram
 |file=Villi Neto – Kaffi.mp4
@@ -29,4 +29,4 @@ title: Template:Instagram
 |user_handle=villineto
 |text=
 }}
-</nowiki></pre></noinclude>
+</nowiki></pre>

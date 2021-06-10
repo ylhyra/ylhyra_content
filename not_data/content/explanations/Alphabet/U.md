@@ -2,7 +2,6 @@
 title: U
 ---
 
-
 The letter '''U''' is pronounced {{listen|audio=-H8G.mp3}}. This sound doesn't exist in English, but if you start with the '''''i''''' sound in ''k'''i'''d'' and then make your lips round, you will get the Icelandic '''''u'''''.
 
 It can be [[Long sound|long]]:

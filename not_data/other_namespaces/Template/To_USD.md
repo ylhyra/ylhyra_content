@@ -6,8 +6,7 @@ redirects:
 -  Template/Usd
 ---
 
-<onlyinclude>{{{1}}} ISK ({{#expr: ({{{1}}}/ 144 ) round 0}} USD)</onlyinclude><noinclude>
+<onlyinclude>{{{1}}} ISK ({{#expr: ({{{1}}}/ 144 ) round 0}} USD)</onlyinclude>
 
 https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=ISK
 
-</noinclude>

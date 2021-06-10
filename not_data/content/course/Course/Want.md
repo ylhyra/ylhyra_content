@@ -51,7 +51,6 @@ When you want to describe that you desire an object, you have to use the phrase 
 * Mig langar að búa á Spáni. Mamma vill koma með mér.
 * Mamma vill koma í heimsókn. Mér finnst gaman að vera með henni.
 
-
 == Excercises ==
 
 * I want to come (using "vil") = Ég vil koma.

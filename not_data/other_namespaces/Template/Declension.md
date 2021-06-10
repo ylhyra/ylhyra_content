@@ -6,4 +6,4 @@ tags: Table templates
 {| class="wikitable"
 |+
 |{{is|{{{1|}}}}} [declension table]
-|}<noinclude></noinclude>
+|}

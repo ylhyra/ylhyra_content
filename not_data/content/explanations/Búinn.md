@@ -5,6 +5,7 @@ redirects:
 - Búið
 tags: Words
 tags: Word use
+license: CC0
 ---
 
 {{start|Búinn}}<level a1/>    
@@ -31,5 +32,4 @@ Although the masculine "búinn" and feminine "búin" are written differently, th
 
 
 
-{{cc0}}
 {{end}}

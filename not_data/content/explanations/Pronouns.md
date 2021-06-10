@@ -206,8 +206,6 @@ and between
 
 :Katrín þvær dóttur '''hennar''' ''Katrín washes '''her''' (i.e. someone else’s) daughter''
 
-
 {{Parts of speech}}
-
 
 {{end}}

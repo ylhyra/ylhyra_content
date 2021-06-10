@@ -9,8 +9,6 @@ tags: Pronouns
 [[:Text:Þetta/Intro]]
 [[:Text:Þetta/Full explanation]]
 
-==Notes==
-{{notelist}}
 
 
 ==''Todo''==

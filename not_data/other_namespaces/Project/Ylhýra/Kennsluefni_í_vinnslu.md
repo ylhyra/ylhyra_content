@@ -12,7 +12,7 @@ Rammi:
 
 0. First things:
 *Information about learning Icelandic, about Iceland itself (short)
-*Pronunciation of  þ, ð, æ, ö, difference between unaccented and accented vowels (a, á, o, ó), pronunciation of au, ei, r and ll. (NB The pronunciatioin page on Ylhýru is very extensive, I think it would be worthwhile to make a shortened version for absolute beginners as well and maybe link to the extensive list in that article. That way beginners don't get overwhelmed)
+*Pronunciation of  þ, ð, æ, ö, difference between unaccented and accented vowels (a, á, o, ó), pronunciation of au, ei, r and ll. (NB The pronunciatioin page on Ylhýru is very extensive, I think it would be worthwhile to make a shortened version for absolute beginners as well and maybe link to the extensive list in that article. That way beginners don't get overwhelmed)
 
 1. 
 *Personal pronouns (ég, þú, við, þau, þeir)

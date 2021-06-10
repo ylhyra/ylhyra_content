@@ -4,6 +4,7 @@ redirects:
 - Þúfan
 - Þúfur
 tags: Culture
+license: CC0
 ---
 
 {{start|Þúfa}}
@@ -29,7 +30,6 @@ Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður 
 [[File:Þúfa - Ólöf.jpg|center|700px]]
 <div class="thumbcaption" data-translate="true">„Þúfa“ eftir Ólöfu Nordal við höfnina í Reykjavík.</div>
 
-
 <div class="notes">
 
 '''External links''':
@@ -39,5 +39,4 @@ Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður 
 </div>
 
 {{end}}
-{{cc0}}
 

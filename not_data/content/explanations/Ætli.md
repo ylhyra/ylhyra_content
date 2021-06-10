@@ -1,5 +1,6 @@
 ---
 title: Ætli
+license: CC0
 ---
 
 {{start|Ætli}}
@@ -196,6 +197,5 @@ $cot$
 Hvort ætli þig langi í epli eða appelsínu?
 $cob$
 
-{{CC0}}
 
 {{end}}

@@ -7,6 +7,7 @@ redirects:
 - Masculine
 - Neuter
 tags: Gender (sortkey: -1)
+license: CC0
 ---
 
 {{start|Gender}}
@@ -28,10 +29,7 @@ See the effect a word’s gender has on the rest of the sentence:
 *{{is|Hvað er skyrta'''n''' {{kvk}} þí'''n''' {{kvk}} gömu'''l'''{{kvk}}?}}
 *{{is|Hvað er hús'''ið''' {{hk}} þi'''tt''' {{hk}} gamal'''t'''{{hk}}?}}
 
-
 {{button|[[Game:Kyn|Learn the genders]]}}
 
 {{end}}
 
-<noinclude></noinclude>
-<noinclude>{{cc0}}</noinclude>

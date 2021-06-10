@@ -7,6 +7,7 @@ redirects:
 - Genitive
 - Genitive case
 tags: Cases (sortkey: -4)
+license: CC0
 ---
 
 {{start|Fourth case}}
@@ -35,6 +36,4 @@ It also appears in sentences showing ownership such as:
 {{notes}}
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

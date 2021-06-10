@@ -2,6 +2,7 @@
 title: Prepositions that cause cases/Í – exercise 1
 redirects:
 - Prepositions that cause cases/Í – excercise 1
+license: CC0
 ---
 
 Several prepositions can cause either þolfall or þágufall depending on context.
@@ -46,4 +47,3 @@ Explanation:
 
 *`Í skólann` ([[þolfall]]) implies you are moving into the object.
 *`Í skólanum` ([[þágufall]]) implies you are already inside the object.
-<noinclude>{{cc0}}</noinclude>

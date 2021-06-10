@@ -32,7 +32,6 @@ However, if you're using a superlative like "'''''the''' largest''", the declens
 *Do you want this toothbrush? No, this one is better. = Viltu fá þennan tannbursta? Nei, þessi hér er betri.
 *Okay, but how about this one? No, this one is the best. = Ókei, hvað með þennan? Nei, þessi hér er bestur.
 
-
 '''Example Declension''' 
 
 Strong declension
@@ -93,7 +92,6 @@ Strong declension
 |til '''góðra''' barna
 |}
 
-
 Weak declension
 
 {| class="wikitable"
@@ -152,6 +150,5 @@ Weak declension
 |til '''góðu''' kvennanna
 |til '''góðu''' barnanna
 |}
-
 
 {{end}}

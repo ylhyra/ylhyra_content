@@ -1,6 +1,7 @@
 ---
 title: Positivity
 tags: Word use
+license: CC0
 ---
 
 A particularly worthy goal is to learn how to become as positive as possible in Icelandic. As the back of a certain cereal brand says: `Jákvæðni er smitandi, neikvæðni er bráðsmitandi!`
@@ -31,5 +32,3 @@ The following words are particularly [[Politeness|polite]] and positive, and you
 [[Kærlega]] means "dearly" or "from my heart".
 
 
-
-<noinclude>{{cc0}}</noinclude>

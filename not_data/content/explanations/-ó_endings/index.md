@@ -1,5 +1,6 @@
 ---
 title: -ó endings
+license: CC0
 ---
 
 {{start|-ó endings}}
@@ -71,4 +72,3 @@ The following words are heard in everyday speech:
 '''Notes'''
 {{reflist}}The word „bíó“ (cinema) is a [[Loan word|loan word]] taken from the Danish "'''bio'''graf-teater" (biographical theater), meaning that it has not been constructed like the other shortened word shown here. The same applies to sjampó and vídjó.
 </div>
-{{cc0}}

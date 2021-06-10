@@ -24,5 +24,4 @@ tags: Verbs
 | colspan="3" |ég hef '''verið'''
 |}
 
-
 {{end}}

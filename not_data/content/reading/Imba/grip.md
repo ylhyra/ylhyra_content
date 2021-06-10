@@ -32,7 +32,6 @@ tags: Imba
 {{line|að grípa í tómt}}
 }}
 
-
 {{imba}}
 {{end}}
 

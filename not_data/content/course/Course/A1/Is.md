@@ -15,7 +15,6 @@ Where are you from? Can you make a sentence?
 *Bjór er kaldur. ''Beer is cold.''
 *Hann er að tala íslensku. ''He is speaking Icelandic.''
 
-
 The verb 'to be' changes, just like in English:
 <br />
 {| class="wikitable"

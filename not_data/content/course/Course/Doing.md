@@ -21,7 +21,6 @@ Like in English, "Ég er að læra íslensku" (I am studying Icelandic) can eith
 
 Note that the G in "gera" is not pronounced a normal G, instead it's pronounced [[G in the roof of the mouth|in the roof of the mouth]] {{listen|audio=7M7w.mp3}}, similar to the sound in the English word "''s'''k'''ew''".  It's not pronounced by closing your throat, instead it's pronounced with the backwards part of your tongue touching the roof of your mouth. This sound appears when a hard G sound is followed by letters such as "e" or "i" and a few others. Pronouncing this sound is easier if you imagine that the word "gera" is written as "g'''y'''era". 
 
-
 {{conversation|
 {{them|Hæ. Hvað segirðu gott?}}
 {{me|Allt gott, en þú?}}

@@ -29,14 +29,11 @@ The website runs [[mediawikiwiki:MediaWiki|MediaWiki]] and the code is [https://
 *[http://malfong.is/?pg=islexrecordings&lang=en ISLEX recordings] read by Guðfinna Rúnarsdóttir. <small>([https://creativecommons.org/licenses/by-nc-nd/4.0/ CC BY-NC-ND 4.0])</small>
 *[https://github.com/readbeyond/aeneas/ Aeneas], audio and text synchronization.
 
-
 [[File:Loftmynd 2.jpg|thumb|center|600px|link=]]
-
 
 ==Collaborating==
 
 *[[Project:Become a collaborator|Become a collaborator]]
 *[[Help:Adding material|How to add or edit material]]
-
 
 __NOINDEX__

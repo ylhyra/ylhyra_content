@@ -6,6 +6,7 @@ redirects:
 - Middle voice
 - Miðmynd
 tags: Verbs
+license: CC0
 ---
 
 Certain Icelandic [[verbs]] have another form that ends in '''-st''', such as "að komast", "að giftast", and "að sjást". If you look the [https://inflections.ylhyra.is/ inflection tables] of these words you will see them labeled as the "[[w:Middle voice|middle voice]]" (''miðmynd'').
@@ -54,6 +55,4 @@ In English, you can say: “He '''calls himself''' John”. The same can be done
 *''He burned '''himself'''. → He got burned.''
 </div>
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>

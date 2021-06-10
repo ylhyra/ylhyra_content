@@ -1,10 +1,10 @@
 ---
 title: Text/Milk
+license: CC0
 ---
 
-<noinclude>
 <level a1/>
-</noinclude>
+
 {{start|Text/Milk}}
 <div data-audio-file="{{{audio|Mjólk.mp3}}}">
 {{snippet|
@@ -14,4 +14,3 @@ title: Text/Milk
 </div>
 {{end}}
 
-<noinclude>{{cc0}}</noinclude>

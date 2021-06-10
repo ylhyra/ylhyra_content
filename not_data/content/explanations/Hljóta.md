@@ -1,6 +1,7 @@
 ---
 title: Hljóta
 tags: Words
+license: CC0
 ---
 
 Hljóta means "gotta be".
@@ -47,4 +48,3 @@ Hljóta is irregular:
 |they must
 |}
 
-<noinclude>{{cc0}}</noinclude>

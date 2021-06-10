@@ -3,6 +3,7 @@ title: Possessions
 redirects:
 - My
 - Possession
+license: CC0
 ---
 
 <level a1/>
@@ -21,7 +22,6 @@ When saying that something belongs to you, you have to add "[[the]]" to the word
 [https://inflections.ylhyra.is/minn/478792 Click here] to see the full list of inflections for the pronoun ''minn''.
 ***
 
-
 If you're using a possessive pronoun (mine, yours), you always have to add "[[The]]" to the possessed word except in one situation: when talking about friends and specific family members.<ref>There are a few other situations but this is the general rule. The "the" can also be dropped when you want to sound more formal or poetic. </ref>
 
 That includes: vinur, vinkona, bróðir, systir, mamma, pabbi, sonur, dóttir, afi, amma, frændi, frænka. 
@@ -39,4 +39,3 @@ The possessive pronoun reflects the grammatical type of the possessed word, but 
 * Þetta eru kettir'''nir''' '''mínir''' – We use the [[masculine]] [[plural]] "mínir" because the word "kettir" is masculine plural.
 * Hús'''ið þitt''' er fallegt. – We use the neuter singular "þitt" because the word "hús" is neuter singular.<br />
 {{Notes}}
-{{cc0}}

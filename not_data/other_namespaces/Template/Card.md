@@ -3,6 +3,5 @@ title: Template:Card
 tags: Card templates
 ---
 
-<div class=card>{{{1|}}}</div><noinclude>
+<div class=card>{{{1|}}}</div>
 
-</noinclude>

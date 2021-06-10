@@ -56,5 +56,4 @@ This pattern is extremely common.
 </div>
 {{Parts of speech}}
 
-
 {{end}}

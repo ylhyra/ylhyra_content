@@ -3,6 +3,7 @@ title: Text:Conversations/Winter
 redirects:
 -  Conversations/Winter
 tags: Conversations (sortkey: A1 01)
+license: CC0
 ---
 
 {{start|Text:Conversations/Winter}}
@@ -15,7 +16,5 @@ tags: Conversations (sortkey: A1 01)
 {{me|Já! Förum í bakaríið.}}
 {{them|Er bakaríið opið í dag?}}
 {{me|Já, það er alltaf opið.}}
-}}{{end}}<noinclude>
+}}{{end}}
 
-</noinclude>
-<noinclude>{{cc0}}</noinclude>

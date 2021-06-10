@@ -6,8 +6,7 @@ tags: Poems
 
 <level b2/>
 {{start|Imba/ég veit}}
-{{book start|audio=Imba eg veit.mp3}}
-{{audio|Imba eg veit.mp3}}
+<Book audio="Imba eg veit.mp3">
 {{poem|
 '''ég veit'''
 
@@ -29,8 +28,7 @@ tags: Poems
 {{line|brjálæðislega ástfangin}}
 }}
 }}
-{{book end}}
+</Book>
 {{end}}
 {{imba}}
-
 

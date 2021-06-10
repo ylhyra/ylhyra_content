@@ -11,7 +11,6 @@ According to popular rumor, Rósa had a secret relationship with a man named Pá
 
 It is assumed that she wrote the poem shown below to Páll, describing her deep love and heartbreak. The words are simple and emotion-filled. It is among the best known Icelandic love poems, and is sung as a lullaby to all Icelandic children.  
 
-
 {{poem|
 {{verse|
 {{line|Augun mín og augun þín,}}
@@ -33,17 +32,14 @@ It is assumed that she wrote the poem shown below to Páll, describing her deep 
 }}
 }}
 
-
 Two particularly famous renditions of this song are:
 
 *[https://www.youtube.com/watch?v=EpFwwLW8O7Y Version by Ragnheiður Gröndal] (on YouTube)
 *[https://www.youtube.com/watch?v=ECOloBqXK9c Version by Björk] (on YouTube)
 
-
 Later in life, Rósa became a [[w:Midwife|midwife]].
 
 {{end}}
-
 
 <div class="notes">
 '''Sources'''
@@ -51,4 +47,4 @@ Later in life, Rósa became a [[w:Midwife|midwife]].
 *Stella Soffía Jóhannesdóttir. [https://www.visindavefur.is/svar.php?id=15861 „Hvaða heimildir eru til um Vatnsenda-Rósu og hvað er vitað um hana?“] ''Vísindavefurinn'', 19. ágúst 2008
 </div>
 
-<noinclude>{{public domain}}</noinclude>
+{{public domain}}

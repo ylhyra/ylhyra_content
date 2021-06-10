@@ -46,5 +46,4 @@ The word "[[ekki]]" is pronounced /eʰki/, with a small [[Preaspiration|breath o
 *"''það er '''EKK'''i '''RÉTT'''''", meaning "that's '''not''' true" is pronounced /<u>það er eʰki rétt</u>/
 
 
-
 {{end}}

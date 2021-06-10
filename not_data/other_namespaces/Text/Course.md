@@ -12,7 +12,7 @@ This is a short tutorial in Icelandic for a complete beginner.
 }}
 {{chapter item
 |chapter     = I am
-|title       = I am {{,}} Good
+|title       = I am {{,}} Good
 |description = 
 |vocabulary  = ég er {{,}} líka {{,}} mjög {{,}} góður
 }}
@@ -36,13 +36,13 @@ This is a short tutorial in Icelandic for a complete beginner.
 }}
 {{chapter item
 |chapter     = I know
-|title       = I don't know {{,}} This and that
+|title       = I don't know {{,}} This and that
 |description = 
 |vocabulary  = ég veit {{,}} hvar {{,}} þetta
 }}
 {{chapter item
 |chapter     = Live
-|title       = I live here {{,}} Uhm...
+|title       = I live here {{,}} Uhm...
 |description = 
 |vocabulary  = hérna {{,}} að búa {{,}} alveg {{,}} frekar {{,}} lengi {{,}} norður
 }}
@@ -102,13 +102,13 @@ This is a short tutorial in Icelandic for a complete beginner.
 }}
 {{chapter item
 |chapter     = To own
-|title       = To have {{,}} To own
+|title       = To have {{,}} To own
 |description = 
-|vocabulary  = að vera með {{,}} að eiga {{,}} að hafa
+|vocabulary  = að vera með {{,}} að eiga {{,}} að hafa
 }}
 {{chapter item
 |chapter     = The
-|title       = The {{,}} My
+|title       = The {{,}} My
 |description = 
 |vocabulary  = 
 }}

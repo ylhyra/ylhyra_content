@@ -33,7 +33,6 @@ Current archives:
 *I think I’m becoming sick.
 	Ég held að ég __sé___ (að vera) _____ (að verða)  veikur.
 
-
 FINNAST / ÞYKJA
 
 '''Task'''
@@ -50,7 +49,6 @@ I don't feel good today. It is because I did not eat lunch today. I am very hung
 
 Þetta er góður hamborgari.
 Hann er góður vinur.
-
 
 Ég las þetta í bókinni minni.
 The text was already inside the book and there is no movement.

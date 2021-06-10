@@ -11,6 +11,5 @@ Translate to English:
 
 {{{english}}}
 
-}}<noinclude>
+}}
 
-</noinclude>

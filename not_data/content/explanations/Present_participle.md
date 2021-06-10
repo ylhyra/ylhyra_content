@@ -1,6 +1,7 @@
 ---
 title: Present participle
 tags: Verbs
+license: CC0
 ---
 
 <level b1/>
@@ -43,5 +44,4 @@ These are [[nouns]]:
 ***
 
 {{reflist}}</div>
-{{cc0}}
 

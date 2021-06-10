@@ -3,6 +3,7 @@ title: Góðan daginn
 redirects:
 - Daginn
 tags: Word use
+license: CC0
 ---
 
 {{start|Góðan daginn}}
@@ -22,5 +23,3 @@ tags: Word use
 *'''`Góða kvöldið!`''' = “Good evening!”
 {{end}}
 
-
-<noinclude>{{cc0}}</noinclude>

@@ -31,5 +31,4 @@ Other examples:
 </div>
 
 
-
 {{end}}

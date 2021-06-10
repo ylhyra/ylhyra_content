@@ -1,5 +1,6 @@
 ---
 title: Vestmannaeyjar
+license: CC0
 ---
 
 <level a2/>
@@ -23,7 +24,6 @@ Margir fara til Vestmannaeyja til að skoða krúttlegu fuglana sem búa í klet
 
 *[[Nafn Vestmannaeyja]]
 
-
 <div class="notes">
 '''Recommended videos'''
 
@@ -35,4 +35,3 @@ Margir fara til Vestmannaeyja til að skoða krúttlegu fuglana sem búa í klet
 * [https://herjolfur.is/en Tickets to the ferry to Vestmannaeyjar]
 </div>
 
-{{cc0}}

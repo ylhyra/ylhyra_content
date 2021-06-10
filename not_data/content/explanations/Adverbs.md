@@ -5,6 +5,7 @@ redirects:
 - Atviksorð
 tags: Nouns (sortkey: -1)
 tags: Parts of speech
+license: CC0
 ---
 
 {{start|Adverbs}}
@@ -28,6 +29,5 @@ tags: Parts of speech
 {{Parts of speech}}
 
 
-<noinclude>{{cc0}}</noinclude>
 
 {{end}}

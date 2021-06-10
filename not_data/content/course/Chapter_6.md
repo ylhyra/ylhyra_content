@@ -42,7 +42,6 @@ You might not be leafing through a book about Icelandic grammar at the moment of
 
 > B: Ég er sammála! '''I agree!'''
 
-
 Notice that '''að lesa''' is translated in the second sentence as '''reading''', while in the third sentence it is translated as '''to read'''. The að-construction can be translated as both. The context will make it clear which interpretation is needed. But notice, too, that they are sometimes exchangeable: in sentence 3 we might as well have said 'I find reading books much fun'.
 
 ##An introduction to verbs
@@ -71,6 +70,5 @@ But the base version of verbs is use more broadly than in English:
 Hann er að keyra = He is driving
 Ég fíla ekki að hlaupa = I don't like running
 As you can see, að hlaupa is both used for to run and running.
-
 
 {{end}}

@@ -2,6 +2,7 @@
 title: Í vs. á
 tags: Word use
 tags: Prepositions
+license: CC0
 ---
 
 {{start|Í vs. á}}<level a1/>
@@ -62,6 +63,4 @@ tags: Prepositions
 
 
 
-
 {{end}}
-<noinclude>{{cc0}}</noinclude>
