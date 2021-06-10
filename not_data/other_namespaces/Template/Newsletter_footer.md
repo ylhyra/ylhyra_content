@@ -1,6 +1,6 @@
-title = Template:Newsletter footer
-redirects =
->>>>
+---
+title: Template:Newsletter footer
+---
 
 <hr style="margin: 40px 20px;border: none;border-bottom: 1px solid #e6e6e6;"/>
 

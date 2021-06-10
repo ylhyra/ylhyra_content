@@ -1,6 +1,6 @@
-title = Text:Sigurður Thorlacius/Um loftin blá/Header
-redirects =
->>>>
+---
+title: Text:Sigurður Thorlacius/Um loftin blá/Header
+---
 
 {{start|Text:Sigurður Thorlacius/Um loftin blá/Header}}
 

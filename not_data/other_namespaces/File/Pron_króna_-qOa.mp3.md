@@ -1,5 +1,5 @@
-title = File:Pron króna -qOa.mp3
-redirects =
->>>>
+---
+title: File:Pron króna -qOa.mp3
+---
 
 {{spoken|króna}}

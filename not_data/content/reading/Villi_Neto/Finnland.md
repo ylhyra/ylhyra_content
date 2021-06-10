@@ -1,6 +1,6 @@
-title = Villi Neto/Finnland
-redirects =
->>>>
+---
+title: Villi Neto/Finnland
+---
 
 {{start|Villi Neto/Finnland}}
 {{instagram

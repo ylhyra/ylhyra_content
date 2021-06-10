@@ -1,6 +1,6 @@
-title = Data:Project:Name
-redirects =
->>>>
+---
+title: Data:Project:Name
+---
 
 {
     "list": {

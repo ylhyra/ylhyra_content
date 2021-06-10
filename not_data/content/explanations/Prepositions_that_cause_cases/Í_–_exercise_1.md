@@ -1,7 +1,8 @@
-title = Prepositions that cause cases/Í – exercise 1
-redirects =
+---
+title: Prepositions that cause cases/Í – exercise 1
+redirects:
 - Prepositions that cause cases/Í – excercise 1
->>>>
+---
 
 Several prepositions can cause either þolfall or þágufall depending on context.
 

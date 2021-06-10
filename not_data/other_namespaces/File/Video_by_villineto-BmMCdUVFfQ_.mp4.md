@@ -1,5 +1,5 @@
-title = File:Video by villineto-BmMCdUVFfQ .mp4
-redirects =
->>>>
+---
+title: File:Video by villineto-BmMCdUVFfQ .mp4
+---
 
 undefined

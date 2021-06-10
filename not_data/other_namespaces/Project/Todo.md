@@ -1,6 +1,6 @@
-title = Project:Todo
-redirects =
->>>>
+---
+title: Project:Todo
+---
 
 __NEWSECTIONLINK__
 {{button|1=[https://ylhyra.is/index.php?title=Project:Todo&action=edit&section=new Add a new item]}}

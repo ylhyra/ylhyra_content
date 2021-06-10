@@ -1,6 +1,6 @@
-title = Strætó
-redirects =
->>>>
+---
+title: Strætó
+---
 
 {{start|Strætó}}
 <level a1/>

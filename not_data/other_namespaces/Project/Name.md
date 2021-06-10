@@ -1,6 +1,6 @@
-title = Project:Name
-redirects =
->>>>
+---
+title: Project:Name
+---
 
 The word "'''ylhýra'''" means "warm and affectionate", but now it is most commonly used as a part of an [[:w:allusion|allusion]] meaning "'''the Icelandic language'''".
 [[File:Jonash.jpg|thumb|[[:w:Jónas Hallgrímsson|Jónas Hallgrímsson]]|219x219px]]{{start|Project:Name}}

@@ -1,12 +1,13 @@
-title = Strong and weak declension
-redirects =
+---
+title: Strong and weak declension
+redirects:
 - Sterk beyging
 - Strong
 - Strong declension
 - Veik beyging
 - Weak
 - Weak declension
->>>>
+---
 
 '''Strong declension''' is a declension pattern in which the words end in a consonant at least some of the time. In '''weak declension''', all of the word forms end in a vowel (for example, ending in a, e, i, o, u).
 

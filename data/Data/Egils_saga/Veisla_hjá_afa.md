@@ -1,6 +1,6 @@
-title = Data:Egils saga/Veisla hjá afa
-redirects =
->>>>
+---
+title: Data:Egils saga/Veisla hjá afa
+---
 
 {
 "analysis": {

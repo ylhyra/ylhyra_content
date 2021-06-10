@@ -1,6 +1,6 @@
-title = Data:Tweets/Rannveig Dóra/Matur
-redirects =
->>>>
+---
+title: Data:Tweets/Rannveig Dóra/Matur
+---
 
 {
     "list": {

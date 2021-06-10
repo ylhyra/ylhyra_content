@@ -1,6 +1,6 @@
-title = Template:Multiple choice/docs
-redirects =
->>>>
+---
+title: Template:Multiple choice/docs
+---
 
 == Listen & fill in gap ==
 {{multiple choice|is|is

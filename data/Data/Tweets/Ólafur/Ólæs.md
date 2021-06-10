@@ -1,6 +1,6 @@
-title = Data:Tweets/Ólafur/Ólæs
-redirects =
->>>>
+---
+title: Data:Tweets/Ólafur/Ólæs
+---
 
 {
     "list": {

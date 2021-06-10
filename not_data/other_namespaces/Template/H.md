@@ -1,5 +1,5 @@
-title = Template:H
-redirects =
->>>>
+---
+title: Template:H
+---
 
 ʰ

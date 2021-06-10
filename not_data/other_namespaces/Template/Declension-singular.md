@@ -1,6 +1,6 @@
-title = Template:Declension-singular
-redirects =
->>>>
+---
+title: Template:Declension-singular
+---
 
 {| class="wikitable"
 |+

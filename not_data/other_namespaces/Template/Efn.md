@@ -1,6 +1,6 @@
-title = Template:Efn
-redirects =
->>>>
+---
+title: Template:Efn
+---
 
 <includeonly>{{#if:{{{name|}}}
  |{{#tag:ref|{{{1|{{{reference|{{{content|{{{text|}}}}}}}}}}}}|name={{{name|}}}|group={{#switch: {{{group|}}}

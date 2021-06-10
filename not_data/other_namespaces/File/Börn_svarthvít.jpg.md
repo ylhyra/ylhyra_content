@@ -1,6 +1,6 @@
-title = File:Börn svarthvít.jpg
-redirects =
->>>>
+---
+title: File:Börn svarthvít.jpg
+---
 
 == Summary ==
 [[Category:Unsplash]]

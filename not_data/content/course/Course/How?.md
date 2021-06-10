@@ -1,6 +1,6 @@
-title = Course/How?
-redirects =
->>>>
+---
+title: Course/How?
+---
 
 Hvernig segir maður....
 

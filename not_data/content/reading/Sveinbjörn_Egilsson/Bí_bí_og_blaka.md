@@ -1,6 +1,6 @@
-title = Sveinbjörn Egilsson/Bí bí og blaka
-redirects =
->>>>
+---
+title: Sveinbjörn Egilsson/Bí bí og blaka
+---
 
 {{start|Sveinbjörn Egilsson/Bí bí og blaka}}
 <level c2/>

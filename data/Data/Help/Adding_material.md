@@ -1,6 +1,6 @@
-title = Data:Help:Adding material
-redirects =
->>>>
+---
+title: Data:Help:Adding material
+---
 
 {
     "list": {

@@ -1,6 +1,6 @@
-title = Course/When?
-redirects =
->>>>
+---
+title: Course/When?
+---
 
 =={{start|Course/5}}When?==
 "Hvenær" means "when?". Rembember that "[[hv]]" is always pronounced "kv". There is one additional exception that only applies to the word "hvenær" that is fairly annoying for students: The letter "[[æ]]" in the word isn't fully pronounced, instead it is pronounced as an "[[a]]". "Hven'''æ'''r" is pronounced /k{{h}}ven'''a'''r/.

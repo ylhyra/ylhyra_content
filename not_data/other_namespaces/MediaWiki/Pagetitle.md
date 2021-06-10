@@ -1,5 +1,5 @@
-title = MediaWiki:Pagetitle
-redirects =
->>>>
+---
+title: MediaWiki:Pagetitle
+---
 
 $1 – Learn Icelandic – {{SITENAME}}

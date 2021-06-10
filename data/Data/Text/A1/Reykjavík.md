@@ -1,6 +1,6 @@
-title = Data:Text:A1/Reykjavík
-redirects =
->>>>
+---
+title: Data:Text:A1/Reykjavík
+---
 
 {
     "list": {

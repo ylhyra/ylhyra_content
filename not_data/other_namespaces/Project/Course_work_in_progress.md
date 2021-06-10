@@ -1,6 +1,6 @@
-title = Project:Course work in progress
-redirects =
->>>>
+---
+title: Project:Course work in progress
+---
 
 *[[Project:Todo|Todo]]
 *[[Project:Helpful links|Helpful links]]

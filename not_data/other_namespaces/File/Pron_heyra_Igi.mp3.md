@@ -1,5 +1,5 @@
-title = File:Pron heyra Igi.mp3
-redirects =
->>>>
+---
+title: File:Pron heyra Igi.mp3
+---
 
 {{spoken|heyra}}

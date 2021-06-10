@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Draumsýn
-redirects =
+---
+title: Tweets/Benedikt/Draumsýn
+redirects:
 - Forseti2k32/draumsýn/ teikna blóm á daginn, veiða
->>>>
+---
 
 {{start|Tweets/Benedikt/Draumsýn}}
 <level b2/>

@@ -1,5 +1,5 @@
-title = File:Pron horfa db3y.mp3
-redirects =
->>>>
+---
+title: File:Pron horfa db3y.mp3
+---
 
 {{spoken|horfa}}

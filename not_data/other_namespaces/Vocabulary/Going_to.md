@@ -1,6 +1,6 @@
-title = Vocabulary:Going to
-redirects =
->>>>
+---
+title: Vocabulary:Going to
+---
 
 ég ætla = I intend to, I am going to, I plan to
 þú ætlar = you intend to, you are going to, you plan to

@@ -1,6 +1,6 @@
-title = Template:Video
-redirects =
->>>>
+---
+title: Template:Video
+---
 
 <div data-type="video" data-children="object" data-translate="no">
 <span data-name="video" data-children="boolean" class="hidden">true</span>

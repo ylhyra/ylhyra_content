@@ -1,5 +1,5 @@
-title = Template:Poem
-redirects =
->>>>
+---
+title: Template:Poem
+---
 
 <div data-translate=true class="poem">{{{1|}}}</div>

@@ -1,6 +1,6 @@
-title = Course/Doing
-redirects =
->>>>
+---
+title: Course/Doing
+---
 
 {{start|Course/Doing}}
 ==The basic form of verbs==

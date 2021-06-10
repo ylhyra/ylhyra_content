@@ -1,6 +1,6 @@
-title = Data:Blær/Egg í áskrift
-redirects =
->>>>
+---
+title: Data:Blær/Egg í áskrift
+---
 
 {
     "tokenized": null,

@@ -1,6 +1,6 @@
-title = Data:Intonation
-redirects =
->>>>
+---
+title: Data:Intonation
+---
 
 {
     "list": {

@@ -1,6 +1,6 @@
-title = Villi Neto/Forníslenski sjomlinn
-redirects =
->>>>
+---
+title: Villi Neto/Forníslenski sjomlinn
+---
 
 {{start|Villi Neto/Forníslenski sjomlinn}}
 

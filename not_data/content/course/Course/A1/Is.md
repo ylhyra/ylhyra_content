@@ -1,6 +1,6 @@
-title = Course/A1/Is
-redirects =
->>>>
+---
+title: Course/A1/Is
+---
 
 Many Icelandic words are similar to the English ones. In particular, note how similar '''`[[Að vera|er]]`''' is to the English "'''are'''".
 

@@ -1,6 +1,6 @@
-title = File:Lopapeysa.mp3
-redirects =
->>>>
+---
+title: File:Lopapeysa.mp3
+---
 
 == Summary ==
 {{cc0}}

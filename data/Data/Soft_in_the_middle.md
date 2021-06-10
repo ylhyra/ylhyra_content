@@ -1,6 +1,6 @@
-title = Data:Soft in the middle
-redirects =
->>>>
+---
+title: Data:Soft in the middle
+---
 
 {
     "list": {

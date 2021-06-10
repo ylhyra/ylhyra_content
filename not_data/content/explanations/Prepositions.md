@@ -1,8 +1,9 @@
-title = Prepositions
-redirects =
+---
+title: Prepositions
+redirects:
 - Preposition
 - Prepositions that cause cases
->>>>
+---
 
 {{start|Prepositions that cause cases}} 
 <level a1/> 

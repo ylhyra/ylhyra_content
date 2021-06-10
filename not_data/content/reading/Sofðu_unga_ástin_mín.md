@@ -1,6 +1,6 @@
-title = Sofðu unga ástin mín
-redirects =
->>>>
+---
+title: Sofðu unga ástin mín
+---
 
 {{start|Sofðu unga ástin mín}}
 [[File:Portrait_of_Jóhann_Sigurjónsson.jpg|thumb|120px|[[w:Jóhann Sigurjónsson|Jóhann Sigurjónsson]] (1880–1919)]]

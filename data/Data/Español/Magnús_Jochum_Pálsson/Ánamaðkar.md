@@ -1,6 +1,6 @@
-title = Data:Español/Magnús Jochum Pálsson/Ánamaðkar
-redirects =
->>>>
+---
+title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
+---
 
 {
     "list": {

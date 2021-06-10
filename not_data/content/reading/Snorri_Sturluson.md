@@ -1,5 +1,5 @@
-title = Snorri Sturluson
-redirects =
->>>>
+---
+title: Snorri Sturluson
+---
 
 [[File:Snorri meme.png|thumb|]]

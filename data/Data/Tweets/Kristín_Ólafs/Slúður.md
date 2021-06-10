@@ -1,6 +1,6 @@
-title = Data:Tweets/Kristín Ólafs/Slúður
-redirects =
->>>>
+---
+title: Data:Tweets/Kristín Ólafs/Slúður
+---
 
 {
     "list": {

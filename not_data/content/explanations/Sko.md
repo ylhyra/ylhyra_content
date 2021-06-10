@@ -1,6 +1,6 @@
-title = Sko
-redirects =
->>>>
+---
+title: Sko
+---
 
 <level a2/>
 

@@ -1,6 +1,6 @@
-title = Data:Tweets/Imba/Þjóðverjar
-redirects =
->>>>
+---
+title: Data:Tweets/Imba/Þjóðverjar
+---
 
 {
     "list": {

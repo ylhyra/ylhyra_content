@@ -1,5 +1,5 @@
-title = File:Pronunciation yfirbordid ADQV.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation yfirbordid ADQV.mp3
+---
 
 {{spoken|yfirborðið}}

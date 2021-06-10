@@ -1,5 +1,5 @@
-title = File:Siðareglur.mp3
-redirects =
->>>>
+---
+title: File:Siðareglur.mp3
+---
 
 undefined

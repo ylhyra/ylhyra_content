@@ -1,5 +1,5 @@
-title = File:Pronunciation pJi-.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation pJi-.mp3
+---
 
 undefined

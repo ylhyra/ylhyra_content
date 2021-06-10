@@ -1,7 +1,8 @@
-title = Tweets/Ása/Stjörnur
-redirects =
+---
+title: Tweets/Ása/Stjörnur
+redirects:
 - Asabergny/Óska eftir félaga til að horfa með
->>>>
+---
 
 {{start|Tweets/Ása/Stjörnur}}
 <level b2/>

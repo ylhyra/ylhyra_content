@@ -1,7 +1,8 @@
-title = Course/A1/Að
-redirects =
+---
+title: Course/A1/Að
+redirects:
 - Text/Að/Intro
->>>>
+---
 
 {{start|Text:Að/Intro}}
 {{is|[[Að]]}} is used a lot in Icelandic. It can have several different uses, but most often it means '''to''' as in "'''to''' sing" ({{is|'''að''' syngja}}). Another common use of "að" is to connect sentence together: {{is|Bjarni segir '''að''' mamma komi á eftir}}, but that is a more advanced topic.

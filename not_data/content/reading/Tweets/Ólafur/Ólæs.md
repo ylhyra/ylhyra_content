@@ -1,7 +1,8 @@
-title = Tweets/Ólafur/Ólæs
-redirects =
+---
+title: Tweets/Ólafur/Ólæs
+redirects:
 - Kjamanden/Fyrir 20 árum var ég ólæs og kunni
->>>>
+---
 
 {{start|Tweets/Ólafur/Ólæs}}
 <level b2/>

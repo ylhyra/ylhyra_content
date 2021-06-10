@@ -1,6 +1,6 @@
-title = Text:A1/Garðvinna
-redirects =
->>>>
+---
+title: Text:A1/Garðvinna
+---
 
 {{start|Text:A1/Garðvinna}}<level a1/>
 [[File:Þreyttur hundur.jpg|thumb]]

@@ -1,7 +1,8 @@
-title = Tweets/Rannveig Dóra/Matur
-redirects =
+---
+title: Tweets/Rannveig Dóra/Matur
+redirects:
 - Rannveigdora/Maturinn er tilbúinn
->>>>
+---
 
 {{start|Tweets/Rannveig Dóra/Matur}}
 <level a1/>

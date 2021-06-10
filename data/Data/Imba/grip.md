@@ -1,6 +1,6 @@
-title = Data:Imba/grip
-redirects =
->>>>
+---
+title: Data:Imba/grip
+---
 
 {
     "list": {

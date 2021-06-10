@@ -1,6 +1,6 @@
-title = Að vera
-redirects =
->>>>
+---
+title: Að vera
+---
 
 {{start|Að vera}}
 '''`Að vera`''' = to be

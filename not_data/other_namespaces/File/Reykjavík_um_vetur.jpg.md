@@ -1,6 +1,6 @@
-title = File:Reykjavík um vetur.jpg
-redirects =
->>>>
+---
+title: File:Reykjavík um vetur.jpg
+---
 
 == Summary ==
 [[Category:Unsplash]]

@@ -1,6 +1,6 @@
-title = Template:Declension adjective singular all genders nominative
-redirects =
->>>>
+---
+title: Template:Declension adjective singular all genders nominative
+---
 
 {| class="wikitable"
 |+

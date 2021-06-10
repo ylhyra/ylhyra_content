@@ -1,7 +1,8 @@
-title = Tweets/Imba/Ligeglad
-redirects =
+---
+title: Tweets/Imba/Ligeglad
+redirects:
 - Skvisumus/Lífið snýst um að vera nógu ligeglad
->>>>
+---
 
 {{start|Tweets/Imba/Ligeglad}}
 <level c1/>

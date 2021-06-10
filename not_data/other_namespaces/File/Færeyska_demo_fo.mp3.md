@@ -1,5 +1,5 @@
-title = File:Færeyska demo fo.mp3
-redirects =
->>>>
+---
+title: File:Færeyska demo fo.mp3
+---
 
 undefined

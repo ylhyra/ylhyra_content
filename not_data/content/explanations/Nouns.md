@@ -1,8 +1,9 @@
-title = Nouns
-redirects =
+---
+title: Nouns
+redirects:
 - Nafnorð
 - Noun
->>>>
+---
 
 '''Nouns''' (''nafnorð'') are the class of words that contain objects, creatures, ideas and so on such as: car, human, leg, happiness, Iceland.
 

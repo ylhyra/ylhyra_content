@@ -1,5 +1,5 @@
-title = Text:Vocabulary
-redirects =
->>>>
+---
+title: Text:Vocabulary
+---
 
 undefined

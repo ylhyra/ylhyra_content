@@ -1,6 +1,6 @@
-title = Template:Latest article
-redirects =
->>>>
+---
+title: Template:Latest article
+---
 
 <div>
 [[{{{titill}}}|<span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/File:{{{mynd}}}|width=300}})"></span>]]

@@ -1,5 +1,5 @@
-title = Template:Book end
-redirects =
->>>>
+---
+title: Template:Book end
+---
 
 </div>

@@ -1,6 +1,6 @@
-title = Data:Blær/LungA
-redirects =
->>>>
+---
+title: Data:Blær/LungA
+---
 
 {
     "list": {

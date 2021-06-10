@@ -1,5 +1,5 @@
-title = Template:Done
-redirects =
->>>>
+---
+title: Template:Done
+---
 
 <small style="color:green">Done</small>

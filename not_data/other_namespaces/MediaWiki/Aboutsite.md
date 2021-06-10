@@ -1,5 +1,5 @@
-title = MediaWiki:Aboutsite
-redirects =
->>>>
+---
+title: MediaWiki:Aboutsite
+---
 
 About Ylhýra

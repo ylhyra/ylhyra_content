@@ -1,6 +1,6 @@
-title = Written Icelandic
-redirects =
->>>>
+---
+title: Written Icelandic
+---
 
 <level a1/>
 

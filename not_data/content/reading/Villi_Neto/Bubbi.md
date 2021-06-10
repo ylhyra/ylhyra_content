@@ -1,6 +1,6 @@
-title = Villi Neto/Bubbi
-redirects =
->>>>
+---
+title: Villi Neto/Bubbi
+---
 
 {{start|Villi Neto/Bubbi}}
 {{instagram

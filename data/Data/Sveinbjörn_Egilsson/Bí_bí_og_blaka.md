@@ -1,6 +1,6 @@
-title = Data:Sveinbjörn Egilsson/Bí bí og blaka
-redirects =
->>>>
+---
+title: Data:Sveinbjörn Egilsson/Bí bí og blaka
+---
 
 {
     "list": {

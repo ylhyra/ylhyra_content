@@ -1,6 +1,6 @@
-title = Project:Software work in progess
-redirects =
->>>>
+---
+title: Project:Software work in progess
+---
 
 *Parsing should not take 4 seconds on huge documents.
 **[[Software:Wrap in tags|WrapInTags]] is doing too many json2html calls

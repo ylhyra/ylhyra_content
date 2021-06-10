@@ -1,6 +1,6 @@
-title = Intonation
-redirects =
->>>>
+---
+title: Intonation
+---
 
 {{start|Intonation}}<level a2/>
 

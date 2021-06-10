@@ -1,6 +1,6 @@
-title = Money
-redirects =
->>>>
+---
+title: Money
+---
 
 Iceland's currency is the [[w:Icelandic króna|Icelandic króna]].
 

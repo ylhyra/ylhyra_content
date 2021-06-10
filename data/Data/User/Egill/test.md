@@ -1,6 +1,6 @@
-title = Data:User:Egill/test
-redirects =
->>>>
+---
+title: Data:User:Egill/test
+---
 
 {
     "list": {

@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Yfirmaður
-redirects =
+---
+title: Tweets/Benedikt/Yfirmaður
+redirects:
 - Forseti2k32/Verði ég yfirmaður á vinnustað mun
->>>>
+---
 
 {{start|Tweets/Benedikt/Yfirmaður}}
 <level b2/>

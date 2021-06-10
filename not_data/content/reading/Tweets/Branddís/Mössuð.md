@@ -1,7 +1,8 @@
-title = Tweets/Branddís/Mössuð
-redirects =
+---
+title: Tweets/Branddís/Mössuð
+redirects:
 - Branddis Asrun/Á þessu ári ætla ég að verða svo ógeðslega
->>>>
+---
 
 {{start|Tweets/Branddís/Mössuð}}
 <level b2/>

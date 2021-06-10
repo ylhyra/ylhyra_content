@@ -1,5 +1,5 @@
-title = File:DneW.mp3
-redirects =
->>>>
+---
+title: File:DneW.mp3
+---
 
 undefined

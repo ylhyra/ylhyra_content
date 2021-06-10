@@ -1,5 +1,5 @@
-title = Template:Lh-þt
-redirects =
->>>>
+---
+title: Template:Lh-þt
+---
 
 🌈

@@ -1,6 +1,6 @@
-title = File:Þreyttur hundur.jpg
-redirects =
->>>>
+---
+title: File:Þreyttur hundur.jpg
+---
 
 == Summary ==
 https://unsplash.com/photos/LcJkpSoA0es

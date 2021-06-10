@@ -1,6 +1,6 @@
-title = How to use Ylhýra
-redirects =
->>>>
+---
+title: How to use Ylhýra
+---
 
 = How to use Ylhýra =
 

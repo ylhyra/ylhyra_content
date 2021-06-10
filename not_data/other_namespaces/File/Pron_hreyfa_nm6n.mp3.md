@@ -1,5 +1,5 @@
-title = File:Pron hreyfa nm6n.mp3
-redirects =
->>>>
+---
+title: File:Pron hreyfa nm6n.mp3
+---
 
 {{spoken|hreyfa}}

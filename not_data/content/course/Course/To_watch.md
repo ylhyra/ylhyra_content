@@ -1,6 +1,6 @@
-title = Course/To watch
-redirects =
->>>>
+---
+title: Course/To watch
+---
 
 = Chapter {{SUBPAGENAME}} =
 

@@ -1,8 +1,9 @@
-title = Búinn
-redirects =
+---
+title: Búinn
+redirects:
 - Búin
 - Búið
->>>>
+---
 
 {{start|Búinn}}<level a1/>    
 

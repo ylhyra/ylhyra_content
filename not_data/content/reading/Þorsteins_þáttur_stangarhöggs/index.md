@@ -1,6 +1,6 @@
-title = Þorsteins þáttur stangarhöggs
-redirects =
->>>>
+---
+title: Þorsteins þáttur stangarhöggs
+---
 
 {{start|Þorsteins þáttur stangarhöggs}}
 2,600 words

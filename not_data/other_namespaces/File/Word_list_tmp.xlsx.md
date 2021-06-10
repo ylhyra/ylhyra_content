@@ -1,5 +1,5 @@
-title = File:Word list tmp.xlsx
-redirects =
->>>>
+---
+title: File:Word list tmp.xlsx
+---
 
 undefined

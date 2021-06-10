@@ -1,7 +1,8 @@
-title = Tweets/Ása/Sjófánar
-redirects =
+---
+title: Tweets/Ása/Sjófánar
+redirects:
 - Asabergny/Í dag dundaði ég mér við að festa
->>>>
+---
 
 {{start|Tweets/Ása/Sjófánar}}
 <level b2/>

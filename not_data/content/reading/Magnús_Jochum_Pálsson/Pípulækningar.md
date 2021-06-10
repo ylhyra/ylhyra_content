@@ -1,6 +1,6 @@
-title = Magnús Jochum Pálsson/Pípulækningar
-redirects =
->>>>
+---
+title: Magnús Jochum Pálsson/Pípulækningar
+---
 
 {{start|Magnús Jochum Pálsson/Pípulækningar}}
 <div class="book" data-translate="true" data-audio-file="Pípulækningar.mp3">

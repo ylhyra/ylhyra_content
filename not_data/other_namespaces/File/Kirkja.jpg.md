@@ -1,6 +1,6 @@
-title = File:Kirkja.jpg
-redirects =
->>>>
+---
+title: File:Kirkja.jpg
+---
 
 == Summary ==
 [[Category:Unsplash]]

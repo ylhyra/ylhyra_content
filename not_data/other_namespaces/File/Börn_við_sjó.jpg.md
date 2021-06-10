@@ -1,6 +1,6 @@
-title = File:Börn við sjó.jpg
-redirects =
->>>>
+---
+title: File:Börn við sjó.jpg
+---
 
 == Summary ==
 "'Dad's Coming!' (Harper's Weekly, Vol. XVII)" by Winslow Homer is licensed under CC0 1.0

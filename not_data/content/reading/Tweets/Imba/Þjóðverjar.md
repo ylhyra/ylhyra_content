@@ -1,7 +1,8 @@
-title = Tweets/Imba/Þjóðverjar
-redirects =
+---
+title: Tweets/Imba/Þjóðverjar
+redirects:
 - Skvisumus/Barnalegt af Þjóðverjum að vera ekki
->>>>
+---
 
 {{start|Tweets/Imba/Þjóðverjar}}
 {{tweet

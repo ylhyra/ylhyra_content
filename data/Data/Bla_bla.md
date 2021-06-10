@@ -1,6 +1,6 @@
-title = Data:Bla bla
-redirects =
->>>>
+---
+title: Data:Bla bla
+---
 
 {
 "analysis": {

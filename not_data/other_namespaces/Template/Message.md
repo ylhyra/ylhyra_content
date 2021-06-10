@@ -1,6 +1,6 @@
-title = Template:Message
-redirects =
->>>>
+---
+title: Template:Message
+---
 
 <div data-children="object">
 <div data-name="type" data-children="string">message</div>

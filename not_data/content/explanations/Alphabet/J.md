@@ -1,6 +1,6 @@
-title = J
-redirects =
->>>>
+---
+title: J
+---
 
 The letter '''J''' is pronounced like the English '''''y'''es''.
 

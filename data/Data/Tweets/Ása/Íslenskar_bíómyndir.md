@@ -1,6 +1,6 @@
-title = Data:Tweets/Ása/Íslenskar bíómyndir
-redirects =
->>>>
+---
+title: Data:Tweets/Ása/Íslenskar bíómyndir
+---
 
 {
     "list": {

@@ -1,10 +1,11 @@
-title = L
-redirects =
+---
+title: L
+redirects:
 - Breathy L#Breathy L
 - Clicky double L#Clicky double L
 - Double L#Double L
 - Ll#Double L
->>>>
+---
 
 The letter '''L''' can represent a few different sounds.
 

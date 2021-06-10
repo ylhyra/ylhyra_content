@@ -1,5 +1,5 @@
-title = Template:Þt
-redirects =
->>>>
+---
+title: Template:Þt
+---
 
 🌚

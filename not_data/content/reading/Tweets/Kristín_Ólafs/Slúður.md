@@ -1,7 +1,8 @@
-title = Tweets/Kristín Ólafs/Slúður
-redirects =
+---
+title: Tweets/Kristín Ólafs/Slúður
+redirects:
 - Krolafs/Þegar þú veist að það eru einhverjar
->>>>
+---
 
 {{start|Tweets/Kristín Ólafs/Slúður}}
 {{tweet

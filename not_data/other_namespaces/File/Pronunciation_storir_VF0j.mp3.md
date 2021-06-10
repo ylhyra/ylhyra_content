@@ -1,5 +1,5 @@
-title = File:Pronunciation storir VF0j.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation storir VF0j.mp3
+---
 
 {{spoken|stórir}}

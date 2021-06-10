@@ -1,6 +1,6 @@
-title = Time
-redirects =
->>>>
+---
+title: Time
+---
 
 <level a1/>
 

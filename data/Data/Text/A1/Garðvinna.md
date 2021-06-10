@@ -1,6 +1,6 @@
-title = Data:Text:A1/Garðvinna
-redirects =
->>>>
+---
+title: Data:Text:A1/Garðvinna
+---
 
 {
     "list": {

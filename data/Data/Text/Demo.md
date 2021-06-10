@@ -1,6 +1,6 @@
-title = Data:Text:Demo
-redirects =
->>>>
+---
+title: Data:Text:Demo
+---
 
 {
     "analysis": {},

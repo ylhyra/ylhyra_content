@@ -1,6 +1,6 @@
-title = Gjörðu svo vel
-redirects =
->>>>
+---
+title: Gjörðu svo vel
+---
 
 <level a2/>
 

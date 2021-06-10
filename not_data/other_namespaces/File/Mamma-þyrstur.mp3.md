@@ -1,5 +1,5 @@
-title = File:Mamma-þyrstur.mp3
-redirects =
->>>>
+---
+title: File:Mamma-þyrstur.mp3
+---
 
 undefined

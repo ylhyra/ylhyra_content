@@ -1,7 +1,8 @@
-title = Góðan daginn
-redirects =
+---
+title: Góðan daginn
+redirects:
 - Daginn
->>>>
+---
 
 {{start|Góðan daginn}}
 `Góðan daginn` (“Good day”) is a very common greeting, used from early morning until 6PM (that's when the day turns into an evening). You use it:

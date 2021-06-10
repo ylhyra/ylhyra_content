@@ -1,6 +1,6 @@
-title = Text:Guðmundur Kamban/Dúna Kvaran
-redirects =
->>>>
+---
+title: Text:Guðmundur Kamban/Dúna Kvaran
+---
 
 Guðmundur Kamban
 

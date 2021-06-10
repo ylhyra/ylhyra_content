@@ -1,6 +1,6 @@
-title = Course/The
-redirects =
->>>>
+---
+title: Course/The
+---
 
 In English, the word "'''the'''" is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the word ("hús'''ið'''"). The "the" is known as the [[w:Definite article|definite article]]. There is no "''a / an''" in Icelandic, "'''a''' house" is just "hús".
 

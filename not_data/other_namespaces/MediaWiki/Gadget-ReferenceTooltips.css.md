@@ -1,6 +1,6 @@
-title = MediaWiki:Gadget-ReferenceTooltips.css
-redirects =
->>>>
+---
+title: MediaWiki:Gadget-ReferenceTooltips.css
+---
 
 /* See [[mw:Reference Tooltips]] */
 

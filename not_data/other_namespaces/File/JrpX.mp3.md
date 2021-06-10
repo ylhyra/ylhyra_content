@@ -1,5 +1,5 @@
-title = File:JrpX.mp3
-redirects =
->>>>
+---
+title: File:JrpX.mp3
+---
 
 undefined

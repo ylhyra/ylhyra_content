@@ -1,5 +1,5 @@
-title = MediaWiki:Robots.txt
-redirects =
->>>>
+---
+title: MediaWiki:Robots.txt
+---
 
 Disallow: /

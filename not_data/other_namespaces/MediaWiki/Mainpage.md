@@ -1,5 +1,5 @@
-title = MediaWiki:Mainpage
-redirects =
->>>>
+---
+title: MediaWiki:Mainpage
+---
 
 Ylhýra

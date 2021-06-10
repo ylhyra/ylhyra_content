@@ -1,7 +1,8 @@
-title = H
-redirects =
+---
+title: H
+redirects:
 - Hv#Exceptions
->>>>
+---
 
 The letter '''H''' is pronounced the same as in English.
 

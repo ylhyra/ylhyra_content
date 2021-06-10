@@ -1,9 +1,10 @@
-title = Template:To USD
-redirects =
+---
+title: Template:To USD
+redirects:
 -  Template/To usd
 -  Template/USD
 -  Template/Usd
->>>>
+---
 
 <onlyinclude>{{{1}}} ISK ({{#expr: ({{{1}}}/ 144 ) round 0}} USD)</onlyinclude><noinclude>
 

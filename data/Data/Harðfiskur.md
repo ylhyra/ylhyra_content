@@ -1,6 +1,6 @@
-title = Data:Harðfiskur
-redirects =
->>>>
+---
+title: Data:Harðfiskur
+---
 
 {
     "list": {

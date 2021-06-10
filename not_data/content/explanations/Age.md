@@ -1,7 +1,8 @@
-title = Age
-redirects =
+---
+title: Age
+redirects:
 - Módel#Módel
->>>>
+---
 
 <level a1/>
 {{start|Age}}

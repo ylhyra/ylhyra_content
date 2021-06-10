@@ -1,6 +1,6 @@
-title = Español
-redirects =
->>>>
+---
+title: Español
+---
 
 <br />
 

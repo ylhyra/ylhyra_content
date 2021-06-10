@@ -1,7 +1,8 @@
-title = Tweets/Branddís/Borðaraðir
-redirects =
+---
+title: Tweets/Branddís/Borðaraðir
+redirects:
 - Branddis Asrun/Bjó til plan þar sem borðaraðirnar
->>>>
+---
 
 {{start|Tweets/Branddís/Borðaraðir}}
 {{tweet

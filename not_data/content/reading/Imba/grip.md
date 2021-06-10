@@ -1,6 +1,6 @@
-title = Imba/grip
-redirects =
->>>>
+---
+title: Imba/grip
+---
 
 <level b2/>
 {{start|Imba/grip}}

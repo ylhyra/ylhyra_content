@@ -1,6 +1,6 @@
-title = Magnús Jochum Pálsson/Ánamaðkar
-redirects =
->>>>
+---
+title: Magnús Jochum Pálsson/Ánamaðkar
+---
 
 <noinclude><small>[[Español/Magnús_Jochum_Pálsson/Ánamaðkar|Read in Spanish]]</small><br/></noinclude>{{start|Magnús Jochum Pálsson/Ánamaðkar}}
 <div class="book" data-translate="true" data-audio-file="Ánamaðkar.mp3">

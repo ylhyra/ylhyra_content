@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Hreimur
-redirects =
+---
+title: Tweets/Benedikt/Hreimur
+redirects:
 - Forseti2k32/Ákveðinn sigur þegar innfæddir halda
->>>>
+---
 
 {{start|Tweets/Benedikt/Hreimur}}
 {{tweet

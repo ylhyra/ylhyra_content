@@ -1,5 +1,5 @@
-title = File:Hann er svo góður hundur.mp3
-redirects =
->>>>
+---
+title: File:Hann er svo góður hundur.mp3
+---
 
 undefined

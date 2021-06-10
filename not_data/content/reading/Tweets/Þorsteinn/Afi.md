@@ -1,7 +1,8 @@
-title = Tweets/Þorsteinn/Afi
-redirects =
+---
+title: Tweets/Þorsteinn/Afi
+redirects:
 - Kristnihald/Þú þarft virkilega að gera eitthvað
->>>>
+---
 
 {{start|Tweets/Þorsteinn/Afi}}
 <level b2/>

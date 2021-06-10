@@ -1,10 +1,11 @@
-title = G
-redirects =
+---
+title: G
+redirects:
 - G in the roof of the mouth#G in the roof of the mouth
 - Soft G#Soft G
 - Soft G-sound#Soft G
 - Soft throaty G#Soft throaty G
->>>>
+---
 
 '''G''' is a difficult letter in Icelandic, since it can represent 6 different sounds depending on which letters surround it.
 

@@ -1,5 +1,5 @@
-title = File:Ylhyra demo.gif
-redirects =
->>>>
+---
+title: File:Ylhyra demo.gif
+---
 
 undefined

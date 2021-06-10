@@ -1,6 +1,6 @@
-title = Project:Sound shift
-redirects =
->>>>
+---
+title: Project:Sound shift
+---
 
 '''Sound shifts''' (or '''umlauts''')
 

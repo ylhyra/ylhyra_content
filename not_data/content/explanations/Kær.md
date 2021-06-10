@@ -1,8 +1,9 @@
-title = Kær
-redirects =
+---
+title: Kær
+redirects:
 - Kæri
 - Kærlega
->>>>
+---
 
 <level a1/>
 

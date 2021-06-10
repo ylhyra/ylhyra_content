@@ -1,6 +1,6 @@
-title = Template:Under construction
-redirects =
->>>>
+---
+title: Template:Under construction
+---
 
 <div class="banner">
 This {{#if:{{NAMESPACE}}|page|article}} is under construction, feel free to improve it.

@@ -1,7 +1,8 @@
-title = Course/A1/Questions
-redirects =
+---
+title: Course/A1/Questions
+redirects:
 - Chapter 2/Questions
->>>>
+---
 
 {{start|Chapter 2/Questions}}
 English question words (''who'', ''where'', ''what'') start with <code>wh-</code>, but Icelandic question words flip it around and all start with <code>hv-</code>.

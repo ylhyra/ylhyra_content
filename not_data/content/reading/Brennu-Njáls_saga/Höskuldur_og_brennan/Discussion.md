@@ -1,6 +1,6 @@
-title = Brennu-Njáls saga/Höskuldur og brennan/Discussion
-redirects =
->>>>
+---
+title: Brennu-Njáls saga/Höskuldur og brennan/Discussion
+---
 
 
 ==Discussion==

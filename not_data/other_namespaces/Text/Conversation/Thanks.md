@@ -1,6 +1,6 @@
-title = Text:Conversation/Thanks
-redirects =
->>>>
+---
+title: Text:Conversation/Thanks
+---
 
 {{start|Snippet:Conversation/Thanks}}
 

@@ -1,6 +1,6 @@
-title = Data:Conversations/Eldamennska
-redirects =
->>>>
+---
+title: Data:Conversations/Eldamennska
+---
 
 {
     "list": {

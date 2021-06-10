@@ -1,5 +1,5 @@
-title = Template:Line
-redirects =
->>>>
+---
+title: Template:Line
+---
 
 <div>{{{1|}}}</div>

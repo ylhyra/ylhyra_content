@@ -1,6 +1,6 @@
-title = Ekki
-redirects =
->>>>
+---
+title: Ekki
+---
 
 {{start|Ekki}}
 <level b1/>

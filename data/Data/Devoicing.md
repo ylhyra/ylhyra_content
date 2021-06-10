@@ -1,6 +1,6 @@
-title = Data:Devoicing
-redirects =
->>>>
+---
+title: Data:Devoicing
+---
 
 {
     "list": {

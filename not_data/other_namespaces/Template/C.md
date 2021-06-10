@@ -1,5 +1,5 @@
-title = Template:C
-redirects =
->>>>
+---
+title: Template:C
+---
 
 '''©'''

@@ -1,8 +1,9 @@
-title = Giving orders
-redirects =
+---
+title: Giving orders
+redirects:
 - Boðháttur
 - Imperative
->>>>
+---
 
 {{start|Giving orders}}
 A special verb form known as '''boðháttur''' (''imperative'') 👮 is used to give orders. It looks like this:

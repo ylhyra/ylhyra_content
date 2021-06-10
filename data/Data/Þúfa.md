@@ -1,6 +1,6 @@
-title = Data:Þúfa
-redirects =
->>>>
+---
+title: Data:Þúfa
+---
 
 {
     "list": {

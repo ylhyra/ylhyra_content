@@ -1,10 +1,11 @@
-title = Alphabet and pronunciation
-redirects =
+---
+title: Alphabet and pronunciation
+redirects:
 - Alphabet
 - Icelandic alphabet
 - Pronunciation
 - Spelling
->>>>
+---
 
 {{start|Alphabet and pronunciation}}
 <!--[[Introduction to Icelandic spelling]]-->

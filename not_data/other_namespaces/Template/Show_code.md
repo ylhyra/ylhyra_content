@@ -1,6 +1,6 @@
-title = Template:Show code
-redirects =
->>>>
+---
+title: Template:Show code
+---
 
 {| class="wikitable"
 |-

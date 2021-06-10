@@ -1,5 +1,5 @@
-title = Template:Needs audio
-redirects =
->>>>
+---
+title: Template:Needs audio
+---
 
 <small style="color:gray" class="user-show sans-serif">(needs audio)</small>

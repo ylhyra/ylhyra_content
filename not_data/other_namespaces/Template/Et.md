@@ -1,5 +1,5 @@
-title = Template:Et
-redirects =
->>>>
+---
+title: Template:Et
+---
 
 [[Singular|👤]]

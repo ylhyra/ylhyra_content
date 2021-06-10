@@ -1,6 +1,6 @@
-title = Course/I know
-redirects =
->>>>
+---
+title: Course/I know
+---
 
 =Chapter 6=
 

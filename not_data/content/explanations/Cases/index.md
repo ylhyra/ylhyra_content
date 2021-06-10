@@ -1,9 +1,10 @@
-title = Cases
-redirects =
+---
+title: Cases
+redirects:
 - Case
 - Cases/Introduction
 - Course/A1/Introduction to cases
->>>>
+---
 
 {{start|Cases}}
 <onlyinclude>

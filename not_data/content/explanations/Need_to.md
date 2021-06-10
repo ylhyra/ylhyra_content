@@ -1,6 +1,6 @@
-title = Need to
-redirects =
->>>>
+---
+title: Need to
+---
 
 {{start|Need to}}The following words all mean "I have to / I need to / I must":
 

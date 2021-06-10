@@ -1,8 +1,9 @@
-title = Nicknames in Icelandic
-redirects =
+---
+title: Nicknames in Icelandic
+redirects:
 - Nicknames
 - Íslensk gælunöfn
->>>>
+---
 
 <level c1/>
 

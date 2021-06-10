@@ -1,6 +1,6 @@
-title = Text:Blær/Silfur svanurinn/Teaser
-redirects =
->>>>
+---
+title: Text:Blær/Silfur svanurinn/Teaser
+---
 
 {{start|Text:Blær/Silfur svanurinn/Teaser}}
 <a href="{{fullurl:Blær/Silfur svanurinn}}" class="frontpage-box-with-image"><!--

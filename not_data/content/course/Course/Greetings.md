@@ -1,6 +1,6 @@
-title = Course/Greetings
-redirects =
->>>>
+---
+title: Course/Greetings
+---
 
 ==Greetings==
 

@@ -1,6 +1,6 @@
-title = N
-redirects =
->>>>
+---
+title: N
+---
 
 The letter '''N''' can represent a few different sounds.
 

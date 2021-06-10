@@ -1,5 +1,5 @@
-title = File:Pron erfitt EOf7.mp3
-redirects =
->>>>
+---
+title: File:Pron erfitt EOf7.mp3
+---
 
 {{spoken|erfitt}}

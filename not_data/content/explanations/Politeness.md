@@ -1,6 +1,6 @@
-title = Politeness
-redirects =
->>>>
+---
+title: Politeness
+---
 
 {{start|Politeness}}In Icelandic, the way to show politeness is:
 

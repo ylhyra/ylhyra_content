@@ -1,5 +1,5 @@
-title = Project:Subscribe
-redirects =
->>>>
+---
+title: Project:Subscribe
+---
 
 {{mailchimp}}

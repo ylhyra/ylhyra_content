@@ -1,6 +1,6 @@
-title = Y
-redirects =
->>>>
+---
+title: Y
+---
 
 The letter '''Y''' is pronounced exactly the same as the Icelandic letter '''[[i]]'''. It is pronounced similar to the English ''k'''i'''d''.
 

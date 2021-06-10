@@ -1,7 +1,8 @@
-title = Stress
-redirects =
+---
+title: Stress
+redirects:
 - Emphasis
->>>>
+---
 
 {{start|Stress}}
 <level a1/>

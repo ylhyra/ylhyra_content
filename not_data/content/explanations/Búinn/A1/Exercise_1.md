@@ -1,6 +1,6 @@
-title = Búinn/A1/Exercise 1
-redirects =
->>>>
+---
+title: Búinn/A1/Exercise 1
+---
 
 <level a1/>
 

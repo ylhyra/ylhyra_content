@@ -1,5 +1,5 @@
-title = File:Friðrika með hund.jpg
-redirects =
->>>>
+---
+title: File:Friðrika með hund.jpg
+---
 
 undefined

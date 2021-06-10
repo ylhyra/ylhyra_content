@@ -1,7 +1,8 @@
-title = Project:Ylhýra
-redirects =
+---
+title: Project:Ylhýra
+redirects:
 -  Project
->>>>
+---
 
 {{#addbodyclass:small_text}}
 Þetta er yfirlitssíðan fyrir Ylhýru. [mailto:egill@egill.xyz Sendu okkur tölvupóst] til að komast í samband<!--, það er líka til [https://discord.gg/4s6BH78 Discord rás] sem er að vísu ekki sú virkasta-->.  

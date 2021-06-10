@@ -1,6 +1,6 @@
-title = -ó endings/Less common words
-redirects =
->>>>
+---
+title: -ó endings/Less common words
+---
 
 {{start|-ó endings/Less common words}}
 This is an appendix to the article on [[-ó endings]] and is a semi-exhaustive list of less common -ó words.

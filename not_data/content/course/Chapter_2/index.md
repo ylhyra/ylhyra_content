@@ -1,6 +1,6 @@
-title = Chapter 2
-redirects =
->>>>
+---
+title: Chapter 2
+---
 
 {{start|Chapter 2}}
 == Thanks ==

@@ -1,5 +1,5 @@
-title = File:VilliNeto.jpg
-redirects =
->>>>
+---
+title: File:VilliNeto.jpg
+---
 
 undefined

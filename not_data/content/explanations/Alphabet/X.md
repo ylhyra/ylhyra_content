@@ -1,6 +1,6 @@
-title = X
-redirects =
->>>>
+---
+title: X
+---
 
 The letter '''X''' is pronounced exactly the same as in English. It starts with the [[G|hard G]] sound and ends with the [[S]] sound, sounding like "ggs".
 

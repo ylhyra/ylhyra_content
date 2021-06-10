@@ -1,6 +1,6 @@
-title = Vocabulary/All
-redirects =
->>>>
+---
+title: Vocabulary/All
+---
 
 {{start|Vocabulary/All}}
 {| class="wikitable"

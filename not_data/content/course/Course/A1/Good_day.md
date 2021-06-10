@@ -1,7 +1,8 @@
-title = Course/A1/Good day
-redirects =
+---
+title: Course/A1/Good day
+redirects:
 - Chapter 2/Good day
->>>>
+---
 
 {{start|Chapter 2/Good day}}
 Aside from `takk`, the other phrase you'll use every day is '''`[[Góðan daginn]]!`''' (“Good day!”). `Góðan daginn` is used from the early morning until 6PM (that's when the day turns into an evening).

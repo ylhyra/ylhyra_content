@@ -1,6 +1,6 @@
-title = Blær/LungA
-redirects =
->>>>
+---
+title: Blær/LungA
+---
 
 {{Blær|http://blaer.is/grein/lunga}}
 {{start|Blær/LungA}}

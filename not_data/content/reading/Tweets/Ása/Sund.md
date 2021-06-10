@@ -1,7 +1,8 @@
-title = Tweets/Ása/Sund
-redirects =
+---
+title: Tweets/Ása/Sund
+redirects:
 - Asabergny/Hver sundferð er endurfæðing
->>>>
+---
 
 {{start|Tweets/Ása/Sund}}
 {{tweet

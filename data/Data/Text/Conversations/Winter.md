@@ -1,6 +1,6 @@
-title = Data:Text:Conversations/Winter
-redirects =
->>>>
+---
+title: Data:Text:Conversations/Winter
+---
 
 {
     "list": {

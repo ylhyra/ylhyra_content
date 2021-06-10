@@ -1,8 +1,9 @@
-title = Yes
-redirects =
+---
+title: Yes
+redirects:
 - Course/A1/Yes
 - Jú
->>>>
+---
 
 {{start|Yes}}
 There are '''two''' ways to say "yes" in Icelandic:

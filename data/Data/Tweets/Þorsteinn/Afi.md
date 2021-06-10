@@ -1,6 +1,6 @@
-title = Data:Tweets/Þorsteinn/Afi
-redirects =
->>>>
+---
+title: Data:Tweets/Þorsteinn/Afi
+---
 
 {
     "list": {

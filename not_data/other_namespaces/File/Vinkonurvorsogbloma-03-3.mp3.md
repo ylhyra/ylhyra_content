@@ -1,5 +1,5 @@
-title = File:Vinkonurvorsogbloma-03-3.mp3
-redirects =
->>>>
+---
+title: File:Vinkonurvorsogbloma-03-3.mp3
+---
 
 undefined

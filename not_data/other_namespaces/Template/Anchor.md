@@ -1,5 +1,5 @@
-title = Template:Anchor
-redirects =
->>>>
+---
+title: Template:Anchor
+---
 
 <span id="{{{1|}}}"></span>

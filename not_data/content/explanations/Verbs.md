@@ -1,8 +1,9 @@
-title = Verbs
-redirects =
+---
+title: Verbs
+redirects:
 - Sagnorð
 - Verb
->>>>
+---
 
 <level a1/>
 

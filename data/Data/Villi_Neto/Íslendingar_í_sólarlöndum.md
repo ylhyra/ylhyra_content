@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Íslendingar í sólarlöndum
-redirects =
->>>>
+---
+title: Data:Villi Neto/Íslendingar í sólarlöndum
+---
 
 {
     "list": {

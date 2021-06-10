@@ -1,6 +1,6 @@
-title = Text:Guðrún Lárusdóttir/Systurnar/Header
-redirects =
->>>>
+---
+title: Text:Guðrún Lárusdóttir/Systurnar/Header
+---
 
 {{start|Text:Guðrún Lárusdóttir/Systurnar/Header}}
 

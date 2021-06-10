@@ -1,6 +1,6 @@
-title = Project:Poster
-redirects =
->>>>
+---
+title: Project:Poster
+---
 
 *[https://www.researchgate.net/profile/Manny_Rayner/publication/335948557_Overview_of_LARA_A_Learning_and_Reading_Assistant/links/5d930e8e299bf10cff1cdb6f/Overview-of-LARA-A-Learning-and-Reading-Assistant.pdf Overview of LARA] (pdf)
 

@@ -1,6 +1,6 @@
-title = Text:Þetta/Full explanation
-redirects =
->>>>
+---
+title: Text:Þetta/Full explanation
+---
 
 {{start|Text:Þetta/Full explanation}}
 

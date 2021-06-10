@@ -1,6 +1,6 @@
-title = Imba/ég veit
-redirects =
->>>>
+---
+title: Imba/ég veit
+---
 
 <level b2/>
 {{start|Imba/ég veit}}

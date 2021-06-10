@@ -1,6 +1,6 @@
-title = Project:Drafts/Course WIP
-redirects =
->>>>
+---
+title: Project:Drafts/Course WIP
+---
 
 Ég veit ekki '''alveg''' hvað ég er að gera.
 

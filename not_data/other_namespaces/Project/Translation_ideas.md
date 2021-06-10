@@ -1,6 +1,6 @@
-title = Project:Translation ideas
-redirects =
->>>>
+---
+title: Project:Translation ideas
+---
 
 See [[Texts]]
 

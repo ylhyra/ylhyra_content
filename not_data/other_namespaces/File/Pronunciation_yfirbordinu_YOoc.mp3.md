@@ -1,5 +1,5 @@
-title = File:Pronunciation yfirbordinu YOoc.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation yfirbordinu YOoc.mp3
+---
 
 {{spoken|yfirborðinu}}

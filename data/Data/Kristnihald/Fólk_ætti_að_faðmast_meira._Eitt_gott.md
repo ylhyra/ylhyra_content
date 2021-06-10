@@ -1,6 +1,6 @@
-title = Data:Kristnihald/Fólk ætti að faðmast meira. Eitt gott
-redirects =
->>>>
+---
+title: Data:Kristnihald/Fólk ætti að faðmast meira. Eitt gott
+---
 
 {
     "list": {

@@ -1,6 +1,6 @@
-title = Data:Færeyjar
-redirects =
->>>>
+---
+title: Data:Færeyjar
+---
 
 {
     "list": {

@@ -1,9 +1,10 @@
-title = Past participle
-redirects =
+---
+title: Past participle
+redirects:
 - Lhþt
 - Lýsingarháttur þátíðar Sagnbót#Sagnbót
 - Supine#Sagnbót
->>>>
+---
 
 <level a1/>
 

@@ -1,6 +1,6 @@
-title = Data:Text/Milk
-redirects =
->>>>
+---
+title: Data:Text/Milk
+---
 
 {
     "list": {

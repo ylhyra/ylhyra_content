@@ -1,7 +1,8 @@
-title = Course/A1/Hello
-redirects =
+---
+title: Course/A1/Hello
+redirects:
 - Chapter 1/Hello
->>>>
+---
 
 {{start|Chapter 1/Hello}}
 

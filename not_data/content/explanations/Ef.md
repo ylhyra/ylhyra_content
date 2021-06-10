@@ -1,6 +1,6 @@
-title = Ef
-redirects =
->>>>
+---
+title: Ef
+---
 
 '''''Ef''''' may refer to:
 

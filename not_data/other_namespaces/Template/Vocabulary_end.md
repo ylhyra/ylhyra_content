@@ -1,5 +1,5 @@
-title = Template:Vocabulary end
-redirects =
->>>>
+---
+title: Template:Vocabulary end
+---
 
 </div>

@@ -1,5 +1,5 @@
-title = Template:Cases
-redirects =
->>>>
+---
+title: Template:Cases
+---
 
 undefined

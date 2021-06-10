@@ -1,5 +1,5 @@
-title = File:GNxf.mp3
-redirects =
->>>>
+---
+title: File:GNxf.mp3
+---
 
 undefined

@@ -1,11 +1,12 @@
-title = Hypothetical verb form
-redirects =
+---
+title: Hypothetical verb form
+redirects:
 - Hypothetical
 - Subjunctive
 - Subjunctive mood
 - Vh
 - Viðtengingarháttur
->>>>
+---
 
 __TOC__
 

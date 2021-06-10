@@ -1,5 +1,5 @@
-title = File:Pronunciation vatni vQWF.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation vatni vQWF.mp3
+---
 
 {{spoken|vatni}}

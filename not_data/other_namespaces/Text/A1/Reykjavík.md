@@ -1,6 +1,6 @@
-title = Text:A1/Reykjavík
-redirects =
->>>>
+---
+title: Text:A1/Reykjavík
+---
 
 {{start|Text:A1/Reykjavík}}
 <level a1/>

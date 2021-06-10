@@ -1,6 +1,6 @@
-title = Hljóta
-redirects =
->>>>
+---
+title: Hljóta
+---
 
 Hljóta means "gotta be".
 

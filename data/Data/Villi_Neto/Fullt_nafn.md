@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Fullt nafn
-redirects =
->>>>
+---
+title: Data:Villi Neto/Fullt nafn
+---
 
 {
     "list": {

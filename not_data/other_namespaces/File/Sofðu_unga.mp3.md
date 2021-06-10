@@ -1,5 +1,5 @@
-title = File:Sofðu unga.mp3
-redirects =
->>>>
+---
+title: File:Sofðu unga.mp3
+---
 
 undefined

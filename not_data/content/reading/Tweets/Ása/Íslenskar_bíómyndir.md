@@ -1,7 +1,8 @@
-title = Tweets/Ása/Íslenskar bíómyndir
-redirects =
+---
+title: Tweets/Ása/Íslenskar bíómyndir
+redirects:
 - Asabergny/Einhvern veginn finnst mér flestar
->>>>
+---
 
 {{start|Tweets/Ása/Íslenskar bíómyndir}}
 {{tweet

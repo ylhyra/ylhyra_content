@@ -1,6 +1,6 @@
-title = File:Eliza og Ylhýra.jpg
-redirects =
->>>>
+---
+title: File:Eliza og Ylhýra.jpg
+---
 
 == Summary ==
 {{c}} Forsætisráðuneytið

@@ -1,6 +1,6 @@
-title = Data:Snippet:Eiríkur dansar
-redirects =
->>>>
+---
+title: Data:Snippet:Eiríkur dansar
+---
 
 {
     "list": {

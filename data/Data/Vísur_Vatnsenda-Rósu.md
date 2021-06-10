@@ -1,6 +1,6 @@
-title = Data:Vísur Vatnsenda-Rósu
-redirects =
->>>>
+---
+title: Data:Vísur Vatnsenda-Rósu
+---
 
 {
 "analysis": {

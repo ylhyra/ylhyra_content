@@ -1,6 +1,6 @@
-title = Phrases for waiters
-redirects =
->>>>
+---
+title: Phrases for waiters
+---
 
 {{under construction}}
 {| class="wikitable"

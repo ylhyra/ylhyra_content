@@ -1,5 +1,5 @@
-title = Template:Nh
-redirects =
->>>>
+---
+title: Template:Nh
+---
 
 🌺

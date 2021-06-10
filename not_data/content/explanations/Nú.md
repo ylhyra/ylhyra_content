@@ -1,6 +1,6 @@
-title = Nú
-redirects =
->>>>
+---
+title: Nú
+---
 
 <level a2/>
 

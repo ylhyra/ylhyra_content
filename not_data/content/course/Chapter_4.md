@@ -1,6 +1,6 @@
-title = Chapter 4
-redirects =
->>>>
+---
+title: Chapter 4
+---
 
 {{start|Chapter 4}}
 ==At the supermarket==

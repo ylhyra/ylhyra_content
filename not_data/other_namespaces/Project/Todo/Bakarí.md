@@ -1,6 +1,6 @@
-title = Project:Todo/Bakarí
-redirects =
->>>>
+---
+title: Project:Todo/Bakarí
+---
 
 <!--
 Jón er í bakaríinu. Hann segir, ‚hvað kostar brauðið þarna?‘

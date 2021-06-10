@@ -1,6 +1,6 @@
-title = Data:Tweets/Branddís/Köttur
-redirects =
->>>>
+---
+title: Data:Tweets/Branddís/Köttur
+---
 
 {
     "list": {

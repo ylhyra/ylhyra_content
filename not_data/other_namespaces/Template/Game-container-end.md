@@ -1,6 +1,7 @@
-title = Template:Game-container-end
-redirects =
+---
+title: Template:Game-container-end
+redirects:
 -  Template/Game container end
->>>>
+---
 
 </div>

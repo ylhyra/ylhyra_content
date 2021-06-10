@@ -1,6 +1,6 @@
-title = Project:Manual of style
-redirects =
->>>>
+---
+title: Project:Manual of style
+---
 
 These are recommendations for which style to follow when translating material:
 

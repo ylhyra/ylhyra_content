@@ -1,5 +1,6 @@
-title = Short and long vowels
-redirects =
+---
+title: Short and long vowels
+redirects:
 - Long
 - Long sound
 - Long vowel
@@ -8,7 +9,7 @@ redirects =
 - Short sound
 - Short vowel
 - Short vowels
->>>>
+---
 
 [[Vowels]] in Icelandic can either be long or short. The long vowels take a slightly longer time to pronounce than the short vowels<ref>About 25 to 70% longer.</ref> and you often glide a bit into the long vowels. "K'''o'''ma" ("to come") is long, but "k'''o'''mma" ("a comma") is short. "V'''i'''nur" ("friend") is long but "v'''i'''nnur" ("works") is short.
 

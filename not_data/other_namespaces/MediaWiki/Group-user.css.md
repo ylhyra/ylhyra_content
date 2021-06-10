@@ -1,6 +1,6 @@
-title = MediaWiki:Group-user.css
-redirects =
->>>>
+---
+title: MediaWiki:Group-user.css
+---
 
 /* CSS placed here will affect registered users only */
 

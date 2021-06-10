@@ -1,6 +1,6 @@
-title = Text:Demo
-redirects =
->>>>
+---
+title: Text:Demo
+---
 
 {{start|Text:Demo}}
 <div id="frontpage-splash-screen-demo-text" data-translate="true">

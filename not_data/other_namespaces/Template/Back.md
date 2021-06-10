@@ -1,5 +1,5 @@
-title = Template:Back
-redirects =
->>>>
+---
+title: Template:Back
+---
 
 {{button|[[{{BASEPAGENAME}}|← Back]]}}

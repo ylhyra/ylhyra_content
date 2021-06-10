@@ -1,6 +1,6 @@
-title = A
-redirects =
->>>>
+---
+title: A
+---
 
 The letter '''A''' is pronounced {{listen|audio=GNxf.mp3}}. This is the same sound as in the English word ''f'''a'''ther''.
 

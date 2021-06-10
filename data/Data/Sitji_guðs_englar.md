@@ -1,6 +1,6 @@
-title = Data:Sitji guðs englar
-redirects =
->>>>
+---
+title: Data:Sitji guðs englar
+---
 
 {
     "list": {

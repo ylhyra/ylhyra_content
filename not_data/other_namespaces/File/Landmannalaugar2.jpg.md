@@ -1,6 +1,6 @@
-title = File:Landmannalaugar2.jpg
-redirects =
->>>>
+---
+title: File:Landmannalaugar2.jpg
+---
 
 == Summary ==
 https://unsplash.com/photos/tSsb28hzZSI

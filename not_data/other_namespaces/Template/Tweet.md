@@ -1,6 +1,6 @@
-title = Template:Tweet
-redirects =
->>>>
+---
+title: Template:Tweet
+---
 
 <div class="tweet">
 <div class="tweet-header"><!--

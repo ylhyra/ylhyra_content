@@ -1,6 +1,6 @@
-title = Template:Comment
-redirects =
->>>>
+---
+title: Template:Comment
+---
 
 <div class="user-show" style="
     background: aliceblue;

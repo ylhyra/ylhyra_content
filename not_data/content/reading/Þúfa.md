@@ -1,8 +1,9 @@
-title = Þúfa
-redirects =
+---
+title: Þúfa
+redirects:
 - Þúfan
 - Þúfur
->>>>
+---
 
 {{start|Þúfa}}
 <level b2/>

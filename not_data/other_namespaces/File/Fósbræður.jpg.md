@@ -1,6 +1,6 @@
-title = File:Fósbræður.jpg
-redirects =
->>>>
+---
+title: File:Fósbræður.jpg
+---
 
 == Summary ==
 {{c}}

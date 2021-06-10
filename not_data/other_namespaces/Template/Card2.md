@@ -1,6 +1,6 @@
-title = Template:Card2
-redirects =
->>>>
+---
+title: Template:Card2
+---
 
 <div class="card" data-type="vocabulary" data-children="object">
 <div data-name="type" data-children="string">{{{type|}}}</div>

@@ -1,8 +1,9 @@
-title = Blær/Fyrst við erum hérna
-redirects =
+---
+title: Blær/Fyrst við erum hérna
+redirects:
 - Blær/Vestfirðir
 - Fv
->>>>
+---
 
 {{Blær|https://blaer.is/grein/fyrst-vid-erum-herna}}
 {{start|Blær/Fyrst við erum hérna}}

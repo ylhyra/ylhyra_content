@@ -1,6 +1,6 @@
-title = Data:Sund
-redirects =
->>>>
+---
+title: Data:Sund
+---
 
 {
     "list": {

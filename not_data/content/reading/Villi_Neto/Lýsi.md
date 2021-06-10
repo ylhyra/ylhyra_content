@@ -1,6 +1,6 @@
-title = Villi Neto/Lýsi
-redirects =
->>>>
+---
+title: Villi Neto/Lýsi
+---
 
 {{start|Villi Neto/Lýsi}}
 

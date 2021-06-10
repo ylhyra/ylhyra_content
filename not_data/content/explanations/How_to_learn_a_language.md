@@ -1,7 +1,8 @@
-title = How to learn a language
-redirects =
+---
+title: How to learn a language
+redirects:
 - Course/A1/How to learn a language
->>>>
+---
 
 {{start|How to learn a language}}
 <div class="book">

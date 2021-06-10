@@ -1,6 +1,6 @@
-title = Villi Neto/Fullt nafn
-redirects =
->>>>
+---
+title: Villi Neto/Fullt nafn
+---
 
 {{start|Villi Neto/Fullt nafn}}
 

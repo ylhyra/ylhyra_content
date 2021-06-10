@@ -1,7 +1,8 @@
-title = Asking for things
-redirects =
+---
+title: Asking for things
+redirects:
 - Course/A1/Get ég fengið
->>>>
+---
 
 <level a1/>
 

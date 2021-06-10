@@ -1,6 +1,6 @@
-title = Template:Chapter item
-redirects =
->>>>
+---
+title: Template:Chapter item
+---
 
 {{small hr}}
 [[Course/{{#if: {{{chapter|}}} | {{{chapter|}}} | {{{title|}}} }}|<span class="div"><span style="font-weight: 500;">{{{title|}}}</span><br/><!--

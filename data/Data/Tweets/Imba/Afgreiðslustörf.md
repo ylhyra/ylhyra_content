@@ -1,6 +1,6 @@
-title = Data:Tweets/Imba/Afgreiðslustörf
-redirects =
->>>>
+---
+title: Data:Tweets/Imba/Afgreiðslustörf
+---
 
 {
     "list": {

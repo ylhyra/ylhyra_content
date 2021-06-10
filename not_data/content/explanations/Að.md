@@ -1,6 +1,6 @@
-title = Að
-redirects =
->>>>
+---
+title: Að
+---
 
 {{start|Að}}
 

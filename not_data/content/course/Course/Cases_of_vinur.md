@@ -1,6 +1,6 @@
-title = Course/Cases of vinur
-redirects =
->>>>
+---
+title: Course/Cases of vinur
+---
 
 ég ætla að hitta vin minn
 þetta er vinur minn

@@ -1,5 +1,5 @@
-title = File:KRFC.mp3
-redirects =
->>>>
+---
+title: File:KRFC.mp3
+---
 
 undefined

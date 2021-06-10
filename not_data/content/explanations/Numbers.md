@@ -1,6 +1,6 @@
-title = Numbers
-redirects =
->>>>
+---
+title: Numbers
+---
 
 {{start|Numbers}}
 = Numbers and counting =
@@ -102,14 +102,14 @@ But like in most of continental Europe, Iceland uses the comma instead of point.
 In case you want to count over one hundred, you will need to use the Icelandic words ''hundrað'', ''þúsund'' and ''miljón''. To count using these numbers, it is important to realise that they have genders, too. So that is why in the previous example, it is ''eitt þúsund dollarar''. ''Þúsund'' is neuter, like ''hundrað'', while ''miljón'' is feminine. Let’s look at some examples:
 
 <pre>
-(1) Ég á bara eitt þúsund krónur (<i>I have only 1000 krónur</i>) <!--- LM Is there an English word for krónur? Crones? --->
-(2) Hún er mjög ríkur. Hún á þrjá miljónir dollarar! (<i>She is very rich. She owns three million dollars!</i>)
+(1) Ég á bara eitt þúsund krónur (<i>I have only 1000 krónur</i>) <!-- LM Is there an English word for krónur? Crones? -->
+(2) Hún er mjög rík. Hún á þrjár milljónir dollarar! (<i>She is very rich. She owns three million dollars!</i>)
 (3) Það kostar tvö þúsund þrjú hundrað og fimmtíu krónur (<i>That costs 2350 krónur</i>)
-<!--- TODO add an example where we have a different case. --->
+<!-- TODO add an example where we have a different case. -->
 </pre>
 == Counting and dates ==
 
-<!--- LM I don't understand this yet, but you use ordinals for dates and stuff. Need to have a warning about sixth being sjötta though --->
+<!-- LM I don't understand this yet, but you use ordinals for dates and stuff. Need to have a warning about sixth being sjötta though -->
 fyrsti / fyrsta / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta
 
 [[Category:Numbers]]

@@ -1,5 +1,5 @@
-title = Template:Main
-redirects =
->>>>
+---
+title: Template:Main
+---
 
 :''Main article: [[{{{1|}}}]]''

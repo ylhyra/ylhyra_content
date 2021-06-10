@@ -1,5 +1,5 @@
-title = File:Imba Afi.mp3
-redirects =
->>>>
+---
+title: File:Imba Afi.mp3
+---
 
 == Summary ==

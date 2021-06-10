@@ -1,7 +1,8 @@
-title = Course/A1/Thanks
-redirects =
+---
+title: Course/A1/Thanks
+redirects:
 - Chapter 2/Thanks
->>>>
+---
 
 {{start|Chapter 2/Thanks}}
 Icelandic words have a lot of tiny h-sounds in places that may not be obvious at first. 

@@ -1,6 +1,6 @@
-title = Data:Imba/afi
-redirects =
->>>>
+---
+title: Data:Imba/afi
+---
 
 {
     "list": {

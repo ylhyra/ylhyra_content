@@ -1,6 +1,6 @@
-title = Ætli
-redirects =
->>>>
+---
+title: Ætli
+---
 
 {{start|Ætli}}
 <level c1/> 

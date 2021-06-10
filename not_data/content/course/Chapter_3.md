@@ -1,6 +1,6 @@
-title = Chapter 3
-redirects =
->>>>
+---
+title: Chapter 3
+---
 
 {{start|Chapter 3}}
 ==Ha?==

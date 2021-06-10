@@ -1,8 +1,9 @@
-title = Possessions
-redirects =
+---
+title: Possessions
+redirects:
 - My
 - Possession
->>>>
+---
 
 <level a1/>
 

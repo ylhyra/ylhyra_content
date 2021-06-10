@@ -1,6 +1,6 @@
-title = Project:Todo/Short texts
-redirects =
->>>>
+---
+title: Project:Todo/Short texts
+---
 
 ''Geared towards: beginner, no experience with languages''
 

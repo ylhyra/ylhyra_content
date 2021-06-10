@@ -1,5 +1,5 @@
-title = File:Pron 8XT6.mp3
-redirects =
->>>>
+---
+title: File:Pron 8XT6.mp3
+---
 
 undefined

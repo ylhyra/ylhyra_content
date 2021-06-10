@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Forníslenski sjomlinn
-redirects =
->>>>
+---
+title: Data:Villi Neto/Forníslenski sjomlinn
+---
 
 {
     "list": {

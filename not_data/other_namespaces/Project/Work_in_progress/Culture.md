@@ -1,6 +1,6 @@
-title = Project:Work in progress/Culture
-redirects =
->>>>
+---
+title: Project:Work in progress/Culture
+---
 
 {{start|Culture}}
 ==Daily life==

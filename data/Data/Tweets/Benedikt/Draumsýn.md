@@ -1,6 +1,6 @@
-title = Data:Tweets/Benedikt/Draumsýn
-redirects =
->>>>
+---
+title: Data:Tweets/Benedikt/Draumsýn
+---
 
 {
     "list": {

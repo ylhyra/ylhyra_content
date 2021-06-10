@@ -1,12 +1,13 @@
-title = First case
-redirects =
+---
+title: First case
+redirects:
 - Nefnifall
 - Nf
 - Nf.
 - Nom
 - Nominative
 - Nominative case
->>>>
+---
 
 {{start|First case}}
 <level a1/>

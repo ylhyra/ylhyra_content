@@ -1,6 +1,6 @@
-title = E-books in Icelandic
-redirects =
->>>>
+---
+title: E-books in Icelandic
+---
 
 Purchasing Icelandic e-books is quite easy and it is relatively cheap for the value you get out of them as a student.
 

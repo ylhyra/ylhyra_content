@@ -1,6 +1,6 @@
-title = Template:Mailchimp
-redirects =
->>>>
+---
+title: Template:Mailchimp
+---
 
 <!-- Begin Mailchimp Signup Form -->
 <html>

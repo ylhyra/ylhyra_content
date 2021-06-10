@@ -1,6 +1,6 @@
-title = Style of Icelandic used in the news
-redirects =
->>>>
+---
+title: Style of Icelandic used in the news
+---
 
 {{start|Style of Icelandic used in the news}}
 <level b2/>

@@ -1,6 +1,6 @@
-title = Chapter 1/Er
-redirects =
->>>>
+---
+title: Chapter 1/Er
+---
 
 {{start|Chapter 1/Er}}
 '''`[[Að vera|Er]]`''' means "is". It is very similar to the English "you '''are'''".

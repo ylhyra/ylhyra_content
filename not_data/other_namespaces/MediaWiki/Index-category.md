@@ -1,5 +1,5 @@
-title = MediaWiki:Index-category
-redirects =
->>>>
+---
+title: MediaWiki:Index-category
+---
 
 Indexed pages

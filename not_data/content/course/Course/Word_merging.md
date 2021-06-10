@@ -1,7 +1,8 @@
-title = Course/Word merging
-redirects =
+---
+title: Course/Word merging
+redirects:
 - Word merging
->>>>
+---
 
 ==Word merging==
 If the word "þú" (you) appears [[Word order|after a verb]], such as in a [[question]], the "þú" gets attached to the verb, they merge together to form one word. If this were the case in English, "Are you?" would become "Areyou?". This only happens when the word form is "þú" and not for its other [[cases]] such as "þér".

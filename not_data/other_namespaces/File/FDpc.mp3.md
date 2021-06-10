@@ -1,5 +1,5 @@
-title = File:FDpc.mp3
-redirects =
->>>>
+---
+title: File:FDpc.mp3
+---
 
 undefined

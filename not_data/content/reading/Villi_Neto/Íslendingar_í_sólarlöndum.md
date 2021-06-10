@@ -1,6 +1,6 @@
-title = Villi Neto/Íslendingar í sólarlöndum
-redirects =
->>>>
+---
+title: Villi Neto/Íslendingar í sólarlöndum
+---
 
 {{start|Villi Neto/Íslendingar í sólarlöndum}}
 

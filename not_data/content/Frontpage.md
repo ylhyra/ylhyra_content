@@ -1,8 +1,8 @@
-title = Ylhýra
-redirects =
+---
+title: Ylhýra
+redirects:
 - Main Page
-- Main Page
->>>>
+---
 
 <!-- No start -->
 <div id="frontpage-splash-screen">

@@ -1,7 +1,8 @@
-title = Texts
-redirects =
+---
+title: Texts
+redirects:
 - Text
->>>>
+---
 
 {{start|Texts}}
 

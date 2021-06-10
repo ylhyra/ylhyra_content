@@ -1,8 +1,9 @@
-title = Passive and active vocabulary
-redirects =
+---
+title: Passive and active vocabulary
+redirects:
 - Active vocabulary
 - Passive vocabulary
->>>>
+---
 
 Your '''passive vocabulary''' consists of the words you understand, while your '''active vocabulary''' consists of the words you're able to use yourself.
 

@@ -1,5 +1,5 @@
-title = Template:Button
-redirects =
->>>>
+---
+title: Template:Button
+---
 
 <div class="button blue">{{{1|}}}</div>

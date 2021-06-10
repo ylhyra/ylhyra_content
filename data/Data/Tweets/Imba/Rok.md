@@ -1,6 +1,6 @@
-title = Data:Tweets/Imba/Rok
-redirects =
->>>>
+---
+title: Data:Tweets/Imba/Rok
+---
 
 {
     "list": {

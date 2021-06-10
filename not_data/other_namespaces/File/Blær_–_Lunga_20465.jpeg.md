@@ -1,5 +1,5 @@
-title = File:Blær – Lunga 20465.jpeg
-redirects =
->>>>
+---
+title: File:Blær – Lunga 20465.jpeg
+---
 
 {{c}} Blær – https://blaer.is/grein/lunga

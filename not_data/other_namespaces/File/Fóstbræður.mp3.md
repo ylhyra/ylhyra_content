@@ -1,5 +1,5 @@
-title = File:Fóstbræður.mp3
-redirects =
->>>>
+---
+title: File:Fóstbræður.mp3
+---
 
 == Summary ==

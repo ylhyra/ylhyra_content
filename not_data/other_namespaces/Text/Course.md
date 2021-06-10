@@ -1,6 +1,6 @@
-title = Text:Course
-redirects =
->>>>
+---
+title: Text:Course
+---
 
 This is a short tutorial in Icelandic for a complete beginner.
 

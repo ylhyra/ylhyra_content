@@ -1,6 +1,6 @@
-title = File:Lopapeysa – Alan Levine.jpg
-redirects =
->>>>
+---
+title: File:Lopapeysa – Alan Levine.jpg
+---
 
 == Summary ==
 Mynd eftir Alan Levine – https://www.flickr.com/photos/cogdog/5313957853/

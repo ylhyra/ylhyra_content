@@ -1,5 +1,5 @@
-title = File:Ylhyra logo.svg
-redirects =
->>>>
+---
+title: File:Ylhyra logo.svg
+---
 
 undefined

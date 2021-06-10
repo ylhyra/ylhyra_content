@@ -1,8 +1,9 @@
-title = Ng and nk rule
-redirects =
+---
+title: Ng and nk rule
+redirects:
 - Ng
 - Nk
->>>>
+---
 
 {{start|Ng and nk rule}}
 ==Pronunciation before ''ng'' and ''nk''==

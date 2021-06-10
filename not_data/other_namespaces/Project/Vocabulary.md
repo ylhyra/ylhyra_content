@@ -1,6 +1,6 @@
-title = Project:Vocabulary
-redirects =
->>>>
+---
+title: Project:Vocabulary
+---
 
 ha?,
 já,

@@ -1,6 +1,6 @@
-title = Data:Imba/current mood
-redirects =
->>>>
+---
+title: Data:Imba/current mood
+---
 
 {
     "list": {

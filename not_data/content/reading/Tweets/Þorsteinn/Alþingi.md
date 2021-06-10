@@ -1,7 +1,8 @@
-title = Tweets/Þorsteinn/Alþingi
-redirects =
+---
+title: Tweets/Þorsteinn/Alþingi
+redirects:
 - Kristnihald/Það þarf engar siðareglur á Alþingi.
->>>>
+---
 
 {{start|Tweets/Þorsteinn/Alþingi}}
 {{tweet

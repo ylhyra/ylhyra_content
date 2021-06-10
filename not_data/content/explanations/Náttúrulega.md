@@ -1,7 +1,8 @@
-title = Náttúrulega
-redirects =
+---
+title: Náttúrulega
+redirects:
 - Náttla
->>>>
+---
 
 {{start|Náttúrulega}}
 <level b1/>

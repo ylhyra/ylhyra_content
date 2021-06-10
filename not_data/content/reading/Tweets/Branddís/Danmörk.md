@@ -1,7 +1,8 @@
-title = Tweets/Branddís/Danmörk
-redirects =
+---
+title: Tweets/Branddís/Danmörk
+redirects:
 - Branddis Asrun/Einföld lausn á þessu máli. Við bjöllum
->>>>
+---
 
 {{start|Tweets/Branddís/Danmörk}}
 {{tweet

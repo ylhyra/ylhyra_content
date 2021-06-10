@@ -1,6 +1,6 @@
-title = Template:Video header
-redirects =
->>>>
+---
+title: Template:Video header
+---
 
 <div class="video-header"><!--
 -->[[File:{{{image}}}|50px|link={{{url|}}}]]<!--

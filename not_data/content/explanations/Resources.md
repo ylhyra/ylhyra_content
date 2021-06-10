@@ -1,7 +1,8 @@
-title = Resources
-redirects =
+---
+title: Resources
+redirects:
 - Project/Helpful links
->>>>
+---
 
 {{start|Resources}}
 ==Online teachers==

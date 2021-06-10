@@ -1,6 +1,6 @@
-title = MediaWiki:Gadget-charinsert-styles.css
-redirects =
->>>>
+---
+title: MediaWiki:Gadget-charinsert-styles.css
+---
 
 /*  _____________________________________________________________________________
  * |                                                                             |

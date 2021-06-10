@@ -1,12 +1,13 @@
-title = The
-redirects =
+---
+title: The
+redirects:
 - Course/A1/The
 - Definite article
 - Definite article/Introduction
 - With article
 - With definite article
 - Without article
->>>>
+---
 
 <level a1/>
 {{start|Definite article/Introduction}}

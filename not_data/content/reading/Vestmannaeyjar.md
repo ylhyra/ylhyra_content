@@ -1,6 +1,6 @@
-title = Vestmannaeyjar
-redirects =
->>>>
+---
+title: Vestmannaeyjar
+---
 
 <level a2/>
 {{image|Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg}}

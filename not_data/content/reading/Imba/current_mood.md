@@ -1,6 +1,6 @@
-title = Imba/current mood
-redirects =
->>>>
+---
+title: Imba/current mood
+---
 
 <level b1/>
 {{start|Imba/current mood}}

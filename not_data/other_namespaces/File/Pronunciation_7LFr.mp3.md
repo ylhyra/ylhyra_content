@@ -1,5 +1,5 @@
-title = File:Pronunciation 7LFr.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation 7LFr.mp3
+---
 
 undefined

@@ -1,6 +1,6 @@
-title = Course/A1/About Icelandic
-redirects =
->>>>
+---
+title: Course/A1/About Icelandic
+---
 
 ==About Icelandic{{start|Course/A1/About Icelandic}}==
 [[File:Iceland (orthographic projection).svg|thumb|The neighbors of Iceland are: 

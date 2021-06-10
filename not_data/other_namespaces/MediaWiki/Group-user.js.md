@@ -1,6 +1,6 @@
-title = MediaWiki:Group-user.js
-redirects =
->>>>
+---
+title: MediaWiki:Group-user.js
+---
 
 /* Any JavaScript here will be loaded for registered users only */
 

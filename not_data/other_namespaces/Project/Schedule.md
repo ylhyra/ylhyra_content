@@ -1,6 +1,6 @@
-title = Project:Schedule
-redirects =
->>>>
+---
+title: Project:Schedule
+---
 
 = Beginner - Draft schedule =
 

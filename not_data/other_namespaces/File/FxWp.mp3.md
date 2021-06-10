@@ -1,5 +1,5 @@
-title = File:FxWp.mp3
-redirects =
->>>>
+---
+title: File:FxWp.mp3
+---
 
 undefined

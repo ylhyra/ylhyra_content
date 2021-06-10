@@ -1,6 +1,6 @@
-title = Villi Neto/Skata
-redirects =
->>>>
+---
+title: Villi Neto/Skata
+---
 
 {{start|Villi Neto/Skata}}
 

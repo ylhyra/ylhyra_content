@@ -1,7 +1,8 @@
-title = Tweets/Ása/Ormurinn
-redirects =
+---
+title: Tweets/Ása/Ormurinn
+redirects:
 - Asabergny/Ég er með harðsperrur eftir orminn.
->>>>
+---
 
 {{start|Tweets/Ása/Ormurinn}}
 {{tweet

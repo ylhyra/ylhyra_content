@@ -1,5 +1,5 @@
-title = File:PGvG.mp3
-redirects =
->>>>
+---
+title: File:PGvG.mp3
+---
 
 undefined

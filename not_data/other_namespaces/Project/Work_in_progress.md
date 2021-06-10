@@ -1,6 +1,6 @@
-title = Project:Work in progress
-redirects =
->>>>
+---
+title: Project:Work in progress
+---
 
 '''ÖRYRKJA-ÁTAK EGILS OG ÁRNA 9.–16. MAÍ'''
 

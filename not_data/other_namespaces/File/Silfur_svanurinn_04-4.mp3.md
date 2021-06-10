@@ -1,5 +1,5 @@
-title = File:Silfur svanurinn 04-4.mp3
-redirects =
->>>>
+---
+title: File:Silfur svanurinn 04-4.mp3
+---
 
 undefined

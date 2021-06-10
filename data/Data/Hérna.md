@@ -1,6 +1,6 @@
-title = Data:Hérna
-redirects =
->>>>
+---
+title: Data:Hérna
+---
 
 {
     "list": {

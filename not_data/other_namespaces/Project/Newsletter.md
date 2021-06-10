@@ -1,6 +1,6 @@
-title = Project:Newsletter
-redirects =
->>>>
+---
+title: Project:Newsletter
+---
 
 '''Newsletters''':
 

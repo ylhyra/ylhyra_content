@@ -1,6 +1,6 @@
-title = Course/How are you
-redirects =
->>>>
+---
+title: Course/How are you
+---
 
 ==Hi==
 A simple greeting in Icelandic is: 

@@ -1,6 +1,6 @@
-title = Course/A1/Listening – sæll
-redirects =
->>>>
+---
+title: Course/A1/Listening – sæll
+---
 
 * sæll
 * sæl

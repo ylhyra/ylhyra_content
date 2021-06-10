@@ -1,5 +1,5 @@
-title = File:Pronunciation pollar mTSY.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation pollar mTSY.mp3
+---
 
 {{spoken|pollar}}

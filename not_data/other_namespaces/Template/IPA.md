@@ -1,5 +1,5 @@
-title = Template:IPA
-redirects =
->>>>
+---
+title: Template:IPA
+---
 
 [{{{1|}}}]

@@ -1,6 +1,6 @@
-title = Data:Magnús Jochum Pálsson/Ánamaðkar
-redirects =
->>>>
+---
+title: Data:Magnús Jochum Pálsson/Ánamaðkar
+---
 
 {
     "analysis": {

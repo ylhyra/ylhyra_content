@@ -1,5 +1,5 @@
-title = File:IOUM.mp3
-redirects =
->>>>
+---
+title: File:IOUM.mp3
+---
 
 undefined

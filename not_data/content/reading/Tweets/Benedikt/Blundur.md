@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Blundur
-redirects =
+---
+title: Tweets/Benedikt/Blundur
+redirects:
 - Forseti2k32/Finnst fólk almennt ekki gera sér
->>>>
+---
 
 {{start|Tweets/Benedikt/Blundur}}
 {{tweet

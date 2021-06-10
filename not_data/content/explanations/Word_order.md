@@ -1,6 +1,6 @@
-title = Word order
-redirects =
->>>>
+---
+title: Word order
+---
 
 {{start|Word order}}Word order in Icelandic is usually the same as you'd expect in English. Normal sentences start with the subject („Ég er köttur.“) while [[questions]] flip it around and start with the verb („Er ég köttur?“).
 

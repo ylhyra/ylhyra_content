@@ -1,6 +1,6 @@
-title = Data:Text:Blær/Fyrst við erum hérna/Teaser
-redirects =
->>>>
+---
+title: Data:Text:Blær/Fyrst við erum hérna/Teaser
+---
 
 {
     "list": {

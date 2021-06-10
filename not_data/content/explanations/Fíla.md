@@ -1,6 +1,6 @@
-title = Fíla
-redirects =
->>>>
+---
+title: Fíla
+---
 
 '''Fíla''' is slang for "to like something", it's particularly common when discussing how you liked a book, movie, or an activity.
 

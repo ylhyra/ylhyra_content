@@ -1,6 +1,6 @@
-title = MediaWiki:Gadget-charinsert.js
-redirects =
->>>>
+---
+title: MediaWiki:Gadget-charinsert.js
+---
 
 /**
  * charinsert loader

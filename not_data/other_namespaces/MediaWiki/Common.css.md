@@ -1,6 +1,6 @@
-title = MediaWiki:Common.css
-redirects =
->>>>
+---
+title: MediaWiki:Common.css
+---
 
 .user-show {
   display:none;

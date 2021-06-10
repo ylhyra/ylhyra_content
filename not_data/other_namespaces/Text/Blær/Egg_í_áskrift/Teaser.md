@@ -1,6 +1,6 @@
-title = Text:Blær/Egg í áskrift/Teaser
-redirects =
->>>>
+---
+title: Text:Blær/Egg í áskrift/Teaser
+---
 
 {{start|Text:Blær/Egg í áskrift/Teaser}}
 <a href="https://punktur.egill.xyz/egg.html" class="frontpage-box-with-image">

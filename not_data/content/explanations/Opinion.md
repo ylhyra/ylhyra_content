@@ -1,6 +1,6 @@
-title = Opinion
-redirects =
->>>>
+---
+title: Opinion
+---
 
 <level a1/>
 

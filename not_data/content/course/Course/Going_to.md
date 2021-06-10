@@ -1,6 +1,6 @@
-title = Course/Going to
-redirects =
->>>>
+---
+title: Course/Going to
+---
 
 ==I am going to do it==
 "Ég ætla" means "I intend to, I am going to, I plan to". This is a particularly useful word since in most interactions with other people you discuss what you're going to do today, this evening, or this week. 

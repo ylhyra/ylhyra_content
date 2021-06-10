@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Reiður á innsoginu
-redirects =
->>>>
+---
+title: Data:Villi Neto/Reiður á innsoginu
+---
 
 {
     "list": {

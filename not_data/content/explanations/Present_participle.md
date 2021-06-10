@@ -1,6 +1,6 @@
-title = Present participle
-redirects =
->>>>
+---
+title: Present participle
+---
 
 <level b1/>
 

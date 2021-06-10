@@ -1,6 +1,6 @@
-title = Data:Bláa lónið
-redirects =
->>>>
+---
+title: Data:Bláa lónið
+---
 
 {
     "list": {

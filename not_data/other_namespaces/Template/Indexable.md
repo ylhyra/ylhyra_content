@@ -1,6 +1,6 @@
-title = Template:Indexable
-redirects =
->>>>
+---
+title: Template:Indexable
+---
 
 {{#switch: {{NAMESPACENUMBER}}
  | 0 = 1

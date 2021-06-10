@@ -1,6 +1,6 @@
-title = Chapter 1/Vocabulary
-redirects =
->>>>
+---
+title: Chapter 1/Vocabulary
+---
 
 {{start|Chapter 1/Vocabulary}}
 

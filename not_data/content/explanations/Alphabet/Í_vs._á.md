@@ -1,6 +1,6 @@
-title = Í vs. á
-redirects =
->>>>
+---
+title: Í vs. á
+---
 
 {{start|Í vs. á}}<level a1/>
 

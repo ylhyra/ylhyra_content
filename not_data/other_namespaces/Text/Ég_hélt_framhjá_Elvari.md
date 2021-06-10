@@ -1,6 +1,6 @@
-title = Text:Ég hélt framhjá Elvari
-redirects =
->>>>
+---
+title: Text:Ég hélt framhjá Elvari
+---
 
 <br />In 2020, a video went viral showing two teenage girls having a heated argument. {{audio|Ég_hélt_framhjá_Elvari.mp3}}
 

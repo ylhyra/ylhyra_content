@@ -1,6 +1,6 @@
-title = Conversations/Prentari
-redirects =
->>>>
+---
+title: Conversations/Prentari
+---
 
 {{start|Conversations/Prentari}}
 <level a1/>

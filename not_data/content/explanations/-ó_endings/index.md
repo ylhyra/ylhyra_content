@@ -1,6 +1,6 @@
-title = -ó endings
-redirects =
->>>>
+---
+title: -ó endings
+---
 
 {{start|-ó endings}}
 <level b1/>

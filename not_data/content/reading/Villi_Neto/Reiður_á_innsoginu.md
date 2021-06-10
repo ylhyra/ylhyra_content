@@ -1,6 +1,6 @@
-title = Villi Neto/Reiður á innsoginu
-redirects =
->>>>
+---
+title: Villi Neto/Reiður á innsoginu
+---
 
 {{start|Villi Neto/Reiður á innsoginu}}
 {{instagram

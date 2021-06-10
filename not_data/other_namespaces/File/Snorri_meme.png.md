@@ -1,6 +1,6 @@
-title = File:Snorri meme.png
-redirects =
->>>>
+---
+title: File:Snorri meme.png
+---
 
 == Summary ==
 

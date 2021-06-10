@@ -1,6 +1,6 @@
-title = Data:Lopapeysa
-redirects =
->>>>
+---
+title: Data:Lopapeysa
+---
 
 {
 "analysis": {

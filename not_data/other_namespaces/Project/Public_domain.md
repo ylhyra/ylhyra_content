@@ -1,6 +1,6 @@
-title = Project:Public domain
-redirects =
->>>>
+---
+title: Project:Public domain
+---
 
 *[[Text:Guðmundur Kamban/Dúna Kvaran|Guðmundur Kamban/Dúna Kvaran]] <small>Not done</small>
 *[[Text:Hulda/Fáninn|Hulda/Fáninn]] <small>Not done</small>

@@ -1,6 +1,6 @@
-title = Text:Blær/Fyrst við erum hérna/Teaser
-redirects =
->>>>
+---
+title: Text:Blær/Fyrst við erum hérna/Teaser
+---
 
 <a href="{{fullurl:Blær/Fyrst við erum hérna}}" class="frontpage-box-with-image"><!--
 --><span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/Blaer_fyrst_vid_erum_herna.jpg|height=200}})"></span><!--

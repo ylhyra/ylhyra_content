@@ -1,11 +1,12 @@
-title = Fourth case
-redirects =
+---
+title: Fourth case
+redirects:
 - Ef.
 - Eignarfall
 - Gen
 - Genitive
 - Genitive case
->>>>
+---
 
 {{start|Fourth case}}
 <level a1/>

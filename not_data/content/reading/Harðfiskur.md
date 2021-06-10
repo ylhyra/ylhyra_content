@@ -1,8 +1,9 @@
-title = Harðfiskur
-redirects =
+---
+title: Harðfiskur
+redirects:
 - Text/A1/Harðfiskur
 - Text/A2/Harðfiskur
->>>>
+---
 
 {{start|Harðfiskur}}
 <level a2/>

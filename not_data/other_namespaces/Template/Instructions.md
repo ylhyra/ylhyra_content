@@ -1,6 +1,6 @@
-title = Template:Instructions
-redirects =
->>>>
+---
+title: Template:Instructions
+---
 
 
 <html><div class="instructions sans-serif">

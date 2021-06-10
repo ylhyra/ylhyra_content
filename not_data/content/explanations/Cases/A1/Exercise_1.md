@@ -1,6 +1,6 @@
-title = Cases/A1/Exercise 1
-redirects =
->>>>
+---
+title: Cases/A1/Exercise 1
+---
 
 <level a1/>
 

@@ -1,6 +1,6 @@
-title = Template:Write
-redirects =
->>>>
+---
+title: Template:Write
+---
 
 <div class="card" data-type="vocabulary" data-children="object">
 <div data-name="type" data-children="string">write</div>

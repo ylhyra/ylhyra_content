@@ -1,6 +1,6 @@
-title = Chapter 6
-redirects =
->>>>
+---
+title: Chapter 6
+---
 
 {{start|Chapter 6}}
 =Verbs in Icelandic=

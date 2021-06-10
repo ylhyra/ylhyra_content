@@ -1,6 +1,6 @@
-title = File:Loftmynd.jpeg
-redirects =
->>>>
+---
+title: File:Loftmynd.jpeg
+---
 
 == Summary ==
 https://unsplash.com/photos/XFWg9u0TYs4

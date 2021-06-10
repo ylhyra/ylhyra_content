@@ -1,6 +1,6 @@
-title = Template:Multiple choice
-redirects =
->>>>
+---
+title: Template:Multiple choice
+---
 
 <div class="card" data-type="vocabulary" data-children="object">
 <div data-name="type" data-children="string">multiple choice</div>

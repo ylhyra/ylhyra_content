@@ -1,6 +1,6 @@
-title = MediaWiki:Gadget-ReferenceTooltips.js
-redirects =
->>>>
+---
+title: MediaWiki:Gadget-ReferenceTooltips.js
+---
 
 // See [[mw:Reference Tooltips]]
 // Source https://en.wikipedia.org/wiki/MediaWiki:Gadget-ReferenceTooltips.js

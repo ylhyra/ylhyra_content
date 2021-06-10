@@ -1,6 +1,6 @@
-title = File:Vestmannaeyjar.mp3
-redirects =
->>>>
+---
+title: File:Vestmannaeyjar.mp3
+---
 
 == Summary ==
 {{cc0}}

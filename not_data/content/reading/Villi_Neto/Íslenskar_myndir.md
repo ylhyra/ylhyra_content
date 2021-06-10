@@ -1,6 +1,6 @@
-title = Villi Neto/Íslenskar myndir
-redirects =
->>>>
+---
+title: Villi Neto/Íslenskar myndir
+---
 
 {{start|Villi Neto/Íslenskar myndir}}
 

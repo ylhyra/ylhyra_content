@@ -1,6 +1,6 @@
-title = Template:Blær
-redirects =
->>>>
+---
+title: Template:Blær
+---
 
 <div class="instructions-header">
 {{Instructions}}

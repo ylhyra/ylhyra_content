@@ -1,6 +1,6 @@
-title = Text:Conversation/Questions
-redirects =
->>>>
+---
+title: Text:Conversation/Questions
+---
 
 {{start|Snippet:Conversation/Questions}}
 {{conversation|

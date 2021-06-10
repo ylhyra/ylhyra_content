@@ -1,5 +1,5 @@
-title = File:Pron hringja kDNt.mp3
-redirects =
->>>>
+---
+title: File:Pron hringja kDNt.mp3
+---
 
 {{spoken|hringja}}

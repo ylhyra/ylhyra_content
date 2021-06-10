@@ -1,5 +1,5 @@
-title = File:Garðvinna.mp3
-redirects =
->>>>
+---
+title: File:Garðvinna.mp3
+---
 
 undefined

@@ -1,6 +1,6 @@
-title = Course/Want
-redirects =
->>>>
+---
+title: Course/Want
+---
 
 ==Want==
 There are two ways to say that you want something: "ég vil" (I want) and "mig langar" (I want, I desire).

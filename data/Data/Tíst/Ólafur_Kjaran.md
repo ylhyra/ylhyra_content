@@ -1,6 +1,6 @@
-title = Data:Tíst/Ólafur Kjaran
-redirects =
->>>>
+---
+title: Data:Tíst/Ólafur Kjaran
+---
 
 {
     "list": {

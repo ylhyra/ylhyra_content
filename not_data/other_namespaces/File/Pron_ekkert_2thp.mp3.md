@@ -1,5 +1,5 @@
-title = File:Pron ekkert 2thp.mp3
-redirects =
->>>>
+---
+title: File:Pron ekkert 2thp.mp3
+---
 
 {{spoken|ekkert}}

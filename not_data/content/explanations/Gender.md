@@ -1,11 +1,12 @@
-title = Gender
-redirects =
+---
+title: Gender
+redirects:
 - Course/A1/Introduction to gender
 - Feminine
 - Kyn
 - Masculine
 - Neuter
->>>>
+---
 
 {{start|Gender}}
 All [[nouns]] in Icelandic belong to one of three genders: he {{kk}}, she {{kvk}}, or it {{hk}}. The gender of a word is only reflected in how it causes other words (and word endings) to behave. The gender of a noun is what decides the gender of the [[adjective]] that describes it.

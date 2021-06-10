@@ -1,6 +1,6 @@
-title = Færeyjar
-redirects =
->>>>
+---
+title: Færeyjar
+---
 
 {{start|Færeyjar}}
 <level a1/>

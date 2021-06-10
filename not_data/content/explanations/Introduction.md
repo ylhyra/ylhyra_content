@@ -1,6 +1,6 @@
-title = Introduction
-redirects =
->>>>
+---
+title: Introduction
+---
 
 {{button|[[Chapter 1|Skip introduction]]}}
 

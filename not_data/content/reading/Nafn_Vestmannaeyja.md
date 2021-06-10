@@ -1,6 +1,6 @@
-title = Nafn Vestmannaeyja
-redirects =
->>>>
+---
+title: Nafn Vestmannaeyja
+---
 
 [[File:Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg]]
 <level b1/>

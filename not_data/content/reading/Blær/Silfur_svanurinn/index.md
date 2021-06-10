@@ -1,6 +1,6 @@
-title = Blær/Silfur svanurinn
-redirects =
->>>>
+---
+title: Blær/Silfur svanurinn
+---
 
 * [[Blær/Silfur svanurinn/1]]
 * [[Blær/Silfur svanurinn/2]]

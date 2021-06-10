@@ -1,7 +1,8 @@
-title = Tweets/Imba/Afgreiðslustörf
-redirects =
+---
+title: Tweets/Imba/Afgreiðslustörf
+redirects:
 - Skvisumus/Í afgreiðslustörfum sér maður það
->>>>
+---
 
 {{start|Tweets/Imba/Afgreiðslustörf}}
 <level a2/>

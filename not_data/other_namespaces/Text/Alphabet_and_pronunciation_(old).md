@@ -1,6 +1,6 @@
-title = Text:Alphabet and pronunciation (old)
-redirects =
->>>>
+---
+title: Text:Alphabet and pronunciation (old)
+---
 
 {{start|Alphabet and pronunciation}}
 

@@ -1,6 +1,6 @@
-title = Template:Front page item
-redirects =
->>>>
+---
+title: Template:Front page item
+---
 
 <includeonly><div>
 [[{{{title|}}}|<span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/File:{{{image|}}}|width=300}})"></span>]]

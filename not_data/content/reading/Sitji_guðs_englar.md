@@ -1,7 +1,8 @@
-title = Sitji guðs englar
-redirects =
+---
+title: Sitji guðs englar
+redirects:
 - Text/Sitji guðs englar
->>>>
+---
 
 [[File:Loftmynd.jpeg|thumb]]
 <level c1/>

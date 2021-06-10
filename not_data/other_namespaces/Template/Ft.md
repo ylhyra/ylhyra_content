@@ -1,5 +1,5 @@
-title = Template:Ft
-redirects =
->>>>
+---
+title: Template:Ft
+---
 
 [[Plural|👥]]

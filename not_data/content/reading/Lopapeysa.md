@@ -1,6 +1,6 @@
-title = Lopapeysa
-redirects =
->>>>
+---
+title: Lopapeysa
+---
 
 {{start|Lopapeysa}}
 <level b1/>

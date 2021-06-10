@@ -1,6 +1,6 @@
-title = Text:Eiríkur dansar
-redirects =
->>>>
+---
+title: Text:Eiríkur dansar
+---
 
 {{start|Snippet:Eiríkur dansar}}
 

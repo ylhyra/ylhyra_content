@@ -1,6 +1,6 @@
-title = Text:Frontpage
-redirects =
->>>>
+---
+title: Text:Frontpage
+---
 
 <!-- No start -->
 <div id="frontpage-splash-screen">

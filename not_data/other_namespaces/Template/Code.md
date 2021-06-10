@@ -1,5 +1,5 @@
-title = Template:Code
-redirects =
->>>>
+---
+title: Template:Code
+---
 
 <code>{{{1|}}}</code>

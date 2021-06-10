@@ -1,6 +1,6 @@
-title = Project:Done
-redirects =
->>>>
+---
+title: Project:Done
+---
 
 * [[Magnús Jochum Pálsson/Ánamaðkar]]
 * [[Blær/Egg í áskrift]]

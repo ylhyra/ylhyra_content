@@ -1,6 +1,6 @@
-title = Data:R
-redirects =
->>>>
+---
+title: Data:R
+---
 
 {
     "list": {

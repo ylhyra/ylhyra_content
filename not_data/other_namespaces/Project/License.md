@@ -1,9 +1,10 @@
-title = Project:License
-redirects =
+---
+title: Project:License
+redirects:
 -  Project/Copyrights
 -  Project/Licence
 -  Project/Licensing
->>>>
+---
 
 Ylhýra is an open collaborative project and tries to publish as much as it can under an [[W:Free-culture movement|open license]].
 

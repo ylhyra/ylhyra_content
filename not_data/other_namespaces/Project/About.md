@@ -1,6 +1,6 @@
-title = Project:About
-redirects =
->>>>
+---
+title: Project:About
+---
 
 {{button|[mailto:ylhyra@ylhyra.is Contact us]}}
 Ylhýra is a collaborative project that publishes software and material for making Icelandic accessible. We publish annotated Icelandic texts, explanatory material, and some interactive material. Our own content is available under [[Project:License|an open license]].

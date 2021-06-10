@@ -1,6 +1,6 @@
-title = O
-redirects =
->>>>
+---
+title: O
+---
 
 
 The letter '''O''' is pronounced {{listen|audio=969t.mp3}}, like how British people say ''h'''o'''t'' or ''w'''a'''ter''.

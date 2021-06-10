@@ -1,6 +1,6 @@
-title = Template:Instagram
-redirects =
->>>>
+---
+title: Template:Instagram
+---
 
 <div class="video-container">
 <div class="video">{{video|{{{file|}}}}}</div>

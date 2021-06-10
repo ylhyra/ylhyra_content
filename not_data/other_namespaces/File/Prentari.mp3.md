@@ -1,5 +1,5 @@
-title = File:Prentari.mp3
-redirects =
->>>>
+---
+title: File:Prentari.mp3
+---
 
 undefined

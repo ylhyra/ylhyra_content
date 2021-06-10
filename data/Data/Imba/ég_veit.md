@@ -1,6 +1,6 @@
-title = Data:Imba/ég veit
-redirects =
->>>>
+---
+title: Data:Imba/ég veit
+---
 
 {
     "list": {

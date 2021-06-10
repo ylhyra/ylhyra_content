@@ -1,5 +1,5 @@
-title = File:JSiQ.mp3
-redirects =
->>>>
+---
+title: File:JSiQ.mp3
+---
 
 undefined

@@ -1,6 +1,6 @@
-title = Data:Tweets/Ása/Kettir
-redirects =
->>>>
+---
+title: Data:Tweets/Ása/Kettir
+---
 
 {
     "list": {

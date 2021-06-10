@@ -1,6 +1,6 @@
-title = Data:Imba/áferð og flug
-redirects =
->>>>
+---
+title: Data:Imba/áferð og flug
+---
 
 {
     "list": {

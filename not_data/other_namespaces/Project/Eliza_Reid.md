@@ -1,6 +1,6 @@
-title = Project:Eliza Reid
-redirects =
->>>>
+---
+title: Project:Eliza Reid
+---
 
 [[File:Eliza_Reid.jpg|thumb|199x199px]]
 Það að læra nýtt tungu&shy;mál getur lokið upp leyndar&shy;málum þjóðar, veitt dýpri innsýn í sálar&shy;líf hennar en ef aðeins væri treyst á þýðingar. Íslenska hefur sér&shy;stakt dulmagn bæði vegna 

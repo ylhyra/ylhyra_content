@@ -1,6 +1,6 @@
-title = Template:Book
-redirects =
->>>>
+---
+title: Template:Book
+---
 
 <div class="book" data-translate="true">
 {{{1}}}

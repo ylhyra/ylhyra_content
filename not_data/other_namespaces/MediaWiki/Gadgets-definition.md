@@ -1,6 +1,6 @@
-title = MediaWiki:Gadgets-definition
-redirects =
->>>>
+---
+title: MediaWiki:Gadgets-definition
+---
 
 * ReferenceTooltips[ResourceLoader|default|type=general|dependencies=mediawiki.cookie,jquery.client,mediawiki.notify]|ReferenceTooltips.js|ReferenceTooltips.css
 * charinsert[ResourceLoader|default|peers=charinsert-styles]|charinsert.js

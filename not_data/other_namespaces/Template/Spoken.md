@@ -1,5 +1,5 @@
-title = Template:Spoken
-redirects =
->>>>
+---
+title: Template:Spoken
+---
 
 {{{1|}}}

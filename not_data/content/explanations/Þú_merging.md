@@ -1,7 +1,8 @@
-title = Þú merging
-redirects =
+---
+title: Þú merging
+redirects:
 - Changes produced by the pronoun þú when suffixed
->>>>
+---
 
 {{start|Þú merging}}
 {{DISPLAYTITLE:''Þú'' merging}}

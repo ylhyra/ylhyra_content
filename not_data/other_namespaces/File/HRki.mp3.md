@@ -1,5 +1,5 @@
-title = File:HRki.mp3
-redirects =
->>>>
+---
+title: File:HRki.mp3
+---
 
 undefined

@@ -1,6 +1,6 @@
-title = Template:Copyright/Blær
-redirects =
->>>>
+---
+title: Template:Copyright/Blær
+---
 
 <small class="small-text-block">
 &copy; ''[https://blaer.is/ Blær]'', 2014. – 

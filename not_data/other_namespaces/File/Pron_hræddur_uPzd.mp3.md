@@ -1,5 +1,5 @@
-title = File:Pron hræddur uPzd.mp3
-redirects =
->>>>
+---
+title: File:Pron hræddur uPzd.mp3
+---
 
 {{spoken|hræddur}}

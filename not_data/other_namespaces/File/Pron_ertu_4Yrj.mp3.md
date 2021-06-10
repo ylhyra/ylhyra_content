@@ -1,5 +1,5 @@
-title = File:Pron ertu 4Yrj.mp3
-redirects =
->>>>
+---
+title: File:Pron ertu 4Yrj.mp3
+---
 
 {{spoken|ertu}}

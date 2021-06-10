@@ -1,6 +1,6 @@
-title = Project:Ylhýra/Kennsluefni í vinnslu
-redirects =
->>>>
+---
+title: Project:Ylhýra/Kennsluefni í vinnslu
+---
 
 [[Course/A1]]
 

@@ -1,5 +1,5 @@
-title = File:Eiríkur dansar svo vel.mp3
-redirects =
->>>>
+---
+title: File:Eiríkur dansar svo vel.mp3
+---
 
 undefined

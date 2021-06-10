@@ -1,6 +1,6 @@
-title = Hérna
-redirects =
->>>>
+---
+title: Hérna
+---
 
 <level a1/>
 

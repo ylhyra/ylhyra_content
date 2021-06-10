@@ -1,6 +1,6 @@
-title = Want
-redirects =
->>>>
+---
+title: Want
+---
 
 {{start|Want}}
 

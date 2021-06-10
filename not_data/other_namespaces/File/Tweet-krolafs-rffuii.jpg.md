@@ -1,5 +1,5 @@
-title = File:Tweet-krolafs-rffuii.jpg
-redirects =
->>>>
+---
+title: File:Tweet-krolafs-rffuii.jpg
+---
 
 © '''krolafs''' – https://pbs.twimg.com/media/DAt6ZWVW0AAHftx.jpg

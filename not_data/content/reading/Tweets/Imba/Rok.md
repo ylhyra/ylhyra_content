@@ -1,7 +1,8 @@
-title = Tweets/Imba/Rok
-redirects =
+---
+title: Tweets/Imba/Rok
+redirects:
 - Skvisumus/Rok er svarti sauðurinn í veðurfjölskyldunni.
->>>>
+---
 
 {{start|Tweets/Imba/Rok}}
 {{tweet

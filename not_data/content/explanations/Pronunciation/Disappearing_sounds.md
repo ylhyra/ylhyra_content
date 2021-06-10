@@ -1,9 +1,10 @@
-title = Disappearing sounds
-redirects =
+---
+title: Disappearing sounds
+redirects:
 -
 - Disappearing vowel#Vowels that merge into the next vowel Disappearing vowels
 - Slurring
->>>>
+---
 
 {{start|Disappearing sounds}}
 <level a1/>

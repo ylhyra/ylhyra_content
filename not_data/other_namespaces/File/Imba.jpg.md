@@ -1,5 +1,5 @@
-title = File:Imba.jpg
-redirects =
->>>>
+---
+title: File:Imba.jpg
+---
 
 undefined

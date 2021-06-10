@@ -1,6 +1,6 @@
-title = Project:Newest
-redirects =
->>>>
+---
+title: Project:Newest
+---
 
 <div style="font-size:92%;color:dimgray;">
 December 2020:

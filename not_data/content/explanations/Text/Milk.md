@@ -1,6 +1,6 @@
-title = Text/Milk
-redirects =
->>>>
+---
+title: Text/Milk
+---
 
 <noinclude>
 <level a1/>

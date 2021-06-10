@@ -1,6 +1,6 @@
-title = Data:Tweets/Branddís/Crossfit
-redirects =
->>>>
+---
+title: Data:Tweets/Branddís/Crossfit
+---
 
 {
     "list": {

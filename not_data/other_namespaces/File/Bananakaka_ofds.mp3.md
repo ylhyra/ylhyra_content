@@ -1,5 +1,5 @@
-title = File:Bananakaka ofds.mp3
-redirects =
->>>>
+---
+title: File:Bananakaka ofds.mp3
+---
 
 {{spoken|bananakaka}}

@@ -1,6 +1,6 @@
-title = File:Njáls saga hluti 4.mp3
-redirects =
->>>>
+---
+title: File:Njáls saga hluti 4.mp3
+---
 
 == Summary ==
 CC0

@@ -1,6 +1,6 @@
-title = Template:Declension singular with and without article
-redirects =
->>>>
+---
+title: Template:Declension singular with and without article
+---
 
 {| class="wikitable"
 |+

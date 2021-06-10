@@ -1,6 +1,6 @@
-title = Course/Live
-redirects =
->>>>
+---
+title: Course/Live
+---
 
 =Chapter 7=
 

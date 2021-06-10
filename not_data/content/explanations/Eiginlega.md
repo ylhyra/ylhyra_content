@@ -1,6 +1,6 @@
-title = Eiginlega
-redirects =
->>>>
+---
+title: Eiginlega
+---
 
 <level b2/>
 

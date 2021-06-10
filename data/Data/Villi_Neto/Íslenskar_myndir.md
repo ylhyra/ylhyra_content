@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Íslenskar myndir
-redirects =
->>>>
+---
+title: Data:Villi Neto/Íslenskar myndir
+---
 
 {
     "list": {

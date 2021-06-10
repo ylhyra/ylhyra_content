@@ -1,5 +1,5 @@
-title = File:EtSi.mp3
-redirects =
->>>>
+---
+title: File:EtSi.mp3
+---
 
 undefined

@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Ingólfur
-redirects =
+---
+title: Tweets/Benedikt/Ingólfur
+redirects:
 - Forseti2k32/,,við minnumst Ingólfs Arnarsonar
->>>>
+---
 
 {{start|Tweets/Benedikt/Ingólfur}}
 <level b1/>

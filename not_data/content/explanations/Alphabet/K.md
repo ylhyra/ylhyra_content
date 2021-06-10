@@ -1,6 +1,6 @@
-title = K
-redirects =
->>>>
+---
+title: K
+---
 
 The letter '''K''' can represent several different sounds.
 

@@ -1,6 +1,6 @@
-title = Data:Text:Magnús Jochum Pálsson/Leyfi
-redirects =
->>>>
+---
+title: Data:Text:Magnús Jochum Pálsson/Leyfi
+---
 
 {
     "list": {

@@ -1,6 +1,6 @@
-title = Template:Gender
-redirects =
->>>>
+---
+title: Template:Gender
+---
 
 <div class="card" data-type="vocabulary" data-children="object">
 <div data-name="type" data-children="string">gender</div>

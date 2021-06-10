@@ -1,6 +1,6 @@
-title = Kunna vs. þekkja vs. vita vs. geta
-redirects =
->>>>
+---
+title: Kunna vs. þekkja vs. vita vs. geta
+---
 
 <level a1/>
 

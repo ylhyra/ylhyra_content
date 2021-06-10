@@ -1,6 +1,6 @@
-title = I
-redirects =
->>>>
+---
+title: I
+---
 
 {{DISPLAYTITLE:i}}
 

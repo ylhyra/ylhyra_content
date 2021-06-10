@@ -1,7 +1,8 @@
-title = Tweets/Branddís/Crossfit
-redirects =
+---
+title: Tweets/Branddís/Crossfit
+redirects:
 - Branddis Asrun/Sá stelpu í crossfit nota sandpappír
->>>>
+---
 
 {{start|Tweets/Branddís/Crossfit}}
 {{tweet

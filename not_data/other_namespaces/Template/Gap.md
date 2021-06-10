@@ -1,6 +1,6 @@
-title = Template:Gap
-redirects =
->>>>
+---
+title: Template:Gap
+---
 
 <span class="gap"></span><noinclude>
 

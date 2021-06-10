@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Ber
-redirects =
+---
+title: Tweets/Benedikt/Ber
+redirects:
 - Forseti2k32/þegar árið 2016 er gert upp má ekki
->>>>
+---
 
 {{start|Tweets/Benedikt/Ber}}
 <level c1/>

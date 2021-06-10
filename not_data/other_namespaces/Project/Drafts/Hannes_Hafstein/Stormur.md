@@ -1,6 +1,6 @@
-title = Project:Drafts/Hannes Hafstein/Stormur
-redirects =
->>>>
+---
+title: Project:Drafts/Hannes Hafstein/Stormur
+---
 
 {{start|Hannes Hafstein/Stormur}}
 

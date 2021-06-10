@@ -1,6 +1,6 @@
-title = Project:Cognates
-redirects =
->>>>
+---
+title: Project:Cognates
+---
 
 == Words with an English cognate ==
 

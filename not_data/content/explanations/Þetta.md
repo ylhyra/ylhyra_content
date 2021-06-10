@@ -1,7 +1,8 @@
-title = Þetta
-redirects =
+---
+title: Þetta
+redirects:
 - Þessi
->>>>
+---
 
 {{start|Þetta}}
 [[:Text:Þetta/Intro]]

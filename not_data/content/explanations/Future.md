@@ -1,6 +1,6 @@
-title = Future
-redirects =
->>>>
+---
+title: Future
+---
 
 __INDEX__
 {{start|Future}}

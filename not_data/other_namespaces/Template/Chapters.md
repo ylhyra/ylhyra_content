@@ -1,6 +1,6 @@
-title = Template:Chapters
-redirects =
->>>>
+---
+title: Template:Chapters
+---
 
 <!--<div style="background:lightpink;border:1px solid gray;padding:4px;text-align:center;">
 [[Introduction]] •

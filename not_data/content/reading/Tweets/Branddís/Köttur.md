@@ -1,7 +1,8 @@
-title = Tweets/Branddís/Köttur
-redirects =
+---
+title: Tweets/Branddís/Köttur
+redirects:
 - Branddis Asrun/Kötturinn minn er alltaf að kúka á
->>>>
+---
 
 {{start|Tweets/Branddís/Köttur}}
 {{tweet

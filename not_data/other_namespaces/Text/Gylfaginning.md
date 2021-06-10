@@ -1,6 +1,6 @@
-title = Text:Gylfaginning
-redirects =
->>>>
+---
+title: Text:Gylfaginning
+---
 
 https://docs.google.com/document/d/1Zaxz54OOpkNhoNIU8ad62QftcbEMuIlraSQ6054_gAM/edit
 

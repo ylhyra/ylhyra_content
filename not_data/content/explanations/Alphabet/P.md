@@ -1,6 +1,6 @@
-title = P
-redirects =
->>>>
+---
+title: P
+---
 
 The letter '''P''' can be pronounced with a small breath or without.
 

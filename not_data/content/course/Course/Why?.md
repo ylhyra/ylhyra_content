@@ -1,6 +1,6 @@
-title = Course/Why?
-redirects =
->>>>
+---
+title: Course/Why?
+---
 
 
 ==Why?==

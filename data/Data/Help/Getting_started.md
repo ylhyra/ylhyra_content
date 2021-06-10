@@ -1,6 +1,6 @@
-title = Data:Help:Getting started
-redirects =
->>>>
+---
+title: Data:Help:Getting started
+---
 
 {
     "list": {

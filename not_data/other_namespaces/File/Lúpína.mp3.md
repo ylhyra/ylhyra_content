@@ -1,6 +1,6 @@
-title = File:Lúpína.mp3
-redirects =
->>>>
+---
+title: File:Lúpína.mp3
+---
 
 
 == Licensing ==

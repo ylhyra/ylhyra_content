@@ -1,6 +1,6 @@
-title = Template:Declension singular and plural
-redirects =
->>>>
+---
+title: Template:Declension singular and plural
+---
 
 {| class="wikitable"
 |+

@@ -1,7 +1,8 @@
-title = Tweets/Ása/Kettir
-redirects =
+---
+title: Tweets/Ása/Kettir
+redirects:
 - Asabergny/Að banna lausagöngu katta er fáránleg
->>>>
+---
 
 {{start|Tweets/Ása/Kettir}}
 {{tweet

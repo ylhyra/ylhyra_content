@@ -1,6 +1,6 @@
-title = Template:Imba
-redirects =
->>>>
+---
+title: Template:Imba
+---
 
 <br/>
 [[File:Imba.jpg|thumb|120px|right]]

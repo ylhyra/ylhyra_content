@@ -1,6 +1,6 @@
-title = Text:Að/Intro/Vocabulary
-redirects =
->>>>
+---
+title: Text:Að/Intro/Vocabulary
+---
 
 {{start|Text:Að/Intro/Vocabulary}}
 

@@ -1,6 +1,6 @@
-title = MediaWiki:Gadget-charinsert-core.js
-redirects =
->>>>
+---
+title: MediaWiki:Gadget-charinsert-core.js
+---
 
 /**
  * Copied from [[mw:User:Alex Smotrov/edittools.js]], modified for use on the English Wikipedia.

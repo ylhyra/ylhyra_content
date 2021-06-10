@@ -1,6 +1,6 @@
-title = Template:Audio
-redirects =
->>>>
+---
+title: Template:Audio
+---
 
 <div data-type="audio" data-children="object" data-translate="no">
 <span data-name="filename" data-children="string" class="hidden">{{{1|}}}</span>

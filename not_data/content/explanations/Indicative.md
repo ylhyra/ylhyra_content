@@ -1,12 +1,13 @@
-title = Indicative
-redirects =
+---
+title: Indicative
+redirects:
 - Fh
 - Framsöguháttur
 - Indicative mood
 - Realis
 - Realis mood
 - Regular verb form
->>>>
+---
 
 The '''indicative''' ("framsöguháttur") is the default [[Grammatical mood|grammatical mood]] of [[verbs]]. It indicates that something is a fact, such as in "hann '''fer'''" (he goes) and "við '''fórum'''" (we went).
 

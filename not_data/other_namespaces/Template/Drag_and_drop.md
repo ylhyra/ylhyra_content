@@ -1,7 +1,8 @@
-title = Template:Drag and drop
-redirects =
+---
+title: Template:Drag and drop
+redirects:
 -  Template/Drag drop
->>>>
+---
 
 <div class="card" data-type="vocabulary" data-children="object">
 <div data-name="type" data-children="string">drag and drop</div>

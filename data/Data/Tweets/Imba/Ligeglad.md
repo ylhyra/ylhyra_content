@@ -1,6 +1,6 @@
-title = Data:Tweets/Imba/Ligeglad
-redirects =
->>>>
+---
+title: Data:Tweets/Imba/Ligeglad
+---
 
 {
     "list": {

@@ -1,5 +1,6 @@
-title = Exhaling before sounds
-redirects =
+---
+title: Exhaling before sounds
+redirects:
 - Aspiration
 - Aspirations
 - Blowing out air
@@ -10,7 +11,7 @@ redirects =
 - Preaspiration
 - Preaspirations
 - Short breath
->>>>
+---
 
 Several letter clusters require you to breathe out (exhale) a little bit before the letters. This tiny "[[h]]"-sound appears before ''kk'', ''tt'', and ''pp'' along with a few other letter clusters.
 

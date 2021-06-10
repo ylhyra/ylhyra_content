@@ -1,6 +1,6 @@
-title = Data:Tweets/Ása/Sjófánar
-redirects =
->>>>
+---
+title: Data:Tweets/Ása/Sjófánar
+---
 
 {
     "list": {

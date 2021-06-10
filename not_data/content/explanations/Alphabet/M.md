@@ -1,6 +1,6 @@
-title = M
-redirects =
->>>>
+---
+title: M
+---
 
 The letter '''M''' can either represent a normal M sound or a breathy M sound. 
 

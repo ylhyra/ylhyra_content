@@ -1,6 +1,6 @@
-title = Fóstbræður
-redirects =
->>>>
+---
+title: Fóstbræður
+---
 
 {{start|Fóstbræður}}
 <level a2/>

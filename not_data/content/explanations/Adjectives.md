@@ -1,8 +1,9 @@
-title = Adjectives
-redirects =
+---
+title: Adjectives
+redirects:
 - Adjective
 - Lýsingarorð
->>>>
+---
 
 '''Adjectives''' (lýsingarorð) are the words that describe things, such as ''interesting'', ''funny'', and ''difficult''.
 

@@ -1,5 +1,5 @@
-title = Template:Reading of
-redirects =
->>>>
+---
+title: Template:Reading of
+---
 
 [[{{{1|}}}]]

@@ -1,6 +1,6 @@
-title = Data:Text:Ylhýra
-redirects =
->>>>
+---
+title: Data:Text:Ylhýra
+---
 
 {
     "list": {

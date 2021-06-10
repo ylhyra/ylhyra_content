@@ -1,5 +1,5 @@
-title = File:Imba eg veit.mp3
-redirects =
->>>>
+---
+title: File:Imba eg veit.mp3
+---
 
 undefined

@@ -1,6 +1,6 @@
-title = Data:Tweets/Benedikt/Yfirmaður
-redirects =
->>>>
+---
+title: Data:Tweets/Benedikt/Yfirmaður
+---
 
 {
     "list": {

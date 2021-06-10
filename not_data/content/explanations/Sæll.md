@@ -1,6 +1,6 @@
-title = Sæll
-redirects =
->>>>
+---
+title: Sæll
+---
 
 {{start|Sæll}}
 {{:Text:Sæll/Intro}}

@@ -1,6 +1,6 @@
-title = Template:Next
-redirects =
->>>>
+---
+title: Template:Next
+---
 
 <div style="clear:both;">
 <div style="float:left;">

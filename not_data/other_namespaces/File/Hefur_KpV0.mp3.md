@@ -1,5 +1,5 @@
-title = File:Hefur KpV0.mp3
-redirects =
->>>>
+---
+title: File:Hefur KpV0.mp3
+---
 
 {{spoken|hefur}}

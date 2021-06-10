@@ -1,6 +1,6 @@
-title = Imba/afi
-redirects =
->>>>
+---
+title: Imba/afi
+---
 
 <level b1/>
 {{start|Imba/afi}}

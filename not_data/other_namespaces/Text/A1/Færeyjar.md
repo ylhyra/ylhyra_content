@@ -1,5 +1,5 @@
-title = Text:A1/Færeyjar
-redirects =
->>>>
+---
+title: Text:A1/Færeyjar
+---
 
 [[File:Idioma_feroés.PNG|thumb]]

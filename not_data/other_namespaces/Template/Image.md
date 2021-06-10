@@ -1,6 +1,6 @@
-title = Template:Image
-redirects =
->>>>
+---
+title: Template:Image
+---
 
 <a href="{{#if: {{{link|}}} | {{fullurl:{{{link|}}}}} | {{filepath:{{{1|}}}}} }}">
 <picture>

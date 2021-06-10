@@ -1,6 +1,6 @@
-title = File:Sundlaug.jpg
-redirects =
->>>>
+---
+title: File:Sundlaug.jpg
+---
 
 == Summary ==
 

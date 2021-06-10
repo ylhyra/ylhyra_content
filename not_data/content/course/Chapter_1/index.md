@@ -1,6 +1,6 @@
-title = Chapter 1
-redirects =
->>>>
+---
+title: Chapter 1
+---
 
 {{start|Chapter 1}}In this chapter you'll see a few short texts that you should be able to understand by reading slowly and by clicking on the words to see their translations. Listen to the audio recordings a few times to get a feel for the pronunciation.
 ==A few new letters==

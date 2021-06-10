@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Bubbi
-redirects =
->>>>
+---
+title: Data:Villi Neto/Bubbi
+---
 
 {
     "list": {

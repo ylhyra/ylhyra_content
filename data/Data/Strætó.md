@@ -1,6 +1,6 @@
-title = Data:Strætó
-redirects =
->>>>
+---
+title: Data:Strætó
+---
 
 {
     "list": {

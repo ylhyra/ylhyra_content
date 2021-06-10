@@ -1,5 +1,5 @@
-title = File:Rignt xNM.mp3
-redirects =
->>>>
+---
+title: File:Rignt xNM.mp3
+---
 
 {{spoken|rignt}}

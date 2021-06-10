@@ -1,7 +1,8 @@
-title = Sund
-redirects =
+---
+title: Sund
+redirects:
 - Text/A1/Sund
->>>>
+---
 
 {{start|Sund}}
 <level a1/>

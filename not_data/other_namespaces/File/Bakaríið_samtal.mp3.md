@@ -1,5 +1,5 @@
-title = File:Bakaríið samtal.mp3
-redirects =
->>>>
+---
+title: File:Bakaríið samtal.mp3
+---
 
 undefined

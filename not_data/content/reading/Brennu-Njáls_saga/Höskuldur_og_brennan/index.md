@@ -1,8 +1,9 @@
-title = Brennu-Njáls saga/Höskuldur og brennan
-redirects =
+---
+title: Brennu-Njáls saga/Höskuldur og brennan
+redirects:
 - Brennu-Njáls saga/Höskuldur og brennan/0
 - Njáls saga
->>>>
+---
 
 <level b1/>
 

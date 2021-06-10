@@ -1,6 +1,6 @@
-title = V
-redirects =
->>>>
+---
+title: V
+---
 
 The letter '''V''' is pronounced the same as in English.
 *'''v'''inur, '''v'''akandi, t'''v'''eir, al'''v'''eg

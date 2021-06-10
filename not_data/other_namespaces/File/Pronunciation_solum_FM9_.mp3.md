@@ -1,5 +1,5 @@
-title = File:Pronunciation solum FM9 .mp3
-redirects =
->>>>
+---
+title: File:Pronunciation solum FM9 .mp3
+---
 
 {{spoken|sólum}}

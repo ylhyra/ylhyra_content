@@ -1,5 +1,5 @@
-title = File:GRof.mp3
-redirects =
->>>>
+---
+title: File:GRof.mp3
+---
 
 undefined

@@ -1,6 +1,6 @@
-title = At the supermarket
-redirects =
->>>>
+---
+title: At the supermarket
+---
 
 {{start|Conversation:Supermarket}}
 = At the supermarket =

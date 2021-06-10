@@ -1,6 +1,6 @@
-title = Course/I am
-redirects =
->>>>
+---
+title: Course/I am
+---
 
 ==I==
 "Ég" means "I".  

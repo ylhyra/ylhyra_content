@@ -1,5 +1,6 @@
-title = Declension
-redirects =
+---
+title: Declension
+redirects:
 - Declension table
 - Decline
 - Declined
@@ -7,7 +8,7 @@ redirects =
 - Helper word
 - Helper words
 - Helper words for declension
->>>>
+---
 
 Icelandic [[nouns]] have four [[cases]]. Finding the correct form of the word is called '''declension'''. This is a simple declension table for the word ''lamb'':{{declension-singular| '''lamb'''|'''lamb'''|'''lambi'''|'''lambs'''}}
 Nobody actually remembers this table by heart, instead people construct some sentence where only a particular case can fit, and see what their own sense of the language tells them.

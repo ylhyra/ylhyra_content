@@ -1,6 +1,6 @@
-title = Vocabulary
-redirects =
->>>>
+---
+title: Vocabulary
+---
 
 [[Vocabulary/All]]
 

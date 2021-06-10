@@ -1,6 +1,6 @@
-title = Sitt hvor
-redirects =
->>>>
+---
+title: Sitt hvor
+---
 
 <level b2/>
 

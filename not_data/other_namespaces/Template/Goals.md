@@ -1,5 +1,5 @@
-title = Template:Goals
-redirects =
->>>>
+---
+title: Template:Goals
+---
 
 <div class="box">{{{1|}}}</div>

@@ -1,7 +1,8 @@
-title = Skal
-redirects =
+---
+title: Skal
+redirects:
 - Skulu
->>>>
+---
 
 {{start|Skal}}
 <level b2/>

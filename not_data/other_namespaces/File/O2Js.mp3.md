@@ -1,5 +1,5 @@
-title = File:O2Js.mp3
-redirects =
->>>>
+---
+title: File:O2Js.mp3
+---
 
 undefined

@@ -1,11 +1,12 @@
-title = Second case
-redirects =
+---
+title: Second case
+redirects:
 - Accusative
 - Accusative case
 - Þf
 - Þf.
 - Þolfall
->>>>
+---
 
 {{start|Accusative case}}
 {{a1|type=explanation}}

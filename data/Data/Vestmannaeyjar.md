@@ -1,6 +1,6 @@
-title = Data:Vestmannaeyjar
-redirects =
->>>>
+---
+title: Data:Vestmannaeyjar
+---
 
 {
 "analysis": {

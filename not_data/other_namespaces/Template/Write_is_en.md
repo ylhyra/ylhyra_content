@@ -1,6 +1,6 @@
-title = Template:Write is en
-redirects =
->>>>
+---
+title: Template:Write is en
+---
 
 {{card|
 

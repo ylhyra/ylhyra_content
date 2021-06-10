@@ -1,6 +1,6 @@
-title = Text:Njáls saga/Chapter 158
-redirects =
->>>>
+---
+title: Text:Njáls saga/Chapter 158
+---
 
 {{start|Njáls saga/Chapter 158}}
 ## Chapter 158 - Of Flosi and Kari

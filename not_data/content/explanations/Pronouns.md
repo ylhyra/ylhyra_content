@@ -1,6 +1,6 @@
-title = Pronouns
-redirects =
->>>>
+---
+title: Pronouns
+---
 
 {{start|Pronouns}}{{non native}}
 =Pronouns=

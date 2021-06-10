@@ -1,6 +1,6 @@
-title = Talk:Sofðu unga ástin mín
-redirects =
->>>>
+---
+title: Talk:Sofðu unga ástin mín
+---
 
 == Þýðing frá Láru ==
 <pre>

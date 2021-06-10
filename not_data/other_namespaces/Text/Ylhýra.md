@@ -1,5 +1,5 @@
-title = Text:Ylhýra
-redirects =
->>>>
+---
+title: Text:Ylhýra
+---
 
 {{start|Text:Ylhýra}}{{is|[[Project:Name|Ylhýra]]}}{{end}}

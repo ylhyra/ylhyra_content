@@ -1,7 +1,8 @@
-title = Questions
-redirects =
+---
+title: Questions
+redirects:
 - Question
->>>>
+---
 
 =Questions=
 The most important words when it comes to questions are:

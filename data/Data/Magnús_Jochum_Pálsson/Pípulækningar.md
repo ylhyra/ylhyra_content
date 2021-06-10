@@ -1,6 +1,6 @@
-title = Data:Magnús Jochum Pálsson/Pípulækningar
-redirects =
->>>>
+---
+title: Data:Magnús Jochum Pálsson/Pípulækningar
+---
 
 {
     "list": {

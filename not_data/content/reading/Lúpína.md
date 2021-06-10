@@ -1,6 +1,6 @@
-title = Lúpína
-redirects =
->>>>
+---
+title: Lúpína
+---
 
 {{start|Lúpína}}
 <level b1/>

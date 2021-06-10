@@ -1,6 +1,6 @@
-title = Data:Asabergny/Gott lærdómsráð: vera í símanum þangað
-redirects =
->>>>
+---
+title: Data:Asabergny/Gott lærdómsráð: vera í símanum þangað
+---
 
 {
     "list": {

@@ -1,5 +1,5 @@
-title = File:Pronunciation barnaputtar 5Nje.mp3
-redirects =
->>>>
+---
+title: File:Pronunciation barnaputtar 5Nje.mp3
+---
 
 {{spoken|barnaputtar}}

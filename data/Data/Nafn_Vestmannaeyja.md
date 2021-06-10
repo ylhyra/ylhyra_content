@@ -1,6 +1,6 @@
-title = Data:Nafn Vestmannaeyja
-redirects =
->>>>
+---
+title: Data:Nafn Vestmannaeyja
+---
 
 {
 "analysis": {

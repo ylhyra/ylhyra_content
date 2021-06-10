@@ -1,6 +1,6 @@
-title = Linguistic purism
-redirects =
->>>>
+---
+title: Linguistic purism
+---
 
 {{start|Linguistic purism}}
 {{under construction}}

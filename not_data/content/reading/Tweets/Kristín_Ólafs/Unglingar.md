@@ -1,7 +1,8 @@
-title = Tweets/Kristín Ólafs/Unglingar
-redirects =
+---
+title: Tweets/Kristín Ólafs/Unglingar
+redirects:
 - Krolafs/Það er unglingur hér fyrir utan Hagaskóla
->>>>
+---
 
 {{start|Tweets/Kristín Ólafs/Unglingar}}
 <level b2/>

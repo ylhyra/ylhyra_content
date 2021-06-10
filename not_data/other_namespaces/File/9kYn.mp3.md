@@ -1,5 +1,5 @@
-title = File:9kYn.mp3
-redirects =
->>>>
+---
+title: File:9kYn.mp3
+---
 
 undefined

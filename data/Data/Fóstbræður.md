@@ -1,6 +1,6 @@
-title = Data:Fóstbræður
-redirects =
->>>>
+---
+title: Data:Fóstbræður
+---
 
 {
     "list": {

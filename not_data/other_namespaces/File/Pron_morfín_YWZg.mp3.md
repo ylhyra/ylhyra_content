@@ -1,5 +1,5 @@
-title = File:Pron morfín YWZg.mp3
-redirects =
->>>>
+---
+title: File:Pron morfín YWZg.mp3
+---
 
 {{spoken|morfín}}

@@ -1,7 +1,8 @@
-title = Tweets/Benedikt/Slydda
-redirects =
+---
+title: Tweets/Benedikt/Slydda
+redirects:
 - Forseti2k32/Hef nokkuð áreiðanlegar heimildir
->>>>
+---
 
 {{start|Tweets/Benedikt/Slydda}}
 <level c1/>

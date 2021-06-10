@@ -1,6 +1,6 @@
-title = Vísur Vatnsenda-Rósu
-redirects =
->>>>
+---
+title: Vísur Vatnsenda-Rósu
+---
 
 <level c1/>
 

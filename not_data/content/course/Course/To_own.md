@@ -1,6 +1,6 @@
-title = Course/To own
-redirects =
->>>>
+---
+title: Course/To own
+---
 
 
 Að eiga.

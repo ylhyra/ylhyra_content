@@ -1,6 +1,6 @@
-title = Data:Lúpína
-redirects =
->>>>
+---
+title: Data:Lúpína
+---
 
 {
     "list": {

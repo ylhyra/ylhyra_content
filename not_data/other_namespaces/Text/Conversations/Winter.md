@@ -1,7 +1,8 @@
-title = Text:Conversations/Winter
-redirects =
+---
+title: Text:Conversations/Winter
+redirects:
 -  Conversations/Winter
->>>>
+---
 
 {{start|Text:Conversations/Winter}}
 {{audio|Bakaríið_samtal.mp3}}

@@ -1,6 +1,6 @@
-title = Course/A1/Want
-redirects =
->>>>
+---
+title: Course/A1/Want
+---
 
 
 There are two ways to say “I want” in Icelandic:

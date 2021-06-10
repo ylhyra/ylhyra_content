@@ -1,6 +1,6 @@
-title = MediaWiki:Group-sysop.css
-redirects =
->>>>
+---
+title: MediaWiki:Group-sysop.css
+---
 
 /* CSS placed here will affect sysops only */
 span.sysop-show {

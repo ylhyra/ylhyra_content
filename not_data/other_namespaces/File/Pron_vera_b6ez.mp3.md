@@ -1,5 +1,5 @@
-title = File:Pron vera b6ez.mp3
-redirects =
->>>>
+---
+title: File:Pron vera b6ez.mp3
+---
 
 {{spoken|vera}}

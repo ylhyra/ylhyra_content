@@ -1,6 +1,6 @@
-title = T
-redirects =
->>>>
+---
+title: T
+---
 
 The letter '''T''' can be pronounced with a small breath or without.
 

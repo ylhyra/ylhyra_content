@@ -1,6 +1,6 @@
-title = Data:Tweets/Benedikt/Ingólfur
-redirects =
->>>>
+---
+title: Data:Tweets/Benedikt/Ingólfur
+---
 
 {
     "list": {

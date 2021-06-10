@@ -1,6 +1,6 @@
-title = Course/A1/Conversation – Búinn
-redirects =
->>>>
+---
+title: Course/A1/Conversation – Búinn
+---
 
 Hvað ertu búinn að gera í dag?
 

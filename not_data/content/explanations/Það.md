@@ -1,6 +1,6 @@
-title = Það
-redirects =
->>>>
+---
+title: Það
+---
 
 {{start|Það}}
 '''Það''' can be a:

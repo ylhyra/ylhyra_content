@@ -1,6 +1,6 @@
-title = Egils saga/Veisla hjá afa
-redirects =
->>>>
+---
+title: Egils saga/Veisla hjá afa
+---
 
 <level a1/>
 

@@ -1,6 +1,6 @@
-title = Búinn vs. hef/Exercise 1
-redirects =
->>>>
+---
+title: Búinn vs. hef/Exercise 1
+---
 
 <level a2/>
 

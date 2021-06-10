@@ -1,6 +1,6 @@
-title = Template:Reflist
-redirects =
->>>>
+---
+title: Template:Reflist
+---
 
 <div data-translate="no" class="reflist <!--
  -->{{#if: {{{1|}}} {{{colwidth|}}}

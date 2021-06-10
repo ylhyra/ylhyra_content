@@ -1,6 +1,6 @@
-title = Text:Wordlist tmp
-redirects =
->>>>
+---
+title: Text:Wordlist tmp
+---
 
 hvað = what?
 ég segi = I say

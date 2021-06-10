@@ -1,7 +1,8 @@
-title = Imba/áferð og flug
-redirects =
+---
+title: Imba/áferð og flug
+redirects:
 - Imba/áferð og flugi
->>>>
+---
 
 {{start|Imba/áferð og flug}}
 <level c1/>

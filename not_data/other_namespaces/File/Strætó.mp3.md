@@ -1,6 +1,6 @@
-title = File:Strætó.mp3
-redirects =
->>>>
+---
+title: File:Strætó.mp3
+---
 
 
 == Licensing ==

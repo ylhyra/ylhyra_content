@@ -1,7 +1,8 @@
-title = Tweets/Ása/Lykt
-redirects =
+---
+title: Tweets/Ása/Lykt
+redirects:
 - Asabergny/Ég lykta svo vel í dag að ég vorkenni
->>>>
+---
 
 {{start|Tweets/Ása/Lykt}}
 {{tweet

@@ -1,6 +1,6 @@
-title = Villi Neto/Kaffi
-redirects =
->>>>
+---
+title: Villi Neto/Kaffi
+---
 
 {{start|Villi Neto/Kaffi}}
 

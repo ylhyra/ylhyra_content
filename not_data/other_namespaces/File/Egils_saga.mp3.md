@@ -1,6 +1,6 @@
-title = File:Egils saga.mp3
-redirects =
->>>>
+---
+title: File:Egils saga.mp3
+---
 
 == Summary ==
 CC0

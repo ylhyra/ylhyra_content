@@ -1,6 +1,6 @@
-title = Bláa lónið
-redirects =
->>>>
+---
+title: Bláa lónið
+---
 
 {{start|Bláa lónið}}
 [[File:Bláa lónið.jpg|thumb]]

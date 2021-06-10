@@ -1,6 +1,6 @@
-title = Text:Introduction to Icelandic politics
-redirects =
->>>>
+---
+title: Text:Introduction to Icelandic politics
+---
 
 {{May contain errors}}
 {{start|Introduction to Icelandic politics}}

@@ -1,6 +1,6 @@
-title = Blær/Vinkonur vors og blóma
-redirects =
->>>>
+---
+title: Blær/Vinkonur vors og blóma
+---
 
 *[[Blær/Vinkonur vors og blóma/1]]
 *[[Blær/Vinkonur vors og blóma/2]]

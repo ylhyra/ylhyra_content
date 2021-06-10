@@ -1,6 +1,6 @@
-title = Project:Software work in progess/Útlit
-redirects =
->>>>
+---
+title: Project:Software work in progess/Útlit
+---
 
 * https://openai.com/blog/jukebox/
 * https://www.notion.so/

@@ -1,6 +1,6 @@
-title = Project:Drafts/Course
-redirects =
->>>>
+---
+title: Project:Drafts/Course
+---
 
 {{start|Course}}
 <!--<div class="frontpage-intro">This course is still a work in progress and will be published in the summer of 2020. Feel free to [[Project:About|contact us]] to suggest improvements.  </div>-->
@@ -9,7 +9,7 @@ redirects =
 {{image|Börn_svarthvít.jpg|thumb}}'''Day 1'''
 
 *👁 [[How to use Ylhýra|Using Ylhýra]]
-*👁 [[Course/A1/How to learn a language|How to learn a language]] 
+*👁 [[Course/A1/How to learn a language|How to learn a language]]
 *👁 [[Course/A1/About Icelandic|About Icelandic]]
 *👁 [[Course/A1/New letters: Þ, Ð|New letters: Þ, Ð]]
 *👁 [[Course/A1/Is|Is]]
@@ -22,7 +22,7 @@ redirects =
 *💬 [[Conversations/Winter|Text: ''Winter'']]
 *🎮 Vocabulary: kaffi, syngja, í allan dag, í dag, mjólk, systir, að vera, að fara, að gera, að fá
 
----'''Day 2'''
+'''Day 2'''
 
 *👁 [[Course/A1/Introduction to cases|Introduction to cases]]
 *👁 [[Course/A1/Thanks|Thanks]]
@@ -35,7 +35,7 @@ redirects =
 **💬 [[Course/A1/Conversation – Búinn|Búinn]] – <small>Core vocabulary: búinn, gera, læra, baka, hundur, mikið, þreyttur, ekki, kaffi</small>
 *[https://www.youtube.com/watch?v=e4FC6cqSmuo Áttan – Nei nei] (2017)
 
----'''Day 3'''
+'''Day 3'''
 
 *👁 [[Course/A1/Ha?|Ha?]]
 *👁 [[Course/A1/Að|Að]]
@@ -49,7 +49,7 @@ redirects =
 *🎮 Vocabulary: <small>hús, dagur, frá, kaffi, að vera, að fara, að læra</small>
 *[https://www.youtube.com/watch?v=zqr9UNqE3Xo Laddi – Járnkarlinn] (1987)
 
----'''Day 4'''
+'''Day 4'''
 
 *👁 [[Course/A1/I|I]]
 *💬 [[Course/A1/Ordering food|Text: ''Ordering food'']]
@@ -60,7 +60,7 @@ redirects =
 *Vocabulary: <small>vel, góður, tími, te, líka, án djóks, dansa,</small> <small>að tala, að dansa, að fá</small>
 *[https://www.youtube.com/watch?v=EQiLcPyDwAY 12:00 - Sumartíminn] (2013)
 
----'''Day 5'''
+'''Day 5'''
 
 *frá
 *Ég er frá..

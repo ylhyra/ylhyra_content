@@ -1,6 +1,6 @@
-title = F
-redirects =
->>>>
+---
+title: F
+---
 
 The letter '''F''' is normally pronounced exactly like the F in English.
 

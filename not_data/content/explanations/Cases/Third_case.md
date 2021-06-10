@@ -1,10 +1,11 @@
-title = Third case
-redirects =
+---
+title: Third case
+redirects:
 - Dative
 - Dative case
 - Þgf
 - Þágufall
->>>>
+---
 
 {{start|Dative case}}
 <level a1/>

@@ -1,7 +1,8 @@
-title = Filler words
-redirects =
+---
+title: Filler words
+redirects:
 - Hikorð
->>>>
+---
 
 *[[Hérna]]
 *[[Sko]]

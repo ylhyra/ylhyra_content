@@ -1,5 +1,5 @@
-title = File:Logo serif.svg
-redirects =
->>>>
+---
+title: File:Logo serif.svg
+---
 
 undefined

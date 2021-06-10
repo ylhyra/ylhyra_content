@@ -1,5 +1,5 @@
-title = File:Pron hart LIVH.mp3
-redirects =
->>>>
+---
+title: File:Pron hart LIVH.mp3
+---
 
 {{spoken|hart}}

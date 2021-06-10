@@ -1,6 +1,6 @@
-title = Data:Villi Neto/Finnland
-redirects =
->>>>
+---
+title: Data:Villi Neto/Finnland
+---
 
 {
     "list": {

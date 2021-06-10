@@ -1,9 +1,10 @@
-title = Inflection
-redirects =
+---
+title: Inflection
+redirects:
 - Beyging
 - Inflect
 - Inflections
->>>>
+---
 
 :''For the change in pitch when speaking, see [[intonation]].''
 

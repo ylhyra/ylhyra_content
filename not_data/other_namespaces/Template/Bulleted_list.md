@@ -1,5 +1,5 @@
-title = Template:Bulleted list
-redirects =
->>>>
+---
+title: Template:Bulleted list
+---
 
 {{<includeonly>safesubst:</includeonly>#invoke:list|bulleted}}

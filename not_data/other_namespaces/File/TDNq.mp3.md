@@ -1,5 +1,5 @@
-title = File:TDNq.mp3
-redirects =
->>>>
+---
+title: File:TDNq.mp3
+---
 
 undefined

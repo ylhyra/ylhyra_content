@@ -1,7 +1,8 @@
-title = Explanations
-redirects =
+---
+title: Explanations
+redirects:
 - Explanation
->>>>
+---
 
 {{start|Explanations}}
 {{image|Landmannalaugar2.jpg|thumb}}

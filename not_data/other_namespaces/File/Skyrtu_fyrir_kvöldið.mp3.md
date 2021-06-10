@@ -1,5 +1,5 @@
-title = File:Skyrtu fyrir kvöldið.mp3
-redirects =
->>>>
+---
+title: File:Skyrtu fyrir kvöldið.mp3
+---
 
 undefined

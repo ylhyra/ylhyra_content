@@ -1,7 +1,8 @@
-title = Voiceless at the end of sentences
-redirects =
+---
+title: Voiceless at the end of sentences
+redirects:
 - Devoicing
->>>>
+---
 
 {{start|Devoicing}}
 <level a1/>

@@ -1,6 +1,6 @@
-title = Data:Conversations/Prentari
-redirects =
->>>>
+---
+title: Data:Conversations/Prentari
+---
 
 {
     "list": {

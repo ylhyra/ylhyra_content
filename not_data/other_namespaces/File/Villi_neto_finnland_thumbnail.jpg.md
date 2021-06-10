@@ -1,5 +1,5 @@
-title = File:Villi neto finnland thumbnail.jpg
-redirects =
->>>>
+---
+title: File:Villi neto finnland thumbnail.jpg
+---
 
 undefined

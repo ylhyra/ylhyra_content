@@ -1,6 +1,6 @@
-title = Template:Drag and drop/docs
-redirects =
->>>>
+---
+title: Template:Drag and drop/docs
+---
 
 Example usage:
 

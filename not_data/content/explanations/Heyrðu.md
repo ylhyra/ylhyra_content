@@ -1,6 +1,6 @@
-title = Heyrðu
-redirects =
->>>>
+---
+title: Heyrðu
+---
 
 {{start|Heyrðu}}
 <level a1/>

@@ -1,6 +1,6 @@
-title = Talk:Word order
-redirects =
->>>>
+---
+title: Talk:Word order
+---
 
 Snúið:
 *Meðan {ég bjó í Reykjavík} fór ég í sund. [while]

@@ -1,7 +1,8 @@
-title = Text:Course/A1/Gender game
-redirects =
+---
+title: Text:Course/A1/Gender game
+redirects:
 -  Text/Gender/Vocabulary
->>>>
+---
 
 {{start|Text:Gender/Vocabulary}}
 
