@@ -6,8 +6,8 @@ redirects:
 - Supine#Sagnbót
 tags:
 - Verbs
-license: CC0
 level: A1
+license: CC0
 ---
 
 The '''past participle''' (''lýsingarháttur þátíðar'') is a [[verb]] form where the verb has been formed as if it were an [[adjective]] (a describing word).

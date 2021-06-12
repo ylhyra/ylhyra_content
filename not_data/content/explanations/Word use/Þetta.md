@@ -4,6 +4,7 @@ redirects:
 - Þessi
 tags:
 - Pronouns
+license: CC0
 ---
 
 [[:Text:Þetta/Intro]]

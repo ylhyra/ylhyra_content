@@ -11,6 +11,7 @@ redirects:
 - Preaspiration
 - Preaspirations
 - Short breath
+license: CC0
 ---
 
 Several letter clusters require you to breathe out (exhale) a little bit before the letters. This tiny "[[h]]"-sound appears before ''kk'', ''tt'', and ''pp'' along with a few other letter clusters.

@@ -3,6 +3,7 @@ title: Eiginlega
 tags:
 - Words
 level: B2
+license: CC0
 ---
 
 *`Hvað gerðist '''eiginlega'''?`

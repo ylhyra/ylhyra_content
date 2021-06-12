@@ -1,5 +1,6 @@
 ---
 title: List of noun declension patterns
+license: CC0
 ---
 
 This is an overview page of the [[declension]] patterns for [[nouns]]. It lists all the words and names a [[B2]] level student needs to be able to decline.

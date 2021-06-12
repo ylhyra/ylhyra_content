@@ -5,6 +5,7 @@ redirects:
 tags:
 - Pronunciation
 level: A1
+license: CC0
 ---
 
 ==Stress on words==

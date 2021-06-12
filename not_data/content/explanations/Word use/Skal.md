@@ -4,8 +4,8 @@ redirects:
 - Skulu
 tags:
 - Word use
-license: CC0
 level: B2
+license: CC0
 ---
 
 <div class="book">

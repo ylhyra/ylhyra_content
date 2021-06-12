@@ -3,6 +3,7 @@ title: Style of Icelandic used in the news
 tags:
 - Culture
 level: B2
+license: CC0
 ---
 
 <div class="book">

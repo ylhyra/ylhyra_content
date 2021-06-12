@@ -1,5 +1,6 @@
 ---
 title: Vocabulary/All
+license: CC0
 ---
 
 {| class="wikitable"

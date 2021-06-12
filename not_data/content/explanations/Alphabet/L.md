@@ -5,6 +5,7 @@ redirects:
 - Clicky double L#Clicky double L
 - Double L#Double L
 - Ll#Double L
+license: CC0
 ---
 
 The letter '''L''' can represent a few different sounds.

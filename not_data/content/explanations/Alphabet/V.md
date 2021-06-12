@@ -1,5 +1,6 @@
 ---
 title: V
+license: CC0
 ---
 
 The letter '''V''' is pronounced the same as in English.

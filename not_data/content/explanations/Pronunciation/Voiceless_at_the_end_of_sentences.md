@@ -4,8 +4,8 @@ redirects:
 - Devoicing
 tags:
 - Pronunciation
-license: CC0
 level: A1
+license: CC0
 ---
 
 At the end of a sentence and before pauses, certain sounds become pronounced without the voice.

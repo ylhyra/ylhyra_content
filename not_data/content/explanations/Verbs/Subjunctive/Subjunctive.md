@@ -10,6 +10,7 @@ tags:
 - Grammatical moods
 - Subjunctive
 level: B1
+license: CC0
 ---
 
 ==The hypothetical verb form==

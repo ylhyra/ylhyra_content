@@ -6,6 +6,7 @@ redirects:
 tags:
 - Word use
 - Words
+license: CC0
 ---
 
 There are '''two''' ways to say "yes" in Icelandic:

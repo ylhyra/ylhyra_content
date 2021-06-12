@@ -5,8 +5,8 @@ redirects:
 tags:
 - Age
 - Word use
-license: CC0
 level: A1
+license: CC0
 ---
 
 =Age=

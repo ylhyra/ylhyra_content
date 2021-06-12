@@ -2,6 +2,7 @@
 title: Infinitive
 redirects:
 - Nafnháttur
+license: CC0
 ---
 
 The '''infinitive''' (''nafnháttur'') is the most basic form of a [[verb]]. Words on this form usually end in the letter "a":

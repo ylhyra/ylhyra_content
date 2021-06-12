@@ -5,6 +5,7 @@ redirects:
 - Soft G#Soft G
 - Soft G-sound#Soft G
 - Soft throaty G#Soft throaty G
+license: CC0
 ---
 
 '''G''' is a difficult letter in Icelandic, since it can represent 6 different sounds depending on which letters surround it.

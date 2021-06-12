@@ -3,6 +3,7 @@ title: Sæll
 tags:
 - Word use
 - Words
+license: CC0
 ---
 
 {{:Text:Sæll/Intro}}

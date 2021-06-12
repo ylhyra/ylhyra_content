@@ -4,6 +4,7 @@ redirects:
 - Project/Helpful links
 tags:
 - Content
+license: CC0
 ---
 
 ==Online teachers==

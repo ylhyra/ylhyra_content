@@ -1,7 +1,7 @@
 ---
 title: Conversations/Prentari
-license: CC0
 level: A1
+license: CC0
 ---
 
 {{audio|Prentari.mp3}}

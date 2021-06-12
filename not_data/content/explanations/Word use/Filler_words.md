@@ -4,6 +4,7 @@ redirects:
 - Hikorð
 tags:
 - Word use
+license: CC0
 ---
 
 *[[Hérna]]

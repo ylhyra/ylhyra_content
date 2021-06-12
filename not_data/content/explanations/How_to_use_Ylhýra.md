@@ -2,6 +2,7 @@
 title: How to use Ylhýra
 tags:
 - Culture
+license: CC0
 ---
 
 = How to use Ylhýra =

@@ -1,5 +1,6 @@
 ---
 title: Y
+license: CC0
 ---
 
 The letter '''Y''' is pronounced exactly the same as the Icelandic letter '''[[i]]'''. It is pronounced similar to the English ''k'''i'''d''.

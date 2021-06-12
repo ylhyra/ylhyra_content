@@ -1,5 +1,6 @@
 ---
 title: N
+license: CC0
 ---
 
 The letter '''N''' can represent a few different sounds.

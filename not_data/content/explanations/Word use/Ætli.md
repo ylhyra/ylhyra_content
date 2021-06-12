@@ -1,7 +1,7 @@
 ---
 title: Ætli
-license: CC0
 level: C1
+license: CC0
 ---
 
 The word „[[Ætla|að ætla]]“ usually means "to intend, to plan to". In old Icelandic it also had the alternative meaning of "to believe / to assume" which is today only used to say "I wonder if". Students usually find it to be a bit counter-intuitive, but learning it well is worth it.

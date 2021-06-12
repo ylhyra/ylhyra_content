@@ -3,6 +3,7 @@ title: Want
 tags:
 - Word use
 level: A1
+license: CC0
 ---
 
 There are two ways to say “I want” in Icelandic:

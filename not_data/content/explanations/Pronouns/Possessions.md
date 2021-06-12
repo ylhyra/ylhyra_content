@@ -3,8 +3,8 @@ title: Possessions
 redirects:
 - My
 - Possession
-license: CC0
 level: A1
+license: CC0
 ---
 
 When saying that something belongs to you, you have to add "[[the]]" to the word. "My cat" in Icelandic is "''köttur'''inn''' '''minn'''''" ("'''the''' cat (of) '''mine'''").

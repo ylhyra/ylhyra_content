@@ -2,8 +2,8 @@
 title: Heyrðu
 tags:
 - Word use
-license: CC0
 level: A1
+license: CC0
 ---
 
 '''Heyrðu''' means "hey, listen!". It is an [[Boðháttur|order]] form of the word ''að heyra'' (to hear). Heyrðu is completely neutral, it is not rude or condescending. It can mean:

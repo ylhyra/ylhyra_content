@@ -9,8 +9,8 @@ redirects:
 - Nominative case
 tags:
 - Cases
-license: CC0
 level: A1
+license: CC0
 ---
 
 There are four [[cases]] in Icelandic. The '''first case''' in the [[declension table]] is known as the "nominative case".<ref>On Ylhýra we refer to it as the "first case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].<br />

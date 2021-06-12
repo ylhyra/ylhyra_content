@@ -2,8 +2,8 @@
 title: Hérna
 tags:
 - Words
-license: CC0
 level: A1
+license: CC0
 ---
 
 `Hérna` is the most common pause-word. It literally means "here", but in this context it just means "uhh, ehh, er, uhm".

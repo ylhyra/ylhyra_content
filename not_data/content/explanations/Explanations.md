@@ -4,6 +4,7 @@ redirects:
 - Explanation
 tags:
 - Content
+license: CC0
 ---
 
 [[{{image|Landmannalaugar2.jpg|thumb}}

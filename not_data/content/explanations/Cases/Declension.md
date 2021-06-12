@@ -10,6 +10,7 @@ redirects:
 - Helper words for declension
 tags:
 - Cases
+license: CC0
 ---
 
 Icelandic [[nouns]] have four [[cases]]. Finding the correct form of the word is called '''declension'''. This is a simple declension table for the word ''lamb'':{{declension-singular| '''lamb'''|'''lamb'''|'''lambi'''|'''lambs'''}}

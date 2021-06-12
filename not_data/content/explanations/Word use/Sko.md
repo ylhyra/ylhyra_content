@@ -3,6 +3,7 @@ title: Sko
 tags:
 - Words
 level: A2
+license: CC0
 ---
 
 ''Sko''<ref>''Sko'' is originally an [[Boðháttur|order]] form of the word ''að skoða'' (to observe, to take a look at), but today the meaning is much more vague although "look at this!" is also a part of the meaning.</ref> can mean:

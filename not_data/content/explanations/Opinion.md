@@ -2,8 +2,8 @@
 title: Opinion
 tags:
 - Word use
-license: CC0
 level: A1
+license: CC0
 ---
 
 A common error is to translate "I think" as "ég hugsa". However, remember:

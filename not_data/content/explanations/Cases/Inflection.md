@@ -4,6 +4,7 @@ redirects:
 - Beyging
 - Inflect
 - Inflections
+license: CC0
 ---
 
 :''For the change in pitch when speaking, see [[intonation]].''

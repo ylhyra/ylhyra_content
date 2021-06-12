@@ -3,6 +3,7 @@ title: Ng and nk rule
 redirects:
 - Ng
 - Nk
+license: CC0
 ---
 
 ==Pronunciation before ''ng'' and ''nk''==

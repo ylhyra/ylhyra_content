@@ -2,8 +2,8 @@
 title: Cases/A1/Exercise 1
 tags:
 - Exercises
-license: CC0
 level: A1
+license: CC0
 ---
 
 Getting a feel for the [[Cases|four cases]] of Icelandic does take some time, but through repitition it becomes second nature. These are the four cases for the word "my hamburger" (literally "the hamburger of mine"). You can [https://inflections.ylhyra.is/hamborgari click here] to all the case tables for the word. Notice that the basic word is just "hamborgari", the additional "-nn" means "[[Definite article|''the'']]" (known as the [[definite article]]). The reason we add "the" to the word is that to say "my hamburger" you have to say "'''the''' hamburger of mine" (see [[My|here]] for a further explanation).{{declension-singular|hér er '''hamborgari<u>nn</u> minn'''|um '''hamborgara<u>nn</u> minn'''| frá '''hamborgara<u>num</u> mínum'''| til '''hamborgara<u>ns</u> míns'''}}

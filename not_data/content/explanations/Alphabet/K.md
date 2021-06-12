@@ -1,5 +1,6 @@
 ---
 title: K
+license: CC0
 ---
 
 The letter '''K''' can represent several different sounds.

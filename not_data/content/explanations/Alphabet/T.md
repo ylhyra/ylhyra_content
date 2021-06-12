@@ -1,5 +1,6 @@
 ---
 title: T
+license: CC0
 ---
 
 The letter '''T''' can be pronounced with a small breath or without.

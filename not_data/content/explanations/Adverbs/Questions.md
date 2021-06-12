@@ -4,6 +4,7 @@ redirects:
 - Question
 tags:
 - Questions
+license: CC0
 ---
 
 =Questions=

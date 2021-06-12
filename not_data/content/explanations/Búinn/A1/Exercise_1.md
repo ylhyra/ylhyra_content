@@ -3,6 +3,7 @@ title: Búinn/A1/Exercise 1
 tags:
 - Exercises
 level: A1
+license: CC0
 ---
 
 This is an exercise for the use of the word [[búinn]].

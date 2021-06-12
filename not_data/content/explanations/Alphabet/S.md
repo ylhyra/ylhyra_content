@@ -1,5 +1,6 @@
 ---
 title: S
+license: CC0
 ---
 
 The letter '''S''' is pronounced the same as in English ("'''''s'''ome, '''s'''ing''").<ref>There is a slight difference that some students notice, but native speakers are unable to notice any difference, so you don't have to worry about it. The tongue in the Icelandic S is a little bit more back than in English, and it touches the back of your [[w:Premolar|premolar]] teeth, so it can sound a little bit like the ''sh'' in "'''''sh'''y''" or a little bit whistle-like.</ref>

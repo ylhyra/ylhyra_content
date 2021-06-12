@@ -3,6 +3,7 @@ title: Það
 tags:
 - Word use
 - Words
+license: CC0
 ---
 
 '''Það''' can be a:

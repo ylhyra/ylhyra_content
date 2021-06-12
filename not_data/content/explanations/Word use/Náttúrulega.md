@@ -5,8 +5,8 @@ redirects:
 tags:
 - Word use
 - Pronunciation
-license: CC0
 level: B1
+license: CC0
 ---
 
 The word "'''náttúrulega'''" {{listen|audio=1hAr.mp3}} (meaning ''naturally'', ''of course'') gets extremely shortened in spoken language when it has the meaning of "of course", and so it is pronounced /<u>náttla</u>/. {{listen|audio=6hyE.mp3}}

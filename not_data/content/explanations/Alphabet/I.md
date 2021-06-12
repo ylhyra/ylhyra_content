@@ -1,5 +1,6 @@
 ---
 title: I
+license: CC0
 ---
 
 {{DISPLAYTITLE:i}}

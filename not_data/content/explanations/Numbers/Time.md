@@ -4,6 +4,7 @@ tags:
 - Time
 - Word use
 level: A1
+license: CC0
 ---
 
 To talk about time in Icelandic, you talk about the '''''clock''''':

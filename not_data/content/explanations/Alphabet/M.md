@@ -1,5 +1,6 @@
 ---
 title: M
+license: CC0
 ---
 
 The letter '''M''' can either represent a normal M sound or a breathy M sound.

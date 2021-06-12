@@ -2,6 +2,7 @@
 title: Þú merging
 redirects:
 - Changes produced by the pronoun þú when suffixed
+license: CC0
 ---
 
 {{DISPLAYTITLE:''Þú'' merging}}
