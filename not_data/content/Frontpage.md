@@ -9,7 +9,7 @@ redirects:
 {{:Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence, allowing you to read with ease.
 </div>
 <!--<noscript>
-<Image src="Ylhyra demo.gif" size="402x402px" position="center"/>
+<Image src="Ylhyra demo.gif" width="402" height="402" position="center"/>
 </noscript>-->
 <div id="frontpage-splash-screen-demo">
 {{Text:Demo}}

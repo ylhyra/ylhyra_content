@@ -10,7 +10,7 @@ level: B2
 ---
 
 <div class="sans-serif notes">
-Here you will read about „þúfur“ ([[:en:Hummock#Earth_hummocks_of_cryogenic_origin|earth hummocks]]), an unusual earthen formation found in regions near the arctic. These tiny mounds are formed from the soil going through freeze-thaw cycles.
+Here you will read about „þúfur“ ([[w:Hummock#Earth_hummocks_of_cryogenic_origin|earth hummocks]]), an unusual earthen formation found in regions near the arctic. These tiny mounds are formed from the soil going through freeze-thaw cycles.
 </div>
 
 <div class="book" data-translate="true" data-audio-file="Þúfa.mp3">
@@ -26,7 +26,7 @@ Við höfnina í Reykjavík er listaverk sem lítur út eins og risastór þúfa
 Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður eins og í gamla daga. Þegar maður labbar upp á þúfuna sér maður þá bæði gömlu aðferðina við að þurrka fisk og líka risastóru nútímafiskvinnslurnar í kring.
 </div>
 {{-}}
-<Image src="Þúfa - Ólöf.jpg" position="center" size="700px"/>
+<Image src="Þúfa - Ólöf.jpg" position="center" width="700"/>
 <div class="thumbcaption" data-translate="true">„Þúfa“ eftir Ólöfu Nordal við höfnina í Reykjavík.</div>
 
 <div class="notes">

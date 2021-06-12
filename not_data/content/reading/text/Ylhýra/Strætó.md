@@ -14,7 +14,7 @@ Allavega, á Íslandi eru hvorki til lestir né neðanjarðarlestir (það búa 
 
 Það er smá flókið að kaupa miða í strætó. Það er ekki hægt að mæta í strætó og borga með debetkorti, það kemur mörgum á óvart. Það er hægt að borga með peningum, en það er ekki hægt að fá pening til baka. Besta leiðin til að kaupa miða er að sækja strætó-appið og vera búinn að borga áður en maður fer upp í strætó.
 </Book>
-<Image src="How long to wait for the bus? (5694320376).jpg" position="center" size="700px"/>
+<Image src="How long to wait for the bus? (5694320376).jpg" position="center" width="700"/>
 
 '''Further reading'''
 * [[-ó endings|A list of words with -ó endings]]

@@ -30,7 +30,7 @@ The website runs [[mediawikiwiki:MediaWiki|MediaWiki]] and the code is [https://
 *[http://malfong.is/?pg=islexrecordings&lang=en ISLEX recordings] read by Guðfinna Rúnarsdóttir. <small>([https://creativecommons.org/licenses/by-nc-nd/4.0/ CC BY-NC-ND 4.0])</small>
 *[https://github.com/readbeyond/aeneas/ Aeneas], audio and text synchronization.
 
-<Image src="Loftmynd 2.jpg" position="center" size="600px"/>
+<Image src="Loftmynd 2.jpg" position="center" width="600"/>
 
 ==Collaborating==
 

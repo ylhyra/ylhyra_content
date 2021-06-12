@@ -12,7 +12,7 @@ See [[Texts]]
 *Pistlar eftir Margréti Pálu
 *Árstíðir?
 *Benedikt Gröndal / Dægradvöl
-*[[Is:Guðmundur Friðjónsson]]
+*Guðmundur Friðjónsson
 *[https://commons.wikimedia.org/wiki/User:Rosemania/Saga Teikningar fyrir Laxdælu]
 
 '''Tasks:'''
