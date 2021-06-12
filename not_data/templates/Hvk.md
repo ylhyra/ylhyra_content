@@ -1,7 +1,7 @@
 ---
 title: Template:Hvk
 redirects:
-- Template/Hk
+- Template:Hk
 tags:
 - Grammar emojis
 ---

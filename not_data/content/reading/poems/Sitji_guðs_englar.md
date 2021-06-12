@@ -1,7 +1,7 @@
 ---
 title: Sitji guðs englar
 redirects:
-- Text/Sitji guðs englar
+- Text:Sitji guðs englar
 tags:
 - Poems
 ---

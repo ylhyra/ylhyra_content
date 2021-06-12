@@ -1,5 +1,6 @@
 ---
 title: Garðvinna
+redirects:
 - Text:A1/Garðvinna
 license: CC0
 level: A1

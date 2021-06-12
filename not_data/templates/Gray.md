@@ -1,7 +1,7 @@
 ---
 title: Template:Gray
 redirects:
-- Template/G
+- Template:G
 ---
 
 <span class=gray style="color:gray">{{{1}}}</span>

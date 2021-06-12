@@ -1,8 +1,8 @@
 ---
 title: Harðfiskur
 redirects:
-- Text/A1/Harðfiskur
-- Text/A2/Harðfiskur
+- Text:A1/Harðfiskur
+- Text:A2/Harðfiskur
 tags:
 - Culture
 license: CC0

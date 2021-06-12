@@ -1,7 +1,7 @@
 ---
 title: Sund
 redirects:
-- Text/A1/Sund
+- Text:A1/Sund
 tags:
 - Culture
 license: CC0

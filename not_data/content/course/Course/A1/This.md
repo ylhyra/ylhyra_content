@@ -1,7 +1,7 @@
 ---
 title: Course/A1/This
 redirects:
-- Text/Þetta/Intro
+- Text:Þetta/Intro
 ---
 
 To refer to something close, you use {{is|'''þetta'''}}.<!--{{efn|{{is|Þetta}} is a [[demonstrative pronoun]] ({{is|ábendingarfornafn}}).}}--> The word changes a bit based on [[gender]]:

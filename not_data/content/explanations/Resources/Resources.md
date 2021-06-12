@@ -1,7 +1,7 @@
 ---
 title: Resources
 redirects:
-- Project/Helpful links
+- Project:Helpful links
 tags:
 - Content
 license: CC0
