@@ -33,7 +33,7 @@ Examples:
 
 Note that there may be ambiguity about whether something is actually an -st variant or just a form that happens to end in -st in one particular case but not all the related cases. See here:
 
-* ég kom í gær (I came yesterday), þú kom'''st''' í gær (you came yesterday), hann kom í gær (he came yesterday). This is just the regular verb in the [[Active voice|regular voice]] despite the fact that one case, [[Second person|second person]] [[singular]] [[Past tense|past tense]], does happen to end in -st. This usually only happens with [[Second person|second person]] [[singular]] [[Past tense|past tense]]. 
+* ég kom í gær (I came yesterday), þú kom'''st''' í gær (you came yesterday), hann kom í gær (he came yesterday). This is just the regular verb in the [[Active voice|regular voice]] despite the fact that one case, [[second person]] [[singular]] [[past tense]], does happen to end in -st. This usually only happens with [[second person]] [[singular]] [[past tense]].
 * ég kom'''st''' í gær (I was able to come yesterday), þú kom'''st''' í gær (you were able to come yesterday), hann kom'''st''' í gær (he was able to come yesterday). This is truly the -st form of the verb, all of the related words end in -st.
 
 This ambiguity is very rare, and you can almost always figure out what is meant from context.

@@ -7,9 +7,9 @@ license: CC0
 level: C1
 ---
 
-Some Icelandic names have dimunitive forms that are used as nicknames, in the same way that in English a person named Robert may be called Bob. Nicknames are called "gælunöfn" (''caressing names''). 
+Some Icelandic names have dimunitive forms that are used as nicknames, in the same way that in English a person named Robert may be called Bob. Nicknames are called "gælunöfn" (''caressing names'').
 
-The following nicknames are extremely common: 
+The following nicknames are extremely common:
 
 *Sigurður = Siggi
 *Ólafur = Óli

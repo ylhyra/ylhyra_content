@@ -14,7 +14,7 @@ The Icelandic word "'''skal'''" was once synonymous with the English word "shall
 
 The main use of "skal" is to express willingness to take care of something, willingness to do something, willingness to take on responsibility. It may either refer to your own willingness to do something but can also be used to tell someone to take care of something or tell someone to take on responsibility.
 
-In these contexts, „ég skal“ translates to "I'll". 
+In these contexts, „ég skal“ translates to "I'll".
 
 *Ég '''skal''' gera þetta. = '''I'll''' do this.
 *Ég '''skal''' reyna. = '''I'll''' try.

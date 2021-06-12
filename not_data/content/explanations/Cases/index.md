@@ -12,10 +12,10 @@ license: CC0
 <onlyinclude>
 [[Nouns]], [[adjectives]], and [[pronouns]] all change their form depending on what's happening to them in a sentence. There are four such '''cases''' in Icelandic:
 
-*The '''[[First case|first case]]''' indicates '''being'''. It shows that the word is doing something. <small class="gray">([[Nominative case|nominative case]])</small>
-*The '''[[Second case|second case]]''' indicates '''suffering'''. It shows that the word is having something done to it. <small class="gray">([[Accusative case|accusative case]])</small>
-*The '''[[Third case|third case]]''' indicates '''having'''. It shows that the word has something or is being given something. <small class="gray">([[Dative case|dative case]])</small>
-*The '''[[Fourth case|fourth case]]''' indicates '''belonging'''. It shows that the word belongs to something. <small class="gray">([[Genitive case|genitive case]])</small>
+*The '''[[first case]]''' indicates '''being'''. It shows that the word is doing something. <small class="gray">([[nominative case]])</small>
+*The '''[[second case]]''' indicates '''suffering'''. It shows that the word is having something done to it. <small class="gray">([[accusative case]])</small>
+*The '''[[third case]]''' indicates '''having'''. It shows that the word has something or is being given something. <small class="gray">([[dative case]])</small>
+*The '''[[fourth case]]''' indicates '''belonging'''. It shows that the word belongs to something. <small class="gray">([[genitive case]])</small>
 
 These cases are always shown in the same order. Some words, like “lamb”, don’t change that much:
 
@@ -25,10 +25,10 @@ But other words, like “cat”, change a lot:
 
 {{declension-singular|köttur|kött|ketti|kattar}}
 
-The [[First case|first case]] is the default case and is the one that is shown in dictionaries. 
+The [[first case]] is the default case and is the one that is shown in dictionaries.
 
 ==Comparison to English==
-The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with '''''him'''''”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[First case|first case]] in Icelandic, "him" is analogous to both the [[Second case|second]] and the [[Third case|third case]], and "his" is analogous to the [[Fourth case|fourth case]].
+The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with '''''him'''''”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[first case]] in Icelandic, "him" is analogous to both the [[Second case|second]] and the [[third case]], and "his" is analogous to the [[fourth case]].
 </onlyinclude>
 ==Further reading==
 

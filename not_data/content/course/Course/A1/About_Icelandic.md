@@ -3,12 +3,12 @@ title: Course/A1/About Icelandic
 ---
 
 ==About Icelandic==
-[[File:Iceland (orthographic projection).svg|thumb|The neighbors of Iceland are: 
+[[File:Iceland (orthographic projection).svg|thumb|The neighbors of Iceland are:
 <ul>
 <li>[[w:Greenland|Greenland]] to the left</li>
 <li>[[w:Norway|Norway]] to the right
 <li>The [[w:Faroe Islands|Faroe Islands]] and the [[w:British Isles|British Isles]] to the bottom right</li></ul>|273x273px]]
-The Icelandic language has around 315,000 speakers, and almost all of them live in Iceland.<ref>[https://www.ethnologue.com/19/language/isl/ Ethnologue, 19th ed]. Numbers from 2015.</ref> 
+The Icelandic language has around 315,000 speakers, and almost all of them live in Iceland.<ref>[https://www.ethnologue.com/19/language/isl/ Ethnologue, 19th ed]. Numbers from 2015.</ref>
 
 ===Language relatives===
 Icelandic is most closely related language is the [[w:Faroese language|Faroese language]], spoken in the [[w:Faroe Islands|Faroe Islands]] south-east of Iceland. Icelanders can't understand spoken Faroese, but they can read it and usually think that the Faroese vocabulary hilarious.
@@ -18,9 +18,9 @@ Icelandic is also related to the languages spoken in Scandinavia (Norwegian, Dan
 All of these languages are descendants of the [[w:Old Norse language|Old Norse language]] spoken around the 9th to 13th century.
 
 ===Where Icelandic comes from===
-Norwegian settlers started moving to Iceland at the end of the 9th century and brought the Old Norse language with them. Living in relative isolation in an island in the North Atlantic Ocean meant that there was limited contact with other languages.  
+Norwegian settlers started moving to Iceland at the end of the 9th century and brought the Old Norse language with them. Living in relative isolation in an island in the North Atlantic Ocean meant that there was limited contact with other languages.
 
-Modern Icelandic is relatively similar to the Old Norse language spoken a thousand years ago, and even though the pronunciation has changed Icelanders can still read Old Norse literature relatively easily, which is something many Icelanders are proud of. 
+Modern Icelandic is relatively similar to the Old Norse language spoken a thousand years ago, and even though the pronunciation has changed Icelanders can still read Old Norse literature relatively easily, which is something many Icelanders are proud of.
 
 ===Similarity to English===
 Icelandic and English both [[w:Germanic languages|Germanic languages]] and share many similarities, especially regarding sentence structure. Many words look similar in Icelandic and English, both because they are distantly related, and because English [[w:List of English words of Old Norse origin|acquired some words from Old Norse]] around the 10th century such as "cake", "egg", "ugly", and "take".
@@ -41,7 +41,7 @@ Since English is currently the global language, Icelanders learn English at scho
 
 It should take a few weeks until you can comfortably greet people, several months for you to be able to chit chat out on the street, and a few years until you can take part in a heated argument with multiple people.
 
-<!-- *LM: How far do we go with Ylhýra? I don't really understand whether this is meant as an overview of the different levels or a recommendation of what you should do. In the latter case, it should be very clear what Ylhýra offers in order to be able to do those things!* 
+<!-- *LM: How far do we go with Ylhýra? I don't really understand whether this is meant as an overview of the different levels or a recommendation of what you should do. In the latter case, it should be very clear what Ylhýra offers in order to be able to do those things!*
 *'''Starting out''' – You will be able to use a few words and standard phrases, introducing yourself and finding your way around. Focus on learning words and short phrases. Do not study the grammar for now. It is more important to use several words incorrectly than it is to know only a handful of words correctly.
 *'''Beginner''' – You can describe yourself and things that interest you. You can hold a conversation when your conversation partner speaks slowly and clearly, and is willing to repeat some words for you. You can write very short letters, such as post cards. Now you can start listening to Icelandic songs and movies, attempting to catch some words. Finding a language partner to speak with regularly is vital. Slowly we will introduce you to a bit of grammar. Practice speaking slowly and become good at longer phrases.
 *'''Intermediate''' – You start being able to describe situations and thoughts, and have short conversations with natives. Speak with a language partner regularly, and surround yourself with the language. Listen to radio shows in the mornings, read a little bit every day. Watch dubbed &amp; subtitled children’s television. We will introduce you with the more complicated parts of grammar, and more specialised vocabulary.
@@ -50,11 +50,11 @@ It should take a few weeks until you can comfortably greet people, several month
 
 We hope that with Ylhýra we can ease the pain of most of the difficulties that occur when learning a language, making it viable for you to study the language by yourself.
 
-Students of Icelandic often encounter 
+Students of Icelandic often encounter
 
 If you are a tourist, knowing Icelandic is not ''necessary''. Being able to communicate with locals will mainly gather you respect, as people are interested in someone who is willing to attempt to learn their language. If you plan on living in Iceland for a while, learning the languages becomes a necessity. It is the only way to integrate well into the society.
 
-You can indeed survive in Iceland by only communicating in English, however you 
+You can indeed survive in Iceland by only communicating in English, however you
 
 . However, you will always be a bit left out. The news is in Icelandic, your local friends will switch over to Icelandic when addressing each other.
 

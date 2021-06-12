@@ -48,7 +48,7 @@ This doesn't happen to vowels that have an accent mark (á, ú, í, ó, é).
 *Þ'''ú''' ert farinn.
 
 ==Sounds that are so soft that they disappear (Ð and G)==
-The [[soft g]] sound {{listen|audio=vlmK.mp3}} (such as in `ég`) and the soft [[ð]] sound {{listen|audio=6mpZ.mp3}} (such as in `að`) are so soft that they often just disappear. 
+The [[soft g]] sound {{listen|audio=vlmK.mp3}} (such as in `ég`) and the soft [[ð]] sound {{listen|audio=6mpZ.mp3}} (such as in `að`) are so soft that they often just disappear.
 
 *{{listen|`É{{gray|g}} er a{{gray|ð}} koma.`|audio=XWho.mp3}} /<u>é er a koma</u>/
 *{{listen|`O{{gray|g}} hva{{gray|ð}} me{{gray|ð}} þa{{gray|ð}}?`|audio=8UEE.mp3}} /<u>o kva me þa</u>/

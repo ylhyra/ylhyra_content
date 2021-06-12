@@ -19,9 +19,9 @@ title: Course/Greetings
 *when you meet a stranger on the street (from morning until 6 PM)
 *when greeting or addressing employees when you're a client (such as at the store, the café, the bank), including when calling a company on the phone
 
-"Góðan" is the word "[https://inflections.ylhyra.is/g%C3%B3%C3%B0ur góður]", just in a different [[case]]. At this point in time you should not think about why this particular phrase uses a different word form,<ref>The reason why this phrase uses unexpected grammatical forms ("góður" uses the [[Second case|second case]] and "dagur" has a [[Definite article|definite article]]) is that the phrase is short for "I hope that you have the day good".</ref> you should just memorize it as a phrase. 
+"Góðan" is the word "[https://inflections.ylhyra.is/g%C3%B3%C3%B0ur góður]", just in a different [[case]]. At this point in time you should not think about why this particular phrase uses a different word form,<ref>The reason why this phrase uses unexpected grammatical forms ("góður" uses the [[second case]] and "dagur" has a [[definite article]]) is that the phrase is short for "I hope that you have the day good".</ref> you should just memorize it as a phrase.
 
-Notes on pronunciation: 
+Notes on pronunciation:
 
 *The [[Ð]] in "góðan" is so soft you can just skip it.
 *The G in "daginn" makes the sound of [[J]].
@@ -44,8 +44,8 @@ Notes on pronunciation:
 
 Notes on pronunciation:
 
-*"Sæll" is pronounced quickly (the æ is [[short]] because it's followed by two [[consonant]] letters). The double L is a [[Clicky double L|clicky double L]], meaning that you first pronounce a [[D]] sound and then a [[Breathy L|breathy L]] sound.
-*The æ in "sæl" is [[Long vowel|long]] (it's only followed by one consonant). Althought the L in "sæl" is a normal L, several sounds [[Voiceless at the end of sentences|lose their voice at the ends of sentences]], so "Sæl!" is pronounced with a [[Breathy L|breathy L]].
+*"Sæll" is pronounced quickly (the æ is [[short]] because it's followed by two [[consonant]] letters). The double L is a [[clicky double L]], meaning that you first pronounce a [[D]] sound and then a [[breathy L]] sound.
+*The æ in "sæl" is [[Long vowel|long]] (it's only followed by one consonant). Althought the L in "sæl" is a normal L, several sounds [[Voiceless at the end of sentences|lose their voice at the ends of sentences]], so "Sæl!" is pronounced with a [[breathy L]].
 
 ===When to use which greeting===
 To summarize the above:

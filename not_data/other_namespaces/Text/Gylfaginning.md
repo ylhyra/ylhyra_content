@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1Zaxz54OOpkNhoNIU8ad62QftcbEMuIlraSQ6054_gAM/
 == Original ==
 '''1. kafli'''
 
-Gylfi konungur réð þar löndum er nú heitir Svíþjóð. Frá honum er það sagt að hann gaf einni farandi konu að launum skemmtunar sinnar eitt plógsland í ríki sínu það er fjórir öxn drægi upp dag og nótt. 
+Gylfi konungur réð þar löndum er nú heitir Svíþjóð. Frá honum er það sagt að hann gaf einni farandi konu að launum skemmtunar sinnar eitt plógsland í ríki sínu það er fjórir öxn drægi upp dag og nótt.
 
 En sú kona var ein af ása ætt, hún er nefnd Gefjun. Hún tók fjóra öxn norðan úr Jötunheimum, en það voru synir jötuns og hennar, og setti þá fyrir plóg. En plógurinn gekk svo hart og djúpt að upp leysti landið, og drógu öxnirnir það land út á hafið og vestur og námu staðar í sundi nokkru. Þar setti Gefjun landið og gaf nafn og kallaði Selund. Og þar sem landið hafði upp gengið var þar eftir vatn. Það er nú Lögurinn kallaður í Svíþjóð, og liggja svo víkur í Leginum sem nes í Selundi. Svo segir Bragi skáld gamli:
 
@@ -33,7 +33,7 @@ valrauf, fjögur höfuð.
 
 Gylfi konungur var maður vitur og fjölkunnugur. Hann undraðist það mjög er ásafólk var svo kunnugt að allir hlutir gengu að vilja þeirra. Það hugsaði hann hvort það myndi vera af eðli sjálfra þeirra eða myndi því valda goðmögn þau er þeir blótuðu.
 
-Hann byrjaði ferð sína til Ásgarðs og fór með laun og brá á sig gamals manns líki og duldist svo. En æsir voru því vísari að þeir höfðu spádóm, og sáu þeir ferð hans fyrr en hann kom og gerðu í móti honum sjónhverfingar. 
+Hann byrjaði ferð sína til Ásgarðs og fór með laun og brá á sig gamals manns líki og duldist svo. En æsir voru því vísari að þeir höfðu spádóm, og sáu þeir ferð hans fyrr en hann kom og gerðu í móti honum sjónhverfingar.
 
 En er hann kom í borgina, þá sá hann þar háa höll svo að varla mátti hann sjá yfir hana. Þak hennar var lagt gylltum skjöldum svo sem spónþak. Svo segir Þjóðólfur hinn hvinverski að Valhöll var skjöldum þökt:
 
@@ -45,7 +45,7 @@ Sváfnis salnæfrar
 
 seggir hyggjandi.
 
-Gylfi sá mann í hallardurunum, og lék að handsöxum og hafði sjö senn á lofti. Sá spurði hann fyrr að nafni. Hann nefndist Gangleri og kominn af refilstígum og beiddist að sækja til náttstaðar og spurði hver höllina ætti. Hann svarar að það var konungur þeirra. "En fylgja má eg þér að sjá hann. Skaltu þá sjálfur spyrja hann nafns," og snerist sá maður fyrir honum inn í höllina, en hann gekk eftir og þegar laukst hurðin á hæla honum. 
+Gylfi sá mann í hallardurunum, og lék að handsöxum og hafði sjö senn á lofti. Sá spurði hann fyrr að nafni. Hann nefndist Gangleri og kominn af refilstígum og beiddist að sækja til náttstaðar og spurði hver höllina ætti. Hann svarar að það var konungur þeirra. "En fylgja má eg þér að sjá hann. Skaltu þá sjálfur spyrja hann nafns," og snerist sá maður fyrir honum inn í höllina, en hann gekk eftir og þegar laukst hurðin á hæla honum.
 
 Þar sá hann mörg gólf og margt fólk, sumt með leikum, sumir drukku, sumir með vopnum og börðust. Þá litaðist hann um og þótti margir hlutir ótrúlegir þeir er hann sá. Þá mælti hann:
 
@@ -90,13 +90,13 @@ Hár segir: "Lifir hann of allar aldir og stjórnar öllu ríki sínu og ræður
 
 Gylfi konungur réð á því svæði sem nú heitir Svíþjóð. Til hans hafði komið farandkona sem skemmti konungi og sagði honum sögur. Konungur gaf henni að launum land í ríki sínu sem hún gæti ræktað upp. Landið sem konungur gaf henni var svo stórt að það myndi taka fjóra uxa, vinnandi dag og nótt, til að plægja það.
 
-En þessi kona var af ættum ása, hún hét Gefjun. Hún tóka fjóra uxa norðan úr Jötunheimum og setti þá fyrir plóg. Þessir uxar voru synir hennar og jötuns. Plógurinn risti landið svo djúpt og svo hart að landið rifnaði frá. Uxarnir drógu landið út á haf, fóru með það til vesturs, og stoppuðu svo. Gefjun gaf landinu nafnið Selund, uppi á landinu varð til vatn sem kallast nú Lögurinn í Svíþjóð. Í Leginum eru víkur eins og nes í Selundi. 
+En þessi kona var af ættum ása, hún hét Gefjun. Hún tóka fjóra uxa norðan úr Jötunheimum og setti þá fyrir plóg. Þessir uxar voru synir hennar og jötuns. Plógurinn risti landið svo djúpt og svo hart að landið rifnaði frá. Uxarnir drógu landið út á haf, fóru með það til vesturs, og stoppuðu svo. Gefjun gaf landinu nafnið Selund, uppi á landinu varð til vatn sem kallast nú Lögurinn í Svíþjóð. Í Leginum eru víkur eins og nes í Selundi.
 
 Gylfi konungur var vitur maður og göldróttur. Honum fannst undarlegt að ásafólk væri svo viturt að allir hlutir urðu eftir vilja þeirra. Gylfi pældi mikið í því hvort það væri bara í eðli þeirra eða hvort ástæðan væri guðirnir sem þau blótuðu.
 
-Til þess að komast til botns í þessu fór Gylfi í ferð til Ásgarðs. Hann fór í leyni og dulbjóst sem gamall kall. En æsirnir sáu ferðir hans fyrir, því þeir geta séð inn í framtíðina. Æsirnir ákváðu að blekkja Gylfa og taka á móti honum með sjónhverfingum. 
+Til þess að komast til botns í þessu fór Gylfi í ferð til Ásgarðs. Hann fór í leyni og dulbjóst sem gamall kall. En æsirnir sáu ferðir hans fyrir, því þeir geta séð inn í framtíðina. Æsirnir ákváðu að blekkja Gylfa og taka á móti honum með sjónhverfingum.
 
-Þannig að: Þegar Gylfi kom í borgina sá hann háa höll, svo háa að það var varla hægt að sjá yfir hana. Þakið á höllinni var þakið með gylltum skjöldum. 
+Þannig að: Þegar Gylfi kom í borgina sá hann háa höll, svo háa að það var varla hægt að sjá yfir hana. Þakið á höllinni var þakið með gylltum skjöldum.
 
 ....
 
@@ -110,7 +110,7 @@ Maðurinn svaraði: „Það er kóngurinn sem á þessa höll. Ég skal fylgja 
 
 Maðurinn gekk inn í höllina og Gylfi á eftir honum. Hurðin skelltist á eftir honum.
 
-Höllin var risastór. Það var mikið af fólki þarna, sumt fólk var í leikjum, sumir drukku, aðrir léku sér með vopn og börðust. Gylfi leit í kringum sig og þótti þetta allt saman aðeins of ótrúlegt. 
+Höllin var risastór. Það var mikið af fólki þarna, sumt fólk var í leikjum, sumir drukku, aðrir léku sér með vopn og börðust. Gylfi leit í kringum sig og þótti þetta allt saman aðeins of ótrúlegt.
 
 …
 
@@ -120,7 +120,7 @@ Hár spurði: „Var það eitthvað fleira sem þú vildir vita? Mi casa es su 
 
 Gylfi svarar: „Já. Fyrst langar mig að vita, er einhver hérna vitur?“
 
-„Nú skal ég svara þér, Gangleri minn. Þú munt ekki fara héðan fyrr en þú færð svar við þessari spurningu þinni. Stattu nú uppi, ég ætla að svara þér, og sá sem svarar á að fá að sitja.“ 
+„Nú skal ég svara þér, Gangleri minn. Þú munt ekki fara héðan fyrr en þú færð svar við þessari spurningu þinni. Stattu nú uppi, ég ætla að svara þér, og sá sem svarar á að fá að sitja.“
 
 ....
 
@@ -132,7 +132,7 @@ Hár svarar: „Já. Hann lifir gegnum allar aldir, hann stjórnar öllu ríki s
 
 Jafnhár tekur þá til máls: „Hann smíðaði himin og jörð og loftið og alla þá hluti sem eru þar.“
 
-Þá segir Þriðji: „En það sem er mikilvægast er að hann gerði manninn og gaf manninum sál. Sál sem mun lifa, lifa að eilífu, þótt líkaminn rotni og verði að mold, þótt líkaminn brenni og verði að ösku. Og allir sem lifa góðu og hreinu lífi skulu vera með honum sjálfum, á þeim stað sem heitir Gimlé, en vondir menn fara til hennar Heljar, og þaðan í Niflhel, hinn níunda heim. 
+Þá segir Þriðji: „En það sem er mikilvægast er að hann gerði manninn og gaf manninum sál. Sál sem mun lifa, lifa að eilífu, þótt líkaminn rotni og verði að mold, þótt líkaminn brenni og verði að ösku. Og allir sem lifa góðu og hreinu lífi skulu vera með honum sjálfum, á þeim stað sem heitir Gimlé, en vondir menn fara til hennar Heljar, og þaðan í Niflhel, hinn níunda heim.
 
 Gangleri spyr þá meira: „Hvað gerði Alföður eiginlega áður en himininn og jörðin voru til?“
 

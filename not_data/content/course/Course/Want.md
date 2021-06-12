@@ -17,11 +17,11 @@ Because this term is so blunt, you have to be careful never to use it when askin
 ===Mig langar===
 "Mig langar" is a more sentimental way of describing what you want. The word is related to the English "I long for it", which is also quite sentimental.
 
-Because of this, it's the word you should use when describing what you want. It's more polite and has a much less demanding tone than "ég vil". 
+Because of this, it's the word you should use when describing what you want. It's more polite and has a much less demanding tone than "ég vil".
 
-"Mig langar" is one of the [[Impersonal verb|rare words]] where you don't use the [[First case|first case]] ("ég"), instead you use the second case ("mig").<ref>To get a sense for why the [[Second case|second case]] is used, you can imagine the phrase "'''Mig''' langar að fara" being "It interests '''me''' to go."</ref> The "langar" part [[Impersonal verb|doesn't change]] its form depending on who it applies to.  
+"Mig langar" is one of the [[Impersonal verb|rare words]] where you don't use the [[first case]] ("ég"), instead you use the second case ("mig").<ref>To get a sense for why the [[second case]] is used, you can imagine the phrase "'''Mig''' langar að fara" being "It interests '''me''' to go."</ref> The "langar" part [[Impersonal verb|doesn't change]] its form depending on who it applies to.
 
-Opposite to "ég vil", with "mig langar" you do use the "að" part for the verb that comes after it: 
+Opposite to "ég vil", with "mig langar" you do use the "að" part for the verb that comes after it:
 
 *Mig langar að fara heim.
 

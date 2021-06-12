@@ -5,7 +5,7 @@ title: N
 The letter '''N''' can represent a few different sounds.
 
 ==Normal N==
-In normal situations, N has the same sound as the English N. 
+In normal situations, N has the same sound as the English N.
 
 *'''n'''ei, '''n'''ýir, '''n'''úll, ky'''nn'''ast, '''n'''ágra'''nn'''i'''nn'''
 
@@ -46,5 +46,5 @@ It appears:
 
 ***
 
-The name of the letter is "enn", same as in English. 
+The name of the letter is "enn", same as in English.
 {{next simple|prev=m|next=o}}

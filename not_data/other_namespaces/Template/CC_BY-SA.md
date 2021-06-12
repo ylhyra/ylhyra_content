@@ -1,8 +1,8 @@
 ---
 title: Template:CC BY-SA
 redirects:
--  Template/Cc
--  Template/Cc by-sa
+- Template/Cc
+- Template/Cc by-sa
 tags:
 - CC BY-SA
 ---

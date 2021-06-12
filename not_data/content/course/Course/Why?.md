@@ -27,7 +27,7 @@ title: Course/Why?
 
 ==An alternative way to say ''Why?''==
 
-"Af hverju" and "af því að" are the most common phrases you will use for "why?" and "because", but there's another way to say the same thing. The phrases are: 
+"Af hverju" and "af því að" are the most common phrases you will use for "why?" and "because", but there's another way to say the same thing. The phrases are:
 
 *hvergs vegna? = why?<ref>The literal translation is "due to what?"</ref>
 *vegna þess að = because<ref>The literal translation is "due to it that"</ref>

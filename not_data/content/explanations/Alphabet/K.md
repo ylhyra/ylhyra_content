@@ -41,9 +41,9 @@ Many learners have difficulties with this sound, so it can be helpful to imagine
 ==K in the roof of the mouth (without a breath)==
 {{listen|audio=7M7w.mp3}}
 
-This sound is similar to the English ''s'''k'''ew''. It is pronounced by having the most backwards part of your tongue touch the roof of your mouth.  It is the same sound as the Icelandic ''g'' in the words "gítar, gær, ógeð", and is the same as in ''"''kennari" but without the small breath of air. 
+This sound is similar to the English ''s'''k'''ew''. It is pronounced by having the most backwards part of your tongue touch the roof of your mouth. It is the same sound as the Icelandic ''g'' in the words "gítar, gær, ógeð", and is the same as in ''"''kennari" but without the small breath of air.
 
-It appears in the middle of a word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''': 
+It appears in the middle of a word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''':
 
 *tæ'''k'''i, ólí'''k'''ir, po'''k'''i, ban'''k'''i
 

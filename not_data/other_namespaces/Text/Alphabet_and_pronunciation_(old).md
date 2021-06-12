@@ -77,7 +77,7 @@ The following two letters are especially tricky to remember. Listen to the audio
 ***'''k'''aka, '''k'''ók, kaffi, kalt, kaupa
 **{{listen|audio=c__j.mp3}}At the beginning of word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''', the letter sounds like the English '''''c'''ute''. Many learners have difficulties with this sound, so it can be helpful to imagine ''kennari'' being written as "''kyennari''", and ''kærasti'' written as "''kyærasti''". Instead of being pronounced by closing the throat like a normal ''k'', this sound is pronounced by having the most backwards part of your tongue touch the roof of your mouth.
 ***'''k'''ennari, '''k'''ind, '''k'''íló, '''k'''ynnast, '''k'''ærasti, '''k'''irkja, '''K'''eflavík,
-**{{listen|audio=7M7w.mp3}}In the middle of a word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''', the letter sounds like the English ''s'''k'''ew''. This is the same sound as the ''g'' in ''gítar''. This is almost the same sound as with ''kennari'' above, just without the small breath of air after the sound. 
+**{{listen|audio=7M7w.mp3}}In the middle of a word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''', the letter sounds like the English ''s'''k'''ew''. This is the same sound as the ''g'' in ''gítar''. This is almost the same sound as with ''kennari'' above, just without the small breath of air after the sound.
 ***tæ'''k'''i, ólí'''k'''ir, po'''k'''i, ban'''k'''i
 **{{listen|audio=YJEW.mp3}}At the end of words, or in the middle of words where the next letter is '''a''', '''á''', '''é''', '''o''', '''ó''', '''u''', '''ú''' or '''ö''', the letter sounds like the Icelandic '''''g''''' or like the English ''s'''k'''y''.
 ***ka'''k'''a, kó'''k''', rí'''k'''ur, bæ'''k'''ur
@@ -118,7 +118,7 @@ More letters:
 ***land, heili, gulur, lamb
 **But when it's at the end of sentences or next to certain consonants, it sounds like an '''''l''''' while whispering, while blowing extra air in the sides of the cheeks.
 ***hjálp, hjól, gult, salt
-**Double '''''l''''' most often sounds like '''''dl''''' where the first sound is like the Icelandic '''''d''''' or English ''s'''t'''and'', and the second sound is like the  '''''l''''' above (whispering, while blowing extra air in the sides of the cheeks).
+**Double '''''l''''' most often sounds like '''''dl''''' where the first sound is like the Icelandic '''''d''''' or English ''s'''t'''and'', and the second sound is like the '''''l''''' above (whispering, while blowing extra air in the sides of the cheeks).
 ***{{listen|full}}, {{listen|lítill}}, {{listen|allir}}, {{listen|jökull}}, {{listen|engill}}, {{listen|krókódíll}}
 **However, in some words '''''ll''''' just sounds like a normal '''''l'''''. Those words are either foreign or cute:
 ***{{listen|halló}}, {{listen|milljón}}, {{listen|brilljant}}, {{listen|bolla}}, {{listen|Solla}}, {{listen|Halli}}, núll

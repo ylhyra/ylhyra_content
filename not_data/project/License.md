@@ -1,9 +1,9 @@
 ---
 title: Project:License
 redirects:
--  Project/Copyrights
--  Project/Licence
--  Project/Licensing
+- Project/Copyrights
+- Project/Licence
+- Project/Licensing
 tags:
 - Ylhýra
 ---

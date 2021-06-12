@@ -22,4 +22,4 @@ Both phrases mean the same thing: "I wish you a good day".
 
 Notice how extremely soft the letter [[ð]] is pronounced in the word `góðan`. The tongue doesn't even touch the teeth, and the sound has almost completely disappeared.
 
-The letter [[g]] in the word `daginn` is pronounced like  the Icelandic '''''j''''' or the English '''''y'''es''. This always happens to the letter g when it is between a [[vowel]] and the letter [[i]].
+The letter [[g]] in the word `daginn` is pronounced like the Icelandic '''''j''''' or the English '''''y'''es''. This always happens to the letter g when it is between a [[vowel]] and the letter [[i]].

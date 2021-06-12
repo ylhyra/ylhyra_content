@@ -18,9 +18,9 @@ Margir hafa reynt að koma aftur upp skógum, en það er erfitt þar sem jarðv
 
 Lúpínan varð ekki mjög útbreidd fyrr en í kringum árið nítján hundruð og níutíu þegar fólk byrjaði að safna fræjum og dreifa þeim meðfram vegum og á sanda. Einhverjir köstuðu líka lúpínufræjum út úr flugvélum. Margir voru mjög bjartsýnir á að lúpínan myndi bjarga gróðri á Íslandi.
 
-Núna er lúpínan út um allt. Núll komma þrjú prósent landsins er ekkert nema lúpína, hún heldur áfram að dreifa úr sér og það er lítið hægt að gera til að stöðva hana. Hún vex svo hratt á vorin að hún skyggir á aðrar plöntur og þær hverfa. 
+Núna er lúpínan út um allt. Núll komma þrjú prósent landsins er ekkert nema lúpína, hún heldur áfram að dreifa úr sér og það er lítið hægt að gera til að stöðva hana. Hún vex svo hratt á vorin að hún skyggir á aðrar plöntur og þær hverfa.
 
-Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo falleg að þeim er alveg sama þó að hún taki yfir. 
+Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo falleg að þeim er alveg sama þó að hún taki yfir.
 </Book>
 
 <div class="notes">

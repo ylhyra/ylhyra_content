@@ -8,7 +8,7 @@ level: A2
 
 <div data-translate="true" data-audio-file="Vestmannaeyjar.mp3">
 {{audio|Vestmannaeyjar.mp3}}
-Fyrir sunnan Ísland eru eyjar sem heita Vestmannaeyjar. Það er hægt að komast þangað annaðhvort með báti eða flugvél. Það er auðvitað miklu ódýrara að fara með báti, það kostar bara eitt þúsund og sexhundruð krónur aðra leið. 
+Fyrir sunnan Ísland eru eyjar sem heita Vestmannaeyjar. Það er hægt að komast þangað annaðhvort með báti eða flugvél. Það er auðvitað miklu ódýrara að fara með báti, það kostar bara eitt þúsund og sexhundruð krónur aðra leið.
 
 {{image|Jonatan-pie-OagAyc1Eh10-unsplash.jpg}}
 
@@ -16,7 +16,7 @@ Margir fara til Vestmannaeyja til að skoða krúttlegu fuglana sem búa í klet
 
 {{image|Anders-nord-t8jBiJQx4eE-unsplash.jpg}}
 
-Árið 1973 varð stórt eldgos í Vestmannaeyjum. Helmingur allra húsa fór undir ösku. En bærinn var endurbyggður og nú búa fjögur þúsund manns í Vestmannaeyjum. 
+Árið 1973 varð stórt eldgos í Vestmannaeyjum. Helmingur allra húsa fór undir ösku. En bærinn var endurbyggður og nú búa fjögur þúsund manns í Vestmannaeyjum.
 </div>
 
 ==Next up==

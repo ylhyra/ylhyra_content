@@ -1,7 +1,7 @@
 ---
 title: Project:Collaborate
 redirects:
--  Project/Become a collaborator
+- Project/Become a collaborator
 ---
 
 Ylhýra is a collaborative project and encourages submissions of new material and suggestions for improvements of old material. You are also free to [[W:Fork (software development)|fork]] the non-third-party part of the site and republish on your own site. [mailto:ylhyra@ylhyra.is '''Send us an email'''] to get started.

@@ -2,10 +2,10 @@
 title: M
 ---
 
-The letter '''M''' can either represent a normal M sound or a breathy M sound. 
+The letter '''M''' can either represent a normal M sound or a breathy M sound.
 
 ==Normal M==
-In normal situations, M has the same sound as the English M. 
+In normal situations, M has the same sound as the English M.
 
 *'''m'''a'''mm'''a, u'''m''', '''m'''agi
 

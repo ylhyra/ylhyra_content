@@ -16,9 +16,9 @@ While English uses verbs that end in "-ing" to show what you're currently doing,
 *Ég er '''að læra'''. = I am '''learning'''. (or literally "I am to learn")
 *Ég er '''að gera''' það. = I am '''doing''' that. (or literally "I am to do that")
 
-Like in English, "Ég er að læra íslensku" (I am studying Icelandic) can either mean that it's what you're doing at this very moment, or more generally, that it's what you're doing these days. 
+Like in English, "Ég er að læra íslensku" (I am studying Icelandic) can either mean that it's what you're doing at this very moment, or more generally, that it's what you're doing these days.
 
-Note that the G in "gera" is not pronounced a normal G, instead it's pronounced [[G in the roof of the mouth|in the roof of the mouth]] {{listen|audio=7M7w.mp3}}, similar to the sound in the English word "''s'''k'''ew''".  It's not pronounced by closing your throat, instead it's pronounced with the backwards part of your tongue touching the roof of your mouth. This sound appears when a hard G sound is followed by letters such as "e" or "i" and a few others. Pronouncing this sound is easier if you imagine that the word "gera" is written as "g'''y'''era". 
+Note that the G in "gera" is not pronounced a normal G, instead it's pronounced [[G in the roof of the mouth|in the roof of the mouth]] {{listen|audio=7M7w.mp3}}, similar to the sound in the English word "''s'''k'''ew''". It's not pronounced by closing your throat, instead it's pronounced with the backwards part of your tongue touching the roof of your mouth. This sound appears when a hard G sound is followed by letters such as "e" or "i" and a few others. Pronouncing this sound is easier if you imagine that the word "gera" is written as "g'''y'''era".
 
 {{conversation|
 {{them|Hæ. Hvað segirðu gott?}}

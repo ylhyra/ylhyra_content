@@ -29,7 +29,7 @@ An [[adjective|'''adjective''']] can have 120 possible forms (although most of t
 *[[Strong and weak declension|does the word it describe have a "the" attached or not]]? (there are two possibilities)
 *[[Comparative|are we comparing it to something else]]? (there are three possibilities)
 
-The basic form of a '''[[verb]]''' has around 30 possible forms (and some more derived forms)<ref>Referring to the [[middle voice|middle voice]] and [[Past participle|past participle]] as derived forms.</ref> which indicate:
+The basic form of a '''[[verb]]''' has around 30 possible forms (and some more derived forms)<ref>Referring to the [[middle voice]] and [[past participle]] as derived forms.</ref> which indicate:
 
 *[[Tense|when is it happening]]? (there are two possibilities, either [[Present tense|now]] or in the [[Past tense|past]])
 *[[Person|you, me, he]]? (there are three possibilities)
@@ -40,7 +40,7 @@ The basic form of a '''[[verb]]''' has around 30 possible forms (and some more d
 == Learning inflections ==
 Learning the inflection patterns takes time. You should not worry too much about them for the first few months of your studies, it's better to focus on recognizing words. When you've become familiar with the meaning of words you should start to memorize the [[cases]] of some common words. Rote memorization is necessary for a few weeks, after that you will automatically start picking up on patterns in the texts you read. When reading, it's a good idea to [https://inflections.ylhyra.is/ look up] the inflections of the words you see.
 
-Inflecting incorrectly is usually okay when you're still at the [[A1]] level as in most cases people can figure out what you're trying to say, but inflecting incorrectly can often make you incomprehensible. 
+Inflecting incorrectly is usually okay when you're still at the [[A1]] level as in most cases people can figure out what you're trying to say, but inflecting incorrectly can often make you incomprehensible.
 
 ==Helpful links==
 

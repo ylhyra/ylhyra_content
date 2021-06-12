@@ -23,7 +23,7 @@ There is yet another thing that complicates adjectives. They have two different 
 
 *[[Strong declension]]. Exists for the regular form ("good") and the superlative form ("best"), but not the comparative form ("better"). This is the default declension form of the the regular form of adjectives.
 **`hér er góðu'''r''' maður` – Ends in a consonant, this is a strong declension.
-*[[Weak declension]]. Exists for all three degrees of comparison (regular ("good"), comparative ("better"), and superlative ("best")). For the regular form, this usually happens because the noun has a [[Definite article|definite article]].
+*[[Weak declension]]. Exists for all three degrees of comparison (regular ("good"), comparative ("better"), and superlative ("best")). For the regular form, this usually happens because the noun has a [[definite article]].
 **`hér er góð'''i''' maður'''inn'''` – Ends in a vowel in this case and in all cases, this is a weak declension.
 {{Parts of speech}}
 

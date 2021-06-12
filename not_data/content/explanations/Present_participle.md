@@ -6,9 +6,9 @@ license: CC0
 level: B1
 ---
 
-The '''present participle''' (''lýsingarháttur nútíðar'') is a [[verb]] form that describes something that is continually happening. This verb form is relatively rare – in almost all cases it's better to just use a simpler phrase. It is however one of the easiest verb forms to remember because it never changes forms – it looks the same for everyone. 
+The '''present participle''' (''lýsingarháttur nútíðar'') is a [[verb]] form that describes something that is continually happening. This verb form is relatively rare – in almost all cases it's better to just use a simpler phrase. It is however one of the easiest verb forms to remember because it never changes forms – it looks the same for everyone.
 
-In English, the present participle looks like "sing'''ing'''" but in Icelandic it looks like "syngj'''andi'''". Let's look at the two possible translations of the sentence "He is singing":  
+In English, the present participle looks like "sing'''ing'''" but in Icelandic it looks like "syngj'''andi'''". Let's look at the two possible translations of the sentence "He is singing":
 
 *You can use a regular [[infinitive]] form with: `Hann er '''að syngja'''.` This is by far the most common way of translating this. It indicates that the person is singing at this moment.
 *You can use the present participle: `Hann er '''syngjandi'''.` This is much less common. Just like the above, it also indicates the person is singing at this moment but it frames it more like something that is currently happening right this moment but will also be continuing to happen the next second. However, it's much better to just use "er að syngja" instead.

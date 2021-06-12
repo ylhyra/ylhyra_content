@@ -12,8 +12,8 @@ title: Project:Public domain
 **[https://timarit.is/page/4411587#page/n2/mode/2up Söknuður] (ljóð)
 * https://is.wikipedia.org/wiki/Gu%C3%B0mundur_Finnbogason, ritstjóri Skírnis
 * Erla góða Erla
-* https://is.wikipedia.org/wiki/Gu%C3%B0r%C3%BAn_H._Finnsd%C3%B3ttir 
-** Heimskringla, 
+* https://is.wikipedia.org/wiki/Gu%C3%B0r%C3%BAn_H._Finnsd%C3%B3ttir
+** Heimskringla,
 ** Tímarit Þjóðræknisfélagsins
 ** ''Hillingalönd'' (smásagnasafn)
 ** ''Dagshríðar spor'' (smásagnasafn)

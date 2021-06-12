@@ -26,9 +26,9 @@ Explanation:
 
 ***
 
-Ég fór í '''bílinn''' minn og fór svo í '''vinnuna'''  í '''bílnum''' mínum.
+Ég fór í '''bílinn''' minn og fór svo í '''vinnuna''' í '''bílnum''' mínum.
 
-Ég fór í '''_____ (bíllinn)''' minn og fór svo í '''_____ (vinnan)'''  í '''_____ (bíllinn)''' mínum.
+Ég fór í '''_____ (bíllinn)''' minn og fór svo í '''_____ (vinnan)''' í '''_____ (bíllinn)''' mínum.
 
 Explanation:
 

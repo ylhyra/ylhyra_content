@@ -87,7 +87,7 @@ Note that the hypothetical form does '''not''' appear if sentences are connected
 *þegar
 
 ==Politeness==
-The subjunctive is used when you want to be extra polite. You have to use the [[Past tense|past tense]], just like in the English "''Could'' I get some coffee?":
+The subjunctive is used when you want to be extra polite. You have to use the [[past tense]], just like in the English "''Could'' I get some coffee?":
 
 *'''Gæti''' ég fengið kaffi?
 *'''Værir''' þú til í að hætta þessu?
@@ -145,7 +145,7 @@ When learning the conjugation tables of the viðtengingarháttur, you add "I thi
 
 ==Miscallenous==
 
-*The viðtengingarháttur is slowly disappearing – many younger speakers (born after 1995) have a much weaker sense of this verb mood and will for some types of sentences use the regular verb mood in cases where older speakers (born before 1985) would have used viðtengingarháttur.  Young people still use it when describing hypothetical situations, but are less likely to use it in secondary sentences. For example, standard Icelandic is „Hann spurði mig hvað ég '''væri''' að læra“ but many people born after 1995 would say „Hann spurði mig hvað ég '''er''' að læra“.
+*The viðtengingarháttur is slowly disappearing – many younger speakers (born after 1995) have a much weaker sense of this verb mood and will for some types of sentences use the regular verb mood in cases where older speakers (born before 1985) would have used viðtengingarháttur. Young people still use it when describing hypothetical situations, but are less likely to use it in secondary sentences. For example, standard Icelandic is „Hann spurði mig hvað ég '''væri''' að læra“ but many people born after 1995 would say „Hann spurði mig hvað ég '''er''' að læra“.
 
 ===Similarity to other languages===
 
@@ -170,6 +170,6 @@ Forseti Indlands ___ (að segjast) ___ (að vera) spenntur fyrir geimfaraáætlu
 
 <!--'''References'''
 
-<ref>[https://skemman.is/bitstream/1946/7366/2/Lokaritgerd.pdf Notkun viðtengingarháttar í nútímaíslensku]. Hulda Óladóttir, 2011.</ref><ref>Höskuldur Þráinsson,  ''Íslensk tunga III'',  2005, p. 463-466. Cited by Hildur Ýr Ísberg in "''[https://skemman.is/bitstream/1946/7391/1/BAritgerd.pdf Viðtengingarháttur: Lifandi eða dauður?]''" (PDF), 2011 (Bachelor's thesis).</ref>{{reflist}}-->
+<ref>[https://skemman.is/bitstream/1946/7366/2/Lokaritgerd.pdf Notkun viðtengingarháttar í nútímaíslensku]. Hulda Óladóttir, 2011.</ref><ref>Höskuldur Þráinsson, ''Íslensk tunga III'', 2005, p. 463-466. Cited by Hildur Ýr Ísberg in "''[https://skemman.is/bitstream/1946/7391/1/BAritgerd.pdf Viðtengingarháttur: Lifandi eða dauður?]''" (PDF), 2011 (Bachelor's thesis).</ref>{{reflist}}-->
 </div>
 <references group="lower-alpha" />

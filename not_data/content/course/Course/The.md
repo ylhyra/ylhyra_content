@@ -4,9 +4,9 @@ title: Course/The
 
 In English, the word "'''the'''" is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the word ("hús'''ið'''"). The "the" is known as the [[w:Definite article|definite article]]. There is no "''a / an''" in Icelandic, "'''a''' house" is just "hús".
 
-The suffix for the "the" changes depending on a word's [[gender]], [[case]], and [[plurality]]. There are a total of 15 distinct forms it can have.<ref>The possible different suffixes (all of which just mean "the") are: ''-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in''.</ref> In this chapter we'll only learn the form used for the most basic form of nouns, which is the [[First case|first case]] in the [[singular]].
+The suffix for the "the" changes depending on a word's [[gender]], [[case]], and [[plurality]]. There are a total of 15 distinct forms it can have.<ref>The possible different suffixes (all of which just mean "the") are: ''-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in''.</ref> In this chapter we'll only learn the form used for the most basic form of nouns, which is the [[first case]] in the [[singular]].
 
-[[Masculine]] words have to end in "'''inn'''":<ref name=":0">In the  [[First case|first case]], [[singular]].</ref>
+[[Masculine]] words have to end in "'''inn'''":<ref name=":0">In the [[first case]], [[singular]].</ref>
 {| class="wikitable"
 |+
 !Word
@@ -133,7 +133,7 @@ Translate the following:
 * The coffee is good. = Kaffið er gott.
 * This coffee is good. = Þetta kaffi er gott.
 * This is the teacher. = Þetta er kennarinn.
-* The book is good. = Bókin er góð. 
+* The book is good. = Bókin er góð.
 * This is the hotel that I am on. = Þetta er hótelið sem ég er á.
 * The teacher is going to come. = Kennarinn ætlar að koma.<br />
 

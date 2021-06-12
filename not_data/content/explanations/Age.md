@@ -11,7 +11,7 @@ level: A1
 
 =Age=
 
-Ages are discussed in the fourth case ([[Genitive case|genitive case]] {{ef}}).
+Ages are discussed in the fourth case ([[genitive case]] {{ef}}).
 
 {| class="wikitable"
 !1 year

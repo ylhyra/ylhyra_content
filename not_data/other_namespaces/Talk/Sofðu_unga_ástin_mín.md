@@ -9,7 +9,7 @@ Sleep, my young love.
 Outside, the rain is weeping.
 Mother will hold on to your precious toys,
 an old bone from a lamb's leg and a box of toys. <!-- Völuskrín voru notuð til að geyma sauðarvölur, sem er smábein í hækli á sauðkind. Börn léku sér með sauðarvölur. -->
-Let's not stay awake in the dark nights. 
+Let's not stay awake in the dark nights.
 
 The darkness knows many things.
 My thoughts are heavy.
@@ -18,7 +18,7 @@ scorch <!-- destroy --> green fiields.
 In the glacier the cracks in the ice, deep as death, cry out.
 
 Sleep for long, sleep tight.
-It's best to wake up late. 
+It's best to wake up late.
 These troubles will soon teach you,
 as day turns to night,
 that people love, lose, cry, and mourn.

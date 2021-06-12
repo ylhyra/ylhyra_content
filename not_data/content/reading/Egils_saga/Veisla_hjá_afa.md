@@ -21,9 +21,9 @@ Afi Egils sér hann. „Egill! Af hverju kemurðu svona seint? Viltu ekki koma o
 
 „Jú takk“ svarar Egill og sest hjá afa sínum. Pabbi hans og bróðir hans sitja á móti honum.
 
-Veislan er stór og fólkið þar drekkur mikið. Egill semur ljóð um afa sinn og les það fyrir fólkið. 
+Veislan er stór og fólkið þar drekkur mikið. Egill semur ljóð um afa sinn og les það fyrir fólkið.
 
-„Vá!“ segir afi. „Þetta er alveg frábært ljóð. Takk, Egill minn.“ 
+„Vá!“ segir afi. „Þetta er alveg frábært ljóð. Takk, Egill minn.“
 
 Næsta dag gefur hann Agli þrjár skeljar og andaregg fyrir ljóðið. Egill er mjög ánægður með gjafirnar og semur ljóð um þær. Fólkið er mjög ánægt með ljóðin hans Egils.
 

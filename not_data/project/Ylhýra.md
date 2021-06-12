@@ -1,13 +1,13 @@
 ---
 title: Project:Ylhýra
 redirects:
--  Project
+- Project
 tags:
 - Ylhýra
 ---
 
 {{#addbodyclass:small_text}}
-Þetta er yfirlitssíðan fyrir Ylhýru. [mailto:egill@egill.xyz Sendu okkur tölvupóst] til að komast í samband<!--, það er líka til [https://discord.gg/4s6BH78 Discord rás] sem er að vísu ekki sú virkasta-->.  
+Þetta er yfirlitssíðan fyrir Ylhýru. [mailto:egill@egill.xyz Sendu okkur tölvupóst] til að komast í samband<!--, það er líka til [https://discord.gg/4s6BH78 Discord rás] sem er að vísu ekki sú virkasta-->.
 <!--==Virkir meðlimir==
 
 *Egill, hugbúnaður, efni
@@ -65,7 +65,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 ==Texti sem þarfnast þýðingar==
 
 *Núna:
-**[[Þorsteins þáttur stangarhöggs|Þorsteins þáttur stangarhöggs]] Búið að næstum því þýða tvo kafla, en þeir þarfnast yfirferðar
+**[[Þorsteins þáttur stangarhöggs]] Búið að næstum því þýða tvo kafla, en þeir þarfnast yfirferðar
 **[[Project:Drafts/Hannes_Hafstein/Stormur|Hannes Hafstein/Stormur]]
 **[[Vísur Vatnsenda-Rósu]]
 *Einhverntímann seinna: (þessir gömlu textar eru satt best að segja frekar leiðinlegir)
@@ -110,7 +110,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 ==Annað==
 
-*Forsíða: 
+*Forsíða:
 **Fleiri hlekki vantar á hlaðvörp og þessháttar.
 *Tengja inn BÍN
 *Course

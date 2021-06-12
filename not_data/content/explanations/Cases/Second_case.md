@@ -13,10 +13,10 @@ license: CC0
 
 {{a1|type=explanation}}
 
-There are four [[cases]] in Icelandic. The '''second case''' in the [[Declension table|declension table]] is known as the "accusative case".<ref>On Ylhýra we refer to it as the "second case" for simplicity's sake since you will always see these four cases listed in the same order in the [[Declension table|declension table]].<br />
-In Icelandic the first case is called '''þolfall''' and is abbreviated as '''þf.''' Þolfall literally means "suffering/enduring case". The English name "accusative" means "having been blamed" in Latin.</ref>  It shows that the word is having something done to it.
+There are four [[cases]] in Icelandic. The '''second case''' in the [[declension table]] is known as the "accusative case".<ref>On Ylhýra we refer to it as the "second case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].<br />
+In Icelandic the first case is called '''þolfall''' and is abbreviated as '''þf.''' Þolfall literally means "suffering/enduring case". The English name "accusative" means "having been blamed" in Latin.</ref> It shows that the word is having something done to it.
 
-The [[Helper word|helper word]] you use to force a word into the second case is „um“ ("about").
+The [[helper word]] you use to force a word into the second case is „um“ ("about").
 
 ==Things that cause the second case==
 The following [[prepositions]] always [[Prepositions that cause cases|cause]] the second case:
@@ -25,7 +25,7 @@ The following [[prepositions]] always [[Prepositions that cause cases|cause]] th
 *gegnum (through)
 *kringum (around)
 
-And these prepositions can either cause the second or the [[Third case|third case]] depending on context (click [[Prepositions that cause cases|here]] to see the difference):
+And these prepositions can either cause the second or the [[third case]] depending on context (click [[Prepositions that cause cases|here]] to see the difference):
 
 *á (onto)
 *eftir (after)

@@ -3,7 +3,7 @@ title: Course/How are you
 ---
 
 ==Hi==
-A simple greeting in Icelandic is: 
+A simple greeting in Icelandic is:
 
 *Hæ. = Hi.
 
@@ -14,9 +14,9 @@ After greeting someone, you then ask them how they are:
 
 *„Hvað segir þú gott?“ = How are you?
 
-The phrase literally means "What do you say that is good?". 
+The phrase literally means "What do you say that is good?".
 
-You can see several new things regarding pronunciation in this phrase: 
+You can see several new things regarding pronunciation in this phrase:
 
 *'''hv''' is always pronounced '''kv''', meaning "hvað" is pronounced /kvað/. The [[K]] sound {{listen|audio=8dpU.mp3}} in Icelandic has a slightly stronger outgoing breath of air (exhalation) than in English, if you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth after the K sound in "hvað", making a /kʰvað/.
 *The letter [[Ð|'''Ð'''/'''ð''']] is a [[D]] with a line through it, and it makes the sound of the English word "''<b>th</b>en''". It's a very soft letter, it's often so soft that it disappears completely. Indeed, in the word "hvað" it is so soft that it just disappears. We now see that "hvað" is pronounced /kʰva/.
@@ -45,16 +45,16 @@ There is only one possible response to the question "Hvað segirðu gott?" ("How
 
 Since "Hvað segirðu gott?" literally means "What do you say that is good?", the response "Allt gott" means that "Everything that I have to say is good".
 
-The pronunciation of the word "allt" is quite difficult. The [[Double L|double L]] here represents a [[Breathy L|breathy L]] sound, which is a whispery sort of L sound pronounced without using the voice. To pronounce it, you have to create turbulent airflow behind your [[w:Premolar|premolar teeth]] (the teeth that are next to your canine teeth). To do so you should make the tip of your tongue touch the roof of your mouth. Lift your tongue slightly so it comes close to touching your premolar teeth as well. Now blow air out of your mouth, directing it around your premolar teeth. 
+The pronunciation of the word "allt" is quite difficult. The [[double L]] here represents a [[breathy L]] sound, which is a whispery sort of L sound pronounced without using the voice. To pronounce it, you have to create turbulent airflow behind your [[w:Premolar|premolar teeth]] (the teeth that are next to your canine teeth). To do so you should make the tip of your tongue touch the roof of your mouth. Lift your tongue slightly so it comes close to touching your premolar teeth as well. Now blow air out of your mouth, directing it around your premolar teeth.
 
-As before, the word "gott" is pronounced with a [[Preaspiration|short outgoing breath]] before the ''tt'': /goʰtt/. 
+As before, the word "gott" is pronounced with a [[Preaspiration|short outgoing breath]] before the ''tt'': /goʰtt/.
 
-After you've said how you're feeling, you throw the question back to the other person: 
+After you've said how you're feeling, you throw the question back to the other person:
 
 *En þú? = But you?; But what about you?
 
 The other person can now reply in the same manner as you, "Allt gott", or they can just reply with a shorter "Gott."
- 
+
 Putting it all together, this is the conversation you will have a few thousand times in your life:
 
 {{conversation|

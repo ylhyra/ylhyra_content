@@ -8,7 +8,7 @@ Here you've read a simplified retelling of the chapters leading up to the climac
 
 The concept of honor plays a significant role in the story. If someone murders your family member, you must restore your family's honor, which usually implies murdering the murderer. However, then the family of the murderer has to murder you. The process then repeats and the back and forth bloodshed can last decades.
 
-Even being insulted can be sufficiently damaging to your reputation that you must get revenge. Such insults can be based on calling someone a coward, in ''Brennu-Njáls saga'' insults that are based on questioning someone's masculinity are particularly prominent. Worst of all are the insults suggesting that someone plays a passive role in a sexual relationship with other men, which was sufficiently insulting to Flosi that he refused the monetary compensation and burned down Njál's house with his family inside.    
+Even being insulted can be sufficiently damaging to your reputation that you must get revenge. Such insults can be based on calling someone a coward, in ''Brennu-Njáls saga'' insults that are based on questioning someone's masculinity are particularly prominent. Worst of all are the insults suggesting that someone plays a passive role in a sexual relationship with other men, which was sufficiently insulting to Flosi that he refused the monetary compensation and burned down Njál's house with his family inside.
 
 Njáll knows that he's too old to avenge the murder of his sons, so he chooses to die instead of living in shame.
 

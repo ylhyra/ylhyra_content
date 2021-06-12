@@ -3,7 +3,7 @@ title: Course/Going to
 ---
 
 ==I am going to do it==
-"Ég ætla" means "I intend to, I am going to, I plan to". This is a particularly useful word since in most interactions with other people you discuss what you're going to do today, this evening, or this week. 
+"Ég ætla" means "I intend to, I am going to, I plan to". This is a particularly useful word since in most interactions with other people you discuss what you're going to do today, this evening, or this week.
 
 You may remember that in the pronunciation of the word "gott" (good) you have to [[Preaspiration|exhale a little bit]] before the ''tt'' so that the word sounds like /go{{h}}tt/. That doesn't only happen before a ''tt'', it also happens before a ''tl'', meaning that the word "ætla" is pronounced /æ{{h}}tla/. If you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth. This short outgoing breath is extremely important, it can be impossible to understand you without it. For that reason, it is far better to exaggerate this sound significantly rather than not doing it enough.
 
@@ -19,7 +19,7 @@ You can see that the [[verb]] that comes after "ætla" is in the basic default s
 *Ég ætla '''að læra''' íslensku. = I plan '''to learn''' Icelandic, I intend '''to learn''' Icelandic.
 
 ==Today==
-"Í dag" means "today". The G in "dag" is a [[Soft G|soft G]], it's so soft that you should just skip it entirely like with the "g" in "ég".<ref>It can however appear as a [[Soft throaty G|soft throaty G]] if it's at the [[Voiceless at the end of sentences|end of a sentence]].</ref> 
+"Í dag" means "today". The G in "dag" is a [[soft G]], it's so soft that you should just skip it entirely like with the "g" in "ég".<ref>It can however appear as a [[soft throaty G]] if it's at the [[Voiceless at the end of sentences|end of a sentence]].</ref>
 
 *1|Hæ.
 *1|Hvað ætlar þú að gera í dag?
@@ -46,7 +46,7 @@ You can see that the [[verb]] that comes after "ætla" is in the basic default s
 ==Sounds good==
 When someone tells you their plans, a good way to answer is with "Það hljómar vel" ("That sounds good"). Notice that the phrase is literally "sounds well" (using "vel") but not "sounds good" (which would use "gott").
 
-The letters "hl" in "hljómar" represent only a single sound: the [[Breathy L|breathy L]]. There's no "H" sound in this word. The [[Breathy L|breathy L]] is the sound you recognize from the word "allt". The word "hljómar" starts with that sound and the word "vel" ends with that sound (because L sounds become breathy L sounds at the [[Voiceless at the end of sentences|end of a sentence]]).
+The letters "hl" in "hljómar" represent only a single sound: the [[breathy L]]. There's no "H" sound in this word. The [[breathy L]] is the sound you recognize from the word "allt". The word "hljómar" starts with that sound and the word "vel" ends with that sound (because L sounds become breathy L sounds at the [[Voiceless at the end of sentences|end of a sentence]]).
 
 * 1 Hvað ætlar þú að gera í dag?
 * 2 Ég ætla bara að læra.

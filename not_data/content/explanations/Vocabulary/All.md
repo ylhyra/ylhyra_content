@@ -6,7 +6,7 @@ title: Vocabulary/All
 |-
 ! Level !! Icelandic !! English
 |-
-| 1 || allt gott || All good 
+| 1 || allt gott || All good
 |-
 | 1 || ha? || what did you just say?
 |-
@@ -698,25 +698,25 @@ title: Vocabulary/All
 |-
 | 10 || endilega || by all means
 |-
-| 10 || hérna || here 
+| 10 || hérna || here
 |-
 | 10 || hvernig || how?
 |-
-| 10 || kærlega || dearly 
+| 10 || kærlega || dearly
 |-
 | 10 || lengi || for long
 |-
-| 10 || líka || also 
+| 10 || líka || also
 |-
-| 10 || meira || more 
+| 10 || meira || more
 |-
-| 10 || oft || often 
+| 10 || oft || often
 |-
 | 10 || sammála || in agreement
 |-
-| 10 || snemma || early 
+| 10 || snemma || early
 |-
-| 10 || svolítið || a little 
+| 10 || svolítið || a little
 |-
 | 10 || úti || outside
 |-
@@ -724,27 +724,27 @@ title: Vocabulary/All
 |-
 | 10 || yfir || over
 |-
-| 10 || alveg || entirely, completely 
+| 10 || alveg || entirely, completely
 |-
-| 10 || smá || a little 
+| 10 || smá || a little
 |-
 | 10 || hálfur || half
 |-
 | 10 || hratt || fast
 |-
-| 10 || óhollt || unhealthy 
+| 10 || óhollt || unhealthy
 |-
 | 10 || ótrúlegt || unbelievable
 |-
 | 10 || seint || late
 |-
-| 10 || svangur || hungry 
+| 10 || svangur || hungry
 |-
-| 10 || undarlegt || strange 
+| 10 || undarlegt || strange
 |-
-| 10 || vitlaus || silly 
+| 10 || vitlaus || silly
 |-
-| 10 || afmæli || a birthday 
+| 10 || afmæli || a birthday
 |-
 | 10 || bað || a bathtub; a bath
 |-
@@ -752,9 +752,9 @@ title: Vocabulary/All
 |-
 | 10 || bjór || a beer
 |-
-| 10 || djöfull || devil 
+| 10 || djöfull || devil
 |-
-| 10 || ferð || a trip 
+| 10 || ferð || a trip
 |-
 | 10 || fótur || a foot
 |-
@@ -786,15 +786,15 @@ title: Vocabulary/All
 |-
 | 10 || verkefni || a project
 |-
-| 10 || vín || wine 
+| 10 || vín || wine
 |-
-| 10 || vinkona || a friend 
+| 10 || vinkona || a friend
 |-
 | 10 || búa || to live
 |-
 | 10 || hugsa || to think
 |-
-| 10 || spila || to play 
+| 10 || spila || to play
 |-
 | 11 || eftir || after
 |-
@@ -812,7 +812,7 @@ title: Vocabulary/All
 |-
 | 11 || einu sinni || once
 |-
-| 11 || nú || now; so 
+| 11 || nú || now; so
 |-
 | 11 || sömuleiðis || Thanks, you too!, likewise
 |-
@@ -828,13 +828,13 @@ title: Vocabulary/All
 |-
 | 11 || síðast || last
 |-
-| 11 || svoleiðis || such 
+| 11 || svoleiðis || such
 |-
 | 11 || ungur || young
 |-
 | 11 || áramót || new year
 |-
-| 11 || bíómynd || a film 
+| 11 || bíómynd || a film
 |-
 | 11 || einkunn || a grade
 |-
@@ -852,11 +852,11 @@ title: Vocabulary/All
 |-
 | 11 || jarðarber || a strawberry
 |-
-| 11 || kerfi || a system 
+| 11 || kerfi || a system
 |-
 | 11 || króna || krona (the Icelandic currency)
 |-
-| 11 || nafn || a name 
+| 11 || nafn || a name
 |-
 | 11 || planta || a plant
 |-
@@ -866,7 +866,7 @@ title: Vocabulary/All
 |-
 | 11 || spítali || a hospital
 |-
-| 11 || staður || a place 
+| 11 || staður || a place
 |-
 | 11 || strætó || The bus
 |-
@@ -878,27 +878,27 @@ title: Vocabulary/All
 |-
 | 11 || auka || to increase
 |-
-| 11 || elda || to cook 
+| 11 || elda || to cook
 |-
-| 11 || fíla || to like 
+| 11 || fíla || to like
 |-
 | 11 || hafa || to have
 |-
-| 11 || henda || to throw 
+| 11 || henda || to throw
 |-
-| 11 || passar || to fit 
+| 11 || passar || to fit
 |-
 | 11 || rukka || to charge
 |-
-| 11 || sækja || to retrieve, to get 
+| 11 || sækja || to retrieve, to get
 |-
-| 11 || sjá || to see 
+| 11 || sjá || to see
 |-
-| 11 || trufla || to bother 
+| 11 || trufla || to bother
 |-
 | 11 || þekkjast || to be familiar with eachother
 |-
-| 12 || aðallega || mainly 
+| 12 || aðallega || mainly
 |-
 | 12 || hér || here
 |-
@@ -906,7 +906,7 @@ title: Vocabulary/All
 |-
 | 12 || reyndar || actually, as a matter of fact
 |-
-| 12 || satt || true 
+| 12 || satt || true
 |-
 | 12 || út || out
 |-
@@ -938,15 +938,15 @@ title: Vocabulary/All
 |-
 | 12 || brjóstahaldari || <small>(breast holder)</small> a bra
 |-
-| 12 || deit || a romantic date 
+| 12 || deit || a romantic date
 |-
 | 12 || ferðamenn || tourists
 |-
 | 12 || foreldrar || parents
 |-
-| 12 || formaður || director, chief 
+| 12 || formaður || director, chief
 |-
-| 12 || herbergi || a room 
+| 12 || herbergi || a room
 |-
 | 12 || hjól || a bicycle
 |-
@@ -954,9 +954,9 @@ title: Vocabulary/All
 |-
 | 12 || kynsjúkdómatékk || a test for sexually transmitted diseases
 |-
-| 12 || maður || a man 
+| 12 || maður || a man
 |-
-| 12 || möguleiki || a possibility 
+| 12 || möguleiki || a possibility
 |-
 | 12 || próf || an exam
 |-
@@ -966,7 +966,7 @@ title: Vocabulary/All
 |-
 | 12 || sandur || sand
 |-
-| 12 || skjár || a screen 
+| 12 || skjár || a screen
 |-
 | 12 || sól || sun
 |-
@@ -982,11 +982,11 @@ title: Vocabulary/All
 |-
 | 12 || vesen || trouble, inconvenience
 |-
-| 12 || gráta || to cry 
+| 12 || gráta || to cry
 |-
 | 12 || að heilsa || to greet someone
 |-
-| 12 || hjálpa || to help 
+| 12 || hjálpa || to help
 |-
 | 12 || horfa || to watch
 |-
@@ -996,13 +996,13 @@ title: Vocabulary/All
 |-
 | 12 || losna || to release
 |-
-| 12 || setjast || to sit 
+| 12 || setjast || to sit
 |-
 | 12 || standa || to stand
 |-
-| 12 || týna || to lose 
+| 12 || týna || to lose
 |-
-| 13 || loksins || finally 
+| 13 || loksins || finally
 |-
 | 13 || okkar || ours
 |-
@@ -1018,17 +1018,17 @@ title: Vocabulary/All
 |-
 | 13 || komdu sæl || Hello <small>(Come happily)</small>
 |-
-| 13 || sorrí || sorry 
+| 13 || sorrí || sorry
 |-
 | 13 || sumir || some
 |-
-| 13 || sumt || some 
+| 13 || sumt || some
 |-
 | 13 || dónalegt || rude
 |-
 | 13 || glæsilegt || magnificent
 |-
-| 13 || laus || free 
+| 13 || laus || free
 |-
 | 13 || nakinn || nude
 |-
@@ -1040,7 +1040,7 @@ title: Vocabulary/All
 |-
 | 13 || viss || to be certain, to be sure
 |-
-| 13 || þyrstur || thirsty 
+| 13 || þyrstur || thirsty
 |-
 | 13 || bíó || cinema
 |-
@@ -1058,11 +1058,11 @@ title: Vocabulary/All
 |-
 | 13 || hjón || a married couple
 |-
-| 13 || hljómsveit || a music band 
+| 13 || hljómsveit || a music band
 |-
 | 13 || hvítvín || white wine
 |-
-| 13 || jólafrí || christmas vacation 
+| 13 || jólafrí || christmas vacation
 |-
 | 13 || kennslustofa || a classroom
 |-
@@ -1074,11 +1074,11 @@ title: Vocabulary/All
 |-
 | 13 || saga || a story; history
 |-
-| 13 || salt || salt 
+| 13 || salt || salt
 |-
 | 13 || tré || a tree
 |-
-| 13 || unglingur || <small>(a youngling)</small> a teenager 
+| 13 || unglingur || <small>(a youngling)</small> a teenager
 |-
 | 13 || vindur || wind
 |-
@@ -1092,33 +1092,33 @@ title: Vocabulary/All
 |-
 | 13 || kostar || to cost
 |-
-| 13 || láta || to let 
+| 13 || láta || to let
 |-
 | 13 || lesa || to read
 |-
 | 13 || nota || to use
 |-
-| 13 || sýna || to show 
+| 13 || sýna || to show
 |-
 | 13 || þótt || although
 |-
-| 14 || ennþá || still 
+| 14 || ennþá || still
 |-
 | 14 || á meðan || during
 |-
-| 14 || niðri || down 
+| 14 || niðri || down
 |-
-| 14 || nógu || sufficiently 
+| 14 || nógu || sufficiently
 |-
-| 14 || samtals || total 
+| 14 || samtals || total
 |-
 | 14 || seinna || later
 |-
-| 14 || virkilega || very 
+| 14 || virkilega || very
 |-
-| 14 || vonandi || hopefully 
+| 14 || vonandi || hopefully
 |-
-| 14 || rosa || very 
+| 14 || rosa || very
 |-
 | 14 || sem sagt || Okay, so to sum up...
 |-
@@ -1126,7 +1126,7 @@ title: Vocabulary/All
 |-
 | 14 || báðir || both
 |-
-| 14 || fljótur || quick 
+| 14 || fljótur || quick
 |-
 | 14 || hár || tall
 |-
@@ -1134,15 +1134,15 @@ title: Vocabulary/All
 |-
 | 14 || mjúkt || soft
 |-
-| 14 || óvart || accidentally 
+| 14 || óvart || accidentally
 |-
-| 14 || svakalegt || incredible 
+| 14 || svakalegt || incredible
 |-
-| 14 || tilbúið || ready 
+| 14 || tilbúið || ready
 |-
 | 14 || þunnur || thin; hungover
 |-
-| 14 || álag || a burden 
+| 14 || álag || a burden
 |-
 | 14 || andlit || a face
 |-
@@ -1152,13 +1152,13 @@ title: Vocabulary/All
 |-
 | 14 || blað || a paper
 |-
-| 14 || dýr || an animal 
+| 14 || dýr || an animal
 |-
 | 14 || eyra || an ear
 |-
 | 14 || fingur || a finger
 |-
-| 14 || forrit || an application 
+| 14 || forrit || an application
 |-
 | 14 || forsíða || front page
 |-
@@ -1170,7 +1170,7 @@ title: Vocabulary/All
 |-
 | 14 || lakkrís || liqourice
 |-
-| 14 || nammi || candy 
+| 14 || nammi || candy
 |-
 | 14 || námskeið || a workshop
 |-
@@ -1188,11 +1188,11 @@ title: Vocabulary/All
 |-
 | 14 || smiður || a carpenter
 |-
-| 14 || stelpa || a girl 
+| 14 || stelpa || a girl
 |-
 | 14 || sykur || sugar
 |-
-| 14 || veisla || a party 
+| 14 || veisla || a party
 |-
 | 14 || að þykja || to find something to be, to regard something as
 |-
@@ -1200,31 +1200,31 @@ title: Vocabulary/All
 |-
 | 14 || bíða || to wait
 |-
-| 14 || hætta || to stop 
+| 14 || hætta || to stop
 |-
-| 14 || hlaupa || to run 
+| 14 || hlaupa || to run
 |-
 | 14 || senda || to send
 |-
-| 14 || sitja || to put 
+| 14 || sitja || to put
 |-
-| 15 || eiginlega || actually 
+| 15 || eiginlega || actually
 |-
 | 15 || örlítið || a tiny bit
 |-
 | 15 || sami || the same
 |-
-| 15 || strax || immediately 
+| 15 || strax || immediately
 |-
 | 15 || upp || up
 |-
-| 15 || uppi || upstairs 
+| 15 || uppi || upstairs
 |-
 | 15 || æði || <small>(a craze)</small> amazing
 |-
 | 15 || allavegana || at least; anyway
 |-
-| 15 || ekki málið || no problem 
+| 15 || ekki málið || no problem
 |-
 | 15 || hversu mikið? || how much?
 |-
@@ -1234,29 +1234,29 @@ title: Vocabulary/All
 |-
 | 15 || aðrir || other
 |-
-| 15 || enginn || nobody 
+| 15 || enginn || nobody
 |-
-| 15 || hinn || the other 
+| 15 || hinn || the other
 |-
 | 15 || feiminn || shy
 |-
-| 15 || hægt || slow 
+| 15 || hægt || slow
 |-
 | 15 || heill || whole
 |-
-| 15 || huggulegt || comfortable 
+| 15 || huggulegt || comfortable
 |-
 | 15 || margir || many
 |-
-| 15 || pottþétt || definitely 
+| 15 || pottþétt || definitely
 |-
 | 15 || spennandi || exciting
 |-
 | 15 || spenntur || excited
 |-
-| 15 || töff || cool 
+| 15 || töff || cool
 |-
-| 15 || vanur || used to 
+| 15 || vanur || used to
 |-
 | 15 || apótek || a pharmacy
 |-
@@ -1266,7 +1266,7 @@ title: Vocabulary/All
 |-
 | 15 || dagatal || a calander
 |-
-| 15 || draumur || a dream 
+| 15 || draumur || a dream
 |-
 | 15 || eyja || an island
 |-
@@ -1300,23 +1300,23 @@ title: Vocabulary/All
 |-
 | 15 || æfa || to practice
 |-
-| 15 || borga || to pay 
+| 15 || borga || to pay
 |-
 | 15 || breyta || to change
 |-
-| 15 || búa til || to make 
+| 15 || búa til || to make
 |-
 | 15 || geyma || to save
 |-
-| 16 || niður || down 
+| 16 || niður || down
 |-
-| 16 || nóg || enough 
+| 16 || nóg || enough
 |-
 | 16 || risa || huge
 |-
 | 16 || fram || forwards
 |-
-| 16 || innan í || inside 
+| 16 || innan í || inside
 |-
 | 16 || sjálfsagt || of course
 |-
@@ -1334,23 +1334,23 @@ title: Vocabulary/All
 |-
 | 16 || létt || easy; light, not heavy
 |-
-| 16 || mikið || much 
+| 16 || mikið || much
 |-
 | 16 || nýtt || new
 |-
 | 16 || pirrandi || annoying
 |-
-| 16 || vandræðalegt || embarassing 
+| 16 || vandræðalegt || embarassing
 |-
 | 16 || ýmislegt || various
 |-
-| 16 || bakpoki || a backpack 
+| 16 || bakpoki || a backpack
 |-
 | 16 || buxur || pants
 |-
 | 16 || eldhús || a kitchen
 |-
-| 16 || fangelsi || a prison 
+| 16 || fangelsi || a prison
 |-
 | 16 || garður || a garden
 |-
@@ -1358,17 +1358,17 @@ title: Vocabulary/All
 |-
 | 16 || gulrót || a carrot
 |-
-| 16 || heimsókn || a visit 
+| 16 || heimsókn || a visit
 |-
 | 16 || hellingur || a bunch, lots
 |-
-| 16 || helmingur || half 
+| 16 || helmingur || half
 |-
 | 16 || hópur || a group
 |-
 | 16 || kveðja || a greeting; farewell
 |-
-| 16 || listaverk || an artwork 
+| 16 || listaverk || an artwork
 |-
 | 16 || misskilningur || a misunderstanding
 |-
@@ -1388,31 +1388,31 @@ title: Vocabulary/All
 |-
 | 16 || stykki || a piece
 |-
-| 16 || víkingur || a viking 
+| 16 || víkingur || a viking
 |-
-| 16 || baka || to bake 
+| 16 || baka || to bake
 |-
-| 16 || banka || to knock 
+| 16 || banka || to knock
 |-
 | 16 || bjóða || to invite
 |-
-| 16 || elska || to love 
+| 16 || elska || to love
 |-
 | 16 || eyða || to delete
 |-
-| 16 || gá || to check 
+| 16 || gá || to check
 |-
 | 16 || hata || to hate
 |-
-| 16 || laga || to fix 
+| 16 || laga || to fix
 |-
-| 16 || að mæla með || to recommend 
+| 16 || að mæla með || to recommend
 |-
-| 16 || skoða || to inspect 
+| 16 || skoða || to inspect
 |-
 | 17 || hingað || to here
 |-
-| 17 || hvorki || neither 
+| 17 || hvorki || neither
 |-
 | 17 || fyrr || sooner
 |-
@@ -1434,13 +1434,13 @@ title: Vocabulary/All
 |-
 | 17 || stór || large
 |-
-| 17 || venjulegur || normal 
+| 17 || venjulegur || normal
 |-
-| 17 || afsökun || an exscuse 
+| 17 || afsökun || an exscuse
 |-
 | 17 || ávöxtur || fruit
 |-
-| 17 || bakarí || a bakery 
+| 17 || bakarí || a bakery
 |-
 | 17 || blýantur || a pencil
 |-
@@ -1460,7 +1460,7 @@ title: Vocabulary/All
 |-
 | 17 || ísskápur || a refrigerator
 |-
-| 17 || keppni || a competition 
+| 17 || keppni || a competition
 |-
 | 17 || kort || a map; a card
 |-
@@ -1486,15 +1486,15 @@ title: Vocabulary/All
 |-
 | 17 || viðskipti || business, business transactions
 |-
-| 17 || að prófa || to try 
+| 17 || að prófa || to try
 |-
 | 17 || að vekja || wake (someone) up
 |-
 | 17 || bakka || to back up
 |-
-| 17 || beygja || to bend 
+| 17 || beygja || to bend
 |-
-| 17 || gefast upp || to give up 
+| 17 || gefast upp || to give up
 |-
 | 17 || hringja || to call
 |-
@@ -1508,19 +1508,19 @@ title: Vocabulary/All
 |-
 | 17 || skilja || to understand
 |-
-| 17 || slökkva || to turn off 
+| 17 || slökkva || to turn off
 |-
 | 17 || svara || to answer, to reply
 |-
-| 17 || taka || to take 
+| 17 || taka || to take
 |-
-| 18 || í lagi || alright 
+| 18 || í lagi || alright
 |-
-| 18 || ógeðslega || <small>(disgustingly)</small> super 
+| 18 || ógeðslega || <small>(disgustingly)</small> super
 |-
-| 18 || sjaldan || rarely 
+| 18 || sjaldan || rarely
 |-
-| 18 || burt || away 
+| 18 || burt || away
 |-
 | 18 || inn || into; inside
 |-
@@ -1540,7 +1540,7 @@ title: Vocabulary/All
 |-
 | 18 || nýkominn || just arrived
 |-
-| 18 || nýr || new 
+| 18 || nýr || new
 |-
 | 18 || þreyttur || tired
 |-
@@ -1550,11 +1550,11 @@ title: Vocabulary/All
 |-
 | 18 || byrjun || a start
 |-
-| 18 || drasl || junk 
+| 18 || drasl || junk
 |-
 | 18 || eiginmaður || husband
 |-
-| 18 || fiskur || a fish 
+| 18 || fiskur || a fish
 |-
 | 18 || frænka || aunt, female cousin
 |-
@@ -1576,9 +1576,9 @@ title: Vocabulary/All
 |-
 | 18 || leikskólakennari || a kindergarten teacher
 |-
-| 18 || ljóð || a poem 
+| 18 || ljóð || a poem
 |-
-| 18 || myndband || a video 
+| 18 || myndband || a video
 |-
 | 18 || pakki || a package
 |-
@@ -1592,15 +1592,15 @@ title: Vocabulary/All
 |-
 | 18 || sturta || a shower
 |-
-| 18 || varalitur || lipstick 
+| 18 || varalitur || lipstick
 |-
-| 18 || villa || an error 
+| 18 || villa || an error
 |-
-| 18 || leggjast || to lie down 
+| 18 || leggjast || to lie down
 |-
-| 18 || drekka || to drink 
+| 18 || drekka || to drink
 |-
-| 18 || drífa || to hurry 
+| 18 || drífa || to hurry
 |-
 | 18 || að hafa efni á || to be able to afford something
 |-
@@ -1608,31 +1608,31 @@ title: Vocabulary/All
 |-
 | 18 || keyra || to drive
 |-
-| 18 || klára || to finish 
+| 18 || klára || to finish
 |-
 | 18 || liggja || to be lying down
 |-
-| 18 || að missa af || to miss 
+| 18 || að missa af || to miss
 |-
-| 18 || njóta || enjoy 
+| 18 || njóta || enjoy
 |-
 | 19 || á hinn || <small>(on the other)</small> on the day after tomorrow
 |-
 | 19 || annað hvort || either
 |-
-| 19 || margt || many 
+| 19 || margt || many
 |-
-| 19 || rólega || calmly 
+| 19 || rólega || calmly
 |-
-| 19 || dálítið || a little bit 
+| 19 || dálítið || a little bit
 |-
 | 19 || frítt || free, without cost
 |-
-| 19 || pínu || a little (bit) 
+| 19 || pínu || a little (bit)
 |-
 | 19 || mörgum sinnum || many times
 |-
-| 19 || sitthvort || seperately 
+| 19 || sitthvort || seperately
 |-
 | 19 || asnalegt || foolish, lame
 |-
@@ -1640,17 +1640,17 @@ title: Vocabulary/All
 |-
 | 19 || öðruvísi || different
 |-
-| 19 || ólöglegt || illegal 
+| 19 || ólöglegt || illegal
 |-
 | 19 || reiður || angry
 |-
-| 19 || ríkur || rich 
+| 19 || ríkur || rich
 |-
 | 19 || slökkt || off
 |-
 | 19 || þægilegt || comfortable
 |-
-| 19 || þungt || heavy 
+| 19 || þungt || heavy
 |-
 | 19 || sárt || hurt, painful
 |-
@@ -1660,15 +1660,15 @@ title: Vocabulary/All
 |-
 | 19 || bolur || a t-shirt
 |-
-| 19 || fyrirtæki || a company 
+| 19 || fyrirtæki || a company
 |-
-| 19 || handleggur || an arm 
+| 19 || handleggur || an arm
 |-
 | 19 || hringur || a ring
 |-
 | 19 || íbúð || an apartment
 |-
-| 19 || ísbúð || an icecream shop 
+| 19 || ísbúð || an icecream shop
 |-
 | 19 || karl || a man, a male
 |-
@@ -1692,13 +1692,13 @@ title: Vocabulary/All
 |-
 | 19 || smjör || butter
 |-
-| 19 || starf || a job 
+| 19 || starf || a job
 |-
 | 19 || stemning || ambience
 |-
 | 19 || stuð || excitement
 |-
-| 19 || súpa || soup 
+| 19 || súpa || soup
 |-
 | 19 || uppþvottavél || a dish washer
 |-
@@ -1714,7 +1714,7 @@ title: Vocabulary/All
 |-
 | 19 || lána || to lend
 |-
-| 19 || opna || open 
+| 19 || opna || open
 |-
 | 19 || pissa || to pee
 |-
@@ -1724,21 +1724,21 @@ title: Vocabulary/All
 |-
 | 20 || algjörlega || absolutely
 |-
-| 20 || bráðum || soon 
+| 20 || bráðum || soon
 |-
 | 20 || í fyrradag || the day before yesterday
 |-
 | 20 || hátt || loud
 |-
-| 20 || líklega || likely 
+| 20 || líklega || likely
 |-
 | 20 || nálægt || close
 |-
-| 20 || persónulega || personally 
+| 20 || persónulega || personally
 |-
 | 20 || sirka || circa
 |-
-| 20 || skiljanlega || understandably 
+| 20 || skiljanlega || understandably
 |-
 | 20 || tvisvar || twice
 |-
@@ -1750,7 +1750,7 @@ title: Vocabulary/All
 |-
 | 20 || öfugt || backwards
 |-
-| 20 || þungur || heavy 
+| 20 || þungur || heavy
 |-
 | 20 || blaðsíða || a page
 |-
@@ -1758,11 +1758,11 @@ title: Vocabulary/All
 |-
 | 20 || gaffall || a fork
 |-
-| 20 || gat || a hole 
+| 20 || gat || a hole
 |-
 | 20 || hafragrautur || oatmeal
 |-
-| 20 || haust || a fall 
+| 20 || haust || a fall
 |-
 | 20 || klipping || a haircut
 |-
@@ -1770,13 +1770,13 @@ title: Vocabulary/All
 |-
 | 20 || leyti || approximate time
 |-
-| 20 || lykt || a smell 
+| 20 || lykt || a smell
 |-
 | 20 || ofn || an oven; a radiator
 |-
 | 20 || örbylgjuofn || a microwave oven
 |-
-| 20 || regla || a rule 
+| 20 || regla || a rule
 |-
 | 20 || skák || chess
 |-
@@ -1786,7 +1786,7 @@ title: Vocabulary/All
 |-
 | 20 || söngvari || a singer
 |-
-| 20 || staðfesting || a confirmation 
+| 20 || staðfesting || a confirmation
 |-
 | 20 || stæði || a space
 |-
@@ -1798,13 +1798,13 @@ title: Vocabulary/All
 |-
 | 20 || athuga || to check
 |-
-| 20 || berjast || to fight 
+| 20 || berjast || to fight
 |-
-| 20 || færa || to move something 
+| 20 || færa || to move something
 |-
 | 20 || fatta || to realize
 |-
-| 20 || giftast || to marry 
+| 20 || giftast || to marry
 |-
 | 20 || hverfa || to disappear
 |-
@@ -1812,7 +1812,7 @@ title: Vocabulary/All
 |-
 | 20 || leita || to search for
 |-
-| 20 || ná || to acheive, to get 
+| 20 || ná || to acheive, to get
 |-
 | 20 || plana || to plan
 |-
@@ -1822,9 +1822,9 @@ title: Vocabulary/All
 |-
 | 20 || að skipta máli || to matter
 |-
-| 21 || aðal || main 
+| 21 || aðal || main
 |-
-| 21 || smám saman || little by little 
+| 21 || smám saman || little by little
 |-
 | 21 || þar || over there
 |-
@@ -1834,15 +1834,15 @@ title: Vocabulary/All
 |-
 | 21 || blautt || wet
 |-
-| 21 || fínn || fine 
+| 21 || fínn || fine
 |-
-| 21 || gleðilegt || merry 
+| 21 || gleðilegt || merry
 |-
 | 21 || hlýr || warm
 |-
 | 21 || hrikalegt || terrible
 |-
-| 21 || ósáttur || dissatisfied 
+| 21 || ósáttur || dissatisfied
 |-
 | 21 || slæmt || bad
 |-
@@ -1864,13 +1864,13 @@ title: Vocabulary/All
 |-
 | 21 || gella || a chick, a babe, a gal
 |-
-| 21 || grill || a grill 
+| 21 || grill || a grill
 |-
 | 21 || gúrka || a cucumber
 |-
 | 21 || hitastig || temperature
 |-
-| 21 || hlé || a break, an intermission 
+| 21 || hlé || a break, an intermission
 |-
 | 21 || leikari || an actress
 |-
@@ -1878,11 +1878,11 @@ title: Vocabulary/All
 |-
 | 21 || litur || a color
 |-
-| 21 || pæling || a thought 
+| 21 || pæling || a thought
 |-
 | 21 || pása || a break, a pause
 |-
-| 21 || poki || a plastic bag 
+| 21 || poki || a plastic bag
 |-
 | 21 || rotta || a rat
 |-
@@ -1892,11 +1892,11 @@ title: Vocabulary/All
 |-
 | 21 || tímarit || a magazine
 |-
-| 21 || tunga || a tongue 
+| 21 || tunga || a tongue
 |-
 | 21 || vírus || a virus
 |-
-| 21 || að fá sér || to have some 
+| 21 || að fá sér || to have some
 |-
 | 21 || leggja bíl || to park a car
 |-
@@ -1908,23 +1908,23 @@ title: Vocabulary/All
 |-
 | 21 || búast || to expect
 |-
-| 21 || grilla || to grill 
+| 21 || grilla || to grill
 |-
-| 21 || labba || to walk 
+| 21 || labba || to walk
 |-
-| 21 || læsa || to lock 
+| 21 || læsa || to lock
 |-
 | 21 || lítast á || to like something
 |-
 | 21 || panta || to order
 |-
-| 21 || steikja || to fry 
+| 21 || steikja || to fry
 |-
-| 21 || styðja || to support 
+| 21 || styðja || to support
 |-
 | 21 || svekk || frustrating
 |-
-| 21 || taka til || to tidy up 
+| 21 || taka til || to tidy up
 |-
 | 22 || á móti || against
 |-
@@ -1932,15 +1932,15 @@ title: Vocabulary/All
 |-
 | 22 || hægt || possible
 |-
-| 22 || líkt || similar 
+| 22 || líkt || similar
 |-
-| 22 || reglulega || regularly 
+| 22 || reglulega || regularly
 |-
-| 22 || rosalega || very 
+| 22 || rosalega || very
 |-
 | 22 || úps || oops
 |-
-| 22 || meiddur || hurt 
+| 22 || meiddur || hurt
 |-
 | 22 || sérstakt || special
 |-
@@ -1948,7 +1948,7 @@ title: Vocabulary/All
 |-
 | 22 || stressaður || stressed
 |-
-| 22 || syfjaður || sleepy 
+| 22 || syfjaður || sleepy
 |-
 | 22 || áhyggjur || worries
 |-
@@ -1964,11 +1964,11 @@ title: Vocabulary/All
 |-
 | 22 || hrísgrjón || rice
 |-
-| 22 || hurð || a door 
+| 22 || hurð || a door
 |-
 | 22 || jörð || earth
 |-
-| 22 || lán || a loan 
+| 22 || lán || a loan
 |-
 | 22 || leikskóli || kindergarten
 |-
@@ -1990,7 +1990,7 @@ title: Vocabulary/All
 |-
 | 22 || rúta || a coach, a bus
 |-
-| 22 || símtal || a phone call 
+| 22 || símtal || a phone call
 |-
 | 22 || sjúkraþjálfari || a physiotherapist
 |-
@@ -2002,7 +2002,7 @@ title: Vocabulary/All
 |-
 | 22 || sundföt || swim wear
 |-
-| 22 || sýning || a show 
+| 22 || sýning || a show
 |-
 | 22 || vor || spring
 |-
@@ -2014,21 +2014,21 @@ title: Vocabulary/All
 |-
 | 22 || batna || to improve
 |-
-| 22 || flýta || to hurry 
+| 22 || flýta || to hurry
 |-
-| 22 || leyfa || to let 
+| 22 || leyfa || to let
 |-
 | 22 || nenna || to feel like doing something
 |-
 | 22 || stækka || to grow larger
 |-
-| 22 || telja || to count 
+| 22 || telja || to count
 |-
 | 22 || versla || to shop
 |-
 | 23 || fáir || fewer
 |-
-| 23 || nákvæmlega || exactly 
+| 23 || nákvæmlega || exactly
 |-
 | 23 || sérstaklega || especially
 |-
@@ -2040,7 +2040,7 @@ title: Vocabulary/All
 |-
 | 23 || duglegur || hard-working
 |-
-| 23 || þurrt || dry 
+| 23 || þurrt || dry
 |-
 | 23 || appelsína || an orange
 |-
@@ -2054,17 +2054,17 @@ title: Vocabulary/All
 |-
 | 23 || blóm || a flower
 |-
-| 23 || bolti || a ball 
+| 23 || bolti || a ball
 |-
-| 23 || djamm || party 
+| 23 || djamm || party
 |-
 | 23 || einkenni || a symptom
 |-
-| 23 || hálfviti || moron 
+| 23 || hálfviti || moron
 |-
 | 23 || hljóðfæri || instrument
 |-
-| 23 || jarðarför || <small>(an earth going)</small> a funeral 
+| 23 || jarðarför || <small>(an earth going)</small> a funeral
 |-
 | 23 || kanna || a jug; a coffeepot
 |-
@@ -2080,7 +2080,7 @@ title: Vocabulary/All
 |-
 | 23 || snjór || snow
 |-
-| 23 || sokkabuxur || tights 
+| 23 || sokkabuxur || tights
 |-
 | 23 || sokkar || socks
 |-
@@ -2092,13 +2092,13 @@ title: Vocabulary/All
 |-
 | 23 || svimi || dizziness
 |-
-| 23 || umræða || a discussion 
+| 23 || umræða || a discussion
 |-
 | 23 || þjálfari || a trainer
 |-
 | 23 || að kannast við || to recognize
 |-
-| 23 || ákvað || decided 
+| 23 || ákvað || decided
 |-
 | 23 || beila || to bail [slang]
 |-
@@ -2112,7 +2112,7 @@ title: Vocabulary/All
 |-
 | 23 || að reikna || to calculate
 |-
-| 23 || selja || to sell 
+| 23 || selja || to sell
 |-
 | 23 || að slaka á || to relax
 |-
@@ -2122,37 +2122,37 @@ title: Vocabulary/All
 |-
 | 23 || steingleymdi || forgot
 |-
-| 23 || útskýra || explain 
+| 23 || útskýra || explain
 |-
-| 23 || virka || to work 
+| 23 || virka || to work
 |-
 | 24 || náttúrulega || naturally
 |-
 | 24 || sjúklega || <small>(morbidly)</small> extremely
 |-
-| 24 || fyrra || last year 
+| 24 || fyrra || last year
 |-
 | 24 || hættulegt || dangerous
 |-
 | 24 || hræddur || afraid (male)
 |-
-| 24 || latur || lazy 
+| 24 || latur || lazy
 |-
 | 24 || ókeypis || free
 |-
-| 24 || sorglegt || sad 
+| 24 || sorglegt || sad
 |-
-| 24 || sterkur || strong 
+| 24 || sterkur || strong
 |-
 | 24 || ást || love
 |-
-| 24 || ástæða || a reason 
+| 24 || ástæða || a reason
 |-
 | 24 || átt || direction
 |-
 | 24 || bak || a back
 |-
-| 24 || ber || a berry 
+| 24 || ber || a berry
 |-
 | 24 || bóndi || a farmer
 |-
@@ -2164,19 +2164,19 @@ title: Vocabulary/All
 |-
 | 24 || gólf || floor
 |-
-| 24 || hátíð || a festival 
+| 24 || hátíð || a festival
 |-
-| 24 || heimur || a world 
+| 24 || heimur || a world
 |-
-| 24 || kafli || a chapter 
+| 24 || kafli || a chapter
 |-
-| 24 || kirkja || a church 
+| 24 || kirkja || a church
 |-
 | 24 || kuldi || cold weather, coldness
 |-
 | 24 || læknir || a doctor
 |-
-| 24 || lás || a lock 
+| 24 || lás || a lock
 |-
 | 24 || mistök || a mistake
 |-
@@ -2186,7 +2186,7 @@ title: Vocabulary/All
 |-
 | 24 || rithöfundur || a writer
 |-
-| 24 || rugl || gibberish 
+| 24 || rugl || gibberish
 |-
 | 24 || samband || a relationship
 |-
@@ -2208,17 +2208,17 @@ title: Vocabulary/All
 |-
 | 24 || vakt || a shift
 |-
-| 24 || veggur || a wall 
+| 24 || veggur || a wall
 |-
 | 24 || verkfræðingur || an engineer
 |-
-| 24 || fylla || fill 
+| 24 || fylla || fill
 |-
 | 24 || hrósa || to congratulate
 |-
 | 24 || kallast || to be called
 |-
-| 24 || klifra || to climb 
+| 24 || klifra || to climb
 |-
 | 24 || sýnast || to seem to be
 |-
@@ -2228,9 +2228,9 @@ title: Vocabulary/All
 |-
 | 25 || algjört || absolute
 |-
-| 25 || einhvers staðar || some way 
+| 25 || einhvers staðar || some way
 |-
-| 25 || greinilega || obviously 
+| 25 || greinilega || obviously
 |-
 | 25 || hægri || right (direction)
 |-
@@ -2240,7 +2240,7 @@ title: Vocabulary/All
 |-
 | 25 || óþarfi || unnecessary
 |-
-| 25 || svaka || very 
+| 25 || svaka || very
 |-
 | 25 || það var ekkert || <small>(That was nothing)</small> You're welcome, No worries
 |-
@@ -2248,21 +2248,21 @@ title: Vocabulary/All
 |-
 | 25 || bjart || bright
 |-
-| 25 || fastur || stuck 
+| 25 || fastur || stuck
 |-
-| 25 || fyrstur || first 
+| 25 || fyrstur || first
 |-
-| 25 || hrifinn || attracted to 
+| 25 || hrifinn || attracted to
 |-
-| 25 || kjánalegt || silly 
+| 25 || kjánalegt || silly
 |-
 | 25 || líkur || similar, alike
 |-
 | 25 || rauður || red
 |-
-| 25 || samkvæmt || according to 
+| 25 || samkvæmt || according to
 |-
-| 25 || villtur || lost; wild 
+| 25 || villtur || lost; wild
 |-
 | 25 || brauð || bread
 |-
@@ -2276,7 +2276,7 @@ title: Vocabulary/All
 |-
 | 25 || gler || glass
 |-
-| 25 || grín || joke 
+| 25 || grín || joke
 |-
 | 25 || haf || a sea
 |-
@@ -2288,7 +2288,7 @@ title: Vocabulary/All
 |-
 | 25 || leti || laziness
 |-
-| 25 || listi || a list 
+| 25 || listi || a list
 |-
 | 25 || lögfræðingur || a lawyer
 |-
@@ -2298,21 +2298,21 @@ title: Vocabulary/All
 |-
 | 25 || steik || steak
 |-
-| 25 || þjóð || a nation 
+| 25 || þjóð || a nation
 |-
-| 25 || þakkir || thanks 
+| 25 || þakkir || thanks
 |-
 | 25 || draga || to drag
 |-
 | 25 || fela || to hide
 |-
-| 25 || kalla || to call 
+| 25 || kalla || to call
 |-
 | 25 || kúra || to cuddle
 |-
 | 25 || ljúga || to lie
 |-
-| 25 || loka || to close 
+| 25 || loka || to close
 |-
 | 25 || rölta || to stroll
 |-
@@ -2322,13 +2322,13 @@ title: Vocabulary/All
 |-
 | 26 || aftur || again
 |-
-| 26 || kringum || around 
+| 26 || kringum || around
 |-
 | 26 || skyndilega || suddenly
 |-
 | 26 || klikkað || <small>(crazy)</small> awesome
 |-
-| 26 || dökkt || dark 
+| 26 || dökkt || dark
 |-
 | 26 || grannur || thin
 |-
@@ -2342,21 +2342,21 @@ title: Vocabulary/All
 |-
 | 26 || ananas || a pineapple
 |-
-| 26 || athygli || attention 
+| 26 || athygli || attention
 |-
-| 26 || biðröð || a queue 
+| 26 || biðröð || a queue
 |-
 | 26 || fimleikar || gymnastics
 |-
 | 26 || hávaði || noise
 |-
-| 26 || hönnun || design 
+| 26 || hönnun || design
 |-
 | 26 || hor || snot, bugger
 |-
 | 26 || kex || a cookie
 |-
-| 26 || kind || a sheep 
+| 26 || kind || a sheep
 |-
 | 26 || kjöt || meat
 |-
@@ -2370,15 +2370,15 @@ title: Vocabulary/All
 |-
 | 26 || lyf || medicine, medication
 |-
-| 26 || miðja || middle 
+| 26 || miðja || middle
 |-
 | 26 || núðlur || noodles
 |-
 | 26 || önd || a duck
 |-
-| 26 || pottur || a pot 
+| 26 || pottur || a pot
 |-
-| 26 || rannsókn || a research project 
+| 26 || rannsókn || a research project
 |-
 | 26 || réttur || a right
 |-
@@ -2386,7 +2386,7 @@ title: Vocabulary/All
 |-
 | 26 || sítróna || a lemon
 |-
-| 26 || tæki || a machine 
+| 26 || tæki || a machine
 |-
 | 26 || tannkrem || toothpaste
 |-
@@ -2406,15 +2406,15 @@ title: Vocabulary/All
 |-
 | 26 || leggja || to lay; to park
 |-
-| 26 || aðstoða || to assist 
+| 26 || aðstoða || to assist
 |-
 | 26 || auglýsa || advertise
 |-
-| 26 || djamma || to go out partying 
+| 26 || djamma || to go out partying
 |-
-| 26 || kvarta || to complain 
+| 26 || kvarta || to complain
 |-
-| 26 || kveikja || to light, to ignite; to turn on 
+| 26 || kveikja || to light, to ignite; to turn on
 |-
 | 27 || móti || against
 |-
@@ -2422,11 +2422,11 @@ title: Vocabulary/All
 |-
 | 27 || blindur || blind
 |-
-| 27 || djúpur || deep 
+| 27 || djúpur || deep
 |-
 | 27 || jafn || equal, same
 |-
-| 27 || mjór || skinny 
+| 27 || mjór || skinny
 |-
 | 27 || nákvæmt || exact
 |-
@@ -2438,11 +2438,11 @@ title: Vocabulary/All
 |-
 | 27 || bygging || a building
 |-
-| 27 || drengur || a son 
+| 27 || drengur || a son
 |-
 | 27 || ferðalag || journey
 |-
-| 27 || flaska || a bottle 
+| 27 || flaska || a bottle
 |-
 | 27 || gull || gold
 |-
@@ -2472,7 +2472,7 @@ title: Vocabulary/All
 |-
 | 27 || stormur || a big storm
 |-
-| 27 || strönd || a beach 
+| 27 || strönd || a beach
 |-
 | 27 || svartur || black
 |-
@@ -2490,9 +2490,9 @@ title: Vocabulary/All
 |-
 | 27 || blæða || to bleed
 |-
-| 27 || detta || to fall 
+| 27 || detta || to fall
 |-
-| 27 || drepa || to kill 
+| 27 || drepa || to kill
 |-
 | 27 || frosið || frozen
 |-
@@ -2500,21 +2500,21 @@ title: Vocabulary/All
 |-
 | 27 || passa || to fit; to take care of, to babysit
 |-
-| 27 || rata || to know the way 
+| 27 || rata || to know the way
 |-
 | 27 || skrifa || to write
 |-
 | 27 || smakka || to taste
 |-
-| 27 || taka til baka || take back 
+| 27 || taka til baka || take back
 |-
 | 27 || þora || to dare
 |-
 | 28 || á bak við || behind
 |-
-| 28 || fáránlega || ridiculous 
+| 28 || fáránlega || ridiculous
 |-
-| 28 || samferða || together 
+| 28 || samferða || together
 |-
 | 28 || voða || very
 |-
@@ -2524,23 +2524,23 @@ title: Vocabulary/All
 |-
 | 28 || ábyrgur || responsible
 |-
-| 28 || ágætur || okay, adequate 
+| 28 || ágætur || okay, adequate
 |-
 | 28 || brúnn || brown
 |-
-| 28 || heilbrigður || healthy 
+| 28 || heilbrigður || healthy
 |-
 | 28 || ljóshærð || blonde
 |-
-| 28 || ljúft || sweet, kind 
+| 28 || ljúft || sweet, kind
 |-
-| 28 || myndarlegur || handsome 
+| 28 || myndarlegur || handsome
 |-
 | 28 || ólétt || pregnant
 |-
 | 28 || bátur || a boat
 |-
-| 28 || baun || a bean 
+| 28 || baun || a bean
 |-
 | 28 || bekkjarbróðir || a classmate (male)
 |-
@@ -2550,7 +2550,7 @@ title: Vocabulary/All
 |-
 | 28 || biti || a bite
 |-
-| 28 || bréf || a letter 
+| 28 || bréf || a letter
 |-
 | 28 || bull || nonsense
 |-
@@ -2560,7 +2560,7 @@ title: Vocabulary/All
 |-
 | 28 || handrit || a script
 |-
-| 28 || helvíti || hell 
+| 28 || helvíti || hell
 |-
 | 28 || hiti || heat
 |-
@@ -2570,7 +2570,7 @@ title: Vocabulary/All
 |-
 | 28 || laukur || an onion
 |-
-| 28 || lest || a train 
+| 28 || lest || a train
 |-
 | 28 || lögmaður || an attorney
 |-
@@ -2582,7 +2582,7 @@ title: Vocabulary/All
 |-
 | 28 || viðtal || an interview
 |-
-| 28 || vínber || a grape 
+| 28 || vínber || a grape
 |-
 | 28 || vöðvi || a muscle
 |-
@@ -2592,15 +2592,15 @@ title: Vocabulary/All
 |-
 | 28 || bjarga || to save
 |-
-| 28 || brosa || to smile 
+| 28 || brosa || to smile
 |-
-| 28 || deila || to share; to divide 
+| 28 || deila || to share; to divide
 |-
 | 28 || enda || to end
 |-
-| 28 || fylgja || to follow 
+| 28 || fylgja || to follow
 |-
-| 28 || snúa || turn 
+| 28 || snúa || turn
 |-
 | 28 || stilla || to adjust
 |-
@@ -2608,17 +2608,17 @@ title: Vocabulary/All
 |-
 | 28 || vaska upp || wash the dishes
 |-
-| 29 || einhvern veginn || some way 
+| 29 || einhvern veginn || some way
 |-
 | 29 || fljótlega || <small>(quickly)</small> soon
 |-
-| 29 || fram hjá || past 
+| 29 || fram hjá || past
 |-
 | 29 || hart || hard, solid
 |-
-| 29 || sannarlega || truly 
+| 29 || sannarlega || truly
 |-
-| 29 || slatti || a bunch of 
+| 29 || slatti || a bunch of
 |-
 | 29 || væntanlega || presumably
 |-
@@ -2626,7 +2626,7 @@ title: Vocabulary/All
 |-
 | 29 || brjálaður || <small>(insane)</small> extremely angry
 |-
-| 29 || hollt || healthy 
+| 29 || hollt || healthy
 |-
 | 29 || sæmilegt || all right
 |-
@@ -2644,7 +2644,7 @@ title: Vocabulary/All
 |-
 | 29 || gras || grass; (marijuana)
 |-
-| 29 || hlutverk || a role 
+| 29 || hlutverk || a role
 |-
 | 29 || hreyfing || movement
 |-
@@ -2652,9 +2652,9 @@ title: Vocabulary/All
 |-
 | 29 || kjáni || a silly person
 |-
-| 29 || kosningar || an election 
+| 29 || kosningar || an election
 |-
-| 29 || persóna || a character 
+| 29 || persóna || a character
 |-
 | 29 || píanó || a piano
 |-
@@ -2684,29 +2684,29 @@ title: Vocabulary/All
 |-
 | 29 || hreinsa || to clean
 |-
-| 29 || lenda || to land 
+| 29 || lenda || to land
 |-
-| 29 || rappa || to rap 
+| 29 || rappa || to rap
 |-
 | 29 || reykja || to smoke
 |-
 | 29 || sjá eftir || to regret
 |-
-| 29 || skila || to return 
+| 29 || skila || to return
 |-
-| 29 || taka eftir || to notice 
+| 29 || taka eftir || to notice
 |-
-| 29 || tapa || to lose 
+| 29 || tapa || to lose
 |-
-| 29 || tékka || to check 
+| 29 || tékka || to check
 |-
-| 29 || vakna || to wakeup 
+| 29 || vakna || to wakeup
 |-
 | 30 || hvergi || nowhere
 |-
 | 30 || milli || between
 |-
-| 30 || neðan || below 
+| 30 || neðan || below
 |-
 | 30 || héðan || from here
 |-
@@ -2716,7 +2716,7 @@ title: Vocabulary/All
 |-
 | 30 || magnað || amazing
 |-
-| 30 || mismunandi || various 
+| 30 || mismunandi || various
 |-
 | 30 || nett || cool, neat
 |-
@@ -2728,11 +2728,11 @@ title: Vocabulary/All
 |-
 | 30 || dót || stuff; toys
 |-
-| 30 || drykkur || a drink 
+| 30 || drykkur || a drink
 |-
 | 30 || fáni || a flag
 |-
-| 30 || félag || society 
+| 30 || félag || society
 |-
 | 30 || flugmaður || a pilot
 |-
@@ -2742,11 +2742,11 @@ title: Vocabulary/All
 |-
 | 30 || menning || culture
 |-
-| 30 || nám || an education 
+| 30 || nám || an education
 |-
 | 30 || pils || a skirt
 |-
-| 30 || plan || a plan 
+| 30 || plan || a plan
 |-
 | 30 || plús || plus
 |-
@@ -2754,7 +2754,7 @@ title: Vocabulary/All
 |-
 | 30 || rok || strom
 |-
-| 30 || samfélag || a society 
+| 30 || samfélag || a society
 |-
 | 30 || setning || a sentence
 |-
@@ -2762,31 +2762,31 @@ title: Vocabulary/All
 |-
 | 30 || sundgleraugu || goggles
 |-
-| 30 || takki || a button 
+| 30 || takki || a button
 |-
 | 30 || vextir || interest rate
 |-
-| 30 || bera || to carry 
+| 30 || bera || to carry
 |-
-| 30 || brenna || to burn 
+| 30 || brenna || to burn
 |-
-| 30 || bursta || to brush 
+| 30 || bursta || to brush
 |-
 | 30 || fást || to be available, to be for sale
 |-
-| 30 || hækka || to increase, to heighten 
+| 30 || hækka || to increase, to heighten
 |-
 | 30 || hella || to pour
 |-
-| 30 || leyft || to allow 
+| 30 || leyft || to allow
 |-
 | 30 || líka við || to like
 |-
 | 30 || nudda || massage
 |-
-| 30 || passa sig || to be careful 
+| 30 || passa sig || to be careful
 |-
-| 30 || rétta || to hand 
+| 30 || rétta || to hand
 |-
 | 30 || rífast || to argue
 |-
@@ -2798,21 +2798,21 @@ title: Vocabulary/All
 |-
 | 30 || neglur || a nail (on your fingers)
 |-
-| 31 || nærri || close 
+| 31 || nærri || close
 |-
 | 31 || síðar || later
 |-
-| 31 || þrátt fyrir || despite 
+| 31 || þrátt fyrir || despite
 |-
 | 31 || ekkert mál || No problem
 |-
-| 31 || sjálfur || self 
+| 31 || sjálfur || self
 |-
 | 31 || bitur || bitter
 |-
 | 31 || grár || grey
 |-
-| 31 || heppinn || lucky 
+| 31 || heppinn || lucky
 |-
 | 31 || sjúkt || sick
 |-
@@ -2826,7 +2826,7 @@ title: Vocabulary/All
 |-
 | 31 || fasteignasali || a real estate agent
 |-
-| 31 || félagi || buddy 
+| 31 || félagi || buddy
 |-
 | 31 || forstjóri || a director, CEO
 |-
@@ -2840,7 +2840,7 @@ title: Vocabulary/All
 |-
 | 31 || lágmarkslaun || minimum wage
 |-
-| 31 || lið || a team 
+| 31 || lið || a team
 |-
 | 31 || ljósapera || a lightbulb
 |-
@@ -2854,21 +2854,21 @@ title: Vocabulary/All
 |-
 | 31 || opnun || the opening
 |-
-| 31 || ormur || a worm 
+| 31 || ormur || a worm
 |-
-| 31 || panna || a pan 
+| 31 || panna || a pan
 |-
 | 31 || restin || the rest of something
 |-
 | 31 || ryksuga || a vacuum cleaner
 |-
-| 31 || samkeppni || a competition 
+| 31 || samkeppni || a competition
 |-
 | 31 || sandalar || sandals
 |-
 | 31 || sár || a wound; to be hurt
 |-
-| 31 || spil || a playing card; a board game 
+| 31 || spil || a playing card; a board game
 |-
 | 31 || svæði || an area
 |-
@@ -2890,7 +2890,7 @@ title: Vocabulary/All
 |-
 | 31 || skutla || to drive someone somewhere
 |-
-| 31 || venjast || to get used to 
+| 31 || venjast || to get used to
 |-
 | 32 || aftast || in the back
 |-
@@ -2914,13 +2914,13 @@ title: Vocabulary/All
 |-
 | 32 || skúffa || a drawer
 |-
-| 32 || grein || an article 
+| 32 || grein || an article
 |-
 | 32 || hanskar || gloves
 |-
 | 32 || heili || a brain
 |-
-| 32 || her || an army 
+| 32 || her || an army
 |-
 | 32 || höfuð || a head
 |-
@@ -2930,19 +2930,19 @@ title: Vocabulary/All
 |-
 | 32 || ökklar || ankles
 |-
-| 32 || partur || a part of 
+| 32 || partur || a part of
 |-
-| 32 || ritgerð || an essay 
+| 32 || ritgerð || an essay
 |-
-| 32 || samræður || conversations 
+| 32 || samræður || conversations
 |-
 | 32 || skápur || a closet
 |-
 | 32 || stúdentspróf || junior college degree, highschool degree
 |-
-| 32 || vörur || products 
+| 32 || vörur || products
 |-
-| 32 || vörubílstjóri || a truck driver 
+| 32 || vörubílstjóri || a truck driver
 |-
 | 32 || þrek || stamina, endurance
 |-
@@ -2954,9 +2954,9 @@ title: Vocabulary/All
 |-
 | 32 || anda || to breathe
 |-
-| 32 || bíta || to bite 
+| 32 || bíta || to bite
 |-
-| 32 || brjóta || to break 
+| 32 || brjóta || to break
 |-
 | 32 || djóka || to joke
 |-
@@ -2968,7 +2968,7 @@ title: Vocabulary/All
 |-
 | 32 || krefjast || to demand
 |-
-| 32 || leika || to play 
+| 32 || leika || to play
 |-
 | 32 || rekast á || to run into
 |-
@@ -2976,19 +2976,19 @@ title: Vocabulary/All
 |-
 | 32 || skulda || to owe
 |-
-| 32 || snerta || to touch 
+| 32 || snerta || to touch
 |-
-| 32 || vonast || to be hoping for 
+| 32 || vonast || to be hoping for
 |-
 | 33 || almennilega || properly
 |-
 | 33 || frammi || out front
 |-
-| 33 || mögulega || possibly 
+| 33 || mögulega || possibly
 |-
-| 33 || gegnum || through 
+| 33 || gegnum || through
 |-
-| 33 || leyf mér || let me 
+| 33 || leyf mér || let me
 |-
 | 33 || með hita || to have a fever
 |-
@@ -2998,9 +2998,9 @@ title: Vocabulary/All
 |-
 | 33 || ánægjulegt || enjoyable
 |-
-| 33 || blátt || blue 
+| 33 || blátt || blue
 |-
-| 33 || bundinn || tied to 
+| 33 || bundinn || tied to
 |-
 | 33 || hvass || harsh
 |-
@@ -3012,11 +3012,11 @@ title: Vocabulary/All
 |-
 | 33 || spes || special; strange
 |-
-| 33 || aðgerð || an operation 
+| 33 || aðgerð || an operation
 |-
 | 33 || augabrúnir || eyebrows
 |-
-| 33 || bílpróf || drivers licence 
+| 33 || bílpróf || drivers licence
 |-
 | 33 || bindi || a tie
 |-
@@ -3024,7 +3024,7 @@ title: Vocabulary/All
 |-
 | 33 || hegðun || behavior
 |-
-| 33 || hilla || a shelf 
+| 33 || hilla || a shelf
 |-
 | 33 || íþróttamaður || an athlete
 |-
@@ -3038,7 +3038,7 @@ title: Vocabulary/All
 |-
 | 33 || myndataka || a photo shoot
 |-
-| 33 || púði || a pillow 
+| 33 || púði || a pillow
 |-
 | 33 || rödd || a voice
 |-
@@ -3054,7 +3054,7 @@ title: Vocabulary/All
 |-
 | 33 || dæma || to judge
 |-
-| 33 || kíkja || to check 
+| 33 || kíkja || to check
 |-
 | 33 || að missa || to drop
 |-
@@ -3062,19 +3062,19 @@ title: Vocabulary/All
 |-
 | 33 || skreppa || go briefly
 |-
-| 33 || stoppa || to stop 
+| 33 || stoppa || to stop
 |-
-| 33 || synda || to swim 
+| 33 || synda || to swim
 |-
-| 33 || þegiðu || shut up 
+| 33 || þegiðu || shut up
 |-
-| 33 || þjálfa || to train 
+| 33 || þjálfa || to train
 |-
 | 34 || hissa || surprised
 |-
-| 34 || vikulega || weekly 
+| 34 || vikulega || weekly
 |-
-| 34 || mínus || minus 
+| 34 || mínus || minus
 |-
 | 34 || Ætli það ekki || <small>(I may suppose that not)</small> I suppose so
 |-
@@ -3086,11 +3086,11 @@ title: Vocabulary/All
 |-
 | 34 || frjálst || unrestriced, free
 |-
-| 34 || leyfilegt || permissible 
+| 34 || leyfilegt || permissible
 |-
 | 34 || sönn || true, authentic
 |-
-| 34 || sjálfkrafa || automatically 
+| 34 || sjálfkrafa || automatically
 |-
 | 34 || að vera skotinn || to have a crush on
 |-
@@ -3102,7 +3102,7 @@ title: Vocabulary/All
 |-
 | 34 || flíspeysa || a fleece sweater
 |-
-| 34 || heilsugæsla || a health care facility 
+| 34 || heilsugæsla || a health care facility
 |-
 | 34 || hola || a hole
 |-
@@ -3124,7 +3124,7 @@ title: Vocabulary/All
 |-
 | 34 || starfsmaður || an employee
 |-
-| 34 || svín || a pig 
+| 34 || svín || a pig
 |-
 | 34 || typpi || a penis
 |-
@@ -3132,9 +3132,9 @@ title: Vocabulary/All
 |-
 | 34 || að reka || to fire
 |-
-| 34 || að ýta || to push 
+| 34 || að ýta || to push
 |-
-| 34 || hengja || to hang 
+| 34 || hengja || to hang
 |-
 | 34 || ímynda || imagine
 |-
@@ -3146,7 +3146,7 @@ title: Vocabulary/All
 |-
 | 34 || að reikna með || to expect, to reckon something
 |-
-| 34 || stíga || to step 
+| 34 || stíga || to step
 |-
 | 34 || stimpla || to stamp
 |-
@@ -3156,9 +3156,9 @@ title: Vocabulary/All
 |-
 | 35 || efst || uppermost
 |-
-| 35 || gríðarlega || extremely 
+| 35 || gríðarlega || extremely
 |-
-| 35 || vissulega || surely 
+| 35 || vissulega || surely
 |-
 | 35 || uss || shh!, keep quiet
 |-
@@ -3170,19 +3170,19 @@ title: Vocabulary/All
 |-
 | 35 || klár || smart
 |-
-| 35 || nýfætt || newborn 
+| 35 || nýfætt || newborn
 |-
 | 35 || svekktur || disappointed
 |-
 | 35 || þarnæstu || the one after
 |-
-| 35 || boð || an invitation 
+| 35 || boð || an invitation
 |-
 | 35 || gróður || vegetation
 |-
 | 35 || hlið || a side
 |-
-| 35 || hneta || a nut 
+| 35 || hneta || a nut
 |-
 | 35 || höfuðverkur || a headache
 |-
@@ -3192,13 +3192,13 @@ title: Vocabulary/All
 |-
 | 35 || körfubolti || basketball
 |-
-| 35 || kýr || a cow 
+| 35 || kýr || a cow
 |-
 | 35 || leigubílstjóri || a taxi driver
 |-
-| 35 || nagli || a nail 
+| 35 || nagli || a nail
 |-
-| 35 || slysó || emergency room 
+| 35 || slysó || emergency room
 |-
 | 35 || stig || level; a point (in a competition)
 |-
@@ -3208,7 +3208,7 @@ title: Vocabulary/All
 |-
 | 35 || tröppur || stairs
 |-
-| 35 || útsýni || a view 
+| 35 || útsýni || a view
 |-
 | 35 || val || a choice
 |-
@@ -3216,15 +3216,15 @@ title: Vocabulary/All
 |-
 | 35 || að þykjast || to pretend
 |-
-| 35 || fæðast || born 
+| 35 || fæðast || born
 |-
-| 35 || græða || to earn 
+| 35 || græða || to earn
 |-
 | 35 || hoppa || to jump
 |-
 | 35 || innihalda || to contain
 |-
-| 35 || merkja || to mark 
+| 35 || merkja || to mark
 |-
 | 35 || óska || to wish for
 |-
@@ -3240,21 +3240,21 @@ title: Vocabulary/All
 |-
 | 36 || tja || well
 |-
-| 36 || haltu kjafti || shut up 
+| 36 || haltu kjafti || shut up
 |-
 | 36 || í gamla daga || in the old days, in the past
 |-
-| 36 || slappt || limp 
+| 36 || slappt || limp
 |-
 | 36 || berfættur || barefoot
 |-
-| 36 || djúpt || deep 
+| 36 || djúpt || deep
 |-
 | 36 || hljótt || quiet
 |-
 | 36 || sítt || long
 |-
-| 36 || smekklegt || tasteful 
+| 36 || smekklegt || tasteful
 |-
 | 36 || atvinnuleysisbætur || unemployment compensation
 |-
@@ -3264,9 +3264,9 @@ title: Vocabulary/All
 |-
 | 36 || býfluga || a bee
 |-
-| 36 || fluga || a fly 
+| 36 || fluga || a fly
 |-
-| 36 || grey || pitiful person 
+| 36 || grey || pitiful person
 |-
 | 36 || hjólreiðar || cycling
 |-
@@ -3294,39 +3294,39 @@ title: Vocabulary/All
 |-
 | 36 || sölumaður || a salesman
 |-
-| 36 || straujárn || an iron 
+| 36 || straujárn || an iron
 |-
 | 36 || þak || a roof
 |-
 | 36 || æla || to puke, to throw up
 |-
-| 36 || deyja || to die 
+| 36 || deyja || to die
 |-
 | 36 || kjósa || to vote
 |-
-| 36 || máta || to try on 
+| 36 || máta || to try on
 |-
 | 36 || skipuleggja || to organize
 |-
 | 36 || skokka || to jog
 |-
-| 36 || sökkar || sucks 
+| 36 || sökkar || sucks
 |-
 | 37 || alls konar || all kinds
 |-
 | 37 || alls kyns || all kinds
 |-
-| 37 || augljóslega || obviously 
+| 37 || augljóslega || obviously
 |-
-| 37 || fremst || in front 
+| 37 || fremst || in front
 |-
-| 37 || klárlega || clearly 
+| 37 || klárlega || clearly
 |-
 | 37 || norður || north
 |-
-| 37 || svipað || similar 
+| 37 || svipað || similar
 |-
-| 37 || voðalega || awfully 
+| 37 || voðalega || awfully
 |-
 | 37 || atvinnulaus || unemployed
 |-
@@ -3334,25 +3334,25 @@ title: Vocabulary/All
 |-
 | 37 || flatur || flat
 |-
-| 37 || illur || evil 
+| 37 || illur || evil
 |-
 | 37 || kvíðinn || anxious
 |-
-| 37 || ólíklegt || unlikely 
+| 37 || ólíklegt || unlikely
 |-
 | 37 || ósammála || in disagreement
 |-
-| 37 || þykkur || thick 
+| 37 || þykkur || thick
 |-
-| 37 || bómull || cotton 
+| 37 || bómull || cotton
 |-
-| 37 || hæll || heel 
+| 37 || hæll || heel
 |-
 | 37 || himinn || sky
 |-
 | 37 || hrærivél || a mixer
 |-
-| 37 || hunang || honey 
+| 37 || hunang || honey
 |-
 | 37 || ljósmynd || a photograph
 |-
@@ -3364,7 +3364,7 @@ title: Vocabulary/All
 |-
 | 37 || póstkort || a postcard
 |-
-| 37 || ritari || a secretary 
+| 37 || ritari || a secretary
 |-
 | 37 || snjókarl || a snowman
 |-
@@ -3376,13 +3376,13 @@ title: Vocabulary/All
 |-
 | 37 || trygging || an insurance
 |-
-| 37 || vængur || a wing 
+| 37 || vængur || a wing
 |-
 | 37 || þyngd || weight
 |-
-| 37 || greiði || to pay 
+| 37 || greiði || to pay
 |-
-| 37 || höndla || to handle 
+| 37 || höndla || to handle
 |-
 | 37 || klippa || to cut
 |-
@@ -3390,7 +3390,7 @@ title: Vocabulary/All
 |-
 | 37 || rugla || to confuse
 |-
-| 37 || skipta || to exchange 
+| 37 || skipta || to exchange
 |-
 | 37 || svindla || to cheat
 |-
@@ -3404,13 +3404,13 @@ title: Vocabulary/All
 |-
 | 38 || nýlega || recently
 |-
-| 38 || suður || south 
+| 38 || suður || south
 |-
-| 38 || vanalega || usually 
+| 38 || vanalega || usually
 |-
-| 38 || varla || barely 
+| 38 || varla || barely
 |-
-| 38 || áberandi || noticeably 
+| 38 || áberandi || noticeably
 |-
 | 38 || dauður || dead
 |-
@@ -3430,7 +3430,7 @@ title: Vocabulary/All
 |-
 | 38 || hæð || height
 |-
-| 38 || hæna || a female chicken 
+| 38 || hæna || a female chicken
 |-
 | 38 || haka || a chin
 |-
@@ -3438,31 +3438,31 @@ title: Vocabulary/All
 |-
 | 38 || karfa || a basket
 |-
-| 38 || líkami || a body 
+| 38 || líkami || a body
 |-
 | 38 || magi || a stomach, a belly
 |-
-| 38 || markmið || a goal 
+| 38 || markmið || a goal
 |-
 | 38 || pípari || a plumber
 |-
-| 38 || skilti || a sign 
+| 38 || skilti || a sign
 |-
 | 38 || skordýr || a bug
 |-
-| 38 || smábarn || a baby 
+| 38 || smábarn || a baby
 |-
 | 38 || stafir || letters
 |-
-| 38 || tímabil || a period 
+| 38 || tímabil || a period
 |-
 | 38 || að plata || to trick, to cheat
 |-
-| 38 || fjalla || to be about 
+| 38 || fjalla || to be about
 |-
 | 38 || fletta || to turn a page
 |-
-| 38 || greiða || to pay 
+| 38 || greiða || to pay
 |-
 | 38 || lækna || to cure
 |-
@@ -3472,13 +3472,13 @@ title: Vocabulary/All
 |-
 | 38 || skíða || to ski
 |-
-| 38 || staðfesta || to confirm 
+| 38 || staðfesta || to confirm
 |-
-| 38 || treysta || to trust 
+| 38 || treysta || to trust
 |-
-| 39 || helst || mainly 
+| 39 || helst || mainly
 |-
-| 39 || almennilegur || proper 
+| 39 || almennilegur || proper
 |-
 | 39 || bjartsýnn || optimistic
 |-
@@ -3486,11 +3486,11 @@ title: Vocabulary/All
 |-
 | 39 || einmana || lonely
 |-
-| 39 || heimskur || dumb 
+| 39 || heimskur || dumb
 |-
 | 39 || reiðubúinn || prepared
 |-
-| 39 || súrt || sour 
+| 39 || súrt || sour
 |-
 | 39 || traustur || trustworthy, dependable
 |-
@@ -3520,13 +3520,13 @@ title: Vocabulary/All
 |-
 | 39 || lengd || a length
 |-
-| 39 || lokapróf || a final exam 
+| 39 || lokapróf || a final exam
 |-
 | 39 || lyfjafræðingur || <small>(medicine-knowledger)</small> a pharmacologist
 |-
-| 39 || markaður || a market 
+| 39 || markaður || a market
 |-
-| 39 || merki || a sign 
+| 39 || merki || a sign
 |-
 | 39 || prestur || a priest
 |-
@@ -3534,31 +3534,31 @@ title: Vocabulary/All
 |-
 | 39 || strigaskór || sneakers
 |-
-| 39 || vísindi || science 
+| 39 || vísindi || science
 |-
-| 39 || vopn || weapon 
+| 39 || vopn || weapon
 |-
 | 39 || að birta || to show
 |-
-| 39 || baktala || to talk behind one's back 
+| 39 || baktala || to talk behind one's back
 |-
 | 39 || fagna || to celebrate
 |-
-| 39 || flokka || to recycle 
+| 39 || flokka || to recycle
 |-
 | 39 || lyfta || to lift
 |-
-| 39 || lýsa || to describe 
+| 39 || lýsa || to describe
 |-
 | 39 || rifja upp || to recall
 |-
-| 39 || safna || to collect 
+| 39 || safna || to collect
 |-
-| 40 || einnig || also 
+| 40 || einnig || also
 |-
 | 40 || hins vegar || on the other hand
 |-
-| 40 || sennilega || probably 
+| 40 || sennilega || probably
 |-
 | 40 || grænn || green
 |-
@@ -3570,7 +3570,7 @@ title: Vocabulary/All
 |-
 | 40 || bólusetning || vaccination
 |-
-| 40 || breidd || width 
+| 40 || breidd || width
 |-
 | 40 || dalur || a valley
 |-
@@ -3582,9 +3582,9 @@ title: Vocabulary/All
 |-
 | 40 || framkvæmdastjóri || a manager
 |-
-| 40 || gufa || steam 
+| 40 || gufa || steam
 |-
-| 40 || hákarl || a shark 
+| 40 || hákarl || a shark
 |-
 | 40 || kál || cabbage
 |-
@@ -3596,9 +3596,9 @@ title: Vocabulary/All
 |-
 | 40 || læri || a thigh
 |-
-| 40 || ljón || a lion 
+| 40 || ljón || a lion
 |-
-| 40 || minning || a memory 
+| 40 || minning || a memory
 |-
 | 40 || skýrsla || a report
 |-
@@ -3612,19 +3612,19 @@ title: Vocabulary/All
 |-
 | 41 || að aftan || from behind
 |-
-| 41 || almennt || generally 
+| 41 || almennt || generally
 |-
 | 41 || fyrirfram || in advance
 |-
-| 41 || nægilega || sufficiently 
+| 41 || nægilega || sufficiently
 |-
-| 41 || yfirhöfuð || generally 
+| 41 || yfirhöfuð || generally
 |-
 | 41 || ofan || above
 |-
-| 41 || eflaust || undoubtedly 
+| 41 || eflaust || undoubtedly
 |-
-| 41 || einbeittur || focused 
+| 41 || einbeittur || focused
 |-
 | 41 || frekur || pushy, rude
 |-
@@ -3640,13 +3640,13 @@ title: Vocabulary/All
 |-
 | 41 || atriði || a scene
 |-
-| 41 || botn || bottom 
+| 41 || botn || bottom
 |-
 | 41 || dómur || a verdict
 |-
 | 41 || flauta || a flute
 |-
-| 41 || geitungur || a wasp 
+| 41 || geitungur || a wasp
 |-
 | 41 || heitur pottur || a hot tub, jacuzzi
 |-
@@ -3654,9 +3654,9 @@ title: Vocabulary/All
 |-
 | 41 || humar || a lobster
 |-
-| 41 || málmur || metal 
+| 41 || málmur || metal
 |-
-| 41 || mót || a tournament 
+| 41 || mót || a tournament
 |-
 | 41 || nál || a needle
 |-
@@ -3664,7 +3664,7 @@ title: Vocabulary/All
 |-
 | 41 || samvinna || teamwork
 |-
-| 41 || selur || a seal 
+| 41 || selur || a seal
 |-
 | 41 || skautar || ice skates
 |-
@@ -3672,15 +3672,15 @@ title: Vocabulary/All
 |-
 | 41 || söngkeppni || a singing contest
 |-
-| 41 || efast || to doubt 
+| 41 || efast || to doubt
 |-
-| 41 || framkvæma || carry out 
+| 41 || framkvæma || carry out
 |-
 | 41 || keppa || to compete
 |-
-| 41 || leiða || to hold 
+| 41 || leiða || to hold
 |-
-| 41 || ljúka || to finish 
+| 41 || ljúka || to finish
 |-
 | 41 || minnka || to decrease
 |-
@@ -3688,31 +3688,31 @@ title: Vocabulary/All
 |-
 | 42 || afturábak || backwards
 |-
-| 42 || jafnvel || even though 
+| 42 || jafnvel || even though
 |-
 | 42 || í stíl || <small>(in style)</small> matching (outfits)
 |-
-| 42 || slíkt || such 
+| 42 || slíkt || such
 |-
 | 42 || appelsínugulur || orange (color)
 |-
 | 42 || margfalt || many times more
 |-
-| 42 || sameiginlegt || in common 
+| 42 || sameiginlegt || in common
 |-
 | 42 || stilltur || well behaved
 |-
-| 42 || viljandi || willingly 
+| 42 || viljandi || willingly
 |-
 | 42 || þreytandi || tiring
 |-
 | 42 || áhrif || effect
 |-
-| 42 || byssa || a gun 
+| 42 || byssa || a gun
 |-
 | 42 || dúnúlpa || a down jacket
 |-
-| 42 || dýpt || a depth 
+| 42 || dýpt || a depth
 |-
 | 42 || engifer || ginger
 |-
@@ -3740,7 +3740,7 @@ title: Vocabulary/All
 |-
 | 42 || vaktaplan || a shift schedule
 |-
-| 42 || vandi || a difficulty 
+| 42 || vandi || a difficulty
 |-
 | 42 || viðburð || an event
 |-
@@ -3752,27 +3752,27 @@ title: Vocabulary/All
 |-
 | 42 || hnerra || to sneeze
 |-
-| 42 || hósta || to cough 
+| 42 || hósta || to cough
 |-
 | 42 || hvetja || to encourage
 |-
-| 42 || líta || to look 
+| 42 || líta || to look
 |-
-| 42 || ræða || to discuss 
+| 42 || ræða || to discuss
 |-
 | 42 || semja || to compose, to write
 |-
-| 42 || skamma || to scold 
+| 42 || skamma || to scold
 |-
 | 42 || skella á || to hang up
 |-
 | 42 || skjóta || to shoot
 |-
-| 42 || sleikja || to lick 
+| 42 || sleikja || to lick
 |-
-| 43 || daglega || daily 
+| 43 || daglega || daily
 |-
-| 43 || hugsanlega || potentially 
+| 43 || hugsanlega || potentially
 |-
 | 43 || miðaldra || middle aged
 |-
@@ -3784,15 +3784,15 @@ title: Vocabulary/All
 |-
 | 43 || óspennandi || not exciting
 |-
-| 43 || rafmagnslaus || without electricity 
+| 43 || rafmagnslaus || without electricity
 |-
 | 43 || varðandi || regarding
 |-
 | 43 || volgt || lukewarm
 |-
-| 43 || þéttur || dense 
+| 43 || þéttur || dense
 |-
-| 43 || álfur || an elf 
+| 43 || álfur || an elf
 |-
 | 43 || garðyrkjumaður || a gardener
 |-
@@ -3800,7 +3800,7 @@ title: Vocabulary/All
 |-
 | 43 || grafískur hönnuður || a graphic designer
 |-
-| 43 || gufubað || a steam bath 
+| 43 || gufubað || a steam bath
 |-
 | 43 || hnútur || a knot
 |-
@@ -3812,47 +3812,47 @@ title: Vocabulary/All
 |-
 | 43 || ógeð || gross
 |-
-| 43 || par || a couple 
+| 43 || par || a couple
 |-
-| 43 || röntgen || an x-ray 
+| 43 || röntgen || an x-ray
 |-
 | 43 || skýjað || cloudy
 |-
-| 43 || tenging || a connection 
+| 43 || tenging || a connection
 |-
 | 43 || veikindaleyfi || a sick leave
 |-
-| 43 || þjófur || a thief 
+| 43 || þjófur || a thief
 |-
 | 43 || grínast || to joke
 |-
-| 43 || hefja || to begin 
+| 43 || hefja || to begin
 |-
-| 43 || klikka || to click; to fail 
+| 43 || klikka || to click; to fail
 |-
 | 43 || lemja || to hit
 |-
 | 43 || leysa || to solve
 |-
-| 43 || redda || to fix 
+| 43 || redda || to fix
 |-
 | 43 || sannfæra || to convince
 |-
-| 43 || sinna || to take care of 
+| 43 || sinna || to take care of
 |-
 | 43 || skola || to rinse
 |-
 | 43 || skráður || registerred
 |-
-| 43 || útbúa || to prepare 
+| 43 || útbúa || to prepare
 |-
-| 43 || vaxa || to grow 
+| 43 || vaxa || to grow
 |-
 | 44 || ansans || darn
 |-
 | 44 || ansi || quite, rather
 |-
-| 44 || hentugt || convenient 
+| 44 || hentugt || convenient
 |-
 | 44 || lamaður || paralyzed
 |-
@@ -3868,7 +3868,7 @@ title: Vocabulary/All
 |-
 | 44 || ágætis || good
 |-
-| 44 || álit || an opinion 
+| 44 || álit || an opinion
 |-
 | 44 || band || a string
 |-
@@ -3890,7 +3890,7 @@ title: Vocabulary/All
 |-
 | 44 || kóngur || a king
 |-
-| 44 || skap || mood 
+| 44 || skap || mood
 |-
 | 44 || skárri || a little better
 |-
@@ -3900,23 +3900,23 @@ title: Vocabulary/All
 |-
 | 44 || úr || a watch
 |-
-| 44 || klappa || to clap 
+| 44 || klappa || to clap
 |-
 | 44 || mæla || to measure
 |-
-| 44 || öskra || to yell 
+| 44 || öskra || to yell
 |-
-| 44 || pumpa || to pump 
+| 44 || pumpa || to pump
 |-
 | 44 || rækta || to cultivate
 |-
-| 44 || ræna || to steal 
+| 44 || ræna || to steal
 |-
 | 44 || renna || to slip; to zip
 |-
 | 45 || austur || east
 |-
-| 45 || bókstaflega || literally 
+| 45 || bókstaflega || literally
 |-
 | 45 || yfirleitt || usually
 |-
@@ -3930,11 +3930,11 @@ title: Vocabulary/All
 |-
 | 45 || klassískt || classic
 |-
-| 45 || undanfarið || lately 
+| 45 || undanfarið || lately
 |-
 | 45 || væntanlegur || upcoming
 |-
-| 45 || geimur || space 
+| 45 || geimur || space
 |-
 | 45 || geymsla || a storage
 |-
@@ -3950,15 +3950,15 @@ title: Vocabulary/All
 |-
 | 45 || snjógalli || a snowsuit
 |-
-| 45 || tækifæri || a chance 
+| 45 || tækifæri || a chance
 |-
-| 45 || tillaga || a suggestion 
+| 45 || tillaga || a suggestion
 |-
-| 45 || tilviljun || a coincidence 
+| 45 || tilviljun || a coincidence
 |-
 | 45 || ull || wool
 |-
-| 45 || viðbót || an addition 
+| 45 || viðbót || an addition
 |-
 | 45 || vifta || a fan
 |-
@@ -3970,7 +3970,7 @@ title: Vocabulary/All
 |-
 | 45 || leiðbeina || to direct
 |-
-| 45 || leka || to leak 
+| 45 || leka || to leak
 |-
 | 45 || stunda || to engage in
 |-
@@ -3978,7 +3978,7 @@ title: Vocabulary/All
 |-
 | 45 || vó || whoa!
 |-
-| 46 || einstaklega || exceptionally 
+| 46 || einstaklega || exceptionally
 |-
 | 46 || erlendis || in another country, overseas
 |-
@@ -3996,7 +3996,7 @@ title: Vocabulary/All
 |-
 | 46 || bakgrunnur || a background
 |-
-| 46 || fjarstýring || a remote control 
+| 46 || fjarstýring || a remote control
 |-
 | 46 || gengi || rate of exchange
 |-
@@ -4022,15 +4022,15 @@ title: Vocabulary/All
 |-
 | 46 || gruna || to suspect
 |-
-| 46 || hanga || to hang 
+| 46 || hanga || to hang
 |-
 | 46 || meiða || to hurt
 |-
-| 46 || nefna || to name 
+| 46 || nefna || to name
 |-
 | 46 || neyðist || I am forced to
 |-
-| 46 || nýta || use 
+| 46 || nýta || use
 |-
 | 46 || sameina || to combine
 |-
@@ -4040,11 +4040,11 @@ title: Vocabulary/All
 |-
 | 46 || skynja || to sense
 |-
-| 46 || slá || to hit 
+| 46 || slá || to hit
 |-
-| 46 || stela || to steal 
+| 46 || stela || to steal
 |-
-| 46 || strauja || to iron 
+| 46 || strauja || to iron
 |-
 | 46 || troða || to stuff
 |-
@@ -4058,9 +4058,9 @@ title: Vocabulary/All
 |-
 | 47 || á næstunni || in the near future
 |-
-| 47 || einungis || only 
+| 47 || einungis || only
 |-
-| 47 || upphaflega || originally 
+| 47 || upphaflega || originally
 |-
 | 47 || ástfanginn || in love
 |-
@@ -4068,9 +4068,9 @@ title: Vocabulary/All
 |-
 | 47 || kátur || cheerful
 |-
-| 47 || klístrað || sticky 
+| 47 || klístrað || sticky
 |-
-| 47 || rómantískt || romantic 
+| 47 || rómantískt || romantic
 |-
 | 47 || tæpt || almost
 |-
@@ -4078,7 +4078,7 @@ title: Vocabulary/All
 |-
 | 47 || blóðþrýstingur || a blood pressure
 |-
-| 47 || dúfa || a dove, a pigeon 
+| 47 || dúfa || a dove, a pigeon
 |-
 | 47 || heimilislæknir || a family doctor
 |-
@@ -4090,7 +4090,7 @@ title: Vocabulary/All
 |-
 | 47 || olía || oil
 |-
-| 47 || raunveruleikinn || the reality 
+| 47 || raunveruleikinn || the reality
 |-
 | 47 || regnbogi || a rainbow
 |-
@@ -4098,19 +4098,19 @@ title: Vocabulary/All
 |-
 | 47 || skúffa || a drawer
 |-
-| 47 || spendýr || a mammal 
+| 47 || spendýr || a mammal
 |-
 | 47 || einbeita || focus
 |-
-| 47 || íhuga || to consider 
+| 47 || íhuga || to consider
 |-
 | 47 || vigta || to weigh something
 |-
-| 48 || ábyggilega || probably 
+| 48 || ábyggilega || probably
 |-
 | 48 || að vera sjálfsöruggur || confident
 |-
-| 48 || dimmur || dark 
+| 48 || dimmur || dark
 |-
 | 48 || indæll || delightful, nice, lovely
 |-
@@ -4118,7 +4118,7 @@ title: Vocabulary/All
 |-
 | 48 || takmarkað || limited
 |-
-| 48 || afar || very 
+| 48 || afar || very
 |-
 | 48 || ákvörðun || decision
 |-
@@ -4128,11 +4128,11 @@ title: Vocabulary/All
 |-
 | 48 || hjólabretti || a skateboard
 |-
-| 48 || hugsun || a thought 
+| 48 || hugsun || a thought
 |-
 | 48 || motta || a mat
 |-
-| 48 || næturvakt || a night shift 
+| 48 || næturvakt || a night shift
 |-
 | 48 || páskar || easter
 |-
@@ -4144,19 +4144,19 @@ title: Vocabulary/All
 |-
 | 48 || slaufa || a bow tie
 |-
-| 48 || stál || steel 
+| 48 || stál || steel
 |-
 | 48 || sumarbústaður || a summer house
 |-
 | 48 || upplifun || an experience
 |-
-| 48 || útgáfa || a version 
+| 48 || útgáfa || a version
 |-
-| 48 || fikta || to fiddle with 
+| 48 || fikta || to fiddle with
 |-
 | 48 || herma || imitate
 |-
-| 48 || minnast || to remember 
+| 48 || minnast || to remember
 |-
 | 48 || refsa || to punish
 |-
@@ -4176,9 +4176,9 @@ title: Vocabulary/All
 |-
 | 49 || hugulsamur || thoughtful
 |-
-| 49 || stoltur || proud 
+| 49 || stoltur || proud
 |-
-| 49 || talsvert || considerably 
+| 49 || talsvert || considerably
 |-
 | 49 || vongóður || hopeful
 |-
@@ -4194,25 +4194,25 @@ title: Vocabulary/All
 |-
 | 49 || fataskápur || a wardrobe
 |-
-| 49 || fjarlægð || a distance 
+| 49 || fjarlægð || a distance
 |-
-| 49 || lausn || a solution 
+| 49 || lausn || a solution
 |-
-| 49 || leki || a leak 
+| 49 || leki || a leak
 |-
-| 49 || metrar || metres 
+| 49 || metrar || metres
 |-
 | 49 || plötur || albums
 |-
-| 49 || rán || a robbery 
+| 49 || rán || a robbery
 |-
 | 49 || skólastjóri || a headmaster
 |-
 | 49 || skott || a tail of an animal
 |-
-| 49 || skyn || a sense 
+| 49 || skyn || a sense
 |-
-| 49 || stræti || street 
+| 49 || stræti || street
 |-
 | 49 || styrkur || strength; scholarship, grant
 |-
@@ -4222,27 +4222,27 @@ title: Vocabulary/All
 |-
 | 49 || hlýna || to warm up
 |-
-| 49 || nálgast || to approach 
+| 49 || nálgast || to approach
 |-
-| 50 || fúll || grumpy 
+| 50 || fúll || grumpy
 |-
 | 50 || langsótt || farfetched
 |-
-| 50 || mild || mild 
+| 50 || mild || mild
 |-
 | 50 || núverandi || current
 |-
-| 50 || sjálfvirkt || automatic 
+| 50 || sjálfvirkt || automatic
 |-
 | 50 || skrautlegt || decorative
 |-
-| 50 || tvöfalt || double 
+| 50 || tvöfalt || double
 |-
 | 50 || árabátur || a rowboat
 |-
-| 50 || árshátíð || an annual party 
+| 50 || árshátíð || an annual party
 |-
-| 50 || ástandið || the situation 
+| 50 || ástandið || the situation
 |-
 | 50 || borðstofa || a dining room
 |-
@@ -4252,11 +4252,11 @@ title: Vocabulary/All
 |-
 | 50 || gæs || a goose
 |-
-| 50 || gullfiskur || a goldfish 
+| 50 || gullfiskur || a goldfish
 |-
 | 50 || hagfræðingur || an economist
 |-
-| 50 || iðnaður || industry 
+| 50 || iðnaður || industry
 |-
 | 50 || líffræði || <small>(life-studies)</small> biology
 |-
@@ -4268,7 +4268,7 @@ title: Vocabulary/All
 |-
 | 50 || verkfall || strike
 |-
-| 50 || vinátta || friendship 
+| 50 || vinátta || friendship
 |-
 | 50 || þriðjungur || a third
 |-

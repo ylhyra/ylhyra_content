@@ -7,5 +7,5 @@ Ylhýra's inflection tables are from the ''[https://bin.arnastofnun.is/DMII/ The
 
 Ylhýra only shows inflection examples that are considered to be standard Icelandic. Non-standard and colloquial inflections can be found by searching [https://bin.arnastofnun.is/ BÍN].
 
-BÍN's original inflection forms are shown, with the addition of [[Helper words|helper words]] and highlights of irregular inflections.
+BÍN's original inflection forms are shown, with the addition of [[helper words]] and highlights of irregular inflections.
 </div>

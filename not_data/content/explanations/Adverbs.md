@@ -9,7 +9,7 @@ tags:
 license: CC0
 ---
 
-'''Adverbs''' (''atviksorð'') are a class of words that don't fit into the other categories of words. They  describe for example when, how, or where things happen. Their form doesn't [[Inflection|change]] depending on what's happening in the sentence.<ref>Except a handful may indicate "well / better / best" (vel / betur / best)</ref> Adverbs are commonly seen:
+'''Adverbs''' (''atviksorð'') are a class of words that don't fit into the other categories of words. They describe for example when, how, or where things happen. Their form doesn't [[Inflection|change]] depending on what's happening in the sentence.<ref>Except a handful may indicate "well / better / best" (vel / betur / best)</ref> Adverbs are commonly seen:
 
 *In questions:
 **Hvað (what), hver (when), hvenær (how)

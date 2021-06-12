@@ -4,13 +4,13 @@ title: List of noun declension patterns
 
 This is an overview page of the [[declension]] patterns for [[nouns]]. It lists all the words and names a [[B2]] level student needs to be able to decline.
 
-Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about 22 basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[Sound change|sound change]], and occasionally an additional letter pops up or disappears.
+Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about 22 basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[sound change]], and occasionally an additional letter pops up or disappears.
 
 The following table lists all the common patterns. [https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version. You should ''not'' memorize this table, instead you should use it as a reference to get an overview over the patterns. The most important patterns are shown in uppercase.
 
 {{Noun declension patterns}}
 
-To memorize this list, start by studying only words that follow the most common patterns (fiskur, pabbi, mamma, and píanó). Don't memorize the endings, instead memorize the words themselves by reciting the four cases, including the [[Helper words|helper words]]. Start by learning the [[singular]], leave the [[plural]] for later. Recite a few words a day like they were your evening prayers until it begins to stick. Always recite the tables including the [[Helper words|helper words]], so that your phrase is: "hér er fiskur, um fisk, frá fiski, til fisks". Focus on learning only a handful of words really well. If you know a few words really well, your brain will begin to pick up on patterns as you read more text in Icelandic by yourself.
+To memorize this list, start by studying only words that follow the most common patterns (fiskur, pabbi, mamma, and píanó). Don't memorize the endings, instead memorize the words themselves by reciting the four cases, including the [[helper words]]. Start by learning the [[singular]], leave the [[plural]] for later. Recite a few words a day like they were your evening prayers until it begins to stick. Always recite the tables including the [[helper words]], so that your phrase is: "hér er fiskur, um fisk, frá fiski, til fisks". Focus on learning only a handful of words really well. If you know a few words really well, your brain will begin to pick up on patterns as you read more text in Icelandic by yourself.
 =Masculine=
 ==The “fiskur” pattern==
 This is the most common pattern for [[strong]] masculine nouns.
@@ -28,11 +28,11 @@ Declension singular and plural
 |fisk'''a'''
 }}
 
-Regular words:  
+Regular words:
 
 *fiskur, hundur, hestur, dagur, tómatur, bátur, eldur, heimur, vindur, punktur, munnur, ormur, stormur, ostur, póstur, prestur, pottur, blýantur, gangur, garður, hattur, sandur, vaskur, partur, kokkur, diskur, peningar, helmingur, reikningur, víkingur, unglingur, samningur, þriðjungur, geitungur, dómur, draumur, lögfræðingur, sálfræðingur, verkfræðingur, sjúkdómur, aldur, plástur, hnífur, þjófur, laukur, strákur, hreimur, hópur, skápur, hvítlaukur, ísskápur, bakgrunnur, tölvupóstur, misskilningur
 
-Names: 
+Names:
 
 *Ólafur, Haukur, Haraldur, Eiríkur, Ingólfur, Hlynur, Vilhjálmur, Gunnlaugur
 
@@ -48,7 +48,7 @@ This is exactly the same pattern as "fiskur" except for the lack of the "ur" in 
 |hákarl'''a'''
 }}
 
-Regular words: 
+Regular words:
 
 *háls, koss, rass, fugl, botn, ofn, örbylgjuofn
 
@@ -56,16 +56,16 @@ Words where the consonant is duplicated only in the first case:
 
 *morgunn, steinn, gaffall, trefill, djöfull, lykill, þjónn, himinn, Sveinn, Þorsteinn, Páll, Egill
 
-Words that show an omission of a letter in the third case: 
+Words that show an omission of a letter in the third case:
 
 *hamar, sykur, gróður, gaffall, trefill, lykill, himinn, Egill
 
-Words with umlaut: 
+Words with umlaut:
 
 *karl, hákarl, snjókarl (a-ö)
 *Egill (e→a)
 
-Names: 
+Names:
 
 *Jón, Gunnar, Einar, Kristján, Stefán, Jóhann, Björn,<ref name=":0">The name Björn can either be declined "til Björns" or "til Bjarnar", but the animal can only be "til bjarnar".</ref> Halldór, Pétur, Arnar, Kristinn, Ragnar, Guðjón, Óskar, Karl, Ásgeir, Ágúst, Kjartan, Sigurjón, Friðrik, Aron, Hilmar, Baldur, Rúnar, Brynjar, Ómar, Ingvar, Sævar, Garðar, Viktor, Þórarinn, Hafsteinn, Ívar, Grétar, Aðalsteinn
 
@@ -100,11 +100,11 @@ Words:
 |skóg'''a'''
 }}
 
-Words: 
+Words:
 
 *skógur, rithöfundur
 
-Names: 
+Names:
 
 *Magnús, Jóhannes, Tómas, Jónas
 
@@ -121,15 +121,15 @@ Names:
 |bjór'''a'''
 }}
 
-Predictable words: 
+Predictable words:
 
 *arkitekt, ananas, vírus, ís, lás, bjór, kór, vír, gítar, mínus, pappír, bílskúr, plús, haus, lakkrís, strætó
 
-Words where the consonant is duplicated in the first case: 
+Words where the consonant is duplicated in the first case:
 
 *bíll, stóll, hæll, kjóll
 
-Names: 
+Names:
 
 *Daníel, Davíð, Róbert, Benedikt, Alexander, Björgvin, Kristófer, Jakob, Axel
 
@@ -173,7 +173,7 @@ In the singular, this is the same pattern as "matur".
 |tölvuleikj'''a'''
 }}
 
-Words: 
+Words:
 
 *bolur, glæpur, selur, sveppur, smiður
 
@@ -202,7 +202,7 @@ Same except no "ur" in first case:
 |vin'''a'''
 }}
 
-Words: 
+Words:
 
 *vinur, fundur, hönnuður, þáttur, vegur, viðburður, gestur
 
@@ -215,11 +215,11 @@ Words with umlaut:
 *afsláttur (á->æ)
 *mánuður (u->a, "til mán'''a'''ðar")
 
-Names: 
+Names:
 
 *Sigurður, Guðmundur, Þórður
 
-Names with umlaut: 
+Names with umlaut:
 
 *Hörður (ö→e)
 
@@ -241,7 +241,7 @@ This is the most common pattern for [[weak]] masculine words.
 |pabb'''a'''
 }}
 
-Words: 
+Words:
 
 *metri, sími, tími, listi, klukkutími, Spánverji, Kínverji, auli, biti, bolli, bolti, fáni, gluggi, heili, hiti, hluti, jeppi, kjáni, koddi, kuldi, leki, listi, lúði, miði, mosi, penni, poki, púði, skóli, skuggi, sófi, stigi, texti, tími, ungi, vöðvi, vökvi, ökklar, afi, ansans, api, asni, banki, hávaði, jakki, kafli, kassi, klaki, lampi, líkami, magi, nagli, pabbi, pakki, spítali, takki, aumingi, vasi, túristi, olnbogi, fótbolti, handbolti, körfubolti, snjóbolti, tannbursti, bakpoki, forseti, bílstjóri, hálftími, klukkutími, hálfviti, möguleiki, vandi, fjöldi, rjómi, svimi, áhugi, nútími, raunveruleiki
 
@@ -251,7 +251,7 @@ Words with umlaut:
 *þjálfari, kærasti, hamborgari, kennari, dómari, leikari, málari, múrari, pípari, prentari, ritari, svindlari, söngvari, þjálfari, hamborgari, geimfari, sjúkraþjálfari, ljósmyndari (a→u in plural third case)
 *brandari, bakari, hátalari, kjallari, brjóstahaldari (a→ö in plural third case, also a→u in plural third case)
 
-Names: 
+Names:
 
 *Árni, Bjarni, Helgi, Gísli, Andri, Bjarki, Atli, Guðni, Sindri, Snorri, Kári, Tryggvi, Ingi, Ari, Hjalti
 
@@ -267,7 +267,7 @@ This pattern is the same as "pabbi" in the singular, but has a different plural.
 |frænd'''a'''
 }}
 
-Words: 
+Words:
 
 *frændi
 
@@ -293,11 +293,11 @@ This patterns appears in words that end in "-ing" and most female names that are
 |bygging'''a'''
 }}
 
-Words: 
+Words:
 
 *bygging, spurning, setning, fæðing, hreyfing, klipping, kosning, menning, minning, rigning, sýking, sýning, tenging, trygging, staðfesting, bólusetning, tilfinning, pæling, uppfinning, auglýsing, fjarstýring, leiðbeiningar, upplýsingar
 
-Names: 
+Names:
 
 *Guðrún, Kristín, Sigrún, Ingibjörg, Elín, Katrín, Guðbjörg, Guðný, Ólöf, Sólveig, Elísabet, Kolbrún, Guðlaug, Sigurbjörg, Björg, Áslaug, Laufey, Sigurlaug, Rannveig, Þorbjörg, Dagný, Sóley
 
@@ -314,7 +314,7 @@ Names:
 |vél'''a'''
 }}
 
-Words: 
+Words:
 
 *flugvél, vél, nál, skeið, skál, grein, sundlaug, teskeið, eldavél, hrærivél, myndavél, uppþvottavél, helgi, París, hlið (in the meaning of "a side")
 
@@ -322,7 +322,7 @@ Irregularities:
 
 *stöð – The fourth case singular is "til stöð'''v'''ar", there is a "v" added
 
-Names: 
+Names:
 
 *Rakel, Karen
 
@@ -338,7 +338,7 @@ Names:
 |búð'''a'''
 }}
 
-Regular words: 
+Regular words:
 
 *mynd, sól, tónlist, sál, átt, bið, gæs, leið, list, mynd, rás, þjóð, ást, baun, blokk, borg, búð, frétt, hjálp, hurð, húð, lest, lykt, skák, skuldir, sorg, stjórn, sveit, von, heyrn, lausn, ferð, breidd, hæð, lengd, stærð, þyngd, einkunn, vakt, dýpt, hindrun, hugsun, höfuðborg, íbúð, ísbúð, ábyrgð, bíómynd, hugmynd, ljósmynd, tilraun, hljómsveit, framtíð, heimsókn, rannsókn, aðgerð, ritgerð, afsökun, hátíð, ull, bómull, hönnun, þróun, tónlist
 
@@ -347,13 +347,13 @@ Umlauts:
 *jörð, gjöf, röð, sög, þörf, jarðarför, afmælisgjöf, jólagjöf, biðröð, rödd (ö→a)
 *byrjun (ju→ja)
 
-Irregular plural: 
+Irregular plural:
 
 *mús → mýs
 *brú → brýr
 *tá → tær
 
-Names: 
+Names:
 
 *Berglind
 
@@ -370,7 +370,7 @@ Names:
 |bók'''a'''
 }}
 
-Regular: 
+Regular:
 
 *kind, geit, beinagrind
 
@@ -391,11 +391,11 @@ This is the most common pattern for [[Weak|weakly]] declined feminine words. {{D
 |mamm'''a'''
 }}
 
-Regular: 
+Regular:
 
 *pítsa, íslenska, sápa, tölva, appelsína, eyja, króna, kveðja, manneskja, miðja, náttúra, núðlur, olía, ólífa, pera, rúsínur, sítróna, snúra, stofa, tíska, pása, byssa, frænka, húfa, sturta, hola, skófla, lambhúshetta, ljósapera, borðstofa, kennslustofa, skrifstofa, ruslatunna, peysa, rúta, vinna, enska, fita, heilsa, reynsla, spænska, vinátta, áhætta, samvinna, hamingja
 
-Umlaut: 
+Umlaut:
 
 *kaka, mamma, amma, fjara, haka, panna, stjarna, taska, vara, karfa, kartafla, flaska, plata, saga, myndataka, tillaga, fjallganga (a→ö)
 *kærasta (a→u)
@@ -404,13 +404,13 @@ Additional letter ("-na") in fourth case plural:
 
 *fjölskylda, pylsa, sekúnda, mínúta, geymsla, greiðsla, klukka, síða, stelpa, tunga, úlpa, kennitala, vifta, gúrka, hilla, regla, skyrta, súpa, þoka, dúfa, fluga, veisla, vika, villa, umræða, útilega, lögregla, býfluga, afgreiðsla, blaðsíða, ryksuga, ástæða, áhyggja, kirkja, sulta, hálsbólga, heilsugæsla
 
-Extreme irregulary: 
+Extreme irregulary:
 
 *kona, vinkona – in the fourth case plural it becomes "til k'''ve'''nna"
 
-Names: 
+Names:
 
-*Helga, María, Ásta, Erla, Lilja, Eva, Hulda, Inga, Þóra, Jóna, Halldóra, Birna, Linda, Erna, Jónína, Edda,  Lára, Harpa, Hrefna, Rósa, Brynja, Stefanía, Tinna, Andrea, Helena, Ágústa, Elsa, Ása, Soffía
+*Helga, María, Ásta, Erla, Lilja, Eva, Hulda, Inga, Þóra, Jóna, Halldóra, Birna, Linda, Erna, Jónína, Edda, Lára, Harpa, Hrefna, Rósa, Brynja, Stefanía, Tinna, Andrea, Helena, Ágústa, Elsa, Ása, Soffía
 
 Names with umlaut:
 
@@ -428,7 +428,7 @@ This is a rare pattern where the words don't change their form in the singular. 
 |keppni'''a'''
 }}
 
-Words: 
+Words:
 
 *beiðni, keppni, samkeppni, leti,<ref name="singular">Only used in the [[singular]]</ref> athygli,<ref name="singular" /> eðlisfræði,<ref name="singular" /> efnafræði,<ref name="singular" /> jarðfræði,<ref name="singular" /> líffræði,<ref name="singular" /> lögfræði,<ref name="singular" /> stærðfræði,<ref name="singular" /> félagsfræði,<ref name="singular" /> málfræði<ref name="singular" />
 
@@ -499,7 +499,7 @@ This is a rare pattern that usually only appears in the words for a handful of b
 |eyrn'''a'''
 }}
 
-Words: 
+Words:
 
 *pasta<ref name="singular" />
 

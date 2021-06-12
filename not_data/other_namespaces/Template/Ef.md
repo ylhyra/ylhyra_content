@@ -4,5 +4,5 @@ tags:
 - Grammar emojis
 ---
 
-[[Genitive|<span title="Genitive   (Eignarfall) 'Owning'"    class='emoji genitive'></span>]]
+[[Genitive|<span title="Genitive (Eignarfall) 'Owning'" class='emoji genitive'></span>]]
 

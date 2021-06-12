@@ -1,7 +1,7 @@
 ---
 title: Text:Conversations/Winter
 redirects:
--  Conversations/Winter
+- Conversations/Winter
 tags:
 - Conversations
 license: CC0

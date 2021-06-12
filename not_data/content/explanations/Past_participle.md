@@ -82,14 +82,14 @@ Regular `-t` words include:
 *að þurfa → ég hef þurft
 *að þýða → ég hef þýtt
 
-Irregular words that include the same change as can be seen in the [[Present tense|present tense]] include:
+Irregular words that include the same change as can be seen in the [[present tense]] include:
 
 *að sjá → ég hef séð
 **Same change as in the present tense "ég sé"
 *að taka → ég hef tekið
 **Same change as in the present tense "ég tek"
 
-Irregular words that include the same change as in the [[Past tense|past tense]] include:
+Irregular words that include the same change as in the [[past tense]] include:
 
 *að eiga → ég hef átt
 **Same change as in the past tense "ég átti"

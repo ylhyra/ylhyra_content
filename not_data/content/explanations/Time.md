@@ -13,7 +13,7 @@ To talk about time in Icelandic, you talk about the '''''clock''''':
 *Ég kem klukkan tvö. = I will come at two o'clock.
 
 Note that the word klukka is [[feminine]] {{kvk}} but the number is [[neuter]] {{hk}}. This is a very illogical, since in all other situations the [[gender]] of the [[number]] has to be the same as the gender of the [[noun]].{{efn|The reason for this inconsistency is unclear, possible explanations include:<ref>[https://www.visindavefur.is/svar.php?id=2012 Hvers vegna er sagt: "klukkan er eitt, tvö eða þrjú," alltaf í hvorugkyni, en ekki í kvenkyni úr því að klukkan er kvenkynsorð?], ''Vísindavefurinn'', Guðrún Kvaran, 2001.</ref>
-* The phrase may be influenced by [[w:Danish|Danish]]. 
+* The phrase may be influenced by [[w:Danish|Danish]].
 * The phrase may be referring to "the clock has three '''beats'''" (beat is a [[neuter]] word) and the last word may just have disappeared.}}
 
 ==Hálf==
@@ -55,7 +55,7 @@ Iceland does not use AM/PM, instead time is written in a 24 hour format<ref grou
 You do not need to know the following words, but you might hear them in formal speech:
 
 *''vantar'' ("is lacking") – This is common to hear on the radio, but not in normal speech.
-**''Klukkuna vantar fimm mínútur í tvö.'' = It is five minutes to two. 
+**''Klukkuna vantar fimm mínútur í tvö.'' = It is five minutes to two.
 ***In normal speech you would say ''Klukkan er fimm mínútur í tvö.''
 *''ganga'' ("to walk") – This is sometimes used by older speakers.
 **''Klukkan er að ganga tvö.'' = The time is anywhere between 01:01 and 01:59.

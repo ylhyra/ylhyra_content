@@ -18,7 +18,7 @@ It's mostly used about amounts of money that are not that detailed.
 
 You can say:
 
-*fimmkall, tíkall, fimmtíukall, hundraðkall, tvöhundruðkall, [...], fimmhundruðkall, sexhundruðkall, [...], þúsundkall, fimmtánhundruðkall, [...], tvöþúsundkall, þrjúþúsundkall,  [...], fimmþúsundkall, sexþúsundkall,  [...], tíuþúsundkall,  [...], tuttuguþúsundkall, tuttuguogeittþúsundkall,  [...], hundraðþúsundkall
+*fimmkall, tíkall, fimmtíukall, hundraðkall, tvöhundruðkall, [...], fimmhundruðkall, sexhundruðkall, [...], þúsundkall, fimmtánhundruðkall, [...], tvöþúsundkall, þrjúþúsundkall, [...], fimmþúsundkall, sexþúsundkall, [...], tíuþúsundkall, [...], tuttuguþúsundkall, tuttuguogeittþúsundkall, [...], hundraðþúsundkall
 
 But you can '''not''' say:
 

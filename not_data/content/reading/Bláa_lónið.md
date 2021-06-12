@@ -13,7 +13,7 @@ Fyrir sunnan Reykjavík er skagi sem lítur út eins og fótur. Hann heitir Reyk
 
 Bláa lónið er mjög fallegt lón sem er umkringt hrauni. Vatnið í lóninu er ljósblátt, næstum því hvítt, og það er heitt og þægilegt. Vatnið er líka mjög gott fyrir húðina.
 
-Flestir reikna með því að Bláa lónið sé náttúrulegt lón, en það er reyndar ekki svo. Vatnið kemur í raun frá jarðhitavirkjun í nágrenninu. Virkjunin borar nokkurhundruð metra niður í jörðina og nær í sjóðandi heitt vatn sem það notar svo til að búa til rafmagn. Eftir það rennur vatnið út í hraunið. 
+Flestir reikna með því að Bláa lónið sé náttúrulegt lón, en það er reyndar ekki svo. Vatnið kemur í raun frá jarðhitavirkjun í nágrenninu. Virkjunin borar nokkurhundruð metra niður í jörðina og nær í sjóðandi heitt vatn sem það notar svo til að búa til rafmagn. Eftir það rennur vatnið út í hraunið.
 
 Þetta sjóðandi heita vatn inniheldur mjög mikið af steinefnum, sérstaklega efnið kísil. Kísillinn er ástæðan fyrir því að vatnið er svona ljóst.
 

@@ -23,7 +23,7 @@ When saying that something belongs to you, you have to add "[[the]]" to the word
 
 If you're using a possessive pronoun (mine, yours), you always have to add "[[The]]" to the possessed word except in one situation: when talking about friends and specific family members.<ref>There are a few other situations but this is the general rule. The "the" can also be dropped when you want to sound more formal or poetic. </ref>
 
-That includes: vinur, vinkona, bróðir, systir, mamma, pabbi, sonur, dóttir, afi, amma, frændi, frænka. 
+That includes: vinur, vinkona, bróðir, systir, mamma, pabbi, sonur, dóttir, afi, amma, frændi, frænka.
 
 *Systir mín er besta vinkona mín. Mamma mín er dóttir afa míns.
 

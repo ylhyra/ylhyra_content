@@ -1,7 +1,7 @@
 ---
 title: Text:Course/A1/Gender game
 redirects:
--  Text/Gender/Vocabulary
+- Text/Gender/Vocabulary
 ---
 
 gender cards:
@@ -20,14 +20,14 @@ gender cards:
 
 select the right gender:
 
-* gott að heyra 
-* Þessi kaka er góð 
-* Kötturinn minn er góður 
+* gott að heyra
+* Þessi kaka er góð
+* Kötturinn minn er góður
 * Þessi pítsa er mjög góð, hún er með ananas.
-* Hver er góður  strákur? Ert þú góður strákur? Já, þú ert góður strákur. 
+* Hver er góður strákur? Ert þú góður strákur? Já, þú ert góður strákur.
 * Hvað er í þessari súpu? Hún er svo góð!
-* Mjólk er góð fyrir bein. 
-* Hvað segir þú gott? Ég segi allt gott. 
+* Mjólk er góð fyrir bein.
+* Hvað segir þú gott? Ég segi allt gott.
 
-* Þetta er fínt. 
+* Þetta er fínt.
 * Oh hann er svo fínn!

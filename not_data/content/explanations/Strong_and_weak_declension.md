@@ -13,16 +13,16 @@ tags:
 
 '''Strong declension''' is a declension pattern in which the words end in a consonant at least some of the time. In '''weak declension''', all of the word forms end in a vowel (for example, ending in a, e, i, o, u).
 
-Adjectives (descriptive words) have both forms, the declension pattern is strong except when using '''''the''''' (the definite article). 
+Adjectives (descriptive words) have both forms, the declension pattern is strong except when using '''''the''''' (the definite article).
 
-Compare: 
+Compare:
 
 * Þetta er got'''t''' kaffi. = ''This is good coffee''.
 * Þetta er góð'''a''' kaffið. = ''This is the good coffee''.
 
 However, if you're using a superlative like "'''''the''' largest''", the declension is strong if the adjective stands by itself. If there is a noun with it, it is a weak declension.
 
-* Þú ert bestu'''r'''. 
+* Þú ert bestu'''r'''.
 * Þú ert best'''i''' vinur minn.
 
 ==Example sentences==
@@ -33,7 +33,7 @@ However, if you're using a superlative like "'''''the''' largest''", the declens
 *Do you want this toothbrush? No, this one is better. = Viltu fá þennan tannbursta? Nei, þessi hér er betri.
 *Okay, but how about this one? No, this one is the best. = Ókei, hvað með þennan? Nei, þessi hér er bestur.
 
-'''Example Declension''' 
+'''Example Declension'''
 
 Strong declension
 {| class="wikitable"

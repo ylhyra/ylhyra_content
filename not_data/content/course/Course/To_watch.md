@@ -17,7 +17,7 @@ Gott!
 
 Það hljómar [sound] mjög vel.
 
-Horfir þú á spænskar myndir? 
+Horfir þú á spænskar myndir?
 Ha? = What did you just say?
 Ég horfi á spænskar myndir.
 Hvaða? = Which?

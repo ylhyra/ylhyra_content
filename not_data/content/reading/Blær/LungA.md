@@ -16,7 +16,7 @@ title: Blær/LungA
 
   <div class="article-entry">
     <div data-no-audio class="image-box image-box-medium">
-      </html>[[File:Blær_–_Lunga_35177.jpeg|800px]]<html> 
+      </html>[[File:Blær_–_Lunga_35177.jpeg|800px]]<html>
     </div>
   </div>
 
@@ -281,14 +281,14 @@ title: Blær/LungA
       <div class="article-authors-writers">
         <h2>Texti</h2>
         <a href="/profill/birna" class="user">
-          <img loading="lazy"src="http://blaer.is/cpresources/userphotos/birna/100/1-5.jpg?d=1402868172">            
+          <img loading="lazy"src="http://blaer.is/cpresources/userphotos/birna/100/1-5.jpg?d=1402868172">
           <h3>Birna </h3>
         </a>
       </div>
       <div class="article-authors-photographers">
         <h2>Ljósmyndir</h2>
         <a href="/profill/julia" class="user right">
-          <img loading="lazy"src="http://blaer.is/cpresources/userphotos/julia/100/1-3-2.jpg?d=1402867947">            
+          <img loading="lazy"src="http://blaer.is/cpresources/userphotos/julia/100/1-3-2.jpg?d=1402867947">
           <h3>Júlía</h3>
         </a>
       </div>

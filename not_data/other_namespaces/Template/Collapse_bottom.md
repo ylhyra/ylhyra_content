@@ -1,7 +1,7 @@
 ---
 title: Template:Collapse bottom
 redirects:
--  Template/Cob
+- Template/Cob
 ---
 
 </div>

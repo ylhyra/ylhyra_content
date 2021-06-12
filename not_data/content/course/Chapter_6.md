@@ -8,7 +8,7 @@ tags:
 
 There are many ways of saying how you are doing something. For example: ''I '''am''' cycling'', ''yesterday I '''went''' grocery shopping'', ''tomorrow I '''will watch''' a movie'', ''the world '''would have been''' a better place without ants'', and so on.
 
-These ways of telling someone what you are doing, have been doing, or will do, are slightly different in Icelandic, although there are many similarities with English. One example is what is called the ''present continuous'', when you are saying that you are right in the middle of something. 
+These ways of telling someone what you are doing, have been doing, or will do, are slightly different in Icelandic, although there are many similarities with English. One example is what is called the ''present continuous'', when you are saying that you are right in the middle of something.
 
 Compare:
 

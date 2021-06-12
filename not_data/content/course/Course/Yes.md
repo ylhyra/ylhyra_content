@@ -30,7 +30,7 @@ You can duplicate the words to be more casual. "Já já" means "yeah sure" like 
 * nei nei = nah (more casual than just "nei")
 
 * 1|Er þetta gott?
-* 2|Já já, þetta er ágætt. 
+* 2|Já já, þetta er ágætt.
 * 1|Er þetta ekki gott?
 * 2|Jú jú, þetta er ágætt.
 * 1|Ætlar þú að koma á eftir?

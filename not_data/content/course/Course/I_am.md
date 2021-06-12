@@ -3,7 +3,7 @@ title: Course/I am
 ---
 
 ==I==
-"Ég" means "I".  
+"Ég" means "I".
 
 The letter [[É]] is pronounced {{listen|audio=iD48.mp3}}. It is not a single sound but two, being pronounced like "yeah" in English.
 
@@ -12,7 +12,7 @@ The letter G in the word "ég" is a [[Soft G|'''soft G''']] sound. The soft G so
 ==I am==
 "Ég er" means "I am". The letter '''[[R]]''' {{listen|audio=SpJM.mp3}} is pronounced by tapping the roof of your mouth once quickly with the tongue, like the American pronunciation of ''au'''t'''umn'' or ''be'''tt'''er''.
 
-Remember that "ég" is just pronounced /é/. 
+Remember that "ég" is just pronounced /é/.
 
 ==Good==
 Like all other [[adjectives]], the word "good" changes its form depending on the [[gender]] of the person or word it's describing. There are three grammatical genders in Icelandic: he ([[masculine]]), she ([[feminine]]), and it ([[neuter]]).
@@ -21,7 +21,7 @@ Like all other [[adjectives]], the word "good" changes its form depending on the
 *Hún er '''góð'''. = She is good.
 *Það er '''gott'''. = It is good.
 
-The letter [[Ó]] pronounced {{listen|audio=UKe9.mp3}}, like in the English "''g'''oa'''l''". Ó is pronounced as a sequence of two sounds: "[[o]][[ú]]". In both "góð" and "góður" it's a [[Long sound|long sound]], and it's better to exaggerate the length of long sounds rather than making them too short.
+The letter [[Ó]] pronounced {{listen|audio=UKe9.mp3}}, like in the English "''g'''oa'''l''". Ó is pronounced as a sequence of two sounds: "[[o]][[ú]]". In both "góð" and "góður" it's a [[long sound]], and it's better to exaggerate the length of long sounds rather than making them too short.
 
 If you're male, you use the [[masculine]] form and say:
 
@@ -54,7 +54,7 @@ Notice which form of the word "good" is used in the following conversation:
 
 Do note:
 
-*'''[[Þ|Þ]]''' is pronounced like "'''''th'''ick''".
+*'''[[Þ]]''' is pronounced like "'''''th'''ick''".
 *'''[[Ú]]''' is pronounced like "''f'''oo'''d''".
 *The '''[[R]]''' in "ert" is pronounced differently from the R in "er". The R in "ert" is a [[Breathy R|'''breathy R''']] {{listen|audio=iZyO.mp3}}. It may sound more similar to an S than an R at first, but it is an R sound. To pronounce it, do the following: Start with the '''''r''''' sound in the American '''''r'''ed''. Keep your tongue in that position. Then blow air over the tip of your tongue.
 
@@ -65,9 +65,9 @@ Notice how the form of the word "is" changes:
 *hún '''er''' = she is
 
 ==Very==
-"Mjög" means "very". Like with the word "ég", the letter G in "mjög" is a [[Soft G|soft G]] that isn't pronounced at all. 
+"Mjög" means "very". Like with the word "ég", the letter G in "mjög" is a [[soft G]] that isn't pronounced at all.
 
-The letter '''[[Ö|Ö]]''' {{listen|audio= 3AF6.mp3}}is pronounced similarly to the English ''b'''i'''rd'' or ''n'''u'''rse'', but you do have to make your mouth circle-shaped and you have to pronounce it in the front of your mouth. In the word "mjög" it's a very long sound, and you should exaggerate its length. Since the G is silent, you can imagine it being written /mjööö/.
+The letter '''[[Ö]]''' {{listen|audio= 3AF6.mp3}}is pronounced similarly to the English ''b'''i'''rd'' or ''n'''u'''rse'', but you do have to make your mouth circle-shaped and you have to pronounce it in the front of your mouth. In the word "mjög" it's a very long sound, and you should exaggerate its length. Since the G is silent, you can imagine it being written /mjööö/.
 
 Practice pronouncing the following by exaggerating the length of "mjög" and "góð":
 
@@ -100,7 +100,7 @@ Translate to Icelandic:
 *góður = good ([[masculine]])
 *góð = good ([[feminine]])
 *gott = good ([[neuter]])
-*[https://inflections.ylhyra.is/%C3%ADslenska/459194 íslenska] =  Icelandic language
+*[https://inflections.ylhyra.is/%C3%ADslenska/459194 íslenska] = Icelandic language
 *í = in; into
 *ég = I
 *þú = you

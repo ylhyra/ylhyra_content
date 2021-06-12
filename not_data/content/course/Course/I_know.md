@@ -22,7 +22,7 @@ The word changes depending on person like so:
 {{2|Nei, ég veit ekki hvenær hún kemur.}}
 {{1|Veist þú hvar hún er?}}
 {{2|Nei, ég veit það ekki}}
-}}The word "[[Að|að]]" has two main meanings, it can mean "to" as in "to eat", but it can also join two sentences together as in "You know ''that'' I am eating":
+}}The word "[[að]]" has two main meanings, it can mean "to" as in "to eat", but it can also join two sentences together as in "You know ''that'' I am eating":
 
 *Þú veist ''að'' ég er að borða. = You know ''that'' I am eating.
 *Ég veit ''að'' mamma þín er mjög góð í íslensku. = I know ''that'' your mother is very good at Icelandic.

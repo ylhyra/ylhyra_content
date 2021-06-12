@@ -13,14 +13,14 @@ Remember that "rn" is pronounced "dn", so "hérna" is pronounced /hédna/.
 
 *Hvað ert þú að gera hérna? = What are you doing here?
 
-"[[Hérna]]" is not only used to mean "here" – it also serves as a filler word like the English "uhh", "uhm", "like...". It shows that you're pausing to think while speaking. It is an extremely common filler word, if you listen to radio talk shows you may hear it in every single sentence. It is so common that Icelanders barely even notice the word. For that reason, you should try to switch from saying "uhh" when you hesitate speaking, to saying "hérna". It can appear almost anywhere you hesitate in a sentence while your brain is looking for words. 
+"[[Hérna]]" is not only used to mean "here" – it also serves as a filler word like the English "uhh", "uhm", "like...". It shows that you're pausing to think while speaking. It is an extremely common filler word, if you listen to radio talk shows you may hear it in every single sentence. It is so common that Icelanders barely even notice the word. For that reason, you should try to switch from saying "uhh" when you hesitate speaking, to saying "hérna". It can appear almost anywhere you hesitate in a sentence while your brain is looking for words.
 
 *Hvað ætlar þú, '''hérna''', að gera í dag? = What are you, '''uhh''', going to do today?
 *'''Hérna''', hvað ætlar þú að gera í dag? = '''Uhh so''', what are you going to do today?
 *Ég, '''hérna''', ætla að borða, '''hérna''', hamborga. = I am, '''uhh''', going to eat an, '''uhh''', hamburger.
 
 ==I live here==
-"Að búa" means "to live somewhere, to reside". The Ú goes through a [[Sound change|sound change]] in the other forms of the verb: 
+"Að búa" means "to live somewhere, to reside". The Ú goes through a [[sound change]] in the other forms of the verb:
 
 *að b'''ú'''a = to live somewhere, to reside
 *ég b'''ý''' = I live somewhere, I reside

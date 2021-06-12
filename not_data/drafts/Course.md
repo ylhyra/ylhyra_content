@@ -2,7 +2,7 @@
 title: Project:Drafts/Course
 ---
 
-<!--<div class="frontpage-intro">This course is still a work in progress and will be published in the summer of 2020. Feel free to [[Project:About|contact us]] to suggest improvements.  </div>-->
+<!--<div class="frontpage-intro">This course is still a work in progress and will be published in the summer of 2020. Feel free to [[Project:About|contact us]] to suggest improvements. </div>-->
 
 ==[[A1]] - Week 1==
 {{image|Börn_svarthvít.jpg|thumb}}'''Day 1'''

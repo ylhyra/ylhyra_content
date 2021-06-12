@@ -18,7 +18,7 @@ This G sound appears in the following situations:
 
 *At the beginning of words (see next section for the exceptions)
 **gaman, glaður, glas, gott
-*If the next letter is  '''''l''''' or '''''n'''''
+*If the next letter is '''''l''''' or '''''n'''''
 **rafmagn, sögn
 **regla, fugl
 *In double Gs.
@@ -40,7 +40,7 @@ Many learners have difficulties with this sound, so it can be helpful to imagine
 
 This sound is pronounced by constricting your throat a little bit but not closing it completely. If you are an English speaker, start with the ''g'' sound in ''gun'', but don't stop the air completely, let some air through while <u>using</u> your voice. It is a softer version of the sound in the Spanish ''amigo''.
 
-This sound appears in the middle of words when ''g'' is surrounded by [[Vowel|vowels]], and at the end of a word when it's not the last word in a sentence: 
+This sound appears in the middle of words when ''g'' is surrounded by [[Vowel|vowels]], and at the end of a word when it's not the last word in a sentence:
 
 *laga, aðallega, saga, þetta lag er fínt, ég, og
 

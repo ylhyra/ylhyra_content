@@ -59,13 +59,13 @@ And as you victoriously around the land go
 
 I feel that the vitality strengthens within me.
 
-I love you, power, that raises the waves. 
+I love you, power, that raises the waves.
 
-I love you, might, that dissipates the fog. 
+I love you, might, that dissipates the fog.
 
 I love you, I love you, infinite war,
 
-with raging blood I offer you my song. 
+with raging blood I offer you my song.
 
 You ever-free air traveler, blustering fast;
 
@@ -80,7 +80,7 @@ And whistles with joy among sleepy leaf bands,
 
 But the gray twigs feat and you break
 
-And the birch you trust while you 
+And the birch you trust while you
 
 (workgin spirit: a spirit that is
 

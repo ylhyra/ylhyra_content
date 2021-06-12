@@ -2,7 +2,7 @@
 title: Project:Poster
 ---
 
-'''Ylhýra''' is a project with a strong focus on word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts. 
+'''Ylhýra''' is a project with a strong focus on word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts.
 
 ==Detailed translations over automatic translations==
 Automatic translations and dictionary definitions are beneficial, but manual translations can be more helpful, more specific, and more correct. The reader can have trust in the translations offered, as opposed to the automatic ones which may be confusing or incorrect.

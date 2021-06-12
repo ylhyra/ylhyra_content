@@ -1,7 +1,7 @@
 ---
 title: Template:Text snippet
 redirects:
--  Template/Snippet
+- Template/Snippet
 ---
 
 <div class="card text-snippet" data-audio="{{filepath:{{{audio|{{{file|}}}}}}}}">

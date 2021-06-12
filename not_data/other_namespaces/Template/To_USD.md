@@ -1,9 +1,9 @@
 ---
 title: Template:To USD
 redirects:
--  Template/To usd
--  Template/USD
--  Template/Usd
+- Template/To usd
+- Template/USD
+- Template/Usd
 ---
 
 <onlyinclude>{{{1}}} ISK ({{#expr: ({{{1}}}/ 144 ) round 0}} USD)</onlyinclude>

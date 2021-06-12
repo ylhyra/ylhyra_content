@@ -2,7 +2,7 @@
 title: Course/A1/Double L
 ---
 
-When two {{code|L}}'s are in a row, the pronunciation can seem a bit strange. {{code|LL}} is pronounced like ['''tl''']: 
+When two {{code|L}}'s are in a row, the pronunciation can seem a bit strange. {{code|LL}} is pronounced like ['''tl''']:
 
 *{{listen|full}}, {{listen|lítill}}, {{listen|allir}}, {{listen|jökull}}, {{listen|engill}}, {{listen|krókódíll}}
 

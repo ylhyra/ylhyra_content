@@ -15,9 +15,9 @@ title: Course/When?
 {{1|Frábært!}}
 }}
 
-"Ísland" means "Iceland", but in the above text we used "Ísland'''i'''" and "Ísland'''s'''". The reason is that Icelandic words change their form depending on what is happening to them, like how the English word "he" changes to "him" depending on the word's purpose in the sentence. These forms are known as '''[[cases]]''' and there are four of them in Icelandic. You can [https://inflections.ylhyra.is/%C3%8Dsland/466527 click here] to see all the forms the word "Ísland" can have. You should not study the cases for now, you just need to be aware of the reason why the words change their form. 
+"Ísland" means "Iceland", but in the above text we used "Ísland'''i'''" and "Ísland'''s'''". The reason is that Icelandic words change their form depending on what is happening to them, like how the English word "he" changes to "him" depending on the word's purpose in the sentence. These forms are known as '''[[cases]]''' and there are four of them in Icelandic. You can [https://inflections.ylhyra.is/%C3%8Dsland/466527 click here] to see all the forms the word "Ísland" can have. You should not study the cases for now, you just need to be aware of the reason why the words change their form.
 
-The [[prepositions]] "í" (in) and "á" (on) are used to say you're in a place. You are '''''on''''' Iceland and '''''on''''' Spain, but you're '''''in''''' America and '''''in''''' France (see the article [[Í vs. á|'''í vs. á''']] for a longer list). There is no rule behind which one you should use, the only thing that matters is whether native speaker feel like they're ''in'' or ''on'' something. Therefore, you as a language learner just need to remember each one individually. 
+The [[prepositions]] "í" (in) and "á" (on) are used to say you're in a place. You are '''''on''''' Iceland and '''''on''''' Spain, but you're '''''in''''' America and '''''in''''' France (see the article [[Í vs. á|'''í vs. á''']] for a longer list). There is no rule behind which one you should use, the only thing that matters is whether native speaker feel like they're ''in'' or ''on'' something. Therefore, you as a language learner just need to remember each one individually.
 
 ==What did you just say?==
 

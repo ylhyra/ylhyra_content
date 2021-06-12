@@ -2,15 +2,15 @@
 title: Talk:Búinn vs. hef
 ---
 
-Ég er á ferðalagi um heiminn. Ég er búinn að heimsækja Mexíkó og Rússland, en á eftir að heimsækja Albaníu = I am travelling around the world. I have already visited Mexico and Russia, but I still haven’t visited Albania. 
+Ég er á ferðalagi um heiminn. Ég er búinn að heimsækja Mexíkó og Rússland, en á eftir að heimsækja Albaníu = I am travelling around the world. I have already visited Mexico and Russia, but I still haven’t visited Albania.
 
-Þú ert búinn að eyðileggja allt! = You are done destroying everything! = You have destroyed everything! 
+Þú ert búinn að eyðileggja allt! = You are done destroying everything! = You have destroyed everything!
 
-Ég hef aldrei komið til Íslands = I have never visited Iceland 
+Ég hef aldrei komið til Íslands = I have never visited Iceland
 
-Hefurðu séð mömmu mína? = Have you seen my mom? 
+Hefurðu séð mömmu mína? = Have you seen my mom?
 
-Þetta er besti matur sem ég hef smakkað! = This is the best food I have tasted! 
+Þetta er besti matur sem ég hef smakkað! = This is the best food I have tasted!
 
 *Ég er ennþá ekki búinn að finna heyrnartólin mín.
 *Ég er búinn að fara til Svíþjóðar.
@@ -32,5 +32,5 @@ Hefurðu séð mömmu mína? = Have you seen my mom?
 *Ég hef reynt að sækja um störf → Ég er búinn að reyna að vera að sækja um vinnu.
 *Hefurðu tekið paracetamól?
 *Ertu búinn að taka paracetamól?
-*Ég hef ekki lært neitt  Ég er ekki búinn að læra neitt
+*Ég hef ekki lært neitt Ég er ekki búinn að læra neitt
 *Hvað ert þú búinn að gera í vikunni?

@@ -195,21 +195,21 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að þakka
 **„Ég verð að þakka þér fyrir það.“
 
-==Can either cause the [[Second case|second]] or [[Third case|third case]] (or both)==
+==Can either cause the [[Second case|second]] or [[third case]] (or both)==
 
 *að segja
 **[[Second case]]: „Hver sagði það {{þf}}?“ (Who '''said''' that?)
-**[[Third case]] ''and then'' [[Second case|second case]]: „Hver sagði þér {{þgf}} það {{þf}}?“ (Who '''told''' you that?)
+**[[Third case]] ''and then'' [[second case]]: „Hver sagði þér {{þgf}} það {{þf}}?“ (Who '''told''' you that?)
 *að taka
 **[[Second case]]: „Ég tók það í burtu.“ – Referring to taking objects.
 **[[Third case]]: „Hann tók því illa.“ (He took it badly) – Referring to emotional responses.
 *að gefa (to give someone)
-**[[Third case]] ''and then'' [[Second case|second case]]: To give ''someone'' an ''object''. „Ég gaf honum {{þgf}} jólagjöfina {{þf}}.“ (I gave him the present)
+**[[Third case]] ''and then'' [[second case]]: To give ''someone'' an ''object''. „Ég gaf honum {{þgf}} jólagjöfina {{þf}}.“ (I gave him the present)
 *að þurfa
 **[[Second case]]: The second case usually refers to '''needing something'''. „Ég þarf gleraugu. Ég þarf þau.“
 **[[Third case]]: The third case usually refers to '''needing to'''. „Ég þarf þess ekki.“ (I don't need to do it)
 *að borga
-**„Þú getur borgað mér {{þgf}} það {{þf}} á eftir.“ (You can pay me it later). Paying someone is the [[Third case|third case]], paying for something is the [[Second case|second case]].
+**„Þú getur borgað mér {{þgf}} það {{þf}} á eftir.“ (You can pay me it later). Paying someone is the [[third case]], paying for something is the [[second case]].
 *að kenna
 **„Hver kenndi þér {{þgf}} þetta {{þf}}?“
 

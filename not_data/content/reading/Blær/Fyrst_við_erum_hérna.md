@@ -19,7 +19,7 @@ redirects:
 </div>
 <div class="article-entry">
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_large/1-23_2.jpg"> 
+    <img src="https://blaer.is/assets/images/_large/1-23_2.jpg">
   </div>
 </div>
 
@@ -350,13 +350,13 @@ redirects:
     <div class="article-authors-writers">
       <h2>Texti</h2>
       <a href="https://blaer.is/profill/Blær" class="user">
-            <img src="https://blaer.is/cpresources/userphotos/Blær/100/152-iPhone-App-Icon.png?d=1403049161">            <h3>Ritstjórn</h3>
+            <img src="https://blaer.is/cpresources/userphotos/Blær/100/152-iPhone-App-Icon.png?d=1403049161"> <h3>Ritstjórn</h3>
           </a>
     </div>
     <div class="article-authors-photographers">
       <h2>Ljósmyndir</h2>
       <a href="https://blaer.is/profill/Blær" class="user right">
-            <img src="https://blaer.is/cpresources/userphotos/Blær/100/152-iPhone-App-Icon.png?d=1403049161">            <h3>Ritstjórn</h3>
+            <img src="https://blaer.is/cpresources/userphotos/Blær/100/152-iPhone-App-Icon.png?d=1403049161"> <h3>Ritstjórn</h3>
           </a>
     </div>
   </div>

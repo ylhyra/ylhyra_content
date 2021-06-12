@@ -9,7 +9,7 @@ level: C1
 
 According to popular rumor, Rósa had a secret relationship with a man named Páll, who ended up marrying another woman while Rósa became a laborer at his estate.
 
-It is assumed that she wrote the poem shown below to Páll, describing her deep love and heartbreak. The words are simple and emotion-filled. It is among the best known Icelandic love poems, and is sung as a lullaby to all Icelandic children.  
+It is assumed that she wrote the poem shown below to Páll, describing her deep love and heartbreak. The words are simple and emotion-filled. It is among the best known Icelandic love poems, and is sung as a lullaby to all Icelandic children.
 
 {{poem|
 {{verse|

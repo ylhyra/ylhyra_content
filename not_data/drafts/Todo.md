@@ -18,20 +18,20 @@ Current archives:
 *Mér finnst þetta __vera___ (að vera) fáránlegt.
 *Mér þykir þetta __vera___ (að vera) gott.
 *Ég held að þú ______ (að vera) að vera hálviti.
-*Hann heldur að hann ___þurfi___ (að þurfa) að pissa. 
+*Hann heldur að hann ___þurfi___ (að þurfa) að pissa.
 *Hann hélt að hann __þyrfti____ (að þurfa) að pissa.
-*Honum finnst hann _____ (að þurfa)  að pissa. 
-*Honum fannst hann _____ (að þurfa)  að pissa.
+*Honum finnst hann _____ (að þurfa) að pissa.
+*Honum fannst hann _____ (að þurfa) að pissa.
 *Mig grunar að hann ___þurfi___ (að þurfa) að pissa.
 
 *What are you going to do? =
-	Hvað _____ (að vera)  _____ (að fara)  _____ (að gera)  ?
+	Hvað _____ (að vera) _____ (að fara) _____ (að gera) ?
 
-*Why are you being such an ass? = 
-	Hvers vegna _____ (að vera)  _____ (að vera)  svona  	mikill asni?
+*Why are you being such an ass? =
+	Hvers vegna _____ (að vera) _____ (að vera) svona  	mikill asni?
 
 *I think I’m becoming sick.
-	Ég held að ég __sé___ (að vera) _____ (að verða)  veikur.
+	Ég held að ég __sé___ (að vera) _____ (að verða) veikur.
 
 FINNAST / ÞYKJA
 
@@ -39,7 +39,7 @@ FINNAST / ÞYKJA
 
 Translate to English:
 
-Mér líður vel í dag. Mér líður vel af því að ég borðaði góðan mat í hádegismat [lunch]. Ég borðaði hádegismat með systur minni. Ég eldaði matinn með systur minni. 
+Mér líður vel í dag. Mér líður vel af því að ég borðaði góðan mat í hádegismat [lunch]. Ég borðaði hádegismat með systur minni. Ég eldaði matinn með systur minni.
 
 Translate to Icelandic:
 

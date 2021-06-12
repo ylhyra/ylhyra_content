@@ -1,7 +1,7 @@
 ---
 title: Template:Drag and drop
 redirects:
--  Template/Drag drop
+- Template/Drag drop
 tags:
 - Card templates
 ---

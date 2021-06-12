@@ -28,7 +28,7 @@ English verbs can change significantly depending on what is happening to them ("
 
 [https://inflections.ylhyra.is/fara/433568 Click here] to see all the possible variants of the word "to go".
 
-Note that for the first months of your studies, you only need to recognize about six forms of each verb.  Despite all the irregularities, there are patterns there and all students eventually start to get a feel for them.
+Note that for the first months of your studies, you only need to recognize about six forms of each verb. Despite all the irregularities, there are patterns there and all students eventually start to get a feel for them.
 
 ==Saying what you are currently doing==
 Explaining what you are currently doing is quite easy if you can memorize one form change: "að vera" (to be) changes to "ég er" (I am). Now, to say that you are currently doing something you just take "ég er" and add a verb in its basic form to it.

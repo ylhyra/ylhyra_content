@@ -75,9 +75,9 @@ You should not make an effort to learn these proper names, but they are also lis
 *Hressingarskálinn → '''Hressó''' (a bar in Reykjavík)
 **Extremely common, even in formal speech.
 *'''Junior colleges'''
-**Verzlunarskólinn → '''Verzló''' 
+**Verzlunarskólinn → '''Verzló'''
 ***Extremely common, even in formal speech.
-**Kvennaskólinn → '''Kvennó''' 
+**Kvennaskólinn → '''Kvennó'''
 ***Extremely common, even in formal speech.
 **Borgarholtsskóli → '''Borgó'''
 ***Very common.

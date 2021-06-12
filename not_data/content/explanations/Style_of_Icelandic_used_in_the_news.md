@@ -8,10 +8,10 @@ level: B2
 <div class="book">
 If you've ever read an Icelandic newspaper, it may have surprised you just how strange the style of language used is. Words seem to be out of order and the vocabulary seems unnecessarily advanced.
 
-Apart from using the stricter style that [[formal written Icelandic]] uses, newspapers also do the following: 
+Apart from using the stricter style that [[formal written Icelandic]] uses, newspapers also do the following:
 
-* In headlines, they will often drop the subject, saying just "Eats cake" instead of "Pétur eats cake". 
-* They really like changing the word order of the sentence, in particular they will place the verb in the first position. As an example, they might say "Says Pétur that he is thirsty" instead of "Pétur says that he is thirsty". There is no reason for doing this apart from sounding more formal and "newspaper-like". 
+* In headlines, they will often drop the subject, saying just "Eats cake" instead of "Pétur eats cake".
+* They really like changing the word order of the sentence, in particular they will place the verb in the first position. As an example, they might say "Says Pétur that he is thirsty" instead of "Pétur says that he is thirsty". There is no reason for doing this apart from sounding more formal and "newspaper-like".
 
 Newsanchors will also use this style of Icelandic when announcing the news, since they're reading from a piece of paper.
 
@@ -25,7 +25,7 @@ These examples are from the article ''[https://www.frettabladid.is/frettir/villi
 
 Other examples:
 
-* ''„Tekið er á móti umsóknum í gegnum síma.“'' instead of  ''„Það er tekið á móti umsóknum í gegnum síma.“'' 
+* ''„Tekið er á móti umsóknum í gegnum síma.“'' instead of ''„Það er tekið á móti umsóknum í gegnum síma.“''
 * ''„... að því er Reuters greinir frá.“'' The phrase „að því er“ is one example of a phrase that you'll only see in newspapers.
 
 </div>

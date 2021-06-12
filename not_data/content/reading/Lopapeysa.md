@@ -14,7 +14,7 @@ Ef þú hefur farið í útilegu á Íslandi eða kíkt á útihátíð hefurðu
 
 Lopapeysuhönnunin varð til í kringum miðja síðustu öld. Þó að hönnunin sé ekki svo gömul þykir mörgum Íslendingum vænt um lopapeysuna, hún er svo skemmtilega gamaldags.
 
-Margir prjóna peysur á fjölskyldumeðlimi sína. Meira að segja sumir unglingar prjóna lopapeysur. Ef þú ert að leita þér að nýju áhugamáli væri það ágæt hugmynd að kíkja á YouTube og læra að prjóna. 
+Margir prjóna peysur á fjölskyldumeðlimi sína. Meira að segja sumir unglingar prjóna lopapeysur. Ef þú ert að leita þér að nýju áhugamáli væri það ágæt hugmynd að kíkja á YouTube og læra að prjóna.
 </Book>
 
 <div class="notes">

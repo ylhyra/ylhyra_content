@@ -52,7 +52,7 @@ tags:
 <div class="video-explanation">
 This video is a joke about Icelandic film clichés. All Icelandic films are about depression, alcoholism, deteriorating family units, crime, and the occasional nudity.
 
-==Notes== 
+==Notes==
 {{reflist}}
 </div>
 }}

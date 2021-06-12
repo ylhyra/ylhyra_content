@@ -10,7 +10,7 @@ The name of the letter is "ess", same as in English
 
 ***
 
-There are a few other sounds in Icelandic that to many foreigners sound like an S but aren't. Those are: 
+There are a few other sounds in Icelandic that to many foreigners sound like an S but aren't. Those are:
 
 #The [[Þ]] sound: '''þ'''annig, me'''ð'''
 #The [[R|breathy R]] sound: góðu'''r''', '''hr'''att

@@ -6,11 +6,11 @@ Purchasing Icelandic e-books is quite easy and it is relatively cheap for the va
 
 We highly recommend purchasing an e-book and an audiobook together and to use them together as a reading aid.
 
-Note however that you will almost never encounter [[Written Icelandic|written Icelandic]] on a level below [[C1]]. Even childrens' books are written at a [[C1]] level and use difficult vocabulary and phrases. For that reason you may as well want to spend your time reading regular books.
+Note however that you will almost never encounter [[written Icelandic]] on a level below [[C1]]. Even childrens' books are written at a [[C1]] level and use difficult vocabulary and phrases. For that reason you may as well want to spend your time reading regular books.
 
 There are [https://www.forlagid.is/voruflokkur/rafbaekur/ over 1,000 e-books] and [https://www.forlagid.is/voruflokkur/hljodbaekur-og-tonlist/app/ 300 downloadable audiobooks] available on the website of the publishing house Forlagið. All e-books can also be purchased through Amazon for the Kindle.
 
-The following is a list of some recommended books where both the e-book and the audiobook are available for download.    
+The following is a list of some recommended books where both the e-book and the audiobook are available for download.
 ***
 
 [https://www.forlagid.is/vara/stofuhiti/ '''Stofuhiti'''] – Bergur Ebbi, 2017 <level level="b2"/>
@@ -41,7 +41,7 @@ A murder thriller, nominated for the Icelandic Literary Prize.
 
 ***
 
-[https://www.forlagid.is/vara/draumatjofurinn/ '''Draumaþjófurinn'''] –  Gunnar Helgason, 2019 <level level="c1"/>
+[https://www.forlagid.is/vara/draumatjofurinn/ '''Draumaþjófurinn'''] – Gunnar Helgason, 2019 <level level="c1"/>
 
 Audiobook: 3,000 kr (5 hours 20 minutes)
 

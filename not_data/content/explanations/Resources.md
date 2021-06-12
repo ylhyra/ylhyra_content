@@ -34,7 +34,7 @@ tags:
 *<level level="a1"/> [https://www.alarichall.org.uk/teaching/modern_icelandic.php Audio course for beginners, by Alaric Hall]
 *<level level="a1"/> [http://tungumalatorg.is/ifu/files/2011/12/%C3%81fram%C3%ADslenska1hluti-2.pdf ''Áfram, áfram, áfram íslenska'', worksheets]
 *<level level="a1"/> [https://icelandiconline.com/ Icelandic Online], material tailored to [https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland's classes]
-*Memrise courses: 
+*Memrise courses:
 **<level level="a1"/> [https://www.memrise.com/course/357011/icelandic-in-easy-stages-with-sound/][https://www.memrise.com/course/134020/beginners-icelandic/][https://www.memrise.com/course/728073/icelandic-vocabulary-and-phrases/]
 **<level level="b1"/> [https://www.memrise.com/course/5700211/arnis-icelandic-lesson-vocab-b1-b2/]
 *[https://www.icelandicmadeeasier.com/ IcelandicMadeEasier.com], various articles on grammar topics

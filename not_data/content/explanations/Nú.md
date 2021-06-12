@@ -23,10 +23,10 @@ $cot$
 Það er '''nú''' alltaf gaman að sjá þig. – '''Well''', it's always nice to see you.
 $cob$
 
-Ég er ekki svo góður á gítar. – I am not so good at guitar. 
+Ég er ekki svo góður á gítar. – I am not so good at guitar.
 
 $cot$
-Ég er '''nú''' ekki svo góður á gítar. – '''Well''', I am not so good at guitar. 
+Ég er '''nú''' ekki svo góður á gítar. – '''Well''', I am not so good at guitar.
 $cob$
 
 Ég fékk mér kaffi áðan, en ég væri samt til í annan bolla.
@@ -35,7 +35,7 @@ $cot$
 Ég fékk mér '''nú''' kaffi áðan, en ég væri '''nú''' samt til í annan bolla.
 $cob$
 
-Ég gerði ekki mikið í dag. 
+Ég gerði ekki mikið í dag.
 
 $cot$
 Ég gerði '''nú''' ekki mikið í dag. – '''Well''', I didn't do much today.
@@ -50,7 +50,7 @@ $cob$
 Það er lítið mál.
 
 $cot$
-Það er '''nú''' lítið mál. – '''Well now''', that's no problem. 
+Það er '''nú''' lítið mál. – '''Well now''', that's no problem.
 $cob$
 
 Ég ætlaði bara að sjá hvernig þú hefðir það.
@@ -80,6 +80,6 @@ $cob$
 Ég veit það ekki alveg. – I don't quite know.
 
 $cot$
-Ég veit það '''nú''' ekki alveg. – '''Well''', I don't quite know. 
+Ég veit það '''nú''' ekki alveg. – '''Well''', I don't quite know.
 $cob$
 

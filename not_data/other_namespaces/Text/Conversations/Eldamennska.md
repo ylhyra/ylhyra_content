@@ -1,7 +1,7 @@
 ---
 title: Text:Conversations/Eldamennska
 redirects:
--  Conversations/Eldamennska
+- Conversations/Eldamennska
 tags:
 - Conversations
 ---

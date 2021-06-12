@@ -14,7 +14,7 @@ tags:
 |text=
 Villi minn, komdu<ref>This word is usually pronounced like "koddu" despite being written as "komdu".</ref> að taka lýsi.
 
-Mamma, mig langar ekki í lýsi, það er ógeðslegt. 
+Mamma, mig langar ekki í lýsi, það er ógeðslegt.
 
 Ertu alveg viss?
 
@@ -35,7 +35,7 @@ Lýsi is [[w:Cod liver oil|cod liver oil]], a dietary supplement derived from th
 
 The children's packaging of fish oil contains a character who is cool, has a baseball cap, and rides a skateboard.
 <div>
-==Notes== 
+==Notes==
 {{reflist}}
 }}
 

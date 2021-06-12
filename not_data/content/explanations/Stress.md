@@ -19,7 +19,7 @@ Be aware that this also applies to words of a foreign origin:
 *"Ameríka" is pronounced '''''AM'''eríka''
 *"japanska" is pronounced '''''JAP'''anska''
 
-In [[Compound words|compound words]], the sub-words can have stress, but the main emphasis is on the beginning of the word:
+In [[compound words]], the sub-words can have stress, but the main emphasis is on the beginning of the word:
 
 *"forsætisráðherra" is pronounced '''''FOR'''sætis'''RÁÐ'''herra''
 *"vetrarskór" is pronounced '''''VET'''rar'''SKÓR'''''
@@ -34,7 +34,7 @@ Have a look at this sentence:
 
 *"'''''MAM'''ma og '''PAB'''bi ætla að koma á '''EFt'''ir''".
 
-If we wanted to, we could have placed stress on the word "koma", but we don't have to. The O in "koma" is normally a [[Long sound|long sound]], but long sounds can only exist where there is stress. Therefore we pronounce a short O sound in that sentence.
+If we wanted to, we could have placed stress on the word "koma", but we don't have to. The O in "koma" is normally a [[long sound]], but long sounds can only exist where there is stress. Therefore we pronounce a short O sound in that sentence.
 
 All long sounds become short when a word is unstressed.
 

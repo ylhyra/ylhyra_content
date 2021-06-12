@@ -33,7 +33,7 @@ Other words relating to questions that are more advanced are:
 *hversu mikið = how much
 
 == Word order ==
-Like in English, the [[Word order|word order]] changes to indicate that a sentence is a question:
+Like in English, the [[word order]] changes to indicate that a sentence is a question:
 
 * Það er gott. = That is good.
 * Er það gott? = Is that good?

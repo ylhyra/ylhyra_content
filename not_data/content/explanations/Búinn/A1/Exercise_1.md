@@ -5,7 +5,7 @@ tags:
 level: A1
 ---
 
-This is an exercise for the use of the word [[búinn]]. 
+This is an exercise for the use of the word [[búinn]].
 ***
 
 Fill in the blank:

@@ -21,7 +21,7 @@ Með vetrinum kemur frostið. Vatnið í jörðinni frýs og þar sem að frosi�
 
 Þetta endurtekur sig aftur og aftur í hvert skipti sem það frystir svo að smám saman myndast pínkulitlir hólar. Þessir litlu hólar kallast þúfur. Þúfur eru út um allt á Íslandi. Maður verður að fara varlega þegar maður labbar á þúfum vegna þess að það er auðvelt að misstíga sig.
 
-Við höfnina í Reykjavík er listaverk sem lítur út eins og risastór þúfa. Listaverkið er eftir Ólöfu Nordal. Það er gaman að sjá tilvísun í náttúruna þarna í miðri borginni við hliðina á stórum fiskvinnslum og tónlistarhúsum úr gleri. Listaverkið minnir mann líka svolítið á það hvernig það var að vera krakki og reyna að hlaupa á þúfunum úti í móa án þess að detta. 
+Við höfnina í Reykjavík er listaverk sem lítur út eins og risastór þúfa. Listaverkið er eftir Ólöfu Nordal. Það er gaman að sjá tilvísun í náttúruna þarna í miðri borginni við hliðina á stórum fiskvinnslum og tónlistarhúsum úr gleri. Listaverkið minnir mann líka svolítið á það hvernig það var að vera krakki og reyna að hlaupa á þúfunum úti í móa án þess að detta.
 
 Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður eins og í gamla daga. Þegar maður labbar upp á þúfuna sér maður þá bæði gömlu aðferðina við að þurrka fisk og líka risastóru nútímafiskvinnslurnar í kring.
 </div>

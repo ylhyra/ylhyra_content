@@ -2,9 +2,9 @@
 title: Ætli
 license: CC0
 level: C1
---- 
+---
 
-The word „[[Ætla|að ætla]]“ usually means "to intend, to plan to". In old Icelandic it also had the alternative meaning of "to believe / to assume" which is today only used to say "I wonder if". Students usually find it to be a bit counter-intuitive, but learning it well is worth it. 
+The word „[[Ætla|að ætla]]“ usually means "to intend, to plan to". In old Icelandic it also had the alternative meaning of "to believe / to assume" which is today only used to say "I wonder if". Students usually find it to be a bit counter-intuitive, but learning it well is worth it.
 
 ==Ætli ...?==
 Have a look at this sentence:
@@ -17,7 +17,7 @@ Have a look at this sentence:
 *Do you suppose you want to come over for a visit?
 *I was wondering if you wanted to come over for a visit?
 
-Using ''ætli'' in this way is quite common. It is a polite way to suggest something to someone, or a polite way to say "I wonder if?". Instead of asking someone directly if they want something, we say that we were wondering if it should be assumed that they want something – it is therefore much less  presumptuous and is useful when you don't want to impose on someone else.
+Using ''ætli'' in this way is quite common. It is a polite way to suggest something to someone, or a polite way to say "I wonder if?". Instead of asking someone directly if they want something, we say that we were wondering if it should be assumed that they want something – it is therefore much less presumptuous and is useful when you don't want to impose on someone else.
 
 More examples:
 
@@ -45,9 +45,9 @@ Think a bit about what the difference between the following is:
 
 The difference is:
 
-*Ætli þú viljir koma í heimsókn? – "I was wondering if you wanted to come over for a visit?" 
+*Ætli þú viljir koma í heimsókn? – "I was wondering if you wanted to come over for a visit?"
 **This is a polite, unassuming offer. It is rather timid. An emoji equivalent would be 🥺
-*Ætli þú viljir '''ekki''' koma í heimsókn? – "Don't you think you want to come over for a visit?" 
+*Ætli þú viljir '''ekki''' koma í heimsókn? – "Don't you think you want to come over for a visit?"
 **This is also polite, but it is more presumptuous (in a friendly manner) than the above. The default answer for the respondent is "yes". Emoji equivalents would be 🤠😎
 
 Sentences that use "ætli ... ekki" can mean any of the following:
