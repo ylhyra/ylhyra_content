@@ -1,8 +1,8 @@
 ---
-title: Hypothetical verb form
+title: Subjunctive
 redirects:
 - Hypothetical
-- Subjunctive
+- Hypothetical verb form
 - Subjunctive mood
 - Vh
 - Viðtengingarháttur
