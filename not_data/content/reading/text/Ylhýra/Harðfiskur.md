@@ -9,7 +9,7 @@ license: CC0
 level: A2
 ---
 
-[[File:Stockfisch_in_Iceland_2005.JPG|thumb]]
+<Image src="Stockfisch_in_Iceland_2005.JPG" position="left"/>
 <Book audio="Harðfiskur.mp3">
 Harðfiskur er fiskur sem er búið að þurrka. Þess vegna er hann harður.
 

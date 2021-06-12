@@ -2,4 +2,4 @@
 title: Snorri Sturluson
 ---
 
-[[File:Snorri meme.png|thumb|]]
+File:Snorri meme.png

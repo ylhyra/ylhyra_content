@@ -5,7 +5,7 @@ license: CC0
 level: A1
 ---
 
-[[File:Þreyttur hundur.jpg|thumb]]
+<Image src="Þreyttur hundur.jpg" position="left"/>
 <Book audio="Garðvinna.mp3">
 Ég sit einn úti í garði með hundinum mínum.
 Það er gott veður úti.

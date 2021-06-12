@@ -9,7 +9,7 @@ license: CC0
 
 <div class="book">
 =How to learn a language=
-[[File:Reykjavík_um_vetur.jpg|center|700px]]
+<Image src="Reykjavík_um_vetur.jpg" position="center" size="700px"/>
 
 ===Motivations===
 If Icelandic is the first foreign language you have learned, or is the first one you are seriously learning, then you should consider some important points about language learning in general before you begin. First, when you learn a language you should ask yourself what exactly your motivation is for learning the language. If you cannot answer the "why?" of learning your second language, you are already setting yourself up for failure. Maybe it's the sound of the language, the people and culture, the nature, the media, the food, etc.? Find the reasons that the language interests you and keep that at the front of your mind always when you are learning. At some point down the road, it is likely that you will hit a slump in motivation or a plateau in your level growth; knowing your motivation will get you through this phase and prevent you from throwing in the towel.
@@ -43,9 +43,9 @@ If you are just beginning your journey into Icelandic, there is an important dif
 
 In any case, you should begin practicing the slurredness of Icelandic pronunciation fairly early on so that you can get used to it and not end up speaking phonetically (i.e. strangely). To do this, pair any learning you do with a book with spoken and audio practice whenever possible. There are different ways to do speaking practice. You can use apps like HelloTalk or Discord to find Icelandic speakers to talk to, or if you want more efficient and structured practice sessions you can utilize websites like iTalki to book lessons with Icelandic teachers. You should likewise build vocabulary and grammar, and to do this apps like Memrise or Anki can be useful tools to look at if you are not already acquainted with them.
 
-[[File:Loftmynd 2.jpg|center|700px]]
+<Image src="Loftmynd 2.jpg" position="center" size="700px"/>
 
 ***
 
-<div style="text-align:center;font-size:14px;font-family:Helvetica Neue,sans-serif;color: #5f5f5f;"> Written by <span style="">Árni Angelo Deleo</span></div></div>
+<div style="text-align:center;font-size:14px;font-family:Helvetica Neue,sans-serif;color: #5f5f5f;"> Written by <span>Árni Angelo Deleo</span></div></div>
 

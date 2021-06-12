@@ -3,7 +3,7 @@ title: Nafn Vestmannaeyja
 license: CC0
 ---
 
-[[File:Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg]]
+<Image other="Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg"/>
 <level level="b1"/>
 
 <Book audio="Nafn vestmannaeyja2.mp3 ">

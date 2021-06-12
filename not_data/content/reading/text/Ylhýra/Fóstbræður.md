@@ -6,7 +6,7 @@ license: CC0
 level: A2
 ---
 
-[[File:Fósbræður.jpg|thumb|303x303px]]
+<Image src="Fósbræður.jpg" position="left" size="303x303px"/>
 <Book audio="Fóstbræður2.mp3">
 Fóstbræður er íslenskur sjónvarpsþáttur sem var sýndur frá nítján hundruð níutíu og sjö til tvö þúsund og eitt.
 Fóstbræður voru mjög vinsælir á Íslandi og margir nota ennþá fyndnar setningar úr þessum þáttum.

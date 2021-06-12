@@ -6,8 +6,8 @@ license: CC0
 level: A1
 ---
 
-[[File:Reykjavík um vetur.jpg|thumb]]
-[[File:Kirkja.jpg|thumb]]
+<Image src="Reykjavík um vetur.jpg" position="left"/>
+<Image src="Kirkja.jpg" position="left"/>
 <Book audio="Reykjavik.mp3">
 Eins og flestir Íslendingar bý ég í Reykjavík.
 Það búa þrjú hundruð og sextíu þúsund manns á Íslandi og þar af búa tvö hundruð og þrjátíu þúsund manns í eða nálægt Reykjavík.

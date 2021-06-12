@@ -8,7 +8,7 @@ tags:
 Ylhýra is a collaborative project that publishes software and material for making Icelandic accessible. We publish annotated Icelandic texts, explanatory material, and some interactive material. Our own content is available under [[Project:License|an open license]].
 
 ==Authors==
-[[File:Eliza og Ylhýra.jpg|link=Project:Eliza Reid|thumb|Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland.]]
+<Image src="Eliza og Ylhýra.jpg" link="Project:Eliza Reid" position="right" caption="Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland."/>
 
 *Egill [mailto:egill@egill.xyz (email)]
 *Anna Steinunn Ingólfsdóttir [mailto:annasteinunni@gmail.com (email)]
@@ -30,7 +30,7 @@ The website runs [[mediawikiwiki:MediaWiki|MediaWiki]] and the code is [https://
 *[http://malfong.is/?pg=islexrecordings&lang=en ISLEX recordings] read by Guðfinna Rúnarsdóttir. <small>([https://creativecommons.org/licenses/by-nc-nd/4.0/ CC BY-NC-ND 4.0])</small>
 *[https://github.com/readbeyond/aeneas/ Aeneas], audio and text synchronization.
 
-[[File:Loftmynd 2.jpg|thumb|center|600px|link=]]
+<Image src="Loftmynd 2.jpg" position="center" size="600px"/>
 
 ==Collaborating==
 

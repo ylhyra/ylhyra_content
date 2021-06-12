@@ -4,7 +4,7 @@ tags:
 - Project
 ---
 
-[[File:Eliza_Reid.jpg|thumb|199x199px]]
+<Image src="Eliza_Reid.jpg" position="left" size="199x199px"/>
 Það að læra nýtt tungu&shy;mál getur lokið upp leyndar&shy;málum þjóðar, veitt dýpri innsýn í sálar&shy;líf hennar en ef aðeins væri treyst á þýðingar. Íslenska hefur sér&shy;stakt dulmagn bæði vegna
 þess hve fáir tala hana sem og langrar og sam&shy;felldrar sögu rit&shy;málsins. Fyrir þá Íslendinga sem eiga sér annað móður&shy;mál en íslensku er sérlega mikil&shy;vægt að verja tíma og fyrir&shy;höfn í að ná ein&shy;hverjum tökum á málinu.
 

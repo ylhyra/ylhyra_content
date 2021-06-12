@@ -3,11 +3,12 @@ title: Course/A1/About Icelandic
 ---
 
 ==About Icelandic==
-[[File:Iceland (orthographic projection).svg|thumb|The neighbors of Iceland are:
+<Image src="Iceland (orthographic projection).svg" position="left" caption="The neighbors of Iceland are:
 <ul>
 <li>[[w:Greenland|Greenland]] to the left</li>
 <li>[[w:Norway|Norway]] to the right
-<li>The [[w:Faroe Islands|Faroe Islands]] and the [[w:British Isles|British Isles]] to the bottom right</li></ul>|273x273px]]
+<li>The [[w:Faroe Islands|Faroe Islands]] and the [[w:British Isles|British Isles]] to the bottom right</li></ul>"/>
+
 The Icelandic language has around 315,000 speakers, and almost all of them live in Iceland.<ref>[https://www.ethnologue.com/19/language/isl/ Ethnologue, 19th ed]. Numbers from 2015.</ref>
 
 ===Language relatives===
