@@ -1,3 +1,3 @@
 ---
-title: File:Friðrika með hund.jpg
+title: File:Friðrika_með_hund.jpg
 ---

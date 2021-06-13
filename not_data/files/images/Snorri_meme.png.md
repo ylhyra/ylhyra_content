@@ -1,5 +1,5 @@
 ---
-title: File:Snorri meme.png
+title: File:Snorri_meme.png
 tags:
 - jörm
 ---

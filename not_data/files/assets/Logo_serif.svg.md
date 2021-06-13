@@ -1,3 +1,3 @@
 ---
-title: File:Logo serif.svg
+title: File:Logo_serif.svg
 ---

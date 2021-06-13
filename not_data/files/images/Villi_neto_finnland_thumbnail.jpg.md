@@ -1,3 +1,3 @@
 ---
-title: File:Villi neto finnland thumbnail.jpg
+title: File:Villi_neto_finnland_thumbnail.jpg
 ---

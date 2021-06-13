@@ -1,3 +1,3 @@
 ---
-title: File:Bakaríið samtal.mp3
+title: File:Bakaríið_samtal.mp3
 ---

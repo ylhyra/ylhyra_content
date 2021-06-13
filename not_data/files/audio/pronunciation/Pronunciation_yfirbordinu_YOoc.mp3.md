@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation yfirbordinu YOoc.mp3
+title: File:Pronunciation_yfirbordinu_YOoc.mp3
 ---
 
 {{spoken|yfirborðinu}}

@@ -1,5 +1,5 @@
 ---
-title: File:Pron vera 742K.mp3
+title: File:Pron_vera_742K.mp3
 ---
 
 {{spoken|vera}}

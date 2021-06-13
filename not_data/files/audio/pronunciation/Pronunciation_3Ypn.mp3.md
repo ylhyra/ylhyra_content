@@ -1,3 +1,3 @@
 ---
-title: File:Pronunciation 3Ypn.mp3
+title: File:Pronunciation_3Ypn.mp3
 ---

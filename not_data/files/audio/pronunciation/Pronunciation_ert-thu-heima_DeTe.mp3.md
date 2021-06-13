@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation ert-thu-heima DeTe.mp3
+title: File:Pronunciation_ert-thu-heima_DeTe.mp3
 ---
 
 {{spoken|Ert þú heima?}}

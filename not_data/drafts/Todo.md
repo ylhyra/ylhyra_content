@@ -3,7 +3,7 @@ title: Project:Todo
 ---
 
 __NEWSECTIONLINK__
-{{button|1=[https://ylhyra.is/index.php?title=Project:Todo&action=edit&section=new Add a new item]}}
+<Button>1=[https://ylhyra.is/index.php?title=Project:Todo&action=edit&section=new Add a new item]</Button>
 
 This page is for dumping random items, sentence structures, and common mistakes as they pop into your head.
 

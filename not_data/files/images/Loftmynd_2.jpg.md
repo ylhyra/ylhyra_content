@@ -1,7 +1,7 @@
 ---
-title: File:Loftmynd 2.jpg
+title: File:Loftmynd_2.jpg
 tags:
 - Unsplash
 ---
 
-https://unsplash.com/photos/2H7DvJAPq8Q
+Image from [https://unsplash.com/photos/2H7DvJAPq8Q Unsplash]

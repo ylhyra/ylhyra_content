@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation kuldaskonna EYO9.mp3
+title: File:Pronunciation_kuldaskonna_EYO9.mp3
 ---
 
 {{spoken|kuldaskónna}}

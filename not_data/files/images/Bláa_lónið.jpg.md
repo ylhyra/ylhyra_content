@@ -1,5 +1,5 @@
 ---
-title: File:Bláa lónið.jpg
+title: File:Bláa_lónið.jpg
 tags:
 - unsplash
 ---

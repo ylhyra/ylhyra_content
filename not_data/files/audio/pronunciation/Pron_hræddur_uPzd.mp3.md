@@ -1,5 +1,5 @@
 ---
-title: File:Pron hræddur uPzd.mp3
+title: File:Pron_hræddur_uPzd.mp3
 ---
 
 {{spoken|hræddur}}

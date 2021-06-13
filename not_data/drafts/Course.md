@@ -5,7 +5,7 @@ title: Project:Drafts/Course
 <!--<div class="frontpage-intro">This course is still a work in progress and will be published in the summer of 2020. Feel free to [[Project:About|contact us]] to suggest improvements. </div>-->
 
 ==[[A1]] - Week 1==
-{{image|Börn_svarthvít.jpg|thumb}}'''Day 1'''
+<Image src="Börn_svarthvít.jpg"/>'''Day 1'''
 
 *👁 [[How to use Ylhýra|Using Ylhýra]]
 *👁 [[Course/A1/How to learn a language|How to learn a language]]

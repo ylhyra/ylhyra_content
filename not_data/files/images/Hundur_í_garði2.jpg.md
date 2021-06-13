@@ -1,5 +1,5 @@
 ---
-title: File:Hundur í garði2.jpg
+title: File:Hundur_í_garði2.jpg
 ---
 
-https://unsplash.com/photos/vRNcSWIElE4
+Image from [https://unsplash.com/photos/vRNcSWIElE4 Unsplash]

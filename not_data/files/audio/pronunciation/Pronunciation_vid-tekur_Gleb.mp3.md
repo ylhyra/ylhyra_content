@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation vid-tekur Gleb.mp3
+title: File:Pronunciation_vid-tekur_Gleb.mp3
 ---
 
 {{spoken|við tekur}}

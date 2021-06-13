@@ -1,3 +1,3 @@
 ---
-title: File:23-er þetta ekki gott.mp3
+title: File:23-er_þetta_ekki_gott.mp3
 ---

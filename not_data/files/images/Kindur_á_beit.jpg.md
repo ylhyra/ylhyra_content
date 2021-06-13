@@ -1,7 +1,7 @@
 ---
-title: File:Kindur á beit.jpg
+title: File:Kindur_á_beit.jpg
 tags:
 - unsplash
 ---
 
-https://unsplash.com/photos/_Yem7ebXHwE
+Image from [https://unsplash.com/photos/_Yem7ebXHwE Unsplash]

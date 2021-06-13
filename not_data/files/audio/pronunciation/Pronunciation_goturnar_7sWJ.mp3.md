@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation goturnar 7sWJ.mp3
+title: File:Pronunciation_goturnar_7sWJ.mp3
 ---
 
 {{spoken|göturnar}}

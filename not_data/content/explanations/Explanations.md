@@ -7,7 +7,7 @@ tags:
 license: CC0
 ---
 
-[[{{image|Landmannalaugar2.jpg|thumb}}
+<Image src="Landmannalaugar2.jpg"/>
 ==External resources==
 
 *[[Resources]]
@@ -91,7 +91,3 @@ license: CC0
 **[[Style of Icelandic used in the news]] <level level="b2"/>
 **[[Nicknames]] <level level="c1"/>
 <!--Linguistic purism-->
-
-{{button|[[Game:Kyn|Learn the Icelandic genders]]}}
-
-]]

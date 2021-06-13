@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation moldin 1vFR.mp3
+title: File:Pronunciation_moldin_1vFR.mp3
 ---
 
 {{spoken|moldin}}

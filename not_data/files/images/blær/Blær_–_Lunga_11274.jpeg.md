@@ -1,5 +1,5 @@
 ---
-title: File:Blær – Lunga 11274.jpeg
+title: File:Blær_–_Lunga_11274.jpeg
 ---
 
 {{c}} Blær – https://blaer.is/grein/lunga

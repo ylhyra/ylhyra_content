@@ -1,5 +1,5 @@
 ---
-title: File:Blær – Lunga 63307.jpeg
+title: File:Blær_–_Lunga_63307.jpeg
 ---
 
 {{c}} Blær – http://blaer.is/grein/amma-sigga

@@ -1,5 +1,5 @@
 ---
-title: File:Rignt sQc1.mp3
+title: File:Rignt_sQc1.mp3
 ---
 
 {{spoken|rignt}}

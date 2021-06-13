@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation hraedilegri eesw.mp3
+title: File:Pronunciation_hraedilegri_eesw.mp3
 ---
 
 {{spoken|hræðilegri}}

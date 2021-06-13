@@ -1,5 +1,5 @@
 ---
-title: File:Pron vera b6ez.mp3
+title: File:Pron_vera_b6ez.mp3
 ---
 
 {{spoken|vera}}

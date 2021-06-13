@@ -1,5 +1,5 @@
 ---
-title: File:Imba Afi.mp3
+title: File:Imba_Afi.mp3
 ---
 
 == Summary ==

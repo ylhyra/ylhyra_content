@@ -1,5 +1,5 @@
 ---
-title: File:Lopapeysa – John Shortland.jpg
+title: File:Lopapeysa_–_John_Shortland.jpg
 ---
 
 Image by John Shortland – https://www.flickr.com/photos/johnshortland/23414896233/

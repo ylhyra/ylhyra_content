@@ -1,5 +1,5 @@
 ---
-title: File:Bananakaka ofds.mp3
+title: File:Bananakaka_ofds.mp3
 ---
 
 {{spoken|bananakaka}}

@@ -1,5 +1,5 @@
 ---
-title: File:Ég hélt framhjá Elvari.mp4
+title: File:Ég_hélt_framhjá_Elvari.mp4
 ---
 
 Copyrighted video, author unknown.

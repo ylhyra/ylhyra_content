@@ -1,5 +1,5 @@
 ---
-title: File:Pron ekkert 2thp.mp3
+title: File:Pron_ekkert_2thp.mp3
 ---
 
 {{spoken|ekkert}}

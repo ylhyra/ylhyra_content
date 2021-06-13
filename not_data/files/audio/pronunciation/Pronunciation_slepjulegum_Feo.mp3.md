@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation slepjulegum Feo.mp3
+title: File:Pronunciation_slepjulegum_Feo.mp3
 ---
 
 {{spoken|slepjulegum}}

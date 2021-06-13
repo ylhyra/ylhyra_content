@@ -3,7 +3,7 @@ title: Course/A1/About Icelandic
 ---
 
 ==About Icelandic==
-<Image src="Iceland (orthographic projection).svg" position="left" caption="The neighbors of Iceland are:
+<Image src="Iceland (orthographic projection).svg" position="right" caption="The neighbors of Iceland are:
 <ul>
 <li>[[w:Greenland|Greenland]] to the left</li>
 <li>[[w:Norway|Norway]] to the right

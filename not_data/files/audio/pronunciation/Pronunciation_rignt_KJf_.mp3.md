@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation rignt KJf .mp3
+title: File:Pronunciation_rignt_KJf_.mp3
 ---
 
 {{spoken|rignt}}

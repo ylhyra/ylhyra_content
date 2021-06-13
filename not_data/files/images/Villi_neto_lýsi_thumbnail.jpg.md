@@ -1,3 +1,3 @@
 ---
-title: File:Villi neto lýsi thumbnail.jpg
+title: File:Villi_neto_lýsi_thumbnail.jpg
 ---

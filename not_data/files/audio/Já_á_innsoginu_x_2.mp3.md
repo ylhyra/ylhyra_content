@@ -1,3 +1,3 @@
 ---
-title: File:Já á innsoginu x 2.mp3
+title: File:Já_á_innsoginu_x_2.mp3
 ---

@@ -1,5 +1,5 @@
 ---
-title: File:Börn við sjó.jpg
+title: File:Börn_við_sjó.jpg
 tags:
 - drawings
 ---

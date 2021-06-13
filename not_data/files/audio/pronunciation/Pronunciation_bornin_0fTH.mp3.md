@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation bornin 0fTH.mp3
+title: File:Pronunciation_bornin_0fTH.mp3
 ---
 
 {{spoken|börnin}}

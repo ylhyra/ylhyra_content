@@ -1,5 +1,5 @@
 ---
-title: File:Rignt ZFt-.mp3
+title: File:Rignt_ZFt-.mp3
 ---
 
 {{spoken|rignt}}

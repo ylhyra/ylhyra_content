@@ -1,5 +1,5 @@
 ---
-title: File:Blær – Lunga 94064.webm
+title: File:Blær_–_Lunga_94064.webm
 ---
 
 {{c}} Blær – https://blaer.is/grein/lunga

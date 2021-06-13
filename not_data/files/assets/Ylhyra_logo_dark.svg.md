@@ -1,3 +1,3 @@
 ---
-title: File:Ylhyra logo dark.svg
+title: File:Ylhyra_logo_dark.svg
 ---

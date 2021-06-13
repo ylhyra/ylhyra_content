@@ -1,3 +1,3 @@
 ---
-title: File:Bláa lónið.mp3
+title: File:Bláa_lónið.mp3
 ---

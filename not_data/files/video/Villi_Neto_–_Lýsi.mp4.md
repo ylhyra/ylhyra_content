@@ -1,5 +1,5 @@
 ---
-title: File:Villi Neto – Lýsi.mp4
+title: File:Villi_Neto_–_Lýsi.mp4
 redirects:
 - File:VilliNetoLýsi.mp4
 ---

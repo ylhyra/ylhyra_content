@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation komast 2VmD.mp3
+title: File:Pronunciation_komast_2VmD.mp3
 ---
 
 {{spoken|komast}}

@@ -1,5 +1,5 @@
 ---
-title: File:Pron bróðir Qagk.mp3
+title: File:Pron_bróðir_Qagk.mp3
 ---
 
 {{spoken|bróðir}}

@@ -1,5 +1,5 @@
 ---
-title: File:Pron morfín YWZg.mp3
+title: File:Pron_morfín_YWZg.mp3
 ---
 
 {{spoken|morfín}}

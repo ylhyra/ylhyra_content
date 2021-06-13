@@ -1,5 +1,5 @@
 ---
-title: File:Þreyttur hundur.jpg
+title: File:Þreyttur_hundur.jpg
 ---
 
-https://unsplash.com/photos/LcJkpSoA0es
+Image from [https://unsplash.com/photos/LcJkpSoA0es Unsplash]

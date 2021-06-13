@@ -1,3 +1,3 @@
 ---
-title: File:Ylhyra demo Magnus.gif
+title: File:Ylhyra_demo_Magnus.gif
 ---

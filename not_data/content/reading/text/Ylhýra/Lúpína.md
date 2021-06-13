@@ -6,7 +6,7 @@ license: CC0
 level: B1
 ---
 
-<Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" position="center" width="700"/>
+<Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" width="700"/>
 <Book audio="Lúpína.mp3">
 <!--<ref group="lower-alpha">Forests were cut down to make coal or to create more grassland for sheeps. Sheeps eat small plants and so they prevent new trees from growing.</ref>-->
 

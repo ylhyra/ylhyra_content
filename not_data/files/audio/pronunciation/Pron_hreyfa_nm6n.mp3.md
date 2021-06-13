@@ -1,5 +1,5 @@
 ---
-title: File:Pron hreyfa nm6n.mp3
+title: File:Pron_hreyfa_nm6n.mp3
 ---
 
 {{spoken|hreyfa}}

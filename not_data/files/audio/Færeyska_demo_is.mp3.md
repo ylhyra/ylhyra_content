@@ -1,3 +1,3 @@
 ---
-title: File:Færeyska demo is.mp3
+title: File:Færeyska_demo_is.mp3
 ---

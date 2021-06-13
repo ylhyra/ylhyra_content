@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation ad-flyja kn8Y.mp3
+title: File:Pronunciation_ad-flyja_kn8Y.mp3
 ---
 
 {{spoken|að flýja}}

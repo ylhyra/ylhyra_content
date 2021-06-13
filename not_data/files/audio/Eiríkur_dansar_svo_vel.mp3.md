@@ -1,3 +1,3 @@
 ---
-title: File:Eiríkur dansar svo vel.mp3
+title: File:Eiríkur_dansar_svo_vel.mp3
 ---

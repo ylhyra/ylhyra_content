@@ -1,5 +1,5 @@
 ---
-title: File:Kalt Sc6K.mp3
+title: File:Kalt_Sc6K.mp3
 ---
 
 {{spoken|kalt}}

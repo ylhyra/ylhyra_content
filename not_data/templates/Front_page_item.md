@@ -3,7 +3,7 @@ title: Template:Front page item
 ---
 
 <includeonly><div>
-[[{{{title|}}}|<span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/File:{{{image|}}}|width=300}})"></span>]]
+[[{{{title|}}}|<span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/File:{<Image src="}"/>|width=300}})"></span>]]
 <span class="latest-articles-title">[[{{{title|}}}|{{{displayed title|{{{title|}}}}}}]]</span><span class="latest-articles-description">{{{word count|}}} words {{level|{{{level|}}}|small|category=no}}</span>
 </div></includeonly>
 <pre><nowiki>

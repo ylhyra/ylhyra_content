@@ -1,3 +1,3 @@
 ---
-title: File:Sofðu unga.mp3
+title: File:Sofðu_unga.mp3
 ---

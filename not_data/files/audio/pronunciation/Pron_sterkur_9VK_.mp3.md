@@ -1,5 +1,5 @@
 ---
-title: File:Pron sterkur 9VK .mp3
+title: File:Pron_sterkur_9VK_.mp3
 ---
 
 {{spoken|sterkur}}

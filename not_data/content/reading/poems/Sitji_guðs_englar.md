@@ -6,7 +6,7 @@ tags:
 - Poems
 ---
 
-<Image src="Loftmynd.jpeg" position="left"/>
+<Image src="Loftmynd.jpeg" position="right"/>
 <level level="c1"/>
 
 This is an evening prayer commonly recited for children. It was written around 1650 by reverend Sigurður Jónsson.

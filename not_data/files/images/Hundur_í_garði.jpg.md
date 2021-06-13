@@ -1,5 +1,5 @@
 ---
-title: File:Hundur í garði.jpg
+title: File:Hundur_í_garði.jpg
 tags:
 - Photos
 ---

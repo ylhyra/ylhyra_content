@@ -182,4 +182,4 @@ This is a short tutorial in Icelandic for a complete beginner.
 
 * "The" for the plural
 -->
-{{image|Börn_svarthvít.jpg|thumb}}
+<Image src="Börn_svarthvít.jpg"/>

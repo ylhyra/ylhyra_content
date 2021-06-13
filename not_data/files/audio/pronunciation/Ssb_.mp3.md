@@ -1,3 +1,3 @@
 ---
-title: File:Ssb .mp3
+title: File:Ssb_.mp3
 ---

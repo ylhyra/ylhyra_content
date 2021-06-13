@@ -1,5 +1,5 @@
 ---
-title: File:Blær – Silfur svanurinn 92246.jpeg
+title: File:Blær_–_Silfur_svanurinn_92246.jpeg
 ---
 
 {{c}} Blær – http://blaer.is/grein/amma-sigga

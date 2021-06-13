@@ -1,5 +1,5 @@
 ---
-title: File:Pron hringja kDNt.mp3
+title: File:Pron_hringja_kDNt.mp3
 ---
 
 {{spoken|hringja}}

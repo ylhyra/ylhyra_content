@@ -1,5 +1,5 @@
 ---
-title: File:Júlíus bóndi.jpg
+title: File:Júlíus_bóndi.jpg
 ---
 
 {{c}} [http://blaer.is/profill/julia Júlía Runólfsdóttir] fyrir Blæ

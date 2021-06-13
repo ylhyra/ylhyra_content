@@ -1,5 +1,5 @@
 ---
-title: File:Pron króna -qOa.mp3
+title: File:Pron_króna_-qOa.mp3
 ---
 
 {{spoken|króna}}

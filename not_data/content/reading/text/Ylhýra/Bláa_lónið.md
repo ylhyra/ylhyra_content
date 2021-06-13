@@ -5,8 +5,8 @@ tags:
 license: CC0
 ---
 
-<Image src="Bláa lónið.jpg" position="left"/>
-<Image src="Suðurnes.png" position="left" caption="Reykjanesskagi"/>
+<Image src="Bláa lónið.jpg" position="right"/>
+<Image src="Suðurnes.png" position="right" caption="Reykjanesskagi"/>
 <level level="a2"/>
 <Book audio="Bláa lónið.mp3">
 Fyrir sunnan Reykjavík er skagi sem lítur út eins og fótur. Hann heitir Reykjanesskagi. Ferðamenn þekkja helst tvo hluti á Reykjanesskaga: Keflavíkurflugvöll og Bláa lónið.

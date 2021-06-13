@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation pollar mTSY.mp3
+title: File:Pronunciation_pollar_mTSY.mp3
 ---
 
 {{spoken|pollar}}

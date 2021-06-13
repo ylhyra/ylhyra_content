@@ -1,5 +1,5 @@
 ---
-title: File:Pronunciation anamadkar NGhW.mp3
+title: File:Pronunciation_anamadkar_NGhW.mp3
 ---
 
 {{spoken|ánamaðkar}}
