@@ -49,10 +49,10 @@ The verb 'to be' changes, just like in English:
 
 Can you translate the following sentences?
 
-# He is from America.
-# She is from Russia.
-# We are from Belgium.
-# They are from Portugal.
-# Coffee is from Colombia.
-# He is cold.
-# I am speaking Icelandic.
+* He is from America.
+* She is from Russia.
+* We are from Belgium.
+* They are from Portugal.
+* Coffee is from Colombia.
+* He is cold.
+* I am speaking Icelandic.
