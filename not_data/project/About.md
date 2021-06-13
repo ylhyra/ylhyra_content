@@ -1,5 +1,7 @@
 ---
-title: Project:About
+title: About
+redirects:
+- Project:About
 tags:
 - Ylhýra
 ---

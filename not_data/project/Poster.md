@@ -1,5 +1,6 @@
 ---
 title: Project:Poster
+status: draft
 ---
 
 '''Ylhýra''' is a project with a strong focus on word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts.
