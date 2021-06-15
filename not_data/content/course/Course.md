@@ -1,5 +1,5 @@
 ---
-title: Text:Course
+title: Course
 ---
 
 This is a short tutorial in Icelandic for a complete beginner.
