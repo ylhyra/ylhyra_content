@@ -8,17 +8,17 @@ tags:
 level: C1
 ---
 
-{{tweet
-|text=Lífið snýst um að vera nógu ligeglad til þess að njóta og nógu strangur við sig til þess að ganga vel.
-|audio=sVkS.mp3
-|id=770686446307008513
-|date=1472580942000
-|favorites=3
-|user_name=flaturpilsner
-|handle=skvisumus
-|user_picture=Tweet-skvisumus-14rupeh.png
-|verified=
-}}
+<Tweet
+text="Lífið snýst um að vera nógu ligeglad til þess að njóta og nógu strangur við sig til þess að ganga vel."
+audio="sVkS.mp3"
+id="770686446307008513"
+date="1472580942000"
+favorites="3"
+user_name="flaturpilsner"
+handle="skvisumus"
+user_picture="Tweet-skvisumus-14rupeh.png"
+verified=""
+></Tweet>
 
 <div class=notes>
 '''Notes''':
