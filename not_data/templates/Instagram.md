@@ -12,7 +12,7 @@ title: Template:Instagram
 |handle={{{user_handle|}}}
 }}
 <div class="video-sidebar-content">
-<div data-translate="true" data-audio-file="{{{audio|}}}">{{audio|{{{audio|}}}|label=Slow audio}}
+<div data-translate="true" data-audio-file="{<Audio src="}"/>"><Audio_src="{{{audio|"/>}|label=Slow_audio}}
 {{{text|}}}
 </div>
 

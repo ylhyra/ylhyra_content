@@ -17,6 +17,6 @@ There are a few other sounds in Icelandic that to many foreigners sound like an 
 #The [[R|breathy R]] sound: góðu'''r''', '''hr'''att
 #The [[L#Breathy L|breathy L]] sound: ve'''l''', '''hl'''ægja
 
-<br />{{next simple|prev=r|next=t}}
+{{next simple|prev=r|next=t}}
 
 {{notes}}

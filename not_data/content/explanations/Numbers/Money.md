@@ -22,5 +22,5 @@ You can say:
 
 But you can '''not''' say:
 
-* níukall, fjörutíuogsjökall, fimmhundruðogáttakall, eittþúsundogeitthundraðkall, milljónkall<br />
+* níukall, fjörutíuogsjökall, fimmhundruðogáttakall, eittþúsundogeitthundraðkall, milljónkall
 

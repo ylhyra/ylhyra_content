@@ -3,7 +3,7 @@ title: E
 license: CC0
 ---
 
-The letter '''E''' is pronounced {{listen|audio=j_6G.mp3}}. It is similar to the English ''b'''e'''t''.
+The letter '''E''' is pronounced <Audio src="j_6G.mp3" inline/>. It is similar to the English ''b'''e'''t''.
 
 It can be [[Long sound|long]]:<!--<ref>When ''e'' is long, it's pronounced approximately like a long gliding sound from ''i'' to ''e.''</ref>-->
 

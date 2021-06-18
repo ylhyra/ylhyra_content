@@ -7,7 +7,8 @@ tags:
 ---
 
 {{tweet
-|text=Kötturinn minn er alltaf að kúka á gólfið en kúkurinn er stór og kötturinn lítill 🤔 <br/>Kannski eru þetta meðleigjendurnir að djóka í mér 🤔
+|text=Kötturinn minn er alltaf að kúka á gólfið en kúkurinn er stór og kötturinn lítill 🤔 
+Kannski eru þetta meðleigjendurnir að djóka í mér 🤔
 |audio=Wp1s.mp3
 |id=762811956881399808
 |date=1470703517000

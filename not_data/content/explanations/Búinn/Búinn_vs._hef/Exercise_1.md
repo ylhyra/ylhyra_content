@@ -88,7 +88,8 @@ Speaking about a recent event.
 $cob$
 ***
 
-Your application has been received. <br /><small>Note: This is a trick question</small>
+Your application has been received. 
+<small>Note: This is a trick question</small>
 
 #Umsókn þín hefur verið móttekin.
 #Það er búið að taka við umsókn þinni.

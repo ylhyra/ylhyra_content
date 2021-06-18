@@ -14,11 +14,11 @@ Færeyjar eru eyjar sem eru á milli Íslands og Skotlands. Þær eru hluti af D
 
 Svona hljómar íslenska:
 
-*{{listen|audio=færeyska_demo_is.mp3}} ''Ég skil þig ekki.''
+*<Audio src="færeyska_demo_is.mp3" inline/> ''Ég skil þig ekki.''
 
 Og svona hljómar færeyska:
 
-*{{listen|audio=færeyska_demo_fo.mp3}} ''Eg skilji teg ikki.''
+*<Audio src="færeyska_demo_fo.mp3" inline/> ''Eg skilji teg ikki.''
 
 Mér finnst Færeyingar vera eins og litlu frændur okkar af því að þeir eru svo nálægt okkur. Það er gaman að tala við þá og við hugsum eins. En það eru samt ekki mikil samskipti á milli Íslands og Færeyja, ég veit ekki af hverju. Kannski af því að það kostar svo mikið að fljúga á milli.
 </Book>

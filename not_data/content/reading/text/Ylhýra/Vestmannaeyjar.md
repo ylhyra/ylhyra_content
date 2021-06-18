@@ -7,7 +7,7 @@ level: A2
 <Image src="Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg"/>
 
 <div data-translate="true" data-audio-file="Vestmannaeyjar.mp3">
-{{audio|Vestmannaeyjar.mp3}}
+<Audio src="Vestmannaeyjar.mp3"/>
 Fyrir sunnan Ísland eru eyjar sem heita Vestmannaeyjar. Það er hægt að komast þangað annaðhvort með báti eða flugvél. Það er auðvitað miklu ódýrara að fara með báti, það kostar bara eitt þúsund og sexhundruð krónur aðra leið.
 
 <Image src="Jonatan-pie-OagAyc1Eh10-unsplash.jpg"/>

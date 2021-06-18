@@ -6,6 +6,66 @@ tags:
 - Culture
 license: CC0
 level: A1
+word count: 180
+vocabulary:
+- aldrei
+- allir
+- alveg
+- annars staðar
+- annað
+- auðvelt
+- að gera
+- að kosta
+- að liggja
+- að líða vel
+- að spjalla
+- að synda
+- að taka
+- að vera
+- að vera með
+- að vera þess virði
+- að þurfa
+- að þvo
+- Evrópa
+- fólk
+- handklæði
+- heitt
+- heitur pottur
+- hver einasti
+- hægt
+- krónur
+- margir
+- maður
+- minna
+- mjög
+- mér finnst
+- nakinn
+- næstum því
+- oft
+- pottur
+- sautján
+- sig (þgf)
+- sirka
+- skór (þgf,ft)
+- sturta
+- sundföt
+- sundlaug
+- svo
+- túristar
+- vanalega
+- vatn
+- vinur
+- á Íslandi
+- án
+- áður en
+- ég fer
+- ég geri
+- ég þarf
+- ódýrara
+- ódýrt
+- óþægilegt
+- þannig
+- þúsund
 ---
 
 <Image src="Sundlaug.jpg" position="right" width="338"/>

@@ -6,8 +6,6 @@ This is a flaschard-based vocabulary game.
 
 It is a never-ending stream of words and sentences.
 
-
-
 ## Keyboard shortcuts
 
 Click <kbd>1</kbd> for "Bad", <kbd>2</kbd> for "Good", and <kbd>3</kbd> for "Easy",

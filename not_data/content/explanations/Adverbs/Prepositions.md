@@ -9,7 +9,6 @@ tags:
 license: CC0
 ---
 
-
 <level level="a1"/>
 
 [[w:Prepositions|Prepositions]] are the small words that indicate relationship between things, such as "from", "about", "below", "through" and so on.
@@ -184,7 +183,7 @@ The [[third case]] can be seen in some word phrases:
 *Flugvélin fer yfir húsið {{þf}} = The airplane goes over the house. There is movement.
 *Flugvélin er yfir húsinu {{þgf}} = The airplane is above the house. There is ''no'' movement.
 
-  <br />
+  
 
 == See also ==
 

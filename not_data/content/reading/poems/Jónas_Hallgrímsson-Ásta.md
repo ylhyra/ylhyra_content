@@ -5,7 +5,7 @@ tags:
 ---
 
 <div data-translate="true" data-audio-file="Ástkæra.mp3">
-{{audio|Ástkæra.mp3}}
+<Audio src="Ástkæra.mp3"/>
 {{poem|
 {{line|Ástkæra, '''ylhýra''' málið}}
 {{line|og allri rödd fegra!}}

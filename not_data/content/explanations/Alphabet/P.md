@@ -7,7 +7,7 @@ The letter '''P''' can be pronounced with a small breath or without.
 
 ==With a breath==
 
-{{listen|audio=DneW.mp3}}
+<Audio src="DneW.mp3" inline/>
 
 This is the same sound as in the English '''''p'''aper'', with a slightly stronger breath of air going out (exhaling) after the letter.
 
@@ -19,7 +19,7 @@ Doing the small breath of air (exhaling) after the letter is necessary. It is be
 
 ==Without a breath==
 
-{{listen|audio=MoMZ.mp3}}
+<Audio src="MoMZ.mp3" inline/>
 
 This sound is the same as the above, just without the breath that comes after it. It is the same sound as the Icelandic [[B]] ("bjór"), and is the same sound as in the English ''s'''p'''am''.
 

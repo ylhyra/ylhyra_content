@@ -117,11 +117,12 @@ And finally we have some that include the same change as can be seen in the past
 **Same change as in the past tense plural "við liðum"<ref>But in the [[impersonal conjugation]] it's actually not declined and is just "okkur líður"</ref>
 
 The words listed above are the most important past participle forms that you need to memorize. They amount of irregularity is quite annoying, but most students get a hang of them quickly.
-<br /><div class="notes">
+
+<div class="notes">
 '''Notes'''
 {{reflist}}
 
-*There are a handful of other helper words that can also result in a past participle, but they are so rarely used that you should not learn them.<br />
+*There are a handful of other helper words that can also result in a past participle, but they are so rarely used that you should not learn them.
 
 </div>
 

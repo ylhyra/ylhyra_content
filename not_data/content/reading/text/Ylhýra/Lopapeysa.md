@@ -9,7 +9,7 @@ level: B1
 <Book audio="Lopapeysa.mp3">
 <Image src="Lopapeysa – John Shortland.jpg" position="right"/>
 <Image src="Lopapeysa – Alan Levine.jpg" position="right"/>
-{{audio|Lopapeysa.mp3}}
+<Audio src="Lopapeysa.mp3"/>
 Ef þú hefur farið í útilegu á Íslandi eða kíkt á útihátíð hefurðu séð fólk í peysum sem eru prjónaðar úr ull. Þessar peysur heita lopapeysur. Þær eru vanalega brúnar,&#8203; gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni. Lopapeysur eru þykkar og hlýjar og þess vegna er mjög gott að eiga lopapeysu þegar maður fer í útilegu.
 
 Lopapeysuhönnunin varð til í kringum miðja síðustu öld. Þó að hönnunin sé ekki svo gömul þykir mörgum Íslendingum vænt um lopapeysuna, hún er svo skemmtilega gamaldags.

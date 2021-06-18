@@ -19,7 +19,8 @@ Cases where the present participle works include:
 *`Haha sástu GIF-ið af dans'''andi''' kettinum?`<ref name=":0">This could alternatively be interpreted as an [[adjective]] derived from the present participle, but for simplicity we'll treat this as a verb in the present participle.</ref> (Haha did you see the GIF of the danc'''ing''' cat?)
 *`Hverjir eru þessir menn sem eru þarna stand'''andi''' fyrir utan?`<ref name=":0" /> (Who are these men stand'''ing''' outside?)
 *`Ég er vinn'''andi''' allar helgar.` (I'm work'''ing''' all weekends). "Er að vinna" would also have worked just as well in this context.
-*`Ég mæti hjól'''andi'''.` (I'll show up bicycl'''ing''' / on a bicycle)<br />
+*`Ég mæti hjól'''andi'''.` (I'll show up bicycl'''ing''' / on a bicycle)
+
 <div class="notes">
 ***
 

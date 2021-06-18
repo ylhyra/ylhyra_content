@@ -8,7 +8,8 @@ level: A1
 ---
 
 {{tweet
-|text=„Rannveig Dóra, maturinn er tilbúinn“<br/>
+|text=„Rannveig Dóra, maturinn er tilbúinn“
+
 Uppáhalds setningin mín í lífinu
 |audio=aDj5.mp3
 |id=664156211516973056

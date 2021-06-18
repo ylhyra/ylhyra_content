@@ -13,7 +13,8 @@ license: CC0
 
 {{a1|type=explanation}}
 
-There are four [[cases]] in Icelandic. The '''second case''' in the [[declension table]] is known as the "accusative case".<ref>On Ylhýra we refer to it as the "second case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].<br />
+There are four [[cases]] in Icelandic. The '''second case''' in the [[declension table]] is known as the "accusative case".<ref>On Ylhýra we refer to it as the "second case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].
+
 In Icelandic the first case is called '''þolfall''' and is abbreviated as '''þf.''' Þolfall literally means "suffering/enduring case". The English name "accusative" means "having been blamed" in Latin.</ref> It shows that the word is having something done to it.
 
 The [[helper word]] you use to force a word into the second case is „um“ ("about").

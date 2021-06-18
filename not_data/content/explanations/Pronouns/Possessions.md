@@ -36,5 +36,6 @@ But that does not include kærasti, kærasta, (eigin)maður, (eigin)kona, fjöls
 The possessive pronoun reflects the grammatical type of the possessed word, but not the person who owns it:
 
 * Þetta eru kettir'''nir''' '''mínir''' – We use the [[masculine]] [[plural]] "mínir" because the word "kettir" is masculine plural.
-* Hús'''ið þitt''' er fallegt. – We use the neuter singular "þitt" because the word "hús" is neuter singular.<br />
+* Hús'''ið þitt''' er fallegt. – We use the neuter singular "þitt" because the word "hús" is neuter singular.
+
 {{Notes}}

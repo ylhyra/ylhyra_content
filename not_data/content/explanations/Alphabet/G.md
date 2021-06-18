@@ -11,7 +11,7 @@ license: CC0
 '''G''' is a difficult letter in Icelandic, since it can represent 6 different sounds depending on which letters surround it.
 
 ==Hard G in the throat==
-{{listen|audio=YJEW.mp3}}
+<Audio src="YJEW.mp3" inline/>
 
 This is the basic G. It is similar to the ''g'' in English, except that you don't use your voice. It's the same sound as in the English word ''s'''k'''y''.
 
@@ -26,7 +26,7 @@ This G sound appears in the following situations:
 **liggur, þriggja
 
 =={{anchor|G in the roof of the mouth}}Hard G in the roof of the mouth==
-{{listen|audio=7M7w.mp3}}
+<Audio src="7M7w.mp3" inline/>
 
 Instead of being pronounced by closing the throat like a normal ''g'', this sound is pronounced by having the most backwards part of your tongue touch the roof of your mouth. It is very similar to the English ''s'''k'''ew''.
 
@@ -37,7 +37,7 @@ This sound appears if the next letter after the G is '''''e''''', '''''i''''', '
 Many learners have difficulties with this sound, so it can be helpful to imagine ''gær'' being written as "''gyær''", and ''gefa'' written as "''gyefa''".
 
 =={{anchor|Soft G}}Soft G with the voice==
-{{listen|audio=0lfb.mp3}}
+<Audio src="0lfb.mp3" inline/>
 
 This sound is pronounced by constricting your throat a little bit but not closing it completely. If you are an English speaker, start with the ''g'' sound in ''gun'', but don't stop the air completely, let some air through while <u>using</u> your voice. It is a softer version of the sound in the Spanish ''amigo''.
 
@@ -58,7 +58,7 @@ In particular you have to remember to not pronounce the ''g'' in the following w
 *o{{gray|g}} – You should ''always'' pronounce it as just "o"
 
 =={{anchor|Soft throaty G}}Soft throaty G (Soft G without the voice)==
-{{listen|audio=cZmR.mp3}}
+<Audio src="cZmR.mp3" inline/>
 
 This sound is a soft throaty breath. It is the same sound as the English ''lo'''ch''''' or ''Ba'''ch'''''. It is the same as the sound in the above section (the soft G sound) except without using the voice.
 
@@ -70,7 +70,7 @@ It appears:
 **róle'''g'''t, sa'''g'''t
 
 ==J==
-{{listen|audio=tDNq.mp3}}
+<Audio src="tDNq.mp3" inline/>
 
 If the letter is between a vowel and '''''j''''' or '''''i''''', it sounds like the Icelandic '''''[[j]]''''' or the English '''''y'''es'':
 

@@ -5,7 +5,7 @@ tags:
 ---
 
 <div class="book" data-translate="true" data-audio-file="Pípulækningar.mp3">
-{{audio|Pípulækningar.mp3}}
+<Audio src="Pípulækningar.mp3"/>
 <h1>[[Magnús Jochum Pálsson/Pípulækningar|Pípulækningar]]<ref>The title of this piece is a wordplay on the word `pípulagningar` (plumbing) and `lækningar` (practice of medicine). </ref></h1>
 <div class="subtitle">{{no audio|eftir [[Magnús Jochum Pálsson|Magnús Jochum]]}}</div>
 

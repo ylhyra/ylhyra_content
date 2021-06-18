@@ -16,7 +16,7 @@ Here you will read about „þúfur“ ([[w:Hummock#Earth_hummocks_of_cryogenic_
 <div class="book" data-translate="true" data-audio-file="Þúfa.mp3">
 <Image src="Gart Law to Auchendaff Hill - geograph.org.uk - 751417.jpg" position="right"/>
 <Image src="2014-04-27 15-23-28 Iceland - Blönduósi Blönduós.JPG" position="right"/>
-{{audio|Þúfa.mp3}}
+<Audio src="Þúfa.mp3"/>
 Með vetrinum kemur frostið. Vatnið í jörðinni frýs og þar sem að frosið vatn tekur upp meira pláss en fljótandi vatn lyftist jarðvegurinn upp. Jarðvegurinn lyftist ekki jafnhátt upp alls staðar svo að hann verður ójafn. Þegar það hlýnar verður ísinn svo aftur að vatni, en áður en jarðvegurinn nær að síga fyllast holurnar sem ísinn skildi eftir sig af sandi.
 
 Þetta endurtekur sig aftur og aftur í hvert skipti sem það frystir svo að smám saman myndast pínkulitlir hólar. Þessir litlu hólar kallast þúfur. Þúfur eru út um allt á Íslandi. Maður verður að fara varlega þegar maður labbar á þúfum vegna þess að það er auðvelt að misstíga sig.

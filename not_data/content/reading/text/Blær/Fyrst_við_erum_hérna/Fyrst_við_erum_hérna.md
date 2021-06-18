@@ -8,7 +8,7 @@ redirects:
 {{Blær|https://blaer.is/grein/fyrst-vid-erum-herna}}
 
 <div class="book" data-translate=true data-audio-file="Fyrst_við_erum_hérna.mp3">
-{{center|{{audio|Fyrst_við_erum_hérna.mp3}}}}
+{{center|<Audio src="Fyrst_við_erum_hérna.mp3"/>}}
 <html>
 <div class="blaer article">
 <div class="post-header">

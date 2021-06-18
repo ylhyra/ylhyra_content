@@ -11,14 +11,14 @@ Intonation is the way you sing while speaking. Not all the words in a sentence h
 Listen to the following examples and notice the different rising and falling musical tones used. The second examples are exaggerations of the same melodies.
 
 *{{listen|`Mamm{{gray|a}} o{{gray|g}} pabb{{gray|i}} er{{gray|u}} a{{gray|ð}} kom{{gray|a}} á eftir.`|audio=tzZ5.mp3}}
-**{{listen|audio=66B9.mp3}} <small>Mamm o</small> <sup>pabb</sup> <sub>er a kom á</sub> <small>eft</small> <sub>ir</sub>.
+**<Audio src="66B9.mp3" inline/> <small>Mamm o</small> <sup>pabb</sup> <sub>er a kom á</sub> <small>eft</small> <sub>ir</sub>.
 
-*{{listen|audio=Tdje.mp3}} `Ég nenni því ekki.`
-**{{listen|audio=SnmH.mp3}} <small>É</small> <sup>nenn</sup> <sub>i ðí i gyi</sub>
-*{{listen|audio=k9bD.mp3}} `Ég veit ekki einu sinni hvað þú ert að tala um.`
-**{{listen|audio=ZZt1.mp3}} <small>É</small> <sup>veit</sup> <sub>ekk einu sinni hva þú ert a</sub> <sup>'''tal'''</sup> <small>um</small>.
+*<Audio src="Tdje.mp3" inline/> `Ég nenni því ekki.`
+**<Audio src="SnmH.mp3" inline/> <small>É</small> <sup>nenn</sup> <sub>i ðí i gyi</sub>
+*<Audio src="k9bD.mp3" inline/> `Ég veit ekki einu sinni hvað þú ert að tala um.`
+**<Audio src="ZZt1.mp3" inline/> <small>É</small> <sup>veit</sup> <sub>ekk einu sinni hva þú ert a</sub> <sup>'''tal'''</sup> <small>um</small>.
 
-Sentences in Icelandic usually end with the pitch going down. A native Icelandic speaker will pronounce "Já" as <sup>J</sup><small>á</small><sub>á</sub> {{listen|audio=3FKh.mp3}} while a native Swedish speaker learning Icelandic will say <small>J</small><sub>á</sub><sup>á</sup> {{listen|audio=A6O3.mp3}} and a native Spanish speaker will say <small>Jáá</small> {{listen|audio=h88d.mp3}}(until they've practised their intonation).
+Sentences in Icelandic usually end with the pitch going down. A native Icelandic speaker will pronounce "Já" as <sup>J</sup><small>á</small><sub>á</sub> <Audio src="3FKh.mp3" inline/> while a native Swedish speaker learning Icelandic will say <small>J</small><sub>á</sub><sup>á</sup> <Audio src="A6O3.mp3" inline/> and a native Spanish speaker will say <small>Jáá</small> <Audio src="h88d.mp3" inline/>(until they've practised their intonation).
 
 *`Takk`
 **<sup>T</sup>a<sub>ak</sub>
@@ -55,8 +55,8 @@ In these examples, sentences are shown where the pitch is going up and where it 
 More examples:
 
 *{{listen|`Hva{{gray|ð}} ert{{gray|u}} a{{gray|ð}} gera?`|audio=somC.mp3}}
-**{{listen|audio=xFdm.mp3}}<sub>Kva ert a</sub> <small>gye</small> <sup>ra</sup> (casual question)
-**{{listen|audio=lKEi.mp3}}<sup>Kva ert a</sup> <small>gye</small> <sub>ra</sub> (this speaker is angry, not asking a question)
+**<Audio src="xFdm.mp3" inline/><sub>Kva ert a</sub> <small>gye</small> <sup>ra</sup> (casual question)
+**<Audio src="lKEi.mp3" inline/><sup>Kva ert a</sup> <small>gye</small> <sub>ra</sub> (this speaker is angry, not asking a question)
 
 *`Takk kærlega fyrir.` – Both mean the same thing, just [[Stress|stressing]] a different word:
 **Takk <sup>kær</sup> <sub>lega fyrir</sub>

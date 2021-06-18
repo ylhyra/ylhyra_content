@@ -10,7 +10,7 @@ title: Template:Tweet
 <div class="tweet-handle">[https://twitter.com/{{{handle}}}/status/{{{id}}} @{{{handle}}}]</div>
 </div>
 </div>
-<div class="tweet-text">{{translate-div|audio={{{audio|}}}|{{audio|{{{audio|}}}}}{{{text}}}}}</div><!--
+<div class="tweet-text">{{translate-div|audio={<Audio src="}"/>|<Audio_src="{{{audio|"/>}}}{{{text}}}}}</div><!--
 --><div><!--
 -->{{#if: {{{photo1|{{{photo|}}}}}}|<Image src="{{{photo1" position="{{{photo}}}}}}" width="300"/>|}}<!--
 -->{{#if: {{{photo2|}}}|<Image src="{{{photo2}}}" width="300" link="https://twitter.com/{{{handle}}}/status/{{{id}}}"/>|}}<!--
