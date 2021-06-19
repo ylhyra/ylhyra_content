@@ -39,35 +39,35 @@ Like in English, "Ég er að læra íslensku" (I am studying Icelandic) can eith
 
 Note that the G in "gera" is not pronounced a normal G, instead it's pronounced [[G in the roof of the mouth|in the roof of the mouth]] <Audio src="7M7w.mp3" inline/>, similar to the sound in the English word "''s'''k'''ew''". It's not pronounced by closing your throat, instead it's pronounced with the backwards part of your tongue touching the roof of your mouth. This sound appears when a hard G sound is followed by letters such as "e" or "i" and a few others. Pronouncing this sound is easier if you imagine that the word "gera" is written as "g'''y'''era".
 
-{{conversation|
-{{them|Hæ. Hvað segirðu gott?}}
-{{me|Allt gott, en þú?}}
-{{them|Gott.}}
-{{them|Hvað ert þú að gera?}}
-{{me|Ég er að læra.}}
-{{them|Hvað ert þú að læra?}}
-{{me|Ég er að læra íslensku.}}
-{{them|Já, ókei.}}
-{{them|En hvað er mamma þín að gera?}}
-{{me|Hún er líka að læra.}}
-{{them|Er hún líka að læra íslensku?}}
-{{me|Já, mamma mín er líka að læra íslensku.}}
-{{them|Er hún góð í íslensku?}}
-{{me|Já, hún er mjög góð í íslensku.}}
-{{them|Gott.}}
-{{me|Hvað ert þú að gera?}}
-{{them|Ég er að borða.}}
-{{me|Ah, ókei.}}
-{{me|Hvað ert þú að borða?}}
-{{them|Ég er að borða hamborgara.}}
-{{me|Er hann góður?}}
-{{them|Já, hann er mjög góður.}}
-{{them|Ert þú að borða hamborgara?}}
-{{me|Nei, ég er ekki að borða hamborgara.}}
-{{me|Ég er að læra íslensku.}}
-{{me|Ert þú að læra íslensku?}}
-{{them|Nei, ég er ekki að læra íslensku.}}
-}}
+<Conversation>
+you: Hæ. Hvað segirðu gott?
+me: Allt gott, en þú?
+you: Gott.
+you: Hvað ert þú að gera?
+me: Ég er að læra.
+you: Hvað ert þú að læra?
+me: Ég er að læra íslensku.
+you: Já, ókei.
+you: En hvað er mamma þín að gera?
+me: Hún er líka að læra.
+you: Er hún líka að læra íslensku?
+me: Já, mamma mín er líka að læra íslensku.
+you: Er hún góð í íslensku?
+me: Já, hún er mjög góð í íslensku.
+you: Gott.
+me: Hvað ert þú að gera?
+you: Ég er að borða.
+me: Ah, ókei.
+me: Hvað ert þú að borða?
+you: Ég er að borða hamborgara.
+me: Er hann góður?
+you: Já, hann er mjög góður.
+you: Ert þú að borða hamborgara?
+me: Nei, ég er ekki að borða hamborgara.
+me: Ég er að læra íslensku.
+me: Ert þú að læra íslensku?
+you: Nei, ég er ekki að læra íslensku.
+</Conversation>
 
 == Recommendations ==
 

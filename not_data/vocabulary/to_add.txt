@@ -6,13 +6,10 @@ Hann vinnur á bar.
 að segja af sér
 Hvað vantar þig
 Hvernig er peysan mín á litinn?
-
 að líta niður á
 Að fara yfir texta.
 Ég nenni því ekki.
-
 Úr hverju er þetta
-
 Tíminn líður án þess að maður átti sig á því.
 Að skreppa út í búð.
 Ég spurði hann hvort að hann gæti skroppið til mín.
@@ -79,13 +76,11 @@ Klukkan er of margt.
 Það er allt of seint.
 Við hvað vinnurðu?
 Ég vinn sem ...
-
 Hafðu engar áhyggjur af því.
 fyrifram
 Einmitt!, Nákvæmlega!, Akkúrat!
 Það er mánuður síðan.
 Að eiga von á ..
-
 Ég ætla að horfa á margar myndir.
 að ferðast
 Ég skal sjá um það.
@@ -115,9 +110,7 @@ fékk að velja um
 Hvað er hann þekktur fyrir?, Fyrir hvað er hann þekktur?
 Ég fékk að ...
 Hvað er þetta eiginlega?
-
 að leita að vinnu
-
 ár fram í tímann
 og hvað með það
 það fer ekki fram hjá neinum
@@ -166,7 +159,6 @@ Reyndar ekki.	Actually not.
 hvað sem ég vil
 Það svarar enginn.
 smám saman	little by little	3
-
 Það mættu tíu.
 að ná því út
 að fara úrskeiðis
@@ -269,31 +261,21 @@ utan við sig
 við rifumst
 voða fínt
 vanur þessu
-
-
-
 fyrr
 í fyrra
 fyrri
-
 Hann er stutthærður.
-
 að greiða	to pay money; to comb someone's hair
 hljóð	a sound; a silence
 heyrnartól
 að komast að einhverju
 rándýrt
-
-
-
 stressaður	nervous
 síðan	since (regarding time); after that
 hinkraðu
 sleipt
 hakk og spagettí
 klipping fer þér vel
-
-
 gaman	fun, enjouyable
 dónalegur
 ég get ekki ákveðið mig
@@ -316,7 +298,6 @@ hvort eð er
 Ertu kominn með vinnu?
 geturðu rétt mér smjörið?
 mín fyrrverandi
-
 að fylgjast með er líka "to keep an eye on"
 steinsofnaði
 talsvert yngri
@@ -352,7 +333,6 @@ settu það í ísskápinn
 upp á síðkastið
 Hvar ertu staddur?
 miðaldra
-
 Að standa sig vel 
 Guði sé lof
 Við búum ekki lengur saman.
@@ -382,7 +362,6 @@ Að gefa út bók.
 Að gefa út lag. 
 Ég get ekki beðið. 
 Ég er svo svangur 
-
 Smakka 
 Að vanda sig 
 Að vanda 
@@ -395,9 +374,7 @@ Hvað ertu með framan í þér?
 Afsakaðu ónæðið
 Ég er allt of þreyttur fyrir þetta. 
 Finnsg þér þetta of erfitt?
-
 Ég gerði það nokkrum sinnum. 
-
 Kannski smá 
 Ég er enn að jafna mig. 
 Hvert er nafnið?
@@ -474,7 +451,7 @@ Litli broðir minn er litill
 Ég á einn lítinn bróður.
 Ég hata allt og alla.
 afturábak
-Börnin hans eru á mínu aldri. 
+Börnin hans eru á mínum aldri. 
 Hringdu í mig. 
 Að vorkenna sjálfum sér 
 Hann er fastur 
@@ -539,7 +516,6 @@ Vissirðu af því?
 Ertu búinn að missa vitið?
 Labba í áttina að 
 Viltu bæta einhverju við?
-
 Jafntefli kemur frá að tefla 
 Næ ekki því sem hann segir. 
 Færðu þig Move over 

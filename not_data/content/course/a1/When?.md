@@ -19,7 +19,7 @@ vocabulary:
 ==When?==
 "Hvenær" means "when?". Rembember that "[[hv]]" is always pronounced "kv". There is one additional exception that only applies to the word "hvenær" that is fairly annoying for students: The letter "[[æ]]" in the word isn't fully pronounced, instead it is pronounced as an "[[a]]". "Hven'''æ'''r" is pronounced /k{{h}}ven'''a'''r/.
 
-{{conversation|
+<Conversation>
 {{1|Hæ. Hvað segirðu gott?}}
 {{2|Allt gott.}}
 {{1|Ert þú á Íslandi?}}
@@ -27,7 +27,7 @@ vocabulary:
 {{1|Hvenær ætlar þú að koma til Íslands?}}
 {{2|Ég ætla að koma til Íslands í janúar.}}
 {{1|Frábært!}}
-}}
+</Conversation>
 
 "Ísland" means "Iceland", but in the above text we used "Ísland'''i'''" and "Ísland'''s'''". The reason is that Icelandic words change their form depending on what is happening to them, like how the English word "he" changes to "him" depending on the word's purpose in the sentence. These forms are known as '''[[cases]]''' and there are four of them in Icelandic. You can [https://inflections.ylhyra.is/%C3%8Dsland/466527 click here] to see all the forms the word "Ísland" can have. You should not study the cases for now, you just need to be aware of the reason why the words change their form.
 

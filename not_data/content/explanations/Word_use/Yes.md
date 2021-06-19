@@ -17,31 +17,34 @@ There are '''two''' ways to say "yes" in Icelandic:
 Regular questions:
 
 <Audio src="skyrtu_fyrir_kvöldið.mp3"/>
-{{conversation|
-{{them|Góðann daginn, get ég aðstoðað?}}
-{{me|'''Já''', ég er að leita að skyrtu fyrir kvöldið.}}
-{{them|'''Já''' ég skil.}}
-}}
+
+<Conversation>
+you: Góðann daginn, get ég aðstoðað?
+me: '''Já''', ég er að leita að skyrtu fyrir kvöldið.
+you: '''Já''' ég skil.
+</Conversation>
 
 *'''Negative''' questions:
 
 <Audio src="23-er_þetta_ekki_gott.mp3"/>
-{{conversation|
-{{them|Er þetta '''ekki''' gott?}}
-{{me|Jú, þetta er mjög gott.}}
-}}
+
+<Conversation>
+you: Er þetta '''ekki''' gott?
+me: Jú, þetta er mjög gott.
+</Conversation>
 
 ===Já já===
 
 `Já já` is a casual way of saying "yeah, sure".
 
 <Audio src="24-kemur_þú_í_sund.mp3"/>
-{{conversation|
-{{them|Kemur þú í sund?}}}
-{{me|'''Já já'''. Klukkan hvað?}}}
-{{them|Kannski klukkan 15:00?}}}
-{{me|Ókei, hljómar vel.}}}
-}}
+
+<Conversation>
+you: Kemur þú í sund?
+me: '''Já já'''. Klukkan hvað?
+you: Kannski klukkan 15:00?
+me: Ókei, hljómar vel.
+</Conversation>
 
 ===Já (breathing in) 🌬===
 
@@ -71,8 +74,8 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|en=yes|is=já}}
 }}
 
-{{conversation|
-{{them|Ert þú þyrstur?}}
+<Conversation>
+you: Ert þú þyrstur?
 {{multiple choice|en|is
 |instructions=Yes, you're thirsty
 |options=
@@ -80,12 +83,12 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|is=Jú}}
 {{option|is=Já já}}
 {{option|is=Já {{notranslate|[breathing in]}}}}
-}}
-{{me|Já}}
+</Conversation>
+me: Já
 }}
 
-{{conversation|
-{{them|Vilt þú kók?}}
+<Conversation>
+you: Vilt þú kók?
 {{multiple choice|en|is
 |instructions=You'd accept some Coca Cola, but you're not that excited for it
 |options=
@@ -93,12 +96,12 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|is=Já}}
 {{option|is=Jú}}
 {{option|is=Já {{notranslate|[breathing in]}}}}
-}}
-{{me|Já já}}
+</Conversation>
+me: Já já
 }}
 
-{{conversation|
-{{them|Ert þú ekki þyrstur?}}
+<Conversation>
+you: Ert þú ekki þyrstur?
 {{multiple choice|en|is
 |instructions=Yes, you're thirsty
 |options=
@@ -106,12 +109,12 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|is=Já}}
 {{option|is=Já já}}
 {{option|is=Já {{notranslate|[breathing in]}}}}
-}}
-{{me|Jú}}
+</Conversation>
+me: Jú
 }}
 
-{{conversation|
-{{them|Gunnar er aftur byrjaður að reykja sígarettur.}}
+<Conversation>
+you: Gunnar er aftur byrjaður að reykja sígarettur.
 {{multiple choice|en|is
 |instructions=You're slightly disappointed in Gunnar
 |options=
@@ -119,12 +122,12 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|is=Já}}
 {{option|is=Jú}}
 {{option|is=Já já}}
-}}
-{{me|Já {{notranslate|[breathing in]}}}}
+</Conversation>
+me: Já {{notranslate|[breathing in]}}
 }}
 
-{{conversation|
-{{them|Kemur þú ekki á eftir?}}
+<Conversation>
+you: Kemur þú ekki á eftir?
 {{multiple choice|en|is
 |instructions=Yes, you're coming
 |options=
@@ -132,12 +135,12 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|is=Já}}
 {{option|is=Já já}}
 {{option|is=Já {{notranslate|[breathing in]}}}}
-}}
-{{me|Jú, ég kem á eftir.}}
+</Conversation>
+me: Jú, ég kem á eftir.
 }}
 
-{{conversation|
-{{them|Vilt þú bjór?}}
+<Conversation>
+you: Vilt þú bjór?
 {{multiple choice|en|is
 |instructions=Yes, you'd like a beer
 |options=
@@ -145,8 +148,8 @@ It is usually used in casual conversations, where you are casually showing agree
 {{option|is=Jú|en=yes (responding to a negative)}}
 {{option|is=Já já|en=yeah sure}}
 {{option|is=Já {{notranslate|[breathing in]}}}}
-}}
-{{me|Já takk!}}
+</Conversation>
+me: Já takk!
 }}
 
 {{end|Yes}}

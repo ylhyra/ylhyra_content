@@ -63,16 +63,16 @@ In the last chapter, you saw the phrase "Hvað segirðu gott?". The word "good" 
 
 Notice which form of the word "good" is used in the following conversation:
 
-{{conversation|
-{{them|Hvað segirðu '''gott'''?}}
-{{me|Allt '''gott'''. En þú?}}
-{{them|Allt '''gott'''.}}
-{{them|Ert þú '''góður''' í íslensku.}}
-{{me|Já. Ég er mjög '''góður''' í íslensku.}}
-{{them|Það er '''gott'''.}}
-{{them|Er mamma þín líka '''góð''' í íslensku?}}
-{{me|Já, hún er líka mjög '''góð''' í íslensku.}}
-}}
+<Conversation>
+you: Hvað segirðu '''gott'''?
+me: Allt '''gott'''. En þú?
+you: Allt '''gott'''.
+you: Ert þú '''góður''' í íslensku.
+me: Já. Ég er mjög '''góður''' í íslensku.
+you: Það er '''gott'''.
+you: Er mamma þín líka '''góð''' í íslensku?
+me: Já, hún er líka mjög '''góð''' í íslensku.
+</Conversation>
 
 ==You are==
 

@@ -12,16 +12,19 @@ license: CC0
 *You didn’t hear what the other person said
 *You just ''can’t believe'' what the other person said
 
-Sometimes foreigners think "`ha?`" sounds too aggressive, like the person saying it is being very rude or angry. That's not the case at all, "`ha?`" is a very normal word that's not rude at all, and it is used both between friends and in professional settings.{{conversation|
-{{them|Hvað ert þú að gera?}}
-{{me|Ha?}}
-{{them|Ég sagði, hvað ert þú að gera?}}
-}}
-{{conversation|
-{{them|Sorrí, ég kem ekki á morgun.}}
-{{me|Ha?! Af hverju ekki?}}
-}}
-{{conversation|
-{{them|Þessi banani kostar 2.000 krónur.}}
-{{me|Ha? Það getur ekki verið.}}
-}}
+Sometimes foreigners think "`ha?`" sounds too aggressive, like the person saying it is being very rude or angry. That's not the case at all, "`ha?`" is a very normal word that's not rude at all, and it is used both between friends and in professional settings.
+<Conversation>
+you: Hvað ert þú að gera?
+me: Ha?
+you: Ég sagði, hvað ert þú að gera?
+</Conversation>
+
+<Conversation>
+you: Sorrí, ég kem ekki á morgun.
+me: Ha?! Af hverju ekki?
+</Conversation>
+
+<Conversation>
+you: Þessi banani kostar 2.000 krónur.
+me: Ha? Það getur ekki verið.
+</Conversation>

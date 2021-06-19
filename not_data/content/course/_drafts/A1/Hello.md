@@ -10,12 +10,13 @@ redirects:
 See how many other words you sort of recognize in this interaction between a mother and her child:
 
 <Audio src="Mamma-þyrstur.mp3"/>
-{{conversation|
-{{them|Halló!}}
-{{them|Hvernig var skólinn?}}
-{{me|Fínn.}}
-{{them|Gott að heyra. Ert þú þyrstur? Vilt þú kók?}}
-{{me|Nei takk. Ég er ekki þyrstur.}}
-}}
+
+<Conversation>
+you: Halló!
+you: Hvernig var skólinn?
+me: Fínn.
+you: Gott að heyra. Ert þú þyrstur? Vilt þú kók?
+me: Nei takk. Ég er ekki þyrstur.
+</Conversation>
 
 If you squint a little, you should be able to recognize ''hello, hi, mom, school, fine, hear, thirsty'', and ''Coke''.

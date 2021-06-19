@@ -14,10 +14,10 @@ Here are two popular ways to memorize the phrase `góðan daginn`:
 
 You can also just skip the `góðan` part and just say `daginn`:
 
-{{conversation|
-{{them|Góðan daginn!}}
-{{me|Daginn!}}
-}}
+<Conversation>
+you: Góðan daginn!
+me: Daginn!
+</Conversation>
 
 Both phrases mean the same thing: "I wish you a good day".
 

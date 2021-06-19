@@ -74,13 +74,13 @@ The other person can now reply in the same manner as you, "Allt gott", or they c
 
 Putting it all together, this is the conversation you will have a few thousand times in your life:
 
-{{conversation|
-{{them|Hæ.}}
-{{them|Hvað segirðu gott?}}
-{{me|Allt gott.}}
-{{me|En þú?}}
-{{them|Gott.}}
-}}
+<Conversation>
+you: Hæ.
+you: Hvað segirðu gott?
+me: Allt gott.
+me: En þú?
+you: Gott.
+</Conversation>
 
 ==And how is your mother doing?==
 The way to say "your mom" is "mamma þín" ("''mom your''"):
@@ -95,19 +95,19 @@ Notice that "þín" (your) and "mín" (my) look the same except for the first le
 
 *Hún segir allt gott. = She's doing well. ("She says everything good.")
 
-{{conversation|
-{{them|Hæ.}}
-{{them|Hvað segirðu gott?}}
-{{me|Allt gott.}}
-{{me|En þú?}}
-{{them|Gott.}}
-{{them|Hvað segir mamma þín gott?}}
-{{me|Hún segir allt gott.}}
-{{them|Það er gott.}}
-{{me|Já. En hvað segir mamma þín gott?}}
-{{them|Mamma mín segir allt gott.}}
-{{me|Það er gott.}}
-}}
+<Conversation>
+you: Hæ.
+you: Hvað segirðu gott?
+me: Allt gott.
+me: En þú?
+you: Gott.
+you: Hvað segir mamma þín gott?
+me: Hún segir allt gott.
+you: Það er gott.
+me: Já. En hvað segir mamma þín gott?
+you: Mamma mín segir allt gott.
+me: Það er gott.
+</Conversation>
 
 ==Recommendations==
 

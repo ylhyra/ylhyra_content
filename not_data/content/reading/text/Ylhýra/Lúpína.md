@@ -4,6 +4,20 @@ tags:
 - Culture
 license: CC0
 level: B1
+vocabulary:
+- næstum því
+- enginn
+- skógur
+- einhver
+- eitthvað
+- landnám
+- vegna, út af
+- áhrifin
+- kindin
+- gras
+- sandur
+- lítill
+todo: bara fyrsta málsgrein búin
 ---
 
 <Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" width="700"/>
@@ -26,9 +40,8 @@ Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo fal
 <div class="notes">
 Sources:
 
-*[https://www.bbl.is/frettir/skodun/um-lupinu-og-beit/12618/ Um lúpínu og beit] (2015). Anna Guðrún Þórhallsdóttir''.'' Bændablaðið''.''
+*[https://www.bbl.is/frettir/skodun/um-lupinu-og-beit/12618/ Um lúpínu og beit] (2015). Anna Guðrún Þórhallsdóttir. ''Bændablaðið''.
 *[https://www.visindavefur.is/svar.php?id=72118 Er það rétt sem ég lærði í grunnskóla að sauðfé hafi eytt skógum landsins?] (2017). Bryndís Marteinsdóttir. Vísindavefurinn.
 *[https://rafhladan.is/bitstream/handle/10802/4440/Lupinuskyrsla.pdf?sequence=1 Alaskalúpína og skógarkerfill á Íslandi] (2010). Náttúrufræðistofnun Íslands og Landgræðsla ríkisins.
 *[https://www.ni.is/grodur/agengar-plontur/alaskalupina Alaskalúpína]. Náttúrufræðistofnun Íslands.
 </div>
-
