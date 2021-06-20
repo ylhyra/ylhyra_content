@@ -11,4 +11,4 @@ Magnús Jochum Pálsson (born 1997) is an author of short stories. He published 
 
 The book is published under the following license:
 
-{{:Text:Magnús_Jochum_Pálsson/Leyfi}}
+{{Text:Magnús_Jochum_Pálsson/Leyfi}}

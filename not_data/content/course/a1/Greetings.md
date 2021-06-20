@@ -35,17 +35,17 @@ Notes on pronunciation:
 
 ===Sæll===
 
-"{{is|Sæll}}" is one of the most common ways to greet someone.<ref>The word itself means "happy" or "content", the implied meaning is "I wish you happiness / good fortune".</ref> Although it is a relatively formal greeting, it's used both between good friends and in a professional setting. You should use it when meeting your friend, when writing an email, and when addressing the prime minister. This greeting only works if you're in a situation where you already know something about the other person, if you don't know anything about them (such as when greeting a customer, or when writing an email to an organization) you should use "Góðan daginn".
+"<translate>Sæll</translate>" is one of the most common ways to greet someone.<ref>The word itself means "happy" or "content", the implied meaning is "I wish you happiness / good fortune".</ref> Although it is a relatively formal greeting, it's used both between good friends and in a professional setting. You should use it when meeting your friend, when writing an email, and when addressing the prime minister. This greeting only works if you're in a situation where you already know something about the other person, if you don't know anything about them (such as when greeting a customer, or when writing an email to an organization) you should use "Góðan daginn".
 
 "Sæll" is an [[adjective]], and therefore it changes its form depending on who it's describing. If you're greeting a man you say "Sæll" and if you're greeting a woman you say "Sæl". There's yet another form you need to use when addressing a group of people, but that's a topic for another time.
 
 {| class="wikitable"
 |+
 !{{Kk}}
-|{{is|sæll}}
+|<translate>sæll</translate>
 |-
 !{{Kvk}}
-|{{is|sæl}}
+|<translate>sæl</translate>
 |}
 
 Notes on pronunciation:

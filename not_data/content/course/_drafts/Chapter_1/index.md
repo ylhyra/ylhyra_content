@@ -22,27 +22,27 @@ Notice how many Icelandic words are similar to the English ones. In particular, 
 * Systir mín er lítil.
 
 ==Hello==
-{{:Chapter 1/Hello}}
+{{Chapter 1/Hello}}
 
 ==Text snippets==
-{{:Text/Milk}}
-{{:Conversations/Prentari}}
+{{Text/Milk}}
+{{Conversations/Prentari}}
 
 ==Grammar – The “the”==
-{{:Definite article/Introduction}}
+{{Definite article/Introduction}}
 
 ==Text – Winter==
-{{:Conversations/Winter}}
+{{Conversations/Winter}}
 
 ==Grammar – Introduction to cases==
-{{:Cases/Introduction}}
+{{Cases/Introduction}}
 
 ==Text snippet – Dance==
 {{Snippet:Eiríkur dansar}}
 
 ==Language – Yes yes yes!==
-{{:yes}}
-<!--{{:Chapter 1/Vocabulary
+{{yes}}
+<!--{{Chapter 1/Vocabulary
 ==~Fin~==
 
 To wrap up Chapter 1, listen to the 2019 hit song `Veist af mér` by Huginn.

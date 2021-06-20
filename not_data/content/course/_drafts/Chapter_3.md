@@ -6,10 +6,10 @@ tags:
 ---
 
 ==Ha?==
-{{:ha?}}
+{{ha?}}
 
 ==Að==
-{{:Text:Að/Intro}}
+{{Text:Að/Intro}}
 
 ==What's that strange click sound?==
 
@@ -24,7 +24,7 @@ Some words don't have this click sound, those words tend to be either foreign or
 == Sæll! ==
 Now that you know how to pronounce your {{code|LL}}s, it's time to learn the business casual greeting.
 
-{{:Text:Sæll/Intro}}
+{{Text:Sæll/Intro}}
 
 Hlustunarleikir:
 * sæll
@@ -36,7 +36,7 @@ Hlustunarleikir:
 
 == This ==
 
-{{:Text:Þetta/Intro}}
+{{Text:Þetta/Intro}}
 
 <!--
 Hvar ert þú? Ég er heima.

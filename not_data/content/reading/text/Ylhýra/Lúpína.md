@@ -4,6 +4,7 @@ tags:
 - Culture
 license: CC0
 level: B1
+published: August 2020
 vocabulary:
 - næstum því
 - enginn

@@ -15,7 +15,7 @@ This is the basic form of verbs, known as the [[infinitive]]:
 
 *Ég ætla '''að''' koma á sunnudaginn, mig langar '''að''' vera lengi.
 
-===2. Joining together sentences – ''{{is|that ...}}''===
+===2. Joining together sentences – ''<translate>that ...</translate>''===
 
 *Ég held '''að''' ég komi seint, mamma segir '''að''' ég þurfi að elda þó '''að''' ég hafi eldað í gær.
 

@@ -2,7 +2,7 @@
 title: Text:Þetta/Full explanation
 ---
 
-To refer to something close, you use {{is|'''þetta'''}}.{{efn|{{is|Þetta}} is a [[demonstrative pronoun]] ({{is|ábendingarfornafn}}).}} The word changes a bit based on gender:
+To refer to something close, you use <translate>'''þetta'''</translate>.{{efn|<translate>Þetta</translate> is a [[demonstrative pronoun]] (<translate>ábendingarfornafn</translate>).}} The word changes a bit based on gender:
 {| class="wikitable"
 |+
 !
@@ -18,24 +18,24 @@ To refer to something close, you use {{is|'''þetta'''}}.{{efn|{{is|Þetta}} is 
 
 ===Normal usage===
 
-*{{is|Þessi sími virkar ekki}} = This telephone doesn't work.
-*{{is|Þessi kaka er góð}} = This cake is good.
-*{{is|Þetta lamb er fallegt}} = This lamb is pretty.
-*{{is|Þessi köttur er þreyttur.}} = This cat is tired.
+*<translate>Þessi sími virkar ekki</translate> = This telephone doesn't work.
+*<translate>Þessi kaka er góð</translate> = This cake is good.
+*<translate>Þetta lamb er fallegt</translate> = This lamb is pretty.
+*<translate>Þessi köttur er þreyttur.</translate> = This cat is tired.
 
 ===No noun===
-If there is no [[noun]], the default is {{is|þetta}} {{hk}}
+If there is no [[noun]], the default is <translate>þetta</translate> {{hk}}
 
-*{{is|Hvað er þetta?}} = What is this?
-*{{is|Þetta er ekki fyndið.}} = This isn't funny.
-*{{is|Þetta getur ekki verið rétt}} = This cannot be true
+*<translate>Hvað er þetta?</translate> = What is this?
+*<translate>Þetta er ekki fyndið.</translate> = This isn't funny.
+*<translate>Þetta getur ekki verið rétt</translate> = This cannot be true
 
 === Noun is somewhere else in the sentence ===
-The default is also a neuter {{is|þetta}} {{hk}} when the noun is somewhere else in the sentence but not right next to the {{is|þetta}}:
+The default is also a neuter <translate>þetta</translate> {{hk}} when the noun is somewhere else in the sentence but not right next to the <translate>þetta</translate>:
 
-*{{is|Þetta er góð kaka.}} = This is a good cake
-*{{is|Þetta er konan sem kom í gær. Þessi kona kom í gær.}} = This is the woman that came yesterday. This woman came yesterday.`
-*{{is|Þetta er góð kaka, en þessi er betri.}} = This is a good cake, but this one is better.
+*<translate>Þetta er góð kaka.</translate> = This is a good cake
+*<translate>Þetta er konan sem kom í gær. Þessi kona kom í gær.</translate> = This is the woman that came yesterday. This woman came yesterday.`
+*<translate>Þetta er góð kaka, en þessi er betri.</translate> = This is a good cake, but this one is better.
 
 {| class="wikitable"
 |+

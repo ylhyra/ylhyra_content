@@ -15,19 +15,19 @@ All [[nouns]] in Icelandic belong to one of three genders: he {{kk}}, she {{kvk}
 
 Have a look at some words of different genders:
 
-*'''He''' {{kk}}: maður, {{is|fótur}}, {{is|köttur}}, {{is|garður}}, {{is|stóll}}, {{is|banani}}, {{is|fótbolti}}, hamborgari
-*'''She''' {{kvk}}: kona, {{is|skyrta}}, {{is|tunga}}, {{is|mínúta}}, {{is|súpa}}, {{is|mjólk}}, pítsa, frétt
-*'''It''' {{hk}}: barn, {{is|gras}}, {{is|hús}}, {{is|epli}}, {{is|brauð}}, kaffi, kvöld, símanúmer, svar
+*'''He''' {{kk}}: maður, <translate>fótur</translate>, <translate>köttur</translate>, <translate>garður</translate>, <translate>stóll</translate>, <translate>banani</translate>, <translate>fótbolti</translate>, hamborgari
+*'''She''' {{kvk}}: kona, <translate>skyrta</translate>, <translate>tunga</translate>, <translate>mínúta</translate>, <translate>súpa</translate>, <translate>mjólk</translate>, pítsa, frétt
+*'''It''' {{hk}}: barn, <translate>gras</translate>, <translate>hús</translate>, <translate>epli</translate>, <translate>brauð</translate>, kaffi, kvöld, símanúmer, svar
 
 Although there are some patterns you may be able to pick out, it's not really possible to know a word's gender just by looking at it, instead it is something you slowly learn by seeing how the word causes other words in the sentence to behave.
 
-Many other European languages also have a grammatical gender, such as German, Russian, and French. There is really no reason for ''why'' words have a gender, they just do. Words such as ''{{is|köttur}}'' (which is masculine {{kk}}) can also refer to female cats.
+Many other European languages also have a grammatical gender, such as German, Russian, and French. There is really no reason for ''why'' words have a gender, they just do. Words such as ''<translate>köttur</translate>'' (which is masculine {{kk}}) can also refer to female cats.
 
 See the effect a word’s gender has on the rest of the sentence:
 
-*{{is|Hvað er köttur'''inn''' {{kk}} þi'''nn''' {{kk}} gama'''ll'''{{kk}}?}}
-*{{is|Hvað er skyrta'''n''' {{kvk}} þí'''n''' {{kvk}} gömu'''l'''{{kvk}}?}}
-*{{is|Hvað er hús'''ið''' {{hk}} þi'''tt''' {{hk}} gamal'''t'''{{hk}}?}}
+*<translate>Hvað er köttur'''inn''' {{kk</translate> þi'''nn''' {{kk}} gama'''ll'''{{kk}}?}}
+*<translate>Hvað er skyrta'''n''' {{kvk</translate> þí'''n''' {{kvk}} gömu'''l'''{{kvk}}?}}
+*<translate>Hvað er hús'''ið''' {{hk</translate> þi'''tt''' {{hk}} gamal'''t'''{{hk}}?}}
 
 <Button>[[Game:Kyn|Learn the genders]]</Button>
 

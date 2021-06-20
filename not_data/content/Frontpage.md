@@ -4,13 +4,13 @@ redirects:
 - Ylhýra
 ---
 
+<Frontpage/>
+
 <div id="frontpage-splash-screen">
 <div id="frontpage-splash-screen-english">
-{{:Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence, allowing you to read with ease.
+{{Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence.
 </div>
-<!--<noscript>
-<Image src="Ylhyra demo.gif" width="402"/>
-</noscript>-->
+<!--<noscript><xxImage src="Ylhyra demo.gif" width="402"/></noscript>-->
 <div id="frontpage-splash-screen-demo">
 {{Text:Demo}}
 </div>

@@ -19,5 +19,5 @@ tags:
 
 == Gender ==
 
-{{:Gender}}
-{{:Text:Gender/Vocabulary}}
+{{Gender}}
+{{Text:Gender/Vocabulary}}

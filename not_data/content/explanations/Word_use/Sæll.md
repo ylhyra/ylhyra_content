@@ -6,7 +6,7 @@ tags:
 license: CC0
 ---
 
-{{:Text:Sæll/Intro}}
+{{Text:Sæll/Intro}}
 
 ==Longer form==
 The longer form of `sæll` is either "be happy" or "be happy and blessed". Strangely enough, the order of "be" and "happy" can change whether it is thought of as a hello or a goodbye.
