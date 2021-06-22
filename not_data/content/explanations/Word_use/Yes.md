@@ -54,7 +54,7 @@ Have a listen: <Audio src="Já_á_innsoginu_x_2.mp3"/>
 
 This also exists in the other Nordic languages, but in Icelandic you can say entire sentences while breathing in.
 
-{{listen|Já}} while breathing in means:
+`Já` while breathing in means:
 
 *Ah yes, I do agree with you.
 *Ah yes, please continue speaking!

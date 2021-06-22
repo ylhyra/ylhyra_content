@@ -72,6 +72,3 @@ This small breath is extremely important, without it it's almost impossible to u
 
 The name of the letter is "ká".
 
-{{next simple|prev=j|next=l}}
-
-<div class="notes"></div>

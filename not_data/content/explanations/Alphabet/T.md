@@ -49,4 +49,3 @@ This small breath is extremely important, without it it's almost impossible to u
 
 The name of the letter is "té".
 
-{{next simple|prev=s|next=u}}

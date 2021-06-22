@@ -12,7 +12,7 @@ license: CC0
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").
 
-==[[Infinitive|Basic form]]<ref>Known as ''infinitive'' (''nafnháttur'')</ref>==
+==[[Infinitive|Basic form]]<note>Known as ''infinitive'' (''nafnháttur'')</note>==
 Icelandic verbs in their most basic form practically always end in "a":
 
 *to hear – að heyra
@@ -24,7 +24,7 @@ Icelandic verbs in their most basic form practically always end in "a":
 
 The little word "að" means the exact same thing as the English word "to", it is an additional word that shows that this is the basic form of the verb.
 
-==Form changes<ref>Known as conjugation</ref>==
+==Form changes<note>Known as conjugation</note>==
 English verbs can change significantly depending on what is happening to them ("go", "goes", "went", "gone"). The same happens in Icelandic to a significantly higher degree, with some verbs having up to one hundred variants. The verbs can change so much since there can be a specific form depending on when the action is happening, who is doing the action, whether we are doubtful or not, and so on. Not only do the verb endings change, certain words are highly irregular.
 
 [https://inflections.ylhyra.is/fara/433568 Click here] to see all the possible variants of the word "to go".
@@ -53,6 +53,6 @@ This pattern is extremely common.
 
 <div class="notes">
 '''Notes'''
-{{reflist}}
+
 </div>
 {{Parts of speech}}

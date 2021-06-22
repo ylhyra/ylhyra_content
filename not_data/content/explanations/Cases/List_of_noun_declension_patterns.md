@@ -473,7 +473,7 @@ Almost all neuter words follow this pattern. These words don't have a suffix in 
 
 Regular words that are the same in the first case singular and plural:
 
-*ár, dæmi, hús, kjöt, bakarí, frí, hlé, partí, píanó, apótek, beikon, bein, bensín, bil, blóð, blóm, boð, borð, brauð, bréf, brjóst, bull, dót, dýr, flug, fólk, frost, gat, gler, gos, gólf, gras, grill, grín, gull, haf, haust, hár, hjól, hljóð, hraun, hunang, járn, klósett, korter, kort, krem, kvöld, lauf, lán, lið, líf, ljóð, ljós, loft, lok, lyf, mál, morð, nám, nef, net, orð, pils, pláss, próf, ráð, rán, rok, rugl, ryk, skáld, skip, skott, skyn, ský, slys, smjör, spil, stál, stig, stígvél, stríð, sund, svið, svín, tóbak, tungl, úr, verð, vín, vopn, vor, augnablik, matarboð, tilboð, gæludýr, netfang, snjóflóð, hrísgrjón, áhrif,<ref>Only used in the plural</ref> straujárn, blómkál, morgunkorn, ferðalag, andlit, tungumál, símanúmer, hitastig, dagatal, samtal, viðtal, álver, hlutverk, félag, rúm, bókasafn, vínber, takmark, tímabil, samfélag, lykilorð, forrit, tímarit, krabbamein, eftirlit, rafmagn, sjónvarp, brúðkaup, námskeið, málverk, vandamál, skordýr, eldhús, leikhús, útlit, listaverk, hótel, te, bíó, hlið (in the meaning of "a gate")
+*ár, dæmi, hús, kjöt, bakarí, frí, hlé, partí, píanó, apótek, beikon, bein, bensín, bil, blóð, blóm, boð, borð, brauð, bréf, brjóst, bull, dót, dýr, flug, fólk, frost, gat, gler, gos, gólf, gras, grill, grín, gull, haf, haust, hár, hjól, hljóð, hraun, hunang, járn, klósett, korter, kort, krem, kvöld, lauf, lán, lið, líf, ljóð, ljós, loft, lok, lyf, mál, morð, nám, nef, net, orð, pils, pláss, próf, ráð, rán, rok, rugl, ryk, skáld, skip, skott, skyn, ský, slys, smjör, spil, stál, stig, stígvél, stríð, sund, svið, svín, tóbak, tungl, úr, verð, vín, vopn, vor, augnablik, matarboð, tilboð, gæludýr, netfang, snjóflóð, hrísgrjón, áhrif,<note>Only used in the plural</note> straujárn, blómkál, morgunkorn, ferðalag, andlit, tungumál, símanúmer, hitastig, dagatal, samtal, viðtal, álver, hlutverk, félag, rúm, bókasafn, vínber, takmark, tímabil, samfélag, lykilorð, forrit, tímarit, krabbamein, eftirlit, rafmagn, sjónvarp, brúðkaup, námskeið, málverk, vandamál, skordýr, eldhús, leikhús, útlit, listaverk, hótel, te, bíó, hlið (in the meaning of "a gate")
 
 Umlaut in the plural:
 
@@ -568,4 +568,3 @@ These words also do not cleanly fit into any pattern and must be studied seperat
 |bæj'''a'''
 }}
 
-{{notes}}

@@ -36,7 +36,7 @@ Unlike in English however, the same happens with the word `að geta`:
 
 *Ég get farið (I can go)
 
-The form used in this context is '''always''' the [[Gender|neuter]] form in the [[Nominative case|first case]].<ref>Because this form does not change at all, you might see a few books describe it as its own form, called the ''supine'' (''sagnbót'') form. For example, [https://bin.arnastofnun.is/ BÍN] lists this form by itself. However, since it always looks and behaves like the past participle, [[neuter]], [[nominative]], standard grammar books and school textbooks do not differentiate between the two. You can safely ignore this difference.</ref> It does not change depending on the subject.
+The form used in this context is '''always''' the [[Gender|neuter]] form in the [[Nominative case|first case]].<note>Because this form does not change at all, you might see a few books describe it as its own form, called the ''supine'' (''sagnbót'') form. For example, [https://bin.arnastofnun.is/ BÍN] lists this form by itself. However, since it always looks and behaves like the past participle, [[neuter]], [[nominative]], standard grammar books and school textbooks do not differentiate between the two. You can safely ignore this difference.</note> It does not change depending on the subject.
 
 ==How to form the past participle==
 The formation of the past participle does not follow any rules that you can easily memorize and there are many irregular ones. What you're usually trying to do is to make the word end in `-að`, `-ið`, `-ð` or `-t`.
@@ -114,13 +114,12 @@ And finally we have some that include the same change as can be seen in the past
 *að vinna → ég hef unnið
 **Same change as in the past tense plural "við unnum"
 *að líða → mér hefur liðið
-**Same change as in the past tense plural "við liðum"<ref>But in the [[impersonal conjugation]] it's actually not declined and is just "okkur líður"</ref>
+**Same change as in the past tense plural "við liðum"<note>But in the [[impersonal conjugation]] it's actually not declined and is just "okkur líður"</note>
 
 The words listed above are the most important past participle forms that you need to memorize. They amount of irregularity is quite annoying, but most students get a hang of them quickly.
 
 <div class="notes">
 '''Notes'''
-{{reflist}}
 
 *There are a handful of other helper words that can also result in a past participle, but they are so rarely used that you should not learn them.
 

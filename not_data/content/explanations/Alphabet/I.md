@@ -23,4 +23,3 @@ There is an important word that, unintuitively, follows the above rule. That is 
 
 The name of the letter is "i".
 
-{{next simple|prev=h|next=í}}

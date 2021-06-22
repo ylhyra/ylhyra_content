@@ -49,7 +49,7 @@ The following nicknames are not as commonly seen as the above, but are still use
 *Georg = Goggi
 *Guðlaugur = Gulli
 *Guðlaug = Gulla
-*Guðmundur = Gummi<ref>On rare occasions 'Mummi'</ref>
+*Guðmundur = Gummi<note>On rare occasions 'Mummi'</note>
 *Ágúst, Gústaf = Gústi
 *Hafsteinn = Haffi
 *Aðalheiður = Heiða
@@ -84,4 +84,3 @@ The following nicknames are not as commonly seen as the above, but are still use
 *Valgeir, Valtýr, Valgarð = Valli
 *Vilhjálmur = Villi
 
-{{notes}}

@@ -36,7 +36,7 @@ The word changes depending on person like so:
 *Ég veit ''að'' mamma þín er mjög góð í íslensku. = I know ''that'' your mother is very good at Icelandic.
 
 ==This and that==
-There are two words that you can use to point to things: "þetta" (''this'') and "það" (''that'').<ref>This is a simplification.</ref><!-- They have a very similar meaning, but "þetta" points to things with more force (making it ideal for pointing to objects or for when you're being specific) while "það" points to things with less precision (making it better for pointing out ideas, situations or events). -->
+There are two words that you can use to point to things: "þetta" (''this'') and "það" (''that'').<note>This is a simplification.</note><!-- They have a very similar meaning, but "þetta" points to things with more force (making it ideal for pointing to objects or for when you're being specific) while "það" points to things with less precision (making it better for pointing out ideas, situations or events). -->
 
 *1|Hvað er '''þetta'''?
 *2|Hm, '''það''' er góð spurning. Ég veit ekki hvað '''þetta''' er.
@@ -70,4 +70,4 @@ Translate the following:
 ==Recommendations==
 
 *Listen to the 2018 pop song [https://www.youtube.com/watch?v=NrFXCSsEy_M '''Veist af mér'''] by Huginn (lyrics [https://genius.com/Huginn-veist-af-mer-lyrics here]). Focus on the phrases "''Þú veist'' af mér" (literally "You know of me", meaning "You know where to find me if you need me") and "Því ''ég veit''" ("Because I know").
-{{notes}}
+

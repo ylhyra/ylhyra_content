@@ -11,7 +11,7 @@ tags:
 |user_name=Villi Neto
 |user_handle=villineto
 |audio=CUUo.mp3
-|text=Já, get ég fengið fullt<ref>The joke here is that ''fullur'' can both mean "full" and "drunk".</ref> nafn?
+|text=Já, get ég fengið fullt<note>The joke here is that ''fullur'' can both mean "full" and "drunk".</note> nafn?
 
 Öö, fullt nafn?
 
@@ -22,7 +22,7 @@ Já, fullt nafn.
 Já...
 
 {{notranslate|1=
-{{reflist}}
+
 }}
 
 }}

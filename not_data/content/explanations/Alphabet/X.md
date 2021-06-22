@@ -11,4 +11,3 @@ There are very few words that contain this letter, but among them are:
 
 The name of the letter is "ex".
 
-{{next simple|prev=v|next=y}}

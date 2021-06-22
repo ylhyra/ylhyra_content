@@ -16,7 +16,7 @@ The '''indicative''' ("framsöguháttur") is the default [[grammatical mood]] of
 
 <div class=notes>
 '''Notes'''
-{{reflist}}
+
 * "Framsögn" means to read a speech out loud with good articulation. "Háttur" means "[[grammatical mood]]".
 </div>
 

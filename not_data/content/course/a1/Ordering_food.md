@@ -20,7 +20,7 @@ vocabulary:
 *2|Gjörðu svo vel.
 
 ==Here you go==
-"Gjörðu svo vel" is a phrase you should only study as a phrase.<ref>The reason is that "gjörðu" is a word form that no longer exists in modern Icelandic although this phrase survives, today we would say "gerðu". The phrase means "Do so well".</ref> It's used to mean "here you go" (said when handing an item to somebody) and sometimes by store clerks to say "Next, please" ("Næsti, gjörðu svo vel").
+"Gjörðu svo vel" is a phrase you should only study as a phrase.<note>The reason is that "gjörðu" is a word form that no longer exists in modern Icelandic although this phrase survives, today we would say "gerðu". The phrase means "Do so well".</note> It's used to mean "here you go" (said when handing an item to somebody) and sometimes by store clerks to say "Next, please" ("Næsti, gjörðu svo vel").
 
 The pronunciation of this phrase is quite [[Disappearing sounds|slurred]], it's pronounced {{pron|gjössovel}}.
 

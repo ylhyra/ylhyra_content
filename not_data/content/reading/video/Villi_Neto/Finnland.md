@@ -24,7 +24,7 @@ Mmm, góð sána og góðir vinir.
 
 {{notranslate|1=
 <div class="video-explanation">
-{{reflist}}
+
 In this video, Villi imitates a Finnish visiting the swimming pool in Iceland. He's speaking in a strong Finnish accent. Finnish people are known for liking saunas. Icelanders and Finnish people tend to get along very well since they're both somewhat socially reserved and have a similar humour (see also [[w:Law of Jante|Law of Jante]]).
 </div>
 }}

@@ -12,7 +12,7 @@ vocabulary:
 ---
 
 ==Why?==
-"Af hverju?" means "why?".<ref>Word-by-word the translation is "Of what (reason)?"</ref> "Af því að" means "because".<ref>Word-by-word the translation is "Of it (reason) that".</ref>
+"Af hverju?" means "why?".<note>Word-by-word the translation is "Of what (reason)?"</note> "Af því að" means "because".<note>Word-by-word the translation is "Of it (reason) that".</note>
 
 *Það er snjór úti.
 *Af hverju ert þú kennari?
@@ -38,9 +38,8 @@ vocabulary:
 
 "Af hverju" and "af því að" are the most common phrases you will use for "why?" and "because", but there's another way to say the same thing. The phrases are:
 
-*hvergs vegna? = why?<ref>The literal translation is "due to what?"</ref>
-*vegna þess að = because<ref>The literal translation is "due to it that"</ref>
+*hvergs vegna? = why?<note>The literal translation is "due to what?"</note>
+*vegna þess að = because<note>The literal translation is "due to it that"</note>
 
 These phrases sound slightly more formal, and you're therefore more likely to see them used in writing. When speaking, however, it's more common to use "af hverju?".
 
-{{notes}}

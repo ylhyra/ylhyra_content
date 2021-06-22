@@ -30,7 +30,7 @@ An [[adjective|'''adjective''']] can have 120 possible forms (although most of t
 *[[Strong and weak declension|does the word it describe have a "the" attached or not]]? (there are two possibilities)
 *[[Comparative|are we comparing it to something else]]? (there are three possibilities)
 
-The basic form of a '''[[verb]]''' has around 30 possible forms (and some more derived forms)<ref>Referring to the [[middle voice]] and [[past participle]] as derived forms.</ref> which indicate:
+The basic form of a '''[[verb]]''' has around 30 possible forms (and some more derived forms)<note>Referring to the [[middle voice]] and [[past participle]] as derived forms.</note> which indicate:
 
 *[[Tense|when is it happening]]? (there are two possibilities, either [[Present tense|now]] or in the [[Past tense|past]])
 *[[Person|you, me, he]]? (there are three possibilities)
@@ -51,5 +51,5 @@ Inflecting incorrectly is usually okay when you're still at the [[A1]] level as 
 '''Notes'''
 
 *The change in the form of [[nouns]], [[adjectives]], and [[pronouns]] is called "[[declension]]" and the change in the form of [[verbs]] is called "[[conjugation]]", but knowing these terms is not necessary.
-{{reflist}}
+
 </div>

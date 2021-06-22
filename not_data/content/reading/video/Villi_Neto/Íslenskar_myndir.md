@@ -24,11 +24,11 @@ tags:
 
 – Pabbi?
 
-– Pabbi þinn er [[w:Hilmir Snær|Hilmir Snær]]<ref>Hilmir Snær is a popular film and stage actor.</ref> núna.
+– Pabbi þinn er [[w:Hilmir Snær|Hilmir Snær]]<note>Hilmir Snær is a popular film and stage actor.</note> núna.
 
-– Elskan mín, láttu ekki svona. Ég er bara Hilmir Snær.<ref>An imitaion of how the actor Hilmir Snær talks.</ref>
+– Elskan mín, láttu ekki svona. Ég er bara Hilmir Snær.<note>An imitaion of how the actor Hilmir Snær talks.</note>
 
-– Hann er búinn að vera nakinn allan þennan tíma.<ref>Hilmir Snær is often nude in his films.</ref>
+– Hann er búinn að vera nakinn allan þennan tíma.<note>Hilmir Snær is often nude in his films.</note>
 
 – Pabbi, farðu í föt.
 
@@ -44,7 +44,7 @@ tags:
 
 – Systir þín er komin í glæpagengi.
 
-– Halló, ég er Sjonni glæpó.<ref>"Sjonni" is short for "Sigurjón". "Glæpó" is [[-ó|short]] for "glæpamaður" (criminal). These kinds of nicknames were popular in the mid to late 20th century, but are now only seen in a handful of films.</ref> Ég er kominn til þess að ræna ykkur.
+– Halló, ég er Sjonni glæpó.<note>"Sjonni" is short for "Sigurjón". "Glæpó" is [[-ó|short]] for "glæpamaður" (criminal). These kinds of nicknames were popular in the mid to late 20th century, but are now only seen in a handful of films.</note> Ég er kominn til þess að ræna ykkur.
 
 – Ha?
 
@@ -53,7 +53,7 @@ tags:
 This video is a joke about Icelandic film clichés. All Icelandic films are about depression, alcoholism, deteriorating family units, crime, and the occasional nudity.
 
 ==Notes==
-{{reflist}}
+
 </div>
 }}
 

@@ -13,7 +13,7 @@ Like in English, when using the basic form of the verb (called the [[infinitive]
 *<translate>Ég þarf '''að''' pissa.</translate> = I need '''to''' pee.
 *<translate>Ég nenni ekki '''að''' tala við hann.</translate> = I'm not in the mood '''to''' talk to him.
 
-But we also use it when English would use an '''-ing''' ending:{{efn|The -ing verb form in English is known as "gerund" or "present participle".}}
+But we also use it when English would use an '''-ing''' ending:<note>The -ing verb form in English is known as "gerund" or "present participle".</note>
 
 *<translate>Ég er '''að''' syngja.</translate> = I am singing.
 *<translate>Ég kem ekki á morgun, ég er '''að''' vinna.</translate> = I won't come tomorrow, I am working.

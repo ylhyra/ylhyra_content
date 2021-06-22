@@ -33,9 +33,9 @@ A native speaker will not notice that the above letters are missing, there is no
 
 More examples:
 
-*{{listen|`Mamm<u>{{gray|a}} o</u>{{gray|g}} pabb<u>{{gray|i}} e</u>r{{gray|u}} a{{gray|ð}} kom<u>{{gray|a}} á</u> eftir.`|audio=tzZ5.mp3}}
+*<Audio src="tzZ5.mp3" inline/> `Mamm<u>{{gray|a}} o</u>{{gray|g}} pabb<u>{{gray|i}} e</u>r{{gray|u}} a{{gray|ð}} kom<u>{{gray|a}} á</u> eftir.`
 **If you pronounce every sound in this sentence <Audio src="KA89.mp3" inline/>, it sounds unnatural.
-*{{listen|`Hva{{gray|ð}} ert<u>{{gray|u}} a</u>{{gray|ð}} gera?`|audio=eb20.mp3}}
+*<Audio src="eb20.mp3" inline/> `Hva{{gray|ð}} ert<u>{{gray|u}} a</u>{{gray|ð}} gera?`
 
 This also happens when the same vowel is side by side:
 
@@ -50,9 +50,9 @@ This doesn't happen to vowels that have an accent mark (á, ú, í, ó, é).
 ==Sounds that are so soft that they disappear (Ð and G)==
 The [[soft g]] sound <Audio src="vlmK.mp3" inline/> (such as in `ég`) and the soft [[ð]] sound <Audio src="6mpZ.mp3" inline/> (such as in `að`) are so soft that they often just disappear.
 
-*{{listen|`É{{gray|g}} er a{{gray|ð}} koma.`|audio=XWho.mp3}} {{pron|é er a koma}}
-*{{listen|`O{{gray|g}} hva{{gray|ð}} me{{gray|ð}} þa{{gray|ð}}?`|audio=8UEE.mp3}} {{pron|o kva me þa}}
-*Þa{{gray|ð}} er alve{{gray|g}} ágætt. /<u>þa er alve ágætt/</u>
+*<Audio src="XWho.mp3" inline/> `É{{gray|g}} er a{{gray|ð}} koma.` {{pron|é er a koma}}
+*<Audio src="8UEE.mp3" inline/> `O{{gray|g}} hva{{gray|ð}} me{{gray|ð}} þa{{gray|ð}}?` {{pron|o kva me þa}}
+*Þa{{gray|ð}} er alve{{gray|g}} ágætt. {{pron|þa er alve ágætt}}
 
 In particular you should remember the following common words:
 
@@ -85,14 +85,14 @@ Yes, you heard correctly, Þ sounds like H in some contexts. This is quite commo
 
 '''Examples of Þ sounding like Ð''':
 
-*`Ég vil það.` /<u>é vil ða'''/'''</u>
+*`Ég vil það.` {{pron|é vil ða}}
 *`Ég kem með það.` {{pron|é kem me ða}}
 *`Ég vil að þú komir.` {{pron|é vil a ðú komir}}
 *`Ég vil að þeir komi.` {{pron|é vil a ðeir komi}}
 
 '''Examples of Þ sounding like H''':
 
-*`Þetta er ekki að virka.` /<u>hett er igya virka/</u>
+*`Þetta er ekki að virka.` {{pron|hett er igya virka}}
 
 *`Það er bara þannig`. You can choose between:
 **{{pron|þa e bara þannig}}, clear speech

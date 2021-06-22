@@ -5,7 +5,7 @@ redirects:
 - Text:Þetta/Intro
 ---
 
-To refer to something close, you use <translate>'''þetta'''</translate>.<!--{{efn|<translate>Þetta</translate> is a [[demonstrative pronoun]] (<translate>ábendingarfornafn</translate>).}}--> The word changes a bit based on [[gender]]:
+To refer to something close, you use <translate>'''þetta'''</translate>.<!--<note><translate>Þetta</translate> is a [[demonstrative pronoun]] (<translate>ábendingarfornafn</translate>).</note>--> The word changes a bit based on [[gender]]:
 {| class="wikitable"
 |+
 !

@@ -21,4 +21,4 @@ To learn Icelandic, we recommend that you:
 {{Chapters}}
 
 ==References==
-{{reflist}}
+

@@ -31,4 +31,3 @@ In the middle of words (and at the ends of words if the next letter is a [[vowel
 
 The name of the letter is "eff", the same as in English.
 
-{{next simple|prev=é|next=g}}

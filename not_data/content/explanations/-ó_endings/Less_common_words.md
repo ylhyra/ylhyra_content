@@ -23,7 +23,7 @@ This is an appendix to the article on [[-ó endings]] and is a semi-exhaustive l
 **Informal, sounds a bit antiquated like you're from the 1980s.
 *saumaklúbbur → '''saumó''' (a [[w:sewing circle|sewing circle]], or more generally a group of (female) friends that meet regularly)
 **Informal.
-*hallærislegur → '''halló'''<ref>The pronunciation is with a strong double-L, [''haddló''], like in the word hallærislegur.</ref> (un-cool, lame)
+*hallærislegur → '''halló'''<note>The pronunciation is with a strong double-L, [''haddló''], like in the word hallærislegur.</note> (un-cool, lame)
 **Informal, uncommon.
 *rómantískt → '''rómó''' (romantic)
 **Informal.
@@ -93,5 +93,5 @@ You should not make an effort to learn these proper names, but they are also lis
 <div class="notes">
 
 '''Notes'''
-{{reflist}}
+
 </div>

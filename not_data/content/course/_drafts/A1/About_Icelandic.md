@@ -65,5 +65,5 @@ For a student of Icelandic, it can be a bit tiring when the bartender switches o
 
 <div class="notes">
 ==References==
-{{reflist}}
+
 </div>

@@ -20,7 +20,7 @@ You can see that the [[verb]] that comes after "ætla" is in the basic default s
 *Ég ætla '''að læra''' íslensku. = I plan '''to learn''' Icelandic, I intend '''to learn''' Icelandic.
 
 ==Today==
-"Í dag" means "today". The G in "dag" is a [[soft G]], it's so soft that you should just skip it entirely like with the "g" in "ég".<ref>It can however appear as a [[soft throaty G]] if it's at the [[Voiceless at the end of sentences|end of a sentence]].</ref>
+"Í dag" means "today". The G in "dag" is a [[soft G]], it's so soft that you should just skip it entirely like with the "g" in "ég".<note>It can however appear as a [[soft throaty G]] if it's at the [[Voiceless at the end of sentences|end of a sentence]].</note>
 
 *1|Hæ.
 *1|Hvað ætlar þú að gera í dag?
@@ -63,4 +63,3 @@ The letters "hl" in "hljómar" represent only a single sound: the [[breathy L]].
 
 *{{Recommendations/Study_vocabulary}}
 
-{{notes}}

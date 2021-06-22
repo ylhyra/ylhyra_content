@@ -12,7 +12,7 @@ tags:
 |user_handle=villineto
 |audio=04-lýsi.mp3
 |text=
-Villi minn, komdu<ref>This word is usually pronounced like "koddu" despite being written as "komdu".</ref> að taka lýsi.
+Villi minn, komdu<note>This word is usually pronounced like "koddu" despite being written as "komdu".</note> að taka lýsi.
 
 Mamma, mig langar ekki í lýsi, það er ógeðslegt.
 
@@ -26,7 +26,7 @@ Hólí sjitt! Og er hann á hjólabretti?
 
 Ó, já.
 
-Gefðu mér þetta.<ref>The phrase "Gefðu mér þetta" is [[Slurring|slurred]] so much that it sounds like "Gemméretta".</ref>
+Gefðu mér þetta.<note>The phrase "Gefðu mér þetta" is [[Slurring|slurred]] so much that it sounds like "Gemméretta".</note>
 </div>
 
 {{notranslate|1=
@@ -36,7 +36,7 @@ Lýsi is [[w:Cod liver oil|cod liver oil]], a dietary supplement derived from th
 The children's packaging of fish oil contains a character who is cool, has a baseball cap, and rides a skateboard.
 <div>
 ==Notes==
-{{reflist}}
+
 }}
 
 }}

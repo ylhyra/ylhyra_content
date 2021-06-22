@@ -15,9 +15,9 @@ Adjectives need to have the same [[gender]], [[case]], and [[Plural|number]] as 
 
 Adjectives also exist in three different forms based on whether they are comparing things (degree of comparison):
 
-#The regular form,<ref>„Frumstig“</ref> such as "good"
-#The form you use when comparing things (comparative form),<ref>„Miðstig“</ref> such as "better"
-#The form when something the greatest or most of something (superlative form),<ref>„Efsta stig“</ref> such as "best"
+#The regular form,<note>„Frumstig“</note> such as "good"
+#The form you use when comparing things (comparative form),<note>„Miðstig“</note> such as "better"
+#The form when something the greatest or most of something (superlative form),<note>„Efsta stig“</note> such as "best"
 
 There is yet another thing that complicates adjectives. They have two different conjugation forms:
 
@@ -29,6 +29,6 @@ There is yet another thing that complicates adjectives. They have two different 
 
 <div class="notes">
 '''Notes'''
-{{reflist}}
+
 </div>
 

@@ -26,6 +26,6 @@ tags:
 <div class="video-explanation">
 ''Skata'' is [[w:skate (fish)|skate]], a type of ray fish. On the festival of [[w:Þorrablót|Þorrablót]] (around February), fermented skate is eaten. It has a pungent smell and therefore many people dislike it or are even disgusted by it, however people force themselves through it to demonstrate to their friends that they are authentic Icelanders.
 </div>
-{{reflist}}
+
 }}
 }}

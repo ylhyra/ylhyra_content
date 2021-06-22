@@ -57,11 +57,11 @@ að vera (to be)
 As you notice, að vera can change a lot, just like the English version.
 Look closely at the table. You'll need to recognize að vera very well.
 
-```
+``
 Ég er 14 ára. Ég er ekki í vinnu, en ég er í skóla. Það er gaman í skólanum, vinir mínir eru skemmtilegir. Í gær vorum við lengi í skólanum, allir mánudagarnir mínir eru langir. Ég var frekar þreyttur. Það er samt allt í lagi, kennarinn minn segir að ég sé góður nemandi.
 
 I am 14 years old. I am not at work (working?), but I am in school. It is fun in school, my friends are great fun. Yesterday we were at school a long time, all my mondays are long. I was rather tired. It is still okay, my teacher said that I am a good student.
-```
+``
 
 As you'll notice, the word að ("to") pops up a lot in Icelandic. It is used to make the base version of a verb (infinitive). You recognize this from English:
 Ég þarf að fara = I need to go

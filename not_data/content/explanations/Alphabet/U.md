@@ -19,4 +19,3 @@ If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like
 
 The name of the letter is "u".
 
-{{next simple|prev=t|next=ú}}

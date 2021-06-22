@@ -44,5 +44,5 @@ These are [[nouns]]:
 
 ***
 
-{{reflist}}</div>
+</div>
 

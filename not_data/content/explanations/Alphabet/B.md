@@ -9,4 +9,3 @@ The letter '''B''' is pronounced <Audio src="MoMZ.mp3" inline/>. It is similar t
 
 The name of the letter is "''bé''".
 
-{{next simple|prev=á|next=d}}

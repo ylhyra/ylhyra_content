@@ -8,4 +8,3 @@ The letter '''D''' is pronounced <Audio src="Jap5.mp3" inline/>. It is similar t
 
 The name of the letter is "dé".
 
-{{next simple|prev=b|next=ð}}

@@ -24,4 +24,3 @@ The name of the letter is "há".
 *'''hj''' – These two letters represent the sound in the English "'''''h'''ue''". It's pronounced by raising the back part of your tongue up to the roof of your mouth. It also appears when H is followed by [[É]] ("'''h'''érna") because É starts with a J sound ([[é]] sounds like "je").
 **hjá, hérna, hjálpa
 
-{{next simple|prev=g|next=i}}

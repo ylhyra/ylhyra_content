@@ -50,7 +50,7 @@ It is important to not overpronounce this sound, it is just a very soft constric
 ===So soft that it disappears===
 In fact, this sound is so soft that it very often just disappears, especially when speaking quickly:
 
-*O{{gray|g}} er alve{{gray|g}} hægt a{{gray|ð}} la{{gray|g}}a þa{{gray|ð}}? /<u>o er alve hægt a la-a ða/</u>
+*O{{gray|g}} er alve{{gray|g}} hægt a{{gray|ð}} la{{gray|g}}a þa{{gray|ð}}? {{pron|o er alve hægt a la-a ða}}
 
 In particular you have to remember to not pronounce the ''g'' in the following words:
 
@@ -88,4 +88,3 @@ The word for ''God'' is "Guð". For historical reasons, this word is pronounced 
 
 The name of the letter is "gé".
 
-{{next simple|prev=f|next=h}}

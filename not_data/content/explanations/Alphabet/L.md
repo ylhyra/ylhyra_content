@@ -30,7 +30,7 @@ This sound appears in the following situations:
 **gult, salt, vilt
 *When the next letter is '''p''':
 **hjálp
-*In "'''hl'''" – There is no "h" in this sound, instead this letter cluster represents the [[L#Breathy%20L|breathy L]] sound.
+*In "'''hl'''" – There is no "h" in this sound, instead this letter cluster represents the [[L#Breathy L|breathy L]] sound.
 **hlaupa, hlægja
 *At the end of sentences. A normal L becomes a voiceless breathy L at the end of sentences.
 **hjó'''l''', vi'''l'''
@@ -65,9 +65,9 @@ It appears in the following situations:
 *When a double L is folllowed by an '''s''':
 **fulls, alls, fjalls
 *In words that are foreign loanwords:
-**{{listen|halló}}, {{listen|milljón}}, {{listen|brilljant}}, {{listen|kanilbollur}}, núll
+**`halló`, `milljón`, `brilljant`, `kanilbollur`, núll
 *In words that are supposed to be cute, such as [[nicknames]]:
-**{{listen|Solla}} (short for Sólveig), {{listen|Kalli}} (short for Karl), Villi (short for Vilhjálmur)
+**`Solla` (short for Sólveig), `Kalli` (short for Karl), Villi (short for Vilhjálmur)
 
 ***
 
@@ -80,4 +80,3 @@ It appears in the following situations:
 
 The letter itself is known as "ell" (with a clicky double L at the end).
 
-{{next simple|prev=k|next=m}}

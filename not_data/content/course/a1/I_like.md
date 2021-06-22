@@ -22,7 +22,7 @@ The phrase is:
 
 *Mér finnst kaffi gott. = I like coffee.
 
-The grammatical formation is a bit unexpected, but you do not have to worry much about it, you should just memorize this phrase. "Mér" is just the word "ég" in the [[third case]] (see [https://inflections.ylhyra.is/m%C3%A9r here] for the full table).<ref>The reason why we use "mér" and not "ég" is because the word "finnst" is one of those rare verbs that [[Impersonal verb|don't change their form depending on who it applies to]] – it's almost as if the phrase were "To me, it is found that coffee is good".</ref>
+The grammatical formation is a bit unexpected, but you do not have to worry much about it, you should just memorize this phrase. "Mér" is just the word "ég" in the [[third case]] (see [https://inflections.ylhyra.is/m%C3%A9r here] for the full table).<note>The reason why we use "mér" and not "ég" is because the word "finnst" is one of those rare verbs that [[Impersonal verb|don't change their form depending on who it applies to]] – it's almost as if the phrase were "To me, it is found that coffee is good".</note>
 
 *1|Finnst þér ekki gott að búa í Reykjavík?
 *2|Jú jú, mér finnst ágætt að búa hérna.
@@ -50,4 +50,3 @@ Mér finnst það gaman.
 Mér finnst ekki gaman að vera á Spáni.
 Finnst þér gaman að læra íslensku?
 
-{{notes}}

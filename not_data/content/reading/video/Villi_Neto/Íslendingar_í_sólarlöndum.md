@@ -28,7 +28,7 @@ Eruð þið að fara á ströndina? Heyrðu, ókei, ég kem eftir smá, ég þar
 
 {{notranslate|1=
 <div class="video-explanation">
-{{reflist}}
+
 </div>
 }}
 

@@ -48,4 +48,3 @@ It appears:
 ***
 
 The name of the letter is "enn", same as in English.
-{{next simple|prev=m|next=o}}

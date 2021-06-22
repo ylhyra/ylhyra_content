@@ -8,7 +8,7 @@ title: Template:Next
 </div>
 <div style="float:right;">
 {{#ifexist: {{BASEPAGENAME}}/{{#expr:{{SUBPAGENAME}}+1}} | {{button|[[{{BASEPAGENAME}}/{{#expr:{{SUBPAGENAME}}+1}}|Next]]}} | }}
-{{#if:{{{next|}}}|{{button|[[{{BASEPAGENAME}}/{{{next|}}}|Next]]}}|}}
+{{#if:{}|{{button|[[{{BASEPAGENAME}}/{}|Next]]}}|}}
 </div>
 </div><div style="clear:both;"></div>
 

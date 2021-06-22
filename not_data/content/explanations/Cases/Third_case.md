@@ -11,9 +11,9 @@ level: A1
 license: CC0
 ---
 
-There are four [[cases]] in Icelandic. The '''third case''' in the [[declension table]] is known as the "dative case".<ref>On Ylhýra we refer to it as the "third case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].
+There are four [[cases]] in Icelandic. The '''third case''' in the [[declension table]] is known as the "dative case".<note>On Ylhýra we refer to it as the "third case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].
 
-In Icelandic the first case is called '''þágufall''' and is abbreviated as '''þgf.''' Þágufall literally means "receiving case". The English name "dative" means "appropriate for giving" in Latin.</ref> It shows that the word has something or is being given something.
+In Icelandic the first case is called '''þágufall''' and is abbreviated as '''þgf.''' Þágufall literally means "receiving case". The English name "dative" means "appropriate for giving" in Latin.</note> It shows that the word has something or is being given something.
 
 The [[helper word]] you use to force a word into the third case is „frá“ ("from").
 
@@ -44,4 +44,4 @@ And these prepositions can either cause the [[Second case|second]] or the third 
 *að hjálpa (to help)
 
 {{cases}}
-{{notes}}
+
