@@ -82,7 +82,7 @@ If the letter is between '''''á''''', '''''ó''''', '''''ú''''', and '''''a'''
 *fljúga, skógur, ljúga, plága
 
 == Exceptions ==
-The word for ''God'' is "Guð". For historical reasons, this word is pronounced /'''Gv'''uð/. Names that are derived from the term for God also follow this pattern: Guðmundur (/'''Gv'''uðmundur/), Guðlaug (/'''Gv'''uðlaug/), but no other words do.
+The word for ''God'' is "Guð". For historical reasons, this word is pronounced <pron>'''Gv'''uð</pron>. Names that are derived from the term for God also follow this pattern: Guðmundur (/'''Gv'''uðmundur/), Guðlaug (/'''Gv'''uðlaug/), but no other words do.
 
 ***
 

@@ -17,7 +17,7 @@ If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like
 
 *l'''e'''ngi (/leíngi/)
 <!--
-If the next letter is a ''[[g]]'' that happens to be pronounced as a /j/, it is pronounced like the letter cluster '''''[[ei]]''''' (which is itself pronounced /eí/).
+If the next letter is a ''[[g]]'' that happens to be pronounced as a <pron>j</pron>, it is pronounced like the letter cluster '''''[[ei]]''''' (which is itself pronounced /eí/).
 
 * hádegi (/hádeíji/)
 * segja (/seíja/)

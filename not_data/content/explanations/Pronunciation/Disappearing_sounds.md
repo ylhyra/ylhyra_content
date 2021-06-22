@@ -50,8 +50,8 @@ This doesn't happen to vowels that have an accent mark (á, ú, í, ó, é).
 ==Sounds that are so soft that they disappear (Ð and G)==
 The [[soft g]] sound <Audio src="vlmK.mp3" inline/> (such as in `ég`) and the soft [[ð]] sound <Audio src="6mpZ.mp3" inline/> (such as in `að`) are so soft that they often just disappear.
 
-*{{listen|`É<gray>g</gray> er a<gray>ð}} koma.`|audio=XWho.mp3</gray> /<u>é er a koma</u>/
-*{{listen|`O<gray>g</gray> hva<gray>ð</gray> me<gray>ð</gray> þa<gray>ð}}?`|audio=8UEE.mp3</gray> /<u>o kva me þa</u>/
+*{{listen|`É<gray>g</gray> er a<gray>ð}} koma.`|audio=XWho.mp3</gray> <pron>é er a koma</pron>
+*{{listen|`O<gray>g</gray> hva<gray>ð</gray> me<gray>ð</gray> þa<gray>ð}}?`|audio=8UEE.mp3</gray> <pron>o kva me þa</pron>
 *Þa<gray>ð</gray> er alve<gray>g</gray> ágætt. /<u>þa er alve ágætt/</u>
 
 In particular you should remember the following common words:
@@ -70,33 +70,33 @@ In particular you should remember the following common words:
 [[Þ]] has a tendancy to become softer, especially when it comes to common words like "this, that, there, it" when they are not the most important word of the sentence. There are four different ways you will hear Þ being pronounced:
 
 *Þ, such as in `'''Þ'''ess vegna.`
-*Ð, such as in `Ég kem með '''þ'''að.` /<u>é kem me ða</u>/
-*H, such as in `'''Þ'''að er gott að heyra.` /<u>ha e gott</u>/
-*Disappearing, such as in `Hva<gray>ð</gray> er <gray>þ</gray>etta?` /<u>kva er etta</u>/
+*Ð, such as in `Ég kem með '''þ'''að.` <pron>é kem me ða</pron>
+*H, such as in `'''Þ'''að er gott að heyra.` <pron>ha e gott</pron>
+*Disappearing, such as in `Hva<gray>ð</gray> er <gray>þ</gray>etta?` <pron>kva er etta</pron>
 
 Yes, you heard correctly, Þ sounds like H in some contexts. This is quite common at the start of sentences.
 
 '''Examples of Þ disapperaring''':
 
-*<Audio src="Racc.mp3" inline/> `Hva<gray>ð</gray> er <gray>þ</gray>etta?` /<u>kva er etta</u>/
-*<Audio src="4Gr2.mp3" inline/> `Er<gray>u</gray> <gray>þ</gray>essar pítsur ekki tilbúnar?` /<u>er essar ...</u>/ Notice in this example that since Þ had disappeared, the "e" in the remaining "essar" [[Disappearing vowel|caused the previous vowel to disappear]], as explained in the above section.
-*`Ég vil ekki fá þetta.` /<u>é vil igyi fá etta</u>/
-*`Hvað er barnið þitt eiginlega að gera?` /<u>kva e badni itt eiginlea a gera</u>/
+*<Audio src="Racc.mp3" inline/> `Hva<gray>ð</gray> er <gray>þ</gray>etta?` <pron>kva er etta</pron>
+*<Audio src="4Gr2.mp3" inline/> `Er<gray>u</gray> <gray>þ</gray>essar pítsur ekki tilbúnar?` <pron>er essar ...</pron> Notice in this example that since Þ had disappeared, the "e" in the remaining "essar" [[Disappearing vowel|caused the previous vowel to disappear]], as explained in the above section.
+*`Ég vil ekki fá þetta.` <pron>é vil igyi fá etta</pron>
+*`Hvað er barnið þitt eiginlega að gera?` <pron>kva e badni itt eiginlea a gera</pron>
 
 '''Examples of Þ sounding like Ð''':
 
 *`Ég vil það.` /<u>é vil ða'''/'''</u>
-*`Ég kem með það.` /<u>é kem me ða</u>/
-*`Ég vil að þú komir.` /<u>é vil a ðú komir</u>/
-*`Ég vil að þeir komi.` /<u>é vil a ðeir komi</u>/
+*`Ég kem með það.` <pron>é kem me ða</pron>
+*`Ég vil að þú komir.` <pron>é vil a ðú komir</pron>
+*`Ég vil að þeir komi.` <pron>é vil a ðeir komi</pron>
 
 '''Examples of Þ sounding like H''':
 
 *`Þetta er ekki að virka.` /<u>hett er igya virka/</u>
 
 *`Það er bara þannig`. You can choose between:
-**/<u>þa e bara þannig</u>/, clear speech
-**/<u>ha e bara hannig</u>/, slurred speech
+**<pron>þa e bara þannig</pron>, clear speech
+**<pron>ha e bara hannig</pron>, slurred speech
 
 '''How can I know which sound to make?'''
 

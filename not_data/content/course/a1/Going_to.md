@@ -6,7 +6,7 @@ vocabulary:
 ==I am going to do it==
 "Ég ætla" means "I intend to, I am going to, I plan to". This is a particularly useful word since in most interactions with other people you discuss what you're going to do today, this evening, or this week.
 
-You may remember that in the pronunciation of the word "gott" (good) you have to [[Preaspiration|exhale a little bit]] before the ''tt'' so that the word sounds like /go{{h}}tt/. That doesn't only happen before a ''tt'', it also happens before a ''tl'', meaning that the word "ætla" is pronounced /æ{{h}}tla/. If you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth. This short outgoing breath is extremely important, it can be impossible to understand you without it. For that reason, it is far better to exaggerate this sound significantly rather than not doing it enough.
+You may remember that in the pronunciation of the word "gott" (good) you have to [[Preaspiration|exhale a little bit]] before the ''tt'' so that the word sounds like <pron>go{{h}}tt</pron>. That doesn't only happen before a ''tt'', it also happens before a ''tl'', meaning that the word "ætla" is pronounced <pron>æ{{h}}tla</pron>. If you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth. This short outgoing breath is extremely important, it can be impossible to understand you without it. For that reason, it is far better to exaggerate this sound significantly rather than not doing it enough.
 
 The word "ætla" changes like so depending on the [[person]]:
 

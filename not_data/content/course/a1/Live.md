@@ -26,7 +26,7 @@ There are two almost identical words that mean "here", they are "hérna" and "h�
 
 The [[H]] in "hérna" is not a normal H sound, instead it has a sound similar to the English "'''''h'''ue''". This sound is created not in the throat but with a constriction in the back of the roof of your mouth. This sound appears when H is followed by a [[J]] or [[É]].
 
-Remember that "rn" is pronounced "dn", so "hérna" is pronounced /hédna/.
+Remember that "rn" is pronounced "dn", so "hérna" is pronounced <pron>hédna</pron>.
 
 *Hvað ert þú að gera hérna? = What are you doing here?
 

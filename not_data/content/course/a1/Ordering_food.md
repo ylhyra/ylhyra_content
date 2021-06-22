@@ -1,7 +1,7 @@
 ---
 title: Course/Ordering food
 vocabulary:
-- gjörðu svo vel<!-- (pronounced /<u>gjössovel</u>/) = here you go (said when handing an item to somebody)-->
+- gjörðu svo vel<!-- (pronounced <pron>gjössovel</pron>) = here you go (said when handing an item to somebody)-->
 - meira
 - fleira
 ---
@@ -22,7 +22,7 @@ vocabulary:
 ==Here you go==
 "Gjörðu svo vel" is a phrase you should only study as a phrase.<ref>The reason is that "gjörðu" is a word form that no longer exists in modern Icelandic although this phrase survives, today we would say "gerðu". The phrase means "Do so well".</ref> It's used to mean "here you go" (said when handing an item to somebody) and sometimes by store clerks to say "Next, please" ("Næsti, gjörðu svo vel").
 
-The pronunciation of this phrase is quite [[Disappearing sounds|slurred]], it's pronounced /<u>gjössovel</u>/.
+The pronunciation of this phrase is quite [[Disappearing sounds|slurred]], it's pronounced <pron>gjössovel</pron>.
 
 ==How good do you have to be to order in Icelandic?==
 It may seem like a great opportunity to practice your Icelandic skills when at a restaurant, but that's not the case. Ordering food requires fluency and near-perfect listening skills.

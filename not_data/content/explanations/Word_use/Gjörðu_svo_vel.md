@@ -12,5 +12,5 @@ There is one thing you must notice: This phrase is using "að gjöra", a complet
 
 ==Pronunciation==
 
-"Gjörðu svo vel" is [[Slurring|slurred]], so it is pronounced /<u>gjössovel</u>/ (more slurring) or /<u>gjörrusovel</u>/ (speaking more clearly).
+"Gjörðu svo vel" is [[Slurring|slurred]], so it is pronounced <pron>gjössovel</pron> (more slurring) or <pron>gjörrusovel</pron> (speaking more clearly).
 
