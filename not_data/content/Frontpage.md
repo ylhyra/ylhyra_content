@@ -16,6 +16,7 @@ redirects:
 </div>
 </div>
 
+<!--
 <hr/>
 
 <div id="latest-articles">
@@ -49,3 +50,4 @@ redirects:
 
 <div style="font-size:94%">'''[[explanations|<span style="color:black">Recent explanatory material</span>]]'''</div>
 {{Project:Newest}}
+-->

@@ -5,4 +5,4 @@ redirects:
 - Template:No translate
 ---
 
-<span data-translate="no">{{{1|}}}</span>
+<span data-translate="no">$1</span>

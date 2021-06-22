@@ -33,12 +33,12 @@ vocabulary:
 
 The letter [[É]] is pronounced <Audio src="iD48.mp3" inline/>. It is not a single sound but two, being pronounced like "yeah" in English.
 
-The letter G in the word "ég" is a [[Soft G|'''soft G''']] sound. The soft G sound is often so soft that it completely disappears, and that is the case for the word "ég". You do not pronounce the "g" in "ég" at all, you just pronounce it as <pron>é</pron>.
+The letter G in the word "ég" is a [[Soft G|'''soft G''']] sound. The soft G sound is often so soft that it completely disappears, and that is the case for the word "ég". You do not pronounce the "g" in "ég" at all, you just pronounce it as {{pron|é}}.
 
 ==I am==
 "Ég er" means "I am". The letter '''[[R]]''' <Audio src="SpJM.mp3" inline/> is pronounced by tapping the roof of your mouth once quickly with the tongue, like the American pronunciation of ''au'''t'''umn'' or ''be'''tt'''er''.
 
-Remember that "ég" is just pronounced <pron>é</pron>.
+Remember that "ég" is just pronounced {{pron|é}}.
 
 ==Good==
 Like all other [[adjectives]], the word "good" changes its form depending on the [[gender]] of the person or word it's describing. There are three grammatical genders in Icelandic: he ([[masculine]]), she ([[feminine]]), and it ([[neuter]]).
@@ -57,7 +57,7 @@ If you're female, you use the [[feminine]] form and say:
 
 *Ég er góð í íslensku.
 
-Remember that "ég" is just pronounced <pron>é</pron>. "Ég er góð" is therefore pronounced <pron>é er goooúð</pron>.
+Remember that "ég" is just pronounced {{pron|é}}. "Ég er góð" is therefore pronounced {{pron|é er goooúð}}.
 
 In the last chapter, you saw the phrase "Hvað segirðu gott?". The word "good" doesn't refer to a particular person or a particular word, so by default we use the [[neuter]] form "gott" to refer to a vague "it/that".
 
@@ -93,11 +93,11 @@ Notice how the form of the word "is" changes:
 ==Very==
 "Mjög" means "very". Like with the word "ég", the letter G in "mjög" is a [[soft G]] that isn't pronounced at all.
 
-The letter '''[[Ö]]''' <Audio src=" 3AF6.mp3" inline/>is pronounced similarly to the English ''b'''i'''rd'' or ''n'''u'''rse'', but you do have to make your mouth circle-shaped and you have to pronounce it in the front of your mouth. In the word "mjög" it's a very long sound, and you should exaggerate its length. Since the G is silent, you can imagine it being written <pron>mjööö</pron>.
+The letter '''[[Ö]]''' <Audio src=" 3AF6.mp3" inline/>is pronounced similarly to the English ''b'''i'''rd'' or ''n'''u'''rse'', but you do have to make your mouth circle-shaped and you have to pronounce it in the front of your mouth. In the word "mjög" it's a very long sound, and you should exaggerate its length. Since the G is silent, you can imagine it being written {{pron|mjööö}}.
 
 Practice pronouncing the following by exaggerating the length of "mjög" and "góð":
 
-*Ég er mjög góð í íslensku. <pron>é er mjuööö goooúð í íslensku</pron>
+*Ég er mjög góð í íslensku. {{pron|é er mjuööö goooúð í íslensku}}
 
 *1|Er þetta gott?
 *2|Já, þetta er mjög gott.

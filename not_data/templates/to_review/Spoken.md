@@ -2,4 +2,4 @@
 title: Template:Spoken
 ---
 
-{{{1|}}}
+$1

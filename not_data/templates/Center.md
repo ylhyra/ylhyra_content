@@ -2,4 +2,4 @@
 title: Template:Center
 ---
 
-<div class="center"><div>{{{1|}}}</div></div>
+<div class="center"><div>$1</div></div>

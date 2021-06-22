@@ -9,9 +9,9 @@ level: B1
 license: CC0
 ---
 
-The word "'''náttúrulega'''" <Audio src="1hAr.mp3" inline/> (meaning ''naturally'', ''of course'') gets extremely shortened in spoken language when it has the meaning of "of course", and so it is pronounced <pron>náttla</pron>. <Audio src="6hyE.mp3" inline/>
+The word "'''náttúrulega'''" <Audio src="1hAr.mp3" inline/> (meaning ''naturally'', ''of course'') gets extremely shortened in spoken language when it has the meaning of "of course", and so it is pronounced {{pron|náttla}}. <Audio src="6hyE.mp3" inline/>
 
-In addition to "náttúrulega" being shortened to <pron>náttla</pron>, you must not forget that [[Disappearing vowels|vowels get dropped when they meet at the edges of words]]. Therefore, the sentence "náttúrulega ömurlegt" is pronounced like <pron>náttlömurlegt</pron>.
+In addition to "náttúrulega" being shortened to {{pron|náttla}}, you must not forget that [[Disappearing vowels|vowels get dropped when they meet at the edges of words]]. Therefore, the sentence "náttúrulega ömurlegt" is pronounced like {{pron|náttlömurlegt}}.
 
 ==Exercise==
 
@@ -59,7 +59,7 @@ In this exercise you will learn to listen for dropped sounds.
 
 *The final sound in "þett'''<u>a</u>'''" disappears because when vowels meet at the edges of words, [[Disappearing vowels|the first vowel disappears]].
 *The speaker does not pronounce the final sound in "e'''<u>r</u>'''". This is common in [[slurred speech]] when "er" is followed by a [[consonant]].
-*Therefore, the sentence is pronounced <pron>þett e náttla</pron>
+*Therefore, the sentence is pronounced {{pron|þett e náttla}}
 }}
 
 {{card2|is|is
@@ -101,8 +101,8 @@ Notes:
 Notes:
 
 *The r in "va<u>'''r'''</u>st" blends into its surroundings and [[Disappearing R|disappears]].
-*Ekki sounds like <pron>igyi</pron> because [[Ekki|it's not stressed]].
-*Therefore, the sentence is pronounced <pron>vast náttl igyi</pron>
+*Ekki sounds like {{pron|igyi}} because [[Ekki|it's not stressed]].
+*Therefore, the sentence is pronounced {{pron|vast náttl igyi}}
 }}
 
 {{card2

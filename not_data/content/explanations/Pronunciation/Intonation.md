@@ -10,7 +10,7 @@ Intonation is the way you sing while speaking. Not all the words in a sentence h
 
 Listen to the following examples and notice the different rising and falling musical tones used. The second examples are exaggerations of the same melodies.
 
-*{{listen|`Mamm<gray>a</gray> o<gray>g</gray> pabb<gray>i</gray> er<gray>u</gray> a<gray>ð</gray> kom<gray>a}} á eftir.`|audio=tzZ5.mp3</gray>
+*{{listen|`Mamm{{gray|a}} o{{gray|g}} pabb{{gray|i}} er{{gray|u}} a{{gray|ð}} kom{{gray|a}} á eftir.`|audio=tzZ5.mp3}}
 **<Audio src="66B9.mp3" inline/> <small>Mamm o</small> <sup>pabb</sup> <sub>er a kom á</sub> <small>eft</small> <sub>ir</sub>.
 
 *<Audio src="Tdje.mp3" inline/> `Ég nenni því ekki.`
@@ -54,7 +54,7 @@ In these examples, sentences are shown where the pitch is going up and where it 
 
 More examples:
 
-*{{listen|`Hva<gray>ð</gray> ert<gray>u</gray> a<gray>ð}} gera?`|audio=somC.mp3</gray>
+*{{listen|`Hva{{gray|ð}} ert{{gray|u}} a{{gray|ð}} gera?`|audio=somC.mp3}}
 **<Audio src="xFdm.mp3" inline/><sub>Kva ert a</sub> <small>gye</small> <sup>ra</sup> (casual question)
 **<Audio src="lKEi.mp3" inline/><sup>Kva ert a</sup> <small>gye</small> <sub>ra</sub> (this speaker is angry, not asking a question)
 

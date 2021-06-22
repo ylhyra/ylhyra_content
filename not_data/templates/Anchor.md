@@ -2,4 +2,4 @@
 title: Template:Anchor
 ---
 
-<span id="{{{1|}}}"></span>
+<span id="$1"></span>

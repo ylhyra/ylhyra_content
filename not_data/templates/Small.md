@@ -2,4 +2,4 @@
 title: Template:Small
 ---
 
-<small>{{{1|}}}</small>
+<small>$1</small>

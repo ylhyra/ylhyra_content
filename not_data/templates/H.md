@@ -2,4 +2,4 @@
 title: Template:H
 ---
 
-<Gray>(</Gray><b><i>h</i></b><Gray>)</Gray>
+{{gray|(}}<b><i>h</i></b>{{gray|)}}
