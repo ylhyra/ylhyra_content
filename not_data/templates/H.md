@@ -2,4 +2,4 @@
 title: Template:H
 ---
 
-ʰ
+<Gray>(</Gray><b><i>h</i></b><Gray>)</Gray>

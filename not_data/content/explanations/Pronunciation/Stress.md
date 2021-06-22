@@ -40,7 +40,7 @@ If we wanted to, we could have placed stress on the word "koma", but we don't ha
 All long sounds become short when a word is unstressed.
 
 ===Unstressed words don't have the [[Preaspiration|small breaths]]===
-The word "[[ekki]]" is pronounced /eʰki/, with a small [[Preaspiration|breath of air]] being blown out right before the ''kk''. If the word is stressed, the small breath of air is absolutely necessary – without it people cannot understand you. However, if the word is unstressed there's no need for the breath. You can (and should) just pronounce it as /eki/.
+The word "[[ekki]]" is pronounced /e{{h}}ki/, with a small [[Preaspiration|breath of air]] being blown out right before the ''kk''. If the word is stressed, the small breath of air is absolutely necessary – without it people cannot understand you. However, if the word is unstressed there's no need for the breath. You can (and should) just pronounce it as /eki/.
 
 *"'''''ÞAÐ''' er ekki '''RÉTT'''''", meaning "that's not true" is pronounced /<u>það er iggi rétt</u>/
-*"''það er '''EKK'''i '''RÉTT'''''", meaning "that's '''not''' true" is pronounced /<u>það er eʰki rétt</u>/
+*"''það er '''EKK'''i '''RÉTT'''''", meaning "that's '''not''' true" is pronounced /<u>það er e{{h}}ki rétt</u>/

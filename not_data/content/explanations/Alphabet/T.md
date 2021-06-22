@@ -32,11 +32,11 @@ In the middle of words or at the ends of sentences, '''''t''''' sounds like the 
 There are several situations where you have to [[breathe out]] (exhale) a little bit before the T. The situations are:
 
 *Before a double T
-**köttur (/köʰtur/), létt (/léʰt/)
+**köttur (/kö{{h}}tur/), létt (/lé{{h}}t/)
 *Before a '''tn''':
-**vatn (/vaʰtn), setning (/seʰtning/)
+**vatn (/va{{h}}tn), setning (/se{{h}}tning/)
 *Before a '''tl''':
-**vitlaust (/viʰtlaust/), litli (/liʰtli/)
+**vitlaust (/vi{{h}}tlaust/), litli (/li{{h}}tli/)
 
 This small breath is extremely important, without it it's almost impossible to understand you. It is better to exaggerate it rather than to do too little of it.
 

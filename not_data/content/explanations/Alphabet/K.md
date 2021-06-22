@@ -61,11 +61,11 @@ This sound appears if the next letter is a '''t''':
 There are several situations where you have to [[breathe out]] (exhale) a little bit before the K. The situations are:
 
 *Before a double K
-**ekki (/eʰki/), dekk (/deʰk/), bakka (/baʰka/)
+**ekki (/e{{h}}ki/), dekk (/de{{h}}k/), bakka (/ba{{h}}ka/)
 *Before a '''kn''':
-**vakna (/vaʰkna), undantekning (/undanteʰkning/), reknir (/reʰknir/)
+**vakna (/va{{h}}kna), undantekning (/undante{{h}}kning/), reknir (/re{{h}}knir/)
 *Before a '''kl''':
-**jöklar (/jöʰklar/), sjúklingur (/sjúʰklingur/), Hekla (/heʰkla/)
+**jöklar (/jö{{h}}klar/), sjúklingur (/sjú{{h}}klingur/), Hekla (/he{{h}}kla/)
 
 This small breath is extremely important, without it it's almost impossible to understand you. It is better to exaggerate it rather than to do too little of it.
 ***
