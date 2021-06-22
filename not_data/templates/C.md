@@ -1,5 +1,7 @@
 ---
-title: Template:C
+title: Template:Copyright symbol
+redirects:
+- template:c
 ---
 
 '''©'''

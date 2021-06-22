@@ -45,27 +45,27 @@ The default is also a neuter <translate>þetta</translate> {{hk}} when the noun 
 !{{hk}}
 |-
 !{{nf}}
-|{{gray|hér er}}
-|þessi {{gray|maður}}
-|{{gray|hér er}} þessi {{gray|kona}}
-|{{gray|hér er}} þetta {{gray|barn}}
+|<gray>hér er</gray>
+|þessi <gray>maður</gray>
+|<gray>hér er</gray> þessi <gray>kona</gray>
+|<gray>hér er</gray> þetta <gray>barn</gray>
 |-
 !{{þf}}
-|{{gray|um}}
-|þennan {{gray|mann}}
-|{{gray|um}} þessa {{gray|konu}}
-|{{gray|um}} þetta {{gray|barn}}
+|<gray>um</gray>
+|þennan <gray>mann</gray>
+|<gray>um</gray> þessa <gray>konu</gray>
+|<gray>um</gray> þetta <gray>barn</gray>
 |-
 !{{þgf}}
-|{{gray|frá}}
-|þessum {{gray|manni}}
-|{{gray|frá}} þessari {{gray|konu}}
-|{{gray|frá}} þessu {{gray|barni}}
+|<gray>frá</gray>
+|þessum <gray>manni</gray>
+|<gray>frá</gray> þessari <gray>konu</gray>
+|<gray>frá</gray> þessu <gray>barni</gray>
 |-
 !{{ef}}
-|{{gray|til}}
-|þessa {{gray|manns}}
-|{{gray|til}} þessarar {{gray|konu}}
-|{{gray|til}} þessa {{gray|barns}}
+|<gray>til</gray>
+|þessa <gray>manns</gray>
+|<gray>til</gray> þessarar <gray>konu</gray>
+|<gray>til</gray> þessa <gray>barns</gray>
 |}
 

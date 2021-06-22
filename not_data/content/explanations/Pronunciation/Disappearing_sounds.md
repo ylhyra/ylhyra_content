@@ -18,7 +18,7 @@ In the examples below, letters that are shown in gray aren't pronounced at all. 
 ==Vowels at word boundaries==
 When a word ends in a vowel that doesn't have an accent mark (a, e, i, o, u, ö) and the next word starts in a vowel, the first vowel disappears.
 
-*`Mamma mín er bakari. Mamm<u>{{gray|a}} e</u>r bakari.`
+*`Mamma mín er bakari. Mamm<u><gray>a</gray> e</u>r bakari.`
 
 The word `er` starts in a vowel, and so it "eats" the vowel that comes before it.
 
@@ -33,9 +33,9 @@ A native speaker will not notice that the above letters are missing, there is no
 
 More examples:
 
-*{{listen|`Mamm<u>{{gray|a}} o</u>{{gray|g}} pabb<u>{{gray|i}} e</u>r{{gray|u}} a{{gray|ð}} kom<u>{{gray|a}} á</u> eftir.`|audio=tzZ5.mp3}}
+*{{listen|`Mamm<u><gray>a</gray> o</u><gray>g</gray> pabb<u><gray>i</gray> e</u>r<gray>u</gray> a<gray>ð</gray> kom<u><gray>a}} á</u> eftir.`|audio=tzZ5.mp3</gray>
 **If you pronounce every sound in this sentence <Audio src="KA89.mp3" inline/>, it sounds unnatural.
-*{{listen|`Hva{{gray|ð}} ert<u>{{gray|u}} a</u>{{gray|ð}} gera?`|audio=eb20.mp3}}
+*{{listen|`Hva<gray>ð</gray> ert<u><gray>u</gray> a</u><gray>ð}} gera?`|audio=eb20.mp3</gray>
 
 This also happens when the same vowel is side by side:
 
@@ -50,16 +50,16 @@ This doesn't happen to vowels that have an accent mark (á, ú, í, ó, é).
 ==Sounds that are so soft that they disappear (Ð and G)==
 The [[soft g]] sound <Audio src="vlmK.mp3" inline/> (such as in `ég`) and the soft [[ð]] sound <Audio src="6mpZ.mp3" inline/> (such as in `að`) are so soft that they often just disappear.
 
-*{{listen|`É{{gray|g}} er a{{gray|ð}} koma.`|audio=XWho.mp3}} /<u>é er a koma</u>/
-*{{listen|`O{{gray|g}} hva{{gray|ð}} me{{gray|ð}} þa{{gray|ð}}?`|audio=8UEE.mp3}} /<u>o kva me þa</u>/
-*Þa{{gray|ð}} er alve{{gray|g}} ágætt. /<u>þa er alve ágætt/</u>
+*{{listen|`É<gray>g</gray> er a<gray>ð}} koma.`|audio=XWho.mp3</gray> /<u>é er a koma</u>/
+*{{listen|`O<gray>g</gray> hva<gray>ð</gray> me<gray>ð</gray> þa<gray>ð}}?`|audio=8UEE.mp3</gray> /<u>o kva me þa</u>/
+*Þa<gray>ð</gray> er alve<gray>g</gray> ágætt. /<u>þa er alve ágætt/</u>
 
 In particular you should remember the following common words:
 
-*é{{gray|g}} – You should ''always'' pronounce it as just "é"
-*o{{gray|g}} – You should ''always'' pronounce it as just "o"
-*a{{gray|ð}} – You should ''always'' pronounce it as just "a"
-*þa{{gray|ð}} – You should ''always'' pronounce it as just "þa" (or "ða" in an unstressed position)
+*é<gray>g</gray> – You should ''always'' pronounce it as just "é"
+*o<gray>g</gray> – You should ''always'' pronounce it as just "o"
+*a<gray>ð</gray> – You should ''always'' pronounce it as just "a"
+*þa<gray>ð</gray> – You should ''always'' pronounce it as just "þa" (or "ða" in an unstressed position)
 
 ***
 
@@ -72,14 +72,14 @@ In particular you should remember the following common words:
 *Þ, such as in `'''Þ'''ess vegna.`
 *Ð, such as in `Ég kem með '''þ'''að.` /<u>é kem me ða</u>/
 *H, such as in `'''Þ'''að er gott að heyra.` /<u>ha e gott</u>/
-*Disappearing, such as in `Hva{{Gray|ð}} er {{Gray|þ}}etta?` /<u>kva er etta</u>/
+*Disappearing, such as in `Hva<gray>ð</gray> er <gray>þ</gray>etta?` /<u>kva er etta</u>/
 
 Yes, you heard correctly, Þ sounds like H in some contexts. This is quite common at the start of sentences.
 
 '''Examples of Þ disapperaring''':
 
-*<Audio src="Racc.mp3" inline/> `Hva{{Gray|ð}} er {{Gray|þ}}etta?` /<u>kva er etta</u>/
-*<Audio src="4Gr2.mp3" inline/> `Er{{gray|u}} {{gray|þ}}essar pítsur ekki tilbúnar?` /<u>er essar ...</u>/ Notice in this example that since Þ had disappeared, the "e" in the remaining "essar" [[Disappearing vowel|caused the previous vowel to disappear]], as explained in the above section.
+*<Audio src="Racc.mp3" inline/> `Hva<gray>ð</gray> er <gray>þ</gray>etta?` /<u>kva er etta</u>/
+*<Audio src="4Gr2.mp3" inline/> `Er<gray>u</gray> <gray>þ</gray>essar pítsur ekki tilbúnar?` /<u>er essar ...</u>/ Notice in this example that since Þ had disappeared, the "e" in the remaining "essar" [[Disappearing vowel|caused the previous vowel to disappear]], as explained in the above section.
 *`Ég vil ekki fá þetta.` /<u>é vil igyi fá etta</u>/
 *`Hvað er barnið þitt eiginlega að gera?` /<u>kva e badni itt eiginlea a gera</u>/
 
