@@ -35,7 +35,7 @@ For everything else, there is "yfir" and "í".
 *11:45 – korter í tólf
 
 ==AM/PM==
-Iceland does not use AM/PM, instead time is written in a 24 hour format<ref group="lower-alpha">May either be written with a dot (15.30, more common in newspapers and recommended by many style guides) or a colon (15:30, more common with the general populace).</ref> but spoken about in "during the day/evening/night/morning".
+Iceland does not use AM/PM, instead time is written in a 24 hour format<note>May either be written with a dot (15.30, more common in newspapers and recommended by many style guides) or a colon (15:30, more common with the general populace).</note> but spoken about in "during the day/evening/night/morning".
 {| class="wikitable"
 |+
 !Written Icelandic

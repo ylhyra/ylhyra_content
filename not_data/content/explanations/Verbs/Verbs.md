@@ -51,8 +51,5 @@ This pattern is extremely common.
 *[[-st verbs]] <level level="a1"/>
 *[[Present participle]] <level level="a1"/>
 
-<div class="notes">
-'''Notes'''
 
-</div>
 {{Parts of speech}}

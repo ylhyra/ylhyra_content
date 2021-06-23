@@ -17,7 +17,7 @@ vocabulary:
 
 ===Halló===
 
-"Halló" (hello) is used in the same situations as the English "hello", including when answering the telephone. The double L is pronounced like a normal L since it's borrowed from a foreign language.<note>It's a loan word from [[w:Danish language|Danish]].<ref>[https://www.visindavefur.is/svar.php?id=78021 Vísindavefurinn]</ref></note>
+"Halló" (hello) is used in the same situations as the English "hello", including when answering the telephone. The double L is pronounced like a normal L since it's borrowed from a foreign language.<note>It's a loan word from [[w:Danish language|Danish]].<!--<ref>Guðrún Kvaran. [https://www.visindavefur.is/svar.php?id=78021 Halló, hæ og sæll — hafa þessar upphrópanir verið notaðar lengi eða er þetta nýlegt í málinu?] Vísindavefurinn, 2020.</ref>--></note>
 
 ===Góðan daginn===
 "Góðan daginn" means "Good day to you". You use this greeting from morning until 6 PM (or 18:00), after that it's evening and you have to switch to "Good evening to you". You use this greeting when:
@@ -32,7 +32,7 @@ Notes on pronunciation:
 
 *The [[Ð]] in "góðan" is so soft you can just skip it.
 *The G in "daginn" makes the sound of [[J]].
-*The phrase is pronounced /góan dayin/.
+*The phrase is pronounced {{pron|góan dayin}}.
 
 ===Sæll===
 

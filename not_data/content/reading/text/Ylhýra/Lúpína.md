@@ -23,7 +23,7 @@ todo: bara fyrsta málsgrein búin
 
 <Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" width="700"/>
 <Book audio="Lúpína.mp3">
-<!--<ref group="lower-alpha">Forests were cut down to make coal or to create more grassland for sheeps. Sheeps eat small plants and so they prevent new trees from growing.</ref>-->
+<!--<note>Forests were cut down to make coal or to create more grassland for sheeps. Sheeps eat small plants and so they prevent new trees from growing.</note>-->
 
 Það eru næstum því engir skógar á Íslandi. Það voru einhverjir skógar á Íslandi fyrir landnám, en vegna áhrifa frá mönnum og kindum er nú lítið eftir nema gras og sandur.
 
@@ -38,11 +38,9 @@ Núna er lúpínan út um allt. Núll komma þrjú prósent landsins er ekkert n
 Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo falleg að þeim er alveg sama þó að hún taki yfir.
 </Book>
 
-<div class="notes">
-Sources:
-
+<sources>
 *[https://www.bbl.is/frettir/skodun/um-lupinu-og-beit/12618/ Um lúpínu og beit] (2015). Anna Guðrún Þórhallsdóttir. ''Bændablaðið''.
 *[https://www.visindavefur.is/svar.php?id=72118 Er það rétt sem ég lærði í grunnskóla að sauðfé hafi eytt skógum landsins?] (2017). Bryndís Marteinsdóttir. Vísindavefurinn.
 *[https://rafhladan.is/bitstream/handle/10802/4440/Lupinuskyrsla.pdf?sequence=1 Alaskalúpína og skógarkerfill á Íslandi] (2010). Náttúrufræðistofnun Íslands og Landgræðsla ríkisins.
 *[https://www.ni.is/grodur/agengar-plontur/alaskalupina Alaskalúpína]. Náttúrufræðistofnun Íslands.
-</div>
+</sources>

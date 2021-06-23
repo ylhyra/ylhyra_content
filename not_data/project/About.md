@@ -22,7 +22,7 @@ Ylhýra is a collaborative project that publishes software and material for maki
 The project has been supported by the Municipality of Kópavogur, Landsvirkjun, and Isavia.
 
 ==Software==
-The website runs [[mediawikiwiki:MediaWiki|MediaWiki]] and the code is [https://github.com/ylhyra/ylhyra available on GitHub].
+Code is [https://github.com/ylhyra/ylhyra available on GitHub].
 <!--
 ==Acknowledgements==
 

@@ -39,10 +39,8 @@ Two particularly famous renditions of this song are:
 
 Later in life, Rósa became a [[w:Midwife|midwife]].
 
-<div class="notes">
-'''Sources'''
-
+<sources>
 *Stella Soffía Jóhannesdóttir. [https://www.visindavefur.is/svar.php?id=15861 „Hvaða heimildir eru til um Vatnsenda-Rósu og hvað er vitað um hana?“] ''Vísindavefurinn'', 19. ágúst 2008
-</div>
+</sources>
 
 {{public domain}}

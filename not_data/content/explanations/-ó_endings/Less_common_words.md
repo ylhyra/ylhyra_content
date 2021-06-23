@@ -90,8 +90,3 @@ You should not make an effort to learn these proper names, but they are also lis
 **Réttarholtsskóli → '''Réttó'''
 **Valhúsaskóli → '''Való'''
 
-<div class="notes">
-
-'''Notes'''
-
-</div>

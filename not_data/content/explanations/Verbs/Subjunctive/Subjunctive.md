@@ -164,15 +164,11 @@ Forseti Indlands ___ (að segjast) ___ (að vera) spenntur fyrir geimfaraáætlu
 
 Það þýðir að ég ___ (að hafa) rétt á því að fá ríkisborgararétt. -->
 
-<div class="notes">
-'''Notes'''
-
+<notes>
 *The name ''viðtengingarháttur'' comes from "að tengja við" (to connect to) and "háttur" (manner of doing something; [[grammatical mood]]), referring to how it often appears in sentences that are joined to the main sentence and are dependant on it.
-
+</notes>
 <!--'''References'''
 
 <ref>[https://skemman.is/bitstream/1946/7366/2/Lokaritgerd.pdf Notkun viðtengingarháttar í nútímaíslensku]. Hulda Óladóttir, 2011.</ref><ref>Höskuldur Þráinsson, ''Íslensk tunga III'', 2005, p. 463-466. Cited by Hildur Ýr Ísberg in "''[https://skemman.is/bitstream/1946/7391/1/BAritgerd.pdf Viðtengingarháttur: Lifandi eða dauður?]''" (PDF), 2011 (Bachelor's thesis).</ref>
 
 -->
-</div>
-<references group="lower-alpha" />

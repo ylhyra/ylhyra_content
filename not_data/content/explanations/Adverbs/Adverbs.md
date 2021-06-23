@@ -22,8 +22,5 @@ license: CC0
 * Others:
 ** Já (yes), ekki (not)
 
-<div class="notes">
-'''Notes'''
 
-</div>
 {{Parts of speech}}
