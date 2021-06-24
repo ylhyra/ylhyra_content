@@ -31,11 +31,11 @@ In the middle and ends of words:
 There are several situations where you have to [[breathe out]] (exhale) a little bit before the P. The situations are:
 
 *Before a double P
-**hoppa (/ho{{h}}pa/)
+**hoppa ({{pron|ho{{h}}pa}})
 *Before a '''pn''':
-**opna (/o{{h}}pna)
+**opna ({{pron|o{{h}}pna}})
 *Before a '''pl''':
-**epli (/e{{h}}pli/)
+**epli ({{pron|e{{h}}pli}})
 
 This small breath is extremely important, without it it's almost impossible to understand you. It is better to exaggerate it rather than to do too little of it.
 
@@ -47,4 +47,3 @@ This small breath is extremely important, without it it's almost impossible to u
 ***
 
 The name of the letter is "pé".
-

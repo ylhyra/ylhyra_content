@@ -61,14 +61,13 @@ This sound appears if the next letter is a '''t''':
 There are several situations where you have to [[breathe out]] (exhale) a little bit before the K. The situations are:
 
 *Before a double K
-**ekki (/e{{h}}ki/), dekk (/de{{h}}k/), bakka (/ba{{h}}ka/)
+**ekki ({{pron|e{{h}}ki}}), dekk ({{pron|de{{h}}k}}), bakka ({{pron|ba{{h}}ka}})
 *Before a '''kn''':
-**vakna (/va{{h}}kna), undantekning (/undante{{h}}kning/), reknir (/re{{h}}knir/)
+**vakna ({{pron|va{{h}}kna}}), undantekning ({{pron|undante{{h}}kning}}), reknir ({{pron|re{{h}}knir}})
 *Before a '''kl''':
-**jöklar (/jö{{h}}klar/), sjúklingur (/sjú{{h}}klingur/), Hekla (/he{{h}}kla/)
+**jöklar ({{pron|jö{{h}}klar}}), sjúklingur ({{pron|sjú{{h}}klingur}}), Hekla ({{pron|he{{h}}kla}})
 
 This small breath is extremely important, without it it's almost impossible to understand you. It is better to exaggerate it rather than to do too little of it.
 ***
 
 The name of the letter is "ká".
-

@@ -15,7 +15,7 @@ Or [[short]]:
 
 If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like '''[[á|''á'']]''':
 
-*langur (/lángur/), banka (/bánka/)
+*langur ({{pron|lángur}}), banka ({{pron|bánka}})
 
 The name of the letter is just a long "a".
 

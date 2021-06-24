@@ -43,7 +43,7 @@ It appears:
 *'''nn''' – "nn" sounds like "dn" if it comes after an "[[Ú|'''ú''']]" or an "[[Í|'''í''']]" sound (both are sounds where the tongue is close to the roof of the mouth). The letters that end in such sounds are ú, ó, á (all end in an ú sound) and í, ý, au, ei, ei, æ (all end in an [[í]] sound)
 **einn, fínn, brúnn, steinn, óhreinn, seinn, grænn
 *'''sn''' – The letter cluster "sn" is pronounced "sdn".
-**snúa (/sdnúa/), asnalegt (/asdnalegt/), losnaði (/losdn/)
+**snúa ({{pron|sdnúa}}), asnalegt ({{pron|asdnalegt}}), losnaði ({{pron|losdn}})
 
 ***
 

@@ -32,20 +32,19 @@ In the middle of words or at the ends of sentences, '''''t''''' sounds like the 
 There are several situations where you have to [[breathe out]] (exhale) a little bit before the T. The situations are:
 
 *Before a double T
-**köttur (/kö{{h}}tur/), létt (/lé{{h}}t/)
+**köttur ({{pron|kö{{h}}tur}}), létt ({{pron|lé{{h}}t}})
 *Before a '''tn''':
-**vatn (/va{{h}}tn), setning (/se{{h}}tning/)
+**vatn ({{pron|va{{h}}tn}}), setning ({{pron|se{{h}}tning}})
 *Before a '''tl''':
-**vitlaust (/vi{{h}}tlaust/), litli (/li{{h}}tli/)
+**vitlaust ({{pron|vi{{h}}tlaust}}), litli ({{pron|li{{h}}tli}})
 
 This small breath is extremely important, without it it's almost impossible to understand you. It is better to exaggerate it rather than to do too little of it.
 
 == Exceptions ==
 
 * "tns" is pronounced as "ss":
-** vatns (/vass/), botns (/boss/)
+** vatns ({{pron|vass}}), botns ({{pron|boss}})
 
 ***
 
 The name of the letter is "té".
-

@@ -74,7 +74,7 @@ It appears in the following situations:
 ==Exceptions==
 
 *'''sl''' – The letter cluster "sl" is pronounced "sdl", same as the clicky double L in "a'''ll'''ir".
-**slaka (/sdlaka/), rusl (/rusdl/), slys (/sdlis/), versla (/versdla/)
+**slaka ({{pron|sdlaka}}), rusl ({{pron|rusdl}}), slys ({{pron|sdlis}}), versla ({{pron|versdla}})
 
 ***
 

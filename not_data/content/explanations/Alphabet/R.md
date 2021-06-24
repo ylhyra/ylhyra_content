@@ -44,8 +44,8 @@ This sound also occurs when the two letters "hr" are written together. Notice th
 The reason for this odd pronunciation is that when you go from "r" to "n", you want do start with a strong "n" sound, which is easier to do if the "n" is pronounced like "dn". Now you have "rdn". The "r" is difficult to pronounce in this position, so it is overshadowed by that "d" sound, so you're left with a "dn" sound.</ref>
 **bö'''rn''', bi'''rn'''i'''rn'''ir, fo'''rn''', kja'''rn'''i
 * '''rl''' – The letter cluster "rl" is pronounced "dl" or "rdl"
-** karlar (/kadlar/), varla (/vadla/)
-** perla (/perdla/), þyrla (/þyrdla/)
+** karlar ({{pron|kadlar}}), varla ({{pron|vadla}})
+** perla ({{pron|perdla}}), þyrla ({{pron|þyrdla}})
 
 ***
 

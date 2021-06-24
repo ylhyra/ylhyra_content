@@ -4,21 +4,21 @@ vocabulary:
 - hæ
 - hvað
 - ég segi
+- þú
 - þú segir
+- hún
 - hún segir
-- halló
 - allt
 - gott
 - en
-- þú
 - Hvað segirðu gott?
 - En þú?
 - mamma
-- mín
-- þín
-- hún
+- mamma mín
+- mamma þín
 - það
 - það er
+- líka
 ---
 
 ==Hi==
@@ -26,7 +26,7 @@ A simple greeting in Icelandic is:
 
 {{phrase|Hæ.|Hi.}}
 
-"Hæ" is pronounced the same as the English "hi". The letter [[Æ|'''Æ'''/'''æ''']] <Audio src="pGvG.mp3" inline/> is pronounced like "eye", it is written as a blend of the letters "A" and "E". If you don't have access to an Icelandic keyboard you can write "H'''ae'''" instead of "H'''æ'''".
+"Hæ" is pronounced the same as the English "hi". The letter [[Æ|'''Æ'''/'''æ''']] <Audio src="pGvG.mp3" inline/> is pronounced like "eye", it is written as a blend of the letters "A" and "E". If you don't have an Icelandic keyboard you can write "H'''ae'''" instead of "H'''æ'''".
 
 ==How are you?==
 After greeting someone, you then ask them how they are:
@@ -38,9 +38,9 @@ The phrase literally means "What do you say that is good?".
 You can see several new things regarding pronunciation in this phrase:
 
 *'''hv''' is always pronounced '''kv''', meaning "hvað" is pronounced {{pron|kvað}}. The [[K]] sound <Audio src="8dpU.mp3" inline/> in Icelandic has a slightly stronger outgoing breath of air (exhalation) than in English, if you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth after the K sound in "hvað", making a {{pron|k{{h}}vað}}.
-*The letter [[Ð|'''Ð'''/'''ð''']] is a [[D]] with a line through it, and it makes the sound of the English word "''<b>th</b>en''". It's a very soft letter, it's often so soft that it disappears completely. Indeed, in the word "hvað" it is so soft that it just disappears. We now see that "hvað" is pronounced {{pron|k{{h}}va}}.
+*The letter [[Ð|'''Ð'''/'''ð''']] is a [[D]] with a line through it, and it makes the sound of the English word "''<b>th</b>en''". It's a very soft letter, it's often so soft that it disappears completely. Indeed, in the word "hvað" it is so soft that it just disappears. We now see that "hvað" is pronounced {{pron|k{{h}}va}}. If you don't have an Icelandic keyboard you can write "d" instead of "ð".
 *'''[[G]]''' is sometimes a soft letter in Icelandic, in the word "segir" it makes the sound <Audio src="tDNq.mp3" inline/> of “'''''y'''es''”. The word "segir" is therefore pronounced {{pron|se'''y'''ir}}.
-*'''[[Þ]]''' is a letter you've not seen before, it is unrelated to the letter [[P]] and only exists in Icelandic. It makes the same sound as in the English ''“'''th'''ick”''.
+*'''[[Þ]]''' is a letter you've not seen before, it is unrelated to the letter [[P]] and only exists in Icelandic. It makes the same sound as in the English ''“'''th'''ick”''. If you don't have an Icelandic keyboard you can write "th" instead of "þ".
 *Before a '''tt''', you have to [[Preaspiration|exhale a little bit]]. You can imagine a small [[h]]-sound having been added before the ''tt'', and so "gott" is pronounced {{pron|go{{h}}tt}}. If you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth. This short outgoing breath is extremely important, it can be impossible to understand you without it. For that reason, it is far better to exaggerate this sound significantly rather than not doing it enough.
 
 One thing you will often see in questions is that the [[verb]] and the word "you" are [[Merging|joined together]], similar to if the words "are you" were merged to form "areyou". In Icelandic the words "segir þú" are merged together to form "segirðu". The reason [[Þ]] became a [[Ð]] here is that in certain situations Þ sounds like a Ð.
@@ -107,7 +107,7 @@ you: Hvað segir mamma þín gott?
 me: Hún segir allt gott.
 you: Það er gott.
 me: Já. En hvað segir mamma þín gott?
-you: Mamma mín segir allt gott.
+you: Mamma mín segir líka allt gott.
 me: Það er gott.
 </Conversation>
 

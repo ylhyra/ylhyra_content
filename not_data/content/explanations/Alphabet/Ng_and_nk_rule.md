@@ -14,14 +14,14 @@ The reason for this is that the sounds ''ng'' and ''nk'' are created with the to
 The rules are:
 
 *'''[[a]]''' before ''ng'' or ''nk'' is pronounced '''[[á]]''' (remember that "á" is itself pronounced as "aú", it ends in an [[Ú|''ú'']] sound)
-**langur (/lángur/), banka (/bánka/)
+**langur ({{pron|lángur}}), banka ({{pron|bánka}})
 *'''[[u]]''' before ''ng'' or ''nk'' is pronounced '''[[ú]]'''
-**þungur (/þúngur/), punktur (/púnktur/)
+**þungur ({{pron|þúngur}}), punktur ({{pron|púnktur}})
 *'''[[e]]''' before ''ng'' is pronounced '''[[ei]]''' (remember that "ei" is itself pronounced as "eí", it ends in an ''[[í]]'' sound)
-**lengi (/leíngi/)
+**lengi ({{pron|leíngi}})
 *'''[[ö]]''' before ''ng'' or ''nk'' is pronounced '''[[au]]''' (remember that "au" is itself pronounced as "öí", it ends in an ''[[í]]'' sound)
-**löng (/löíng/), bönkum (/böínkum/)
+**löng ({{pron|löíng}}), bönkum ({{pron|böínkum}})
 *'''[[i]]''' before ''ng'' or ''nk'' is pronounced '''[[í]]'''
-**fingur (/fíngur/), klink (/klínk/)
+**fingur ({{pron|fíngur}}), klink ({{pron|klínk}})
 *'''[[y]]''' before ''ng'' or ''nk'' is pronounced '''[[ý]]''' (remember that "ý" is the same sound as ''[[í]]'')
-**syngur (/sýngur/), þyngd (/þýngd/)
+**syngur ({{pron|sýngur}}), þyngd ({{pron|þýngd}})

@@ -15,12 +15,12 @@ Or [[short]]:
 
 If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like the letter cluster '''''[[ei]]''''' (which is itself pronounced /eí/).
 
-*l'''e'''ngi (/leíngi/)
+*l'''e'''ngi ({{pron|leíngi}})
 <!--
 If the next letter is a ''[[g]]'' that happens to be pronounced as a {{pron|j}}, it is pronounced like the letter cluster '''''[[ei]]''''' (which is itself pronounced /eí/).
 
-* hádegi (/hádeíji/)
-* segja (/seíja/)
+* hádegi ({{pron|hádeíji}})
+* segja ({{pron|seíja}})
 -->
 
 The name of the letter is just "e".

@@ -15,7 +15,7 @@ Or [[short]]:
 
 If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like '''''[[ú]]''''':
 
-*þ'''u'''ngur (/þúngur/), p'''u'''nktur (/púnktur/)
+*þ'''u'''ngur ({{pron|þúngur}}), p'''u'''nktur ({{pron|púnktur}})
 
 The name of the letter is "u".
 

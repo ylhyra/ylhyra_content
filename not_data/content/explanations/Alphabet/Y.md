@@ -15,7 +15,7 @@ Or [[short]]:
 
 If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like '''[[ý|''ý'']]''':
 
-*s'''y'''ngur (/sýngur/), þ'''y'''ngd (/þýngd/)
+*s'''y'''ngur ({{pron|sýngur}}), þ'''y'''ngd ({{pron|þýngd}})
 
 The name of the letter is "ufsilon" (the name comes from the Greek name of the letter, [[w:upsilon|upsilon]]).
 

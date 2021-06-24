@@ -23,9 +23,9 @@ In the middle of words (and at the ends of words if the next letter is a [[vowel
 *'''fn''' in the middle of words is pronounced like '''bn''':<ref group="note">There is an exception to this exception that is only seen in a handful of words:
 
 *'''fnd''' is pronounced like '''md''':
-**nefndin (/nemdin/)
+**nefndin ({{pron|nemdin}})
 *'''fnt''' is pronounced like '''mhd''' (unvoiced m):
-**nefnt (/nemht/), jafnt (/jamht/)
+**nefnt ({{pron|nemht}}), jafnt ({{pron|jamht}})
 </ref>
 **ofn, nafn, höfn, jafn, safn, efni, rifna, sofna, kartöflur
 

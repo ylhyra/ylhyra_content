@@ -33,4 +33,3 @@ This can be quite disappointing to learners, but you do have to limit your expec
 
 Don't worry too much about speaking to strangers for now. In time you will reach that [[B2]] level.
 
-<references />
