@@ -35,3 +35,4 @@ When you see a long vowel, try to both exaggerate its length and also exaggerate
 <notes>
 *A note to German speakers: The gliding in Icelandic long vowels may sound similar to German words that end in an "r". "De" in Icelandic might sound like a German "de'''r'''". Icelanders however don't perceive an "r" in long vowels.
 </notes>
+

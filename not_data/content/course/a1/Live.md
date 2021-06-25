@@ -19,8 +19,6 @@ vocabulary:
 - Það er frekar gott.
 ---
 
-=Chapter 7=
-
 ==Uhm...==
 There are two almost identical words that mean "here", they are "hérna" and "hér". "Hérna" and "hér" are synonymous, but "hérna" is more commonly used.
 
@@ -44,25 +42,25 @@ Remember that "rn" is pronounced "dn", so "hérna" is pronounced {{pron|hédna}}
 *þú b'''ý'''rð = you live somewhere, you reside
 *hann b'''ý'''r = he lives somewhere, he resides
 
-*1|Hérna, hvar býrð þú?
-*2|Ég bý hérna í Reykjavík.
-*1|Ah, ókei.
-*1|Hvar býr mamma þín?
-*2|Hún býr í Boston.
-*1|Í Ameríku?
-*2|Já.
-*1|Ætlar þú að búa í Ameríku?
-*2|Æ, ég veit það ekki.
-*1|Er gott að búa í Reykjavík?
-*2|Já, það er frekar gott.
-*1|Er mamma þín góð í íslensku?
-*2|Já, hún er frekar góð.
-*1|Ætlar hún að búa lengi í Ameríku?
-*2|Ekki mjög lengi.
-*2|En hvar býrð þú?
-*1|Ég bý á Akureyri.
-*2|Hvar er það?
-*1|Það er á Norður-Íslandi.
-*2|Ah. Er gott að búa á Akureyri.
-*1|Já, það er frekar gott að búa hérna.
+you: Hérna, hvar býrð þú?
+me: Ég bý hérna í Reykjavík.
+you: Ah, ókei.
+you: Hvar býr mamma þín?
+me: Hún býr í Boston.
+you: Í Ameríku?
+me: Já.
+you: Ætlar þú að búa í Ameríku?
+me: Æ, ég veit það ekki.
+you: Er gott að búa í Reykjavík?
+me: Já, það er frekar gott.
+you: Er mamma þín góð í íslensku?
+me: Já, hún er frekar góð.
+you: Ætlar hún að búa lengi í Ameríku?
+me: Ekki mjög lengi.
+me: En hvar býrð þú?
+you: Ég bý á Akureyri.
+me: Hvar er það?
+you: Það er á Norður-Íslandi.
+me: Ah. Er gott að búa á Akureyri.
+you: Já, það er frekar gott að búa hérna.
 

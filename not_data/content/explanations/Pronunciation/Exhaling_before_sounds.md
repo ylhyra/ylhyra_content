@@ -50,3 +50,4 @@ The small exhalation is only necessary when the syllable has [[stress]] (emphasi
 
 *"''það er [[ekki|'''EKK'''i]] '''RÉTT'''''" (meaning "that's '''not''' true") is pronounced {{pron|það er e{{h}}ki rétt}}
 *"'''''ÞAÐ''' er ekki '''RÉTT'''''" (meaning "'''that'''<nowiki/>'s not true") is pronounced {{pron|það er iggi rétt}}.
+

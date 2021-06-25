@@ -28,3 +28,4 @@ When declining words that are [[plural]], you switch "hér er" out with "hér er
 
 ==See also==
 *[[List of noun declension patterns]]
+

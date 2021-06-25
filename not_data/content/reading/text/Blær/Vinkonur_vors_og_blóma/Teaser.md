@@ -12,3 +12,4 @@ title: Text:Blær/Vinkonur vors og blóma/Teaser
 --><span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/Blær_–_Lunga_17669.jpeg|height=200}})"></span><!--
 -->
 </a>
+

@@ -99,12 +99,13 @@ Practice pronouncing the following by exaggerating the length of "mjög" and "g�
 
 *Ég er mjög góð í íslensku. {{pron|é er mjuööö goooúð í íslensku}}
 
-*1|Er þetta gott?
-*2|Já, þetta er mjög gott.
-*1|Ert þú góður í íslensku?
-*2|Já, ég er mjög góður í íslensku.
+you: Er þetta gott?
+me: Já, þetta er mjög gott.
+you: Ert þú góður í íslensku?
+me: Já, ég er mjög góður í íslensku.
 
 ==Recommendations==
 
 *{{Recommendations/Study_vocabulary}}
 *Listen to the song [https://www.youtube.com/watch?v=dIkuRAf4EfI Það er gott að elska] ("It is good to love") by Bubbi, see the lyrics [https://www.guitarparty.com/songs/thad-er-gott-ad-elska/ here]. Focus only on the words used in the chorus.
+

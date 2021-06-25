@@ -22,3 +22,4 @@ So, at the end of a sentence:
 **`Ég e'''r''' eins og ég e'''r'''.` <Audio src="fDpc.mp3" inline/>
 *The [[G#Soft G with the voice|soft G]] sound <Audio src="pron V-Qm.mp3" inline/>becomes the [[G#Soft G without the voice|soft throaty G]] sound <Audio src="pron f4FN.mp3" inline/>
 **`Lö'''g''' eru lö'''g'''.` <Audio src="I3Il.mp3" inline/>
+

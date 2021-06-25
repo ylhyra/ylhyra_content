@@ -152,3 +152,4 @@ Weak declension
 |til '''góðu''' kvennanna
 |til '''góðu''' barnanna
 |}
+

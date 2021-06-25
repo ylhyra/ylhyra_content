@@ -77,3 +77,4 @@ When purchasing through the website of the Forlagið, items will be marked as:
 *Kilja = A physical softcover book
 *Innbundin = A physical hardcover book
 </div>
+

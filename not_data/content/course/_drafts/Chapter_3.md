@@ -45,3 +45,4 @@ Hvar ert þú? Ég er heima.
 
 Hvenær kemur þú til Íslands?Ég kem í febrúar.
 -->
+

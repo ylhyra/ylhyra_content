@@ -80,3 +80,4 @@ title: Project:Drafts/Course
 *👁 [[Course/A1/Sko|Sko]]
 *👁 [[Course/A1/Want|Want]]
 *👁 [[Course/A1/Time|Time]]
+

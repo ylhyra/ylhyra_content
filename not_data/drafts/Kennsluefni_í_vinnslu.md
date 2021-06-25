@@ -92,3 +92,4 @@ Rammi:
 
 11.
 *viðtengingarháttur I og II
+

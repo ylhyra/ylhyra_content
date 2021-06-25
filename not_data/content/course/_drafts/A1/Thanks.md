@@ -20,3 +20,4 @@ Now, learn these phrases by heart:
 * '''`Nei takk`''' = No thanks.
 
 {{Text:Conversation/Thanks}}
+

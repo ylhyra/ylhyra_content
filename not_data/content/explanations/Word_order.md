@@ -72,3 +72,4 @@ This is a list of common words that cause the word order to change if they are a
 **vanalega
 **svona
 **þess vegna
+

@@ -21,3 +21,4 @@ There are two common ways of asking if you want the receipt:
 
 *`Viltu kvittun?` = Do you want a receipt?
 *`Viltu afritið?` = Do you want the copy?
+

@@ -129,3 +129,4 @@ vocabulary:
 * ég: I
 * þú: you
 }}
+

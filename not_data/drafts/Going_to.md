@@ -21,3 +21,4 @@ Ert þú að læra íslensku? = Are you studying Icelandic?
 Hvað ætlar mamma þín að borða? = What is your mother going to eat?
 Ég ætla ekki að gera það í dag. = I am not going to do it tody.
 Ert þú að borða? = Are you eating?
+

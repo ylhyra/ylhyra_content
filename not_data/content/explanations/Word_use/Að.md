@@ -39,3 +39,4 @@ This is the basic form of verbs, known as the [[infinitive]]:
 
 *Kötturinn er úti '''að''' nóttu til.
 *'''Að''' lokum endaði allt vel.
+

@@ -19,3 +19,4 @@ Flestir reikna með því að Bláa lónið sé náttúrulegt lón, en það er 
 
 Bláa lónið er mjög vinsæll ferðamannastaður svo að maður þarf að kaupa miða með nokkurra vikna fyrirvara. Það er ekki beint ódýrt að heimsækja það, en það er alveg þess virði. Það er eitthvað svo huggulegt við að vera í þessu hvíta vatni úti í hrauni.
 </Book>
+

@@ -15,3 +15,4 @@ The '''infinitive''' (''nafnháttur'') is the most basic form of a [[verb]]. Wor
 *to go – að fara
 
 The little word "að" means the exact same thing as the English word "to", it is an additional word that shows that this is the basic form of the verb.
+

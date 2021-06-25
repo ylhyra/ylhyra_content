@@ -12,3 +12,4 @@ This is a [[W:Romanticism|romanticist]] poem about the mother tongue, about how 
 Today, when someone says "`Norsku krakkarnir eru að syngja á okkar '''ástkæra ylhýra'''`", it is a poetic and somewhat humorous way of saying "The Norwegian kids are singing in Icelandic".
 
 <!--{{public domain}}-->
+

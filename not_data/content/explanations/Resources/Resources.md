@@ -181,3 +181,4 @@ license: CC0
 
 *[https://www.mcc.is/enska-forsida/ Guide to immigration]
 *[https://notendur.hi.is/haukurth/norse/ Introductory guide to Old Norse]
+

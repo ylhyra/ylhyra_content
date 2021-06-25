@@ -22,3 +22,4 @@ English speakers have a tendency to incorrectly ask for things with "má ég fá
 
 *Mamma, má ég fá nammi? (Mom, am I allowed to get some candy?)
 *Mamma, get ég fengið nammi? (Mom, could you please hand me some candy?)
+

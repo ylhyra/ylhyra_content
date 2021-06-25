@@ -15,3 +15,4 @@ Njáll knows that he's too old to avenge the murder of his sons, so he chooses t
 You can purchase a shortened version of the entire story in modern English [https://www.bokafelagid.is/products/the-saga-of-burnt-njal <u>here</u>] for 1,600 kr.
 
 <Image src="Möðruvallabók f13r.jpg" width="270" other="A part of ''Brennu-Njáls saga'' from a 14th century manuscript."/>
+

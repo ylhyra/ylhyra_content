@@ -14,3 +14,4 @@ Todo:
 
 *Ég veit þú ert
 *Ég vissi að þú værir
+

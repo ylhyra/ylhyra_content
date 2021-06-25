@@ -9,3 +9,4 @@ title: Template:Newsletter footer
 <span style="color: #6b6b6b;font-size:12px;">Wish to submit simple texts in Icelandic or 
 explanatory material in English? [{{fullurl:Project:Become a collaborator}} Click here]. </span>
 </div>
+

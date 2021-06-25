@@ -25,3 +25,4 @@ The rules are:
 **fingur ({{pron|fíngur}}), klink ({{pron|klínk}})
 *'''[[y]]''' before ''ng'' or ''nk'' is pronounced '''[[ý]]''' (remember that "ý" is the same sound as ''[[í]]'')
 **syngur ({{pron|sýngur}}), þyngd ({{pron|þýngd}})
+

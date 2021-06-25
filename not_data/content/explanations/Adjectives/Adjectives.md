@@ -27,5 +27,3 @@ There is yet another thing that complicates adjectives. They have two different 
 **`hér er góð'''i''' maður'''inn'''` – Ends in a vowel in this case and in all cases, this is a weak declension.
 {{Parts of speech}}
 
-
-

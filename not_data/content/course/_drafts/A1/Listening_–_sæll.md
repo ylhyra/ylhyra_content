@@ -9,3 +9,4 @@ vocabulary:
 * sæll, Stefán!
 * hæ
 * góðan daginn
+

@@ -18,3 +18,4 @@ Examples:
 * Heyrðu, er tíminn okkar ekki búinn?
 * Heyrðu, ég átti alltaf eftir að kíkja í kaffi til þín.
 * Heyrðu, [[hérna]], ég var að spá...
+

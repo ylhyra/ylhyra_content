@@ -27,3 +27,4 @@ Examples:
 *'''Hann''' er ekki '''góður''' '''köttur'''. (He is not a good cat) – "He" is the main [[w:Subject (grammar)|subject]] of the sentence, "good cat" is in the first case because „að vera“ causes the first case.
 
 {{cases}}
+

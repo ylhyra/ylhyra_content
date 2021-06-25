@@ -91,3 +91,4 @@ license: CC0
 **[[Style of Icelandic used in the news]] <level level="b2"/>
 **[[Nicknames]] <level level="c1"/>
 <!--Linguistic purism-->
+

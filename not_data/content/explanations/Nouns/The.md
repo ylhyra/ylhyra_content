@@ -52,3 +52,4 @@ Again, the "the" comes at the end of words instead of at the front. The endings 
 :-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in
 
 You do not need to memorize these endings for now, but you do need to be aware of them.
+

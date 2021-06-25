@@ -14,3 +14,4 @@ me: Tekur það langan tíma?
 you: Nei nei.
 me: Takk! Þú ert bestur.
 </Conversation>
+

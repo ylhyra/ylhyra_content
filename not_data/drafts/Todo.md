@@ -68,3 +68,4 @@ You do not have any idea (as in, you don't carry any). Þágufall would indicate
 Ég er með bókina þína.
 
 Ég er með afa þínum í kór.
+

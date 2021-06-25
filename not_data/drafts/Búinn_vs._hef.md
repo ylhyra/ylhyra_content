@@ -34,3 +34,4 @@ Hefurðu séð mömmu mína? = Have you seen my mom?
 *Ertu búinn að taka paracetamól?
 *Ég hef ekki lært neitt Ég er ekki búinn að læra neitt
 *Hvað ert þú búinn að gera í vikunni?
+

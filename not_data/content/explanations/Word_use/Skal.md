@@ -66,3 +66,4 @@ Students have a tendency to incorrectly use this verb because they are thinking 
 <notes>
 *The base form ([[infinitive]]) of "skal" is the extremely strange-looking "að skul'''u'''". You do not need to memorize this quirk because you will practically never see this verb in the infinitive.
 </notes>
+

@@ -8,3 +8,4 @@ title: Template:Phrase
 		<small className="gray"> =&nbsp;$2</small>
 	</div>
 </div>
+

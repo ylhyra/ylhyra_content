@@ -9,15 +9,15 @@ vocabulary:
 ==Asking for coffee==
 "Að fá" means "to get". "Ég hef fengið" means "I have gotten". "Fá" and "fengið" are the same word, but "fengið" has a different form because it's in the [[past participle]] form, same as "gotten". In both Icelandic and English, the [[past participle]] appears when you say "I ''have'' gotten", but in Icelandic it also appears when you say "I ''can'' get" (if English followed the Icelandic pattern it would be "I ''can'' gotten").
 
-*2|Góðan daginn.
-*2|Hérna, get ég fengið kaffi?
-*1|Já, hvernig kaffi vilt þú?
-*2|Cappuccino, takk.
-*1|Gjörðu svo vel.
-*1|Eitthvað fleira?
-*2|Nei takk.
-*1|Þetta eru þá fimm hundruð krónur.
-*2|Gjörðu svo vel.
+me: Góðan daginn.
+me: Hérna, get ég fengið kaffi?
+you: Já, hvernig kaffi vilt þú?
+me: Cappuccino, takk.
+you: Gjörðu svo vel.
+you: Eitthvað fleira?
+me: Nei takk.
+you: Þetta eru þá fimm hundruð krónur.
+me: Gjörðu svo vel.
 
 ==Here you go==
 "Gjörðu svo vel" is a phrase you should only study as a phrase.<note>The reason is that "gjörðu" is a word form that no longer exists in modern Icelandic although this phrase survives, today we would say "gerðu". The phrase means "Do so well".</note> It's used to mean "here you go" (said when handing an item to somebody) and sometimes by store clerks to say "Next, please" ("Næsti, gjörðu svo vel").

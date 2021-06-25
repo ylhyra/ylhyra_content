@@ -7,3 +7,4 @@ title: Template:Video
 <span data-name="filename" data-children="string" class="hidden">$1</span>
 <span data-name="filepath" data-children="string" class="hidden">{{filepath:$1}}</span>
 </div>
+

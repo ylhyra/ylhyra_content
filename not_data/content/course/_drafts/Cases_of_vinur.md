@@ -16,3 +16,4 @@ vocabulary:
 * um vin minn = about my friend
 * frá vini mínum = from my friend
 * til vinar míns = to my friend
+

@@ -140,3 +140,4 @@ Gangleri spyr þá meira: „Hvað gerði Alföður eiginlega áður en himininn
 
 == English ==
 http://www.sacred-texts.com/neu/pre/pre04.htm
+

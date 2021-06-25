@@ -44,3 +44,4 @@ The word "[[ekki]]" is pronounced {{pron|e{{h}}ki}}, with a small [[Preaspiratio
 
 *"'''''ÞAÐ''' er ekki '''RÉTT'''''", meaning "that's not true" is pronounced {{pron|það er iggi rétt}}
 *"''það er '''EKK'''i '''RÉTT'''''", meaning "that's '''not''' true" is pronounced {{pron|það er e{{h}}ki rétt}}
+

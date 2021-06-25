@@ -19,3 +19,4 @@ November 2020:
 [[-ó endings|-ó&nbsp;endings]] {/{B2|small|category=no}} •
 [[E-books in Icelandic]] {/{B2|small|category=no}}
 </div>
+

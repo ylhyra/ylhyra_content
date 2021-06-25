@@ -8,7 +8,6 @@ vocabulary:
 - góðan daginn
 ---
 
-
 ==Greetings==
 
 ===Hæ===

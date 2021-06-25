@@ -255,3 +255,4 @@ title: Template:Noun declension patterns
 |um
 |a
 |}
+

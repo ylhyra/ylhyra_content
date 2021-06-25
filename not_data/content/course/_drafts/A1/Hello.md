@@ -20,3 +20,4 @@ me: Nei takk. Ég er ekki þyrstur.
 </Conversation>
 
 If you squint a little, you should be able to recognize ''hello, hi, mom, school, fine, hear, thirsty'', and ''Coke''.
+

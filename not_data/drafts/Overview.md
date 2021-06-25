@@ -140,3 +140,4 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 * helgi er beygt "til helgar" ef það þýðir weekend, annars "til helgi"
 * https://inflections.ylhyra.is/sj%C3%B3
+

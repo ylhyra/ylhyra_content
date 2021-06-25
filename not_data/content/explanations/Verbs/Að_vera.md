@@ -24,3 +24,4 @@ license: CC0
 !{{lh-þt}}
 | colspan="3" |ég hef '''verið'''
 |}
+

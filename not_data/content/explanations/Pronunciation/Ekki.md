@@ -10,3 +10,4 @@ license: CC0
 
 * When [[stress]]ed, it is pronounced {{pron|e{{h}}gyi}}
 * When unstressed, it is pronounced {{pron|iggyi}}
+

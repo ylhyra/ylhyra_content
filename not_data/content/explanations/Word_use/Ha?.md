@@ -28,3 +28,4 @@ me: Ha?! Af hverju ekki?
 you: Þessi banani kostar 2.000 krónur.
 me: Ha? Það getur ekki verið.
 </Conversation>
+

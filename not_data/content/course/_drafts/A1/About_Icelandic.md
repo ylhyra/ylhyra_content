@@ -62,3 +62,4 @@ You can indeed survive in Iceland by only communicating in English, however you
 
 For a student of Icelandic, it can be a bit tiring when the bartender switches over to English when he notices you stumbling on your order. Usually this is because they aren’t very used to encountering someone like you, and they are only attempting to be helpful. However, you absolutely must not give up in these situations. If you continue to speak your Icelandic, broken though it may be, the person you’re speaking to will get the hint.
 -->
+

@@ -44,3 +44,4 @@ Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo fal
 *[https://rafhladan.is/bitstream/handle/10802/4440/Lupinuskyrsla.pdf?sequence=1 Alaskalúpína og skógarkerfill á Íslandi] (2010). Náttúrufræðistofnun Íslands og Landgræðsla ríkisins.
 *[https://www.ni.is/grodur/agengar-plontur/alaskalupina Alaskalúpína]. Náttúrufræðistofnun Íslands.
 </sources>
+

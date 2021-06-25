@@ -17,3 +17,4 @@ en mér finnst Reykjavík vera of stór.
 Mig langar svolítið að búa úti á landi.
 Vera einn.
 </Book>
+

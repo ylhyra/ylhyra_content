@@ -28,3 +28,4 @@ Hvað vilt þú?
 Hvenær er tími fyrir kaffi?
 Hvar er hótelið þitt?
 Hver er heima
+

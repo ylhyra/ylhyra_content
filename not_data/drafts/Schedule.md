@@ -169,3 +169,4 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Animals''
 * ''certainty'' Ertu viss/ég held það/kannski
 * ''hafa/gera + past participle''
+

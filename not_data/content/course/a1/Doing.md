@@ -72,3 +72,4 @@ you: Nei, ég er ekki að læra íslensku.
 == Recommendations ==
 
 * {{Recommendations/Study_vocabulary}}
+

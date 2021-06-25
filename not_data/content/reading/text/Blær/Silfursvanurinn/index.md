@@ -12,3 +12,4 @@ redirects:
 * [[Blær/Silfursvanurinn/6]]
 * [[Blær/Silfursvanurinn/7]]
 * [[Blær/Silfursvanurinn/8]]
+

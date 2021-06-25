@@ -26,3 +26,4 @@ The þáttur is often examined as it is considered to have strong artistic merit
 *[[Þorsteins þáttur stangarhöggs/14]] {{not done}}
 *[[Þorsteins þáttur stangarhöggs/15]] {{not done}}
 *[[Þorsteins þáttur stangarhöggs/16]] {{not done}}
+

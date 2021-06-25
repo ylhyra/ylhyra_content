@@ -117,3 +117,4 @@ me: Það er gott.
 *{{Recommendations/Study_vocabulary}}
 *Have a look at the explanatory page about the [[Icelandic alphabet|'''Icelandic alphabet''']].
 *{{Recommendations/Read|Sund}}
+

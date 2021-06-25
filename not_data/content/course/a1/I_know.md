@@ -10,27 +10,27 @@ vocabulary:
 - þessi hamborgari
 ---
 
-=Chapter 6=
-
 ==I don't know==
 "Ég veit" means "I know" (referring to knowledge and not skills such as guitar and languages).
 
 The way to say "''I don't know''" is "Ég veit '''það''' ekki" (meaning "I do not know '''that'''"). Be careful not to forget the word "það" in "Ég veit það ekki".
 
-The word changes depending on person like so:
+The word changes depending on [[person]] like so:
 
 *ég veit = I know
 *þú vei'''s'''t = you know
 *hann veit = he knows
 
-{{conversation|
-{{1|Hvað ætlar þú að gera í dag?}}
-{{2|Ég veit það ekki}}
-{{1|Veist þú hvenær mamma þín kemur?}}
-{{2|Nei, ég veit ekki hvenær hún kemur.}}
-{{1|Veist þú hvar hún er?}}
-{{2|Nei, ég veit það ekki}}
-}}The word "[[að]]" has two main meanings, it can mean "to" as in "to eat", but it can also join two sentences together as in "You know ''that'' I am eating":
+<Conversation>
+you: Hvað ætlar þú að gera í dag?
+me: Ég veit það ekki
+you: Veist þú hvenær mamma þín kemur?
+me: Nei, ég veit ekki hvenær hún kemur.
+you: Veist þú hvar hún er?
+me: Nei, ég veit það ekki
+</Conversation>
+
+The word "[[að]]" has two main meanings, it can mean "to" as in "to eat", but it can also join two sentences together as in "You know ''that'' I am eating":
 
 *Þú veist ''að'' ég er að borða. = You know ''that'' I am eating.
 *Ég veit ''að'' mamma þín er mjög góð í íslensku. = I know ''that'' your mother is very good at Icelandic.
@@ -38,8 +38,8 @@ The word changes depending on person like so:
 ==This and that==
 There are two words that you can use to point to things: "þetta" (''this'') and "það" (''that'').<note>This is a simplification.</note><!-- They have a very similar meaning, but "þetta" points to things with more force (making it ideal for pointing to objects or for when you're being specific) while "það" points to things with less precision (making it better for pointing out ideas, situations or events). -->
 
-*1|Hvað er '''þetta'''?
-*2|Hm, '''það''' er góð spurning. Ég veit ekki hvað '''þetta''' er.
+you: Hvað er '''þetta'''?
+me: Hm, '''það''' er góð spurning. Ég veit ekki hvað '''þetta''' er.
 
 As you remember, there are three [[Gender|grammatical genders]] in Icelandic: he ([[masculine]]), she ([[feminine]]), and it ([[neuter]]). All [[nouns]] have a gender, and other words change their form to adapt to the gender of the word they apply to. The gender of words is just a grammatical quirk and does not affect how people perceive the objects themselves – although the word for ''hamburger'' is masculine, the hamburger itself is not perceived as a manly object. You cannot know what gender a word is just by looking at it, instead it's something you memorize slowly by seeing how the other words in the sentence adapt to it.
 

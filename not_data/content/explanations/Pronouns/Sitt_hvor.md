@@ -59,3 +59,4 @@ In the mind of a native speaker, “sitt hvor” does not behave like two differ
 *Viljið þið borga saman eða í '''sitt hvoru''' lagi?
 *Eigum við að fara á '''sitt hvorum''' bílnum til Akureyrar?
 *Það er betra að þið mætið í '''sitt hvoru''' lagi.
+

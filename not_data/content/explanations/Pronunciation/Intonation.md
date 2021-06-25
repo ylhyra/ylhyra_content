@@ -61,3 +61,4 @@ More examples:
 *`Takk kærlega fyrir.` – Both mean the same thing, just [[Stress|stressing]] a different word:
 **Takk <sup>kær</sup> <sub>lega fyrir</sub>
 **Takk kærlega <sup>fyr</sup><sub>ir</sub>
+

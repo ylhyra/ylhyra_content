@@ -83,3 +83,4 @@ Annotating a 500 word passage can take around 1 hour, or slightly longer than it
 ***only allow trusted individuals to contribute to certain articles,
 ***allow others to suggest edits which will be approved or rejected
 **encourages continuous incremental improvements and forces you to publish immediately
+

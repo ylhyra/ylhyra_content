@@ -20,13 +20,13 @@ vocabulary:
 "Hvenær" means "when?". Rembember that "[[hv]]" is always pronounced "kv". There is one additional exception that only applies to the word "hvenær" that is fairly annoying for students: The letter "[[æ]]" in the word isn't fully pronounced, instead it is pronounced as an "[[a]]". "Hven'''æ'''r" is pronounced {{pron|k{{h}}ven'''a'''r}}.
 
 <Conversation>
-{{1|Hæ. Hvað segirðu gott?}}
-{{2|Allt gott.}}
-{{1|Ert þú á Íslandi?}}
-{{2|Nei, ég er ekki á Íslandi, ég er í Ameríku.}}
-{{1|Hvenær ætlar þú að koma til Íslands?}}
-{{2|Ég ætla að koma til Íslands í janúar.}}
-{{1|Frábært!}}
+you: Hæ. Hvað segirðu gott?
+me: Allt gott.
+you: Ert þú á Íslandi?
+me: Nei, ég er ekki á Íslandi, ég er í Ameríku.
+you: Hvenær ætlar þú að koma til Íslands?
+me: Ég ætla að koma til Íslands í janúar.
+you: Frábært!
 </Conversation>
 
 "Ísland" means "Iceland", but in the above text we used "Ísland'''i'''" and "Ísland'''s'''". The reason is that Icelandic words change their form depending on what is happening to them, like how the English word "he" changes to "him" depending on the word's purpose in the sentence. These forms are known as '''[[cases]]''' and there are four of them in Icelandic. You can [https://inflections.ylhyra.is/%C3%8Dsland/466527 click here] to see all the forms the word "Ísland" can have. You should not study the cases for now, you just need to be aware of the reason why the words change their form.
@@ -44,12 +44,12 @@ The manner in which it is said is a bit harsh, and therefore many students feel 
 
 Remember that you don't say "Could you repeat that?" or "Would you mind talking a bit slower?", you just say "Ha?".
 
-*1|Ert þú á Íslandi?
-*2|Ha?
-*1|Ert þú á Íslandi?
-*2|Ah. Já, ég er á Íslandi.
-*1|Ég er líka á Íslandi! :)
-*2|Ha?? Það er frábært.
+you: Ert þú á Íslandi?
+me: Ha?
+you: Ert þú á Íslandi?
+me: Ah. Já, ég er á Íslandi.
+you: Ég er líka á Íslandi! :)
+me: Ha?? Það er frábært.
 
 ==Excercises==
 Translate the following:
@@ -70,3 +70,4 @@ Translate the following:
 ==Recommendations==
 
 *{{Recommendations/Study_vocabulary}}
+

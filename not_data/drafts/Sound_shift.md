@@ -47,3 +47,4 @@ klofning??:
 
 *brjóta, brýt, braut, brutum, brotið (sérhljóðavíxlum ('''C-víxl'''))
 *hlaupa, hleyp, hljóp, hlupum, hlaupið
+

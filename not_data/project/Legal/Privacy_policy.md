@@ -20,3 +20,4 @@ The following third parties are used:
 - hCaptcha – Used on the login and signup screens for bot prevention
 - PayPal – Payment
 - MailChimp – Email newsletter subscription
+

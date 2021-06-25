@@ -1,6 +1,26 @@
 ---
 title: Course/Going to
 vocabulary:
+- ég ætla = I intend to, I am going to, I plan to
+- þú ætlar = you intend to, you are going to, you plan to
+- hann ætlar = he intends to, he is going to, he plans to
+- í dag = today
+- hljómar vel = sounds good
+- bara = only, just
+- Hann ætlar að læra. = He's plans on studying.
+- Ætlar þú að læra í dag? = Are you going to study today?
+- Ég ætla ekki að læra íslensku í dag. = I am not planning on studying Icelandic today.
+- Hvað ætlar þú að borða? = What are you planning on eating?
+- Hvað ætlar hún að gera? = What is she going to do?
+- Er hún að borða hamborgara? = Is she eating a hamburger?
+- Hún ætlar ekki að borða hamborgara í dag. = She's not going to eat a hamburger tody.
+- Ert þú að læra íslensku? = Are you studying Icelandic?
+- Ég ætla að læra í dag. = I am going to study today.
+- Í dag ætla ég að læra. = Today I am going to study.
+- Hvað ætlar mamma þín að borða? = What is your mother going to eat?
+- Ég ætla ekki að gera það í dag. = I am not going to do it tody.
+- Ert þú að borða? = Are you eating?
+- mjög
 ---
 
 ==I am going to do it==
@@ -22,42 +42,43 @@ You can see that the [[verb]] that comes after "ætla" is in the basic default s
 ==Today==
 "Í dag" means "today". The G in "dag" is a [[soft G]], it's so soft that you should just skip it entirely like with the "g" in "ég".<note>It can however appear as a [[soft throaty G]] if it's at the [[Voiceless at the end of sentences|end of a sentence]].</note>
 
-*1|Hæ.
-*1|Hvað ætlar þú að gera í dag?
-*2|Ég ætla bara að læra í dag.
-*1|Hvað ætlar þú að læra?
-*2|Íslensku.
-*1|Ókei.
-*1|Ætlar þú að borða í dag?
-*2|Já, ég ætla að borða í dag.
-*1|Hvað ætlar þú að borða?
-*2|Ég ætla að borða hamborgara.
-*1|Hvað ætlar mamma þín að borða í dag?
-*2|Hún ætlar líka að borða hamborgara.
-*1|Ah, ókei.
-*1|Hvað segir hún gott?
-*2|Hún segir allt gott.
-*1|Er hún góð í íslensku?
-*2|Já, hún er mjög góð í íslensku.
-*2|Ert þú góður í íslensku?
-*1|Nei, ég er ekki góður í íslensku.
-*2|Ætlar þú að læra íslensku?
-*1|Já, en ekki í dag.
+<Conversation>
+you: Hæ.
+you: Hvað ætlar þú að gera í dag?
+me: Ég ætla bara að læra í dag.
+you: Hvað ætlar þú að læra?
+me: Íslensku.
+you: Ókei.
+you: Ætlar þú að borða í dag?
+me: Já, ég ætla að borða í dag.
+you: Hvað ætlar þú að borða?
+me: Ég ætla að borða hamborgara.
+you: Hvað ætlar mamma þín að borða í dag?
+me: Hún ætlar líka að borða hamborgara.
+you: Ah, ókei.
+you: Hvað segir hún gott?
+me: Hún segir allt gott.
+you: Er hún góð í íslensku?
+me: Já, hún er mjög góð í íslensku.
+me: Ert þú góður í íslensku?
+you: Nei, ég er ekki góður í íslensku.
+me: Ætlar þú að læra íslensku?
+you: Já, en ekki í dag.
+</Conversation>
 
 ==Sounds good==
 When someone tells you their plans, a good way to answer is with "Það hljómar vel" ("That sounds good"). Notice that the phrase is literally "sounds well" (using "vel") but not "sounds good" (which would use "gott").
 
 The letters "hl" in "hljómar" represent only a single sound: the [[breathy L]]. There's no "H" sound in this word. The [[breathy L]] is the sound you recognize from the word "allt". The word "hljómar" starts with that sound and the word "vel" ends with that sound (because L sounds become breathy L sounds at the [[Voiceless at the end of sentences|end of a sentence]]).
 
-* 1 Hvað ætlar þú að gera í dag?
-* 2 Ég ætla bara að læra.
-* 1 Hljómar vel.
-* 2 En þú?
-* 1 Ég ætla bara að borða.
-* 2 Það hljómar mjög vel.
-
-==Vocabulary==
-{{vocabulary|Going to}}
+<Conversation>
+you: Hvað ætlar þú að gera í dag?
+me: Ég ætla bara að læra.
+you: Hljómar vel.
+me: En þú?
+you: Ég ætla bara að borða.
+me: Það hljómar mjög vel.
+<Conversation>
 
 ==Recommendations==
 

@@ -34,3 +34,4 @@ Hvað ert þú að lesa um?
 Ég er að lesa bók um Ísland.
 Hvað ert þú að lesa núna?
 Er hún góð?
+

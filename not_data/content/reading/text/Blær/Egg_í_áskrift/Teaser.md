@@ -12,3 +12,4 @@ title: Text:Blær/Egg í áskrift/Teaser
 </span>
 <span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/Júlíus bóndi.jpg|height=200}})"></span>
 </a>
+

@@ -57,3 +57,4 @@ Can you translate the following sentences?
 * Coffee is from Colombia.
 * He is cold.
 * I am speaking Icelandic.
+

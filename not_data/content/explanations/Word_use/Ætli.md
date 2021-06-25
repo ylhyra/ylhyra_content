@@ -194,3 +194,4 @@ Which of the two would you like, an apple or an orange?
 $cot$
 Hvort ætli þig langi í epli eða appelsínu?
 $cob$
+

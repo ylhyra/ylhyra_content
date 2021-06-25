@@ -5,3 +5,4 @@ vocabulary:
 
 Að eiga.
 Ég á vin.
+

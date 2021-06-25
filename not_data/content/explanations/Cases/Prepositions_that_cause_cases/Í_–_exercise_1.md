@@ -46,3 +46,4 @@ Explanation:
 
 *`Í skólann` ([[þolfall]]) implies you are moving into the object.
 *`Í skólanum` ([[þágufall]]) implies you are already inside the object.
+

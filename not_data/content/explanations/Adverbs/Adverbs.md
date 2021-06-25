@@ -22,5 +22,5 @@ license: CC0
 * Others:
 ** Já (yes), ekki (not)
 
-
 {{Parts of speech}}
+

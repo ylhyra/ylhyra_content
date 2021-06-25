@@ -69,3 +69,4 @@ The following words are heard in everyday speech:
 
 The word „bíó“ (cinema) is a [[loan word]] taken from the Danish "'''bio'''graf-teater" (biographical theater), meaning that it has not been constructed like the other shortened word shown here. The same applies to sjampó and vídjó.
 </div>
+
