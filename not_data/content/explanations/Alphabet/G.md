@@ -47,7 +47,7 @@ This sound appears if the next letter after the G is '''''e''''', '''''i''''', '
 
 Many learners have difficulties with this sound, so it can be helpful to imagine ''gær'' being written as "''gyær''", and ''gefa'' written as "''gyefa''".
 
-=={{anchor|Soft G}} 3. Soft G with the voice==
+=={{anchor|Soft G}}{{anchor|Soft G with the voice}} 3. Soft G with the voice==
 <Audio src="0lfb.mp3" inline/>
 
 This sound is pronounced by constricting your throat a little bit but not closing it completely. If you are an English speaker, start with the ''g'' sound in ''gun'', but don't stop the air completely, let some air through while <u>using</u> your voice. It is a softer version of the sound in the Spanish ''amigo''.
@@ -80,7 +80,7 @@ It appears:
 *Before a '''t''':
 **róle'''g'''t, sa'''g'''t
 
-== 5. J==
+== {{anchor|j}}5. J==
 <Audio src="tDNq.mp3" inline/>
 
 If the letter is between a vowel and '''''j''''' or '''''i''''', it sounds like the Icelandic '''''[[j]]''''' or the English '''''y'''es'':
@@ -94,4 +94,3 @@ If the letter is between '''''á''''', '''''ó''''', '''''ú''''', and '''''a'''
 
 == Exceptions ==
 The word for ''God'' is "Guð". For historical reasons, this word is pronounced {{pron|'''Gv'''uð}}. Names that are derived from the term for God also follow this pattern: Guðmundur ({{pron|'''Gv'''uðmundur}}), Guðlaug ({{pron|'''Gv'''uðlaug}}), but no other words do.
-

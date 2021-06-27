@@ -1,9 +1,7 @@
 ---
-title: I
+title: i
 license: CC0
 ---
-
-{{DISPLAYTITLE:i}}
 
 The letter '''i''' is pronounced similar to the English ''k'''i'''d''. The Icelandic letter ''[[y]]'' has the exact same pronunciation.
 
@@ -22,4 +20,3 @@ If the [[Ng and nk rule|next letter is ''ng'' or ''nk'']], it is pronounced like
 There is an important word that, unintuitively, follows the above rule. That is the word "vinkona" (pronounced /vínkona/). This is unintuitive because the ''nk'' rule doesn't otherwise apply across word boundaries (the word vinkona is made up of two words, vin-kona).
 
 The name of the letter is "i".
-

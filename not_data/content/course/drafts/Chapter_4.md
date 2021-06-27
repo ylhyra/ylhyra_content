@@ -55,6 +55,3 @@ There are two ways to say “I want” in Icelandic:
 
 ==What opinions do you hold?==
 Ég held
-
-{{chapters}}
-

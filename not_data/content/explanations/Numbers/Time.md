@@ -60,6 +60,3 @@ You do not need to know the following words, but you might hear them in formal s
 ***In normal speech you would say ''Klukkan er fimm mínútur í tvö.''
 *''ganga'' ("to walk") – This is sometimes used by older speakers.
 **''Klukkan er að ganga tvö.'' = The time is anywhere between 01:01 and 01:59.
-
-==References==
-

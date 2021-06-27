@@ -42,7 +42,7 @@ Notice how many Icelandic words are similar to the English ones. In particular, 
 
 ==Language – Yes yes yes!==
 {{yes}}
-<!--{{Chapter 1/Vocabulary
+<!--
 ==~Fin~==
 
 To wrap up Chapter 1, listen to the 2019 hit song `Veist af mér` by Huginn.
@@ -50,5 +50,4 @@ To wrap up Chapter 1, listen to the 2019 hit song `Veist af mér` by Huginn.
 *[https://open.spotify.com/track/6FRoRSdJqU7wFb8XW7B0oR Spotify]
 *[https://www.youtube.com/watch?v=NrFXCSsEy_M YouTube]
 
-{{chapters}}-->
-
+-->

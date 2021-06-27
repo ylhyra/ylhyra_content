@@ -5,7 +5,6 @@ redirects:
 license: CC0
 ---
 
-{{DISPLAYTITLE:''Þú'' merging}}
 <level level="a1"/>
 
 The word `þú` (you) wants to merge with the previous word if the previous word is a [[verb]]. This usually happens in [[questions]].
@@ -15,4 +14,3 @@ The word `þú` (you) wants to merge with the previous word if the previous word
 * Hvenær '''kemur þú'''? → Hvenær '''kemurðu''' búinn?
 
 Although the "ú" always becomes a "u", there is very little consistency about whether the "þ" changes to "t" or "ð", this is just something you'll need to memorize.
-
