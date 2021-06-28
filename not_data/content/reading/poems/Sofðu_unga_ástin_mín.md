@@ -2,6 +2,7 @@
 title: Sofðu unga ástin mín
 tags:
 - Poems
+license: CC0
 ---
 
 <Image src="Portrait_of_Jóhann_Sigurjónsson.jpg" position="right" caption="[[w:Jóhann Sigurjónsson|Jóhann Sigurjónsson]] (1880–1919)" width="120"/>
@@ -27,6 +28,4 @@ tags:
 -->
 
 {{end|Sofðu unga ástin mín}}
-
-{{public domain}}
 

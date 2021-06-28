@@ -17,3 +17,4 @@ To learn Icelandic, we recommend that you:
 *Consume Icelandic media, including music, films, podcasts, Snapchats, newspapers, and [https://www.forlagid.is/vara/joakim-aðalond-ævi-og-storf/ Donald Duck magazines].
 *Take classes. The University of Iceland offers both [https://english.hi.is/icelandic_as_a_second_language_practical_diploma diplomas] and [https://english.hi.is/icelandic_as_a_second_language bachelor's courses] for very cheap. Evening classes are offered by [https://www.mimir.is/is/nam#study-icelandic Mímir] and others.
 *Read the texts here on Ylhýra ☺️
+

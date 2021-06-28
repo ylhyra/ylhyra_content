@@ -2,6 +2,7 @@
 title: Jónas Hallgrímsson/Ásta/1
 tags:
 - Poems
+license: CC0
 ---
 
 <div data-translate="true" data-audio-file="Ástkæra.mp3">
@@ -17,6 +18,4 @@ tags:
 {{line|mér yndið að veita.}}
 }}
 </div>
-
-{{public domain}}
 

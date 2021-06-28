@@ -3,6 +3,7 @@ title: Vísur Vatnsenda-Rósu
 tags:
 - Poems
 level: C1
+license: CC0
 ---
 
 '''Vísur Vatnsenda-Rósu''' (''the verses of Rose from Waters-end'') is a love poem written by Rósa Guðmundsdóttir (1795–1855).
@@ -42,6 +43,4 @@ Later in life, Rósa became a [[w:Midwife|midwife]].
 <sources>
 *Stella Soffía Jóhannesdóttir. [https://www.visindavefur.is/svar.php?id=15861 „Hvaða heimildir eru til um Vatnsenda-Rósu og hvað er vitað um hana?“] ''Vísindavefurinn'', 19. ágúst 2008
 </sources>
-
-{{public domain}}
 

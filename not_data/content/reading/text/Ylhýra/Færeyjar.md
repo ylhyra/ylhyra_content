@@ -6,7 +6,7 @@ license: CC0
 level: A1
 ---
 
-<Image src="Idioma_feroés.PNG" position="right" width="237"/>
+<Image src="Idioma_feroés.png" position="right" width="237"/>
 <Book audio="Færeyska.mp3">
 Færeyjar eru eyjar sem eru á milli Íslands og Skotlands. Þær eru hluti af Danmörku. Það búa ekki margir í Færeyjum, bara fimmtíu þúsund manns.
 

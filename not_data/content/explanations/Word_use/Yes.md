@@ -60,7 +60,7 @@ This also exists in the other Nordic languages, but in Icelandic you can say ent
 *Ah yes, please continue speaking!
 
 It is usually used in casual conversations, where you are casually showing agreement and encouraging a speaker to continue.
-
+<!--
 {{multiple choice|is|en
 |icelandic=já
 |options=
@@ -151,6 +151,7 @@ you: Vilt þú bjór?
 </Conversation>
 me: Já takk!
 }}
+-->
 
 {{end|Yes}}
 

@@ -25,9 +25,7 @@ Many other European languages also have a grammatical gender, such as German, Ru
 
 See the effect a word’s gender has on the rest of the sentence:
 
-*<translate>Hvað er köttur'''inn''' {{kk</translate> þi'''nn''' {{kk}} gama'''ll'''{{kk}}?}}
-*<translate>Hvað er skyrta'''n''' {{kvk</translate> þí'''n''' {{kvk}} gömu'''l'''{{kvk}}?}}
-*<translate>Hvað er hús'''ið''' {{hk</translate> þi'''tt''' {{hk}} gamal'''t'''{{hk}}?}}
-
-<Button>[[Game:Kyn|Learn the genders]]</Button>
+*<translate>Hvað er köttur'''inn''' {{kk}} þi'''nn''' {{kk}} gama'''ll'''{{kk}}?</translate>
+*<translate>Hvað er skyrta'''n''' {{kvk}} þí'''n''' {{kvk}} gömu'''l'''{{kvk}}?</translate>
+*<translate>Hvað er hús'''ið''' {{hk}} þi'''tt''' {{hk}} gamal'''t'''{{hk}}?</translate>
 

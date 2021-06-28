@@ -13,11 +13,10 @@ The word "'''náttúrulega'''" <Audio src="1hAr.mp3" inline/> (meaning ''natural
 
 In addition to "náttúrulega" being shortened to {{pron|náttla}}, you must not forget that [[Disappearing vowels|vowels get dropped when they meet at the edges of words]]. Therefore, the sentence "náttúrulega ömurlegt" is pronounced like {{pron|náttlömurlegt}}.
 
+<!--
 ==Exercise==
 
 In this exercise you will learn to listen for dropped sounds.
-
-<!-- {{game container start|shuffle=no}}-->
 
 {{card2|is|en
 |type=multiple choice
@@ -280,4 +279,6 @@ Notes:
 }}
 
 {{game container end}}
+
+-->
 

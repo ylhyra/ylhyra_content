@@ -85,5 +85,4 @@ And the birch you trust while you
 (workgin spirit: a spirit that is
 
 * https://bokmenntaborgin.is/en/node/7643 – Includes a great translation by Sarah Brownsberger
-<!---->
 

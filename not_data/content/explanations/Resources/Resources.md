@@ -9,8 +9,8 @@ license: CC0
 
 ==Online teachers==
 
-*[https://www.italki.com/teachers/icelandic?from%5B0%5D=IS Icelandic teachers on iTalki]. Classes are around {{usd|3000}} per hour.
-*[https://www.mimir.is/is/nam/icelandic-1 Mímir], classroom – 36 classes for around {{usd|46000}}. If you live in Iceland and are a part of a labour union, the classes will be subsidized. Online classes start in September and in January.
+*[https://www.italki.com/teachers/icelandic?from%5B0%5D=IS Icelandic teachers on iTalki]. Classes are around ISK 3,000 per hour.
+*[https://www.mimir.is/is/nam/icelandic-1 Mímir], classroom – 36 classes for around ISK 46,000. If you live in Iceland and are a part of a labour union, the classes will be subsidized. Online classes start in September and in January.
 
 ==Language exchange==
 
@@ -42,27 +42,27 @@ license: CC0
 
 '''Books'''
 
-*<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-2/ ''Learning Icelandic'', textbook]. {{to USD|5200}}
-*<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar excercises]. {{to USD|3000}}
-*<level level="b1"/> [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. {{to USD|3700}} (''Can not be purchased online'')
+*<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-2/ ''Learning Icelandic'', textbook]. ISK 5,200
+*<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar excercises]. ISK 3,000
+*<level level="b1"/> [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. ISK 3,700 (''Can not be purchased online'')
 
 ==Texts==
 
 *<level level="b2"/> [http://digicoll.library.wisc.edu/IcelOnline/Browse.html#bilingual Bilingual texts] from ''Carry On Icelandic'' (2004)
-*<level level="a2"/> [https://www.forlagid.is/vara/arstidir/ ''Árstíðir''] (2020) – Short stories for learners of Icelandic {{usd|2900}}
-*<level level="c1"/> [https://www.forlagid.is/vara/joakim-aðalond-ævi-og-storf/ Donald Duck magazines] – these magazines are extremely popular with children in Iceland and Northern Europe.{{usd|1700}}
+*<level level="a2"/> [https://www.forlagid.is/vara/arstidir/ ''Árstíðir''] (2020) – Short stories for learners of Icelandic ISK 2,900
+*<level level="c1"/> [https://www.forlagid.is/vara/joakim-aðalond-ævi-og-storf/ Donald Duck magazines] – these magazines are extremely popular with children in Iceland and Northern Europe. ISK 1,700
 
 '''Other recommended reading'''
 
 *[https://english.arnastofnun.is/page/island_og_islendingar_en About Icelandic culture], from ''Carry on Icelandic'' (2004)
-*[https://www.aldasigmunds.com/books/the-little-book-of-the-icelanders/ Little Book of Icelanders], about Icelandic culture. 19 USD
+*[https://www.aldasigmunds.com/books/the-little-book-of-the-icelanders/ Little Book of Icelanders], about Icelandic culture. USD 19
 
 ==Audiobooks==
 
 *[[E-books in Icelandic|List of some books available as both audiobooks and e-books]]
 *[https://www.forlagid.is/voruflokkur/rafbaekur/ All e-books available through Forlagið and Amazon]
 *[https://www.forlagid.is/voruflokkur/hljodbaekur-og-tonlist/app/ All audiobooks available for download through Forlagið]
-*[https://www.storytel.com/is/is/ Storytel], an audiobook subscription service. {{usd|2800}} per month. Includes dozens of audiobooks, including Harry Potter in Icelandic.
+*[https://www.storytel.com/is/is/ Storytel], an audiobook subscription service. ISK 2,800 per month. Includes dozens of audiobooks, including Harry Potter in Icelandic.
 
 '''Audiobooks for children'''
 
@@ -76,7 +76,7 @@ license: CC0
 *[https://www.youtube.com/channel/UCaH_tLzHjBWektbyTmVlcuQ/videos Íslenskur aðall, Halldór Laxness]
 *[https://www.youtube.com/channel/UCaH_tLzHjBWektbyTmVlcuQ/videos Íslandsklukkan, Halldór Laxness]
 *[https://www.youtube.com/channel/UCaH_tLzHjBWektbyTmVlcuQ/videos Kristnihald undir jökli, Halldór Laxness]
-*[https://www.youtube.com/watch?v=X7AlMvVtbGA&list=PLxTCOdVSplVyGjjxcmbjpG3872ZQywEtJ Litbrigði jarðarinnar, Ólafur Jóhann Sigurðsson]. Buy the physical copy of the book [http://www.bokin.is/product_info.php?manufacturers_id=794&products_id=21081 here] for {{usd|1900}}
+*[https://www.youtube.com/watch?v=X7AlMvVtbGA&list=PLxTCOdVSplVyGjjxcmbjpG3872ZQywEtJ Litbrigði jarðarinnar, Ólafur Jóhann Sigurðsson]. Buy the physical copy of the book [http://www.bokin.is/product_info.php?manufacturers_id=794&products_id=21081 here] for ISK 1,900
 *Egils saga, radio drama. [https://www.youtube.com/watch?v=9NNAtzEP05M] [https://www.youtube.com/watch?v=sRPSA4Tzo6o] [https://www.youtube.com/watch?v=5Fo8D49mXxE]
 *[https://www.youtube.com/watch?v=XOEAkRsOoFs&list=PLWWRtT29fp6sY2P1ynh-zCphW4HQsZZBe&index=4 Grímur Skeljungsbani]
 *[https://www.youtube.com/watch?v=WkH48lLGRoE&list=PLi_ywhkKY1_XOv_rFvNcfIoH7rMphnJ9b&index=7&t=0s Djákninn á Myrká]
@@ -172,8 +172,8 @@ license: CC0
 
 ==Classes in real life==
 
-*[https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland – Diploma (1 year) or bachelor's (3 years)], full-time classes. The classes are fully subsidized by the Icelandic government apart from a yearly {{usd|70000}} inscrtiption fee.
-*[https://www.mimir.is/is/nam/icelandic-1 Mímir] – 36 classes for around {{usd|46000}} If you live in Iceland and are a part of a labour union, the classes will be subsidized.
+*[https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland – Diploma (1 year) or bachelor's (3 years)], full-time classes. The classes are fully subsidized by the Icelandic government apart from a yearly ISK 70,000 inscrtiption fee.
+*[https://www.mimir.is/is/nam/icelandic-1 Mímir] – 36 classes for around 46,000. If you live in Iceland and are a part of a labour union, the classes will be subsidized.
 *[https://www.uw.is/icelandic_courses/ Summer classes in Ísafjörður] – University Center of the Westfjords
 *[http://thetincanfactory.eu/index.html The Tin Can Factory]
 

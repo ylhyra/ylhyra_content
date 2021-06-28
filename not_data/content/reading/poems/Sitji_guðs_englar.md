@@ -4,6 +4,7 @@ redirects:
 - Text:Sitji guðs englar
 tags:
 - Poems
+license: CC0
 ---
 
 <Image src="Loftmynd.jpeg" position="right"/>
@@ -22,6 +23,4 @@ This is an evening prayer commonly recited for children. It was written around 1
 '''Notes'''
 
 </div>
-
-{{public domain}}
 

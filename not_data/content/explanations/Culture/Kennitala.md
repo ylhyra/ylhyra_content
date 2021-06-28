@@ -13,3 +13,4 @@ license: CC0
 If you spend a long time in Iceland, you need to apply for a ''kennitala''.
 
 A ''kennitala'' looks like this: 250592-3379. It encodes your date of birth, in this example the individual is born on 25 May 1992.
+
