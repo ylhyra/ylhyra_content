@@ -49,7 +49,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 *Krónan
 *Kjarval
 *Íslenski hesturinn
-*[[Megas/Tvær stjörnur]] {{not done}}. Örstutt umfjöllun um lagið og manninn.
+*[[Megas/Tvær stjörnur]] <small>(not done)</small>. Örstutt umfjöllun um lagið og manninn.
 *Önnur umfjöllun um íslenska tónlist
 **Skálmöld
 **Leoncie
@@ -69,11 +69,11 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 **[[Project:Drafts/Hannes_Hafstein/Stormur|Hannes Hafstein/Stormur]]
 **[[Vísur Vatnsenda-Rósu]]
 *Einhverntímann seinna: (þessir gömlu textar eru satt best að segja frekar leiðinlegir)
-**[[Text:Egils saga/31. kafli|Egils saga/31. kafli]] {{not done}}
-**[[Text:Gylfaginning|Gylfaginning]] {{not done}}
-**[[Njála/1]] {{not done}}
-**[[Text:Guðmundur Kamban/Dúna Kvaran|Guðmundur Kamban/Dúna Kvaran]] {{not done}}
-**[[Text:Hulda/Fáninn|Hulda/Fáninn]] {{not done}}
+**[[Text:Egils saga/31. kafli|Egils saga/31. kafli]] <small>(not done)</small>
+**[[Text:Gylfaginning|Gylfaginning]] <small>(not done)</small>
+**[[Njála/1]] <small>(not done)</small>
+**[[Text:Guðmundur Kamban/Dúna Kvaran|Guðmundur Kamban/Dúna Kvaran]] <small>(not done)</small>
+**[[Text:Hulda/Fáninn|Hulda/Fáninn]] <small>(not done)</small>
 **Elvar?
 
 ***

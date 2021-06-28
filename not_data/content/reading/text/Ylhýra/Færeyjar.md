@@ -22,5 +22,4 @@ Og svona hljómar færeyska:
 
 Mér finnst Færeyingar vera eins og litlu frændur okkar af því að þeir eru svo nálægt okkur. Það er gaman að tala við þá og við hugsum eins. En það eru samt ekki mikil samskipti á milli Íslands og Færeyja, ég veit ekki af hverju. Kannski af því að það kostar svo mikið að fljúga á milli.
 </Book>
-<Image src="Faroe Islands Føroyar Færøerne Wyspy Owcze 2019 (1).jpg" width="467"/>
-
+<Image src="Færeyjar.jpg" width="467"/>

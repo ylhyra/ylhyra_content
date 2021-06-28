@@ -12,18 +12,18 @@ The þáttur is often examined as it is considered to have strong artistic merit
 
 *[[Þorsteins þáttur stangarhöggs/1]] {{done}}
 *[[Þorsteins þáttur stangarhöggs/2]] {{done}}
-*[[Þorsteins þáttur stangarhöggs/3]] {{in progress}}
-*[[Þorsteins þáttur stangarhöggs/4]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/5]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/6]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/7]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/8]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/9]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/10]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/11]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/12]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/13]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/14]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/15]] {{not done}}
-*[[Þorsteins þáttur stangarhöggs/16]] {{not done}}
+*[[Þorsteins þáttur stangarhöggs/3]] <small>(in progress)</small>
+*[[Þorsteins þáttur stangarhöggs/4]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/5]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/6]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/7]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/8]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/9]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/10]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/11]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/12]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/13]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/14]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/15]] <small>(not done)</small>
+*[[Þorsteins þáttur stangarhöggs/16]] <small>(not done)</small>
 
