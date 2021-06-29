@@ -2636,6 +2636,8 @@
   english: hello
   note_after_show: Used when answering a telephone. Not a very common greeting outside of that.
   row_id: 1134
+  level: 1
+  last_seen: "2021-06-29"
 - icelandic: hallærislegt
   english: uncool; not fashionable; kitsch; embarrassing
   level: 3
@@ -2684,12 +2686,13 @@
   level: 4.4
   categories: time
   row_id: 789
-- icelandic: Hann er *ber að ofan*.
-  english: He is *shirtless*.
+- icelandic: Hann er ber að ofan.
+  english: He is shirtless.
   depends_on: ofan
   level: 3
-  literally: He is bare to above (the waist).
+  literally: He is bare regarding that which is above (the waist).
   row_id: 404
+  last_seen: "2021-06-29"
 - icelandic: Hann er blindfullur.
   english: He's extremely drunk.
   depends_on: fullur, blindur
@@ -2730,6 +2733,13 @@
   level: 2
   direction: "->"
   row_id: 621
+- icelandic: Hann er hálfviti.
+  english: He's an idiot.
+  depends_on: hálfviti
+  level: 3
+  categories: rude
+  row_id: 463
+  last_seen: "2021-06-29"
 - icelandic: Hann er hár.
   english: He is tall.
   alternative_id: hár (l)
@@ -3787,6 +3797,8 @@
   level: 3
   alternative_id: lyklaborð
   row_id: 809
+  basic_form: lyklaborð
+  last_seen: "2021-06-29"
 - icelandic: maður
   english: a man;; a person;; a husband
   level: 1
@@ -4325,10 +4337,13 @@
   english: little by little; gradually
   depends_on: "3"
   row_id: 1150
-- icelandic: smjör
-  english: butter
+- icelandic: smjörið
+  english: the butter
   level: 3
   row_id: 547
+  basic_form: smjör
+  alternative_id: smjör
+  last_seen: "2021-06-29"
 - icelandic: snemma
   english: early;; early in the morning
   level: 1
@@ -4349,11 +4364,14 @@
 - icelandic: spænska
   level: 3
   row_id: 976
-- icelandic: staða
-  english: a situation;; a job position
+- icelandic: staðan
+  english: the situation;; the job position
   level: 3
   dont_confuse: staður
   row_id: 1071
+  alternative_id: staða
+  basic_form: staða
+  last_seen: "2021-06-29"
 - icelandic: staður
   english: a place; a location
   level: 2
@@ -5391,12 +5409,6 @@
   level: 1
   note_after_show: "\"Betri\" is an adjective."
   row_id: 28
-- icelandic: Þú ert hálfviti.
-  english: You are an idiot.
-  depends_on: hálfviti
-  level: 3
-  categories: rude
-  row_id: 463
 - icelandic: Þú ert með krabbamein.
   english: You have cancer.
   depends_on: krabbamein
