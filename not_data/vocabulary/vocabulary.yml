@@ -71,10 +71,6 @@
   english: to die
   level: 3
   row_id: 536
-- icelandic: að drepast
-  depends_on: að drepa
-  level: 3
-  row_id: 892
 - icelandic: að eiga
   english: to own
   level: 1
@@ -100,6 +96,8 @@
   level: 1
   direction: <-
   row_id: 243
+  Laga?: splitta
+  last_seen: "2021-06-29"
 - icelandic: að eiga von á einhverju
   row_id: 966
 - icelandic: að eignast
@@ -192,6 +190,7 @@
   english: to do
   level: 1
   row_id: 407
+  last_seen: "2021-06-29"
 - icelandic: að gerast
   english: to happen; to occur
   depends_on: að gera
@@ -4136,12 +4135,6 @@
   level: 4
   note_after_show: „Nagli“ is a nail used in construction while „nögl“ is a fingernail.
   row_id: 1173
-- icelandic: o∆ ó∆ pé
-  english: What is the name of the letters "O∆ Ó∆ P"?
-  level: 1
-  direction: <-
-  categories: alphabet
-  row_id: 1034
 - icelandic: Og hvað með það?
   english: And so what?
   level: 1
@@ -4152,6 +4145,12 @@
   basic_form: að leiðast
   level: 3
   row_id: 107
+- icelandic: o∆ ó∆ pé
+  english: What is the name of the letters "O∆ Ó∆ P"?
+  level: 1
+  direction: <-
+  categories: alphabet
+  row_id: 1034
 - icelandic: opnaður
   english: opened; that which has been opened
   depends_on: að opna
@@ -4544,12 +4543,6 @@
   depends_on: að virka, tölva, lengi
   level: 2
   row_id: 643
-- icelandic: u∆ ú∆ vaff
-  english: What is the name of the letters "U∆ Ú∆ V"?
-  level: 1
-  direction: <-
-  categories: alphabet
-  row_id: 1036
 - icelandic: um eftirmiðdaginn
   english: during the afternoon
   depends_on: eftir, miðja, dagur
@@ -4576,6 +4569,12 @@
   english: busy
   level: 1
   row_id: 87
+- icelandic: u∆ ú∆ vaff
+  english: What is the name of the letters "U∆ Ú∆ V"?
+  level: 1
+  direction: <-
+  categories: alphabet
+  row_id: 1036
 - icelandic: úlpa
   row_id: 998
 - icelandic: út
@@ -4626,6 +4625,8 @@
   literally: appearing to be in troubles
   alternative_id: vandræðalegur
   row_id: 875
+  basic_form: vandræðalegur
+  last_seen: "2021-06-29"
 - icelandic: Vantar þig gaffal?
   english: Do you need a fork?; Are you without a fork?
   depends_on: að vanta
