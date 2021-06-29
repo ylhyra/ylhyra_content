@@ -227,9 +227,10 @@
   {
     "icelandic": "að flytja",
     "english": "to transport; to move a large object;; to move to another house",
-    "level": "1",
+    "level": "3",
     "dont_confuse": "að færa",
-    "row_id": 731
+    "row_id": 731,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að fylgjast með",
@@ -241,21 +242,26 @@
   {
     "icelandic": "að færa",
     "english": "to move something somewhere",
-    "level": "1",
+    "level": "3",
     "dont_confuse": "að hreyfa sig",
-    "row_id": 732
+    "row_id": 732,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að ganga illa",
-    "english": "to be going badly",
+    "english": "{{g|for someone}} to be doing badly;; {{g|for something}} to be progressing in an unsatisfactory manner",
     "level": "1",
-    "row_id": 163
+    "row_id": 163,
+    "depends_on": "að ganga, illa",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að ganga vel",
-    "english": "to be going well",
+    "english": "to be going well;; {{g|for something}} to be progressing in a satisfactory manner",
     "level": "1",
-    "row_id": 162
+    "row_id": 162,
+    "depends_on": "að ganga, vel",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að gefast upp",
@@ -311,10 +317,12 @@
     "row_id": 214
   },
   {
-    "icelandic": "að hitta",
+    "icelandic": "að hitta einhvern",
     "english": "to meet someone",
     "level": "1",
-    "row_id": 379
+    "row_id": 379,
+    "alternative_id": "að hitta",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að hittast",
@@ -515,8 +523,11 @@
   },
   {
     "icelandic": "að sjá",
-    "level": "1",
-    "row_id": 776
+    "level": "2",
+    "row_id": 776,
+    "english": "to see",
+    "dont_confuse": "að horfa á",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að sjá eftir einhverju",
@@ -575,8 +586,9 @@
   {
     "icelandic": "að slaka á",
     "english": "to relax",
-    "level": "1",
-    "row_id": 168
+    "level": "2",
+    "row_id": 168,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að sofa",
@@ -700,7 +712,9 @@
   {
     "icelandic": "að vera",
     "level": "1",
-    "row_id": 330
+    "row_id": 330,
+    "english": "to be",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að vera í stuði",
@@ -735,7 +749,10 @@
   {
     "icelandic": "að vera til",
     "level": "1",
-    "row_id": 331
+    "row_id": 331,
+    "english": "to exist",
+    "depends_on": "að vera",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að vera til í",
