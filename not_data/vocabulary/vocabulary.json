@@ -755,9 +755,14 @@
     "last_seen": "2021-06-29"
   },
   {
-    "icelandic": "að vera til í",
-    "level": "1",
-    "row_id": 332
+    "icelandic": "að vera til í eitthvað",
+    "level": "2",
+    "row_id": 332,
+    "english": "to be up for it; to be willing to do something",
+    "alternative_id": "að vera til í",
+    "depends_on": "að vera, til, í",
+    "note_after_show_is": "This meaning is unrelated to \"að vera til\" (\"to exist\").",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "að vera úti á landi",
@@ -855,8 +860,9 @@
     "icelandic": "aftur",
     "english": "again",
     "level": "1",
-    "dont_confuse": "aldrei, alltaf",
-    "row_id": 482
+    "dont_confuse": "aldrei, alltaf, á eftir, eftir",
+    "row_id": 482,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "aldrei",
@@ -1036,9 +1042,11 @@
   {
     "icelandic": "áhyggjur",
     "english": "worries",
-    "depends_on": "áhyggja",
     "level": "1",
-    "row_id": 93
+    "row_id": 93,
+    "alternative_id": "áhyggja",
+    "basic_form": "áhyggja",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "á Íslandi",
@@ -1075,25 +1083,28 @@
     "row_id": 233
   },
   {
-    "icelandic": "Áttu bíl?",
+    "icelandic": "Átt{{u}} bíl?",
     "english": "Do you own a car?",
     "depends_on": "Þú átt bíl.",
     "level": "1",
-    "row_id": 351
+    "row_id": 351,
+    "last_seen": "2021-06-29"
   },
   {
-    "icelandic": "Áttu börn?",
+    "icelandic": "Átt{{u}} börn?",
     "english": "Do you have children?",
     "depends_on": "að eiga",
     "level": "1",
-    "row_id": 354
+    "row_id": 354,
+    "last_seen": "2021-06-29"
   },
   {
-    "icelandic": "Áttu kött?",
+    "icelandic": "Átt{{u}} kött?",
     "english": "Do you own a cat?",
     "depends_on": "að eiga, köttur",
     "level": "1",
-    "row_id": 549
+    "row_id": 549,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "á þeim tíma",
@@ -1182,10 +1193,11 @@
     "row_id": 988
   },
   {
-    "icelandic": "Býrðu ennþá á Akureyri?; Býrðu enn á Akureyri?",
+    "icelandic": "Býrð{{u}} ennþá á Akureyri?; Býrð{{u}} enn á Akureyri?",
     "english": "Do you still live in Akureyri?",
     "level": "1",
-    "row_id": 68
+    "row_id": 68,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Býstu við því að vera laus á morgun?",
@@ -1268,11 +1280,12 @@
     "row_id": 464
   },
   {
-    "icelandic": "Drekkur þú kaffi?",
+    "icelandic": "Drekkur{{ðu}} kaffi?",
     "english": "Do you drink coffee?",
     "depends_on": "að drekka, kaffi",
     "level": "1",
-    "row_id": 285
+    "row_id": 285,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Drífa sig!",
@@ -1471,8 +1484,11 @@
   },
   {
     "icelandic": "Er einhver heima?",
-    "level": "1",
-    "row_id": 609
+    "level": "2",
+    "row_id": 609,
+    "english": "Is someone home?; Is there anyone home?",
+    "depends_on": "heima",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Er einhver hérna?",
@@ -1484,14 +1500,17 @@
     "icelandic": "Er erfitt að vera kennari?",
     "english": "Is it difficult being a teacher?",
     "level": "1",
-    "row_id": 207
+    "row_id": 207,
+    "depends_on": "erfitt, að vera, kennari",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Er gaman að læra íslensku?",
     "english": "Is learning Icelandic fun?",
-    "depends_on": "gaman",
+    "depends_on": "gaman, að læra, íslenska",
     "level": "1",
-    "row_id": 218
+    "row_id": 218,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Er hann farinn?",
@@ -1545,10 +1564,11 @@
     "row_id": 887
   },
   {
-    "icelandic": "Ertu á Íslandi?",
+    "icelandic": "Ert{{u}} á Íslandi?",
     "english": "Are you in Iceland?",
     "level": "1",
-    "row_id": 172
+    "row_id": 172,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ertu búinn að ákveða þig?",
@@ -1575,8 +1595,9 @@
     "icelandic": "Ertu í stuði fyrir göngutúr?",
     "english": "Are you in the mood for going for a walk?",
     "depends_on": "í stuði, göngutúr",
-    "level": "1",
-    "row_id": 596
+    "level": "3",
+    "row_id": 596,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ertu í stuði fyrir mynd?",
@@ -1586,11 +1607,12 @@
     "row_id": 120
   },
   {
-    "icelandic": "Ertu laus?",
+    "icelandic": "Ert{{u}} laus?",
     "english": "Are you available?",
     "depends_on": "laus",
     "level": "1",
-    "row_id": 103
+    "row_id": 103,
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ertu með íslenskt lyklaborð?",
@@ -1677,7 +1699,9 @@
     "icelandic": "Er þetta ókeypis?",
     "english": "Is this for free?",
     "level": "1",
-    "row_id": 455
+    "row_id": 455,
+    "Laga?": "hmm",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Er þér heitt?",
@@ -1777,26 +1801,32 @@
     "row_id": 19
   },
   {
-    "icelandic": "Ég á *kærasta*.",
-    "english": "I have a *boyfriend*.",
+    "icelandic": "Ég á kærasta.",
+    "english": "I have a boyfriend.",
     "depends_on": "kærasti",
     "level": "1",
     "dont_confuse": "kærasta",
-    "row_id": 437
+    "row_id": 437,
+    "basic_form": "að eiga, kærasti",
+    "last_seen": "2021-06-29"
   },
   {
-    "icelandic": "Ég á *kærustu*.",
-    "english": "I have a *girlfriend*.",
+    "icelandic": "Ég á kærustu.",
+    "english": "I have a girlfriend.",
     "depends_on": "kærasta",
     "level": "1",
-    "row_id": 438
+    "row_id": 438,
+    "basic_form": "að eiga, kærasta",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ég á marga vini.",
     "english": "I have many friends.",
     "depends_on": "að eiga",
     "level": "1",
-    "row_id": 346
+    "row_id": 346,
+    "basic_form": "að eiga, margur, vinur",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ég á nokkra íslenska vini.",
@@ -1819,14 +1849,18 @@
     "english": "I own two dogs.",
     "depends_on": "að eiga, hundur",
     "level": "1",
-    "row_id": 550
+    "row_id": 550,
+    "basic_form": "að eiga, tveir, hundur",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ég á tvö börn.",
     "english": "I have two children.",
     "depends_on": "að eiga, barn, tveir",
     "level": "1",
-    "row_id": 353
+    "row_id": 353,
+    "basic_form": "að eiga, tveir, barn",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ég bjóst ekki við því.",
@@ -2361,9 +2395,10 @@
   {
     "icelandic": "ég flýg",
     "english": "I fly",
-    "depends_on": "að fljúga",
     "level": "2",
-    "row_id": 702
+    "row_id": 702,
+    "basic_form": "að fljúga",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ég fór í sturtu áðan.",
@@ -2385,7 +2420,10 @@
     "icelandic": "Ég fór þangað áðan.",
     "english": "I went there earlier today.",
     "level": "2",
-    "row_id": 15
+    "row_id": 15,
+    "basic_form": "að fara",
+    "depends_on": "þangað, áðan",
+    "last_seen": "2021-06-29"
   },
   {
     "icelandic": "Ég gat ekki sofnað.",
