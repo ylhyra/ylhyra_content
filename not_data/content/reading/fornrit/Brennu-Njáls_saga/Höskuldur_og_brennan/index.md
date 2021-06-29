@@ -5,6 +5,7 @@ redirects:
 - Njáls saga
 license: CC0
 level: B1
+published: February 2021
 ---
 
 The following is a highly simplified retelling of the middle part of ''[[w:Njáls saga|Brennu-Njáls saga]]'', one of the most popular Icelandic [[w:saga|sagas]]. ''Brennu-Njáls saga'' was written in the 13th and tells the story of events from around the year 1000 AD.
@@ -42,4 +43,3 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 
 This is a retelling of chapters 94–130, the common printed version of ''Brennu-Njáls saga'' is 159 chapters in total. Several elements of the story are omitted for simplicity's sake.
 </div>
-

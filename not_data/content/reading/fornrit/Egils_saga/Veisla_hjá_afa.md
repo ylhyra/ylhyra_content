@@ -2,6 +2,7 @@
 title: Egils saga/Veisla hjá afa
 license: CC0
 level: A1
+published: February 2021
 ---
 
 This is a simplified retelling of [https://www.snerpa.is/net/isl/egils.htm#:~:text=Enn%20%C3%A1ttu%20%C3%BEau%20Skalla%2DGr%C3%ADmur%20son chapter 31] from the medieval Icelandic saga ''[[w:Egils saga|Egils saga]]''. The story takes place in the 10th century and was written in the 13th century. The main character of the story is an aggressive bully named Egill, a great poet who travels around Northern Europe. It is among the most commonly read sagas.
@@ -34,4 +35,3 @@ In summary, Egill is an unruly three year old boy who disobeys his father to go 
 As exemplified by this chapter, there is great honor in being a good poet.
 
 You can '''[https://www.snerpa.is/net/isl/egils.htm#:~:text=Enn%20%C3%A1ttu%20%C3%BEau%20Skalla%2DGr%C3%ADmur%20son click here]''' to see what the original text looks like, but don't expect to be able to understand much.
-

@@ -1,0 +1,7818 @@
+[
+  {
+    "icelandic": "a∆ á∆ bé∆ sé",
+    "english": "What is the name of the letters \"A∆ Á∆ B∆ C\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1029
+  },
+  {
+    "icelandic": "að alast upp",
+    "english": "to grow up somewhere; to be raised in some location; to spend one's childhood in some location",
+    "depends_on": "að ala upp",
+    "level": "3.1",
+    "note_after_show": "\"Að ala upp\" is to raise a child, \"að alast upp\" ([[middle voice]]) is to '''be''' raised as a child.",
+    "grammar_tags": "mm",
+    "row_id": 837
+  },
+  {
+    "icelandic": "að ala upp",
+    "english": "to raise a child; to bring up a child",
+    "level": "3",
+    "row_id": 836
+  },
+  {
+    "icelandic": "að auglýsa",
+    "english": "to advertise",
+    "row_id": 1073
+  },
+  {
+    "icelandic": "að baktala",
+    "english": "to talk negatively about someone behind their back; to slander someone behind their back",
+    "depends_on": "bak, að tala",
+    "level": "3.8",
+    "row_id": 798
+  },
+  {
+    "icelandic": "að bera fram",
+    "english": "to pronounce",
+    "level": "2",
+    "row_id": 129
+  },
+  {
+    "icelandic": "að bjóða einhverjum í kaffi",
+    "row_id": 987
+  },
+  {
+    "icelandic": "að borða",
+    "english": "to eat",
+    "level": "1",
+    "row_id": 251
+  },
+  {
+    "icelandic": "að búa",
+    "english": "to live somewhere",
+    "level": "1",
+    "direction": "->",
+    "row_id": 321
+  },
+  {
+    "icelandic": "að búast við einhverju",
+    "english": "to expect something",
+    "depends_on": "að búa",
+    "level": "2",
+    "dont_confuse": "að búa til",
+    "alternative_id": "að búast við",
+    "row_id": 719
+  },
+  {
+    "icelandic": "að búa til",
+    "english": "to create; to make",
+    "level": "2",
+    "dont_confuse": "að búa",
+    "row_id": 322
+  },
+  {
+    "icelandic": "að búa um rúmið",
+    "english": "to make the bed",
+    "level": "6",
+    "row_id": 323
+  },
+  {
+    "icelandic": "að bæta",
+    "english": "to improve something",
+    "level": "3",
+    "row_id": 69
+  },
+  {
+    "icelandic": "að bæta við",
+    "english": "to add",
+    "level": "2",
+    "dont_confuse": "að bæta",
+    "row_id": 70
+  },
+  {
+    "icelandic": "að dansa",
+    "english": "to dance",
+    "level": "3",
+    "row_id": 593
+  },
+  {
+    "icelandic": "að deyja",
+    "english": "to die",
+    "level": "3",
+    "row_id": 536
+  },
+  {
+    "icelandic": "að drepast",
+    "depends_on": "að drepa",
+    "level": "3",
+    "row_id": 892
+  },
+  {
+    "icelandic": "að eiga",
+    "english": "to own",
+    "level": "1",
+    "dont_confuse": "að vera með, að hafa, á",
+    "row_id": 344
+  },
+  {
+    "icelandic": "að eiga auðvelt með eitthvað",
+    "english": "to find something to be easy; for something to be easy for you",
+    "level": "2",
+    "dont_confuse": "að eiga erfitt með",
+    "direction": "->",
+    "alternative_id": "að eiga auðvelt með",
+    "row_id": 1007
+  },
+  {
+    "icelandic": "að eiga erfitt með eitthvað",
+    "english": "to have difficultes with something; for something to be difficult for you",
+    "depends_on": "að eiga, erfiður, eitthvað",
+    "level": "2",
+    "direction": "->",
+    "alternative_id": "að eiga erfitt með",
+    "row_id": 1008
+  },
+  {
+    "icelandic": "að eiga heima einhvers staðar; að búa",
+    "english": "to live somewhere",
+    "depends_on": "heima, að eiga",
+    "level": "1",
+    "direction": "<-",
+    "row_id": 243
+  },
+  {
+    "icelandic": "að eiga von á einhverju",
+    "row_id": 966
+  },
+  {
+    "icelandic": "að eignast",
+    "english": "to acquire",
+    "depends_on": "að eiga",
+    "level": "3",
+    "note_after_show": "Related to \"að eiga\"",
+    "row_id": 345
+  },
+  {
+    "icelandic": "að eignast barn",
+    "english": "to have a child",
+    "depends_on": "að eignast",
+    "literally": "to acquire a child",
+    "row_id": 1005
+  },
+  {
+    "icelandic": "að eignast vini",
+    "english": "to make friends",
+    "depends_on": "að eignast",
+    "literally": "to acquire a friend",
+    "row_id": 1004
+  },
+  {
+    "icelandic": "aðeins meira; smá meira",
+    "english": "just a little bit more",
+    "level": "1",
+    "row_id": 224
+  },
+  {
+    "icelandic": "að elda",
+    "english": "to cook",
+    "depends_on": "eldur",
+    "level": "1",
+    "row_id": 591
+  },
+  {
+    "icelandic": "að elta",
+    "row_id": 1152
+  },
+  {
+    "icelandic": "að fara í háttinn",
+    "row_id": 928
+  },
+  {
+    "icelandic": "að fara í sturtu",
+    "english": "to take a shower",
+    "basic_form": "sturta",
+    "level": "2.5",
+    "dont_confuse": "að sturta",
+    "alternative_id": "sturta",
+    "row_id": 872
+  },
+  {
+    "icelandic": "að fara til útlanda",
+    "english": "to go abroad; to go to a foreign country",
+    "depends_on": "útlönd",
+    "level": "2",
+    "row_id": 441
+  },
+  {
+    "icelandic": "að fá",
+    "english": "to get",
+    "level": "1",
+    "row_id": 253
+  },
+  {
+    "icelandic": "að fljúga",
+    "english": "to fly",
+    "level": "2",
+    "row_id": 700
+  },
+  {
+    "icelandic": "að flokka",
+    "english": "to sort; to classify",
+    "level": "3.5",
+    "row_id": 869
+  },
+  {
+    "icelandic": "að flytja",
+    "english": "to transport; to move a large object;; to move to another house",
+    "level": "1",
+    "dont_confuse": "að færa",
+    "row_id": 731
+  },
+  {
+    "icelandic": "að fylgjast með",
+    "english": "to pay attention; to follow something closely",
+    "depends_on": "að fylgja",
+    "level": "2",
+    "row_id": 529
+  },
+  {
+    "icelandic": "að færa",
+    "english": "to move something somewhere",
+    "level": "1",
+    "dont_confuse": "að hreyfa sig",
+    "row_id": 732
+  },
+  {
+    "icelandic": "að ganga illa",
+    "english": "to be going badly",
+    "level": "1",
+    "row_id": 163
+  },
+  {
+    "icelandic": "að ganga vel",
+    "english": "to be going well",
+    "level": "1",
+    "row_id": 162
+  },
+  {
+    "icelandic": "að gefast upp",
+    "english": "to give up; to surrender",
+    "level": "2",
+    "row_id": 152
+  },
+  {
+    "icelandic": "að gera",
+    "english": "to do",
+    "level": "1",
+    "row_id": 407
+  },
+  {
+    "icelandic": "að gerast",
+    "english": "to happen; to occur",
+    "depends_on": "að gera",
+    "level": "1",
+    "row_id": 408
+  },
+  {
+    "icelandic": "að gera við",
+    "english": "to fix;; to do something to someone",
+    "level": "2",
+    "direction": "->",
+    "row_id": 685
+  },
+  {
+    "icelandic": "að greiða",
+    "english": "to pay money;; to comb someone's hair",
+    "row_id": 1163
+  },
+  {
+    "icelandic": "að hafa áhrif á eitthvað",
+    "english": "to influence something",
+    "basic_form": "áhrif",
+    "note_after_show": "The word „áhrif“ (\"an influence\") is only used in the plural.",
+    "alternative_id": "áhrif",
+    "row_id": 1128
+  },
+  {
+    "icelandic": "að heimsækja",
+    "english": "to visit",
+    "depends_on": "heima, að sækja",
+    "level": "1",
+    "row_id": 462
+  },
+  {
+    "icelandic": "að heita",
+    "english": "to be named",
+    "level": "1",
+    "dont_confuse": "heitur",
+    "row_id": 214
+  },
+  {
+    "icelandic": "að hitta",
+    "english": "to meet someone",
+    "level": "1",
+    "row_id": 379
+  },
+  {
+    "icelandic": "að hittast",
+    "english": "to meet each other",
+    "depends_on": "að hitta",
+    "level": "2",
+    "row_id": 380
+  },
+  {
+    "icelandic": "að hreyfa sig",
+    "english": "to move oneself;; to do exercises",
+    "depends_on": "að hreyfa",
+    "level": "1",
+    "row_id": 733
+  },
+  {
+    "icelandic": "að hækka",
+    "english": "to become taller;; for a metric to increase",
+    "depends_on": "hærri",
+    "row_id": 1083
+  },
+  {
+    "icelandic": "að hætta",
+    "english": "to quit",
+    "level": "2",
+    "row_id": 368
+  },
+  {
+    "icelandic": "að hætta við",
+    "english": "to withdraw from plans; to decide to not do something you had planned on doing",
+    "depends_on": "að hætta",
+    "level": "3",
+    "row_id": 367
+  },
+  {
+    "icelandic": "að kenna",
+    "english": "to teach",
+    "level": "1",
+    "dont_confuse": "að kunna",
+    "row_id": 209
+  },
+  {
+    "icelandic": "að kíkja",
+    "english": "to have a look at something; to have a quick look somewhere",
+    "level": "2",
+    "row_id": 602
+  },
+  {
+    "icelandic": "að kíkja í heimsókn",
+    "english": "to go for a short visit to someone",
+    "depends_on": "að kíkja, heimsókn, á eftir",
+    "level": "2",
+    "note_after_show": "The word \"kíkja\" here means that you're offering them to come over for a short visit, which sounds more polite.",
+    "row_id": 603
+  },
+  {
+    "icelandic": "að koma í veg fyrir",
+    "english": "to prevent",
+    "depends_on": "að koma, vegur",
+    "level": "3",
+    "row_id": 904
+  },
+  {
+    "icelandic": "að komast að einhverju",
+    "depends_on": "að komast",
+    "level": "3",
+    "row_id": 712
+  },
+  {
+    "icelandic": "að komast í form",
+    "english": "to get into shape; to get fit",
+    "row_id": 1063
+  },
+  {
+    "icelandic": "að laga; að gera við",
+    "english": "to fix",
+    "level": "2",
+    "dont_confuse": "lag, að syngja",
+    "direction": "<-",
+    "alternative_id": "að laga",
+    "row_id": 684
+  },
+  {
+    "icelandic": "að látast",
+    "english": "to pass away; to die",
+    "depends_on": "látinn",
+    "level": "3",
+    "direction": "<-",
+    "row_id": 541
+  },
+  {
+    "icelandic": "að látast",
+    "english": "to pass away; to die;; to pretend",
+    "depends_on": "látinn",
+    "level": "3",
+    "direction": "->",
+    "row_id": 542
+  },
+  {
+    "icelandic": "að láta vita",
+    "level": "2.8",
+    "row_id": 830
+  },
+  {
+    "icelandic": "að leggja",
+    "dont_confuse": "að leggja sig",
+    "row_id": 1014
+  },
+  {
+    "icelandic": "að leggja einhvern í einelti",
+    "english": "to bully someone",
+    "depends_on": "einelti",
+    "row_id": 1154
+  },
+  {
+    "icelandic": "að leggja sig",
+    "depends_on": "að leggja",
+    "row_id": 1015
+  },
+  {
+    "icelandic": "að líta niður á einhvern",
+    "english": "to look down upon someone; to consider someone as being inferior; to view someone with contempt",
+    "depends_on": "að líta, niður",
+    "level": "2",
+    "row_id": 910
+  },
+  {
+    "icelandic": "að minnsta kosti",
+    "english": "at least",
+    "depends_on": "kostur, lítill",
+    "level": "2",
+    "dont_confuse": "í minnsta lagi",
+    "literally": "in regards to the smallest choice",
+    "row_id": 894
+  },
+  {
+    "icelandic": "að missa tíu kíló",
+    "english": "to lose 10 kilograms",
+    "row_id": 1064
+  },
+  {
+    "icelandic": "að muna",
+    "english": "to remember",
+    "level": "1",
+    "dont_confuse": "að munu",
+    "row_id": 556
+  },
+  {
+    "icelandic": "að mæla með",
+    "english": "to recommend",
+    "depends_on": "að mæla með",
+    "level": "1",
+    "row_id": 32
+  },
+  {
+    "icelandic": "að mæta",
+    "english": "to show up at an event;; to meet someone you know on the street",
+    "level": "2",
+    "dont_confuse": "að hitta",
+    "row_id": 505
+  },
+  {
+    "icelandic": "að opna",
+    "english": "to open",
+    "depends_on": "opinn",
+    "level": "2",
+    "row_id": 1055
+  },
+  {
+    "icelandic": "að pissa",
+    "level": "2",
+    "row_id": 865
+  },
+  {
+    "icelandic": "að reka einhvern",
+    "english": "to fire someone (from their job)",
+    "dont_confuse": "að reka fyrirtæki",
+    "row_id": 1079
+  },
+  {
+    "icelandic": "að reka fyrirtæki",
+    "english": "to run a company",
+    "row_id": 1078
+  },
+  {
+    "icelandic": "að reyna",
+    "english": "to try; to attempt",
+    "level": "1",
+    "row_id": 714
+  },
+  {
+    "icelandic": "að segjast vera",
+    "english": "to say that one is; to claim to be",
+    "depends_on": "að segja",
+    "level": "3",
+    "alternative_id": "að segjast",
+    "row_id": 727
+  },
+  {
+    "icelandic": "að sjá",
+    "level": "1",
+    "row_id": 776
+  },
+  {
+    "icelandic": "að sjá eftir einhverju",
+    "english": "to regret something",
+    "depends_on": "að sjá eftir",
+    "level": "3",
+    "row_id": 144
+  },
+  {
+    "icelandic": "að sjálfsögðu",
+    "english": "of course",
+    "depends_on": "að segja",
+    "level": "1",
+    "direction": "->",
+    "note_after_show": "Literally \"towards being self-said\", it's so obvious that the matter says it itself.",
+    "row_id": 826
+  },
+  {
+    "icelandic": "að skána",
+    "english": "to become less bad; to improve slightly;; to recover slightly from an illness",
+    "depends_on": "skárri",
+    "level": "3",
+    "row_id": 427
+  },
+  {
+    "icelandic": "að skipta",
+    "english": "to change; to switch; to swap; to exchange;; to divide",
+    "level": "2",
+    "dont_confuse": "skip, skap",
+    "row_id": 663
+  },
+  {
+    "icelandic": "að skipta máli",
+    "english": "to matter; to be important",
+    "depends_on": "að skipta, mál",
+    "level": "2",
+    "row_id": 664
+  },
+  {
+    "icelandic": "að skipta sér af",
+    "english": "to stick one's nose into matters; to get involved with things that are not your concern",
+    "depends_on": "að skipta",
+    "level": "3",
+    "row_id": 654
+  },
+  {
+    "icelandic": "að skiptast á",
+    "english": "to take turns doing something;; to exchange things",
+    "level": "3",
+    "row_id": 670
+  },
+  {
+    "icelandic": "að skulda",
+    "row_id": 924
+  },
+  {
+    "icelandic": "að slaka á",
+    "english": "to relax",
+    "level": "1",
+    "row_id": 168
+  },
+  {
+    "icelandic": "að sofa",
+    "english": "to sleep",
+    "level": "2",
+    "dont_confuse": "að sofna",
+    "row_id": 299
+  },
+  {
+    "icelandic": "að sofna",
+    "english": "to fall asleep",
+    "level": "2",
+    "dont_confuse": "að sofa",
+    "row_id": 298
+  },
+  {
+    "icelandic": "að splæsa",
+    "row_id": 1145
+  },
+  {
+    "icelandic": "að standa við loforð",
+    "english": "to keep a promise",
+    "depends_on": "að standa, loforð",
+    "level": "4",
+    "row_id": 917
+  },
+  {
+    "icelandic": "að stinga í samband",
+    "english": "to plug in",
+    "depends_on": "að stinga, samband",
+    "row_id": 1164
+  },
+  {
+    "icelandic": "að stríða einhverjum",
+    "english": "to tease someone",
+    "level": "2",
+    "alternative_id": "að stríða",
+    "row_id": 515
+  },
+  {
+    "icelandic": "að sturta niður",
+    "english": "to flush a toilet",
+    "level": "3",
+    "literally": "to pour down",
+    "alternative_id": "að sturta",
+    "row_id": 873
+  },
+  {
+    "icelandic": "að svipta",
+    "english": "to snatch something away from someone; to deprive someone of something",
+    "level": "4",
+    "row_id": 773
+  },
+  {
+    "icelandic": "að sýna",
+    "english": "to show someone something",
+    "level": "1.9",
+    "row_id": 795
+  },
+  {
+    "icelandic": "að sækja",
+    "level": "3",
+    "row_id": 974
+  },
+  {
+    "icelandic": "að sækja um",
+    "english": "to apply for a job",
+    "depends_on": "að sækja",
+    "direction": "->",
+    "row_id": 1069
+  },
+  {
+    "icelandic": "að tala illa um einhvern",
+    "english": "to speak ill of someone; to talk about someone in a negative manner",
+    "depends_on": "að tala, illa",
+    "level": "2.8",
+    "importance": "-1",
+    "row_id": 799
+  },
+  {
+    "icelandic": "að tala vel um einhvern",
+    "english": "to speak well of someone; to talk positively about someone",
+    "depends_on": "að tala, vel",
+    "level": "2.8",
+    "importance": "-1",
+    "row_id": 800
+  },
+  {
+    "icelandic": "að trufla einhvern",
+    "english": "to bother someone; to interrupt someone",
+    "alternative_id": "að trufla",
+    "row_id": 1077
+  },
+  {
+    "icelandic": "að vaka",
+    "english": "to stay awake",
+    "depends_on": "vakandi",
+    "level": "5",
+    "dont_confuse": "að vakna",
+    "direction": "->",
+    "row_id": 293
+  },
+  {
+    "icelandic": "að vakna",
+    "english": "to wake up",
+    "level": "2",
+    "row_id": 291
+  },
+  {
+    "icelandic": "að vekja",
+    "english": "to wake someone up",
+    "level": "4",
+    "dont_confuse": "Did yo",
+    "row_id": 290
+  },
+  {
+    "icelandic": "að velta fyrir sér",
+    "level": "3",
+    "row_id": 151
+  },
+  {
+    "icelandic": "að vera",
+    "level": "1",
+    "row_id": 330
+  },
+  {
+    "icelandic": "að vera í stuði",
+    "depends_on": "stuð",
+    "level": "2",
+    "alternative_id": "í stuði",
+    "row_id": 935
+  },
+  {
+    "icelandic": "að vera í útlöndum",
+    "english": "to be abroad; to be in a foreign country",
+    "depends_on": "útlönd",
+    "level": "2",
+    "row_id": 442
+  },
+  {
+    "icelandic": "að vera lagður í einelti",
+    "english": "to be bullied",
+    "depends_on": "einelti",
+    "row_id": 1155
+  },
+  {
+    "icelandic": "að vera reiður út í einhvern",
+    "level": "2",
+    "row_id": 833
+  },
+  {
+    "icelandic": "að vera reiður yfir einhverju",
+    "level": "2",
+    "row_id": 834
+  },
+  {
+    "icelandic": "að vera til",
+    "level": "1",
+    "row_id": 331
+  },
+  {
+    "icelandic": "að vera til í",
+    "level": "1",
+    "row_id": 332
+  },
+  {
+    "icelandic": "að vera úti á landi",
+    "english": "to be out on the countryside",
+    "level": "2",
+    "alternative_id": "úti á landi",
+    "row_id": 449
+  },
+  {
+    "icelandic": "að verða fyrir vonbrigðum; að vera vonsvikinn",
+    "row_id": 1103
+  },
+  {
+    "icelandic": "að vinna",
+    "english": "to work;; to win",
+    "level": "1",
+    "row_id": 757
+  },
+  {
+    "icelandic": "að virða",
+    "level": "4",
+    "row_id": 883
+  },
+  {
+    "icelandic": "að vita eitthvað",
+    "english": "to know something",
+    "depends_on": "eitthvað",
+    "level": "1",
+    "alternative_id": "að vita",
+    "row_id": 1177
+  },
+  {
+    "icelandic": "að þykjast",
+    "english": "to pretend",
+    "depends_on": "að þykja",
+    "level": "3",
+    "direction": "->",
+    "row_id": 544
+  },
+  {
+    "icelandic": "að þykjast; að látast",
+    "english": "to pretend",
+    "depends_on": "að þykjast, að látast",
+    "level": "3",
+    "direction": "<-",
+    "row_id": 543
+  },
+  {
+    "icelandic": "Af hverju ekki?; Hvers vegna ekki?",
+    "english": "Why not?",
+    "level": "1",
+    "row_id": 862
+  },
+  {
+    "icelandic": "Af hverju er hann svona vondur við mig?",
+    "english": "Why is he so mean towards me?",
+    "depends_on": "vondur",
+    "level": "1",
+    "row_id": 528
+  },
+  {
+    "icelandic": "Af hverju er hún svona góð í fótbolta?",
+    "english": "Why is she so good at football?",
+    "depends_on": "góður, fótbolti",
+    "level": "1",
+    "row_id": 585
+  },
+  {
+    "icelandic": "Af hverju ert þú kennari?",
+    "english": "Why are you a teacher?",
+    "level": "1",
+    "row_id": 234
+  },
+  {
+    "icelandic": "afmæli",
+    "english": "birthday",
+    "level": "2",
+    "row_id": 582
+  },
+  {
+    "icelandic": "afmælið",
+    "english": "the birthday",
+    "depends_on": "afmæli",
+    "level": "2",
+    "row_id": 583
+  },
+  {
+    "icelandic": "afmælið mitt",
+    "english": "my birthday",
+    "depends_on": "afmæli",
+    "level": "2",
+    "row_id": 584
+  },
+  {
+    "icelandic": "aftur",
+    "english": "again",
+    "level": "1",
+    "dont_confuse": "aldrei, alltaf",
+    "row_id": 482
+  },
+  {
+    "icelandic": "aldrei",
+    "english": "never",
+    "level": "1",
+    "dont_confuse": "alltaf",
+    "row_id": 481
+  },
+  {
+    "icelandic": "aldrei nokkurn tímann",
+    "english": "never ever",
+    "depends_on": "nokkur, tími",
+    "level": "2",
+    "alternative_id": "nokkurn tímann",
+    "row_id": 690
+  },
+  {
+    "icelandic": "allt",
+    "english": "everything",
+    "basic_form": "allur",
+    "level": "1",
+    "row_id": 1108
+  },
+  {
+    "icelandic": "alltaf",
+    "english": "always",
+    "level": "1",
+    "dont_confuse": "allt of",
+    "row_id": 146
+  },
+  {
+    "icelandic": "allt annar",
+    "level": "3",
+    "row_id": 624
+  },
+  {
+    "icelandic": "allt of mikið",
+    "english": "way too much",
+    "depends_on": "allt of",
+    "level": "1",
+    "row_id": 147
+  },
+  {
+    "icelandic": "Alveg eins.",
+    "level": "2",
+    "row_id": 891
+  },
+  {
+    "icelandic": "Ameríka",
+    "english": "America",
+    "level": "1.8",
+    "note_after_show": "Usually referring to the U.S., but can sometimes refer to the continent of the Americas. More colloquial than \"Bandaríkin\".",
+    "importance": "-1",
+    "row_id": 736
+  },
+  {
+    "icelandic": "Andskotinn.",
+    "english": "Damn!",
+    "depends_on": "andskoti",
+    "level": "2",
+    "direction": "->",
+    "literally": "The devil (the one who shoots against you, the one who is against you).",
+    "row_id": 465
+  },
+  {
+    "icelandic": "atvinna",
+    "english": "employment",
+    "depends_on": "að vinna",
+    "level": "3",
+    "note_after_show": "This term is relatively formal, it is more common to use \"vinna\" (a job) when speaking.",
+    "row_id": 1089
+  },
+  {
+    "icelandic": "atvinnulaus",
+    "english": "unemployed",
+    "depends_on": "atvinna, laus",
+    "level": "3",
+    "row_id": 1090
+  },
+  {
+    "icelandic": "atvinnuleysi",
+    "english": "unemployment",
+    "depends_on": "atvinnulaus",
+    "level": "4",
+    "row_id": 1093
+  },
+  {
+    "icelandic": "atvinnuviðtal",
+    "english": "a job interview",
+    "depends_on": "atvinna, viðtal",
+    "level": "3",
+    "row_id": 1091
+  },
+  {
+    "icelandic": "auðvitað",
+    "english": "of course",
+    "depends_on": "að vita, auðveldur",
+    "level": "1",
+    "dont_confuse": "auðveldur",
+    "literally": "Easily known",
+    "row_id": 215
+  },
+  {
+    "icelandic": "auglýsing",
+    "english": "an advertisement",
+    "depends_on": "að auglýsa",
+    "row_id": 1074
+  },
+  {
+    "icelandic": "auglýsingin",
+    "english": "the advertisement",
+    "depends_on": "auglýsing",
+    "row_id": 1075
+  },
+  {
+    "icelandic": "á",
+    "english": "on;; onto",
+    "note_after_show": "Can also mean \"a river\".",
+    "row_id": 1118
+  },
+  {
+    "icelandic": "áðan",
+    "english": "earlier today",
+    "level": "1",
+    "dont_confuse": "áður",
+    "row_id": 133
+  },
+  {
+    "icelandic": "áður",
+    "english": "previously; before",
+    "level": "1",
+    "dont_confuse": "áðan",
+    "row_id": 134
+  },
+  {
+    "icelandic": "á eftir",
+    "english": "later today",
+    "depends_on": "eftir",
+    "level": "1",
+    "dont_confuse": "seinna",
+    "row_id": 383
+  },
+  {
+    "icelandic": "áfengið",
+    "english": "the alcohol",
+    "depends_on": "ég hef fengið",
+    "basic_form": "áfengi",
+    "level": "3",
+    "alternative_id": "áfengi",
+    "row_id": 1175
+  },
+  {
+    "icelandic": "á fimm ára fresti",
+    "english": "every five years",
+    "depends_on": "frestur",
+    "level": "2.1",
+    "row_id": 778
+  },
+  {
+    "icelandic": "Áfram með smjörið.",
+    "level": "5",
+    "row_id": 548
+  },
+  {
+    "icelandic": "áhugi",
+    "english": "an interest",
+    "level": "1",
+    "dont_confuse": "áhyggja",
+    "row_id": 92
+  },
+  {
+    "icelandic": "á hvolfi",
+    "english": "upside-down;; totally disordered",
+    "level": "4",
+    "row_id": 250
+  },
+  {
+    "icelandic": "áhyggjur",
+    "english": "worries",
+    "depends_on": "áhyggja",
+    "level": "1",
+    "row_id": 93
+  },
+  {
+    "icelandic": "á Íslandi",
+    "english": "in Iceland",
+    "depends_on": "á",
+    "basic_form": "Ísland",
+    "literally": "on Iceland",
+    "row_id": 1120
+  },
+  {
+    "icelandic": "án gríns",
+    "english": "no joke; I'm not joking",
+    "row_id": 1166
+  },
+  {
+    "icelandic": "á nítjándu öld",
+    "english": "in the 19th century",
+    "row_id": 1062
+  },
+  {
+    "icelandic": "á næstu síðu",
+    "row_id": 1102
+  },
+  {
+    "icelandic": "átta sinnum",
+    "english": "eight times",
+    "depends_on": "átta",
+    "level": "1",
+    "categories": "number",
+    "row_id": 490
+  },
+  {
+    "icelandic": "Átti þátt í því",
+    "row_id": 233
+  },
+  {
+    "icelandic": "Áttu bíl?",
+    "english": "Do you own a car?",
+    "depends_on": "Þú átt bíl.",
+    "level": "1",
+    "row_id": 351
+  },
+  {
+    "icelandic": "Áttu börn?",
+    "english": "Do you have children?",
+    "depends_on": "að eiga",
+    "level": "1",
+    "row_id": 354
+  },
+  {
+    "icelandic": "Áttu kött?",
+    "english": "Do you own a cat?",
+    "depends_on": "að eiga, köttur",
+    "level": "1",
+    "row_id": 549
+  },
+  {
+    "icelandic": "á þeim tíma",
+    "english": "during that time; during those years",
+    "row_id": 1065
+  },
+  {
+    "icelandic": "Bandaríkin",
+    "english": "The United States",
+    "depends_on": "ríki, band, að binda, bandalag",
+    "level": "1.9",
+    "note_after_show": "This term is commonly used, \"Ameríka\" can also be used colloquially.",
+    "row_id": 737
+  },
+  {
+    "icelandic": "Bandaríkin eru stórt land.",
+    "english": "The United States are a large country.",
+    "depends_on": "Bandaríkin, stór, land",
+    "level": "1",
+    "row_id": 741
+  },
+  {
+    "icelandic": "bara",
+    "english": "only;; just",
+    "level": "1",
+    "dont_confuse": "barn, bar",
+    "row_id": 260
+  },
+  {
+    "icelandic": "baun",
+    "english": "a bean",
+    "level": "3",
+    "importance": "-1",
+    "row_id": 870
+  },
+  {
+    "icelandic": "bálreiður",
+    "english": "furious; very angry",
+    "depends_on": "bál, reiður",
+    "level": "3.2",
+    "literally": "angry as a large fire",
+    "row_id": 905
+  },
+  {
+    "icelandic": "bensínstöð",
+    "row_id": 1149
+  },
+  {
+    "icelandic": "bílpróf",
+    "english": "a driver's exam;; a driver's license",
+    "depends_on": "bíll, próf",
+    "row_id": 1021
+  },
+  {
+    "icelandic": "borð",
+    "english": "a table",
+    "depends_on": "að borða",
+    "level": "1",
+    "row_id": 252
+  },
+  {
+    "icelandic": "Bríet Bjarnhéðinsdóttir (1856-1940) barðist fyrir réttindum kvenna.",
+    "row_id": 941
+  },
+  {
+    "icelandic": "búð",
+    "english": "a grocery store; a supermarket",
+    "level": "2",
+    "row_id": 265
+  },
+  {
+    "icelandic": "búðin",
+    "english": "the grocery store; the supermarket",
+    "level": "2",
+    "row_id": 266
+  },
+  {
+    "icelandic": "Búðin er opin.",
+    "english": "The grocery store is open.",
+    "depends_on": "opinn",
+    "level": "2",
+    "row_id": 1056
+  },
+  {
+    "icelandic": "Býður þú fólki oft í kaffi?",
+    "row_id": 988
+  },
+  {
+    "icelandic": "Býrðu ennþá á Akureyri?; Býrðu enn á Akureyri?",
+    "english": "Do you still live in Akureyri?",
+    "level": "1",
+    "row_id": 68
+  },
+  {
+    "icelandic": "Býstu við því að vera laus á morgun?",
+    "english": "Do you expect that you will be available tomorrow?",
+    "depends_on": "að búast við, laus",
+    "level": "2",
+    "row_id": 722
+  },
+  {
+    "icelandic": "Börnin hans eru illa upp alin.",
+    "english": "His children are badly raised.; His children have received a bad upbringing.",
+    "depends_on": "að ala upp, illa",
+    "level": "3",
+    "row_id": 839
+  },
+  {
+    "icelandic": "börn þessara kvenna",
+    "row_id": 944
+  },
+  {
+    "icelandic": "dans",
+    "english": "a dance",
+    "depends_on": "að dansa",
+    "level": "3",
+    "row_id": 594
+  },
+  {
+    "icelandic": "danska",
+    "level": "3",
+    "row_id": 977
+  },
+  {
+    "icelandic": "dauður",
+    "english": "dead;; totally dead",
+    "depends_on": "að deyja",
+    "level": "3",
+    "note_after_show": "It's rude to use this term to refer to people who are deceased, instead you should use \"dáinn\".",
+    "row_id": 535
+  },
+  {
+    "icelandic": "dáinn",
+    "english": "deceased; dead",
+    "depends_on": "að deyja",
+    "level": "3",
+    "dont_confuse": "dauður",
+    "direction": "->",
+    "note_after_show": "\"Dáinn\" is far more respectful than \"dauður\", but not as respectful as \"látinn\".",
+    "row_id": 533
+  },
+  {
+    "icelandic": "dálítið",
+    "level": "2",
+    "direction": "->",
+    "note_after_show": "This word is pronounced /dáldið/.",
+    "row_id": 902
+  },
+  {
+    "icelandic": "Dettur þér eitthvað í hug?",
+    "english": "Can you think of anything?; Do you have any ideas?",
+    "depends_on": "að detta, hugur",
+    "level": "2",
+    "alternative_id": "að detta í hug",
+    "row_id": 674
+  },
+  {
+    "icelandic": "dé∆ eð∆ e∆ é",
+    "english": "What is the name of the letters \"D∆ Ð∆ E∆ É\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1030
+  },
+  {
+    "icelandic": "Djöfullinn sjálfur.",
+    "english": "God damn!",
+    "depends_on": "djöfull, sjálfur",
+    "level": "2",
+    "direction": "->",
+    "literally": "The devil himself.",
+    "row_id": 464
+  },
+  {
+    "icelandic": "Drekkur þú kaffi?",
+    "english": "Do you drink coffee?",
+    "depends_on": "að drekka, kaffi",
+    "level": "1",
+    "row_id": 285
+  },
+  {
+    "icelandic": "Drífa sig!",
+    "english": "Hurry up!; Come on now∆ one has to hurry up!",
+    "depends_on": "að drífa sig",
+    "level": "5",
+    "direction": "->",
+    "note_after_show": "This phrase is impersonal and means \"One has to hurry up\", but saying it is an order, usually to a child.",
+    "row_id": 613
+  },
+  {
+    "icelandic": "Drífðu þig.",
+    "english": "Hurry up!",
+    "level": "3",
+    "alternative_id": "að drífa sig",
+    "row_id": 612
+  },
+  {
+    "icelandic": "edrú",
+    "english": "sober; not drunk on alcohol",
+    "level": "4",
+    "row_id": 90
+  },
+  {
+    "icelandic": "eff∆ gé∆ há",
+    "english": "What is the name of the letters \"F∆ G∆ H\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1031
+  },
+  {
+    "icelandic": "eftir Krist (e. Kr.)",
+    "english": "anno Domini (A.D.) (as opposed to \"before Christ (B.C.)\")",
+    "row_id": 1157
+  },
+  {
+    "icelandic": "Eigum við að leggja af stað?",
+    "english": "Shall we get going?",
+    "depends_on": "að eiga að, að leggja af stað",
+    "level": "2",
+    "row_id": 460
+  },
+  {
+    "icelandic": "Eigum við að segja þetta gott í dag?",
+    "level": "2",
+    "row_id": 832
+  },
+  {
+    "icelandic": "einelti",
+    "english": "bullying",
+    "row_id": 1153
+  },
+  {
+    "icelandic": "einhver",
+    "english": "someone; something",
+    "depends_on": "einn, hver",
+    "grammar_note f/icelandic": "masculine",
+    "row_id": 1124
+  },
+  {
+    "icelandic": "einn og hálfur",
+    "english": "one and a half",
+    "depends_on": "hálfur",
+    "level": "2",
+    "row_id": 1048
+  },
+  {
+    "icelandic": "einu sinni",
+    "english": "once",
+    "depends_on": "einn",
+    "level": "1",
+    "categories": "number",
+    "row_id": 483
+  },
+  {
+    "icelandic": "eitthvað",
+    "english": "something",
+    "basic_form": "einhver",
+    "grammar_note f/icelandic": "neuter",
+    "row_id": 1125
+  },
+  {
+    "icelandic": "ekkert smá",
+    "english": "very much",
+    "depends_on": "smá, enginn",
+    "level": "2",
+    "direction": "->",
+    "note_after_show": "An understatement is used for emphasis. \"Nothing little\" implies greatness.",
+    "row_id": 136
+  },
+  {
+    "icelandic": "ekki einu sinni",
+    "english": "not once;; not even! (for emphasis)",
+    "depends_on": "einu sinni",
+    "level": "2",
+    "row_id": 494
+  },
+  {
+    "icelandic": "Ekki ennþá.; Ekki enn.",
+    "english": "Not yet.",
+    "level": "1",
+    "row_id": 334
+  },
+  {
+    "icelandic": "Ekki gleyma mér.",
+    "english": "Don't forget me.",
+    "depends_on": "að gleyma",
+    "level": "2",
+    "row_id": 801
+  },
+  {
+    "icelandic": "Ekki hreyfa þig.",
+    "english": "Don't move!",
+    "depends_on": "að hreyfa sig",
+    "level": "2",
+    "row_id": 734
+  },
+  {
+    "icelandic": "Ekki koma inn!",
+    "english": "Don't come in!",
+    "level": "2",
+    "row_id": 142
+  },
+  {
+    "icelandic": "Ekki málið.",
+    "english": "No problem.",
+    "literally": "not the issue",
+    "row_id": 311
+  },
+  {
+    "icelandic": "Ekki séns.",
+    "row_id": 1101
+  },
+  {
+    "icelandic": "Ekki skilja mig eftir.",
+    "row_id": 992
+  },
+  {
+    "icelandic": "Ekki skipta þér af því.",
+    "english": "Don't stick your nose into it.; Don't get involved with it (as it is not your concern).",
+    "depends_on": "að skipta sér af",
+    "level": "3",
+    "row_id": 655
+  },
+  {
+    "icelandic": "Ekki stríða honum.",
+    "english": "Don't tease him.",
+    "depends_on": "að stríða",
+    "level": "2",
+    "row_id": 517
+  },
+  {
+    "icelandic": "eldur",
+    "english": "a fire",
+    "level": "1",
+    "row_id": 590
+  },
+  {
+    "icelandic": "ell∆ emm∆ enn",
+    "english": "What is the name of the letters \"L∆ M∆ N\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1033
+  },
+  {
+    "icelandic": "en",
+    "english": "but",
+    "level": "1",
+    "row_id": 1110
+  },
+  {
+    "icelandic": "Engar áhyggjur.",
+    "english": "No worries.",
+    "depends_on": "áhyggja",
+    "level": "1",
+    "row_id": 97
+  },
+  {
+    "icelandic": "enginn",
+    "english": "none; nobody; no one",
+    "row_id": 1122
+  },
+  {
+    "icelandic": "enska",
+    "level": "1",
+    "row_id": 975
+  },
+  {
+    "icelandic": "En þú?",
+    "english": "But what about you?; And you?",
+    "depends_on": "en, þú",
+    "level": "1",
+    "row_id": 1113
+  },
+  {
+    "icelandic": "Er einhver heima?",
+    "level": "1",
+    "row_id": 609
+  },
+  {
+    "icelandic": "Er einhver hérna?",
+    "english": "Is there somebody here?",
+    "level": "1",
+    "row_id": 755
+  },
+  {
+    "icelandic": "Er erfitt að vera kennari?",
+    "english": "Is it difficult being a teacher?",
+    "level": "1",
+    "row_id": 207
+  },
+  {
+    "icelandic": "Er gaman að læra íslensku?",
+    "english": "Is learning Icelandic fun?",
+    "depends_on": "gaman",
+    "level": "1",
+    "row_id": 218
+  },
+  {
+    "icelandic": "Er hann farinn?",
+    "level": "2",
+    "row_id": 605
+  },
+  {
+    "icelandic": "Er hann nokkuð reiður?",
+    "english": "Is he angry∆ by any chance?",
+    "depends_on": "reiður, nokkuð",
+    "level": "4",
+    "row_id": 198
+  },
+  {
+    "icelandic": "Er mikið að gera í vinnunni?",
+    "depends_on": "vinna, mikill, að gera, mikið að gera",
+    "level": "1",
+    "row_id": 132
+  },
+  {
+    "icelandic": "Er opið?",
+    "depends_on": "opinn",
+    "level": "2",
+    "row_id": 1053
+  },
+  {
+    "icelandic": "err∆ ess∆ té",
+    "english": "What is the name of the letters \"R∆ S∆ T\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1035
+  },
+  {
+    "icelandic": "Ertu að fylgjast með?",
+    "english": "Are you paying attention?",
+    "depends_on": "að fylgjast með",
+    "level": "2",
+    "row_id": 531
+  },
+  {
+    "icelandic": "Ertu að stríða mér?",
+    "english": "Are you teasing me?",
+    "depends_on": "að stríða",
+    "level": "2",
+    "row_id": 516
+  },
+  {
+    "icelandic": "Ertu að vinna á morgun?",
+    "level": "1",
+    "row_id": 887
+  },
+  {
+    "icelandic": "Ertu á Íslandi?",
+    "english": "Are you in Iceland?",
+    "level": "1",
+    "row_id": 172
+  },
+  {
+    "icelandic": "Ertu búinn að ákveða þig?",
+    "english": "Have you decided yet?; Have you made up your mind?",
+    "depends_on": "að ákveða",
+    "level": "3",
+    "row_id": 1098
+  },
+  {
+    "icelandic": "Ertu búinn að bursta í þér tennurnar?",
+    "english": "Have you brushed your teeth?",
+    "depends_on": "að bursta, tönn",
+    "level": "3",
+    "row_id": 906
+  },
+  {
+    "icelandic": "Ertu ekkert að skána?",
+    "english": "Are you not at all beginning to recover from your illness?",
+    "depends_on": "að skána",
+    "level": "3",
+    "row_id": 428
+  },
+  {
+    "icelandic": "Ertu í stuði fyrir göngutúr?",
+    "english": "Are you in the mood for going for a walk?",
+    "depends_on": "í stuði, göngutúr",
+    "level": "1",
+    "row_id": 596
+  },
+  {
+    "icelandic": "Ertu í stuði fyrir mynd?",
+    "english": "Are you in the mood for watching a film?",
+    "depends_on": "stuð",
+    "level": "1",
+    "row_id": 120
+  },
+  {
+    "icelandic": "Ertu laus?",
+    "english": "Are you available?",
+    "depends_on": "laus",
+    "level": "1",
+    "row_id": 103
+  },
+  {
+    "icelandic": "Ertu með íslenskt lyklaborð?",
+    "english": "Do you have an Icelandic computer keyboard?",
+    "depends_on": "lyklaborð, íslenskur",
+    "level": "3",
+    "row_id": 810
+  },
+  {
+    "icelandic": "Ertu með ökuskírteinið þitt?",
+    "english": "Do you have your driver's license?",
+    "depends_on": "ökuskírteini, að vera með",
+    "level": "3",
+    "row_id": 513
+  },
+  {
+    "icelandic": "Ertu *nokkuð* upptekinn?",
+    "english": "Are you busy; *by any chance*?",
+    "depends_on": "nokkur",
+    "level": "2",
+    "row_id": 102
+  },
+  {
+    "icelandic": "Ertu upptekinn á morgun?",
+    "english": "Are you busy tomorrow?",
+    "depends_on": "upptekinn",
+    "level": "1",
+    "row_id": 86
+  },
+  {
+    "icelandic": "Ertu vakandi?",
+    "english": "Are you awake?",
+    "level": "2",
+    "row_id": 294
+  },
+  {
+    "icelandic": "Ertu viss?",
+    "english": "Are you certain?",
+    "depends_on": "viss",
+    "level": "2",
+    "alternative_id": "viss",
+    "row_id": 678
+  },
+  {
+    "icelandic": "Eruð þið skyld?",
+    "english": "Are you related to each other?",
+    "level": "3",
+    "direction": "->",
+    "row_id": 474
+  },
+  {
+    "icelandic": "Eru myndirnar á þessari tölvu?",
+    "english": "Are the pictures on this computer?",
+    "depends_on": "þessi, mynd",
+    "basic_form": "þessi",
+    "level": "1",
+    "Laga?": "hmm",
+    "row_id": 825
+  },
+  {
+    "icelandic": "Eru strákarnir farnir?",
+    "level": "2",
+    "row_id": 606
+  },
+  {
+    "icelandic": "Er veðrið gott?",
+    "english": "Is the weather good?",
+    "level": "1",
+    "row_id": 174
+  },
+  {
+    "icelandic": "Er vikan þín búin að vera góð?",
+    "english": "Has your week been good?",
+    "level": "1",
+    "row_id": 40
+  },
+  {
+    "icelandic": "Er þetta hann?",
+    "english": "Is this him?",
+    "level": "1",
+    "row_id": 575
+  },
+  {
+    "icelandic": "Er þetta ókeypis?",
+    "english": "Is this for free?",
+    "level": "1",
+    "row_id": 455
+  },
+  {
+    "icelandic": "Er þér heitt?",
+    "english": "Are you feeling hot?",
+    "level": "1",
+    "row_id": 59
+  },
+  {
+    "icelandic": "Er þér illt?",
+    "english": "Do you feel pain in some body part?",
+    "depends_on": "illt",
+    "level": "2",
+    "row_id": 318
+  },
+  {
+    "icelandic": "Er þér sama þó að ég hringi í þig á morgun?",
+    "english": "Do you mind if I call you tomorrow?",
+    "depends_on": "sama, að hringja",
+    "level": "3",
+    "row_id": 9
+  },
+  {
+    "icelandic": "ex∆ ufsilon i∆ ufsilon í",
+    "english": "What is the name of the letters \"X∆ Y∆ Ý\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "importance": "0.5",
+    "row_id": 1037
+  },
+  {
+    "icelandic": "Ég á afmæli í dag.",
+    "english": "Today's my birthday.",
+    "row_id": 963
+  },
+  {
+    "icelandic": "Ég á auðvelt með að eignast vini.",
+    "english": "It's easy for me to make friends.",
+    "depends_on": "að eignast vini, að eiga auðvelt með",
+    "basic_form": "að eiga auðvelt með",
+    "row_id": 1006
+  },
+  {
+    "icelandic": "Ég á bíl.",
+    "english": "I own a car.",
+    "depends_on": "að eiga",
+    "level": "1",
+    "row_id": 349
+  },
+  {
+    "icelandic": "Ég á eftir að fara í sturtu.",
+    "depends_on": "að eiga eftir",
+    "level": "3",
+    "row_id": 711
+  },
+  {
+    "icelandic": "Ég á eitt barn.",
+    "english": "I have one child.",
+    "depends_on": "að eiga, barn, einn",
+    "level": "1",
+    "row_id": 352
+  },
+  {
+    "icelandic": "Ég á ekki bíl.",
+    "english": "I don't own a car.",
+    "level": "1",
+    "row_id": 29
+  },
+  {
+    "icelandic": "Ég á ekki fyrir mat.",
+    "english": "I don't have sufficient money to be able to afford food.",
+    "depends_on": "að eiga fyrir",
+    "level": "3",
+    "direction": "->",
+    "row_id": 140
+  },
+  {
+    "icelandic": "Ég á ekki neinar bækur.",
+    "row_id": 1027
+  },
+  {
+    "icelandic": "Ég á ekki von á því.",
+    "depends_on": "að eiga von á einhverju",
+    "row_id": 965
+  },
+  {
+    "icelandic": "Ég á erfitt með að trúa því.",
+    "english": "I find that difficult to believe.",
+    "depends_on": "að eiga, að eiga erfitt með, að trúa",
+    "basic_form": "að eiga erfitt með",
+    "level": "2.9",
+    "row_id": 765
+  },
+  {
+    "icelandic": "Ég á hvergi heima.; Ég á ekki heima neins staðar.",
+    "level": "3",
+    "row_id": 19
+  },
+  {
+    "icelandic": "Ég á *kærasta*.",
+    "english": "I have a *boyfriend*.",
+    "depends_on": "kærasti",
+    "level": "1",
+    "dont_confuse": "kærasta",
+    "row_id": 437
+  },
+  {
+    "icelandic": "Ég á *kærustu*.",
+    "english": "I have a *girlfriend*.",
+    "depends_on": "kærasta",
+    "level": "1",
+    "row_id": 438
+  },
+  {
+    "icelandic": "Ég á marga vini.",
+    "english": "I have many friends.",
+    "depends_on": "að eiga",
+    "level": "1",
+    "row_id": 346
+  },
+  {
+    "icelandic": "Ég á nokkra íslenska vini.",
+    "english": "I have a few Icelandic friends.",
+    "row_id": 1025
+  },
+  {
+    "icelandic": "Ég á nokkrar bækur.",
+    "row_id": 1026
+  },
+  {
+    "icelandic": "Ég átti afmæli í gær.",
+    "english": "It was my birthday yesterday.",
+    "depends_on": "að eiga, afmæli, í gær",
+    "level": "2",
+    "row_id": 581
+  },
+  {
+    "icelandic": "Ég á tvo hunda.",
+    "english": "I own two dogs.",
+    "depends_on": "að eiga, hundur",
+    "level": "1",
+    "row_id": 550
+  },
+  {
+    "icelandic": "Ég á tvö börn.",
+    "english": "I have two children.",
+    "depends_on": "að eiga, barn, tveir",
+    "level": "1",
+    "row_id": 353
+  },
+  {
+    "icelandic": "Ég bjóst ekki við því.",
+    "english": "I did not expect that.",
+    "depends_on": "að búast við",
+    "level": "2.2",
+    "row_id": 720
+  },
+  {
+    "icelandic": "Ég bjóst hreinlega ekki við því.",
+    "english": "I frankly did not expect that.;; I simply did not expect that.",
+    "depends_on": "hreinn, hreinlega, að búast við",
+    "basic_form": "að búast við",
+    "level": "3.1",
+    "row_id": 840
+  },
+  {
+    "icelandic": "Ég borða alltaf mikið.",
+    "english": "I always eat a lot.",
+    "level": "1",
+    "row_id": 148
+  },
+  {
+    "icelandic": "Ég borða allt of mikið.",
+    "english": "I eat way too much.",
+    "depends_on": "allt of",
+    "level": "1",
+    "dont_confuse": "Ég borða alltaf mikið.",
+    "row_id": 149
+  },
+  {
+    "icelandic": "Ég borðaði einn og hálfan hamborgara.",
+    "english": "I ate one and a half hamburgers.",
+    "depends_on": "einn og hálfur",
+    "level": "2",
+    "row_id": 1047
+  },
+  {
+    "icelandic": "Ég bý á Íslandi.",
+    "english": "I live in Iceland.",
+    "level": "1",
+    "row_id": 63
+  },
+  {
+    "icelandic": "Ég bý ekki lengur í Reykjavík.",
+    "english": "I no longer live in Reykjavík.",
+    "depends_on": "að búa, lengi",
+    "level": "1",
+    "row_id": 600
+  },
+  {
+    "icelandic": "Ég bý hjá foreldrum mínum.",
+    "english": "I live at my parents' place.; I live with my parents.",
+    "depends_on": "að búa, foreldri",
+    "level": "2",
+    "row_id": 325
+  },
+  {
+    "icelandic": "Ég býst við því.",
+    "english": "I expect that to be so.; I assume that it will be so.",
+    "depends_on": "að búast við",
+    "level": "2",
+    "row_id": 721
+  },
+  {
+    "icelandic": "Ég drakk *hálfan bjór* í gær.",
+    "english": "I drank *half a beer* yesterday.",
+    "level": "2",
+    "row_id": 1045
+  },
+  {
+    "icelandic": "Ég drakk *helminginn af bjórnum* í gær.",
+    "english": "I drank *half of the beer* yesterday.",
+    "level": "2",
+    "dont_confuse": "Ég drakk *hálfan bjór* í gær.",
+    "row_id": 1046
+  },
+  {
+    "icelandic": "Ég drekk bara vatn.",
+    "english": "I only drink water.",
+    "depends_on": "að drekka",
+    "level": "1",
+    "row_id": 288
+  },
+  {
+    "icelandic": "Ég elska þig samt.",
+    "english": "I love you nevertheless/nonetheless/still.",
+    "depends_on": "samt",
+    "level": "2",
+    "dont_confuse": "enn",
+    "row_id": 74
+  },
+  {
+    "icelandic": "Ég er að borða köku.",
+    "english": "I'm eating a cake.",
+    "level": "1",
+    "row_id": 176
+  },
+  {
+    "icelandic": "Ég er að drepast úr leiðindum.",
+    "english": "I'm dying of boredom.",
+    "depends_on": "að drepast, leiðindi, leiðinlegur",
+    "level": "3",
+    "row_id": 893
+  },
+  {
+    "icelandic": "Ég er að reyna.",
+    "english": "I'm trying.",
+    "depends_on": "að reyna",
+    "level": "1",
+    "row_id": 715
+  },
+  {
+    "icelandic": "Ég er að reyna að elda en það gengur ekki vel.",
+    "english": "I'm trying to cook but it's not going well.",
+    "depends_on": "að reyna, að elda, að ganga",
+    "level": "1",
+    "row_id": 717
+  },
+  {
+    "icelandic": "Ég er að reyna að læra íslensku.",
+    "english": "I'm trying to learn Icelandic.",
+    "depends_on": "að reyna, íslenska",
+    "level": "1",
+    "row_id": 716
+  },
+  {
+    "icelandic": "Ég er að skána.",
+    "english": "I am beginning to recover slightly from my illness.",
+    "depends_on": "að skána",
+    "level": "3",
+    "row_id": 429
+  },
+  {
+    "icelandic": "Ég er að vinna.",
+    "english": "I'm working.",
+    "level": "1",
+    "row_id": 185
+  },
+  {
+    "icelandic": "Ég er alveg búinn á því.",
+    "english": "I'm completely exhausted.",
+    "depends_on": "búinn",
+    "level": "3.3",
+    "direction": "->",
+    "row_id": 791
+  },
+  {
+    "icelandic": "Ég er á brúnni.",
+    "english": "I'm on the bridge.",
+    "depends_on": "brú",
+    "level": "4",
+    "dont_confuse": "brúnn",
+    "row_id": 996
+  },
+  {
+    "icelandic": "Ég er á hækjum.",
+    "english": "I have to use crutches (to help me walk).",
+    "depends_on": "hækjur",
+    "level": "4",
+    "categories": "health",
+    "row_id": 638
+  },
+  {
+    "icelandic": "Ég er á leiðinni í vinnuna.",
+    "english": "I'm on my way to (my) job.",
+    "depends_on": "vinna",
+    "level": "1",
+    "row_id": 760
+  },
+  {
+    "icelandic": "Ég er bara að grínast.",
+    "english": "I just joking.",
+    "depends_on": "að grínast",
+    "level": "2",
+    "row_id": 648
+  },
+  {
+    "icelandic": "Ég er betri en hann.",
+    "english": "I am better than him.",
+    "depends_on": "góður",
+    "level": "1",
+    "row_id": 577
+  },
+  {
+    "icelandic": "Ég er búinn að gleyma því.",
+    "english": "I've forgotten it.",
+    "depends_on": "að gleyma, búinn",
+    "level": "2",
+    "row_id": 116
+  },
+  {
+    "icelandic": "Ég er búinn með helminginn af myndinni.",
+    "english": "I've finished one half of the film.",
+    "depends_on": "helmingur",
+    "level": "2",
+    "row_id": 1042
+  },
+  {
+    "icelandic": "Ég er eins og hálfs árs.",
+    "english": "I am one and a half years old.",
+    "level": "3.5",
+    "row_id": 1049
+  },
+  {
+    "icelandic": "Ég er ekki búinn að taka til∆ þess vegna er *allt á hvolfi*.",
+    "english": "I haven't cleaned up yet∆ that's why *the house is a mess*.",
+    "depends_on": "á hvolfi",
+    "level": "4",
+    "row_id": 249
+  },
+  {
+    "icelandic": "Ég er ekki laus í þessari viku.",
+    "english": "I'm not available this week.",
+    "depends_on": "laus",
+    "level": "1",
+    "row_id": 104
+  },
+  {
+    "icelandic": "Ég er ekki lengur veikur.",
+    "english": "I'm no longer ill.",
+    "depends_on": "veikur, lengi",
+    "level": "1",
+    "row_id": 375
+  },
+  {
+    "icelandic": "Ég er ekki með góðan orðaforða.",
+    "english": "I don't have a good vocabulary.",
+    "depends_on": "góður, orðaforði",
+    "level": "2",
+    "row_id": 747
+  },
+  {
+    "icelandic": "Ég er ekki með nein plön.",
+    "english": "I don't have any plans.",
+    "depends_on": "plan, ekki neinn",
+    "level": "1",
+    "row_id": 88
+  },
+  {
+    "icelandic": "Ég er ekki sammála henni.",
+    "english": "I don't agree with her.",
+    "depends_on": "sammála",
+    "level": "1",
+    "row_id": 573
+  },
+  {
+    "icelandic": "Ég er ekki viss.",
+    "english": "I'm not sure.",
+    "depends_on": "viss",
+    "level": "2",
+    "row_id": 679
+  },
+  {
+    "icelandic": "Ég er frá Boston.",
+    "english": "I'm from Boston.",
+    "level": "1",
+    "row_id": 262
+  },
+  {
+    "icelandic": "Ég er glaðvakandi.",
+    "row_id": 950
+  },
+  {
+    "icelandic": "Ég er heima.",
+    "english": "I'm at home.",
+    "level": "1",
+    "row_id": 247
+  },
+  {
+    "icelandic": "Ég er hættur að reykja.",
+    "english": "I've quit smoking.; I no longer smoke.",
+    "depends_on": "að hætta",
+    "level": "1",
+    "row_id": 370
+  },
+  {
+    "icelandic": "Ég er í Ameríku.",
+    "english": "I'm in America.",
+    "depends_on": "Ameríka",
+    "level": "1",
+    "row_id": 739
+  },
+  {
+    "icelandic": "Ég er í Bandaríkjunum.",
+    "english": "I'm in the United States.",
+    "depends_on": "Bandaríkin",
+    "basic_form": "Bandaríkin",
+    "level": "1.9",
+    "row_id": 740
+  },
+  {
+    "icelandic": "Ég er í bankanum.",
+    "row_id": 991
+  },
+  {
+    "icelandic": "Ég er í brúnni úlpu og stend á brúnni.",
+    "english": "I'm wearing a brown parka/jacket/windbreaker and I'm standing on the bridge.",
+    "level": "4",
+    "note_after_show": "Even though they are spelled the same, \"the bridge\" and \"brown\" are not pronounced the same.",
+    "row_id": 997
+  },
+  {
+    "icelandic": "Ég er í búðinni.",
+    "english": "I'm at the grocery store.",
+    "level": "2",
+    "direction": "->",
+    "row_id": 269
+  },
+  {
+    "icelandic": "Ég er í flugvél.",
+    "english": "I'm in an airplane.",
+    "depends_on": "flugvél",
+    "level": "1",
+    "row_id": 751
+  },
+  {
+    "icelandic": "Ég er í fríi.",
+    "english": "I'm on vacation.; I have a vacation.",
+    "depends_on": "frí",
+    "level": "1",
+    "row_id": 450
+  },
+  {
+    "icelandic": "Ég er í fríi í næstu viku.",
+    "english": "I have a vacation next week.",
+    "depends_on": "frí",
+    "level": "1",
+    "row_id": 184
+  },
+  {
+    "icelandic": "Ég er í grænum sokkum.",
+    "english": "I'm wearing green socks.",
+    "depends_on": "grænn, sokkur",
+    "level": "2",
+    "row_id": 532
+  },
+  {
+    "icelandic": "Ég er í lélegu formi.",
+    "row_id": 1024
+  },
+  {
+    "icelandic": "Ég er í ræktinni.",
+    "english": "I'm at the gym.",
+    "depends_on": "ræktin",
+    "level": "2",
+    "row_id": 201
+  },
+  {
+    "icelandic": "Ég er í útlöndum.",
+    "english": "I'm abroad.; I'm in a foreign country.",
+    "depends_on": "útlönd",
+    "level": "2",
+    "row_id": 447
+  },
+  {
+    "icelandic": "Ég er í vinnunni.",
+    "english": "I'm at work.",
+    "depends_on": "vinna",
+    "level": "1",
+    "row_id": 193
+  },
+  {
+    "icelandic": "Ég er kominn í flugvélina.",
+    "english": "I have made my way into the airplane.; I am now in the airplane.; I have arrived to the airplane.",
+    "depends_on": "kominn, flugvél",
+    "basic_form": "flugvél",
+    "level": "2",
+    "row_id": 750
+  },
+  {
+    "icelandic": "Ég er kominn með nóg.",
+    "row_id": 949
+  },
+  {
+    "icelandic": "Ég er með *bólur*.",
+    "english": "I have *zits/acne*.",
+    "depends_on": "bóla",
+    "level": "3",
+    "alternative_id": "bóla",
+    "row_id": 522
+  },
+  {
+    "icelandic": "Ég er með hita.",
+    "english": "I have a fever.",
+    "depends_on": "hiti, að vera með",
+    "level": "1",
+    "row_id": 411
+  },
+  {
+    "icelandic": "Ég er næstum því jafn stór og þú.",
+    "english": "I'm almost as large as you are.",
+    "depends_on": "jafn",
+    "level": "2",
+    "row_id": 91
+  },
+  {
+    "icelandic": "Ég er orðinn veikur.",
+    "english": "I've become sick.",
+    "level": "2",
+    "row_id": 85
+  },
+  {
+    "icelandic": "Ég er ósammála.",
+    "english": "I disagree.",
+    "depends_on": "sammála",
+    "level": "1",
+    "alternative_id": "ósammála",
+    "row_id": 571
+  },
+  {
+    "icelandic": "Ég er sammála.",
+    "english": "I agree.",
+    "depends_on": "samur, mál",
+    "level": "1",
+    "alternative_id": "sammála",
+    "row_id": 570
+  },
+  {
+    "icelandic": "Ég er sammála honum.",
+    "english": "I agree with him.",
+    "depends_on": "sammála",
+    "level": "1",
+    "row_id": 572
+  },
+  {
+    "icelandic": "Ég er skárri í ensku en dönsku.",
+    "english": "I am slightly better at speaking English than Danish (but I am bad at both).",
+    "depends_on": "skárri",
+    "level": "3",
+    "row_id": 430
+  },
+  {
+    "icelandic": "Ég er skyldur honum.",
+    "english": "I'm related to him.",
+    "level": "3",
+    "alternative_id": "skyldur",
+    "row_id": 472
+  },
+  {
+    "icelandic": "Ég er tveggja barna faðir.",
+    "english": "I am the father of two children.",
+    "row_id": 937
+  },
+  {
+    "icelandic": "Ég er unglingur.",
+    "english": "I am a teenager.",
+    "depends_on": "unglingur",
+    "level": "2",
+    "row_id": 45
+  },
+  {
+    "icelandic": "Ég er úti.",
+    "english": "I'm outside.",
+    "depends_on": "úti",
+    "level": "1",
+    "row_id": 272
+  },
+  {
+    "icelandic": "Ég er úti á landi.",
+    "english": "I'm out on the countryside.",
+    "depends_on": "úti á landi",
+    "level": "2",
+    "row_id": 448
+  },
+  {
+    "icelandic": "Ég er útlendingur.",
+    "english": "I am a foreigner.",
+    "depends_on": "útlendingur",
+    "level": "2",
+    "row_id": 445
+  },
+  {
+    "icelandic": "Ég er verri en síðast.",
+    "english": "I'm worse than last time.",
+    "depends_on": "vondur, síðastur",
+    "level": "1",
+    "row_id": 617
+  },
+  {
+    "icelandic": "Ég fer í frí í næstu viku.",
+    "english": "I will go on vacation next week.",
+    "depends_on": "frí",
+    "level": "1",
+    "row_id": 451
+  },
+  {
+    "icelandic": "Ég fer í háttinn sirka tíu.",
+    "row_id": 929
+  },
+  {
+    "icelandic": "Ég fer í ræktina fimm sinnum í viku.",
+    "english": "I go to the gym 5 times a week.",
+    "depends_on": "sinnum, ræktin",
+    "level": "2",
+    "row_id": 277
+  },
+  {
+    "icelandic": "Ég fer út.",
+    "english": "I'll go outside.",
+    "depends_on": "út",
+    "level": "1",
+    "row_id": 274
+  },
+  {
+    "icelandic": "Ég fer út í búð einu sinni í viku.",
+    "english": "I go to the store once a week.",
+    "depends_on": "sinnum, búð",
+    "level": "2",
+    "direction": "->",
+    "row_id": 278
+  },
+  {
+    "icelandic": "Ég finn ekki úlpuna mína.",
+    "row_id": 999
+  },
+  {
+    "icelandic": "ég flaug",
+    "english": "I flew",
+    "depends_on": "að fljúga",
+    "level": "2.5",
+    "row_id": 701
+  },
+  {
+    "icelandic": "Ég flutti til Bandaríkjanna fyrir fimm árum.",
+    "english": "I moved to the United States five years ago.",
+    "depends_on": "Bandaríkin, fyrir, að flytja",
+    "basic_form": "Bandaríkin",
+    "level": "2",
+    "row_id": 742
+  },
+  {
+    "icelandic": "ég flýg",
+    "english": "I fly",
+    "depends_on": "að fljúga",
+    "level": "2",
+    "row_id": 702
+  },
+  {
+    "icelandic": "Ég fór í sturtu áðan.",
+    "english": "I took a shower earlier today.",
+    "depends_on": "sturta",
+    "level": "3",
+    "row_id": 874
+  },
+  {
+    "icelandic": "Ég fór í viðtal.",
+    "row_id": 1068
+  },
+  {
+    "icelandic": "Ég fór með nokkrum vinum mínum að hitta nokkra vini.",
+    "english": "I went with a few of my friends to meet a few friends.",
+    "row_id": 1009
+  },
+  {
+    "icelandic": "Ég fór þangað áðan.",
+    "english": "I went there earlier today.",
+    "level": "2",
+    "row_id": 15
+  },
+  {
+    "icelandic": "Ég gat ekki sofnað.",
+    "english": "I couldn't fall asleep.",
+    "depends_on": "að sofna",
+    "level": "2",
+    "row_id": 301
+  },
+  {
+    "icelandic": "Ég gerði það óvart.",
+    "english": "I did it inadvertently.; I did it accidentally.",
+    "depends_on": "óvar",
+    "level": "2",
+    "row_id": 156
+  },
+  {
+    "icelandic": "Ég geri það á eftir.",
+    "english": "I will do it later today.",
+    "dont_confuse": "Ég geri það seinna.",
+    "row_id": 962
+  },
+  {
+    "icelandic": "Ég geri það seinna.",
+    "english": "I will do it later.",
+    "row_id": 961
+  },
+  {
+    "icelandic": "Ég get ekki gert það.",
+    "english": "I can't do it.",
+    "depends_on": "að geta",
+    "level": "1",
+    "row_id": 397
+  },
+  {
+    "icelandic": "Ég get ekki sofnað.",
+    "english": "I can't fall asleep.",
+    "depends_on": "að sofna",
+    "level": "2",
+    "row_id": 300
+  },
+  {
+    "icelandic": "ég get flogið",
+    "english": "I can fly",
+    "depends_on": "að fljúga",
+    "level": "2",
+    "row_id": 703
+  },
+  {
+    "icelandic": "Ég get talað án þess að hreyfa varirnar.",
+    "english": "I can talk without moving my lips.",
+    "depends_on": "án þess að, vör",
+    "level": "2",
+    "row_id": 879
+  },
+  {
+    "icelandic": "Ég get það ekki.",
+    "english": "I can't.",
+    "depends_on": "að geta",
+    "level": "1",
+    "row_id": 396
+  },
+  {
+    "icelandic": "Ég get því miður ekki hjálpað þér.",
+    "english": "I can sadly not help you.",
+    "depends_on": "því miður",
+    "level": "1",
+    "row_id": 364
+  },
+  {
+    "icelandic": "Ég gleymdi því.",
+    "english": "I forgot it.",
+    "depends_on": "að gleyma",
+    "level": "2",
+    "row_id": 563
+  },
+  {
+    "icelandic": "Ég hef áhuga á þessu.",
+    "english": "I'm interested in this.",
+    "depends_on": "áhugi",
+    "level": "1",
+    "row_id": 95
+  },
+  {
+    "icelandic": "Ég hef áhyggjur af þessu.",
+    "english": "I'm worried about this.",
+    "depends_on": "áhyggja",
+    "level": "1",
+    "dont_confuse": "áhugi",
+    "row_id": 94
+  },
+  {
+    "icelandic": "Ég hef ekki efni á því.",
+    "english": "I can't afford it.",
+    "depends_on": "efni",
+    "level": "2",
+    "row_id": 126
+  },
+  {
+    "icelandic": "Ég hef ekki neinn áhuga á þessu.; Ég hef engan áhuga á þessu.",
+    "depends_on": "áhugi",
+    "level": "2",
+    "row_id": 779
+  },
+  {
+    "icelandic": "Ég hef ekki séð eina einustu Star Wars mynd.",
+    "english": "I have not seen a single Star Wars film.",
+    "depends_on": "einn einasti",
+    "level": "2.2",
+    "row_id": 772
+  },
+  {
+    "icelandic": "Ég hef engan áhuga á þessu.",
+    "english": "I'm not interested in this at all.",
+    "depends_on": "áhugi",
+    "level": "1",
+    "row_id": 96
+  },
+  {
+    "icelandic": "Ég held að ég sé að verða veikur.",
+    "english": "I think I'm becoming sick.",
+    "level": "2",
+    "grammar_tags": "vh",
+    "row_id": 84
+  },
+  {
+    "icelandic": "Ég held að ég verði laus.",
+    "english": "I think that I will be available.",
+    "depends_on": "að verða, laus",
+    "level": "3",
+    "row_id": 115
+  },
+  {
+    "icelandic": "Ég hélt að hann myndi hjálpa mér.",
+    "english": "I thought that he would help me.",
+    "depends_on": "að hjálpa, að munu",
+    "level": "3",
+    "row_id": 457
+  },
+  {
+    "icelandic": "Ég hitti hann á morgun.",
+    "english": "I will meet him tomorrow.",
+    "level": "1",
+    "row_id": 392
+  },
+  {
+    "icelandic": "Ég hitti hann í gær.",
+    "english": "I met him yesterday.",
+    "level": "1",
+    "row_id": 391
+  },
+  {
+    "icelandic": "Ég hitti vini mína áðan.",
+    "english": "I met my friends earlier today.",
+    "depends_on": "að hitta, vinur",
+    "level": "2",
+    "row_id": 240
+  },
+  {
+    "icelandic": "Ég hitti vin minn áðan.",
+    "english": "I met my male friend earlier today.",
+    "level": "2",
+    "row_id": 496
+  },
+  {
+    "icelandic": "Ég hlakka til.",
+    "english": "I'm looking forward to it.",
+    "depends_on": "að hlakka til",
+    "level": "2",
+    "row_id": 205
+  },
+  {
+    "icelandic": "Ég hlakka til að sjá þig.",
+    "english": "I'm looking forward to seeing you.",
+    "level": "2",
+    "row_id": 501
+  },
+  {
+    "icelandic": "Ég horfði á helminginn af fyrsta þættinum.",
+    "row_id": 931
+  },
+  {
+    "icelandic": "Ég horfi aldrei á fréttirnar.",
+    "english": "I never watch the news.",
+    "level": "2",
+    "row_id": 189
+  },
+  {
+    "icelandic": "Ég horfi bara á spænska þætti.",
+    "english": "I only watch Spanish TV shows.",
+    "depends_on": "þáttur, spænskur, að horfa",
+    "level": "1",
+    "row_id": 259
+  },
+  {
+    "icelandic": "Ég kann ekki ensku.",
+    "english": "I don't know English.",
+    "depends_on": "enska",
+    "level": "1",
+    "row_id": 64
+  },
+  {
+    "icelandic": "Ég '''kann''' ekki '''við''' að gera það.",
+    "english": "I don't '''feel comfortable''' doing that.; I feel like I would be breaking social norms by doing that.",
+    "depends_on": "að kunna",
+    "level": "3",
+    "dont_confuse": "viður, að gera við, Ég kann ekki að gera við það.",
+    "direction": "->",
+    "alternative_id": "að kunna við",
+    "Laga?": "--",
+    "row_id": 911
+  },
+  {
+    "icelandic": "Ég kann íslensku og spænsku.",
+    "english": "I know Icelandic and Spanish.",
+    "level": "1",
+    "row_id": 52
+  },
+  {
+    "icelandic": "Ég kann *pínku* íslensku.",
+    "english": "I know a *teeny tiny bit* of Icelandic.",
+    "depends_on": "pínku, íslenska, að kunna",
+    "level": "2",
+    "direction": "->",
+    "note_bfr_show_en": "Used in colloquial speech.",
+    "row_id": 659
+  },
+  {
+    "icelandic": "Ég kann *pínulitla* íslensku.",
+    "english": "I know a *teeny tiny bit* of Icelandic.",
+    "depends_on": "lítill, pínulítill",
+    "level": "2",
+    "direction": "->",
+    "note_bfr_show_en": "Used in colloquial speech.",
+    "row_id": 661
+  },
+  {
+    "icelandic": "Ég kann smá spænsku.",
+    "english": "I know a little bit of Spanish.",
+    "level": "1",
+    "row_id": 138
+  },
+  {
+    "icelandic": "Ég kann vel við hann.",
+    "depends_on": "að kunna",
+    "level": "3.3",
+    "dont_confuse": "að kunna við",
+    "direction": "->",
+    "alternative_id": "að kunna vel við",
+    "row_id": 912
+  },
+  {
+    "icelandic": "Ég kem eftir einn tíma.",
+    "english": "I will come in one hour.",
+    "depends_on": "tími",
+    "level": "1",
+    "row_id": 360
+  },
+  {
+    "icelandic": "Ég kem eftir þrjá tíma.",
+    "english": "I will come in 3 hours.",
+    "level": "1",
+    "row_id": 221
+  },
+  {
+    "icelandic": "Ég kemst ekki lengur í gömlu buxurnar mínar.",
+    "row_id": 1000
+  },
+  {
+    "icelandic": "Ég lagði bílnum fyrir utan.",
+    "depends_on": "fyrir utan",
+    "basic_form": "að leggja, bíll",
+    "row_id": 1019
+  },
+  {
+    "icelandic": "Ég lagði mig áðan.",
+    "basic_form": "að leggja sig",
+    "row_id": 1016
+  },
+  {
+    "icelandic": "Ég legg mig aldrei.",
+    "basic_form": "að leggja sig",
+    "row_id": 1018
+  },
+  {
+    "icelandic": "Ég man ekkert eftir því.",
+    "level": "1",
+    "row_id": 607
+  },
+  {
+    "icelandic": "Ég man ekki eftir því.",
+    "english": "I don't recall/remember that.",
+    "depends_on": "að muna",
+    "level": "1",
+    "row_id": 557
+  },
+  {
+    "icelandic": "Ég man ekki hvernig maður segir X.",
+    "english": "I don't remember how you say X.",
+    "depends_on": "að muna, maður",
+    "level": "1",
+    "row_id": 559
+  },
+  {
+    "icelandic": "Ég millifærði frá mínum reikningi inn á reikning hans.",
+    "row_id": 945
+  },
+  {
+    "icelandic": "Ég mundi ekki eftir því.",
+    "english": "I didn't remember that.",
+    "depends_on": "að muna",
+    "level": "2",
+    "row_id": 558
+  },
+  {
+    "icelandic": "Ég mæli með því.",
+    "english": "I recommend it.",
+    "depends_on": "að mæla með",
+    "level": "1",
+    "row_id": 33
+  },
+  {
+    "icelandic": "Ég mæti.",
+    "row_id": 969
+  },
+  {
+    "icelandic": "Ég mæti í partíið þitt.",
+    "english": "I will show up at your party.",
+    "depends_on": "að mæta",
+    "level": "2",
+    "row_id": 506
+  },
+  {
+    "icelandic": "Ég mætti honum áðan.",
+    "english": "I encountered him earlier today (on the street or in the hallway).; We walked past each other earlier today.",
+    "depends_on": "að mæta",
+    "level": "4",
+    "row_id": 508
+  },
+  {
+    "icelandic": "Ég mætti í partíið þitt.",
+    "english": "I showed up at your party.",
+    "depends_on": "að mæta",
+    "level": "2",
+    "row_id": 507
+  },
+  {
+    "icelandic": "Ég nenni ekki að klára þennan þátt.",
+    "row_id": 932
+  },
+  {
+    "icelandic": "Ég nenni því ekki.",
+    "level": "2",
+    "row_id": 921
+  },
+  {
+    "icelandic": "Ég nennti ekki að klára þáttinn.",
+    "row_id": 933
+  },
+  {
+    "icelandic": "Ég ólst upp í Bandaríkjunum.",
+    "english": "I was raised in the U.S.; I spent my childhood in the U.S.",
+    "depends_on": "Bandaríkin, að alast upp",
+    "level": "3.1",
+    "row_id": 838
+  },
+  {
+    "icelandic": "Ég sakna þín.",
+    "english": "I miss you.",
+    "depends_on": "að sakna",
+    "level": "3",
+    "row_id": 195
+  },
+  {
+    "icelandic": "Ég sá eftir því.",
+    "english": "I regretted it.",
+    "depends_on": "að sjá eftir einhverju",
+    "level": "3",
+    "row_id": 777
+  },
+  {
+    "icelandic": "ég sef",
+    "english": "I sleep",
+    "basic_form": "að sofa",
+    "row_id": 1012
+  },
+  {
+    "icelandic": "Ég sef of mikið.",
+    "english": "I sleep too much.",
+    "depends_on": "að sofa",
+    "level": "3",
+    "row_id": 302
+  },
+  {
+    "icelandic": "ég segi",
+    "english": "I say",
+    "basic_form": "að segja",
+    "level": "1",
+    "row_id": 1105
+  },
+  {
+    "icelandic": "Ég sé eftir því að hafa ekki farið.",
+    "english": "I regret not having gone.",
+    "depends_on": "að sjá eftir",
+    "level": "3",
+    "row_id": 145
+  },
+  {
+    "icelandic": "Ég skil að það sé stundum erfitt.",
+    "english": "I understand that it is sometimes difficult.",
+    "level": "3",
+    "row_id": 187
+  },
+  {
+    "icelandic": "Ég skildi ekki mikið.",
+    "english": "I didn't understand much.",
+    "depends_on": "að skilja, mikill",
+    "level": "2",
+    "row_id": 239
+  },
+  {
+    "icelandic": "Ég skil ekki baun.",
+    "english": "I don't understand a thing.",
+    "depends_on": "baun",
+    "literally": "I don't understand a bean.",
+    "row_id": 1087
+  },
+  {
+    "icelandic": "Ég skil ekki eitt einasta orð.",
+    "english": "I don't understand a single word.",
+    "depends_on": "einn einasti, orð",
+    "level": "2",
+    "row_id": 699
+  },
+  {
+    "icelandic": "Ég skil ekki mikið.",
+    "english": "I don't understand much.",
+    "depends_on": "að skilja, mikill",
+    "level": "1",
+    "row_id": 238
+  },
+  {
+    "icelandic": "Ég skil þetta ekki.",
+    "english": "I don't understand this.",
+    "depends_on": "að skilja",
+    "level": "1",
+    "row_id": 598
+  },
+  {
+    "icelandic": "Ég sofnaði í skólanum.",
+    "english": "I fell asleep at school.",
+    "depends_on": "skóli, að sofna",
+    "level": "3",
+    "row_id": 303
+  },
+  {
+    "icelandic": "Ég sótti um starf hjá háskólanum.",
+    "english": "I applied for a job at the university.",
+    "row_id": 1070
+  },
+  {
+    "icelandic": "Ég splæsi!",
+    "row_id": 1146
+  },
+  {
+    "icelandic": "ég svaf",
+    "english": "I slept",
+    "basic_form": "að sofa",
+    "row_id": 1010
+  },
+  {
+    "icelandic": "Ég svaf vel.",
+    "english": "I slept well.",
+    "level": "3",
+    "row_id": 304
+  },
+  {
+    "icelandic": "Ég talaði við kennarann minn.",
+    "english": "I talked to my teacher.",
+    "depends_on": "að tala",
+    "level": "2",
+    "row_id": 212
+  },
+  {
+    "icelandic": "Ég trúi því ekki.",
+    "english": "I don't believe it.",
+    "depends_on": "að trúa",
+    "level": "1",
+    "row_id": 130
+  },
+  {
+    "icelandic": "Ég trúi því ekki alveg.",
+    "english": "I don't quite believe it.",
+    "depends_on": "að trúa, alveg",
+    "level": "1",
+    "row_id": 417
+  },
+  {
+    "icelandic": "Ég vaknaði fyrir allar aldir í morgun.",
+    "level": "5",
+    "row_id": 927
+  },
+  {
+    "icelandic": "Ég vann í þessu langt fram eftir kvöldi.",
+    "row_id": 930
+  },
+  {
+    "icelandic": "Ég var að vonast til þess að ég gæti talað við þig.",
+    "english": "I was hoping that I could speak to you.",
+    "depends_on": "að vonast, að vona",
+    "level": "3",
+    "categories": "formal",
+    "row_id": 434
+  },
+  {
+    "icelandic": "Ég var bara að komast að því áðan.",
+    "english": "I just found out earlier today.",
+    "level": "3",
+    "row_id": 713
+  },
+  {
+    "icelandic": "Ég var úti áðan.",
+    "english": "I was outside earlier today.",
+    "depends_on": "úti",
+    "level": "1",
+    "row_id": 275
+  },
+  {
+    "icelandic": "Ég var veikur í langan tíma.; Ég var veikur lengi.",
+    "english": "I was ill for a long time.",
+    "depends_on": "veikur, lengi",
+    "level": "1",
+    "row_id": 376
+  },
+  {
+    "icelandic": "Ég var veikur í síðustu viku.",
+    "english": "I was ill last week.",
+    "depends_on": "veikur, vika",
+    "level": "1",
+    "row_id": 374
+  },
+  {
+    "icelandic": "Ég var þar áðan.",
+    "english": "I was there earlier today.",
+    "level": "1",
+    "row_id": 16
+  },
+  {
+    "icelandic": "Ég veit ekkert um það.",
+    "english": "I don't know anything about that.",
+    "depends_on": "að vita",
+    "level": "1",
+    "row_id": 190
+  },
+  {
+    "icelandic": "Ég veit ekki alveg hvað þú átt við.",
+    "english": "I'm don't quite know what you're referring to.",
+    "depends_on": "að eiga við, alveg",
+    "level": "3",
+    "row_id": 804
+  },
+  {
+    "icelandic": "Ég veit ekki baun um Færeyjar.",
+    "english": "I don't know anything about the Faroe Islands.",
+    "depends_on": "baun, að vita",
+    "level": "3",
+    "direction": "->",
+    "alternative_id": "ekki baun",
+    "row_id": 871
+  },
+  {
+    "icelandic": "Ég veit *ekki einu sinni* hver þetta er.",
+    "english": "I do *not even* know who this is.",
+    "depends_on": "ekki einu sinni",
+    "level": "2",
+    "row_id": 493
+  },
+  {
+    "icelandic": "Ég veit ekki hvað hún átti við með því.",
+    "english": "I don't know what she meant by that.",
+    "depends_on": "að eiga við",
+    "basic_form": "að eiga við",
+    "level": "2",
+    "row_id": 807
+  },
+  {
+    "icelandic": "Ég veit ekki hvort það sé hægt.",
+    "english": "I don't know if that's possible.",
+    "depends_on": "hvort",
+    "level": "2",
+    "row_id": 117
+  },
+  {
+    "icelandic": "Ég veit ekki hvort þú hafir tekið eftir því.",
+    "english": "I don't know if you noticed it.",
+    "level": "3",
+    "row_id": 98
+  },
+  {
+    "icelandic": "Ég veit svo sem ekki alveg hvað ég ætla að gera.",
+    "english": "Well∆ I don't quite know what I intend to do.",
+    "depends_on": "svo sem",
+    "level": "3.2",
+    "direction": "->",
+    "note_after_show": "\"Svo sem\" only serves to add nonchalance to the sentence.",
+    "importance": "-1",
+    "row_id": 793
+  },
+  {
+    "icelandic": "Ég verð í fríi í næstu viku.",
+    "english": "I will have a vacation next week.",
+    "depends_on": "frí",
+    "level": "2",
+    "row_id": 453
+  },
+  {
+    "icelandic": "Ég verð í vinnunni þá.",
+    "english": "I will be at work at that time.",
+    "depends_on": "vinna",
+    "level": "1",
+    "row_id": 194
+  },
+  {
+    "icelandic": "Ég vil að þú komir.",
+    "english": "I want you to come.",
+    "level": "3",
+    "row_id": 99
+  },
+  {
+    "icelandic": "Ég vil ekki tala um það.",
+    "level": "1",
+    "row_id": 914
+  },
+  {
+    "icelandic": "Ég vil verða betri.",
+    "english": "I want to become better.",
+    "depends_on": "góður",
+    "level": "2",
+    "note_after_show": "\"Betri\" is an adjective.",
+    "row_id": 26
+  },
+  {
+    "icelandic": "Ég vinn heima.",
+    "english": "I work at home.",
+    "depends_on": "að vinna, heima",
+    "level": "1",
+    "row_id": 307
+  },
+  {
+    "icelandic": "Ég vinn of mikið.",
+    "english": "I work too much.",
+    "depends_on": "að vinna, mikill",
+    "level": "1",
+    "row_id": 425
+  },
+  {
+    "icelandic": "Ég vissi það ekki.",
+    "english": "I didn't know that.",
+    "depends_on": "að vita",
+    "level": "2",
+    "row_id": 139
+  },
+  {
+    "icelandic": "Ég vona að ég verði búinn að skána fyrir næstu viku.",
+    "english": "I hope that I will have recovered slightly from my illness before next week.",
+    "depends_on": "að skána, að verða",
+    "level": "3",
+    "row_id": 431
+  },
+  {
+    "icelandic": "Ég vona að ég verði skárri í næstu viku.",
+    "english": "I hope that I will be slightly better next week.; I hope that I will not be as bad next week.",
+    "depends_on": "að skána, að verða",
+    "level": "3",
+    "row_id": 432
+  },
+  {
+    "icelandic": "Ég vona að það verði hægt að fljúga í sumar.",
+    "level": "3",
+    "row_id": 704
+  },
+  {
+    "icelandic": "Ég vona það.",
+    "english": "I hope so.",
+    "depends_on": "að vona",
+    "level": "2",
+    "row_id": 433
+  },
+  {
+    "icelandic": "Ég þarf að bæta orðaforðann minn.",
+    "english": "I need to improve my vocabulary.",
+    "level": "4",
+    "row_id": 72
+  },
+  {
+    "icelandic": "Ég þarf að fara.; Ég verð að fara.",
+    "english": "I need to go.",
+    "level": "1",
+    "row_id": 182
+  },
+  {
+    "icelandic": "Ég þarf að fara í bankann.",
+    "row_id": 990
+  },
+  {
+    "icelandic": "Ég þarf að fara í búð.",
+    "english": "I need to go to a grocery store.",
+    "level": "2",
+    "direction": "->",
+    "row_id": 267
+  },
+  {
+    "icelandic": "Ég þarf að fara í búðina.",
+    "english": "I need to go to the grocery store.",
+    "level": "2",
+    "direction": "->",
+    "row_id": 268
+  },
+  {
+    "icelandic": "Ég þarf að fara í vinnuna.",
+    "english": "I need to go to (my) job.",
+    "depends_on": "vinna, að þurfa",
+    "level": "2",
+    "row_id": 761
+  },
+  {
+    "icelandic": "Ég þarf að kúka.",
+    "english": "I need to poop.",
+    "depends_on": "að kúka, að þurfa",
+    "level": "2.8",
+    "note_after_show": "Rather crude and not something you say unless you are a child or talking to a family member.",
+    "row_id": 863
+  },
+  {
+    "icelandic": "Ég þarf að láta laga bílinn minn.; Ég þarf að láta gera við bílinn minn.",
+    "english": "I need to get my car fixed.",
+    "depends_on": "að laga, að gera við eitthvað",
+    "level": "2",
+    "row_id": 686
+  },
+  {
+    "icelandic": "Ég þarf að mæta á fund á eftir.",
+    "english": "I need to attend a meeting later today.; I need to show up at a meeting later today.",
+    "depends_on": "fundur, að mæta",
+    "level": "2",
+    "row_id": 503
+  },
+  {
+    "icelandic": "Ég þarf að vakna snemma á morgun.",
+    "english": "I need to wake up early tomorrow.",
+    "level": "2",
+    "row_id": 295
+  },
+  {
+    "icelandic": "Ég þarf að vinna í dag.",
+    "english": "I have to work today.",
+    "level": "1",
+    "row_id": 378
+  },
+  {
+    "icelandic": "Ég þarf því miður *að hætta við*.",
+    "english": "I will unfortunately have to *pull out of the plans I had made*/*withdraw*.",
+    "depends_on": "að hætta við",
+    "level": "3",
+    "row_id": 366
+  },
+  {
+    "icelandic": "Ég þekki hana ekki vel.",
+    "english": "I don't know her well.",
+    "level": "1",
+    "row_id": 54
+  },
+  {
+    "icelandic": "Ég þoli ekki að vera hérna.",
+    "english": "I can't stand being here.",
+    "depends_on": "að þola",
+    "level": "4",
+    "row_id": 2
+  },
+  {
+    "icelandic": "Ég þýddi textann yfir á ensku.",
+    "english": "I translated the text to English.",
+    "depends_on": "að þýða, texti",
+    "level": "2",
+    "row_id": 669
+  },
+  {
+    "icelandic": "Ég ætla að borða þennan hamborgara.",
+    "english": "I'm going to eat this hamburger.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 816
+  },
+  {
+    "icelandic": "Ég ætla að eignast börn.",
+    "english": "I plan on having children.",
+    "depends_on": "að eignast",
+    "level": "3",
+    "literally": "I plan on acquiring a child.",
+    "row_id": 355
+  },
+  {
+    "icelandic": "Ég ætla að fara með kærastanum mínum til útlanda.",
+    "english": "I am going to go with my boyfriend to a foreign country.",
+    "depends_on": "útlönd, kærasti",
+    "level": "2",
+    "row_id": 439
+  },
+  {
+    "icelandic": "Ég ætla að fara til Bandaríkjanna.",
+    "english": "I am going to move to the United States.",
+    "depends_on": "Bandaríkin",
+    "basic_form": "Bandaríkin",
+    "level": "1",
+    "row_id": 743
+  },
+  {
+    "icelandic": "Ég ætla að hitta vinkonu mína á eftir.",
+    "english": "I'm going to meet my female friend later today.",
+    "level": "1",
+    "row_id": 386
+  },
+  {
+    "icelandic": "Ég ætla að hitta vin minn á eftir.",
+    "english": "I'm going to meet my male friend later today.",
+    "level": "1",
+    "row_id": 385
+  },
+  {
+    "icelandic": "Ég ætla að hætta að reykja.",
+    "english": "I plan on quitting smoking.",
+    "depends_on": "að hætta",
+    "level": "1",
+    "row_id": 369
+  },
+  {
+    "icelandic": "Ég ætla að koma í sumar.",
+    "english": "I'm planning on coming this summer.",
+    "level": "1",
+    "row_id": 31
+  },
+  {
+    "icelandic": "Ég ætla að koma til Íslands í september.",
+    "english": "I plan on coming to Iceland in September.",
+    "level": "1",
+    "row_id": 264
+  },
+  {
+    "icelandic": "Ég ætla *að leggja af stað* eftir tíu mínútur.",
+    "english": "I intend to *get going* in 10 minutes.; I intend to *start my trip* in 10 minutes.",
+    "depends_on": "að leggja af stað",
+    "level": "2",
+    "row_id": 112
+  },
+  {
+    "icelandic": "Ég ætla að tala við mömmu *hans*.",
+    "english": "I am going to talk to *his* mom.",
+    "level": "1",
+    "row_id": 227
+  },
+  {
+    "icelandic": "Ég ætla að tala við mömmu *mína*.",
+    "english": "I am going to talk to *my* mom.",
+    "level": "1",
+    "row_id": 226
+  },
+  {
+    "icelandic": "Ég ætla að tala við mömmu mína á eftir.",
+    "english": "I'm going to talk to my mother later today.",
+    "level": "1",
+    "row_id": 48
+  },
+  {
+    "icelandic": "Ég ætla að vera þar í fjóra daga.",
+    "english": "I'm going to be there for 4 days.",
+    "level": "1",
+    "categories": "time",
+    "row_id": 206
+  },
+  {
+    "icelandic": "Ég ætla bara að fá mér *pínku pons*.",
+    "english": "I am just going to have a *teeny tiny bit*.",
+    "depends_on": "pínku, að fá sér",
+    "level": "2",
+    "direction": "->",
+    "note_bfr_show_en": "Used in colloquial speech.",
+    "row_id": 660
+  },
+  {
+    "icelandic": "Ég ætla bara að slaka á um helgina.",
+    "english": "I'm just going to relax this weekend.",
+    "depends_on": "að slaka á, helgi",
+    "level": "1",
+    "row_id": 167
+  },
+  {
+    "icelandic": "Ég ætla bara að taka því rólega.",
+    "english": "I am just going to take it easy.",
+    "depends_on": "rólegur",
+    "level": "1.8",
+    "row_id": 653
+  },
+  {
+    "icelandic": "Ég ætla í ræktina á eftir.",
+    "english": "I'm going to the gym later today.",
+    "depends_on": "ræktin",
+    "level": "2",
+    "row_id": 200
+  },
+  {
+    "icelandic": "Ég ætla kannski að flytja til útlanda.",
+    "english": "I am maybe going to move abroad.",
+    "depends_on": "útlönd, að flytja, að ætla",
+    "level": "1.7",
+    "row_id": 730
+  },
+  {
+    "icelandic": "Ég ætla út.",
+    "english": "I'm intend to go outside.",
+    "depends_on": "út",
+    "level": "1",
+    "row_id": 273
+  },
+  {
+    "icelandic": "Farðu í burtu.",
+    "english": "Go away.",
+    "level": "2",
+    "row_id": 916
+  },
+  {
+    "icelandic": "Farðu úr sokkunum.",
+    "english": "Take off your socks (addressing one person).",
+    "depends_on": "sokkur, að fara úr",
+    "level": "2.2",
+    "grammar_tags": "bh",
+    "row_id": 855
+  },
+  {
+    "icelandic": "Farðu út í búð.",
+    "english": "Go to the grocery store.",
+    "depends_on": "að fara, búð",
+    "level": "2",
+    "grammar_tags": "bh",
+    "row_id": 915
+  },
+  {
+    "icelandic": "Farðu yfir brúna.",
+    "english": "Go over the bridge.",
+    "depends_on": "brú",
+    "level": "4",
+    "dont_confuse": "brúnn",
+    "row_id": 995
+  },
+  {
+    "icelandic": "Farðu þangað.",
+    "row_id": 1140
+  },
+  {
+    "icelandic": "Farið úr skónum.",
+    "english": "Take off your shoes (addressing many people).",
+    "depends_on": "skór, að fara úr",
+    "level": "2.4",
+    "grammar_tags": "bh",
+    "row_id": 856
+  },
+  {
+    "icelandic": "feiminn",
+    "english": "shy",
+    "level": "3",
+    "row_id": 1170
+  },
+  {
+    "icelandic": "Ferð þú oft á kaffihús?",
+    "row_id": 989
+  },
+  {
+    "icelandic": "ferhyrningur",
+    "english": "a square (shape)",
+    "depends_on": "fjórir",
+    "level": "5",
+    "note_after_show": "\"Fer-\" is related to \"fjórir\"",
+    "importance": "-1",
+    "row_id": 848
+  },
+  {
+    "icelandic": "ferna",
+    "english": "a carton",
+    "depends_on": "fjórir, ferhyrningur",
+    "level": "5",
+    "note_after_show": "Related to the words \"fjórir\" and \"ferhyrningur\".",
+    "importance": "-1",
+    "row_id": 849
+  },
+  {
+    "icelandic": "fimmhundruðkall",
+    "english": "500 ISK; 500 ISK bank note",
+    "depends_on": "hundraðkall",
+    "level": "2",
+    "direction": "->",
+    "row_id": 551
+  },
+  {
+    "icelandic": "fimm sinnum",
+    "english": "five times",
+    "depends_on": "fimm",
+    "level": "1",
+    "categories": "number",
+    "row_id": 487
+  },
+  {
+    "icelandic": "Finnst þér kaffi gott?",
+    "english": "Do you like coffee?",
+    "level": "1",
+    "row_id": 66
+  },
+  {
+    "icelandic": "Finnst þér kjöt gott?",
+    "english": "Do you like meat?",
+    "depends_on": "kjöt",
+    "level": "1",
+    "row_id": 406
+  },
+  {
+    "icelandic": "Finnst þér það ekki vera góð mynd?",
+    "english": "Do you not think that it's a good film?",
+    "depends_on": "að finnast",
+    "level": "2",
+    "row_id": 180
+  },
+  {
+    "icelandic": "Finnst þér þetta vera fyndið?",
+    "english": "Do you find this funny?",
+    "depends_on": "fyndinn",
+    "level": "1",
+    "row_id": 416
+  },
+  {
+    "icelandic": "fjórum sinnum",
+    "english": "four times",
+    "depends_on": "fjórir",
+    "level": "1",
+    "categories": "number",
+    "row_id": 486
+  },
+  {
+    "icelandic": "fjölskylda",
+    "english": "a family",
+    "depends_on": "fjöldi, skyldur",
+    "level": "1",
+    "row_id": 469
+  },
+  {
+    "icelandic": "fjölskyldan",
+    "english": "the family",
+    "depends_on": "fjölskylda",
+    "level": "1",
+    "row_id": 470
+  },
+  {
+    "icelandic": "fjölskyldan mín",
+    "english": "my family",
+    "depends_on": "fjölskylda",
+    "level": "1",
+    "row_id": 471
+  },
+  {
+    "icelandic": "fluga",
+    "english": "a fly (the insect)",
+    "level": "3",
+    "dont_confuse": "að fljúga",
+    "row_id": 753
+  },
+  {
+    "icelandic": "flugvél",
+    "english": "an airplane",
+    "depends_on": "vél",
+    "level": "1",
+    "row_id": 748
+  },
+  {
+    "icelandic": "flugvélin",
+    "english": "the airplane",
+    "depends_on": "flugvél",
+    "level": "1",
+    "row_id": 749
+  },
+  {
+    "icelandic": "framburður",
+    "english": "pronunciation",
+    "depends_on": "að bera fram",
+    "level": "2",
+    "row_id": 128
+  },
+  {
+    "icelandic": "franska",
+    "level": "3",
+    "row_id": 979
+  },
+  {
+    "icelandic": "frábært",
+    "row_id": 1168
+  },
+  {
+    "icelandic": "fullorðinn",
+    "english": "adult; grown-up",
+    "depends_on": "fullur, að verða",
+    "level": "2",
+    "row_id": 44
+  },
+  {
+    "icelandic": "fullur",
+    "english": "full;; drunk on alcohol",
+    "level": "2",
+    "row_id": 420
+  },
+  {
+    "icelandic": "fundur",
+    "english": "a meeting",
+    "level": "1",
+    "row_id": 502
+  },
+  {
+    "icelandic": "Fylgist þú með boltanum?",
+    "english": "Do you pay attention to football/handball/basketball?",
+    "depends_on": "að fylgjast með, bolti",
+    "level": "2",
+    "row_id": 530
+  },
+  {
+    "icelandic": "Fyrirgefðu hvað ég er óþolinmóður.",
+    "english": "Forgive me for being so impatient.",
+    "depends_on": "óþolinmóður, að fyrirgefa",
+    "level": "3",
+    "row_id": 527
+  },
+  {
+    "icelandic": "fyrir Krist (f. Kr.)",
+    "english": "before Christ (B.C.)",
+    "row_id": 1158
+  },
+  {
+    "icelandic": "fyrirlitning",
+    "english": "contempt; disdain",
+    "level": "6",
+    "row_id": 687
+  },
+  {
+    "icelandic": "fyrirtæki",
+    "english": "a company",
+    "level": "3",
+    "dont_confuse": "tæki",
+    "row_id": 763
+  },
+  {
+    "icelandic": "fyrirtækið",
+    "english": "the company",
+    "depends_on": "fyrirtæki",
+    "level": "3",
+    "row_id": 764
+  },
+  {
+    "icelandic": "Fyrirtækið fór á hausinn.",
+    "english": "The company went bankrupt.",
+    "depends_on": "fyrirtæki, haus",
+    "basic_form": "að fara á hausinn",
+    "level": "3.3",
+    "alternative_id": "að fara á hausinn",
+    "row_id": 794
+  },
+  {
+    "icelandic": "fyrir utan",
+    "row_id": 1156
+  },
+  {
+    "icelandic": "föt",
+    "english": "clothes",
+    "level": "1",
+    "row_id": 402
+  },
+  {
+    "icelandic": "gaffall",
+    "level": "2",
+    "row_id": 709
+  },
+  {
+    "icelandic": "Gaman að sjá þig.",
+    "english": "Nice to see you.; It is enjoyable to see you.",
+    "level": "1",
+    "row_id": 398
+  },
+  {
+    "icelandic": "gat",
+    "english": "a hole",
+    "level": "2.7",
+    "dont_confuse": "að geta",
+    "note_bfr_show_en": "Referring to a hole in clothes or in the wall, but not a hole in the ground.",
+    "importance": "-1",
+    "row_id": 867
+  },
+  {
+    "icelandic": "gaur",
+    "english": "dude",
+    "level": "2",
+    "row_id": 580
+  },
+  {
+    "icelandic": "Get ég fengið *pínku* meira?",
+    "english": "Can I get *just a tiny bit* more?",
+    "depends_on": "meira",
+    "level": "2",
+    "dont_confuse": "bleikur",
+    "direction": "->",
+    "note_bfr_show_en": "Used in colloquial speech.",
+    "alternative_id": "pínku",
+    "row_id": 658
+  },
+  {
+    "icelandic": "Getum við heyrst á eftir?",
+    "english": "Can we hear from each other later today?; Can we talk later today?",
+    "depends_on": "að heyrast",
+    "level": "2",
+    "row_id": 80
+  },
+  {
+    "icelandic": "Getum við skipst á að nota tölvuna?",
+    "english": "Can we take turns using the computer?",
+    "depends_on": "að skiptast á",
+    "level": "3",
+    "row_id": 671
+  },
+  {
+    "icelandic": "Getum við skipt yfir á ensku?",
+    "english": "Can we switch to English?",
+    "depends_on": "að skipta",
+    "level": "2",
+    "row_id": 668
+  },
+  {
+    "icelandic": "Geturðu ekki drifið þig?",
+    "english": "Can't you hurry up?",
+    "depends_on": "að drífa sig",
+    "level": "3",
+    "row_id": 614
+  },
+  {
+    "icelandic": "Geturðu farið yfir ritgerðina mína?",
+    "level": "3",
+    "row_id": 920
+  },
+  {
+    "icelandic": "Geturðu *gert við* tölvuna mína?; Geturðu *lagað* tölvuna mína?",
+    "english": "Can you *fix* my computer?",
+    "depends_on": "að gera, að laga",
+    "level": "2",
+    "alternative_id": "að gera við eitthvað",
+    "row_id": 683
+  },
+  {
+    "icelandic": "Geturðu hringt í mig á eftir?",
+    "english": "Can you call me later today?",
+    "depends_on": "að hringja",
+    "level": "2",
+    "row_id": 79
+  },
+  {
+    "icelandic": "Geturðu sótt mig?",
+    "english": "Can you come pick me up?",
+    "depends_on": "að sækja",
+    "level": "2",
+    "row_id": 113
+  },
+  {
+    "icelandic": "Geturðu sótt mig eftir hálftíma?",
+    "basic_form": "að sækja",
+    "row_id": 973
+  },
+  {
+    "icelandic": "Geturðu *tekið upp* tónleikana mína?",
+    "english": "Can you *record* my concert?",
+    "level": "3",
+    "literally": "Can you take me up.",
+    "alternative_id": "að taka upp",
+    "row_id": 649
+  },
+  {
+    "icelandic": "Gott mál.",
+    "level": "3",
+    "direction": "->",
+    "row_id": 313
+  },
+  {
+    "icelandic": "gras",
+    "english": "grass",
+    "row_id": 1130
+  },
+  {
+    "icelandic": "Guði sé lof.",
+    "english": "Thank God!",
+    "depends_on": "Guð",
+    "level": "3.3",
+    "dont_confuse": "að lofa",
+    "literally": "To God be praise., Praise should be given to God.",
+    "row_id": 851
+  },
+  {
+    "icelandic": "Guð minn almáttugur!",
+    "english": "Oh my God!",
+    "depends_on": "Guð",
+    "level": "2.2",
+    "direction": "->",
+    "literally": "My all-mighty God!",
+    "row_id": 706
+  },
+  {
+    "icelandic": "Guð minn góður!",
+    "english": "Oh my God!",
+    "depends_on": "Guð",
+    "level": "2",
+    "direction": "->",
+    "literally": "My good God!",
+    "row_id": 707
+  },
+  {
+    "icelandic": "halló",
+    "english": "hello",
+    "note_after_show": "Used when answering a telephone. Not a very common greeting outside of that.",
+    "row_id": 1134
+  },
+  {
+    "icelandic": "hallærislegt",
+    "english": "uncool; not fashionable; kitsch; embarrassing",
+    "level": "3",
+    "row_id": 876
+  },
+  {
+    "icelandic": "Haltu kjafti.",
+    "english": "Shut up",
+    "level": "3",
+    "direction": "->",
+    "note_after_show": "More rude than \"þegiðu\".",
+    "categories": "rude",
+    "row_id": 555
+  },
+  {
+    "icelandic": "hamingja",
+    "english": "happiness",
+    "level": "2",
+    "row_id": 620
+  },
+  {
+    "icelandic": "handtekinn",
+    "row_id": 994
+  },
+  {
+    "icelandic": "Hann á afmæli.",
+    "english": "It's his birthday.",
+    "depends_on": "að eiga, afmæli",
+    "level": "2",
+    "row_id": 586
+  },
+  {
+    "icelandic": "Hann á marga vini.",
+    "english": "He has many friends.",
+    "depends_on": "að eiga",
+    "level": "1",
+    "row_id": 348
+  },
+  {
+    "icelandic": "Hann býr einn.",
+    "english": "He lives alone.",
+    "level": "1",
+    "row_id": 118
+  },
+  {
+    "icelandic": "Hann býr í allt öðrum heimi.",
+    "level": "3",
+    "row_id": 625
+  },
+  {
+    "icelandic": "Hann býr í stóru húsi.",
+    "english": "He lives in a big house.",
+    "depends_on": "að búa, stór, hús",
+    "level": "1",
+    "row_id": 401
+  },
+  {
+    "icelandic": "Hann er á klósettinu.",
+    "english": "He's on the toilet.",
+    "depends_on": "klósett",
+    "level": "2",
+    "row_id": 158
+  },
+  {
+    "icelandic": "Hann er áttræður.",
+    "level": "4.4",
+    "categories": "time",
+    "row_id": 789
+  },
+  {
+    "icelandic": "Hann er *ber að ofan*.",
+    "english": "He is *shirtless*.",
+    "depends_on": "ofan",
+    "level": "3",
+    "literally": "He is bare to above (the waist).",
+    "row_id": 404
+  },
+  {
+    "icelandic": "Hann er blindfullur.",
+    "english": "He's extremely drunk.",
+    "depends_on": "fullur, blindur",
+    "level": "3",
+    "categories": "party",
+    "row_id": 498
+  },
+  {
+    "icelandic": "Hann er ekki hræddur við hunda.",
+    "english": "He's not afraid of dogs.",
+    "depends_on": "hræddur, hundur",
+    "level": "2",
+    "row_id": 578
+  },
+  {
+    "icelandic": "Hann er fertugur.",
+    "level": "4",
+    "categories": "time",
+    "row_id": 785
+  },
+  {
+    "icelandic": "Hann er fimmtugur.",
+    "level": "4",
+    "categories": "time",
+    "row_id": 786
+  },
+  {
+    "icelandic": "Hann er frægur.",
+    "english": "He is famous.",
+    "level": "1",
+    "alternative_id": "frægur",
+    "row_id": 644
+  },
+  {
+    "icelandic": "Hann er fullorðinn.",
+    "english": "He's an adult.",
+    "depends_on": "fullorðinn",
+    "level": "2",
+    "row_id": 46
+  },
+  {
+    "icelandic": "Hann er góður í íslensku.",
+    "english": "He's good at Icelandic.",
+    "depends_on": "íslenska",
+    "level": "1",
+    "row_id": 338
+  },
+  {
+    "icelandic": "Hann er hamingjusamur.",
+    "english": "He is happy.",
+    "depends_on": "hamingja",
+    "level": "2",
+    "direction": "->",
+    "row_id": 621
+  },
+  {
+    "icelandic": "Hann er hár.",
+    "english": "He is tall.",
+    "alternative_id": "hár (l)",
+    "row_id": 1081
+  },
+  {
+    "icelandic": "Hann er hærri.",
+    "english": "He is taller.",
+    "depends_on": "hár (l)",
+    "alternative_id": "hærri",
+    "row_id": 1082
+  },
+  {
+    "icelandic": "Hann er hættur að drekka kók.",
+    "english": "He has quit drinking Coke.; He no longer drinks Coke.",
+    "depends_on": "að hætta, kók, að drekka",
+    "level": "1",
+    "row_id": 372
+  },
+  {
+    "icelandic": "Hann er í flottum fötum.",
+    "english": "He's wearing stylish/elegant/good-looking clothes.",
+    "depends_on": "flottur, föt",
+    "level": "1",
+    "row_id": 400
+  },
+  {
+    "icelandic": "Hann er í góðu formi.",
+    "row_id": 1023
+  },
+  {
+    "icelandic": "Hann er í herberginu sínu.",
+    "english": "He's in his room.",
+    "depends_on": "herbergi, sinn",
+    "level": "2",
+    "row_id": 829
+  },
+  {
+    "icelandic": "Hann er í rusli yfir því.",
+    "english": "He's absolutely devastated by it.; He feels terrible about it.",
+    "depends_on": "rusl",
+    "level": "3.5",
+    "direction": "->",
+    "importance": "-0.2",
+    "row_id": 845
+  },
+  {
+    "icelandic": "Hann er Íslendingur.",
+    "english": "He's an Icelander.",
+    "depends_on": "Íslendingur",
+    "level": "1",
+    "row_id": 339
+  },
+  {
+    "icelandic": "Hann er íslenskur.",
+    "english": "He is Icelandic.",
+    "depends_on": "íslenskur",
+    "level": "1",
+    "row_id": 342
+  },
+  {
+    "icelandic": "Hann er látinn.",
+    "english": "He is deceased.",
+    "depends_on": "að látast",
+    "level": "3",
+    "direction": "->",
+    "note_after_show": "\"Látinn\" is more respectful than \"dáinn\".",
+    "alternative_id": "látinn",
+    "row_id": 534
+  },
+  {
+    "icelandic": "Hann er með flott hár.",
+    "english": "He has stylish/elegant/impressive hair.; His haircut looks good.",
+    "depends_on": "flottur, að vera með",
+    "level": "1",
+    "row_id": 399
+  },
+  {
+    "icelandic": "Hann er mjög góður að dansa.",
+    "english": "He's very good at dancing.",
+    "level": "1",
+    "row_id": 579
+  },
+  {
+    "icelandic": "Hann er mjög reiður yfir því.",
+    "english": "He's very angry about that.",
+    "depends_on": "reiður",
+    "level": "1",
+    "row_id": 196
+  },
+  {
+    "icelandic": "Hann er mættur.",
+    "english": "He is present.; He is here (and has shown up).",
+    "depends_on": "að mæta",
+    "level": "3",
+    "row_id": 509
+  },
+  {
+    "icelandic": "Hann er níræður.",
+    "level": "4.4",
+    "categories": "time",
+    "row_id": 790
+  },
+  {
+    "icelandic": "Hann er *óþolinmóður*.",
+    "english": "He is impatient.",
+    "depends_on": "þolinmóður",
+    "level": "3",
+    "alternative_id": "óþolinmóður",
+    "row_id": 524
+  },
+  {
+    "icelandic": "Hann er sextugur.",
+    "level": "4",
+    "categories": "time",
+    "row_id": 787
+  },
+  {
+    "icelandic": "Hann er sjötugur.",
+    "level": "4",
+    "categories": "time",
+    "row_id": 788
+  },
+  {
+    "icelandic": "Hann er *sköllóttur*.",
+    "english": "He's *bald*.",
+    "level": "4",
+    "alternative_id": "sköllóttur",
+    "row_id": 418
+  },
+  {
+    "icelandic": "Hann er sofandi.",
+    "english": "He's asleep.",
+    "depends_on": "sofandi",
+    "level": "2",
+    "row_id": 297
+  },
+  {
+    "icelandic": "Hann er tvítugur.",
+    "english": "He is 20 years old.",
+    "level": "4",
+    "categories": "time",
+    "row_id": 781
+  },
+  {
+    "icelandic": "Hann er úti í búð.",
+    "english": "He's at the grocery store.",
+    "level": "2",
+    "direction": "->",
+    "note_after_show": "\"Að vera úti í búð\" is a phrase.",
+    "row_id": 270
+  },
+  {
+    "icelandic": "Hann er veikur.",
+    "english": "He's ill.; He's sick.",
+    "depends_on": "veikur",
+    "level": "1",
+    "dont_confuse": "vika",
+    "row_id": 373
+  },
+  {
+    "icelandic": "Hann er vinsæll.",
+    "english": "He is popular.",
+    "depends_on": "vinur, sæll",
+    "level": "1",
+    "alternative_id": "vinsæll",
+    "row_id": 657
+  },
+  {
+    "icelandic": "Hann er *þolinmóður*.",
+    "english": "He is patient.",
+    "depends_on": "að þola",
+    "level": "3",
+    "alternative_id": "þolinmóður",
+    "row_id": 523
+  },
+  {
+    "icelandic": "Hann er þrítugur",
+    "level": "4",
+    "categories": "time",
+    "row_id": 783
+  },
+  {
+    "icelandic": "Hann fékk sér hamborgara.",
+    "english": "He had a hamburger.",
+    "depends_on": "að fá sér",
+    "level": "2",
+    "direction": "->",
+    "row_id": 89
+  },
+  {
+    "icelandic": "Hann fór án þess að borga.",
+    "english": "He went without paying.",
+    "depends_on": "án",
+    "level": "2",
+    "alternative_id": "án þess að",
+    "row_id": 878
+  },
+  {
+    "icelandic": "Hann hefur gott vald á tungumálinu.",
+    "english": "He has good command over the language.; He is quite proficient at the language.",
+    "depends_on": "vald, tungumál",
+    "level": "4",
+    "row_id": 768
+  },
+  {
+    "icelandic": "Hann hlustar ekki á pabba *sinn*.",
+    "english": "He doesn't listen to *his own* dad.",
+    "level": "1",
+    "row_id": 225
+  },
+  {
+    "icelandic": "Hann *kemur fram við mig* eins og ég sé einhver fábjáni.",
+    "english": "He *treats me* like I'm some idiot.; His *behaviour towards me* is as if I were some idiot.",
+    "depends_on": "fábjáni, að koma fram við",
+    "level": "3",
+    "row_id": 745
+  },
+  {
+    "icelandic": "Hann lést í gær.",
+    "english": "I passed away yesterday.",
+    "depends_on": "látinn",
+    "level": "3",
+    "direction": "->",
+    "row_id": 540
+  },
+  {
+    "icelandic": "Hann mælti með því.",
+    "english": "He recommended it.",
+    "level": "2",
+    "row_id": 35
+  },
+  {
+    "icelandic": "Hann sagðist hafa verið kennari.",
+    "english": "He said that he had (previously) been a teacher.; He claimed that he had (previously) been a teacher.",
+    "depends_on": "to claim something about yourself",
+    "level": "3.3",
+    "row_id": 729
+  },
+  {
+    "icelandic": "Hann sagðist myndu hjálpa mér.",
+    "english": "He said that he would help me.",
+    "depends_on": "að segjast, að munu",
+    "level": "4",
+    "row_id": 454
+  },
+  {
+    "icelandic": "Hann sagðist vera kennari.",
+    "english": "He said that he was a teacher.; He claimed to be a teacher.",
+    "depends_on": "að segjast",
+    "level": "3",
+    "row_id": 728
+  },
+  {
+    "icelandic": "Hann sagðist vera upptekinn.",
+    "english": "He said that he was busy.; He claimed to be busy.",
+    "depends_on": "að segjast",
+    "level": "2",
+    "row_id": 75
+  },
+  {
+    "icelandic": "Hann sagðist ætla að koma.",
+    "english": "He said that he was planning on coming.; He said that he would come.",
+    "depends_on": "að segjast",
+    "level": "2",
+    "row_id": 76
+  },
+  {
+    "icelandic": "Hann tók því illa.",
+    "level": "3",
+    "alternative_id": "að taka einhverju",
+    "row_id": 623
+  },
+  {
+    "icelandic": "Hann var ekkert smá pirraður.",
+    "english": "He was super annoyed",
+    "depends_on": "ekkert smá",
+    "level": "2",
+    "direction": "->",
+    "row_id": 137
+  },
+  {
+    "icelandic": "Hann var rekinn.",
+    "english": "He was fired.; He was let go from his job.",
+    "depends_on": "að reka einhvern",
+    "row_id": 1080
+  },
+  {
+    "icelandic": "Hann var sviptur ökuréttindum.",
+    "english": "His driver's permit was taken away (by the police/courts).",
+    "depends_on": "ökuréttindi, að svipta",
+    "level": "4",
+    "row_id": 774
+  },
+  {
+    "icelandic": "Hann vill fá að tala við þig.",
+    "level": "2",
+    "row_id": 611
+  },
+  {
+    "icelandic": "Hann vinnur á bar.",
+    "row_id": 1143
+  },
+  {
+    "icelandic": "Hann ætlar að tala við mömmu *sína*.",
+    "english": "He is going to talk to *his own* mom.",
+    "level": "1",
+    "row_id": 228
+  },
+  {
+    "icelandic": "Hann ætlar út í búð.",
+    "english": "He plans on going to the grocery store.",
+    "level": "2",
+    "direction": "->",
+    "note_after_show": "\"Að vera úti í búð\" is a phrase.",
+    "row_id": 271
+  },
+  {
+    "icelandic": "hálfur",
+    "english": "half",
+    "level": "2",
+    "note_bfr_show_en": "adjective",
+    "note_after_show": "\"Hálfur\" is an [[adjective]], \"helmingur\" is a [[noun]].",
+    "row_id": 1040
+  },
+  {
+    "icelandic": "hálfviti",
+    "english": "an idiot",
+    "depends_on": "hálfur, að vita",
+    "level": "2",
+    "literally": "a half-wit",
+    "row_id": 1043
+  },
+  {
+    "icelandic": "heima",
+    "english": "at home",
+    "level": "1",
+    "row_id": 242
+  },
+  {
+    "icelandic": "heimili",
+    "english": "a home; a household",
+    "depends_on": "heima",
+    "level": "3",
+    "row_id": 248
+  },
+  {
+    "icelandic": "heimsending",
+    "english": "food delivery service",
+    "depends_on": "heima, að senda",
+    "level": "2",
+    "dont_confuse": "að sækja",
+    "row_id": 114
+  },
+  {
+    "icelandic": "heimsókn",
+    "english": "a visit",
+    "depends_on": "að heimsækja",
+    "level": "1",
+    "row_id": 241
+  },
+  {
+    "icelandic": "Heldurðu að hann geti hjálpað mér?",
+    "english": "Do you think that he can help me?",
+    "depends_on": "að hjálpa",
+    "level": "3",
+    "row_id": 458
+  },
+  {
+    "icelandic": "helgi",
+    "english": "weekend",
+    "level": "1",
+    "row_id": 169
+  },
+  {
+    "icelandic": "helmingur",
+    "english": "a half",
+    "level": "2",
+    "dont_confuse": "hálfur",
+    "note_bfr_show_en": "noun",
+    "note_after_show": "\"Helmingur\" is a [[noun]], \"hálfur\" is an [[adjective]].",
+    "row_id": 1039
+  },
+  {
+    "icelandic": "helmingurinn",
+    "english": "the half",
+    "depends_on": "helmingur",
+    "level": "2",
+    "row_id": 1041
+  },
+  {
+    "icelandic": "herbergi",
+    "english": "a room",
+    "level": "2",
+    "dont_confuse": "her",
+    "row_id": 827
+  },
+  {
+    "icelandic": "herbergið",
+    "english": "the room",
+    "depends_on": "herbergi",
+    "level": "2",
+    "row_id": 828
+  },
+  {
+    "icelandic": "Heyrirðu í mér?",
+    "english": "Can you hear me?",
+    "depends_on": "að heyra",
+    "level": "1",
+    "row_id": 105
+  },
+  {
+    "icelandic": "hérna; hér",
+    "english": "here",
+    "level": "1",
+    "row_id": 724
+  },
+  {
+    "icelandic": "hins vegar",
+    "row_id": 970
+  },
+  {
+    "icelandic": "hlekkur",
+    "english": "a link (in a chain or on the internet)",
+    "level": "2",
+    "row_id": 812
+  },
+  {
+    "icelandic": "hljóð",
+    "english": "a sound;; silence",
+    "row_id": 1159
+  },
+  {
+    "icelandic": "hnífur",
+    "level": "2",
+    "row_id": 708
+  },
+  {
+    "icelandic": "Honum er illt í tönninni.",
+    "english": "His tooth hurts.",
+    "depends_on": "illt, tönn",
+    "level": "2",
+    "row_id": 320
+  },
+  {
+    "icelandic": "Honum er of heitt.",
+    "english": "He's feeling too hot.",
+    "level": "2",
+    "row_id": 62
+  },
+  {
+    "icelandic": "Honum líður ekki vel.",
+    "english": "He doesn't feel good.",
+    "level": "1",
+    "row_id": 166
+  },
+  {
+    "icelandic": "horfði skringilega á mig",
+    "row_id": 1099
+  },
+  {
+    "icelandic": "hratt",
+    "english": "quickly; quick; fast",
+    "level": "1",
+    "alternative_id": "hraður",
+    "row_id": 636
+  },
+  {
+    "icelandic": "hreimur",
+    "english": "a foreign accent",
+    "level": "2",
+    "row_id": 631
+  },
+  {
+    "icelandic": "hræddur",
+    "english": "scared",
+    "level": "3",
+    "row_id": 567
+  },
+  {
+    "icelandic": "hræðilegur",
+    "english": "terrible; extremely bad; awful",
+    "depends_on": "hræddur",
+    "level": "1",
+    "direction": "->",
+    "literally": "frightening",
+    "row_id": 566
+  },
+  {
+    "icelandic": "hundraðkall",
+    "english": "100 ISK coin",
+    "level": "2",
+    "row_id": 554
+  },
+  {
+    "icelandic": "hún",
+    "english": "she",
+    "level": "1",
+    "row_id": 1115
+  },
+  {
+    "icelandic": "Hún býr með foreldrum sínum.",
+    "english": "She lives with her parents.",
+    "level": "1",
+    "row_id": 119
+  },
+  {
+    "icelandic": "Hún er alltaf að skipta sér af hlutum sem koma henni ekki við.",
+    "english": "She's always sticking her nose into things that are none of her business.",
+    "depends_on": "að koma einhverjum við, að skipta sér af",
+    "level": "3",
+    "row_id": 662
+  },
+  {
+    "icelandic": "Hún er alltaf þreytt.",
+    "english": "She's always tired.",
+    "depends_on": "þreyttur",
+    "level": "1",
+    "row_id": 289
+  },
+  {
+    "icelandic": "Hún er blind.",
+    "english": "She is blind.",
+    "depends_on": "blindur",
+    "level": "3",
+    "row_id": 499
+  },
+  {
+    "icelandic": "Hún er ekki búin að borða neitt í dag.",
+    "row_id": 986
+  },
+  {
+    "icelandic": "Hún er ekki viss um það.",
+    "english": "She's not sure about it.",
+    "depends_on": "viss",
+    "level": "2",
+    "row_id": 680
+  },
+  {
+    "icelandic": "Hún er fullorðin.",
+    "english": "She's an adult.",
+    "depends_on": "fullorðinn",
+    "level": "2",
+    "row_id": 47
+  },
+  {
+    "icelandic": "Hún er góð í því.",
+    "english": "She is good at it.",
+    "depends_on": "góður",
+    "level": "1",
+    "row_id": 601
+  },
+  {
+    "icelandic": "Hún er Íslendingur.",
+    "english": "She's an Icelander.",
+    "depends_on": "Íslendingur",
+    "level": "1",
+    "row_id": 341
+  },
+  {
+    "icelandic": "Hún er íslensk.",
+    "english": "She is Icelandic.",
+    "depends_on": "íslenskur",
+    "level": "1",
+    "row_id": 343
+  },
+  {
+    "icelandic": "Hún er reið yfir því.",
+    "english": "She's angry about that.",
+    "depends_on": "reiður",
+    "level": "1",
+    "row_id": 197
+  },
+  {
+    "icelandic": "Hún er tvítug.",
+    "english": "She is 20 years old",
+    "level": "4",
+    "categories": "time",
+    "row_id": 782
+  },
+  {
+    "icelandic": "Hún er þriggja barna móðir.",
+    "english": "She is the mother of three children.",
+    "row_id": 936
+  },
+  {
+    "icelandic": "Hún er þrítug.",
+    "level": "4",
+    "categories": "time",
+    "row_id": 784
+  },
+  {
+    "icelandic": "Hún kemur vel fram við mig.",
+    "english": "She treats me well.; Her behaviour towards me is good.",
+    "depends_on": "að koma fram við",
+    "level": "3",
+    "row_id": 746
+  },
+  {
+    "icelandic": "hún segir",
+    "english": "she says",
+    "basic_form": "að segja",
+    "level": "1",
+    "row_id": 1107
+  },
+  {
+    "icelandic": "Hún svipti sig lífi.",
+    "english": "She committed suicide.",
+    "depends_on": "líf, að svipta",
+    "level": "4.1",
+    "row_id": 775
+  },
+  {
+    "icelandic": "Hún ætlar að tala við mömmu *hans*.",
+    "english": "She is going to talk to *his* mom.",
+    "level": "1",
+    "row_id": 230
+  },
+  {
+    "icelandic": "Hún ætlar að tala við mömmu *sína*.",
+    "english": "She is going to talk to *her own* mom.",
+    "level": "1",
+    "row_id": 229
+  },
+  {
+    "icelandic": "hvað?",
+    "english": "what?",
+    "level": "1",
+    "alternative_id": "hvað",
+    "row_id": 1104
+  },
+  {
+    "icelandic": "Hvaða mál er talað þar?",
+    "row_id": 983
+  },
+  {
+    "icelandic": "Hvaðan ertu?",
+    "english": "Where are you from?",
+    "depends_on": "hvaðan",
+    "level": "2",
+    "row_id": 12
+  },
+  {
+    "icelandic": "Hvað á ég að gera?",
+    "english": "What am I supposed to do?",
+    "depends_on": "að eiga að, að gera",
+    "level": "1",
+    "row_id": 3
+  },
+  {
+    "icelandic": "Hvað á hann við með því?",
+    "english": "What does he mean with that?",
+    "depends_on": "að eiga við",
+    "basic_form": "að eiga við",
+    "level": "2",
+    "row_id": 806
+  },
+  {
+    "icelandic": "Hvað áttu við?",
+    "english": "What do you mean?; What are you referring to?",
+    "depends_on": "að eiga við",
+    "level": "2",
+    "direction": "->",
+    "row_id": 157
+  },
+  {
+    "icelandic": "Hvað er að gerast?",
+    "english": "What's going on?; What is happening?",
+    "depends_on": "að gerast",
+    "level": "1",
+    "row_id": 410
+  },
+  {
+    "icelandic": "Hvað ertu að gera?",
+    "english": "What are you doing?",
+    "level": "1",
+    "row_id": 51
+  },
+  {
+    "icelandic": "Hvað ertu að horfa á?; Á hvað ertu að horfa?",
+    "english": "What are you watching?",
+    "depends_on": "að horfa á",
+    "level": "1",
+    "row_id": 495
+  },
+  {
+    "icelandic": "Hvað ertu eiginlega að tala um?",
+    "row_id": 953
+  },
+  {
+    "icelandic": "Hvað ertu kominn langt?",
+    "row_id": 948
+  },
+  {
+    "icelandic": "Hvað ertu með á vörinni?",
+    "english": "What do you have on your lip?",
+    "depends_on": "vör",
+    "level": "2",
+    "row_id": 882
+  },
+  {
+    "icelandic": "Hvað ert þú búinn að læra íslensku lengi?",
+    "english": "For how long have you been learning Icelandic?",
+    "depends_on": "lengi",
+    "level": "1",
+    "row_id": 335
+  },
+  {
+    "icelandic": "Hvað er það aftur?",
+    "english": "What's that again?; Tell me again∆ what's that?",
+    "level": "2",
+    "row_id": 179
+  },
+  {
+    "icelandic": "Hvað er þetta eiginlega?",
+    "row_id": 951
+  },
+  {
+    "icelandic": "Hvað fékkstu í afmælisgjöf?",
+    "row_id": 1147
+  },
+  {
+    "icelandic": "Hvað finnst þér um það?",
+    "english": "What do you think of that?",
+    "depends_on": "að finnast",
+    "level": "1",
+    "row_id": 769
+  },
+  {
+    "icelandic": "Hvað gerðirðu um helgina?",
+    "english": "What did you do this weekend?",
+    "level": "2",
+    "row_id": 171
+  },
+  {
+    "icelandic": "Hvað gerðirðu við hann?",
+    "english": "What did you do to him?",
+    "depends_on": "að gera",
+    "level": "2",
+    "dont_confuse": "að gera við einhvern",
+    "alternative_id": "að gera við einhvern",
+    "row_id": 682
+  },
+  {
+    "icelandic": "Hvað gerðist?",
+    "english": "What happened?",
+    "depends_on": "að gerast",
+    "level": "1",
+    "row_id": 409
+  },
+  {
+    "icelandic": "Hvað heitir hann?",
+    "english": "What's his name?",
+    "depends_on": "að heita",
+    "level": "1",
+    "row_id": 213
+  },
+  {
+    "icelandic": "Hvað heitir kötturinn þinn?",
+    "english": "What's your cat's name?",
+    "depends_on": "að heita",
+    "level": "1",
+    "row_id": 216
+  },
+  {
+    "icelandic": "Hvað í andskotanum ertu að gera?; Hvað í fjandanum ertu að gera?",
+    "english": "What the hell are you doing?",
+    "depends_on": "andskoti, fjandi",
+    "level": "2",
+    "direction": "->",
+    "categories": "rude",
+    "row_id": 500
+  },
+  {
+    "icelandic": "Hvað meinarðu?",
+    "english": "What do you mean?",
+    "level": "1",
+    "row_id": 143
+  },
+  {
+    "icelandic": "Hvað segirðu gott?",
+    "english": "How are you?",
+    "depends_on": "þú segir",
+    "level": "1",
+    "note_after_show": "\"Segirðu\" is made by combining \"segir\" + \"þú\".",
+    "literally": "What do you say that is good?",
+    "row_id": 1112
+  },
+  {
+    "icelandic": "Hvað skulda ég þér mikið?",
+    "row_id": 922
+  },
+  {
+    "icelandic": "Hvað tekurðu mikið á tímann?",
+    "english": "What is your hourly rate?; How much do you charge for each hour of your time?",
+    "depends_on": "að taka, tími, mikill",
+    "level": "3.3",
+    "row_id": 756
+  },
+  {
+    "icelandic": "Hvað tekur það langan tíma?",
+    "english": "How long does it take?",
+    "depends_on": "tími, langur",
+    "level": "1",
+    "row_id": 362
+  },
+  {
+    "icelandic": "Hvað viltu fá?",
+    "english": "What do you want to get?",
+    "depends_on": "að fá",
+    "level": "1",
+    "row_id": 276
+  },
+  {
+    "icelandic": "Hvað viltu marga poka?",
+    "english": "How many bags do you want?",
+    "depends_on": "að vilja, poki",
+    "level": "1",
+    "row_id": 153
+  },
+  {
+    "icelandic": "Hvað viltu mikið?; Hversu mikið viltu?",
+    "english": "How much do you want?",
+    "level": "1",
+    "row_id": 20
+  },
+  {
+    "icelandic": "Hvað þarftu eiginlega marga poka?",
+    "row_id": 952
+  },
+  {
+    "icelandic": "Hvað þýðir þetta orð?",
+    "english": "What does this word mean?",
+    "level": "1",
+    "row_id": 202
+  },
+  {
+    "icelandic": "Hvað ætlarðu að gera á eftir?",
+    "english": "What are you going to do later today?",
+    "level": "1",
+    "row_id": 49
+  },
+  {
+    "icelandic": "Hvað ætlarðu að gera á Íslandi?",
+    "english": "What are you going to do in Iceland?",
+    "level": "1",
+    "row_id": 592
+  },
+  {
+    "icelandic": "Hvað ætlarðu að gera á morgun?",
+    "english": "What are you going to do tomorrow?",
+    "level": "1",
+    "row_id": 50
+  },
+  {
+    "icelandic": "Hvað ætlarðu að gera um helgina?",
+    "english": "What are you going to do this weekend?",
+    "level": "1",
+    "row_id": 170
+  },
+  {
+    "icelandic": "Hvað ætlar þú að gera í dag?",
+    "english": "What do you plan on doing today?",
+    "level": "1",
+    "row_id": 231
+  },
+  {
+    "icelandic": "Hvað ætlar þú að gera í kvöld?",
+    "english": "What are you going to do this evening?",
+    "level": "1",
+    "row_id": 258
+  },
+  {
+    "icelandic": "Hvað ætlar þú að kaupa úti í búð?",
+    "english": "What are you going to buy in the grocery store?",
+    "depends_on": "að kaupa, búð",
+    "level": "1",
+    "row_id": 588
+  },
+  {
+    "icelandic": "Hvar áttu heima?",
+    "english": "Where do you live?; What's your address?",
+    "basic_form": "að eiga heima",
+    "direction": "->",
+    "literally": "Where do you have home?",
+    "row_id": 246
+  },
+  {
+    "icelandic": "Hvar býrðu?",
+    "english": "Where do you live?",
+    "level": "1",
+    "direction": "->",
+    "row_id": 245
+  },
+  {
+    "icelandic": "Hvar býrðu?; Hvar áttu heima?",
+    "english": "Where do you live?",
+    "level": "1",
+    "direction": "<-",
+    "row_id": 244
+  },
+  {
+    "icelandic": "Hvar býr vinur þinn?",
+    "english": "Where does your friend live?",
+    "level": "1",
+    "row_id": 357
+  },
+  {
+    "icelandic": "Hvar er hann?",
+    "english": "Where is he?",
+    "depends_on": "hvar",
+    "level": "1",
+    "row_id": 466
+  },
+  {
+    "icelandic": "Hvar er salernið?",
+    "english": "Where is the W.C.?; Where is the toilet?",
+    "depends_on": "salerni",
+    "level": "3",
+    "row_id": 697
+  },
+  {
+    "icelandic": "Hvar ætlar þú að búa?",
+    "english": "Where do you plan on living?",
+    "depends_on": "að búa",
+    "level": "1",
+    "row_id": 217
+  },
+  {
+    "icelandic": "Hvenær áttu von á honum?",
+    "row_id": 964
+  },
+  {
+    "icelandic": "Hvenær er opið?",
+    "depends_on": "opinn",
+    "level": "2",
+    "row_id": 1054
+  },
+  {
+    "icelandic": "Hvenær hentar þér að koma?",
+    "depends_on": "að henta",
+    "row_id": 972
+  },
+  {
+    "icelandic": "Hvenær kemstu?",
+    "english": "When will you be able to come?",
+    "depends_on": "að komast",
+    "level": "2",
+    "row_id": 478
+  },
+  {
+    "icelandic": "Hvenær opnar?",
+    "depends_on": "að opna",
+    "level": "2",
+    "row_id": 1052
+  },
+  {
+    "icelandic": "Hvenær ætlar þú að koma til Íslands?",
+    "english": "When are you going to come to Iceland?",
+    "level": "1",
+    "row_id": 263
+  },
+  {
+    "icelandic": "Hver er tilgangurinn með þessu?",
+    "english": "What's the purpose of this?",
+    "depends_on": "tilgangur",
+    "level": "3",
+    "row_id": 959
+  },
+  {
+    "icelandic": "Hver er þetta?",
+    "english": "Who is this?",
+    "depends_on": "hver",
+    "level": "1",
+    "row_id": 467
+  },
+  {
+    "icelandic": "Hver heldurðu eiginlega að þú sért?",
+    "english": "Who do you think you are?!",
+    "depends_on": "eiginlega",
+    "level": "3",
+    "row_id": 141
+  },
+  {
+    "icelandic": "Hverjum er ekki sama?",
+    "english": "Who cares?",
+    "depends_on": "sama",
+    "level": "3",
+    "row_id": 8
+  },
+  {
+    "icelandic": "Hvernig bíl áttu?; Hvers konar bíl áttu?",
+    "english": "What kind of a car do you own?",
+    "level": "1",
+    "row_id": 17
+  },
+  {
+    "icelandic": "Hvernig er veðrið?",
+    "row_id": 925
+  },
+  {
+    "icelandic": "Hvernig finnst þér?",
+    "english": "How do you like (it)?",
+    "Laga?": "hmmm",
+    "row_id": 1138
+  },
+  {
+    "icelandic": "Hvernig gengur?",
+    "english": "How is it going with the task that you're working on?; Are you making good progress?",
+    "depends_on": "að ganga",
+    "level": "1",
+    "row_id": 718
+  },
+  {
+    "icelandic": "Hvernig gerir maður þetta?",
+    "english": "How does one do this?",
+    "level": "1",
+    "row_id": 18
+  },
+  {
+    "icelandic": "Hvernig hefurðu efni á þessu?",
+    "english": "How can you afford this?",
+    "level": "2",
+    "row_id": 127
+  },
+  {
+    "icelandic": "Hvernig líður þér?",
+    "english": "How are you feeling?; How do you feel?",
+    "depends_on": "að líða",
+    "level": "1",
+    "row_id": 629
+  },
+  {
+    "icelandic": "Hvernig líst þér á?",
+    "english": "How do you like the looks of this?; Do you approve of this?",
+    "depends_on": "að lítast á",
+    "level": "1",
+    "row_id": 100
+  },
+  {
+    "icelandic": "Hvernig lítur þetta út?",
+    "english": "How does this look?",
+    "depends_on": "að líta út",
+    "level": "1",
+    "row_id": 569
+  },
+  {
+    "icelandic": "Hvernig segir maður X á íslensku?",
+    "english": "How do you say X in Icelandic?",
+    "depends_on": "að segja",
+    "level": "1",
+    "row_id": 161
+  },
+  {
+    "icelandic": "Hvernig þýðir maður þetta?",
+    "english": "How does one translate this?",
+    "level": "2",
+    "row_id": 204
+  },
+  {
+    "icelandic": "Hversu vandræðalegt!; En vandræðalegt!",
+    "english": "How awkward!",
+    "depends_on": "vandræðalegt",
+    "level": "2",
+    "row_id": 877
+  },
+  {
+    "icelandic": "Hvert langar þig að fara?",
+    "english": "Where do you want to go?",
+    "depends_on": "hvert, að langa",
+    "level": "1",
+    "row_id": 13
+  },
+  {
+    "icelandic": "Hvert langar þig að fara á eftir?",
+    "english": "Where do you want to go later today?",
+    "depends_on": "hvert, á eftir, að langa",
+    "level": "1",
+    "row_id": 14
+  },
+  {
+    "icelandic": "Hvort viltu?",
+    "english": "Which of the two items do you want?",
+    "depends_on": "hvor",
+    "level": "2",
+    "row_id": 21
+  },
+  {
+    "icelandic": "hæ",
+    "english": "hi",
+    "note_after_show": "A very common greeting among friends.",
+    "row_id": 1133
+  },
+  {
+    "icelandic": "hægt",
+    "english": "slow;; doable; possible; achievable",
+    "level": "1",
+    "alternative_id": "hægur",
+    "row_id": 635
+  },
+  {
+    "icelandic": "hækjur",
+    "english": "crutches (to help you walk when you are injured)",
+    "level": "4",
+    "categories": "health",
+    "alternative_id": "hækja",
+    "row_id": 637
+  },
+  {
+    "icelandic": "hækkun",
+    "english": "an increase",
+    "depends_on": "að hækka",
+    "row_id": 1084
+  },
+  {
+    "icelandic": "Hættu þessu.",
+    "row_id": 1148
+  },
+  {
+    "icelandic": "höfuð; haus",
+    "english": "a head",
+    "level": "2",
+    "row_id": 689
+  },
+  {
+    "icelandic": "höfuðið; hausinn",
+    "english": "the head",
+    "depends_on": "höfuð, haus",
+    "level": "2",
+    "row_id": 692
+  },
+  {
+    "icelandic": "höfuðverkur; hausverkur",
+    "english": "a headache",
+    "depends_on": "höfuð, haus, verkur",
+    "level": "2",
+    "row_id": 691
+  },
+  {
+    "icelandic": "Höfum við hist áður?",
+    "english": "Have we met each other before?",
+    "basic_form": "að hittast",
+    "level": "2",
+    "row_id": 56
+  },
+  {
+    "icelandic": "i∆ í∆ joð∆ ká",
+    "english": "What is the name of the letters \"I∆ Í∆ J∆ K\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1032
+  },
+  {
+    "icelandic": "It went well.",
+    "english": "It went well.",
+    "depends_on": "að ganga, vel",
+    "level": "2",
+    "row_id": 642
+  },
+  {
+    "icelandic": "í",
+    "english": "in;; into",
+    "row_id": 1119
+  },
+  {
+    "icelandic": "Í alvöru?",
+    "english": "Really?",
+    "depends_on": "alvara",
+    "level": "1",
+    "row_id": 254
+  },
+  {
+    "icelandic": "í dag",
+    "english": "today",
+    "level": "1",
+    "row_id": 235
+  },
+  {
+    "icelandic": "í fyrra",
+    "english": "last year",
+    "depends_on": "fyrri",
+    "level": "2",
+    "row_id": 539
+  },
+  {
+    "icelandic": "í gærkvöld",
+    "english": "yesterday evening",
+    "depends_on": "kvöld, í gær",
+    "level": "3",
+    "row_id": 395
+  },
+  {
+    "icelandic": "Í hvernig fötum ertu?",
+    "english": "What type of clothes are you wearing?",
+    "depends_on": "föt, að vera í",
+    "level": "1",
+    "row_id": 403
+  },
+  {
+    "icelandic": "í kvöld",
+    "english": "this evening",
+    "depends_on": "kvöld",
+    "level": "1",
+    "row_id": 393
+  },
+  {
+    "icelandic": "í mesta lagi",
+    "english": "at maximum",
+    "depends_on": "mikið",
+    "level": "2",
+    "row_id": 110
+  },
+  {
+    "icelandic": "í minnsta lagi",
+    "english": "at minimum",
+    "depends_on": "lítið",
+    "level": "2",
+    "row_id": 111
+  },
+  {
+    "icelandic": "Í Póllandi er töluð pólska.",
+    "row_id": 982
+  },
+  {
+    "icelandic": "Ísland",
+    "english": "Iceland",
+    "level": "1",
+    "row_id": 336
+  },
+  {
+    "icelandic": "Íslendingur",
+    "english": "an Icelander; an Icelandic person",
+    "level": "1",
+    "row_id": 340
+  },
+  {
+    "icelandic": "íslenska",
+    "english": "Icelandic language",
+    "depends_on": "Ísland",
+    "level": "1",
+    "row_id": 337
+  },
+  {
+    "icelandic": "jarðarför",
+    "english": "a funeral; a burial",
+    "depends_on": "jörð, að fara",
+    "level": "3.8",
+    "direction": "->",
+    "row_id": 899
+  },
+  {
+    "icelandic": "jarðarför; útför",
+    "english": "a funeral",
+    "depends_on": "jörð, að fara",
+    "level": "3.8",
+    "direction": "<-",
+    "row_id": 901
+  },
+  {
+    "icelandic": "Je minn eini.",
+    "row_id": 1162
+  },
+  {
+    "icelandic": "Jesús Kristur",
+    "english": "Jesus Christ",
+    "level": "3",
+    "row_id": 518
+  },
+  {
+    "icelandic": "kaffi",
+    "english": "coffee",
+    "level": "1",
+    "row_id": 286
+  },
+  {
+    "icelandic": "kaffið",
+    "english": "the coffee",
+    "depends_on": "kaffi",
+    "level": "1",
+    "row_id": 287
+  },
+  {
+    "icelandic": "kannski",
+    "english": "maybe",
+    "level": "1",
+    "dont_confuse": "stundum",
+    "row_id": 480
+  },
+  {
+    "icelandic": "Kanntu mörg tungumál?; Kanntu mörg mál?",
+    "english": "Do you know many languages?",
+    "depends_on": "tungumál, mál",
+    "level": "2",
+    "row_id": 510
+  },
+  {
+    "icelandic": "Kannt þú að elda?",
+    "english": "Do you know how to cook?",
+    "level": "1",
+    "row_id": 65
+  },
+  {
+    "icelandic": "Kemstu á morgun?",
+    "english": "Will you be able to come tomorrow?",
+    "depends_on": "að komast",
+    "level": "2",
+    "row_id": 479
+  },
+  {
+    "icelandic": "kennari",
+    "english": "a teacher",
+    "level": "1",
+    "row_id": 210
+  },
+  {
+    "icelandic": "kennarinn",
+    "english": "the teacher",
+    "level": "1",
+    "row_id": 211
+  },
+  {
+    "icelandic": "kindin",
+    "english": "the sheep (note: singular)",
+    "basic_form": "kind",
+    "alternative_id": "kind",
+    "row_id": 1129
+  },
+  {
+    "icelandic": "kínverska",
+    "row_id": 980
+  },
+  {
+    "icelandic": "klósett",
+    "english": "a toilet; W.C.",
+    "level": "2",
+    "dont_confuse": "salerni",
+    "direction": "->",
+    "note_after_show": "Usually refers to the toilet itself but can also refer to the bathroom. Is more vulgar than \"salerni\".",
+    "row_id": 693
+  },
+  {
+    "icelandic": "klósettið",
+    "english": "the toilet",
+    "depends_on": "klósett",
+    "level": "2",
+    "direction": "->",
+    "row_id": 694
+  },
+  {
+    "icelandic": "Klósettið þitt er bilað.",
+    "english": "Your toilet is broken.; Your toilet doesn't work.",
+    "depends_on": "bilaður, klósett",
+    "level": "2",
+    "row_id": 695
+  },
+  {
+    "icelandic": "klósettpappír",
+    "english": "toilet paper",
+    "depends_on": "pappír, klósett",
+    "level": "2",
+    "row_id": 698
+  },
+  {
+    "icelandic": "Klukkuna vantar fimm mínutur í átta.",
+    "english": "It's five minutes to 8:00.",
+    "level": "6",
+    "direction": "->",
+    "note_after_show": "Used by older speakers and in formal speech.",
+    "row_id": 1096
+  },
+  {
+    "icelandic": "Komdu hingað.",
+    "row_id": 1139
+  },
+  {
+    "icelandic": "Komdu til mín.",
+    "english": "Come to me.",
+    "depends_on": "að koma",
+    "level": "2",
+    "grammar_tags": "bh",
+    "row_id": 459
+  },
+  {
+    "icelandic": "Komdu út.",
+    "english": "Come outside.",
+    "depends_on": "að koma",
+    "level": "2",
+    "grammar_tags": "bh",
+    "row_id": 497
+  },
+  {
+    "icelandic": "kona",
+    "english": "a woman;; a wife",
+    "level": "1",
+    "row_id": 326
+  },
+  {
+    "icelandic": "Konan mín er tónlistarmaður.",
+    "english": "My wife is a musician.",
+    "depends_on": "kona, tónlistarmaður",
+    "level": "1",
+    "row_id": 328
+  },
+  {
+    "icelandic": "kvenréttindi",
+    "row_id": 942
+  },
+  {
+    "icelandic": "Kærar kveðjur.",
+    "english": "Best regards.",
+    "depends_on": "kær, kveðja",
+    "level": "2",
+    "note_bfr_show_en": "Used at the end of emails.",
+    "literally": "Cherished greetings.",
+    "row_id": 131
+  },
+  {
+    "icelandic": "kærasta",
+    "english": "girlfriend",
+    "depends_on": "kær",
+    "level": "1",
+    "dont_confuse": "kærasti",
+    "row_id": 436
+  },
+  {
+    "icelandic": "kærasti",
+    "english": "boyfriend",
+    "depends_on": "kær",
+    "level": "1",
+    "row_id": 435
+  },
+  {
+    "icelandic": "landnám",
+    "english": "the settlement of Iceland",
+    "level": "4",
+    "note_after_show": "The term is only used for the settlement of Iceland which occurred in the 9th and 10th centuries. „Að nema land“ is to settle land.",
+    "row_id": 1126
+  },
+  {
+    "icelandic": "Langar þig að koma með?",
+    "english": "Do you want to come along?",
+    "level": "1",
+    "direction": "->",
+    "row_id": 412
+  },
+  {
+    "icelandic": "Langar þig að vera með okkur?",
+    "english": "Do you want to be with us?",
+    "depends_on": "að vera með",
+    "level": "1",
+    "row_id": 413
+  },
+  {
+    "icelandic": "Láttu mig vera.",
+    "english": "Leave me alone.; Let me be.",
+    "depends_on": "að láta",
+    "level": "4",
+    "row_id": 1
+  },
+  {
+    "icelandic": "Láttu mig vita.",
+    "english": "Let me know.; Please inform me.",
+    "level": "2.9",
+    "grammar_tags": "bh",
+    "row_id": 831
+  },
+  {
+    "icelandic": "Leyfðu mér að hugsa.",
+    "english": "Allow me to think.",
+    "level": "3",
+    "row_id": 918
+  },
+  {
+    "icelandic": "lélegur",
+    "dont_confuse": "slæmur",
+    "row_id": 984
+  },
+  {
+    "icelandic": "Léstu hann vita af því?",
+    "english": "Did you let him know about it?",
+    "depends_on": "að láta vita, að láta",
+    "level": "2.2",
+    "row_id": 913
+  },
+  {
+    "icelandic": "Líður þér eitthvað öðruvísi?",
+    "level": "2",
+    "row_id": 889
+  },
+  {
+    "icelandic": "líka",
+    "english": "also",
+    "row_id": 1137
+  },
+  {
+    "icelandic": "Líst mér á!",
+    "depends_on": "Mér líst vel á það.",
+    "row_id": 1141
+  },
+  {
+    "icelandic": "lítill",
+    "english": "little; small",
+    "grammar_note f/icelandic": "masculine",
+    "row_id": 1132
+  },
+  {
+    "icelandic": "loksins",
+    "row_id": 1167
+  },
+  {
+    "icelandic": "lyklaborðið",
+    "english": "the computer keyboard",
+    "depends_on": "lykill, borð",
+    "level": "3",
+    "alternative_id": "lyklaborð",
+    "row_id": 809
+  },
+  {
+    "icelandic": "maður",
+    "english": "a man;; a person;; a husband",
+    "level": "1",
+    "row_id": 327
+  },
+  {
+    "icelandic": "Maður verður víst *að fylgja fyrirmælum lögreglu*.",
+    "english": "I suppose that one does have to *follow police orders*.",
+    "depends_on": "vís, fyrirmæli, lögregla",
+    "level": "4",
+    "row_id": 640
+  },
+  {
+    "icelandic": "mamma",
+    "english": "a mom; a mother",
+    "level": "1",
+    "row_id": 1114
+  },
+  {
+    "icelandic": "mamma mín",
+    "english": "my mom",
+    "depends_on": "mamma",
+    "basic_form": "minn",
+    "row_id": 1135
+  },
+  {
+    "icelandic": "Mamma mín dó í fyrra.; Mamma mín lést í fyrra.",
+    "english": "My mother died last year.",
+    "depends_on": "að deyja, að látast, í fyrra",
+    "level": "3",
+    "row_id": 538
+  },
+  {
+    "icelandic": "Mamma mín er dáin.",
+    "english": "My mother is deceased.",
+    "depends_on": "dáinn",
+    "level": "3",
+    "row_id": 537
+  },
+  {
+    "icelandic": "mamma þín",
+    "english": "your mom",
+    "depends_on": "mamma",
+    "basic_form": "þinn",
+    "row_id": 1136
+  },
+  {
+    "icelandic": "Mamma þín kemur ekki vel fram við mig.",
+    "english": "Your mother does not treat me well.; Your mother does not show good behaviour towards me.",
+    "depends_on": "að koma fram við",
+    "level": "3",
+    "row_id": 744
+  },
+  {
+    "icelandic": "Manstu?",
+    "english": "Do you remember?",
+    "level": "1.4",
+    "row_id": 841
+  },
+  {
+    "icelandic": "margir",
+    "english": "many;; many people",
+    "depends_on": "margur",
+    "level": "1",
+    "row_id": 42
+  },
+  {
+    "icelandic": "margt",
+    "english": "many things",
+    "depends_on": "margur",
+    "level": "1",
+    "row_id": 43
+  },
+  {
+    "icelandic": "Má bjóða þér afritið?",
+    "english": "Can I offer you the receipt?",
+    "depends_on": "að mega, afrit",
+    "level": "2",
+    "direction": "->",
+    "categories": "formal",
+    "row_id": 475
+  },
+  {
+    "icelandic": "mál",
+    "english": "an issue; a matter;; a language",
+    "level": "1",
+    "row_id": 310
+  },
+  {
+    "icelandic": "meðfylgjandi",
+    "depends_on": "að fylgja með",
+    "level": "4",
+    "should_teach": "no",
+    "row_id": 83
+  },
+  {
+    "icelandic": "Meðfylgjandi er ferilskráin mín.",
+    "english": "My resume is attached.; In the attached document you will find my resume.",
+    "depends_on": "meðfylgjandi, ferilskrá",
+    "level": "4",
+    "note_after_show": "A sentence that is only used in formal emails.",
+    "categories": "formal",
+    "row_id": 82
+  },
+  {
+    "icelandic": "meiddur; slasaður",
+    "level": "4",
+    "row_id": 608
+  },
+  {
+    "icelandic": "Mér datt í hug að fara í sund.",
+    "english": "The idea occurred to me that I could go swimming.; I was thinking about going swimming.",
+    "depends_on": "að detta í hug",
+    "level": "2",
+    "row_id": 675
+  },
+  {
+    "icelandic": "Mér datt í hug að við gætum hist á morgun.",
+    "english": "I was thinking that we could meet up tomorrow.; It occurred to me that we could meet up tomorrow.",
+    "depends_on": "að detta í hug",
+    "level": "3",
+    "row_id": 676
+  },
+  {
+    "icelandic": "Mér dettur ekkert í hug.",
+    "english": "I can't think of anything.; Nothing comes to mind.",
+    "depends_on": "að detta í hug",
+    "level": "2",
+    "row_id": 677
+  },
+  {
+    "icelandic": "Mér er alltaf kalt.",
+    "english": "I'm always cold.",
+    "level": "2",
+    "row_id": 192
+  },
+  {
+    "icelandic": "Mér er alveg sama.",
+    "english": "I don't care at all.",
+    "depends_on": "sama",
+    "level": "3",
+    "row_id": 6
+  },
+  {
+    "icelandic": "Mér er illt í maganum.",
+    "english": "My stomach hurts.",
+    "depends_on": "illt, magi",
+    "level": "2",
+    "row_id": 317
+  },
+  {
+    "icelandic": "Mér er illt í tánni.",
+    "english": "My toe hurts.",
+    "depends_on": "illt, tá",
+    "level": "2",
+    "row_id": 319
+  },
+  {
+    "icelandic": "Mér er kalt.",
+    "english": "I'm cold.; I'm feeling cold.",
+    "level": "1",
+    "row_id": 60
+  },
+  {
+    "icelandic": "Mér er kalt af því að ég er ekki með vettlinga.",
+    "english": "I'm cold because I don't have mittens.",
+    "basic_form": "vettlingur",
+    "level": "3",
+    "row_id": 61
+  },
+  {
+    "icelandic": "Mér er sama.",
+    "english": "I don't care.",
+    "depends_on": "sama",
+    "level": "3",
+    "row_id": 5
+  },
+  {
+    "icelandic": "Mér finnst gott að leggja mig á daginn.",
+    "basic_form": "að leggja sig",
+    "row_id": 1017
+  },
+  {
+    "icelandic": "Mér finnst kaffi líka gott.",
+    "english": "I also like coffee.",
+    "depends_on": "líka, kaffi, að finnast",
+    "level": "1",
+    "row_id": 688
+  },
+  {
+    "icelandic": "Mér finnst það fyndið.",
+    "english": "I find it to be funny.",
+    "depends_on": "fyndinn",
+    "level": "1",
+    "row_id": 405
+  },
+  {
+    "icelandic": "Mér gæti ekki verið meira sama.",
+    "english": "I could not care less.",
+    "depends_on": "sama",
+    "level": "3",
+    "row_id": 7
+  },
+  {
+    "icelandic": "Mér leiðist.",
+    "english": "I'm bored.",
+    "depends_on": "að leiðast, leiðinlegur",
+    "basic_form": "að leiðast",
+    "level": "2.9",
+    "row_id": 106
+  },
+  {
+    "icelandic": "Mér líður alveg eins.",
+    "level": "2",
+    "row_id": 888
+  },
+  {
+    "icelandic": "Mér líður betur.",
+    "english": "I feel better.",
+    "depends_on": "betur",
+    "level": "1",
+    "row_id": 576
+  },
+  {
+    "icelandic": "Mér líður ekkert öðruvísi.",
+    "level": "2",
+    "row_id": 890
+  },
+  {
+    "icelandic": "Mér líður ekki vel.",
+    "english": "I don't feel good.",
+    "depends_on": "að líða, vel",
+    "level": "1",
+    "row_id": 4
+  },
+  {
+    "icelandic": "Mér líður illa.",
+    "english": "I feel bad.",
+    "level": "1",
+    "row_id": 164
+  },
+  {
+    "icelandic": "Mér líður vel.",
+    "english": "I feel good.",
+    "level": "1",
+    "row_id": 165
+  },
+  {
+    "icelandic": "Mér líður ömurlega.; Mér líður hræðilega.",
+    "english": "I feel terrible.; I feel like shit.",
+    "depends_on": "ömurlegur, hræðilegur",
+    "level": "2",
+    "row_id": 574
+  },
+  {
+    "icelandic": "Mér líst ekki vel á þetta.",
+    "english": "I don't like the looks of this.",
+    "depends_on": "að lítast á",
+    "level": "1",
+    "row_id": 101
+  },
+  {
+    "icelandic": "Mér líst vel á það.",
+    "row_id": 1142
+  },
+  {
+    "icelandic": "Mér sýnist ég vera laus á morgun.",
+    "english": "As far as I can see∆ I am free tomorrow.; It appears to me that I am free tomorrow.",
+    "depends_on": "að sýna, laus",
+    "level": "2.2",
+    "alternative_id": "að sýnast",
+    "row_id": 796
+  },
+  {
+    "icelandic": "Mér þykir leitt að hafa brugðist þér.",
+    "english": "I am sad for having let you down.; I am sad for having failed you.",
+    "depends_on": "að bregðast, að þykja leitt",
+    "basic_form": "að bregðast",
+    "level": "3.6",
+    "row_id": 770
+  },
+  {
+    "icelandic": "Mér þykir vænt um þig.",
+    "english": "I feel affection for you; I care about you; I feel love for you",
+    "depends_on": "að þykja vænt um",
+    "level": "2",
+    "row_id": 261
+  },
+  {
+    "icelandic": "Mér þykir það leitt.",
+    "english": "I'm sorry about that.",
+    "depends_on": "að þykja, leiður",
+    "level": "2.1",
+    "alternative_id": "að þykja leitt",
+    "row_id": 771
+  },
+  {
+    "icelandic": "miðað við",
+    "english": "compared to",
+    "depends_on": "að miða",
+    "direction": "->",
+    "row_id": 1076
+  },
+  {
+    "icelandic": "Mig grunar...",
+    "level": "4",
+    "row_id": 885
+  },
+  {
+    "icelandic": "Mig langar að flytja til Englands.",
+    "english": "I want to move to England.",
+    "depends_on": "að flytja",
+    "level": "1",
+    "row_id": 735
+  },
+  {
+    "icelandic": "Mig langar ekki að vera hérna lengur.; Ég vil ekki vera hérna lengur.",
+    "english": "I no longer want to be here.",
+    "level": "2",
+    "row_id": 780
+  },
+  {
+    "icelandic": "Mig vantar ekkert.; Mig vantar ekki neitt.",
+    "english": "I lack nothing.; I don't need anything.",
+    "row_id": 1094
+  },
+  {
+    "icelandic": "mikið",
+    "english": "much",
+    "depends_on": "mikill",
+    "level": "1",
+    "row_id": 282
+  },
+  {
+    "icelandic": "Mikið var!",
+    "english": "Finally!; Well that took you long enough!",
+    "depends_on": "mikið, það var",
+    "basic_form": "mikill, að vera",
+    "level": "4",
+    "direction": "->",
+    "row_id": 1169
+  },
+  {
+    "icelandic": "Mjólkin er búin.",
+    "english": "We're out of milk.",
+    "depends_on": "búinn, mjólk",
+    "level": "1",
+    "row_id": 546
+  },
+  {
+    "icelandic": "mjólkurferna",
+    "english": "a carton of milk",
+    "depends_on": "ferna, mjólk",
+    "level": "5",
+    "row_id": 850
+  },
+  {
+    "icelandic": "mjög",
+    "english": "very",
+    "level": "1",
+    "dont_confuse": "mikið",
+    "row_id": 281
+  },
+  {
+    "icelandic": "mjög mikið",
+    "english": "very much",
+    "level": "1",
+    "row_id": 283
+  },
+  {
+    "icelandic": "mynd",
+    "english": "picture;; movie",
+    "level": "1",
+    "row_id": 646
+  },
+  {
+    "icelandic": "myndband",
+    "english": "a video",
+    "depends_on": "mynd",
+    "level": "1",
+    "row_id": 177
+  },
+  {
+    "icelandic": "myndin",
+    "english": "the picture;; the movie",
+    "depends_on": "mynd",
+    "level": "1",
+    "row_id": 647
+  },
+  {
+    "icelandic": "Myndin er með enskum texta.",
+    "english": "The film has English subtitles.",
+    "depends_on": "texti, að vera með",
+    "level": "2",
+    "row_id": 237
+  },
+  {
+    "icelandic": "Mælirðu með því?",
+    "english": "Do you recommend it?",
+    "level": "1",
+    "row_id": 34
+  },
+  {
+    "icelandic": "naglarnir",
+    "english": "the nails (used in construction)",
+    "basic_form": "nagli",
+    "level": "4",
+    "dont_confuse": "neglur",
+    "row_id": 1172
+  },
+  {
+    "icelandic": "nagli",
+    "english": "a nail (used in construction)",
+    "level": "4",
+    "dont_confuse": "nögl",
+    "note_after_show": "„Nagli“ is a nail used in construction while „nögl“ is a fingernail.",
+    "row_id": 1174
+  },
+  {
+    "icelandic": "neglurnar",
+    "english": "the fingernails",
+    "basic_form": "nögl",
+    "level": "4",
+    "alternative_id": "neglur",
+    "row_id": 1171
+  },
+  {
+    "icelandic": "Nei∆ því miður.",
+    "english": "No∆ unfortunately not.; No∆ sadly not.",
+    "depends_on": "því miður",
+    "level": "1",
+    "row_id": 365
+  },
+  {
+    "icelandic": "Nemendurnir mínir eru mjög duglegir.",
+    "english": "My students are very hardworking.",
+    "depends_on": "duglegur, nemandi",
+    "level": "2",
+    "row_id": 222
+  },
+  {
+    "icelandic": "níu sinnum",
+    "english": "nine times",
+    "depends_on": "níu",
+    "level": "1",
+    "categories": "number",
+    "row_id": 491
+  },
+  {
+    "icelandic": "nokkrar konur",
+    "english": "a few women",
+    "depends_on": "nokkrir",
+    "row_id": 1002
+  },
+  {
+    "icelandic": "nokkrir menn",
+    "english": "a few men",
+    "alternative_id": "nokkrir",
+    "row_id": 1001
+  },
+  {
+    "icelandic": "nokkur börn",
+    "english": "a few children",
+    "depends_on": "nokkrir",
+    "row_id": 1003
+  },
+  {
+    "icelandic": "núna; nú",
+    "english": "now",
+    "level": "1",
+    "row_id": 726
+  },
+  {
+    "icelandic": "nú þegar",
+    "row_id": 1028
+  },
+  {
+    "icelandic": "næstum því",
+    "english": "almost",
+    "basic_form": "næstum, það",
+    "row_id": 1121
+  },
+  {
+    "icelandic": "Næstum því aldrei.",
+    "english": "Almost never.",
+    "level": "1",
+    "row_id": 1020
+  },
+  {
+    "icelandic": "nögl",
+    "english": "a fingernail",
+    "level": "4",
+    "note_after_show": "„Nagli“ is a nail used in construction while „nögl“ is a fingernail.",
+    "row_id": 1173
+  },
+  {
+    "icelandic": "o∆ ó∆ pé",
+    "english": "What is the name of the letters \"O∆ Ó∆ P\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1034
+  },
+  {
+    "icelandic": "Og hvað með það?",
+    "english": "And so what?",
+    "level": "1",
+    "row_id": 626
+  },
+  {
+    "icelandic": "Okkur leiðist.",
+    "english": "We are bored.",
+    "depends_on": "Mér leiðist.",
+    "basic_form": "að leiðast",
+    "level": "3",
+    "row_id": 107
+  },
+  {
+    "icelandic": "opnaður",
+    "english": "opened; that which has been opened",
+    "depends_on": "að opna",
+    "level": "3",
+    "note_after_show": "Notice that \"opið\" means \"open\", while \"opnað\" means \"opened\".",
+    "row_id": 1057
+  },
+  {
+    "icelandic": "orðaforði",
+    "english": "vocabulary",
+    "depends_on": "orð, forði",
+    "level": "3",
+    "row_id": 514
+  },
+  {
+    "icelandic": "ófríður",
+    "level": "5",
+    "show_hint": "yes",
+    "row_id": 926
+  },
+  {
+    "icelandic": "ókei",
+    "english": "okay",
+    "level": "1",
+    "direction": "<-",
+    "row_id": 414
+  },
+  {
+    "icelandic": "ókeypis",
+    "english": "free of charge",
+    "depends_on": "að kaupa",
+    "level": "2",
+    "dont_confuse": "frí",
+    "row_id": 452
+  },
+  {
+    "icelandic": "ólétt",
+    "english": "pregnant",
+    "depends_on": "léttur",
+    "level": "3",
+    "alternative_id": "óléttur",
+    "row_id": 415
+  },
+  {
+    "icelandic": "óx hratt",
+    "row_id": 954
+  },
+  {
+    "icelandic": "paprika",
+    "english": "bell pepper; sweet pepper",
+    "row_id": 956
+  },
+  {
+    "icelandic": "Passaðu þig!",
+    "row_id": 957
+  },
+  {
+    "icelandic": "pipar",
+    "english": "pepper",
+    "row_id": 955
+  },
+  {
+    "icelandic": "poki",
+    "english": "a bag",
+    "level": "1",
+    "row_id": 154
+  },
+  {
+    "icelandic": "pólska",
+    "row_id": 981
+  },
+  {
+    "icelandic": "rass",
+    "english": "an ass; a butt",
+    "level": "2.2",
+    "row_id": 866
+  },
+  {
+    "icelandic": "rassgat",
+    "english": "an asshole",
+    "depends_on": "rass, gat",
+    "level": "2.9",
+    "note_bfr_show_en": "Only referring to the anatomical part and not referring to behaving like a jerk.",
+    "row_id": 868
+  },
+  {
+    "icelandic": "rétthentur",
+    "english": "right-handed",
+    "depends_on": "hönd, rétt",
+    "level": "4.2",
+    "dont_confuse": "örvhentur",
+    "row_id": 896
+  },
+  {
+    "icelandic": "réttindi",
+    "row_id": 943
+  },
+  {
+    "icelandic": "Ríkið",
+    "english": "the nickname of the Icelandic state monopoly liquor store Vínbúðin",
+    "depends_on": "ríki",
+    "level": "4",
+    "dont_confuse": "ríkur",
+    "note_after_show": "The liquor store is government-run, which is why it is referred to as \"the state\".",
+    "literally": "the state",
+    "importance": "-0.1",
+    "row_id": 738
+  },
+  {
+    "icelandic": "rusl",
+    "english": "trash; garbage; junk",
+    "level": "2",
+    "row_id": 843
+  },
+  {
+    "icelandic": "ruslið",
+    "english": "the trash; the garbage; the junk",
+    "depends_on": "rusl",
+    "level": "2",
+    "row_id": 844
+  },
+  {
+    "icelandic": "ræktin",
+    "english": "the gym",
+    "depends_on": "að rækta",
+    "level": "2",
+    "literally": "The cultivation",
+    "row_id": 199
+  },
+  {
+    "icelandic": "salerni",
+    "english": "washroom; W.C.; toilet",
+    "level": "3",
+    "direction": "->",
+    "note_after_show": "Less vulgar than \"klósett\".",
+    "row_id": 696
+  },
+  {
+    "icelandic": "saman eða í sitt hvoru",
+    "row_id": 1100
+  },
+  {
+    "icelandic": "samband",
+    "row_id": 1165
+  },
+  {
+    "icelandic": "sandur",
+    "english": "sand",
+    "row_id": 1131
+  },
+  {
+    "icelandic": "Segðu honum að hann geti komið klukkan fimm.",
+    "english": "Tell him that he can come at 5 o'clock.",
+    "level": "3",
+    "categories": "time",
+    "grammar_tags": "bh",
+    "row_id": 125
+  },
+  {
+    "icelandic": "seinna",
+    "english": "later",
+    "depends_on": "seinn",
+    "level": "1",
+    "row_id": 384
+  },
+  {
+    "icelandic": "sex sinnum",
+    "english": "seven times",
+    "depends_on": "sex",
+    "level": "1",
+    "categories": "number",
+    "row_id": 488
+  },
+  {
+    "icelandic": "Sinatra er ekki jafn frægur og Elvis.",
+    "english": "Sinatra is not as famous as Elvis.",
+    "depends_on": "jafn",
+    "level": "2",
+    "row_id": 73
+  },
+  {
+    "icelandic": "sjálfsagður",
+    "level": "2",
+    "should_teach": "no",
+    "row_id": 903
+  },
+  {
+    "icelandic": "sjö sinnum",
+    "english": "seven times",
+    "depends_on": "sjö",
+    "level": "1",
+    "categories": "number",
+    "row_id": 489
+  },
+  {
+    "icelandic": "skál",
+    "english": "a bowl",
+    "row_id": 1161
+  },
+  {
+    "icelandic": "Skál!",
+    "english": "Cheers!",
+    "row_id": 1160
+  },
+  {
+    "icelandic": "skárri",
+    "english": "less bad; a little better",
+    "level": "2",
+    "dont_confuse": "betri",
+    "row_id": 426
+  },
+  {
+    "icelandic": "skeið",
+    "level": "2",
+    "row_id": 710
+  },
+  {
+    "icelandic": "Skilurðu?",
+    "english": "Do you understand?",
+    "depends_on": "að skilja",
+    "level": "1",
+    "row_id": 597
+  },
+  {
+    "icelandic": "Skiptir það máli?",
+    "english": "Does that matter?",
+    "depends_on": "að skipta máli",
+    "level": "2",
+    "row_id": 665
+  },
+  {
+    "icelandic": "skógur",
+    "english": "a forest",
+    "row_id": 1123
+  },
+  {
+    "icelandic": "skuld",
+    "row_id": 923
+  },
+  {
+    "icelandic": "slæmur",
+    "row_id": 985
+  },
+  {
+    "icelandic": "smá",
+    "english": "a little bit",
+    "level": "1",
+    "row_id": 223
+  },
+  {
+    "icelandic": "smám saman",
+    "english": "little by little; gradually",
+    "depends_on": "3",
+    "row_id": 1150
+  },
+  {
+    "icelandic": "smjör",
+    "english": "butter",
+    "level": "3",
+    "row_id": 547
+  },
+  {
+    "icelandic": "snemma",
+    "english": "early;; early in the morning",
+    "level": "1",
+    "row_id": 296
+  },
+  {
+    "icelandic": "Sonur minn er tveggja ára.",
+    "level": "3.5",
+    "row_id": 1051
+  },
+  {
+    "icelandic": "Sonur minn er tveggja og hálfs árs.",
+    "level": "3.5",
+    "note_after_show": "\"Ár\" is here in singular because \"a half\" is singular.",
+    "row_id": 1050
+  },
+  {
+    "icelandic": "Splæsirðu?",
+    "english": "Your treat?; Are you going to be the one to splurge on this item for me?; Will you be paying for me?",
+    "basic_form": "að splæsa",
+    "level": "3.5",
+    "alternative_id": "að splæsa",
+    "row_id": 797
+  },
+  {
+    "icelandic": "spænska",
+    "level": "3",
+    "row_id": 976
+  },
+  {
+    "icelandic": "staða",
+    "english": "a situation;; a job position",
+    "level": "3",
+    "dont_confuse": "staður",
+    "row_id": 1071
+  },
+  {
+    "icelandic": "staður",
+    "english": "a place; a location",
+    "level": "2",
+    "row_id": 1072
+  },
+  {
+    "icelandic": "strax",
+    "english": "immediately",
+    "level": "1",
+    "direction": "->",
+    "row_id": 846
+  },
+  {
+    "icelandic": "stuð",
+    "level": "4",
+    "importance": "-1",
+    "row_id": 934
+  },
+  {
+    "icelandic": "stundum",
+    "english": "sometimes",
+    "level": "1",
+    "row_id": 255
+  },
+  {
+    "icelandic": "Svafstu vel?",
+    "english": "Did you sleep well?",
+    "depends_on": "að sofa",
+    "level": "3",
+    "row_id": 305
+  },
+  {
+    "icelandic": "sveittur",
+    "english": "sweaty",
+    "level": "2",
+    "row_id": 673
+  },
+  {
+    "icelandic": "svipaður",
+    "english": "similar to",
+    "direction": "->",
+    "row_id": 1088
+  },
+  {
+    "icelandic": "Systir mín var þar á síðast ári.",
+    "english": "My sister was there last year.",
+    "level": "2",
+    "row_id": 188
+  },
+  {
+    "icelandic": "Takk fyrir að vera svona þolinmóður.",
+    "english": "Thank you for being so patient.",
+    "level": "2",
+    "row_id": 78
+  },
+  {
+    "icelandic": "Takk fyrir mig.; Takk fyrir matinn.",
+    "english": "(phrase said when you finish eating food someone else has made for you)",
+    "level": "2",
+    "row_id": 639
+  },
+  {
+    "icelandic": "Takk fyrir *þolinmæðina*.",
+    "english": "Thank you for *the patience*.",
+    "depends_on": "þolinmæði",
+    "level": "3",
+    "row_id": 525
+  },
+  {
+    "icelandic": "Taktu þinn tíma.",
+    "english": "Take your time.",
+    "level": "2",
+    "grammar_tags": "bh",
+    "row_id": 545
+  },
+  {
+    "icelandic": "tannkrem",
+    "english": "toothpaste",
+    "level": "2",
+    "row_id": 520
+  },
+  {
+    "icelandic": "tannkremið",
+    "english": "the toothpaste",
+    "level": "2",
+    "row_id": 521
+  },
+  {
+    "icelandic": "tilgangslaust",
+    "english": "without a purpose; futile",
+    "depends_on": "tilgangur",
+    "level": "3",
+    "show_hint": "yes",
+    "row_id": 960
+  },
+  {
+    "icelandic": "tilgangur",
+    "english": "purpose",
+    "depends_on": "að ganga",
+    "level": "3",
+    "row_id": 958
+  },
+  {
+    "icelandic": "til hamingju",
+    "english": "congratulations",
+    "depends_on": "hamingja",
+    "level": "2",
+    "row_id": 619
+  },
+  {
+    "icelandic": "Til hamingju með daginn.",
+    "english": "Happy birthday!; Congratulations on the day.",
+    "depends_on": "til hamingju",
+    "level": "2",
+    "direction": "->",
+    "row_id": 618
+  },
+  {
+    "icelandic": "Til hvers?",
+    "english": "What for?; For what purpose?",
+    "level": "2",
+    "row_id": 23
+  },
+  {
+    "icelandic": "Til hvers er þetta?",
+    "english": "What is this for?; What is the purpose of this?",
+    "level": "2",
+    "row_id": 22
+  },
+  {
+    "icelandic": "tíkall",
+    "english": "10 ISK coin",
+    "depends_on": "hundraðkall",
+    "level": "4",
+    "row_id": 552
+  },
+  {
+    "icelandic": "tími",
+    "english": "time;; a class;; an hour",
+    "level": "1",
+    "row_id": 358
+  },
+  {
+    "icelandic": "Tíminn leið hratt.",
+    "english": "The time passed quickly.",
+    "depends_on": "Tíminn líður hratt.",
+    "level": "2",
+    "row_id": 633
+  },
+  {
+    "icelandic": "Tíminn leið hægt.",
+    "english": "The time passed slowly.",
+    "depends_on": "Tíminn líður hægt.",
+    "level": "2",
+    "row_id": 634
+  },
+  {
+    "icelandic": "Tíminn leið of hratt.",
+    "english": "Time passed too quickly.",
+    "level": "2",
+    "row_id": 25
+  },
+  {
+    "icelandic": "Tíminn líður hratt.",
+    "english": "The time passes quickly.",
+    "depends_on": "að líða, hraður",
+    "level": "1",
+    "row_id": 630
+  },
+  {
+    "icelandic": "Tíminn líður hægt.",
+    "english": "The time passes slowly.",
+    "depends_on": "að líða, hægur",
+    "level": "1",
+    "row_id": 632
+  },
+  {
+    "icelandic": "Tíminn líður of hratt.",
+    "english": "Time passes too quickly.",
+    "level": "2",
+    "row_id": 24
+  },
+  {
+    "icelandic": "tónleikar",
+    "english": "a concert;; concerts",
+    "level": "2",
+    "note_after_show": "\"Tónleikar\" is always in plural although it can refer to a single concert.",
+    "row_id": 650
+  },
+  {
+    "icelandic": "tónleikarnir",
+    "english": "the concert;; the concerts",
+    "depends_on": "tónleikar",
+    "level": "2",
+    "row_id": 651
+  },
+  {
+    "icelandic": "tónlist",
+    "english": "music",
+    "depends_on": "list",
+    "level": "1",
+    "row_id": 333
+  },
+  {
+    "icelandic": "tónlistarmaður",
+    "english": "musician",
+    "depends_on": "tónlist, maður",
+    "level": "1",
+    "row_id": 329
+  },
+  {
+    "icelandic": "tunga",
+    "english": "a tongue",
+    "level": "2",
+    "row_id": 315
+  },
+  {
+    "icelandic": "tungan",
+    "english": "the tongue",
+    "depends_on": "tunga",
+    "level": "2",
+    "row_id": 316
+  },
+  {
+    "icelandic": "tungumál",
+    "english": "a language",
+    "depends_on": "tunga, mál",
+    "level": "1",
+    "direction": "->",
+    "row_id": 308
+  },
+  {
+    "icelandic": "tungumál; mál",
+    "english": "a language",
+    "level": "1",
+    "direction": "<-",
+    "row_id": 309
+  },
+  {
+    "icelandic": "túkall",
+    "english": "2 ISK coin (no longer in existance)",
+    "level": "6",
+    "row_id": 553
+  },
+  {
+    "icelandic": "tvisvar",
+    "english": "twice",
+    "depends_on": "tveir",
+    "level": "1",
+    "categories": "number",
+    "row_id": 484
+  },
+  {
+    "icelandic": "tvíburar",
+    "english": "twins",
+    "level": "4.2",
+    "importance": "-0.5",
+    "row_id": 897
+  },
+  {
+    "icelandic": "Tökum tíu mínútna pásu.",
+    "row_id": 947
+  },
+  {
+    "icelandic": "Tölvan mín virkar ekki lengur.",
+    "english": "My computer no longer works.; My computer no longer functions.",
+    "depends_on": "að virka, tölva, lengi",
+    "level": "2",
+    "row_id": 643
+  },
+  {
+    "icelandic": "u∆ ú∆ vaff",
+    "english": "What is the name of the letters \"U∆ Ú∆ V\"?",
+    "level": "1",
+    "direction": "<-",
+    "categories": "alphabet",
+    "row_id": 1036
+  },
+  {
+    "icelandic": "um eftirmiðdaginn",
+    "english": "during the afternoon",
+    "depends_on": "eftir, miðja, dagur",
+    "basic_form": "eftirmiðdagur",
+    "literally": "during the after mid-day",
+    "alternative_id": "eftirmiðdagur",
+    "row_id": 1086
+  },
+  {
+    "icelandic": "Um hvað snýst þessi mynd?; Hvað snýst þessi mynd um?",
+    "english": "What is this movie about?",
+    "depends_on": "að snúast um",
+    "level": "2",
+    "row_id": 811
+  },
+  {
+    "icelandic": "um kvöld",
+    "english": "during the evenings (in general)",
+    "depends_on": "kvöld",
+    "level": "2",
+    "dont_confuse": "í kvöld",
+    "row_id": 394
+  },
+  {
+    "icelandic": "um leið",
+    "level": "2",
+    "should_teach": "no",
+    "row_id": 847
+  },
+  {
+    "icelandic": "upptekinn",
+    "english": "busy",
+    "level": "1",
+    "row_id": 87
+  },
+  {
+    "icelandic": "úlpa",
+    "row_id": 998
+  },
+  {
+    "icelandic": "út",
+    "english": "out;; to outside",
+    "level": "1",
+    "dont_confuse": "úti",
+    "row_id": 280
+  },
+  {
+    "icelandic": "útför",
+    "english": "a funeral",
+    "depends_on": "að fara, út",
+    "level": "3.8",
+    "direction": "->",
+    "row_id": 900
+  },
+  {
+    "icelandic": "úti",
+    "english": "outside",
+    "level": "1",
+    "row_id": 279
+  },
+  {
+    "icelandic": "útlendingur",
+    "english": "a foreigner",
+    "depends_on": "útlönd",
+    "level": "2",
+    "row_id": 444
+  },
+  {
+    "icelandic": "útlenska",
+    "english": "a foreign language",
+    "depends_on": "útlönd",
+    "level": "2",
+    "row_id": 443
+  },
+  {
+    "icelandic": "útlönd",
+    "english": "foreign countries",
+    "depends_on": "út, land",
+    "level": "2",
+    "dont_confuse": "úti á landi",
+    "row_id": 440
+  },
+  {
+    "icelandic": "vakandi",
+    "english": "to be awake",
+    "level": "2",
+    "row_id": 292
+  },
+  {
+    "icelandic": "Vaknaðirðu snemma?",
+    "english": "Did you wake up early?",
+    "depends_on": "að vakna, snemma",
+    "level": "2",
+    "row_id": 705
+  },
+  {
+    "icelandic": "vandræðalegt",
+    "english": "awkward; embarrassing",
+    "depends_on": "vandræði",
+    "level": "2",
+    "dont_confuse": "hallærislegt",
+    "literally": "appearing to be in troubles",
+    "alternative_id": "vandræðalegur",
+    "row_id": 875
+  },
+  {
+    "icelandic": "Vantar þig gaffal?",
+    "english": "Do you need a fork?; Are you without a fork?",
+    "depends_on": "að vanta",
+    "level": "3",
+    "Laga?": "hmm",
+    "row_id": 919
+  },
+  {
+    "icelandic": "Vantar þig vinnu?",
+    "english": "Do you need a job?",
+    "depends_on": "að vanta",
+    "level": "2",
+    "row_id": 1092
+  },
+  {
+    "icelandic": "vanvirðing",
+    "level": "4",
+    "row_id": 884
+  },
+  {
+    "icelandic": "varir",
+    "english": "lips",
+    "level": "2",
+    "alternative_id": "vör",
+    "row_id": 880
+  },
+  {
+    "icelandic": "varirnar",
+    "english": "the lips",
+    "depends_on": "varir",
+    "level": "2",
+    "row_id": 881
+  },
+  {
+    "icelandic": "varla neitt",
+    "english": "hardly anything; barely anything; almost nothing",
+    "row_id": 1085
+  },
+  {
+    "icelandic": "Var vikan þín góð?",
+    "english": "Was your week good?",
+    "level": "1",
+    "row_id": 39
+  },
+  {
+    "icelandic": "vegna; út af",
+    "english": "because of",
+    "row_id": 1127
+  },
+  {
+    "icelandic": "Veistu hvað þetta orð þýðir?",
+    "english": "Do you know what this word means?",
+    "level": "1",
+    "row_id": 203
+  },
+  {
+    "icelandic": "Veistu hver þetta er?",
+    "english": "Do you know who this is?",
+    "depends_on": "að vita, hver",
+    "level": "1",
+    "row_id": 595
+  },
+  {
+    "icelandic": "vél",
+    "english": "a machine;; an engine; a motor",
+    "level": "2",
+    "dont_confuse": "vel",
+    "row_id": 752
+  },
+  {
+    "icelandic": "Við bjuggumst ekki við því að rekast á þig hér.",
+    "english": "We did not expect bumping into you here.",
+    "depends_on": "að búast við, að rekast á",
+    "basic_form": "að búast við",
+    "level": "2.9",
+    "row_id": 723
+  },
+  {
+    "icelandic": "Við erum góðar vinkonur.",
+    "english": "We are good (female) friends.",
+    "depends_on": "vinkona",
+    "level": "2",
+    "note_bfr_show_en": "All of the people being described are female.",
+    "row_id": 858
+  },
+  {
+    "icelandic": "Við erum góðir vinir.",
+    "english": "We are good friends.",
+    "depends_on": "vinur",
+    "level": "2",
+    "note_bfr_show_en": "At least one of the people being described is a male.",
+    "row_id": 857
+  },
+  {
+    "icelandic": "Við erum í stíl.",
+    "english": "We are wearing matching outfits.",
+    "depends_on": "stíll",
+    "level": "4",
+    "row_id": 10
+  },
+  {
+    "icelandic": "Við erum *mismunandi*.",
+    "english": "We are *different/distinct*.",
+    "level": "2",
+    "note_after_show": "\"Mismunandi\" describes a *group* of things being distinct from each other, while \"öðruvísi\" describes *one thing* being different from something else.",
+    "alternative_id": "mismunandi",
+    "row_id": 422
+  },
+  {
+    "icelandic": "Við erum skyldir.",
+    "english": "We are related to each other.",
+    "depends_on": "skyldur",
+    "level": "3",
+    "direction": "->",
+    "row_id": 473
+  },
+  {
+    "icelandic": "Við getum ekki gert það.",
+    "english": "We cannot do that.",
+    "level": "2",
+    "row_id": 468
+  },
+  {
+    "icelandic": "Við heyrumst á eftir.",
+    "english": "We will hear from each other later today.",
+    "level": "2",
+    "row_id": 81
+  },
+  {
+    "icelandic": "Við hittumst áðan.",
+    "english": "We met each other earlier today.",
+    "level": "2",
+    "row_id": 389
+  },
+  {
+    "icelandic": "Við hittumst á eftir.",
+    "english": "We will meet each other later today.",
+    "level": "1",
+    "row_id": 390
+  },
+  {
+    "icelandic": "Við horfðum á bíómynd áðan.",
+    "english": "We watched a film earlier today.",
+    "level": "2",
+    "row_id": 178
+  },
+  {
+    "icelandic": "Við kynntumst á Spáni.",
+    "english": "We first met each other in Spain.; We first got to know each other in Spain.",
+    "level": "2",
+    "row_id": 53
+  },
+  {
+    "icelandic": "Við leiðumst.",
+    "english": "We are holding hands.; We are holding each other's hand.",
+    "depends_on": "að leiða",
+    "basic_form": "að leiðast",
+    "level": "3.3",
+    "dont_confuse": "Okkur leiðist.",
+    "note_after_show": "The [[impersonal]] \"okkur leiðist\" means \"we are bored\", but the personal \"við leiðumst\" means \"we hold hands\".",
+    "row_id": 108
+  },
+  {
+    "icelandic": "Við opnum klukkan átta.",
+    "level": "2",
+    "row_id": 1059
+  },
+  {
+    "icelandic": "Við sjáumst fljótt.",
+    "english": "See you soon!",
+    "depends_on": "að sjást, fljótur",
+    "level": "1",
+    "row_id": 284
+  },
+  {
+    "icelandic": "við sváfum",
+    "english": "we slept",
+    "basic_form": "að sofa",
+    "row_id": 1011
+  },
+  {
+    "icelandic": "viðtal",
+    "english": "an interview",
+    "row_id": 1066
+  },
+  {
+    "icelandic": "viðtalið",
+    "english": "the interview",
+    "row_id": 1067
+  },
+  {
+    "icelandic": "Við þekkjumst ekki.",
+    "english": "We don't know each other.",
+    "level": "1",
+    "row_id": 55
+  },
+  {
+    "icelandic": "Við ætlum að halda tónleika á morgun.",
+    "english": "We're going to give a concert tomorrow.",
+    "depends_on": "tónleikar",
+    "level": "2",
+    "row_id": 652
+  },
+  {
+    "icelandic": "Við ætlum í sund.",
+    "english": "We are going swimming.; We intend to go swimming.",
+    "depends_on": "sund",
+    "level": "2",
+    "row_id": 461
+  },
+  {
+    "icelandic": "Viltu afritið?",
+    "english": "Do you want the receipt?",
+    "level": "2",
+    "direction": "->",
+    "alternative_id": "afrit",
+    "row_id": 476
+  },
+  {
+    "icelandic": "Viltu bæta einhverju við?",
+    "english": "Is there anything you want to add?",
+    "level": "3",
+    "row_id": 71
+  },
+  {
+    "icelandic": "Viltu hitta hann á eftir?",
+    "english": "Do you want to meet him later today?",
+    "level": "1",
+    "row_id": 382
+  },
+  {
+    "icelandic": "Viltu hittast á eftir?",
+    "english": "Do you want to meet later today?",
+    "level": "1",
+    "row_id": 381
+  },
+  {
+    "icelandic": "Viltu kíkja í heimsókn á eftir?",
+    "english": "Do you want to come over for a quick visit later today?",
+    "depends_on": "að kíkja í heimsókn",
+    "level": "2",
+    "note_after_show": "The word \"kíkja\" here means that you're offering them to come over for a short visit, which sounds more polite.",
+    "row_id": 604
+  },
+  {
+    "icelandic": "Viltu kvittun?",
+    "english": "Do you want a receipt?",
+    "depends_on": "kvittun",
+    "level": "2",
+    "direction": "->",
+    "alternative_id": "kvittun",
+    "row_id": 477
+  },
+  {
+    "icelandic": "Viltu skiptast á?",
+    "english": "Do you want to take turns (with me using this item)?",
+    "depends_on": "að skiptast á",
+    "level": "3",
+    "row_id": 672
+  },
+  {
+    "icelandic": "Viltu tala við hann?",
+    "english": "Do you want to speak to him?",
+    "level": "1",
+    "row_id": 183
+  },
+  {
+    "icelandic": "Viltu þessa tölvu?",
+    "english": "Do you want this computer?",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 824
+  },
+  {
+    "icelandic": "Viltu þetta kaffi?",
+    "english": "Do you want this coffee?",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 821
+  },
+  {
+    "icelandic": "vinkona",
+    "english": "a female friend",
+    "depends_on": "vinur, kona",
+    "level": "1.5",
+    "note_after_show": "\"Vinkona\" is pronounced \"v'''í'''nkona\".",
+    "row_id": 859
+  },
+  {
+    "icelandic": "vinkonur",
+    "english": "female friends",
+    "depends_on": "vinkona",
+    "level": "1.6",
+    "row_id": 860
+  },
+  {
+    "icelandic": "vinkonurnar",
+    "english": "the female friends",
+    "depends_on": "vinkonur",
+    "level": "1.6",
+    "row_id": 861
+  },
+  {
+    "icelandic": "vinna",
+    "english": "a job; work",
+    "depends_on": "að vinna",
+    "level": "1",
+    "dont_confuse": "vinur",
+    "row_id": 758
+  },
+  {
+    "icelandic": "vinnan",
+    "english": "the job; the work",
+    "depends_on": "vinna",
+    "level": "1",
+    "row_id": 759
+  },
+  {
+    "icelandic": "Vinnur vinur þinn ekki hérna?",
+    "english": "Doesn't your friend work here?",
+    "depends_on": "vinur, að vinna",
+    "level": "1",
+    "row_id": 257
+  },
+  {
+    "icelandic": "Vinur minn er enskukennari.",
+    "english": "My friend is an English teacher.",
+    "level": "1",
+    "row_id": 424
+  },
+  {
+    "icelandic": "Vinur minn vinnur hérna.",
+    "english": "My friend works here.",
+    "depends_on": "vinur, að vinna",
+    "level": "1",
+    "row_id": 256
+  },
+  {
+    "icelandic": "vitlaus",
+    "english": "incorrect; wrong;; stupid",
+    "depends_on": "að vita, laus",
+    "level": "1",
+    "direction": "->",
+    "row_id": 181
+  },
+  {
+    "icelandic": "vitlaus; rangur",
+    "english": "wrong; incorrect",
+    "level": "1",
+    "direction": "<-",
+    "row_id": 123
+  },
+  {
+    "icelandic": "vörn",
+    "level": "4",
+    "row_id": 886
+  },
+  {
+    "icelandic": "We are good friends.",
+    "english": "Are we friends?",
+    "depends_on": "vinur",
+    "level": "2",
+    "row_id": 519
+  },
+  {
+    "icelandic": "ýmislegt",
+    "level": "3",
+    "row_id": 852
+  },
+  {
+    "icelandic": "ýmiss konar",
+    "level": "3",
+    "row_id": 854
+  },
+  {
+    "icelandic": "ýmsir",
+    "level": "3",
+    "row_id": 853
+  },
+  {
+    "icelandic": "Ýttu á hlekkinn.",
+    "english": "Click the link.",
+    "depends_on": "hlekkur, að ýta",
+    "level": "2",
+    "row_id": 813
+  },
+  {
+    "icelandic": "zeta∆ þorn∆ æ∆ ö",
+    "english": "What is the name of the letters \"Z∆ Þ∆ Æ∆ Ö\"?",
+    "level": "1",
+    "direction": "<-",
+    "note_after_show": "\"Z\" is not used in Icelandic words.",
+    "categories": "alphabet",
+    "row_id": 1038
+  },
+  {
+    "icelandic": "það",
+    "english": "it; that",
+    "level": "1",
+    "row_id": 1116
+  },
+  {
+    "icelandic": "Það búa hundrað manns í þessum bæ.",
+    "english": "There are 100 people who live in this town.",
+    "depends_on": "maður, hundrað, að búa",
+    "level": "1",
+    "literally": "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]].",
+    "row_id": 560
+  },
+  {
+    "icelandic": "Það búa margir í New York.",
+    "english": "There are many people that live in New York.",
+    "level": "1",
+    "row_id": 41
+  },
+  {
+    "icelandic": "það er",
+    "english": "it is; that is",
+    "depends_on": "það",
+    "basic_form": "að vera (\"to be\")",
+    "level": "1",
+    "row_id": 1117
+  },
+  {
+    "icelandic": "Það er allt í góðu.",
+    "english": "Don't worry about it∆ it's all good.",
+    "level": "3",
+    "direction": "->",
+    "row_id": 314
+  },
+  {
+    "icelandic": "Það er auðvelt.",
+    "english": "That's easy.",
+    "depends_on": "það, að vera, það er",
+    "basic_form": "auðveldur",
+    "level": "1",
+    "alternative_id": "auðvelt, auðveldur",
+    "row_id": 1176
+  },
+  {
+    "icelandic": "Það er bannað.",
+    "row_id": 939
+  },
+  {
+    "icelandic": "Það er einhver heima.",
+    "level": "1",
+    "row_id": 610
+  },
+  {
+    "icelandic": "Það er ekkert að gerast.",
+    "english": "There's nothing going on.; There's nothing happening.",
+    "depends_on": "að gerast",
+    "level": "1",
+    "row_id": 191
+  },
+  {
+    "icelandic": "Það er ekkert mál.",
+    "english": "That's no problem.;; That is easy.",
+    "literally": "That is no issue.",
+    "row_id": 312
+  },
+  {
+    "icelandic": "Það er ekkert sem mig vantar.",
+    "english": "There's nothing that I lack.; There's nothing that I need.",
+    "row_id": 1095
+  },
+  {
+    "icelandic": "Það er ekki hægt að gera neitt í því.; Það er ekkert hægt að gera í því.",
+    "english": "There's nothing one can do about that.",
+    "depends_on": "ekki neinn",
+    "level": "2.2",
+    "row_id": 767
+  },
+  {
+    "icelandic": "Það er ekki sanngjarnt.",
+    "english": "That's not fair.",
+    "depends_on": "sannur, gjarn",
+    "level": "3",
+    "alternative_id": "sanngjarn",
+    "row_id": 616
+  },
+  {
+    "icelandic": "Það er ekki til neitt kaffi.; Það er ekkert kaffi ti.",
+    "english": "We're completely out of coffee.; There's no coffee available.",
+    "depends_on": "að vera til, ekki neinn",
+    "level": "2.2",
+    "row_id": 766
+  },
+  {
+    "icelandic": "Það er ekki víst.",
+    "english": "That is not certain.",
+    "depends_on": "vís",
+    "basic_form": "\"Víst\" is the [[neuter]] form of \"vís\". The term \"viss\" is related but describes persons being certain about something.",
+    "level": "2",
+    "row_id": 681
+  },
+  {
+    "icelandic": "Það er enginn hérna.; Það er ekki neinn hérna.",
+    "english": "There's nobody here.",
+    "depends_on": "enginn, hérna, ekki neinn",
+    "level": "1",
+    "row_id": 754
+  },
+  {
+    "icelandic": "Það er erfitt að eignast vini á Íslandi.",
+    "english": "It's difficult to make friends in Iceland.",
+    "depends_on": "að eignast",
+    "level": "2",
+    "literally": "It's difficult to acquire friends in Iceland.",
+    "row_id": 356
+  },
+  {
+    "icelandic": "Það er erfitt að vera kennari.",
+    "english": "It's difficult being a teacher.",
+    "level": "1",
+    "row_id": 208
+  },
+  {
+    "icelandic": "Það er gaman í vinnunni.",
+    "english": "It's fun at (my) job.; It's fun being at work.",
+    "depends_on": "vinna",
+    "level": "2",
+    "row_id": 762
+  },
+  {
+    "icelandic": "Það er gott.",
+    "english": "It is good.; That is good.",
+    "depends_on": "það er",
+    "basic_form": "að vera, góður",
+    "level": "1",
+    "alternative_id": "gott",
+    "row_id": 1109
+  },
+  {
+    "icelandic": "Það er gott veður.",
+    "english": "There is good weather.; The weather is good.",
+    "level": "1",
+    "row_id": 173
+  },
+  {
+    "icelandic": "Það er grenjandi rigning.",
+    "row_id": 1151
+  },
+  {
+    "icelandic": "Það er hægt.",
+    "english": "That's doable.; That's achievable.; That can be done.",
+    "depends_on": "hægur",
+    "level": "1",
+    "row_id": 907
+  },
+  {
+    "icelandic": "Það er hægt að keyra hægt.",
+    "english": "It is possible to drive slowly.; Driving slowly is doable.",
+    "depends_on": "hægur, að keyra",
+    "level": "1.3",
+    "row_id": 908
+  },
+  {
+    "icelandic": "Það er hættulegt.",
+    "english": "It's dangerous.",
+    "depends_on": "hættulegur",
+    "level": "2",
+    "dont_confuse": "að hætta",
+    "row_id": 371
+  },
+  {
+    "icelandic": "Það er í tísku núna.",
+    "english": "That is fashionable right now.",
+    "depends_on": "tíska",
+    "level": "3",
+    "row_id": 11
+  },
+  {
+    "icelandic": "Það er mjólk í þessu kaffi.",
+    "english": "There's milk in this coffee.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 820
+  },
+  {
+    "icelandic": "Það er of heitt.",
+    "english": "It's too hot.",
+    "level": "1",
+    "row_id": 57
+  },
+  {
+    "icelandic": "Það er of kalt.",
+    "english": "It's too cold.",
+    "level": "1",
+    "row_id": 58
+  },
+  {
+    "icelandic": "Það er opið.",
+    "english": "It is open.",
+    "depends_on": "opinn",
+    "level": "2",
+    "alternative_id": "opinn",
+    "row_id": 1058
+  },
+  {
+    "icelandic": "Það er ostur á þessum hamborgara.",
+    "english": "There's cheese on this hamburger.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 817
+  },
+  {
+    "icelandic": "Það er ósanngjarnt.",
+    "english": "That's unfair.",
+    "depends_on": "sanngjarn",
+    "level": "3",
+    "alternative_id": "ósanngjarn",
+    "row_id": 615
+  },
+  {
+    "icelandic": "Það er skrýtið.",
+    "english": "That's strange.; That's odd.",
+    "depends_on": "skrýtinn",
+    "level": "1",
+    "row_id": 909
+  },
+  {
+    "icelandic": "Það er stundum erfitt.",
+    "english": "It's sometimes difficult.",
+    "level": "1",
+    "row_id": 186
+  },
+  {
+    "icelandic": "Það er svo sem ágætt.",
+    "english": "Well∆ that's relatively fine.",
+    "depends_on": "svo sem",
+    "level": "3.2",
+    "direction": "->",
+    "note_after_show": "\"Svo sem\" only serves to add nonchalance to the sentence.",
+    "importance": "-1",
+    "row_id": 792
+  },
+  {
+    "icelandic": "Það er tuttugasta og fyrsta öldin.",
+    "english": "It's the 21st century.",
+    "level": "2",
+    "row_id": 38
+  },
+  {
+    "icelandic": "Það eru fimm *manns* hérna.",
+    "english": "There are 5 *people* here.",
+    "depends_on": "maður, fimm",
+    "level": "1",
+    "literally": "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]].",
+    "row_id": 561
+  },
+  {
+    "icelandic": "Það eru fimm *menn* hérna.",
+    "english": "There are 5 *men* here.",
+    "depends_on": "maður, fimm",
+    "level": "1",
+    "dont_confuse": "Það eru fimm manns hérna.",
+    "literally": "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]].",
+    "row_id": 562
+  },
+  {
+    "icelandic": "Það er vitlaust.; Það er rangt.",
+    "english": "That's incorrect.",
+    "level": "1",
+    "row_id": 124
+  },
+  {
+    "icelandic": "Það er *þess vegna* sem ég er ...",
+    "english": "That is *why* I am ...",
+    "should_teach": "no",
+    "row_id": 968
+  },
+  {
+    "icelandic": "Það er öllum sama.; Öllum er sama.",
+    "english": "Nobody cares.",
+    "depends_on": "sama, allir",
+    "level": "2",
+    "row_id": 421
+  },
+  {
+    "icelandic": "Það gekk illa.",
+    "english": "It went badly.",
+    "depends_on": "að ganga, illa",
+    "level": "2",
+    "row_id": 641
+  },
+  {
+    "icelandic": "Það gerðist á nítjándu öld.",
+    "english": "It happened in the 19th century.",
+    "level": "2",
+    "row_id": 37
+  },
+  {
+    "icelandic": "Það hentar mér ekki.",
+    "depends_on": "að henta",
+    "row_id": 971
+  },
+  {
+    "icelandic": "Það kemur þér ekki við.",
+    "english": "That's none of your business.",
+    "depends_on": "að koma einhverjum við",
+    "level": "2",
+    "alternative_id": "að koma einhverjum við",
+    "row_id": 150
+  },
+  {
+    "icelandic": "Það kom mér á óvart.",
+    "english": "It came as a surprise to me.",
+    "depends_on": "óvar",
+    "level": "2",
+    "row_id": 155
+  },
+  {
+    "icelandic": "Það leið yfir mig.",
+    "row_id": 1144
+  },
+  {
+    "icelandic": "Það má ekki.",
+    "row_id": 940
+  },
+  {
+    "icelandic": "Það reynir mikið á.",
+    "row_id": 1060
+  },
+  {
+    "icelandic": "Það skiptir ekki máli.",
+    "english": "That doesn't matter.",
+    "depends_on": "að skipta máli",
+    "level": "2",
+    "row_id": 666
+  },
+  {
+    "icelandic": "Það skiptir engu máli.",
+    "english": "That doesn't matter at all.",
+    "depends_on": "að skipta máli, enginn",
+    "level": "2",
+    "note_after_show": "\"Enginn\" can be used to add more emphasis than \"ekki\".",
+    "row_id": 667
+  },
+  {
+    "icelandic": "Það snjóaði áðan.",
+    "english": "It snowed earlier today.",
+    "depends_on": "að snjóa, áðan",
+    "level": "2",
+    "row_id": 77
+  },
+  {
+    "icelandic": "Það tekur langan tíma.",
+    "english": "It takes a long time.",
+    "depends_on": "tími, langur",
+    "level": "1",
+    "row_id": 361
+  },
+  {
+    "icelandic": "Það tekur tvo tíma.",
+    "english": "It takes two hours.",
+    "depends_on": "tími",
+    "level": "1",
+    "row_id": 359
+  },
+  {
+    "icelandic": "Það tekur því ekki.",
+    "level": "3",
+    "alternative_id": "að taka því",
+    "row_id": 622
+  },
+  {
+    "icelandic": "Það vildi svo til að ...",
+    "level": "5",
+    "row_id": 805
+  },
+  {
+    "icelandic": "Það vita allir af því.",
+    "english": "Everybody knows about it.",
+    "level": "1",
+    "row_id": 628
+  },
+  {
+    "icelandic": "Það vita það allir.",
+    "english": "Everybody knows it.",
+    "level": "1",
+    "row_id": 627
+  },
+  {
+    "icelandic": "Þarf maður bílpróf til að keyra bíl?",
+    "row_id": 1022
+  },
+  {
+    "icelandic": "Þarftu að kúka?",
+    "english": "Do you need to poop?",
+    "depends_on": "að kúka, að þurfa",
+    "level": "2.8",
+    "note_after_show": "Rather crude, something one would only say to a child.",
+    "row_id": 864
+  },
+  {
+    "icelandic": "Þarftu að vinna í dag?",
+    "english": "Do you have to work today?",
+    "level": "1",
+    "row_id": 377
+  },
+  {
+    "icelandic": "Þarftu hjálp?",
+    "english": "Do you need help?",
+    "depends_on": "hjálp, að hjálpa, að þurfa",
+    "level": "2",
+    "row_id": 656
+  },
+  {
+    "icelandic": "þarna; þar",
+    "english": "there",
+    "level": "1",
+    "row_id": 725
+  },
+  {
+    "icelandic": "Þau búa saman.",
+    "english": "They live together.",
+    "depends_on": "að búa, þau",
+    "level": "2",
+    "row_id": 324
+  },
+  {
+    "icelandic": "þáttur",
+    "english": "a TV show;; a TV episode;; a part",
+    "level": "1",
+    "row_id": 232
+  },
+  {
+    "icelandic": "Þegiðu!",
+    "english": "Shut up!; Keep quiet!",
+    "basic_form": "að þegja",
+    "level": "4",
+    "note_after_show": "This is quite rude, but not as rude as \"Haltu kjafti\".",
+    "categories": "rude",
+    "alternative_id": "að þegja",
+    "row_id": 808
+  },
+  {
+    "icelandic": "Þekkist þið?",
+    "english": "Do you guys know each other?",
+    "depends_on": "að þekkjast",
+    "level": "1",
+    "row_id": 492
+  },
+  {
+    "icelandic": "Þessi hamborgari er góður.",
+    "english": "This hamburger is good.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "grammar_tags": "tvfn",
+    "Laga?": "bæta við útskýringum falls",
+    "row_id": 814
+  },
+  {
+    "icelandic": "Þessi klipping fer þér vel.",
+    "english": "This haircut looks good on you.; This haircut suits you.",
+    "level": "2.7",
+    "row_id": 1061
+  },
+  {
+    "icelandic": "Þessi mynd er á útlensku.",
+    "english": "This film is in a foreign language.",
+    "depends_on": "útlenska",
+    "level": "2",
+    "row_id": 446
+  },
+  {
+    "icelandic": "Þessi mynd er mjög fræg.",
+    "english": "This movie is very famous.",
+    "depends_on": "mynd, mjög, frægur",
+    "level": "1",
+    "row_id": 645
+  },
+  {
+    "icelandic": "Þessi tölva er góð.",
+    "english": "This computer is good.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 822
+  },
+  {
+    "icelandic": "Þetta er ekkert smá gott.",
+    "english": "This is very good!",
+    "depends_on": "ekkert smá",
+    "level": "3",
+    "direction": "->",
+    "row_id": 135
+  },
+  {
+    "icelandic": "Þetta er fimm mínútna myndband.",
+    "row_id": 946
+  },
+  {
+    "icelandic": "Þetta er gott kaffi.",
+    "english": "This is good coffee.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 819
+  },
+  {
+    "icelandic": "Þetta er góð tölva.",
+    "english": "This is a good computer.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 823
+  },
+  {
+    "icelandic": "Þetta er góður hamborgari.",
+    "english": "This is a good hamburger.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 815
+  },
+  {
+    "icelandic": "Þetta er í *fyrsta skipti* sem ég kem til Íslands.",
+    "english": "This is the *first time* I come to Iceland.",
+    "depends_on": "skipti",
+    "level": "2",
+    "row_id": 159
+  },
+  {
+    "icelandic": "Þetta er leiðinlegt.",
+    "english": "This is boring.; This is tedious.",
+    "level": "1",
+    "row_id": 109
+  },
+  {
+    "icelandic": "Þetta er löng bók.",
+    "english": "This is a long book.",
+    "depends_on": "langur",
+    "level": "1",
+    "row_id": 236
+  },
+  {
+    "icelandic": "Þetta er ótrúlega góð bók.",
+    "english": "This book is incredibly good.",
+    "depends_on": "ótrúlegur",
+    "level": "1",
+    "row_id": 67
+  },
+  {
+    "icelandic": "Þetta er vinkona mín.",
+    "english": "This is my female friend.",
+    "level": "1",
+    "row_id": 388
+  },
+  {
+    "icelandic": "Þetta er vinur minn.",
+    "english": "This is my male friend.",
+    "level": "1",
+    "row_id": 387
+  },
+  {
+    "icelandic": "Þetta er ömurleg mynd.; Þetta er hræðileg mynd.",
+    "english": "This is a terrible/awful film.",
+    "depends_on": "ömurlegur",
+    "level": "1",
+    "row_id": 564
+  },
+  {
+    "icelandic": "Þetta gengur eitthvað hálfilla.",
+    "row_id": 1097
+  },
+  {
+    "icelandic": "Þetta gengur ekki vel.",
+    "english": "This is not going well.",
+    "depends_on": "að ganga",
+    "level": "1",
+    "row_id": 160
+  },
+  {
+    "icelandic": "Þetta kaffi er gott.",
+    "english": "This coffee is good.",
+    "depends_on": "þessi",
+    "basic_form": "þessi",
+    "level": "1",
+    "row_id": 818
+  },
+  {
+    "icelandic": "Þetta kemur illa út.",
+    "depends_on": "að koma vel út, illa",
+    "level": "2.4",
+    "row_id": 803
+  },
+  {
+    "icelandic": "Þetta kemur vel út.",
+    "depends_on": "að koma, vel, út",
+    "level": "2.4",
+    "alternative_id": "að koma vel út",
+    "row_id": 802
+  },
+  {
+    "icelandic": "Þetta tekur tvo tíma.",
+    "english": "This will take two hourse.",
+    "level": "1",
+    "row_id": 220
+  },
+  {
+    "icelandic": "Þetta var skemmtileg mynd.",
+    "english": "This was a fun/entertaining movie.",
+    "level": "1",
+    "row_id": 219
+  },
+  {
+    "icelandic": "þolinmæði",
+    "english": "patience",
+    "depends_on": "þolinmóður",
+    "level": "3",
+    "row_id": 526
+  },
+  {
+    "icelandic": "þrisvar",
+    "english": "three times",
+    "depends_on": "þrír",
+    "level": "1",
+    "categories": "number",
+    "row_id": 485
+  },
+  {
+    "icelandic": "þríburar",
+    "english": "triplets; three children carried in the same pregnancy",
+    "depends_on": "tvíburar",
+    "level": "4.2",
+    "importance": "-1",
+    "row_id": 898
+  },
+  {
+    "icelandic": "þunnur",
+    "english": "thin;; with a hangover (referring to alcohol)",
+    "level": "3",
+    "row_id": 419
+  },
+  {
+    "icelandic": "þú",
+    "english": "you",
+    "level": "1",
+    "row_id": 1111
+  },
+  {
+    "icelandic": "Þú átt afmæli á morgun.",
+    "english": "It's your birthday tomorrow.",
+    "depends_on": "að eiga, afmæli",
+    "level": "2",
+    "row_id": 587
+  },
+  {
+    "icelandic": "Þú átt bíl.",
+    "english": "You own a car.",
+    "depends_on": "að eiga",
+    "level": "1",
+    "row_id": 350
+  },
+  {
+    "icelandic": "Þú átt marga vini.",
+    "english": "You have many friends.",
+    "depends_on": "að eiga",
+    "level": "1",
+    "row_id": 347
+  },
+  {
+    "icelandic": "Þú ert algjör hálviti!",
+    "english": "You are a complete idiot!",
+    "depends_on": "algjör, hálfviti",
+    "level": "2",
+    "row_id": 1044
+  },
+  {
+    "icelandic": "Þú ert betri en ég.",
+    "english": "You are better than I am.",
+    "depends_on": "góður",
+    "level": "1",
+    "note_after_show": "\"Betri\" is an adjective.",
+    "row_id": 28
+  },
+  {
+    "icelandic": "Þú ert hálfviti.",
+    "english": "You are an idiot.",
+    "depends_on": "hálfviti",
+    "level": "3",
+    "categories": "rude",
+    "row_id": 463
+  },
+  {
+    "icelandic": "Þú ert með krabbamein.",
+    "english": "You have cancer.",
+    "depends_on": "krabbamein",
+    "level": "3.2",
+    "row_id": 835
+  },
+  {
+    "icelandic": "Þú ert sá fyrsti sem segir þetta.",
+    "row_id": 938
+  },
+  {
+    "icelandic": "Þú ert *öðruvísi* en ég.",
+    "english": "You are *different* from me.",
+    "level": "2",
+    "dont_confuse": "mismunandi",
+    "note_after_show": "\"Mismunandi\" describes a *group* of things being distinct from each other, while \"öðruvísi\" describes *one thing* being different from something else.",
+    "alternative_id": "öðruvísi",
+    "row_id": 423
+  },
+  {
+    "icelandic": "Þú gerir þetta betur en ég.",
+    "english": "You do this better than I do.",
+    "depends_on": "vel",
+    "level": "1",
+    "note_after_show": "\"Betur\" is an adverb, not an adjective.",
+    "row_id": 27
+  },
+  {
+    "icelandic": "Þú hefur rangt fyrir þér.",
+    "english": "You're wrong.",
+    "depends_on": "rangur",
+    "level": "1",
+    "row_id": 122
+  },
+  {
+    "icelandic": "Þú hefur rétt fyrir þér.",
+    "english": "You're right.",
+    "depends_on": "réttur",
+    "level": "1",
+    "row_id": 121
+  },
+  {
+    "icelandic": "Þú lítur hræðilega út.",
+    "english": "You look terrible.; You look like shit.",
+    "depends_on": "hræðilegur, að líta út",
+    "level": "2",
+    "row_id": 568
+  },
+  {
+    "icelandic": "Þú lítur vel út.",
+    "english": "You look good.",
+    "level": "1",
+    "row_id": 30
+  },
+  {
+    "icelandic": "Þú manst að fara út með ruslið.",
+    "english": "Remember to take out the trash.",
+    "depends_on": "að muna, rusl",
+    "level": "2",
+    "row_id": 842
+  },
+  {
+    "icelandic": "Þú mættir ekki í tímann.",
+    "english": "You didn't show up in the class.",
+    "level": "2",
+    "row_id": 504
+  },
+  {
+    "icelandic": "Þú ræður.",
+    "english": "It's up to you.; You decide.",
+    "row_id": 967
+  },
+  {
+    "icelandic": "þú segir",
+    "english": "you say",
+    "basic_form": "að segja",
+    "level": "1",
+    "row_id": 1106
+  },
+  {
+    "icelandic": "Þú skilur mig.",
+    "english": "You understand me.",
+    "depends_on": "að skilja",
+    "level": "1",
+    "row_id": 599
+  },
+  {
+    "icelandic": "þú svafst",
+    "english": "you slept",
+    "basic_form": "að sofa",
+    "row_id": 1013
+  },
+  {
+    "icelandic": "Þú svafst lengi.",
+    "english": "You slept for a long time.",
+    "depends_on": "að sofa, lengi",
+    "level": "3",
+    "row_id": 306
+  },
+  {
+    "icelandic": "Því miður.",
+    "english": "Unfortunately.; Sadly.;; Sadly not.",
+    "depends_on": "því miður",
+    "level": "1",
+    "row_id": 363
+  },
+  {
+    "icelandic": "þýska",
+    "level": "3",
+    "row_id": 978
+  },
+  {
+    "icelandic": "Ætlarðu að elda í kvöld?",
+    "english": "Are you going to cook this evening?",
+    "depends_on": "að elda, í kvöld",
+    "level": "1",
+    "row_id": 589
+  },
+  {
+    "icelandic": "Ætlarðu að fá þér köku?",
+    "english": "Are you going to have some cake?",
+    "level": "1",
+    "row_id": 175
+  },
+  {
+    "icelandic": "Ætlarðu að kaupa þetta?",
+    "english": "Are you going to buy this?",
+    "depends_on": "að kaupa",
+    "level": "1",
+    "row_id": 456
+  },
+  {
+    "icelandic": "Ætlarðu að skilja kartöflurnar eftir?",
+    "row_id": 993
+  },
+  {
+    "icelandic": "ökuskírteini",
+    "english": "a driver's license",
+    "depends_on": "að aka, skírteini",
+    "level": "3",
+    "row_id": 511
+  },
+  {
+    "icelandic": "ökuskírteinið",
+    "english": "the driver's license",
+    "depends_on": "ökuskírteini",
+    "level": "3",
+    "row_id": 512
+  },
+  {
+    "icelandic": "öld",
+    "english": "century",
+    "level": "2",
+    "row_id": 36
+  },
+  {
+    "icelandic": "ömurlegur",
+    "english": "terrible; extremely bad; awful",
+    "level": "1",
+    "direction": "->",
+    "literally": "pitiful, dismal",
+    "row_id": 565
+  },
+  {
+    "icelandic": "örvhentur",
+    "english": "left-handed",
+    "depends_on": "hönd",
+    "level": "4.2",
+    "row_id": 895
+  }
+]

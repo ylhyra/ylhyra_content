@@ -6,8 +6,8 @@ tags:
 - Ylhýra
 ---
 
-<Button>[mailto:ylhyra@ylhyra.is Contact us]</Button>
 Ylhýra is a collaborative project that publishes software and material for making Icelandic accessible. We publish annotated Icelandic texts, explanatory material, and some interactive material. Our own content is available under [[Project:License|an open license]].
+<Button>[mailto:ylhyra@ylhyra.is Contact us]</Button>
 
 ==Authors==
 <Image src="Eliza og Ylhýra.jpg" link="Project:Eliza Reid" position="right" caption="Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland."/>
@@ -38,4 +38,3 @@ Code is [https://github.com/ylhyra/ylhyra available on GitHub].
 
 *[[Project:Become a collaborator|Become a collaborator]]
 *[[Help:Adding material|How to add or edit material]]
-

@@ -1,6 +1,9 @@
 ---
 title: Course/To watch
 vocabulary:
+- auðvitað
+<!--- Ég er ósammála.
+- Hann býr í stóru húsi.-->
 ---
 
 == To watch ==
@@ -34,4 +37,3 @@ Hvað ert þú að lesa um?
 Ég er að lesa bók um Ísland.
 Hvað ert þú að lesa núna?
 Er hún góð?
-
