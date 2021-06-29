@@ -3438,9 +3438,11 @@
 - icelandic: Hvernig er veðrið?
   row_id: 925
 - icelandic: Hvernig finnst þér?
-  english: How do you like (it)?
+  english: How do you like {{g|it}}?; What's your opinion {{g|of it}}?
   Laga?: hmmm
   row_id: 1138
+  basic_form: að finnast
+  last_seen: "2021-06-29"
 - icelandic: Hvernig gengur?
   english: How is it going with the task that you're working on?; Are you making good progress?
   depends_on: að ganga
@@ -4010,9 +4012,11 @@
   row_id: 771
 - icelandic: miðað við
   english: compared to
-  depends_on: að miða
   direction: "->"
   row_id: 1076
+  basic_form: að miða
+  Laga?: gera setningu
+  last_seen: "2021-06-29"
 - icelandic: Mig grunar...
   level: 4
   row_id: 885
