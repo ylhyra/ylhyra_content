@@ -6574,3 +6574,119 @@ sound:
     filename: E1_Hann_er_vinsæll.mp3
     speed: slow
     speaker: E
+  - recording_of: mamma
+    filename: E1_mamma.mp3
+    speed: slow
+    speaker: E
+  - recording_of: allt of mikið
+    filename: E1_allt_of_mikið.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég á eitt barn.
+    filename: E1_Ég_á_eitt_barn.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Býrðu ennþá á Akureyri?
+    filename: E1_Býrðu_ennþá_á_Akureyri.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Býrðu enn á Akureyri?
+    filename: E1_Býrðu_enn_á_Akureyri.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þessi mynd er mjög fræg.
+    filename: E1_Þessi_mynd_er_mjög_fræg.mp3
+    speed: slow
+    speaker: E
+  - recording_of: kannski
+    filename: E1_kannski.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þetta er ótrúlega góð bók.
+    filename: E1_Þetta_er_ótrúlega_góð_bók.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Áttu bíl?
+    filename: E1_Áttu_bíl.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann er mjög reiður yfir því.
+    filename: E1_Hann_er_mjög_reiður_yfir_því.mp3
+    speed: slow
+    speaker: E
+  - recording_of: íslenska
+    filename: E1_íslenska.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að mæla með
+    filename: E1_að_mæla_með.mp3
+    speed: slow
+    speaker: E
+  - recording_of: ókei
+    filename: E1_ókei.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Er gaman að læra íslensku?
+    filename: E1_Er_gaman_að_læra_íslensku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þú átt marga vini.
+    filename: E1_Þú_átt_marga_vini.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann hlustar ekki á pabba sinn.
+    filename: E1_Hann_hlustar_ekki_á_pabba_sinn.mp3
+    speed: slow
+    speaker: E
+  - recording_of: aldrei
+    filename: E1_aldrei.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það búa margir í New York.
+    filename: E1_Það_búa_margir_í_New_York.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Nei, því miður.
+    filename: E1_Nei_því_miður.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég á marga vini.
+    filename: E1_Ég_á_marga_vini.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er ekkert að gerast.
+    filename: E1_Það_er_ekkert_að_gerast.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvar býrðu?
+    filename: E1_Hvar_býrðu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ertu að gera?
+    filename: E1_Hvað_ertu_að_gera.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Kanntu að elda?
+    filename: E1_Kanntu_að_elda.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvenær ætlarðu að koma til Íslands?
+    filename: E1_Hvenær_ætlarðu_að_koma_til_Íslands.mp3
+    speed: slow
+    speaker: E
+  - recording_of: kona
+    filename: E1_kona.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það eru fimm menn hérna.
+    filename: E1_Það_eru_fimm_menn_hérna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: fjölskyldan mín
+    filename: E1_fjölskyldan_mín.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ertu að vinna á morgun?
+    filename: E1_Ertu_að_vinna_á_morgun.mp3
+    speed: slow
+    speaker: E
