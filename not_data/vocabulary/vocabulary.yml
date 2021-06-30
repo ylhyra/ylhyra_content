@@ -2039,6 +2039,11 @@ rows:
     depends_on: að tala
     level: 2
     row_id: 212
+  - icelandic: Ég tók upp myndband.
+    english: I recorded a video.
+    level: 3
+    basic form: að taka upp%
+    row_id: 649
   - icelandic: Ég trúi því ekki.
     english: I don't believe it.
     depends_on: að trúa
@@ -2599,11 +2604,6 @@ rows:
   - icelandic: Getur{{ðu}} sótt mig eftir hálftíma?
     basic_form: að sækja
     row_id: 973
-  - icelandic: Ég tók upp myndband.
-    english: I recorded a video.
-    level: 3
-    basic form: að taka upp%
-    row_id: 649
   - icelandic: Gott mál.
     level: 3
     direction: "->"
@@ -3222,6 +3222,11 @@ rows:
     depends_on: að horfa á
     level: 1
     row_id: 495
+  - icelandic: Hvað ert{{u}} búinn að læra íslensku lengi?
+    english: For how long have you been learning Icelandic?
+    depends_on: lengi
+    level: 1
+    row_id: 335
   - icelandic: Hvað ert{{u}} eiginlega að tala um?
     row_id: 953
   - icelandic: Hvað ert{{u}} kominn langt?
@@ -3231,11 +3236,6 @@ rows:
     depends_on: vör
     level: 2
     row_id: 882
-  - icelandic: Hvað ert{{u}} búinn að læra íslensku lengi?
-    english: For how long have you been learning Icelandic?
-    depends_on: lengi
-    level: 1
-    row_id: 335
   - icelandic: Hvað er það aftur?
     english: What's that again?; Tell me again∆ what's that?
     level: 2
@@ -3336,10 +3336,6 @@ rows:
     english: What are you going to do tomorrow?
     level: 1
     row_id: 50
-  - icelandic: Hvað ætlar{{ðu}} að gera um helgina?
-    english: What are you going to do this weekend?
-    level: 1
-    row_id: 170
   - icelandic: Hvað ætlar{{ðu}} að gera í dag?
     english: What do you plan on doing today?
     level: 1
@@ -3348,6 +3344,10 @@ rows:
     english: What are you going to do this evening?
     level: 1
     row_id: 258
+  - icelandic: Hvað ætlar{{ðu}} að gera um helgina?
+    english: What are you going to do this weekend?
+    level: 1
+    row_id: 170
   - icelandic: Hvað ætlar{{ðu}} að kaupa úti í búð?
     english: What are you going to buy in the grocery store?
     depends_on: að kaupa, búð
@@ -3639,15 +3639,15 @@ rows:
     level: 1
     dont_confuse: stundum
     row_id: 480
+  - icelandic: Kannt{{u}} að elda?
+    english: Do you know how to cook?
+    level: 1
+    row_id: 65
   - icelandic: Kanntu mörg tungumál?; Kanntu mörg mál?
     english: Do you know many languages?
     depends_on: tungumál, mál
     level: 2
     row_id: 510
-  - icelandic: Kannt{{u}} að elda?
-    english: Do you know how to cook?
-    level: 1
-    row_id: 65
   - icelandic: Kemstu á morgun?
     english: Will you be able to come tomorrow?
     depends_on: að komast
@@ -4986,7 +4986,7 @@ rows:
     english: That is not certain.
     depends_on: vís
     basic_form: "\"Víst\" is the [[neuter]] form of \"vís\". The term \"viss\" is related but describes persons being certain about something."
-    level: 2
+    level: 3
     row_id: 681
   - icelandic: Það er enginn hérna.; Það er ekki neinn hérna.
     english: There's nobody here.
@@ -5004,7 +5004,7 @@ rows:
     level: 1
     row_id: 208
   - icelandic: Það er gaman í vinnunni.
-    english: It's fun at (my) job.; It's fun being at work.
+    english: I enjoy being at work.
     depends_on: vinna
     level: 2
     row_id: 762
@@ -5904,5 +5904,673 @@ sound:
     speaker: E
   - recording_of: Ég kem eftir þrjá tíma.
     filename: E1_Ég_kem_eftir_þrjá_tíma.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að ganga vel
+    filename: E1_að_ganga_vel.mp3
+    speed: slow
+    speaker: E
+  - recording_of: áhugi
+    filename: E1_áhugi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Drekkurðu kaffi?
+    filename: E1_Drekkurðu_kaffi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég hef engan áhuga á þessu.
+    filename: E1_Ég_hef_engan_áhuga_á_þessu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Skilurðu?
+    filename: E1_Skilurðu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: alltaf
+    filename: E1_alltaf.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er stundum erfitt.
+    filename: E1_Það_er_stundum_erfitt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er of heitt.
+    filename: E1_Það_er_of_heitt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: myndin
+    filename: E1_myndin.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvernig lítur þetta út?
+    filename: E1_Hvernig_lítur_þetta_út.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þú gerir þetta betur en ég.
+    filename: E1_Þú_gerir_þetta_betur_en_ég.mp3
+    speed: slow
+    speaker: E
+  - recording_of: tvisvar
+    filename: E1_tvisvar.mp3
+    speed: slow
+    speaker: E
+  - recording_of: fimm sinnum
+    filename: E1_fimm_sinnum.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er betri en hann.
+    filename: E1_Ég_er_betri_en_hann.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég ætla bara að slaka á um helgina.
+    filename: E1_Ég_ætla_bara_að_slaka_á_um_helgina.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er í fríi.
+    filename: E1_Ég_er_í_fríi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ætlarðu að gera í dag?
+    filename: E1_Hvað_ætlarðu_að_gera_í_dag.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég vil ekki tala um það.
+    filename: E1_Ég_vil_ekki_tala_um_það.mp3
+    speed: slow
+    speaker: E
+  - recording_of: kærasti
+    filename: E1_kærasti.mp3
+    speed: slow
+    speaker: E
+  - recording_of: tími
+    filename: E1_tími.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Því miður.
+    filename: E1_Því_miður.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ætlarðu að gera á Íslandi?
+    filename: E1_Hvað_ætlarðu_að_gera_á_Íslandi_781.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er að borða köku.
+    filename: E1_Ég_er_að_borða_köku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: áðan
+    filename: E1_áðan.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er enginn hérna.
+    filename: E1_Það_er_enginn_hérna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er ekki neinn hérna.
+    filename: E1_Það_er_ekki_neinn_hérna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég get ekki gert það.
+    filename: E1_Ég_get_ekki_gert_það.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann er mjög góður að dansa.
+    filename: E1_Hann_er_mjög_góður_að_dansa.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hún er alltaf þreytt.
+    filename: E1_Hún_er_alltaf_þreytt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það vita það allir.
+    filename: E1_Það_vita_það_allir.mp3
+    speed: slow
+    speaker: E
+  - recording_of: kennari
+    filename: E1_kennari.mp3
+    speed: slow
+    speaker: E
+  - recording_of: hvað?
+    filename: E1_hvað.mp3
+    speed: slow
+    speaker: E
+  - recording_of: vinnan
+    filename: E1_vinnan.mp3
+    speed: slow
+    speaker: E
+  - recording_of: margt
+    filename: E1_margt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er í flugvél.
+    filename: E1_Ég_er_í_flugvél.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þetta er leiðinlegt.
+    filename: E1_Þetta_er_leiðinlegt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ertu upptekinn á morgun?
+    filename: E1_Ertu_upptekinn_á_morgun.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Áttu börn?
+    filename: E1_Áttu_börn.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég ætla að hitta vin minn á eftir.
+    filename: E1_Ég_ætla_að_hitta_vin_minn_á_eftir.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að vera
+    filename: E1_að_vera.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Er mikið að gera í vinnunni?
+    filename: E1_Er_mikið_að_gera_í_vinnunni.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ertu á Íslandi?
+    filename: E1_Ertu_á_Íslandi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég man ekki eftir því.
+    filename: E1_Ég_man_ekki_eftir_því.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég skil þetta ekki.
+    filename: E1_Ég_skil_þetta_ekki.mp3
+    speed: slow
+    speaker: E
+  - recording_of: vinna
+    filename: E1_vinna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þetta var skemmtileg mynd.
+    filename: E1_Þetta_var_skemmtileg_mynd.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað á ég að gera?
+    filename: E1_Hvað_á_ég_að_gera.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Vinnur vinur þinn ekki hérna?
+    filename: E1_Vinnur_vinur_þinn_ekki_hérna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þú lítur vel út.
+    filename: E1_Þú_lítur_vel_út.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að eiga
+    filename: E1_að_eiga.mp3
+    speed: slow
+    speaker: E
+  - recording_of: það er
+    filename: E1_það_er.mp3
+    speed: slow
+    speaker: E
+  - recording_of: poki
+    filename: E1_poki.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég þekki hana ekki vel.
+    filename: E1_Ég_þekki_hana_ekki_vel.mp3
+    speed: slow
+    speaker: E
+  - recording_of: hratt
+    filename: E1_hratt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að hitta einhvern
+    filename: E1_að_hitta_einhvern.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Bandaríkin eru stórt land.
+    filename: E1_Bandaríkin_eru_stórt_land.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að hreyfa sig
+    filename: E1_að_hreyfa_sig.mp3
+    speed: slow
+    speaker: E
+  - recording_of: a, á, bé, sé
+    filename: E1_a_á_bé_sé.mp3
+    speed: slow
+    speaker: E
+  - recording_of: mjög
+    filename: E1_mjög.mp3
+    speed: slow
+    speaker: E
+  - recording_of: seinna
+    filename: E1_seinna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ætlarðu að gera í kvöld?
+    filename: E1_Hvað_ætlarðu_að_gera_í_kvöld.mp3
+    speed: slow
+    speaker: E
+  - recording_of: þáttur
+    filename: E1_þáttur.mp3
+    speed: slow
+    speaker: E
+  - recording_of: í kvöld
+    filename: E1_í_kvöld.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ertu að horfa á?
+    filename: E1_Hvað_ertu_að_horfa_á.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Á hvað ertu að horfa?
+    filename: E1_Á_hvað_ertu_að_horfa.mp3
+    speed: slow
+    speaker: E
+  - recording_of: halló
+    filename: E1_halló.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hver er þetta?
+    filename: E1_Hver_er_þetta.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég skil ekki mikið.
+    filename: E1_Ég_skil_ekki_mikið.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Mælirðu með því?
+    filename: E1_Mælirðu_með_því.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er sammála.
+    filename: E1_Ég_er_sammála.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég kann ekki ensku.
+    filename: E1_Ég_kann_ekki_ensku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að ganga illa
+    filename: E1_að_ganga_illa.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvernig gengur?
+    filename: E1_Hvernig_gengur.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég ætla að hætta að reykja.
+    filename: E1_Ég_ætla_að_hætta_að_reykja.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Konan mín er tónlistarmaður.
+    filename: E1_Konan_mín_er_tónlistarmaður.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvert langar þig að fara?
+    filename: E1_Hvert_langar_þig_að_fara.mp3
+    speed: slow
+    speaker: E
+  - recording_of: vitlaus
+    filename: E1_vitlaus.mp3
+    speed: slow
+    speaker: E
+  - recording_of: föt
+    filename: E1_föt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Langar þig að koma með?
+    filename: E1_Langar_þig_að_koma_með.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er heima.
+    filename: E1_Ég_er_heima.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Gaman að sjá þig.
+    filename: E1_Gaman_að_sjá_þig.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er í vinnunni.
+    filename: E1_Ég_er_í_vinnunni.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að sjálfsögðu
+    filename: E1_að_sjálfsögðu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hún er íslensk.
+    filename: E1_Hún_er_íslensk.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er ekki laus í þessari viku.
+    filename: E1_Ég_er_ekki_laus_í_þessari_viku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég fer út.
+    filename: E1_Ég_fer_út.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Við þekkjumst ekki.
+    filename: E1_Við_þekkjumst_ekki.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað viltu mikið?
+    filename: E1_Hvað_viltu_mikið.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hversu mikið viltu?
+    filename: E1_Hversu_mikið_viltu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: úti
+    filename: E1_úti.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég þarf að vinna í dag.
+    filename: E1_Ég_þarf_að_vinna_í_dag.mp3
+    speed: slow
+    speaker: E
+  - recording_of: á eftir
+    filename: E1_á_eftir.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ertu búinn að læra íslensku lengi?
+    filename: E1_Hvað_ertu_búinn_að_læra_íslensku_lengi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er að reyna að elda en það gengur ekki vel.
+    filename: E1_Ég_er_að_reyna_að_elda_en_það_gengur_ekki_vel.mp3
+    speed: slow
+    speaker: E
+  - recording_of: heima
+    filename: E1_heima.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég hitti hann á morgun.
+    filename: E1_Ég_hitti_hann_á_morgun.mp3
+    speed: slow
+    speaker: E
+  - recording_of: sjö sinnum
+    filename: E1_sjö_sinnum.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvernig segir maður X á íslensku?
+    filename: E1_Hvernig_segir_maður_X_á_íslensku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað viltu marga poka?
+    filename: E1_Hvað_viltu_marga_poka.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þetta er löng bók.
+    filename: E1_Þetta_er_löng_bók.mp3
+    speed: slow
+    speaker: E
+  - recording_of: stundum
+    filename: E1_stundum.mp3
+    speed: slow
+    speaker: E
+  - recording_of: maður
+    filename: E1_maður.mp3
+    speed: slow
+    speaker: E
+  - recording_of: ömurlegur
+    filename: E1_ömurlegur.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann ætlar að tala við mömmu sína.
+    filename: E1_Hann_ætlar_að_tala_við_mömmu_sína.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann býr í stóru húsi.
+    filename: E1_Hann_býr_í_stóru_húsi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég borða alltaf mikið.
+    filename: E1_Ég_borða_alltaf_mikið.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað segirðu gott?
+    filename: E1_Hvað_segirðu_gott.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ætlarðu að gera á morgun?
+    filename: E1_Hvað_ætlarðu_að_gera_á_morgun.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Tíminn líður hægt.
+    filename: E1_Tíminn_líður_hægt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: þú segir
+    filename: E1_þú_segir.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Í hvernig fötum ertu?
+    filename: E1_Í_hvernig_fötum_ertu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: ex, ufsilon i, ufsilon í
+    filename: E1_ex_ufsilon_i_ufsilon_í.mp3
+    speed: slow
+    speaker: E
+  - recording_of: þarna
+    filename: E1_þarna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: þar
+    filename: E1_þar.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er skrýtið.
+    filename: E1_Það_er_skrýtið.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að kenna
+    filename: E1_að_kenna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að vera til
+    filename: E1_að_vera_til.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að reyna
+    filename: E1_að_reyna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég borða allt of mikið.
+    filename: E1_Ég_borða_allt_of_mikið.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Við sjáumst fljótt.
+    filename: E1_Við_sjáumst_fljótt.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég var veikur í síðustu viku.
+    filename: E1_Ég_var_veikur_í_síðustu_viku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég ætla að koma í sumar.
+    filename: E1_Ég_ætla_að_koma_í_sumar.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að heimsækja
+    filename: E1_að_heimsækja.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég hitti hann í gær.
+    filename: E1_Ég_hitti_hann_í_gær.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég er verri en síðast.
+    filename: E1_Ég_er_verri_en_síðast.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að muna
+    filename: E1_að_muna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Það er erfitt að vera kennari.
+    filename: E1_Það_er_erfitt_að_vera_kennari.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Viltu hittast á eftir?
+    filename: E1_Viltu_hittast_á_eftir_447.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég hef áhuga á þessu.
+    filename: E1_Ég_hef_áhuga_á_þessu.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Viltu hitta hann á eftir?
+    filename: E1_Viltu_hitta_hann_á_eftir.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég trúi því ekki.
+    filename: E1_Ég_trúi_því_ekki.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég á bíl.
+    filename: E1_Ég_á_bíl.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Heyrirðu í mér?
+    filename: E1_Heyrirðu_í_mér.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Mjólkin er búin.
+    filename: E1_Mjólkin_er_búin.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Langar þig að vera með okkur?
+    filename: E1_Langar_þig_að_vera_með_okkur.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvar er hann?
+    filename: E1_Hvar_er_hann.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég kem eftir einn tíma.
+    filename: E1_Ég_kem_eftir_einn_tíma.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað ætlarðu að kaupa úti í búð?
+    filename: E1_Hvað_ætlarðu_að_kaupa_úti_í_búð.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Er þetta ókeypis?
+    filename: E1_Er_þetta_ókeypis.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég ætla að vera þar í fjóra daga.
+    filename: E1_Ég_ætla_að_vera_þar_í_fjóra_daga.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Er veðrið gott?
+    filename: E1_Er_veðrið_gott.mp3
+    speed: slow
+    speaker: E
+  - recording_of: aðeins meira
+    filename: E1_aðeins_meira.mp3
+    speed: slow
+    speaker: E
+  - recording_of: smá meira
+    filename: E1_smá_meira.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég vinn heima.
+    filename: E1_Ég_vinn_heima.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég fer í frí í næstu viku.
+    filename: E1_Ég_fer_í_frí_í_næstu_viku.mp3
+    speed: slow
+    speaker: E
+  - recording_of: áhyggjur
+    filename: E1_áhyggjur.mp3
+    speed: slow
+    speaker: E
+  - recording_of: þrisvar
+    filename: E1_þrisvar.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég trúi því ekki alveg.
+    filename: E1_Ég_trúi_því_ekki_alveg.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þú átt bíl.
+    filename: E1_Þú_átt_bíl.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Í alvöru?
+    filename: E1_Í_alvöru.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Mér líður ekki vel.
+    filename: E1_Mér_líður_ekki_vel.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ég verð í vinnunni þá.
+    filename: E1_Ég_verð_í_vinnunni_þá.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann er frægur.
+    filename: E1_Hann_er_frægur.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Vinur minn er enskukennari.
+    filename: E1_Vinur_minn_er_enskukennari.mp3
+    speed: slow
+    speaker: E
+  - recording_of: út
+    filename: E1_út.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hvað er að gerast?
+    filename: E1_Hvað_er_að_gerast.mp3
+    speed: slow
+    speaker: E
+  - recording_of: helgi
+    filename: E1_helgi.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Er einhver hérna?
+    filename: E1_Er_einhver_hérna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Mér líður illa.
+    filename: E1_Mér_líður_illa.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að eiga heima einhvers staðar
+    filename: E1_að_eiga_heima_einhvers_staðar.mp3
+    speed: slow
+    speaker: E
+  - recording_of: að búa
+    filename: E1_að_búa.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Þarftu að vinna í dag?
+    filename: E1_Þarftu_að_vinna_í_dag.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Ertu laus?
+    filename: E1_Ertu_laus.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Áttu kött?
+    filename: E1_Áttu_kött.mp3
+    speed: slow
+    speaker: E
+  - recording_of: núna
+    filename: E1_núna.mp3
+    speed: slow
+    speaker: E
+  - recording_of: nú
+    filename: E1_nú.mp3
+    speed: slow
+    speaker: E
+  - recording_of: Hann er vinsæll.
+    filename: E1_Hann_er_vinsæll.mp3
     speed: slow
     speaker: E
