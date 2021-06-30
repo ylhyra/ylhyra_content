@@ -581,7 +581,7 @@ rows:
     depends_on: góður, fótbolti
     level: 1
     row_id: 585
-  - icelandic: Af hverju ert þú kennari?
+  - icelandic: Af hverju ert{{u}} kennari?
     english: Why are you a teacher?
     level: 1
     row_id: 234
@@ -833,17 +833,17 @@ rows:
     depends_on: opinn
     level: 2
     row_id: 1056
-  - icelandic: Býður þú fólki oft í kaffi?
+  - icelandic: Býður{{u}} fólki oft í kaffi?
     row_id: 988
   - icelandic: Býrð{{u}} ennþá á Akureyri?; Býrð{{u}} enn á Akureyri?
     english: Do you still live in Akureyri?
     level: 1
     row_id: 68
     last_seen: "2021-06-29"
-  - icelandic: Býstu við því að vera laus á morgun?
+  - icelandic: Býst{{u}} við því að vera laus á morgun?
     english: Do you expect that you will be available tomorrow?
     depends_on: að búast við, laus
-    level: 2
+    level: 3
     row_id: 722
   - icelandic: Börnin hans eru illa upp alin.
     english: His children are badly raised.; His children have received a bad upbringing.
@@ -2384,11 +2384,11 @@ rows:
     english: shy
     level: 3
     row_id: 1170
-  - icelandic: Ferð þú oft á kaffihús?
+  - icelandic: Ferð{{u}} oft á kaffihús?
     row_id: 989
   - icelandic: ferhyrningur
     english: a square (shape)
-    depends_on: fjórir
+    depends_on: fjórir, horn
     level: 5
     note_after_show: "\"Fer-\" is related to \"fjórir\""
     importance: "-1"
@@ -2490,7 +2490,7 @@ rows:
     english: a meeting
     level: 1
     row_id: 502
-  - icelandic: Fylgist þú með boltanum?
+  - icelandic: Fylgist{{u}} með boltanum?
     english: Do you pay attention to football/handball/basketball?
     depends_on: að fylgjast með, bolti
     level: 2
@@ -2572,38 +2572,37 @@ rows:
     depends_on: að skipta
     level: 2
     row_id: 668
-  - icelandic: Geturðu ekki drifið þig?
-    english: Can't you hurry up?
+  - icelandic: Getur{{ðu}} drifið þig?
+    english: Can you hurry up?
     depends_on: að drífa sig
     level: 3
     row_id: 614
-  - icelandic: Geturðu farið yfir ritgerðina mína?
+  - icelandic: Getur{{ðu}} farið yfir ritgerðina mína?
     level: 3
     row_id: 920
-  - icelandic: Geturðu *gert við* tölvuna mína?; Geturðu *lagað* tölvuna mína?
+  - icelandic: Getur{{ðu}} *gert við* tölvuna mína?; Getur{{ðu}} *lagað* tölvuna mína?
     english: Can you *fix* my computer?
     depends_on: að gera, að laga
     level: 2
     alternative_id: að gera við eitthvað
     row_id: 683
-  - icelandic: Geturðu hringt í mig á eftir?
+  - icelandic: Getur{{ðu}} hringt í mig á eftir?
     english: Can you call me later today?
     depends_on: að hringja
     level: 2
     row_id: 79
-  - icelandic: Geturðu sótt mig?
+  - icelandic: Getur{{ðu}} sótt mig?
     english: Can you come pick me up?
     depends_on: að sækja
     level: 2
     row_id: 113
-  - icelandic: Geturðu sótt mig eftir hálftíma?
+  - icelandic: Getur{{ðu}} sótt mig eftir hálftíma?
     basic_form: að sækja
     row_id: 973
-  - icelandic: Geturðu *tekið upp* tónleikana mína?
-    english: Can you *record* my concert?
+  - icelandic: Ég tók upp myndband.
+    english: I recorded a video.
     level: 3
-    literally: Can you take me up.
-    alternative_id: að taka upp
+    basic form: að taka upp%
     row_id: 649
   - icelandic: Gott mál.
     level: 3
@@ -2999,7 +2998,7 @@ rows:
     depends_on: að heimsækja
     level: 1
     row_id: 241
-  - icelandic: Heldurðu að hann geti hjálpað mér?
+  - icelandic: Heldur{{ðu}} að hann geti hjálpað mér?
     english: Do you think that he can help me?
     depends_on: að hjálpa
     level: 3
@@ -3030,7 +3029,7 @@ rows:
     depends_on: herbergi
     level: 2
     row_id: 828
-  - icelandic: Heyrirðu í mér?
+  - icelandic: Heyrir{{ðu}} í mér?
     english: Can you hear me?
     depends_on: að heyra
     level: 1
@@ -3187,7 +3186,7 @@ rows:
     row_id: 1104
   - icelandic: Hvaða mál er talað þar?
     row_id: 983
-  - icelandic: Hvaðan ertu?
+  - icelandic: Hvaðan ert{{u}}?
     english: Where are you from?
     depends_on: hvaðan
     level: 2
@@ -3214,25 +3213,25 @@ rows:
     depends_on: að gerast
     level: 1
     row_id: 410
-  - icelandic: Hvað ertu að gera?
+  - icelandic: Hvað ert{{u}} að gera?
     english: What are you doing?
     level: 1
     row_id: 51
-  - icelandic: Hvað ertu að horfa á?; Á hvað ertu að horfa?
+  - icelandic: Hvað ert{{u}} að horfa á?; Á hvað ert{{u}} að horfa?
     english: What are you watching?
     depends_on: að horfa á
     level: 1
     row_id: 495
-  - icelandic: Hvað ertu eiginlega að tala um?
+  - icelandic: Hvað ert{{u}} eiginlega að tala um?
     row_id: 953
-  - icelandic: Hvað ertu kominn langt?
+  - icelandic: Hvað ert{{u}} kominn langt?
     row_id: 948
-  - icelandic: Hvað ertu með á vörinni?
+  - icelandic: Hvað ert{{u}} með á vörinni?
     english: What do you have on your lip?
     depends_on: vör
     level: 2
     row_id: 882
-  - icelandic: Hvað ert þú búinn að læra íslensku lengi?
+  - icelandic: Hvað ert{{u}} búinn að læra íslensku lengi?
     english: For how long have you been learning Icelandic?
     depends_on: lengi
     level: 1
@@ -3250,11 +3249,11 @@ rows:
     depends_on: að finnast
     level: 1
     row_id: 769
-  - icelandic: Hvað gerðirðu um helgina?
+  - icelandic: Hvað gerðir{{ðu}} um helgina?
     english: What did you do this weekend?
     level: 2
     row_id: 171
-  - icelandic: Hvað gerðirðu við hann?
+  - icelandic: Hvað gerðir{{ðu}} við hann?
     english: What did you do to him?
     depends_on: að gera
     level: 2
@@ -3276,27 +3275,26 @@ rows:
     depends_on: að heita
     level: 1
     row_id: 216
-  - icelandic: Hvað í andskotanum ertu að gera?; Hvað í fjandanum ertu að gera?
+  - icelandic: Hvað í andskotanum ert{{u}} að gera?; Hvað í fjandanum ert{{u}} að gera?
     english: What the hell are you doing?
     depends_on: andskoti, fjandi
     level: 2
     direction: "->"
     categories: rude
     row_id: 500
-  - icelandic: Hvað meinarðu?
+  - icelandic: Hvað meinar{{ðu}}?
     english: What do you mean?
     level: 1
     row_id: 143
-  - icelandic: Hvað segirðu gott?
+  - icelandic: Hvað segir{{ðu}} gott?
     english: How are you?
     depends_on: þú segir
     level: 1
-    note_after_show: "\"Segirðu\" is made by combining \"segir\" + \"þú\"."
     literally: What do you say that is good?
     row_id: 1112
   - icelandic: Hvað skulda ég þér mikið?
     row_id: 922
-  - icelandic: Hvað tekurðu mikið á tímann?
+  - icelandic: Hvað tekur{{ðu}} mikið á tímann?
     english: What is your hourly rate?; How much do you charge for each hour of your time?
     depends_on: að taka, tími, mikill
     level: 3.3
@@ -3306,17 +3304,17 @@ rows:
     depends_on: tími, langur
     level: 1
     row_id: 362
-  - icelandic: Hvað viltu fá?
+  - icelandic: Hvað vilt{{u}} fá?
     english: What do you want to get?
     depends_on: að fá
     level: 1
     row_id: 276
-  - icelandic: Hvað viltu marga poka?
+  - icelandic: Hvað vilt{{u}} marga poka?
     english: How many bags do you want?
     depends_on: að vilja, poki
     level: 1
     row_id: 153
-  - icelandic: Hvað viltu mikið?; Hversu mikið viltu?
+  - icelandic: Hvað vilt{{u}} mikið?; Hversu mikið vilt{{u}}?
     english: How much do you want?
     level: 1
     row_id: 20
@@ -3326,31 +3324,31 @@ rows:
     english: What does this word mean?
     level: 1
     row_id: 202
-  - icelandic: Hvað ætlarðu að gera á eftir?
+  - icelandic: Hvað ætlar{{ðu}} að gera á eftir?
     english: What are you going to do later today?
     level: 1
     row_id: 49
-  - icelandic: Hvað ætlarðu að gera á Íslandi?
+  - icelandic: Hvað ætlar{{ðu}} að gera á Íslandi?
     english: What are you going to do in Iceland?
     level: 1
     row_id: 592
-  - icelandic: Hvað ætlarðu að gera á morgun?
+  - icelandic: Hvað ætlar{{ðu}} að gera á morgun?
     english: What are you going to do tomorrow?
     level: 1
     row_id: 50
-  - icelandic: Hvað ætlarðu að gera um helgina?
+  - icelandic: Hvað ætlar{{ðu}} að gera um helgina?
     english: What are you going to do this weekend?
     level: 1
     row_id: 170
-  - icelandic: Hvað ætlar þú að gera í dag?
+  - icelandic: Hvað ætlar{{ðu}} að gera í dag?
     english: What do you plan on doing today?
     level: 1
     row_id: 231
-  - icelandic: Hvað ætlar þú að gera í kvöld?
+  - icelandic: Hvað ætlar{{ðu}} að gera í kvöld?
     english: What are you going to do this evening?
     level: 1
     row_id: 258
-  - icelandic: Hvað ætlar þú að kaupa úti í búð?
+  - icelandic: Hvað ætlar{{ðu}} að kaupa úti í búð?
     english: What are you going to buy in the grocery store?
     depends_on: að kaupa, búð
     level: 1
@@ -3361,12 +3359,12 @@ rows:
     direction: "->"
     literally: Where do you have home?
     row_id: 246
-  - icelandic: Hvar býrðu?
+  - icelandic: Hvar býrð{{u}}?
     english: Where do you live?
     level: 1
     direction: "->"
     row_id: 245
-  - icelandic: Hvar býrðu?; Hvar áttu heima?
+  - icelandic: Hvar býrð{{u}}?; Hvar áttu heima?
     english: Where do you live?
     level: 1
     direction: <-
@@ -3385,7 +3383,7 @@ rows:
     depends_on: salerni
     level: 3
     row_id: 697
-  - icelandic: Hvar ætlar þú að búa?
+  - icelandic: Hvar ætlar{{ðu}} að búa?
     english: Where do you plan on living?
     depends_on: að búa
     level: 1
@@ -3408,7 +3406,7 @@ rows:
     depends_on: að opna
     level: 2
     row_id: 1052
-  - icelandic: Hvenær ætlar þú að koma til Íslands?
+  - icelandic: Hvenær ætlar{{ðu}} að koma til Íslands?
     english: When are you going to come to Iceland?
     level: 1
     row_id: 263
@@ -3422,7 +3420,7 @@ rows:
     depends_on: hver
     level: 1
     row_id: 467
-  - icelandic: Hver heldurðu eiginlega að þú sért?
+  - icelandic: Hver heldur{{ðu}} eiginlega að þú sért?
     english: Who do you think you are?!
     depends_on: eiginlega
     level: 3
@@ -3453,7 +3451,7 @@ rows:
     english: How does one do this?
     level: 1
     row_id: 18
-  - icelandic: Hvernig hefurðu efni á þessu?
+  - icelandic: Hvernig hefur{{ðu}} efni á þessu?
     english: How can you afford this?
     level: 2
     row_id: 127
@@ -3496,7 +3494,7 @@ rows:
     depends_on: hvert, á eftir, að langa
     level: 1
     row_id: 14
-  - icelandic: Hvort viltu?
+  - icelandic: Hvort vilt{{u}}?
     english: Which of the two items do you want?
     depends_on: hvor
     level: 2
@@ -3574,7 +3572,7 @@ rows:
     depends_on: kvöld, í gær
     level: 3
     row_id: 395
-  - icelandic: Í hvernig fötum ertu?
+  - icelandic: Í hvernig fötum ert{{u}}?
     english: What type of clothes are you wearing?
     depends_on: föt, að vera í
     level: 1
@@ -3646,7 +3644,7 @@ rows:
     depends_on: tungumál, mál
     level: 2
     row_id: 510
-  - icelandic: Kannt þú að elda?
+  - icelandic: Kannt{{u}} að elda?
     english: Do you know how to cook?
     level: 1
     row_id: 65
@@ -4083,7 +4081,7 @@ rows:
     depends_on: texti, að vera með
     level: 2
     row_id: 237
-  - icelandic: Mælirðu með því?
+  - icelandic: Mælir{{ðu}} með því?
     english: Do you recommend it?
     level: 1
     row_id: 34
@@ -4317,7 +4315,7 @@ rows:
   - icelandic: skeið
     level: 2
     row_id: 710
-  - icelandic: Skilurðu?
+  - icelandic: Skilur{{ðu}}?
     english: Do you understand?
     depends_on: að skilja
     level: 1
@@ -4360,7 +4358,7 @@ rows:
     level: 3.5
     note_after_show: "\"Ár\" is here in singular because \"a half\" is singular."
     row_id: 1050
-  - icelandic: Splæsirðu?
+  - icelandic: Splæsir{{ðu}}?
     english: Your treat?; Are you going to be the one to splurge on this item for me?; Will you be paying for me?
     basic_form: að splæsa
     level: 3.5
@@ -4635,7 +4633,7 @@ rows:
     english: to be awake
     level: 2
     row_id: 292
-  - icelandic: Vaknaðirðu snemma?
+  - icelandic: Vaknaðir{{ðu}} snemma?
     english: Did you wake up early?
     depends_on: að vakna, snemma
     level: 2
@@ -4797,58 +4795,47 @@ rows:
     depends_on: sund
     level: 2
     row_id: 461
-  - icelandic: Viltu afritið?
+  - icelandic: Vilt{{u}} afritið?
     english: Do you want the receipt?
     level: 2
     direction: "->"
     alternative_id: afrit
     row_id: 476
-  - icelandic: Viltu bæta einhverju við?
+  - icelandic: Vilt{{u}} bæta einhverju við?
     english: Is there anything you want to add?
     level: 3
     row_id: 71
-  - icelandic: Viltu hitta hann á eftir?
+  - icelandic: Vilt{{u}} hitta hann á eftir?
     english: Do you want to meet him later today?
     level: 1
     row_id: 382
-  - icelandic: Viltu hittast á eftir?
+  - icelandic: Vilt{{u}} hittast á eftir?
     english: Do you want to meet later today?
     level: 1
     row_id: 381
-  - icelandic: Viltu kíkja í heimsókn á eftir?
+  - icelandic: Vilt{{u}} kíkja í heimsókn á eftir?
     english: Do you want to come over for a quick visit later today?
     depends_on: að kíkja í heimsókn
     level: 2
     note_after_show: The word "kíkja" here means that you're offering them to come over for a short visit, which sounds more polite.
     row_id: 604
-  - icelandic: Viltu kvittun?
+  - icelandic: Vilt{{u}} kvittun?
     english: Do you want a receipt?
     depends_on: kvittun
     level: 2
     direction: "->"
     alternative_id: kvittun
     row_id: 477
-  - icelandic: Viltu skiptast á?
+  - icelandic: Vilt{{u}} skiptast á?
     english: Do you want to take turns (with me using this item)?
     depends_on: að skiptast á
-    level: 3
+    level: 4
     row_id: 672
-  - icelandic: Viltu tala við hann?
+    Laga?: já
+  - icelandic: Vilt{{u}} tala við hann?
     english: Do you want to speak to him?
     level: 1
     row_id: 183
-  - icelandic: Viltu þessa tölvu?
-    english: Do you want this computer?
-    depends_on: þessi
-    basic_form: þessi
-    level: 1
-    row_id: 824
-  - icelandic: Viltu þetta kaffi?
-    english: Do you want this coffee?
-    depends_on: þessi
-    basic_form: þessi
-    level: 1
-    row_id: 821
   - icelandic: vinkona
     english: a female friend
     depends_on: vinur, kona
@@ -5493,21 +5480,21 @@ rows:
   - icelandic: þýska
     level: 3
     row_id: 978
-  - icelandic: Ætlarðu að elda í kvöld?
+  - icelandic: Ætlar{{ðu}} að elda í kvöld?
     english: Are you going to cook this evening?
     depends_on: að elda, í kvöld
     level: 1
     row_id: 589
-  - icelandic: Ætlarðu að fá þér köku?
+  - icelandic: Ætlar{{ðu}} að fá þér köku?
     english: Are you going to have some cake?
     level: 1
     row_id: 175
-  - icelandic: Ætlarðu að kaupa þetta?
+  - icelandic: Ætlar{{ðu}} að kaupa þetta?
     english: Are you going to buy this?
     depends_on: að kaupa
     level: 1
     row_id: 456
-  - icelandic: Ætlarðu að skilja kartöflurnar eftir?
+  - icelandic: Ætlar{{ðu}} að skilja kartöflurnar eftir?
     row_id: 993
   - icelandic: ökuskírteini
     english: a driver's license
@@ -5663,7 +5650,7 @@ sound:
     filename: E1_Hvar_býr_vinur_þinn.mp3
     speed: slow
     speaker: E
-  - recording_of: Viltu hittast á eftir?
+  - recording_of: Vilt{{u}} hittast á eftir?
     filename: E1_Viltu_hittast_á_eftir.mp3
     speed: slow
     speaker: E
@@ -5735,7 +5722,7 @@ sound:
     filename: E1_fjölskyldan.mp3
     speed: slow
     speaker: E
-  - recording_of: Ætlarðu að elda í kvöld?
+  - recording_of: Ætlar{{ðu}} að elda í kvöld?
     filename: E1_Ætlarðu_að_elda_í_kvöld.mp3
     speed: slow
     speaker: E
@@ -5791,7 +5778,7 @@ sound:
     filename: E1_Það_er_gott.mp3
     speed: slow
     speaker: E
-  - recording_of: Ætlarðu að kaupa þetta?
+  - recording_of: Ætlar{{ðu}} að kaupa þetta?
     filename: E1_Ætlarðu_að_kaupa_þetta.mp3
     speed: slow
     speaker: E
@@ -5839,7 +5826,7 @@ sound:
     filename: E1_margir.mp3
     speed: slow
     speaker: E
-  - recording_of: Viltu tala við hann?
+  - recording_of: Vilt{{u}} tala við hann?
     filename: E1_Viltu_tala_við_hann.mp3
     speed: slow
     speaker: E
@@ -5851,7 +5838,7 @@ sound:
     filename: E1_eldur.mp3
     speed: slow
     speaker: E
-  - recording_of: Hvað ætlarðu að gera á Íslandi?
+  - recording_of: Hvað ætlar{{ðu}} að gera á Íslandi?
     filename: E1_Hvað_ætlarðu_að_gera_á_Íslandi.mp3
     speed: slow
     speaker: E
