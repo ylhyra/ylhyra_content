@@ -183,7 +183,7 @@ rows:
     depends_on: að ganga, illa
     last_seen: "2021-06-29"
   - icelandic: að ganga vel
-    english: "to be going well;; {{g|for something}}\_to be progressing in a satisfactory manner"
+    english: to be going well;; {{g|for something}} to be progressing in a satisfactory manner
     level: 1
     row_id: 162
     depends_on: að ganga, vel
@@ -941,6 +941,7 @@ rows:
     direction: <-
     categories: alphabet
     row_id: 1031
+    last_seen: "2021-07-01"
   - icelandic: eftir Krist (e. Kr.)
     english: anno Domini (A.D.) (as opposed to "before Christ (B.C.)")
     row_id: 1157
@@ -2487,7 +2488,7 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Finnst þér kjöt gott?
     english: Do you like meat?
-    depends_on: "kjöt, "
+    depends_on: kjöt
     level: 1
     row_id: 406
     basic_form: að finnast, góður
@@ -2534,9 +2535,11 @@ rows:
     row_id: 753
   - icelandic: flugvél
     english: an airplane
-    depends_on: vél
+    depends_on: vél, að fljúga
     level: 1
     row_id: 748
+    literally: flight machine
+    last_seen: "2021-07-01"
   - icelandic: flugvélin
     english: the airplane
     level: 1
@@ -3729,7 +3732,7 @@ rows:
     level: 1
     row_id: 340
   - icelandic: íslenska
-    english: "{{g|the}}\_Icelandic language"
+    english: "{{g|the}} Icelandic language"
     depends_on: Ísland, íslenskur
     level: 1
     row_id: 337
@@ -3765,8 +3768,9 @@ rows:
   - icelandic: kannski
     english: maybe
     level: 1
-    dont_confuse: stundum
+    dont_confuse: stundum, kenna, kunna
     row_id: 480
+    last_seen: "2021-07-01"
   - icelandic: Kannt{{u}} að elda?
     english: Do you know how to cook?
     level: 1
@@ -3878,7 +3882,7 @@ rows:
   - icelandic: landnám
     english: the settlement of Iceland
     level: 4
-    note_after_show: "The term is only used for the settlement of Iceland which occurred in the 9th and 10th centuries. „Að nema land“\_is to settle land."
+    note_after_show: The term is only used for the settlement of Iceland which occurred in the 9th and 10th centuries. „Að nema land“ is to settle land.
     row_id: 1126
   - icelandic: Langar þig að koma með?
     english: Do you want to come along?
@@ -4257,6 +4261,7 @@ rows:
     depends_on: því miður
     level: 1
     row_id: 365
+    last_seen: "2021-07-01"
   - icelandic: Nemendurnir mínir eru mjög duglegir.
     english: My students are very hardworking.
     depends_on: duglegur, nemandi
@@ -5022,9 +5027,11 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Vinnur vinur þinn ekki hérna?
     english: Doesn't your friend work here?
-    depends_on: vinur, að vinna
+    depends_on: þinn, hérna
     level: 1
     row_id: 257
+    basic_form: vinur, að vinna
+    last_seen: "2021-07-01"
   - icelandic: Vinur minn er enskukennari.
     english: My friend is an English teacher.
     level: 1
