@@ -1216,6 +1216,8 @@ rows:
     english: Is this him?
     level: 1
     row_id: 575
+    depends_on: þessi, hann
+    last_seen: "2021-07-01"
   - icelandic: Er þetta ókeypis?
     english: Is this for free?
     level: 1
@@ -1223,9 +1225,12 @@ rows:
     Laga?: hmm
     last_seen: "2021-06-29"
   - icelandic: Er þér heitt?
-    english: Are you feeling hot?
+    english: Are you hot?; Are you feeling hot?
     level: 1
     row_id: 59
+    basic_form: þú, heitur
+    note_after_show_is: Notice that "þér" is in the [[third case]] and "heitt" is [[neuter]]. This is an uncommon type of phrase, the reason is that it describes someone's feelings, making it a "Is it hot unto you?"
+    last_seen: "2021-07-01"
   - icelandic: Er þér illt?
     english: Do you feel pain in some body part?
     depends_on: illt
@@ -2287,9 +2292,12 @@ rows:
     level: 2
     row_id: 295
   - icelandic: Ég þarf að vinna í dag.
-    english: I have to work today.
+    english: I need to work today.
     level: 1
     row_id: 378
+    depends_on: í dag, ég
+    basic_form: að þurfa, að vinna
+    last_seen: "2021-07-01"
   - icelandic: Ég þarf því miður *að hætta við*.
     english: I will unfortunately have to *pull out of the plans I had made*/*withdraw*.
     depends_on: að hætta við
@@ -3304,6 +3312,7 @@ rows:
     depends_on: að gerast
     level: 1
     row_id: 410
+    last_seen: "2021-07-01"
   - icelandic: Hvað ert{{u}} að gera?
     english: What are you doing?
     level: 1
@@ -3315,9 +3324,11 @@ rows:
     row_id: 495
   - icelandic: Hvað ert{{u}} búinn að læra íslensku lengi?
     english: For how long have you been learning Icelandic?
-    depends_on: lengi
+    depends_on: búinn, að læra, lengi
     level: 1
     row_id: 335
+    basic_form: íslenska
+    last_seen: "2021-07-01"
   - icelandic: Hvað ert{{u}} eiginlega að tala um?
     row_id: 953
   - icelandic: Hvað ert{{u}} kominn langt?
@@ -3579,10 +3590,11 @@ rows:
     level: 2
     row_id: 127
   - icelandic: Hvernig líður þér?
-    english: How are you feeling?; How do you feel?
+    english: How do you feel?; How are you feeling?
     depends_on: að líða
     level: 1
     row_id: 629
+    last_seen: "2021-07-01"
   - icelandic: Hvernig líst þér á?
     english: How do you like the looks of this?; Do you approve of this?
     depends_on: að lítast á
@@ -3630,8 +3642,9 @@ rows:
   - icelandic: hægt
     english: slow;; doable; possible; achievable
     level: 1
-    alternative_id: hægur
     row_id: 635
+    basic_form: hægur%
+    last_seen: "2021-07-01"
   - icelandic: hækjur
     english: crutches (to help you walk when you are injured)
     level: 4
@@ -3953,6 +3966,7 @@ rows:
     english: a mom; a mother
     level: 1
     row_id: 1114
+    last_seen: "2021-07-01"
   - icelandic: mamma mín
     english: my mom
     depends_on: mamma
@@ -4540,8 +4554,8 @@ rows:
   - icelandic: strax
     english: immediately
     level: 1
-    direction: "->"
     row_id: 846
+    last_seen: "2021-07-01"
   - icelandic: stuð
     level: 4
     importance: "-1"
@@ -5043,12 +5057,14 @@ rows:
     row_id: 256
     basic_form: vinur, að vinna
     last_seen: "2021-07-01"
-  - icelandic: vitlaus
-    english: incorrect; wrong;; stupid
+  - icelandic: v*itlaus*
+    english: incorrect; wrong;; {{g|a}} stupid {{g|person}}
     depends_on: að vita, laus
     level: 1
-    direction: "->"
     row_id: 181
+    note_after_show_is: Both "vitlaus" and "rangur" are common ways to say "incorrect". • Another meaning of "vitlaus" is "someone who has lost their mind".
+    literally: without knowledge; witless
+    last_seen: "2021-07-01"
   - icelandic: vitlaus; rangur
     english: wrong; incorrect
     level: 1
