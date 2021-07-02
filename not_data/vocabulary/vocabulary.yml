@@ -2934,7 +2934,7 @@ rows:
     row_id: 1082
   - icelandic: Hann er hættur að drekka kók.
     english: He has quit drinking Coke.; He no longer drinks Coke.
-    depends_on: að hætta, kók, að drekka
+    depends_on: að hætta, að drekka
     level: 1
     row_id: 372
     Laga?: hmm
@@ -3105,7 +3105,7 @@ rows:
     row_id: 35
   - icelandic: Hann sagðist hafa verið kennari.
     english: He said that he had (previously) been a teacher.; He claimed that he had (previously) been a teacher.
-    depends_on: to claim something about yourself
+    depends_on: að segjast
     level: 3.3
     row_id: 729
   - icelandic: Hann sagðist myndu hjálpa mér.
@@ -4514,7 +4514,8 @@ rows:
     row_id: 1057
   - icelandic: orðaforði
     english: vocabulary
-    depends_on: orð, forði
+    depends_on: orð
+    literally: word supply
     level: 3
     row_id: 514
   - icelandic: ófríður
@@ -4526,7 +4527,7 @@ rows:
     level: 1
     direction: <-
     row_id: 414
-    note_after_show: "\"Ókei\" is never used to describe things (\"It was okay\"), it is only used by itself to show acceptance/agreement."
+    note_after_show: "\"Ókei\" is not used to describe things (as in \"The film was okay\"), it is only used to show acceptance/agreement."
     last_seen: "2021-07-01"
   - icelandic: ókeypis
     english: free of charge
@@ -4686,7 +4687,7 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: smám saman
     english: little by little; gradually
-    depends_on: "3"
+    level: 3
     row_id: 1150
   - icelandic: smjörið
     english: the butter
@@ -5348,15 +5349,15 @@ rows:
     level: 3
     alternative_id: sanngjarn
     row_id: 616
-  - icelandic: Það er ekki til neitt kaffi.; Það er ekkert kaffi ti.
+  - icelandic: Það er ekki til neitt kaffi.; Það er ekkert kaffi til.
     english: We're completely out of coffee.; There's no coffee available.
     depends_on: að vera til, ekki neinn
     level: 2.2
     row_id: 766
   - icelandic: Það er ekki víst.
     english: That is not certain.
-    depends_on: vís
-    basic_form: "\"Víst\" is the [[neuter]] form of \"vís\". The term \"viss\" is related but describes persons being certain about something."
+    basic_form: vís%
+    note_after_show_is: "\"Víst\" is the [[neuter]] form of \"vís\", and usually describes concepts rather than persons. Note that it is not the same word as the term \"viss\" which describes persons as being certain about something."
     level: 3
     row_id: 681
   - icelandic: Það er enginn hérna.; Það er ekki neinn hérna.
@@ -5365,11 +5366,10 @@ rows:
     level: 1
     row_id: 754
     last_seen: "2021-07-01"
-  - icelandic: Það er erfitt að eignast vini á Íslandi.
-    english: It's difficult to make friends in Iceland.
-    depends_on: að eignast
+  - icelandic: Það getur verið erfitt að eignast vini á Íslandi.
+    english: It can be difficult to make friends in Iceland.
+    basic_form: að gera, að vera, að eignast, vinur
     level: 2
-    literally: It's difficult to acquire friends in Iceland.
     row_id: 356
   - icelandic: Það er erfitt að vera kennari.
     english: Being a teacher is difficult.
