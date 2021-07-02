@@ -20,9 +20,9 @@ rows:
   - icelandic: að auglýsa
     english: to advertise
     row_id: 1073
-  - row_id: 1416
-    icelandic: að ákveða
+  - icelandic: að ákveða
     level: 2
+    row_id: 1416
   - icelandic: að baktala
     english: to talk negatively about someone behind their back; to slander someone behind their back
     depends_on: bak, að tala
@@ -32,30 +32,30 @@ rows:
     english: to pronounce
     level: 2
     row_id: 129
-  - row_id: 1338
-    icelandic: að binda
+  - icelandic: að binda
     level: 2
+    row_id: 1338
   - icelandic: að bjóða einhverjum í kaffi
     row_id: 987
   - icelandic: að borða
     english: to eat
-    level: 1
-    row_id: 251
     depends_on: borð
+    level: 1
     note_after_show: Derived from "borð" ("a table") because people eat at a table.
+    row_id: 251
     last_seen: "2021-07-01"
-  - row_id: 1442
-    icelandic: að bregðast
+  - icelandic: að bregðast
     level: 2
-  - row_id: 1433
-    icelandic: að bursta
+    row_id: 1442
+  - icelandic: að bursta
     level: 2
+    row_id: 1433
   - icelandic: að búa
     english: to live somewhere
     level: 1
     direction: "->"
-    row_id: 321
     Laga?: ja
+    row_id: 321
     last_seen: "2021-07-01"
   - icelandic: að búast við einhverju
     english: to expect something
@@ -86,17 +86,17 @@ rows:
     english: to dance
     level: 3
     row_id: 593
-  - row_id: 1403
-    icelandic: að detta
+  - icelandic: að detta
     level: 2
+    row_id: 1403
   - icelandic: að deyja
     english: to die
     level: 3
     row_id: 536
-  - row_id: 1219
-    icelandic: að drekka
-    level: 1
+  - icelandic: að drekka
     english: to drink
+    level: 1
+    row_id: 1219
     last_seen: "2021-07-02"
   - icelandic: að eiga
     english: to own
@@ -104,11 +104,11 @@ rows:
     dont_confuse: að vera með, að hafa, á
     row_id: 344
     last_seen: "2021-07-01"
-  - row_id: 1309
-    icelandic: að eiga að
-    level: 1
-    depends_on: að eiga
+  - icelandic: að eiga að
     english: to be supposed to
+    depends_on: að eiga
+    level: 1
+    row_id: 1309
     last_seen: "2021-07-02"
   - icelandic: að eiga auðvelt með eitthvað
     english: to find something to be easy; for something to be easy for you
@@ -117,9 +117,9 @@ rows:
     direction: "->"
     alternative_id: að eiga auðvelt með
     row_id: 1007
-  - row_id: 1426
-    icelandic: að eiga eftir
+  - icelandic: að eiga eftir
     level: 2
+    row_id: 1426
   - icelandic: að eiga erfitt með eitthvað
     english: to have difficultes with something; for something to be difficult for you
     depends_on: að eiga, erfiður, eitthvað
@@ -127,24 +127,24 @@ rows:
     direction: "->"
     alternative_id: að eiga erfitt með
     row_id: 1008
-  - row_id: 1420
-    icelandic: að eiga fyrir
+  - icelandic: að eiga fyrir
     level: 2
-  - row_id: 1297
-    icelandic: að eiga heima
+    row_id: 1420
+  - icelandic: að eiga heima
     level: 1
+    row_id: 1297
     last_seen: "2021-07-02"
   - icelandic: að eiga heima einhvers staðar; að búa
     english: to live somewhere
     depends_on: heima, að eiga
     level: 1
     direction: <-
-    row_id: 243
     Laga?: splitta
+    row_id: 243
     last_seen: "2021-06-29"
-  - row_id: 1464
-    icelandic: að eiga við
+  - icelandic: að eiga við
     level: 3
+    row_id: 1464
   - icelandic: að eiga von á einhverju
     row_id: 966
   - icelandic: að eignast
@@ -176,10 +176,10 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: að elta
     row_id: 1152
-  - row_id: 1239
-    icelandic: að fara
-    level: 1
+  - icelandic: að fara
     english: to go
+    level: 1
+    row_id: 1239
     last_seen: "2021-07-02"
   - icelandic: að fara í háttinn
     row_id: 928
@@ -198,20 +198,22 @@ rows:
   - icelandic: að fá
     english: to get
     level: 1
-    row_id: 253
     dont_confuse: fáir
+    row_id: 253
     last_seen: "2021-07-01"
-  - row_id: 1349
-    icelandic: að fá sér
+  - icelandic: að fá sér
     level: 2
-  - row_id: 1332
-    icelandic: að finna
+    row_id: 1349
+  - icelandic: að finna
+    english: to find
     level: 1
-  - row_id: 1226
-    icelandic: að f*innast*
-    level: 1
-    depends_on: að finna
+    row_id: 1332
+    last_seen: "2021-07-02"
+  - icelandic: að f*innast*
     english: to be of the opinion;; to be found {{g|somewhere}}
+    depends_on: að finna
+    level: 1
+    row_id: 1226
     last_seen: "2021-07-02"
   - icelandic: að fljúga
     english: to fly
@@ -227,43 +229,43 @@ rows:
     dont_confuse: að færa
     row_id: 731
     last_seen: "2021-06-29"
-  - row_id: 1384
-    icelandic: að fylgja
+  - icelandic: að fylgja
     level: 2
-  - row_id: 1447
-    icelandic: að fylgja með
+    row_id: 1384
+  - icelandic: að fylgja með
     level: 2
+    row_id: 1447
   - icelandic: að fylgjast með
     english: to pay attention; to follow something closely
     depends_on: að fylgja
     level: 2
     row_id: 529
-  - row_id: 1435
-    icelandic: að fyrirgefa
+  - icelandic: að fyrirgefa
     level: 2
+    row_id: 1435
   - icelandic: að færa
     english: to move something somewhere
     level: 3
     dont_confuse: að hreyfa sig
     row_id: 732
     last_seen: "2021-06-29"
-  - row_id: 1194
-    icelandic: að g*anga*
+  - icelandic: að g*anga*
+    english: to walk
     level: 1
     note_after_show_is: Can also mean "to go" in certain phrases.
-    english: to walk
+    row_id: 1194
     last_seen: "2021-07-02"
   - icelandic: að ganga illa
     english: "{{g|for someone}} to be doing badly;; {{g|for something}} to be progressing in an unsatisfactory manner"
+    depends_on: að ganga, illa
     level: 1
     row_id: 163
-    depends_on: að ganga, illa
     last_seen: "2021-06-29"
   - icelandic: að ganga vel
     english: to be going well;; {{g|for something}} to be progressing in a satisfactory manner
+    depends_on: að ganga, vel
     level: 1
     row_id: 162
-    depends_on: að ganga, vel
     last_seen: "2021-06-29"
   - icelandic: að gefast upp
     english: to give up; to surrender
@@ -285,24 +287,24 @@ rows:
     level: 2
     direction: "->"
     row_id: 685
-  - row_id: 1213
-    icelandic: að g*eta*
-    level: 1
+  - icelandic: að g*eta*
     english: to be able to
+    level: 1
+    row_id: 1213
     last_seen: "2021-07-02"
-  - row_id: 1339
-    icelandic: að gleyma
+  - icelandic: að gleyma
     level: 2
+    row_id: 1339
   - icelandic: að greiða
     english: to pay money;; to comb someone's hair
     row_id: 1163
-  - row_id: 1347
-    icelandic: að grínast
+  - icelandic: að grínast
     level: 2
-  - row_id: 1198
-    icelandic: að hafa
-    level: 1
+    row_id: 1347
+  - icelandic: að hafa
     english: to have
+    level: 1
+    row_id: 1198
     last_seen: "2021-07-02"
   - icelandic: að hafa áhrif á eitthvað
     english: to influence something
@@ -322,47 +324,47 @@ rows:
     dont_confuse: heitur
     row_id: 214
     last_seen: "2021-07-01"
-  - row_id: 1459
-    icelandic: að henta
+  - icelandic: að henta
     level: 2
-  - row_id: 1280
-    icelandic: að heyra
-    level: 1
+    row_id: 1459
+  - icelandic: að heyra
     english: to hear
+    level: 1
+    row_id: 1280
     last_seen: "2021-07-02"
-  - row_id: 1366
-    icelandic: að heyrast
+  - icelandic: að heyrast
     level: 2
+    row_id: 1366
   - icelandic: að hitta einhvern
     english: to meet someone
     level: 1
-    row_id: 379
     alternative_id: að hitta
+    row_id: 379
     last_seen: "2021-06-29"
   - icelandic: að hittast
     english: to meet each other
     depends_on: að hitta
     level: 2
     row_id: 380
-  - row_id: 1214
-    icelandic: að hjálpa
-    level: 1
+  - icelandic: að hjálpa
     english: to help
+    level: 1
+    row_id: 1214
     last_seen: "2021-07-02"
-  - row_id: 1358
-    icelandic: að hlakka til
+  - icelandic: að hlakka til
     level: 2
-  - row_id: 1205
-    icelandic: að horfa á
+    row_id: 1358
+  - icelandic: að horfa á
+    english: to watch
     level: 1
     literally: to watch on
     alternative_id: að horfa
-    english: to watch
+    row_id: 1205
     last_seen: "2021-07-02"
-  - row_id: 1316
-    icelandic: að hreyfa
-    level: 1
+  - icelandic: að hreyfa
     english: to move
+    level: 1
+    row_id: 1316
     last_seen: "2021-07-02"
   - icelandic: að hreyfa sig
     english: to move one's own body;; to do physical exercise
@@ -370,9 +372,9 @@ rows:
     level: 1
     row_id: 733
     last_seen: "2021-07-01"
-  - row_id: 1396
-    icelandic: að hringja
+  - icelandic: að hringja
     level: 2
+    row_id: 1396
   - icelandic: að hækka
     english: to become taller;; for a metric to increase
     depends_on: hærri
@@ -386,10 +388,10 @@ rows:
     depends_on: að hætta
     level: 3
     row_id: 367
-  - row_id: 1269
-    icelandic: að kaupa
-    level: 1
+  - icelandic: að kaupa
     english: to buy
+    level: 1
+    row_id: 1269
     last_seen: "2021-07-02"
   - icelandic: að kenna
     english: to teach
@@ -397,10 +399,10 @@ rows:
     dont_confuse: að kunna
     row_id: 209
     last_seen: "2021-07-01"
-  - row_id: 1325
-    icelandic: að keyra
-    level: 1
+  - icelandic: að keyra
     english: to drive
+    level: 1
+    row_id: 1325
     last_seen: "2021-07-02"
   - icelandic: að kíkja
     english: to have a look at something; to have a quick look somewhere
@@ -412,19 +414,19 @@ rows:
     level: 2
     note_after_show: The word "kíkja" here means that you're offering them to come over for a short visit, which sounds more polite.
     row_id: 603
-  - row_id: 1200
-    icelandic: að koma
-    level: 1
+  - icelandic: að koma
     english: to come
+    level: 1
+    row_id: 1200
     last_seen: "2021-07-02"
   - icelandic: að koma í veg fyrir
     english: to prevent
     depends_on: að koma, vegur
     level: 3
     row_id: 904
-  - row_id: 1355
-    icelandic: að komast
+  - icelandic: að komast
     level: 2
+    row_id: 1355
   - icelandic: að komast að einhverju
     depends_on: að komast
     level: 3
@@ -432,16 +434,16 @@ rows:
   - icelandic: að komast í form
     english: to get into shape; to get fit
     row_id: 1063
-  - row_id: 1185
-    icelandic: að *kunna*
+  - icelandic: að *kunna*
+    english: to know how to do something
     level: 1
     dont_confuse: að vita
     note_bfr_show: Also used for "to know a language".
-    english: to know how to do something
+    row_id: 1185
     last_seen: "2021-07-02"
-  - row_id: 1410
-    icelandic: að kúka
+  - icelandic: að kúka
     level: 2
+    row_id: 1410
   - icelandic: að laga; að gera við
     english: to fix
     level: 2
@@ -449,9 +451,9 @@ rows:
     direction: <-
     alternative_id: að laga
     row_id: 684
-  - row_id: 1238
-    icelandic: að langa
+  - icelandic: að langa
     level: 1
+    row_id: 1238
     last_seen: "2021-07-02"
   - icelandic: að látast
     english: to pass away; to die
@@ -471,9 +473,9 @@ rows:
   - icelandic: að leggja
     dont_confuse: að leggja sig
     row_id: 1014
-  - row_id: 1397
-    icelandic: að leggja af stað
+  - icelandic: að leggja af stað
     level: 2
+    row_id: 1397
   - icelandic: að leggja einhvern í einelti
     english: to bully someone
     depends_on: einelti
@@ -481,44 +483,44 @@ rows:
   - icelandic: að leggja sig
     depends_on: að leggja
     row_id: 1015
-  - row_id: 1441
-    icelandic: að leiða
+  - icelandic: að leiða
     level: 2
-  - row_id: 1412
-    icelandic: að leiðast
+    row_id: 1441
+  - icelandic: að leiðast
     level: 2
-  - row_id: 1207
-    icelandic: að líða
+    row_id: 1412
+  - icelandic: að líða
     level: 1
+    row_id: 1207
     last_seen: "2021-07-02"
-  - row_id: 1218
-    icelandic: að líta
+  - icelandic: að líta
     level: 1
+    row_id: 1218
     last_seen: "2021-07-02"
   - icelandic: að líta niður á einhvern
     english: to look down upon someone; to consider someone as being inferior; to view someone with contempt
     depends_on: að líta, niður
     level: 2
     row_id: 910
-  - row_id: 1279
-    icelandic: að lítast á
+  - icelandic: að lítast á
     level: 1
+    row_id: 1279
     last_seen: "2021-07-02"
-  - row_id: 1277
-    icelandic: að líta út
+  - icelandic: að líta út
     level: 1
+    row_id: 1277
     last_seen: "2021-07-02"
-  - row_id: 1273
-    icelandic: að læra
-    level: 1
+  - icelandic: að læra
     english: to learn;; to study
-    last_seen: "2021-07-02"
-  - row_id: 1346
-    icelandic: að mega
-    level: 2
-  - row_id: 1183
-    icelandic: að meina
     level: 1
+    row_id: 1273
+    last_seen: "2021-07-02"
+  - icelandic: að mega
+    level: 2
+    row_id: 1346
+  - icelandic: að meina
+    level: 1
+    row_id: 1183
     last_seen: "2021-07-02"
   - icelandic: að minnsta kosti
     english: at least
@@ -536,10 +538,10 @@ rows:
     dont_confuse: að munu
     row_id: 556
     last_seen: "2021-07-01"
-  - row_id: 1323
-    icelandic: að muna eftir
+  - icelandic: að muna eftir
     level: 1
     Laga?: "???"
+    row_id: 1323
     last_seen: "2021-07-02"
   - icelandic: að mæla með
     english: to recommend
@@ -557,9 +559,9 @@ rows:
     level: 2
     row_id: 1055
   - icelandic: að pissa
+    english: to pee
     level: 2
     row_id: 865
-    english: to pee
     last_seen: "2021-07-02"
   - icelandic: að reka einhvern
     english: to fire someone (from their job)
@@ -568,29 +570,29 @@ rows:
   - icelandic: að reka fyrirtæki
     english: to run a company
     row_id: 1078
-  - row_id: 1411
-    icelandic: að rekast á
+  - icelandic: að rekast á
     level: 2
-  - row_id: 1432
-    icelandic: að reykja
+    row_id: 1411
+  - icelandic: að reykja
     level: 2
+    row_id: 1432
   - "3": 1
     icelandic: að reyna
     english: to try; to attempt
     level: 1
-    row_id: 714
     importance: "1"
+    row_id: 714
     last_seen: "2021-07-01"
-  - row_id: 1390
-    icelandic: að rækta
+  - icelandic: að rækta
     level: 2
-  - row_id: 1414
-    icelandic: að sakna
+    row_id: 1390
+  - icelandic: að sakna
     level: 2
-  - row_id: 1196
-    icelandic: að segja
-    level: 1
+    row_id: 1414
+  - icelandic: að segja
     english: to say; to tell
+    level: 1
+    row_id: 1196
     last_seen: "2021-07-02"
   - icelandic: að segjast vera
     english: to say that one is; to claim to be
@@ -598,18 +600,18 @@ rows:
     level: 3
     alternative_id: að segjast
     row_id: 727
-  - row_id: 1378
-    icelandic: að senda
+  - icelandic: að senda
     level: 2
+    row_id: 1378
   - icelandic: að sjá
-    level: 2
-    row_id: 776
     english: to see
-    dont_confuse: að horfa á
-    last_seen: "2021-06-29"
-  - row_id: 1425
-    icelandic: að sjá eftir
     level: 2
+    dont_confuse: að horfa á
+    row_id: 776
+    last_seen: "2021-06-29"
+  - icelandic: að sjá eftir
+    level: 2
+    row_id: 1425
   - icelandic: að sjá eftir einhverju
     english: to regret something
     depends_on: að sjá eftir
@@ -623,21 +625,21 @@ rows:
     note_after_show: Literally "towards being self-said", it's so obvious that the matter says it itself.
     row_id: 826
     last_seen: "2021-07-01"
-  - row_id: 1311
-    icelandic: að sjást
-    level: 1
-    depends_on: að sjá
+  - icelandic: að sjást
     english: to see one another;; to be visible
+    depends_on: að sjá
+    level: 1
+    row_id: 1311
     last_seen: "2021-07-02"
   - icelandic: að skána
     english: to become less bad; to improve slightly;; to recover slightly from an illness
     depends_on: skárri
     level: 3
     row_id: 427
-  - row_id: 1184
-    icelandic: að skilja
-    level: 1
+  - icelandic: að skilja
     english: to understand;; {{g|to seperate}};; {{g|to divorce}}
+    level: 1
+    row_id: 1184
     last_seen: "2021-07-02"
   - icelandic: að skipta
     english: to change; to switch; to swap; to exchange;; to divide
@@ -665,12 +667,12 @@ rows:
     level: 2
     row_id: 168
     last_seen: "2021-06-29"
-  - row_id: 1377
-    icelandic: að snjóa
+  - icelandic: að snjóa
     level: 2
-  - row_id: 1363
-    icelandic: að snúast um
+    row_id: 1377
+  - icelandic: að snúast um
     level: 2
+    row_id: 1363
   - icelandic: að sofa
     english: to sleep
     level: 2
@@ -683,17 +685,17 @@ rows:
     row_id: 298
   - icelandic: að splæsa
     row_id: 1145
-  - row_id: 1451
-    icelandic: að standa
+  - icelandic: að standa
     level: 2
+    row_id: 1451
   - icelandic: að standa við loforð
     english: to keep a promise
     depends_on: að standa, loforð
     level: 4
     row_id: 917
-  - row_id: 1461
-    icelandic: að stinga
+  - icelandic: að stinga
     level: 2
+    row_id: 1461
   - icelandic: að stinga í samband
     english: to plug in
     depends_on: að stinga, samband
@@ -725,14 +727,16 @@ rows:
     depends_on: að sækja
     direction: "->"
     row_id: 1069
-  - row_id: 1179
-    icelandic: að taka
-    level: 1
+  - icelandic: að taka
     english: to take
-    last_seen: "2021-07-02"
-  - row_id: 1329
-    icelandic: að tala
     level: 1
+    row_id: 1179
+    last_seen: "2021-07-02"
+  - icelandic: að tala
+    english: to speak; to talk
+    level: 1
+    row_id: 1329
+    last_seen: "2021-07-02"
   - icelandic: að tala illa um einhvern
     english: to speak ill of someone; to talk about someone in a negative manner
     depends_on: að tala, illa
@@ -749,10 +753,10 @@ rows:
     english: to bother someone; to interrupt someone
     alternative_id: að trufla
     row_id: 1077
-  - row_id: 1199
-    icelandic: að trúa
-    level: 3
+  - icelandic: að trúa
     english: to believe
+    level: 3
+    row_id: 1199
     last_seen: "2021-07-02"
   - icelandic: að vaka
     english: to stay awake
@@ -765,9 +769,9 @@ rows:
     english: to wake up
     level: 2
     row_id: 291
-  - row_id: 1391
-    icelandic: að vanta
+  - icelandic: að vanta
     level: 2
+    row_id: 1391
   - icelandic: að vekja
     english: to wake someone up
     level: 4
@@ -777,9 +781,9 @@ rows:
     level: 3
     row_id: 151
   - icelandic: að vera
+    english: to be
     level: 1
     row_id: 330
-    english: to be
     last_seen: "2021-06-29"
   - icelandic: að vera í stuði
     depends_on: stuð
@@ -795,9 +799,9 @@ rows:
     english: to be bullied
     depends_on: einelti
     row_id: 1155
-  - row_id: 1353
-    icelandic: að vera með
+  - icelandic: að vera með
     level: 2
+    row_id: 1353
   - icelandic: að vera reiður út í einhvern
     level: 2
     row_id: 833
@@ -805,45 +809,45 @@ rows:
     level: 2
     row_id: 834
   - icelandic: að vera til
-    level: 1
-    row_id: 331
     english: to exist
     depends_on: að vera
+    level: 1
+    row_id: 331
     last_seen: "2021-06-29"
   - icelandic: að vera til í eitthvað
-    level: 2
-    row_id: 332
     english: to be up for it; to be willing to do something
-    alternative_id: að vera til í
     depends_on: að vera, til, í
+    level: 2
     note_after_show_is: This meaning is unrelated to "að vera til" ("to exist").
+    alternative_id: að vera til í
+    row_id: 332
     last_seen: "2021-06-29"
   - icelandic: að vera úti á landi
     english: to be out on the countryside
     level: 2
     alternative_id: úti á landi
     row_id: 449
-  - row_id: 1386
-    icelandic: að verða
+  - icelandic: að verða
     level: 2
+    row_id: 1386
   - icelandic: að verða fyrir vonbrigðum; að vera vonsvikinn
     row_id: 1103
-  - row_id: 1272
-    icelandic: að vilja
+  - icelandic: að vilja
     level: 1
+    row_id: 1272
     last_seen: "2021-07-02"
   - icelandic: að vinna
     english: to work;; to win
     level: 1
-    row_id: 757
     dont_confuse: vinur
+    row_id: 757
     last_seen: "2021-07-01"
   - icelandic: að virða
     level: 4
     row_id: 883
-  - row_id: 1405
-    icelandic: að virka
+  - icelandic: að virka
     level: 2
+    row_id: 1405
   - icelandic: að vita eitthvað
     english: to know something
     depends_on: eitthvað
@@ -851,30 +855,30 @@ rows:
     alternative_id: að vita
     row_id: 1177
     last_seen: "2021-07-01"
-  - row_id: 1341
-    icelandic: að vona
+  - icelandic: að vona
     level: 2
-  - row_id: 1415
-    icelandic: að vonast
+    row_id: 1341
+  - icelandic: að vonast
     level: 2
-  - row_id: 1231
-    icelandic: að þekkja
+    row_id: 1415
+  - icelandic: að þekkja
     level: 1
+    row_id: 1231
     last_seen: "2021-07-02"
-  - row_id: 1287
-    icelandic: að þekkjast
+  - icelandic: að þekkjast
     level: 1
+    row_id: 1287
     last_seen: "2021-07-02"
-  - row_id: 1417
-    icelandic: að þola
+  - icelandic: að þola
     level: 2
-  - row_id: 1212
-    icelandic: að þurfa
+    row_id: 1417
+  - icelandic: að þurfa
     level: 1
+    row_id: 1212
     last_seen: "2021-07-02"
-  - row_id: 1407
-    icelandic: að þykja
+  - icelandic: að þykja
     level: 2
+    row_id: 1407
   - icelandic: að þykjast
     english: to pretend
     depends_on: að þykja
@@ -887,31 +891,31 @@ rows:
     level: 3
     direction: <-
     row_id: 543
-  - row_id: 1468
-    icelandic: að þykja vænt um
+  - icelandic: að þykja vænt um
     level: 3
-  - row_id: 1296
-    icelandic: að þýða
+    row_id: 1468
+  - icelandic: að þýða
     level: 1
+    row_id: 1296
     last_seen: "2021-07-02"
-  - row_id: 1202
-    icelandic: að ætla
-    level: 1
+  - icelandic: að ætla
     english: to intend to; to plan to; to be going to
+    level: 1
+    row_id: 1202
     last_seen: "2021-07-02"
   - icelandic: A*f hverju ekki*?; Hv*ers vegna ekki*?
     english: Why not?
     level: 1
-    row_id: 862
     should_split: "yes"
+    row_id: 862
     last_seen: "2021-07-01"
   - icelandic: Af hverju er hún svona góð í fótbolta?
     english: Why is she so good at football?
     depends_on: svona
-    level: 1
-    row_id: 585
     basic_form: góður, fótbolti
+    level: 1
     eyða: ja
+    row_id: 585
     last_seen: "2021-07-01"
   - icelandic: afmæli
     english: birthday
@@ -937,8 +941,8 @@ rows:
     english: never
     level: 1
     dont_confuse: alltaf
-    row_id: 481
     importance: "1"
+    row_id: 481
     last_seen: "2021-07-01"
   - icelandic: aldrei nokkurn tímann
     english: never ever
@@ -946,9 +950,9 @@ rows:
     level: 2
     alternative_id: nokkurn tímann
     row_id: 690
-  - row_id: 1283
-    icelandic: allir
+  - icelandic: allir
     level: 1
+    row_id: 1283
     last_seen: "2021-07-02"
   - icelandic: allt
     english: everything
@@ -965,20 +969,20 @@ rows:
   - icelandic: allt annar
     level: 3
     row_id: 624
-  - row_id: 1233
-    icelandic: allt of mikið
-    level: 1
+  - icelandic: allt of mikið
+    english: way too much
     depends_on: of mikið
     basic_form: allur, mikill
-    english: way too much
-    last_seen: "2021-07-02"
-  - row_id: 1270
-    icelandic: allur
     level: 1
+    row_id: 1233
     last_seen: "2021-07-02"
-  - row_id: 1380
-    icelandic: alveg
+  - icelandic: allur
+    level: 1
+    row_id: 1270
+    last_seen: "2021-07-02"
+  - icelandic: alveg
     level: 2
+    row_id: 1380
   - icelandic: Alveg eins.
     level: 2
     row_id: 891
@@ -1082,10 +1086,10 @@ rows:
     row_id: 250
   - icelandic: áhyggjur
     english: worries
-    level: 1
-    row_id: 93
-    alternative_id: áhyggja
     basic_form: áhyggja
+    level: 1
+    alternative_id: áhyggja
+    row_id: 93
     last_seen: "2021-06-29"
   - icelandic: á Íslandi
     english: in Iceland
@@ -1093,19 +1097,19 @@ rows:
     basic_form: Ísland
     literally: on Iceland
     row_id: 1120
-  - row_id: 1344
-    icelandic: á leiðinni
+  - icelandic: á leiðinni
     level: 2
-  - row_id: 1268
-    icelandic: á morgun
-    level: 1
-    basic_form: morgunn
-    literally: on morning
+    row_id: 1344
+  - icelandic: á morgun
     english: tomorrow
-    last_seen: "2021-07-02"
-  - row_id: 1334
-    icelandic: án
+    basic_form: morgunn
     level: 1
+    literally: on morning
+    row_id: 1268
+    last_seen: "2021-07-02"
+  - icelandic: án
+    level: 1
+    row_id: 1334
   - icelandic: án gríns
     english: no joke; I'm not joking
     row_id: 1166
@@ -1114,10 +1118,10 @@ rows:
     row_id: 1062
   - icelandic: á næstu síðu
     row_id: 1102
-  - row_id: 1244
-    icelandic: átta
-    level: 1
+  - icelandic: átta
     english: eight
+    level: 1
+    row_id: 1244
     last_seen: "2021-07-02"
   - icelandic: átta sinnum
     english: eight times
@@ -1149,9 +1153,9 @@ rows:
   - icelandic: á þeim tíma
     english: during that time; during those years
     row_id: 1065
-  - row_id: 1444
-    icelandic: bak
+  - icelandic: bak
     level: 2
+    row_id: 1444
   - icelandic: Bandaríkin
     english: The United States
     depends_on: ríki, band, að binda, bandalag
@@ -1161,30 +1165,30 @@ rows:
   - icelandic: Bandaríkin eru stórt land.
     english: The United States are a large country.
     depends_on: Bandaríkin, stór, land
+    basic_form: stór
     level: 1
     row_id: 741
-    basic_form: stór
     last_seen: "2021-07-01"
   - icelandic: bara
     english: only;; just
     level: 1
     dont_confuse: barn, bar
-    row_id: 260
     importance: "1"
+    row_id: 260
     last_seen: "2021-07-01"
-  - row_id: 1181
-    icelandic: barn
-    level: 1
+  - icelandic: barn
     english: a child
+    level: 1
+    row_id: 1181
     last_seen: "2021-07-02"
   - icelandic: baun
     english: a bean
     level: 3
     importance: "-1"
     row_id: 870
-  - row_id: 1462
-    icelandic: bál
+  - icelandic: bál
     level: 3
+    row_id: 1462
   - icelandic: bálreiður
     english: furious; very angry
     depends_on: bál, reiður
@@ -1193,49 +1197,49 @@ rows:
     row_id: 905
   - icelandic: bensínstöð
     row_id: 1149
-  - row_id: 1217
-    icelandic: betur
-    level: 1
+  - icelandic: betur
     basic_form: vel
+    level: 1
     alternative_id: betur
     Laga?: ja
+    row_id: 1217
     last_seen: "2021-07-02"
-  - row_id: 1356
-    icelandic: bilaður
+  - icelandic: bilaður
     level: 2
-  - row_id: 1260
-    icelandic: bíll
+    row_id: 1356
+  - icelandic: bíll
+    english: a car
     level: 1
     note_after_show_is: From "automo<u>bile</u>"
-    english: a car
+    row_id: 1260
     last_seen: "2021-07-02"
   - icelandic: bílpróf
     english: a driver's exam;; a driver's license
     depends_on: bíll, próf
     row_id: 1021
-  - row_id: 1418
-    icelandic: blindur
+  - icelandic: blindur
     level: 2
-  - row_id: 1330
-    icelandic: bolti
+    row_id: 1418
+  - icelandic: bolti
     level: 1
-  - row_id: 1336
-    icelandic: bolti
+    row_id: 1330
+  - icelandic: bolti
     level: 2
+    row_id: 1336
   - icelandic: borð
     english: a table
     depends_on: að borða
     level: 1
     row_id: 252
     last_seen: "2021-07-01"
-  - row_id: 1304
-    icelandic: bók
-    level: 1
+  - icelandic: bók
     english: a book
+    level: 1
+    row_id: 1304
     last_seen: "2021-07-02"
-  - row_id: 1448
-    icelandic: brú
+  - icelandic: brú
     level: 2
+    row_id: 1448
   - icelandic: búð
     english: a grocery store; a supermarket
     level: 2
@@ -1249,9 +1253,9 @@ rows:
     depends_on: opinn
     level: 2
     row_id: 1056
-  - row_id: 1290
-    icelandic: búinn
+  - icelandic: búinn
     level: 1
+    row_id: 1290
     last_seen: "2021-07-02"
   - icelandic: Býður{{u}} fólki oft í kaffi?
     row_id: 988
@@ -1272,10 +1276,10 @@ rows:
     row_id: 839
   - icelandic: börn þessara kvenna
     row_id: 944
-  - row_id: 1229
-    icelandic: dagur
-    level: 1
+  - icelandic: dagur
     english: a day
+    level: 1
+    row_id: 1229
     last_seen: "2021-07-02"
   - icelandic: dans
     english: a dance
@@ -1317,9 +1321,9 @@ rows:
     categories: alphabet
     row_id: 1030
     last_seen: "2021-07-01"
-  - row_id: 1393
-    icelandic: djöfull
+  - icelandic: djöfull
     level: 2
+    row_id: 1393
   - icelandic: Djöfullinn sjálfur.
     english: God damn!
     depends_on: djöfull, sjálfur
@@ -1345,9 +1349,9 @@ rows:
     level: 3
     alternative_id: að drífa sig
     row_id: 612
-  - row_id: 1373
-    icelandic: duglegur
+  - icelandic: duglegur
     level: 2
+    row_id: 1373
   - icelandic: edrú
     english: sober; not drunk on alcohol
     level: 4
@@ -1359,20 +1363,20 @@ rows:
     categories: alphabet
     row_id: 1031
     last_seen: "2021-07-01"
-  - row_id: 1350
-    icelandic: efni
+  - icelandic: efni
     level: 2
-  - row_id: 1236
-    icelandic: eftir
-    level: 1
+    row_id: 1350
+  - icelandic: eftir
     english: after
+    level: 1
+    row_id: 1236
     last_seen: "2021-07-02"
   - icelandic: eftir Krist (e. Kr.)
     english: anno Domini (A.D.) (as opposed to "before Christ (B.C.)")
     row_id: 1157
-  - row_id: 1431
-    icelandic: eiginlega
+  - icelandic: eiginlega
     level: 2
+    row_id: 1431
   - icelandic: Eigum við að leggja af stað?
     english: Shall we get going?
     depends_on: að eiga að, að leggja af stað
@@ -1389,10 +1393,10 @@ rows:
     depends_on: einn, hver
     grammar_note f/icelandic: masculine
     row_id: 1124
-  - row_id: 1182
-    icelandic: einn
-    level: 1
+  - icelandic: einn
     english: one;; alone
+    level: 1
+    row_id: 1182
     last_seen: "2021-07-02"
   - icelandic: einn og hálfur
     english: one and a half
@@ -1411,18 +1415,18 @@ rows:
     basic_form: einhver
     grammar_note f/icelandic: neuter
     row_id: 1125
-  - row_id: 1295
-    icelandic: eitt orð – mörg orð
-    level: 1
-    depends_on: einn, margur
-    alternative_id: orð
+  - icelandic: eitt orð – mörg orð
     english: one word – many words
-    last_seen: "2021-07-02"
-  - row_id: 1256
-    icelandic: ekkert
+    depends_on: einn, margur
     level: 1
-    basic_form: enginn
+    alternative_id: orð
+    row_id: 1295
+    last_seen: "2021-07-02"
+  - icelandic: ekkert
     english: nothing
+    basic_form: enginn
+    level: 1
+    row_id: 1256
     last_seen: "2021-07-02"
   - icelandic: ekkert smá
     english: very much
@@ -1438,10 +1442,10 @@ rows:
     row_id: 494
   - icelandic: Ekki ennþá.; Ekki enn.
     english: Not yet.
-    level: 1
-    row_id: 334
     depends_on: ennþá, enn
+    level: 1
     should_split: "no"
+    row_id: 334
     last_seen: "2021-07-01"
   - icelandic: Ekki gleyma mér.
     english: Don't forget me.
@@ -1457,19 +1461,19 @@ rows:
     english: Don't come in!
     level: 2
     row_id: 142
-  - row_id: 1306
-    icelandic: ekki lengur
-    level: 1
-    depends_on: lengi
+  - icelandic: ekki lengur
     english: not anymore; no longer
+    depends_on: lengi
+    level: 1
+    row_id: 1306
     last_seen: "2021-07-02"
   - icelandic: Ekki málið.
     english: No problem.
     literally: not the issue
     row_id: 311
-  - row_id: 1242
-    icelandic: ekki neinn
+  - icelandic: ekki neinn
     level: 1
+    row_id: 1242
     last_seen: "2021-07-02"
   - icelandic: Ekki séns.
     row_id: 1101
@@ -1485,9 +1489,9 @@ rows:
     depends_on: að stríða
     level: 2
     row_id: 517
-  - row_id: 1337
-    icelandic: eldri
+  - icelandic: eldri
     level: 2
+    row_id: 1337
   - icelandic: eldur
     english: a fire
     level: 1
@@ -1503,29 +1507,29 @@ rows:
   - icelandic: en
     english: but
     level: 1
-    row_id: 1110
     note_after_show_is: "Can also be used in comparisons: \"betra en\" = \"better than\"."
+    row_id: 1110
     last_seen: "2021-07-01"
   - icelandic: Engar áhyggjur.
     english: No worries.
     depends_on: áhyggjur
+    basic_form: enginn, áhyggja
     level: 1
     row_id: 97
-    basic_form: enginn, áhyggja
     last_seen: "2021-07-01"
   - icelandic: enginn
     english: none; nobody; no one
     row_id: 1122
-  - row_id: 1235
-    icelandic: ennþá; enn
+  - icelandic: ennþá; enn
+    english: still
     level: 1
     eyða: já
-    english: still
+    row_id: 1235
     last_seen: "2021-07-02"
   - icelandic: enska
+    english: "{{g|the}} English language"
     level: 1
     row_id: 975
-    english: "{{g|the}} English language"
     last_seen: "2021-07-01"
   - icelandic: En þú?
     english: But what about you?; And you?
@@ -1534,22 +1538,22 @@ rows:
     row_id: 1113
     last_seen: "2021-07-01"
   - icelandic: Er einhver heima?
-    level: 2
-    row_id: 609
     english: Is someone home?; Is there anyone home?
     depends_on: heima
+    level: 2
+    row_id: 609
     last_seen: "2021-06-29"
   - icelandic: Er einhver hérna?
     english: Is there somebody here?
+    depends_on: einhver, hérna
     level: 1
     row_id: 755
-    depends_on: einhver, hérna
     last_seen: "2021-07-01"
   - icelandic: Er erfitt að vera kennari?
     english: Is it difficult being a teacher?
+    depends_on: erfitt, að vera, kennari
     level: 1
     row_id: 207
-    depends_on: erfitt, að vera, kennari
     last_seen: "2021-06-29"
   - icelandic: Er gaman að læra íslensku?
     english: Is learning Icelandic fun?
@@ -1565,11 +1569,11 @@ rows:
     depends_on: reiður, nokkuð
     level: 4
     row_id: 198
-  - row_id: 1253
-    icelandic: Er hann þreyttur?
+  - icelandic: Er hann þreyttur?
+    english: Is he tired?
     level: 1
     alternative_id: þreyttur
-    english: Is he tired?
+    row_id: 1253
     last_seen: "2021-07-02"
   - icelandic: Er mikið að gera í vinnunni?
     depends_on: vinna, mikill, að gera, mikið að gera
@@ -1598,9 +1602,9 @@ rows:
     level: 2
     row_id: 516
   - icelandic: Ertu að vinna á morgun?
+    depends_on: að vinna, á morgun
     level: 1
     row_id: 887
-    depends_on: að vinna, á morgun
     last_seen: "2021-07-01"
   - icelandic: Ert{{u}} á Íslandi?
     english: Are you in Iceland?
@@ -1631,9 +1635,9 @@ rows:
   - icelandic: Ertu í stuði fyrir mynd?
     english: Are you in the mood for watching a film?
     depends_on: stuð
+    basic_form: að vera í stuði
     level: 1
     row_id: 120
-    basic_form: að vera í stuði
     last_seen: "2021-07-01"
   - icelandic: Ert{{u}} laus?
     english: Are you available?
@@ -1689,34 +1693,34 @@ rows:
     row_id: 606
   - icelandic: Er veðrið gott?
     english: Is the weather good?
+    basic_form: veður, góður
     level: 1
     row_id: 174
-    basic_form: veður, góður
     last_seen: "2021-07-01"
   - icelandic: Er vikan þín búin að vera góð?
     english: Has your week been good?
     level: 1
-    row_id: 40
     eyða: jm
+    row_id: 40
     last_seen: "2021-07-01"
   - icelandic: Er þetta hann?
     english: Is this him?
+    depends_on: þessi, hann
     level: 1
     row_id: 575
-    depends_on: þessi, hann
     last_seen: "2021-07-01"
   - icelandic: Er þetta ókeypis?
     english: Is this for free?
     level: 1
-    row_id: 455
     Laga?: hmm
+    row_id: 455
     last_seen: "2021-06-29"
   - icelandic: Er þér heitt?
     english: Are you hot?; Are you feeling hot?
-    level: 1
-    row_id: 59
     basic_form: þú, heitur
+    level: 1
     note_after_show_is: Notice that "þér" is in the [[third case]] and "heitt" is [[neuter]]. This is an uncommon type of phrase, the reason is that it describes someone's feelings, making it a "Is it hot unto you?"
+    row_id: 59
     last_seen: "2021-07-01"
   - icelandic: Er þér illt?
     english: Do you feel pain in some body part?
@@ -1736,10 +1740,10 @@ rows:
     importance: "0.5"
     row_id: 1037
     last_seen: "2021-07-01"
-  - row_id: 1206
-    icelandic: ég
-    level: 1
+  - icelandic: ég
     english: I; me
+    level: 1
+    row_id: 1206
     last_seen: "2021-07-02"
   - icelandic: Ég á afmæli í dag.
     english: Today's my birthday.
@@ -1751,9 +1755,9 @@ rows:
     row_id: 1006
   - icelandic: Ég á bíl.
     english: I own a car.
+    basic_form: að eiga, bíll
     level: 1
     row_id: 349
-    basic_form: að eiga, bíll
     last_seen: "2021-07-01"
   - icelandic: Ég á eftir að fara í sturtu.
     depends_on: að eiga eftir
@@ -1761,15 +1765,15 @@ rows:
     row_id: 711
   - icelandic: Ég á eitt barn.
     english: I have one child.
+    basic_form: að eiga, barn, einn
     level: 1
     row_id: 352
-    basic_form: að eiga, barn, einn
     last_seen: "2021-07-01"
   - icelandic: Ég á ekki bíl.
     english: I don't own a car.
+    basic_form: að eiga, bíll
     level: 1
     row_id: 29
-    basic_form: að eiga, bíll
     last_seen: "2021-07-01"
   - icelandic: Ég á ekki fyrir mat.
     english: I don't have sufficient money to be able to afford food.
@@ -1794,24 +1798,24 @@ rows:
   - icelandic: Ég á kærasta.
     english: I have a boyfriend.
     depends_on: kærasti
+    basic_form: að eiga, kærasti
     level: 1
     dont_confuse: kærasta
     row_id: 437
-    basic_form: að eiga, kærasti
     last_seen: "2021-06-29"
   - icelandic: Ég á kærustu.
     english: I have a girlfriend.
     depends_on: kærasta
+    basic_form: að eiga, kærasta
     level: 1
     row_id: 438
-    basic_form: að eiga, kærasta
     last_seen: "2021-06-29"
   - icelandic: Ég á marga vini.
     english: I have many friends.
     depends_on: að eiga
+    basic_form: að eiga, margur, vinur
     level: 1
     row_id: 346
-    basic_form: að eiga, margur, vinur
     last_seen: "2021-06-29"
   - icelandic: Ég á nokkra íslenska vini.
     english: I have a few Icelandic friends.
@@ -1826,16 +1830,16 @@ rows:
   - icelandic: Ég á tvo hunda.
     english: I own two dogs.
     depends_on: að eiga, hundur
+    basic_form: að eiga, tveir, hundur
     level: 1
     row_id: 550
-    basic_form: að eiga, tveir, hundur
     last_seen: "2021-06-29"
   - icelandic: Ég á tvö börn.
     english: I have two children.
     depends_on: að eiga, barn, tveir
+    basic_form: að eiga, tveir, barn
     level: 1
     row_id: 353
-    basic_form: að eiga, tveir, barn
     last_seen: "2021-06-29"
   - icelandic: Ég bjóst ekki við því.
     english: I did not expect that.
@@ -1859,16 +1863,16 @@ rows:
     row_id: 1047
   - icelandic: Ég bý á Íslandi.
     english: I live in Iceland.
+    basic_form: að búa, Ísland
     level: 1
     row_id: 63
-    basic_form: að búa, Ísland
     last_seen: "2021-07-01"
   - icelandic: Ég bý ekki lengur í Reykjavík.
     english: I no longer live in Reykjavík.
     depends_on: að búa, lengi
+    basic_form: að búa
     level: 1
     row_id: 600
-    basic_form: að búa
     last_seen: "2021-07-01"
   - icelandic: Ég bý hjá foreldrum mínum.
     english: I live at my parents' place.; I live with my parents.
@@ -1892,9 +1896,9 @@ rows:
   - icelandic: Ég drekk bara vatn.
     english: I only drink water.
     depends_on: vatn, bara
+    basic_form: að drekka
     level: 1
     row_id: 288
-    basic_form: að drekka
     last_seen: "2021-07-01"
   - icelandic: Ég elska þig samt.
     english: I love you nevertheless/nonetheless/still.
@@ -1902,11 +1906,11 @@ rows:
     level: 2
     dont_confuse: enn
     row_id: 74
-  - row_id: 1262
-    icelandic: ég er
-    level: 1
-    basic_form: ég, að vera
+  - icelandic: ég er
     english: I am
+    basic_form: ég, að vera
+    level: 1
+    row_id: 1262
     last_seen: "2021-07-02"
   - icelandic: Ég er að drepast úr leiðindum.
     english: I'm dying of boredom.
@@ -1922,15 +1926,15 @@ rows:
   - icelandic: Ég er að reyna að elda en það gengur ekki vel.
     english: I'm trying to cook but it's not going well.
     depends_on: vel
+    basic_form: að reyna, að elda, að ganga
     level: 1
     row_id: 717
-    basic_form: að reyna, að elda, að ganga
     last_seen: "2021-07-01"
   - icelandic: Ég er að reyna að læra íslensku.
     english: I'm trying to learn Icelandic.
+    basic_form: að reyna, íslenska
     level: 1
     row_id: 716
-    basic_form: að reyna, íslenska
     last_seen: "2021-07-01"
   - icelandic: Ég er að skána.
     english: I am beginning to recover slightly from my illness.
@@ -1958,9 +1962,9 @@ rows:
   - icelandic: Ég er á leiðinni í vinnuna.
     english: I'm on my way to {{g|(my)}} job.
     depends_on: á leiðinni
+    basic_form: leið, vinna
     level: 2
     row_id: 760
-    basic_form: leið, vinna
     last_seen: "2021-07-01"
   - icelandic: Ég er bara að grínast.
     english: I just joking.
@@ -1969,9 +1973,9 @@ rows:
     row_id: 648
   - icelandic: Ég er betri en hann.
     english: I am better than him.
+    basic_form: góður
     level: 1
     row_id: 577
-    basic_form: góður
     last_seen: "2021-07-01"
   - icelandic: Ég er búinn að gleyma því.
     english: I've forgotten it.
@@ -1995,9 +1999,9 @@ rows:
   - icelandic: Ég er ekki laus í þessari viku.
     english: I'm not available this week.
     depends_on: laus, þessi, vika
+    basic_form: þessi, vika
     level: 1
     row_id: 104
-    basic_form: þessi, vika
     last_seen: "2021-07-01"
   - icelandic: Ég er ekki lengur veikur.
     english: I'm no longer ill.
@@ -2012,16 +2016,16 @@ rows:
     row_id: 747
   - icelandic: Ég er ekki með nein plön.
     english: I don't have any plans.
+    basic_form: plan, ekki neinn
     level: 1
     row_id: 88
-    basic_form: plan, ekki neinn
     last_seen: "2021-07-01"
   - icelandic: Ég er ekki sammála henni.
     english: I don't agree with her.
     depends_on: sammála
+    basic_form: sammála, hún
     level: 1
     row_id: 573
-    basic_form: sammála, hún
     last_seen: "2021-07-01"
   - icelandic: Ég er ekki viss.
     english: I'm not sure.
@@ -2032,15 +2036,15 @@ rows:
     row_id: 950
   - icelandic: Ég er heima.
     english: I'm at home.
+    depends_on: heima
     level: 1
     row_id: 247
-    depends_on: heima
     last_seen: "2021-07-01"
   - icelandic: Ég er hættur að reykja.
     english: I've quit smoking.; I no longer smoke.
+    basic_form: að hætta, að reykja
     level: 4
     row_id: 370
-    basic_form: að hætta, að reykja
     last_seen: "2021-07-01"
   - icelandic: Ég er í Ameríku.
     english: I'm in America.
@@ -2073,16 +2077,16 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Ég er í fríi.
     english: I'm on vacation.
+    basic_form: frí
     level: 1
     row_id: 450
-    basic_form: frí
     last_seen: "2021-07-01"
   - icelandic: Ég er í fríi í næstu viku.
     english: I have a vacation next week.
     depends_on: frí
+    basic_form: frí, næstur, vika
     level: 1
     row_id: 184
-    basic_form: frí, næstur, vika
     last_seen: "2021-07-01"
   - icelandic: Ég er í grænum sokkum.
     english: I'm wearing green socks.
@@ -2103,9 +2107,9 @@ rows:
     row_id: 447
   - icelandic: Ég er í vinnunni.
     english: I'm at work.
+    basic_form: vinna
     level: 1
     row_id: 193
-    basic_form: vinna
     last_seen: "2021-07-01"
   - icelandic: Ég er kominn í flugvélina.
     english: I have made my way into the airplane.; I am now in the airplane.; I have arrived to the airplane.
@@ -2123,9 +2127,9 @@ rows:
     row_id: 522
   - icelandic: Ég er með hita.
     english: I have a fever.
+    basic_form: hiti, að vera með
     level: 3
     row_id: 411
-    basic_form: hiti, að vera með
     last_seen: "2021-07-01"
   - icelandic: Ég er næstum því jafn stór og þú.
     english: I'm almost as large as you are.
@@ -2193,17 +2197,17 @@ rows:
   - icelandic: Ég er verri en síðast.
     english: I'm worse than last time.
     depends_on: síðast, verri
-    level: 1
-    row_id: 617
     basic_form: slæmur
+    level: 1
     note_after_show_is: "\"Verri\" is the comparative form of \"slæmur\", but also of \"vondur\" and \"illur\"."
+    row_id: 617
     last_seen: "2021-07-01"
   - icelandic: Ég fer í frí í næstu viku.
     english: I will go on vacation next week.
     depends_on: frí
+    basic_form: að fara, næstur, vika
     level: 1
     row_id: 451
-    basic_form: að fara, næstur, vika
     last_seen: "2021-07-01"
   - icelandic: Ég fer í háttinn sirka tíu.
     row_id: 929
@@ -2215,9 +2219,9 @@ rows:
   - icelandic: Ég fer út.
     english: I'll go outside.
     depends_on: út
+    basic_form: að fara
     level: 1
     row_id: 274
-    basic_form: að fara
     last_seen: "2021-07-01"
   - icelandic: Ég fer út í búð einu sinni í viku.
     english: I go to the store once a week.
@@ -2240,9 +2244,9 @@ rows:
     row_id: 742
   - icelandic: ég flýg
     english: I fly
+    basic_form: að fljúga
     level: 2
     row_id: 702
-    basic_form: að fljúga
     last_seen: "2021-06-29"
   - icelandic: Ég fór í sturtu áðan.
     english: I took a shower earlier today.
@@ -2256,10 +2260,10 @@ rows:
     row_id: 1009
   - icelandic: Ég fór þangað áðan.
     english: I went there earlier today.
+    depends_on: þangað, áðan
+    basic_form: að fara
     level: 2
     row_id: 15
-    basic_form: að fara
-    depends_on: þangað, áðan
     last_seen: "2021-06-29"
   - icelandic: Ég gat ekki sofnað.
     english: I couldn't fall asleep.
@@ -2280,9 +2284,9 @@ rows:
     row_id: 961
   - icelandic: Ég get ekki gert það.
     english: I can't do it.
+    basic_form: að geta, að gera
     level: 1
     row_id: 397
-    basic_form: að geta, að gera
     last_seen: "2021-07-01"
   - icelandic: Ég get ekki sofnað.
     english: I can't fall asleep.
@@ -2299,24 +2303,24 @@ rows:
     depends_on: án þess að, vör
     level: 2
     row_id: 879
-  - row_id: 1289
-    icelandic: ég get tekið
-    level: 1
-    basic_form: að geta, að taka
+  - icelandic: ég get tekið
     english: I can take
+    basic_form: að geta, að taka
+    level: 1
+    row_id: 1289
     last_seen: "2021-07-02"
   - icelandic: Ég get það ekki.
     english: I can't.
+    basic_form: að geta
     level: 1
     row_id: 396
-    basic_form: að geta
     last_seen: "2021-07-01"
   - icelandic: Ég get því miður ekki hjálpað þér.
     english: I can sadly not help you.
     depends_on: því miður
+    basic_form: að geta, að hjálpa, þú
     level: 1
     row_id: 364
-    basic_form: að geta, að hjálpa, þú
     last_seen: "2021-07-01"
   - icelandic: Ég gleymdi því.
     english: I forgot it.
@@ -2325,16 +2329,16 @@ rows:
     row_id: 563
   - icelandic: Ég hef áhuga á þessu.
     english: I'm interested in this.
+    basic_form: áhugi, þetta
     level: 1
     row_id: 95
-    basic_form: áhugi, þetta
     last_seen: "2021-07-01"
   - icelandic: Ég hef áhyggjur af þessu.
     english: I'm worried about this.
+    basic_form: að hafa, áhyggja, þessi
     level: 1
     dont_confuse: áhugi
     row_id: 94
-    basic_form: að hafa, áhyggja, þessi
     last_seen: "2021-07-01"
   - icelandic: Ég hef ekki efni á því.
     english: I can't afford it.
@@ -2344,13 +2348,13 @@ rows:
   - icelandic: Ég hef ekki neinn áhuga á þessu.; Ég hef engan áhuga á þessu.
     english: I have no interest in this.; I'm not interested in this at all.
     depends_on: áhugi
+    basic_form: að hafa, enginn, áhugi, þessi
     level: 2
     row_id: 779
-    basic_form: að hafa, enginn, áhugi, þessi
     last_seen: "2021-07-01"
-  - row_id: 1422
-    icelandic: ég hef fengið
+  - icelandic: ég hef fengið
     level: 2
+    row_id: 1422
   - icelandic: Ég held að ég sé að verða veikur.
     english: I think I'm becoming sick.
     level: 2
@@ -2368,18 +2372,18 @@ rows:
     row_id: 457
   - icelandic: Ég hitti hann á morgun.
     english: I will meet him tomorrow.
-    level: 1
-    row_id: 392
     depends_on: á morgun
     basic_form: að hitta
+    level: 1
+    row_id: 392
     last_seen: "2021-07-01"
   - icelandic: Ég hitti hann í gær.
     english: I met him yesterday.
-    level: 2
-    row_id: 391
     depends_on: í gær
     basic_form: að hitta
+    level: 2
     note_after_show_is: "{{spp}}"
+    row_id: 391
     last_seen: "2021-07-02"
   - icelandic: Ég hitti vini mína áðan.
     english: I met my friends earlier today.
@@ -2407,16 +2411,16 @@ rows:
     row_id: 189
   - icelandic: Ég horfi bara á spænska þætti.
     english: I only watch Spanish TV shows.
+    basic_form: þáttur, spænskur, að horfa
     level: 1
     row_id: 259
-    basic_form: þáttur, spænskur, að horfa
     last_seen: "2021-07-01"
   - icelandic: Ég kann ekki ensku.
     english: I don't know English.
     depends_on: enska
+    basic_form: að kunna, enska
     level: 1
     row_id: 64
-    basic_form: að kunna, enska
     last_seen: "2021-07-01"
   - icelandic: Ég '''kann''' ekki '''við''' að gera það.
     english: I don't '''feel comfortable''' doing that.; I feel like I would be breaking social norms by doing that.
@@ -2429,30 +2433,30 @@ rows:
     row_id: 911
   - icelandic: Ég kann íslensku og spænsku.
     english: I know Icelandic and Spanish.
+    basic_form: að kunna, íslenska, spænska
     level: 1
     row_id: 52
-    basic_form: að kunna, íslenska, spænska
     last_seen: "2021-07-01"
   - icelandic: Ég kann *pínku* íslensku.
     english: I know a *teeny tiny bit* of Icelandic.
     depends_on: pínku, íslenska, að kunna
     level: 2
     direction: "->"
-    note_bfr_show_en: Used in colloquial speech.
     row_id: 659
+    note_bfr_show_en: Used in colloquial speech.
   - icelandic: Ég kann *pínulitla* íslensku.
     english: I know a *teeny tiny bit* of Icelandic.
     depends_on: lítill, pínulítill
     level: 2
     direction: "->"
-    note_bfr_show_en: Used in colloquial speech.
     row_id: 661
+    note_bfr_show_en: Used in colloquial speech.
   - icelandic: Ég kann smá spænsku.
     english: I know a little bit of Spanish.
-    level: 1
-    row_id: 138
     depends_on: smá
     basic_form: að kunna, spænska
+    level: 1
+    row_id: 138
     last_seen: "2021-07-01"
   - icelandic: Ég kann vel við hann.
     depends_on: að kunna
@@ -2463,15 +2467,15 @@ rows:
     row_id: 912
   - icelandic: Ég kem eftir einn tíma.
     english: I will come in one hour.
+    basic_form: að koma, einn, tími
     level: 1
     row_id: 360
-    basic_form: að koma, einn, tími
     last_seen: "2021-07-01"
   - icelandic: Ég kem eftir þrjá tíma.
     english: I will come in 3 hours.
+    basic_form: að koma, þrír, tími
     level: 1
     row_id: 221
-    basic_form: að koma, þrír, tími
     last_seen: "2021-07-01"
   - icelandic: Ég kemst ekki lengur í gömlu buxurnar mínar.
     row_id: 1000
@@ -2486,25 +2490,25 @@ rows:
     basic_form: að leggja sig
     row_id: 1018
   - icelandic: Ég man ''ekkert'' eftir því.
-    level: 3
-    row_id: 607
+    english: I don't remember that ''at all''.
     depends_on: ekkert
     basic_form: að muna, enginn
-    english: I don't remember that ''at all''.
+    level: 3
+    row_id: 607
     last_seen: "2021-07-01"
   - icelandic: Ég man ekki eftir því.
     english: I don't recall/remember that.
     depends_on: að muna
+    basic_form: að muna eftir, það
     level: 1
     row_id: 557
-    basic_form: að muna eftir, það
     last_seen: "2021-07-02"
   - icelandic: Ég man ekki hvernig maður segir X.
     english: I don't remember how you say X.
     depends_on: hvernig
+    basic_form: að muna, maður, að segja
     level: 1
     row_id: 559
-    basic_form: að muna, maður, að segja
     last_seen: "2021-07-01"
   - icelandic: Ég millifærði frá mínum reikningi inn á reikning hans.
     row_id: 945
@@ -2515,9 +2519,9 @@ rows:
     row_id: 558
   - icelandic: Ég mæli með því.
     english: I recommend it.
+    basic_form: að mæla með, það
     level: 1
     row_id: 33
-    basic_form: að mæla með, það
     last_seen: "2021-07-01"
   - icelandic: Ég mæti.
     row_id: 969
@@ -2600,15 +2604,15 @@ rows:
   - icelandic: Ég skil ekki mikið.
     english: I don't understand much.
     depends_on: mikið
+    basic_form: að skilja, mikill
     level: 1
     row_id: 238
-    basic_form: að skilja, mikill
     last_seen: "2021-07-01"
   - icelandic: Ég skil þetta ekki.
     english: I don't understand this.
+    basic_form: að skilja, þessi
     level: 1
     row_id: 598
-    basic_form: að skilja, þessi
     last_seen: "2021-07-01"
   - icelandic: Ég sofnaði í skólanum.
     english: I fell asleep at school.
@@ -2636,19 +2640,19 @@ rows:
   - icelandic: Ég tók upp myndband.
     english: I recorded a video.
     level: 3
-    basic form: að taka upp%
     row_id: 649
+    basic form: að taka upp%
   - icelandic: Ég trúi því ekki.
     english: I don't believe it.; I can't believe it.
+    basic_form: að trúa, það
     level: 1
     row_id: 130
-    basic_form: að trúa, það
     last_seen: "2021-07-01"
   - icelandic: Ég trúi því ekki ''alveg''.
     english: I don't ''quite'' believe it.
+    basic_form: að trúa, alveg
     level: 2
     row_id: 417
-    basic_form: að trúa, alveg
     last_seen: "2021-07-01"
   - icelandic: Ég vaknaði fyrir allar aldir í morgun.
     level: 5
@@ -2673,16 +2677,16 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Ég var veikur í síðustu viku.
     english: I was ill last week.
+    basic_form: veikur, síðastur, vika
     level: 1
     row_id: 374
-    basic_form: veikur, síðastur, vika
     last_seen: "2021-07-01"
   - icelandic: Ég veit ekkert um það.
     english: I don't know anything about that.
     depends_on: ekkert, það
+    basic_form: að vita, enginn
     level: 1
     row_id: 190
-    basic_form: að vita, enginn
     last_seen: "2021-07-01"
   - icelandic: Ég veit ekki alveg hvað þú átt við.
     english: I'm don't quite know what you're referring to.
@@ -2734,11 +2738,11 @@ rows:
     level: 3
     row_id: 99
   - icelandic: Ég vil ekki tala um það.
-    level: 1
-    row_id: 914
+    english: I don't want to talk about it.
     depends_on: að tala
     basic_form: að vilja
-    english: I don't want to talk about it.
+    level: 1
+    row_id: 914
     last_seen: "2021-07-02"
   - icelandic: Ég vil verða betri.
     english: I want to become better.
@@ -2748,15 +2752,15 @@ rows:
     row_id: 26
   - icelandic: Ég vinn heima.
     english: I work at home.
+    basic_form: að vinna, heima
     level: 1
     row_id: 307
-    basic_form: að vinna, heima
     last_seen: "2021-07-01"
   - icelandic: Ég vinn of mikið.
     english: I work too much.
+    basic_form: að vinna, mikill
     level: 1
     row_id: 425
-    basic_form: að vinna, mikill
     last_seen: "2021-07-01"
   - icelandic: Ég vissi það ekki.
     english: I didn't know that.
@@ -2787,11 +2791,11 @@ rows:
     row_id: 72
   - icelandic: Ég þ*arf* að fara.
     english: I need to go.
-    level: 1
-    row_id: 182
     depends_on: að fara
     basic_form: að þurfa
+    level: 1
     Laga?: bæta líka við "verð að"
+    row_id: 182
     last_seen: "2021-07-01"
   - icelandic: Ég þarf að fara í bankann.
     row_id: 990
@@ -2832,10 +2836,10 @@ rows:
     row_id: 295
   - icelandic: Ég þarf að vinna í dag.
     english: I need to work today.
-    level: 1
-    row_id: 378
     depends_on: í dag, ég
     basic_form: að þurfa, að vinna
+    level: 1
+    row_id: 378
     last_seen: "2021-07-01"
   - icelandic: Ég þarf því miður *að hætta við*.
     english: I will unfortunately have to *pull out of the plans I had made*/*withdraw*.
@@ -2844,10 +2848,10 @@ rows:
     row_id: 366
   - icelandic: Ég þekki hana ekki vel.
     english: I don't know her well.
-    level: 1
-    row_id: 54
     depends_on: vel
     basic_form: að þekkja, hún
+    level: 1
+    row_id: 54
     last_seen: "2021-07-01"
   - icelandic: Ég þoli ekki að vera hérna.
     english: I can't stand being here.
@@ -2886,17 +2890,17 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Ég ætla að hitta vinkonu mína á eftir.
     english: I'm going to meet my female friend later today.
-    level: 1
-    row_id: 386
     depends_on: á eftir
     basic_form: að hitta, vinkona, minn
+    level: 1
+    row_id: 386
     last_seen: "2021-07-01"
   - icelandic: Ég ætla að hitta vin minn á eftir.
     english: I'm going to meet my male friend later today.
-    level: 1
-    row_id: 385
     depends_on: að hitta, á eftir
     basic_form: vinur, minn
+    level: 1
+    row_id: 385
     last_seen: "2021-07-01"
   - icelandic: Ég ætla að hætta að reykja.
     english: I plan on quitting smoking.
@@ -2906,15 +2910,15 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Ég ætla að koma í sumar.
     english: I'm planning on coming this summer.
+    depends_on: að ætla, að koma, í sumar
     level: 1
     row_id: 31
-    depends_on: að ætla, að koma, í sumar
     last_seen: "2021-07-02"
   - icelandic: Ég ætla að koma til Íslands í september.
     english: I plan on coming to Iceland in September.
+    depends_on: að koma, september, að ætla, Ísland
     level: 1
     row_id: 264
-    depends_on: að koma, september, að ætla, Ísland
     last_seen: "2021-07-01"
   - icelandic: Ég ætla *að leggja af stað* eftir tíu mínútur.
     english: I intend to *get going* in 10 minutes.; I intend to *start my trip* in 10 minutes.
@@ -2931,30 +2935,30 @@ rows:
     row_id: 226
   - icelandic: Ég ætla að tala við mömmu mína á eftir.
     english: I'm going to talk to my mother later today.
+    basic_form: að ætla, mamma, minn
     level: 1
     row_id: 48
-    basic_form: að ætla, mamma, minn
     last_seen: "2021-07-01"
   - icelandic: Ég ætla að vera þar í fjóra daga.
     english: I'm going to be there for 4 days.
+    basic_form: fjórir, dagur
     level: 1
     categories: time
     row_id: 206
-    basic_form: fjórir, dagur
     last_seen: "2021-07-01"
   - icelandic: Ég ætla bara að fá mér *pínku pons*.
     english: I am just going to have a *teeny tiny bit*.
     depends_on: pínku, að fá sér
     level: 2
     direction: "->"
-    note_bfr_show_en: Used in colloquial speech.
     row_id: 660
+    note_bfr_show_en: Used in colloquial speech.
   - icelandic: Ég ætla bara að slaka á um helgina.
     english: I'm just going to relax this weekend.
     depends_on: að slaka á, helgi
+    basic_form: að slaka á, helgi
     level: 1
     row_id: 167
-    basic_form: að slaka á, helgi
     last_seen: "2021-07-01"
   - icelandic: Ég ætla bara að taka því rólega.
     english: I am just going to take it easy.
@@ -3020,9 +3024,9 @@ rows:
     note_after_show: "\"Fer-\" is related to \"fjórir\""
     importance: "-1"
     row_id: 848
-  - row_id: 1465
-    icelandic: ferilskrá
+  - icelandic: ferilskrá
     level: 3
+    row_id: 1465
   - icelandic: ferna
     english: a carton
     depends_on: fjórir, ferhyrningur
@@ -3030,10 +3034,10 @@ rows:
     note_after_show: Related to the words "fjórir" and "ferhyrningur".
     importance: "-1"
     row_id: 849
-  - row_id: 1192
-    icelandic: fimm
-    level: 1
+  - icelandic: fimm
     english: five
+    level: 1
+    row_id: 1192
     last_seen: "2021-07-02"
   - icelandic: fimmhundruðkall
     english: 500 ISK; 500 ISK bank note
@@ -3050,17 +3054,17 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Finnst þér kaffi gott?
     english: Do you like coffee?
-    level: 1
-    row_id: 66
     depends_on: kaffi
     basic_form: að finnast, góður
+    level: 1
+    row_id: 66
     last_seen: "2021-07-01"
   - icelandic: Finnst þér kjöt gott?
     english: Do you like meat?
     depends_on: kjöt
+    basic_form: að finnast, góður
     level: 1
     row_id: 406
-    basic_form: að finnast, góður
     last_seen: "2021-07-01"
   - icelandic: Finnst þér það ekki vera góð mynd?
     english: Do you not think that it's a good film?
@@ -3069,14 +3073,14 @@ rows:
     row_id: 180
   - icelandic: Finnst þér þetta vera fyndið?
     english: Do you find this funny?
+    basic_form: að finnast, fyndinn
     level: 1
     row_id: 416
-    basic_form: að finnast, fyndinn
     last_seen: "2021-07-01"
-  - row_id: 1257
-    icelandic: fjórir
-    level: 1
+  - icelandic: fjórir
     english: four
+    level: 1
+    row_id: 1257
     last_seen: "2021-07-02"
   - icelandic: fjórum sinnum
     english: four times
@@ -3085,36 +3089,36 @@ rows:
     categories: number
     row_id: 486
     last_seen: "2021-07-02"
-  - row_id: 1240
-    icelandic: fjöldi
+  - icelandic: fjöldi
     level: 3
+    row_id: 1240
     last_seen: "2021-07-02"
   - icelandic: fjölskylda
     english: a family
     depends_on: fjöldi, skyldur
     level: 1
-    row_id: 469
     note_after_show_is: "{{small|Derived from \"fjöl-\" (\"multiple\") and \"skylda\" (\"duty\")}}"
+    row_id: 469
     last_seen: "2021-07-01"
   - icelandic: fjölskyldan
     english: the family
+    basic_form: fjölskylda
     level: 1
     row_id: 470
-    basic_form: fjölskylda
     last_seen: "2021-07-01"
   - icelandic: fjölskyldan mín
     english: my family
+    basic_form: fjölskylda, minn
     level: 1
     row_id: 471
-    basic_form: fjölskylda, minn
     last_seen: "2021-07-01"
-  - row_id: 1312
-    icelandic: fljótur
+  - icelandic: fljótur
     level: 1
+    row_id: 1312
     last_seen: "2021-07-02"
-  - row_id: 1369
-    icelandic: flottur
+  - icelandic: flottur
     level: 2
+    row_id: 1369
   - icelandic: fluga
     english: a fly (the insect)
     level: 3
@@ -3124,31 +3128,31 @@ rows:
     english: an airplane
     depends_on: vél, að fljúga
     level: 1
-    row_id: 748
     literally: flight machine
+    row_id: 748
     last_seen: "2021-07-01"
   - icelandic: flugvélin
     english: the airplane
+    basic_form: flugvél
     level: 1
     row_id: 749
-    basic_form: flugvél
     last_seen: "2021-07-01"
-  - row_id: 1276
-    icelandic: foreldrar
-    level: 1
-    depends_on: eldri
+  - icelandic: foreldrar
     english: parents
-    last_seen: "2021-07-02"
-    alternative_id: foreldri
-  - row_id: 1225
-    icelandic: fótbolti
+    depends_on: eldri
     level: 1
-    depends_on: fótur, bolti
-    english: football; soccer
+    alternative_id: foreldri
+    row_id: 1276
     last_seen: "2021-07-02"
-  - row_id: 1335
-    icelandic: fótur
+  - icelandic: fótbolti
+    english: football; soccer
+    depends_on: fótur, bolti
+    level: 1
+    row_id: 1225
+    last_seen: "2021-07-02"
+  - icelandic: fótur
     level: 2
+    row_id: 1335
   - icelandic: framburður
     english: pronunciation
     depends_on: að bera fram
@@ -3159,10 +3163,10 @@ rows:
     row_id: 979
   - icelandic: frábært
     row_id: 1168
-  - row_id: 1285
-    icelandic: frí
-    level: 1
+  - icelandic: frí
     english: a vacation; a holiday
+    level: 1
+    row_id: 1285
     last_seen: "2021-07-02"
   - icelandic: fullorðinn
     english: adult; grown-up
@@ -3183,13 +3187,13 @@ rows:
     depends_on: að fylgjast með, bolti
     level: 2
     row_id: 530
-  - row_id: 1247
-    icelandic: fyndinn
+  - icelandic: fyndinn
     level: 1
+    row_id: 1247
     last_seen: "2021-07-02"
-  - row_id: 1372
-    icelandic: fyrir
+  - icelandic: fyrir
     level: 2
+    row_id: 1372
   - icelandic: Fyrirgefðu hvað ég er óþolinmóður.
     english: Forgive me for being so impatient.
     depends_on: óþolinmóður, að fyrirgefa
@@ -3202,9 +3206,9 @@ rows:
     english: contempt; disdain
     level: 6
     row_id: 687
-  - row_id: 1445
-    icelandic: fyrirmæli
+  - icelandic: fyrirmæli
     level: 2
+    row_id: 1445
   - icelandic: fyrirtæki
     english: a company
     level: 3
@@ -3224,9 +3228,9 @@ rows:
     row_id: 794
   - icelandic: fyrir utan
     row_id: 1156
-  - row_id: 1371
-    icelandic: fyrri
+  - icelandic: fyrri
     level: 2
+    row_id: 1371
   - icelandic: föt
     english: clothes
     level: 1
@@ -3235,25 +3239,25 @@ rows:
   - icelandic: gaffall
     level: 2
     row_id: 709
-  - row_id: 1209
-    icelandic: gaman
-    level: 1
+  - icelandic: gaman
     english: fun
+    level: 1
+    row_id: 1209
     last_seen: "2021-07-02"
   - icelandic: Gaman að sjá þig.
     english: Nice to see you.; It is enjoyable to see you.
-    level: 1
-    row_id: 398
     depends_on: gaman, að sjá
     basic_form: þú
+    level: 1
+    row_id: 398
     last_seen: "2021-07-01"
   - icelandic: gat
     english: a hole
     level: 2.7
     dont_confuse: að geta
-    note_bfr_show_en: Referring to a hole in clothes or in the wall, but not a hole in the ground.
     importance: "-1"
     row_id: 867
+    note_bfr_show_en: Referring to a hole in clothes or in the wall, but not a hole in the ground.
   - icelandic: gaur
     english: dude
     level: 2
@@ -3264,9 +3268,9 @@ rows:
     level: 2
     dont_confuse: bleikur
     direction: "->"
-    note_bfr_show_en: Used in colloquial speech.
     alternative_id: pínku
     row_id: 658
+    note_bfr_show_en: Used in colloquial speech.
   - icelandic: Getum við heyrst á eftir?
     english: Can we hear from each other later today?; Can we talk later today?
     depends_on: að heyrast
@@ -3309,26 +3313,26 @@ rows:
   - icelandic: Getur{{ðu}} sótt mig eftir hálftíma?
     basic_form: að sækja
     row_id: 973
-  - row_id: 1430
-    icelandic: gjarn
+  - icelandic: gjarn
     level: 2
+    row_id: 1430
   - icelandic: Gott mál.
     level: 3
     direction: "->"
     row_id: 313
-  - row_id: 1224
-    icelandic: góður
+  - icelandic: góður
     level: 1
+    row_id: 1224
     last_seen: "2021-07-02"
   - icelandic: gras
     english: grass
     row_id: 1130
-  - row_id: 1361
-    icelandic: grænn
+  - icelandic: grænn
     level: 2
-  - row_id: 1395
-    icelandic: guð
+    row_id: 1361
+  - icelandic: guð
     level: 2
+    row_id: 1395
   - icelandic: Guði sé lof.
     english: Thank God!
     depends_on: Guð
@@ -3350,14 +3354,14 @@ rows:
     direction: "->"
     literally: My good God!
     row_id: 707
-  - row_id: 1419
-    icelandic: göngutúr
+  - icelandic: göngutúr
     level: 2
+    row_id: 1419
   - icelandic: halló
     english: hello
+    level: 1
     note_after_show: Used when answering a telephone. Not a very common greeting outside of that.
     row_id: 1134
-    level: 1
     last_seen: "2021-06-29"
   - icelandic: hallærislegt
     english: uncool; not fashionable; kitsch; embarrassing
@@ -3370,10 +3374,10 @@ rows:
     note_after_show: More rude than "þegiðu".
     categories: rude
     row_id: 555
-  - row_id: 1191
-    icelandic: hamborgari
-    level: 1
+  - icelandic: hamborgari
     english: a hamburger
+    level: 1
+    row_id: 1191
     last_seen: "2021-07-02"
   - icelandic: hamingja
     english: happiness
@@ -3381,10 +3385,10 @@ rows:
     row_id: 620
   - icelandic: handtekinn
     row_id: 994
-  - row_id: 1284
-    icelandic: hann
-    level: 1
+  - icelandic: hann
     english: he
+    level: 1
+    row_id: 1284
     last_seen: "2021-07-02"
   - icelandic: Hann á afmæli.
     english: It's his birthday.
@@ -3393,33 +3397,33 @@ rows:
     row_id: 586
   - icelandic: Hann á marga vini.
     english: He has many friends.
+    basic_form: að eiga, margur, vinur
     level: 1
     row_id: 348
-    basic_form: að eiga, margur, vinur
     last_seen: "2021-07-01"
   - icelandic: Hann býr einn.
     english: He lives alone.
-    level: 1
-    row_id: 118
     depends_on: einn
     basic_form: að búa
+    level: 1
+    row_id: 118
     last_seen: "2021-07-02"
   - icelandic: Hann býr í allt öðrum heimi.
     level: 3
     row_id: 625
   - icelandic: Hann býr í stóru húsi.
     english: He lives in a big house.
+    basic_form: að búa, stór, hús
     level: 1
     row_id: 401
-    basic_form: að búa, stór, hús
     last_seen: "2021-07-01"
-  - row_id: 1293
-    icelandic: hann er
-    level: 1
+  - icelandic: hann er
+    english: he is
     depends_on: hann
     basic_form: að vera
+    level: 1
     alternative_id: er
-    english: he is
+    row_id: 1293
     last_seen: "2021-07-02"
   - icelandic: Hann er á klósettinu.
     english: He's on the toilet.
@@ -3471,8 +3475,8 @@ rows:
     english: He's good at Icelandic.
     depends_on: íslenska, góður
     level: 1
-    row_id: 338
     Laga?: hm?
+    row_id: 338
     last_seen: "2021-07-01"
   - icelandic: Hann er hamingjusamur.
     english: He is happy.
@@ -3500,14 +3504,14 @@ rows:
     english: He has quit drinking Coke.; He no longer drinks Coke.
     depends_on: að hætta, að drekka
     level: 1
-    row_id: 372
     Laga?: hmm
+    row_id: 372
     last_seen: "2021-07-01"
   - icelandic: Hann er í flottum fötum.
     english: He's wearing stylish/elegant/good-looking clothes.
+    basic_form: flottur, föt
     level: 2
     row_id: 400
-    basic_form: flottur, föt
     last_seen: "2021-07-01"
   - icelandic: Hann er í góðu formi.
     row_id: 1023
@@ -3531,8 +3535,8 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Hann er íslenskur.
     english: He is Icelandic.
-    alternative_id: íslenskur
     level: 1
+    alternative_id: íslenskur
     row_id: 342
     last_seen: "2021-07-01"
   - icelandic: Hann er látinn.
@@ -3545,9 +3549,9 @@ rows:
     row_id: 534
   - icelandic: Hann er með flott hár.
     english: He has stylish/elegant/impressive hair.; His haircut looks good.
+    basic_form: flottur, að vera með
     level: 2
     row_id: 399
-    basic_form: flottur, að vera með
     last_seen: "2021-07-01"
   - icelandic: Hann er mjög góður að dansa.
     english: He's very good at dancing.
@@ -3574,11 +3578,11 @@ rows:
     level: 3
     alternative_id: óþolinmóður
     row_id: 524
-  - row_id: 1313
-    icelandic: Hann er seinn.
+  - icelandic: Hann er seinn.
+    english: He is late.
     level: 1
     alternative_id: seinn
-    english: He is late.
+    row_id: 1313
     last_seen: "2021-07-02"
   - icelandic: Hann er sextugur.
     level: 4
@@ -3605,11 +3609,11 @@ rows:
     row_id: 781
   - icelandic: Hann er upptekinn.
     english: He's busy.
-    level: 1
-    row_id: 87
     depends_on: að taka, upp, ég get tekið
+    level: 1
     note_after_show: Made from "að vera tekinn upp" ("to be taken up").
     alternative_id: upptekinn
+    row_id: 87
     last_seen: "2021-07-01"
   - icelandic: Hann er úti í búð.
     english: He's at the grocery store.
@@ -3621,16 +3625,16 @@ rows:
     english: He's ill.; He's sick.
     level: 1
     dont_confuse: vika
-    row_id: 373
     alternative_id: veikur
+    row_id: 373
     last_seen: "2021-07-01"
-  - row_id: 1259
-    icelandic: Hann er verri.
-    level: 2
+  - icelandic: Hann er verri.
+    english: He is worse.
     basic_form: slæmur, vondur, illur
+    level: 2
     alternative_id: verri
     Laga?: bæta við skyringu
-    english: He is worse.
+    row_id: 1259
     last_seen: "2021-07-02"
   - icelandic: Hann er vinsæll.
     english: He is popular.
@@ -3706,11 +3710,11 @@ rows:
     depends_on: að segjast
     level: 2
     row_id: 76
-  - row_id: 1298
-    icelandic: Hann sjálfur.
+  - icelandic: Hann sjálfur.
+    english: He himself.
     level: 1
     alternative_id: sjálfur
-    english: He himself.
+    row_id: 1298
     last_seen: "2021-07-02"
   - icelandic: Hann tók því illa.
     level: 3
@@ -3745,9 +3749,9 @@ rows:
   - icelandic: hálfur
     english: half
     level: 2
-    note_bfr_show_en: adjective
     note_after_show: "\"Hálfur\" is an [[adjective]], \"helmingur\" is a [[noun]]."
     row_id: 1040
+    note_bfr_show_en: adjective
   - icelandic: hálfviti
     english: an idiot
     depends_on: hálfur, að vita
@@ -3757,8 +3761,8 @@ rows:
   - icelandic: heima
     english: at home
     level: 1
-    row_id: 242
     dont_confuse: heimur, heim
+    row_id: 242
     last_seen: "2021-07-01"
   - icelandic: heimili
     english: a home; a household
@@ -3777,9 +3781,9 @@ rows:
     level: 1
     row_id: 241
     last_seen: "2021-07-01"
-  - row_id: 1189
-    icelandic: heitur
+  - icelandic: heitur
     level: 1
+    row_id: 1189
     last_seen: "2021-07-02"
   - icelandic: Heldur{{ðu}} að hann geti hjálpað mér?
     english: Do you think that he can help me?
@@ -3795,9 +3799,9 @@ rows:
     english: a half
     level: 2
     dont_confuse: hálfur
-    note_bfr_show_en: noun
     note_after_show: "\"Helmingur\" is a [[noun]], \"hálfur\" is an [[adjective]]."
     row_id: 1039
+    note_bfr_show_en: noun
   - icelandic: helmingurinn
     english: the half
     depends_on: helmingur
@@ -3815,33 +3819,33 @@ rows:
     row_id: 828
   - icelandic: Heyrir{{ðu}} í mér?
     english: Can you hear me?
+    basic_form: að heyra, ég
     level: 1
     row_id: 105
-    basic_form: að heyra, ég
     last_seen: "2021-07-01"
   - icelandic: hérna; hér
     english: here
     level: 1
-    row_id: 724
     dont_confuse: þarna, hár
     note_after_show_is: "\"Hérna\" is more common in spoken language while \"hér\" is more common in written language. They are usually synonymous, but there can be a slight difference with \"hérna\" referring to a specific location (\"over here\") and \"hér\" referring to an imprecise general area."
+    row_id: 724
     last_seen: "2021-07-01"
   - icelandic: hins vegar
     row_id: 970
-  - row_id: 1413
-    icelandic: hiti
+  - icelandic: hiti
     level: 2
+    row_id: 1413
   - icelandic: Hittumst við ekki á eftir?
     english: Won't we meet each other later today?
-    level: 2
-    row_id: 390
     depends_on: á eftir, við (fn)
     basic_form: að hittast
-    note_after_show_is: "{{spp}}"
-    last_seen: "2021-07-02"
-  - row_id: 1385
-    icelandic: hjálp
     level: 2
+    note_after_show_is: "{{spp}}"
+    row_id: 390
+    last_seen: "2021-07-02"
+  - icelandic: hjálp
+    level: 2
+    row_id: 1385
   - icelandic: hlekkur
     english: a link (in a chain or on the internet)
     level: 2
@@ -3863,50 +3867,50 @@ rows:
     row_id: 62
   - icelandic: Honum líður ekki vel.
     english: He doesn't feel good.
-    level: 1
-    row_id: 166
     depends_on: vel, hann
     basic_form: hann, að líða
+    level: 1
+    row_id: 166
     last_seen: "2021-07-01"
   - icelandic: horfði skringilega á mig
     row_id: 1099
-  - row_id: 1456
-    icelandic: horn
+  - icelandic: horn
     level: 2
+    row_id: 1456
   - icelandic: hratt
     english: quickly; quick; fast
+    basic_form: hraður
     level: 1
     alternative_id: hraður
     row_id: 636
-    basic_form: hraður
     last_seen: "2021-07-01"
   - icelandic: hreimur
     english: a foreign accent
     level: 2
     row_id: 631
-  - row_id: 1438
-    icelandic: hreinn
+  - icelandic: hreinn
     level: 2
+    row_id: 1438
   - icelandic: hræddur
     english: scared
     level: 3
     row_id: 567
-  - row_id: 1404
-    icelandic: hugur
+  - icelandic: hugur
     level: 2
-  - row_id: 1281
-    icelandic: hundrað
-    level: 1
+    row_id: 1404
+  - icelandic: hundrað
     english: hundred
+    level: 1
+    row_id: 1281
     last_seen: "2021-07-02"
   - icelandic: hundraðkall
     english: 100 ISK coin
     level: 2
     row_id: 554
-  - row_id: 1215
-    icelandic: hundur
-    level: 1
+  - icelandic: hundur
     english: a dog
+    level: 1
+    row_id: 1215
     last_seen: "2021-07-02"
   - icelandic: hún
     english: she
@@ -3915,9 +3919,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Hún býr með foreldrum sínum.
     english: She lives with her parents.
+    basic_form: að búa, foreldrar, sinn
     level: 1
     row_id: 119
-    basic_form: að búa, foreldrar, sinn
     last_seen: "2021-07-01"
   - icelandic: Hún er alltaf að skipta sér af hlutum sem koma henni ekki við.
     english: She's always sticking her nose into things that are none of her business.
@@ -3927,9 +3931,9 @@ rows:
   - icelandic: Hún er alltaf þreytt.
     english: She's always tired.
     depends_on: alltaf, hún
+    basic_form: þreyttur
     level: 1
     row_id: 289
-    basic_form: þreyttur
     last_seen: "2021-07-01"
   - icelandic: Hún er blind.
     english: She is blind.
@@ -3950,28 +3954,28 @@ rows:
     row_id: 47
   - icelandic: Hún er góð í því.
     english: She is good at it.
+    basic_form: góður
     level: 1
     row_id: 601
-    basic_form: góður
     last_seen: "2021-07-01"
   - icelandic: Hún er íslensk.
     english: She is Icelandic.
+    basic_form: íslenskur
     level: 1
     row_id: 343
     last_seen: "2021-07-01"
-    basic_form: íslenskur
-  - row_id: 1211
-    icelandic: Hún er reið.
-    level: 1
-    basic_form: reiður%
+  - icelandic: Hún er reið.
     english: She is angry.
+    basic_form: reiður%
+    level: 1
+    row_id: 1211
     last_seen: "2021-07-02"
   - icelandic: Hún er reið yfir því.
     english: She's angry about that.
     depends_on: yfir
+    basic_form: reiður, það
     level: 1
     row_id: 197
-    basic_form: reiður, það
     last_seen: "2021-07-01"
   - icelandic: Hún er tvítug.
     english: She is 20 years old
@@ -4003,15 +4007,15 @@ rows:
     row_id: 775
   - icelandic: Hún ætlar að tala við mömmu *sína*.
     english: She is going to talk to *her {{g|own}}* mom.
+    basic_form: að ætla, mamma, sinn
     level: 1
     row_id: 229
-    basic_form: að ætla, mamma, sinn
     last_seen: "2021-07-02"
-  - row_id: 1302
-    icelandic: húsið
-    level: 1
-    basic_form: hús%
+  - icelandic: húsið
     english: the house
+    basic_form: hús%
+    level: 1
+    row_id: 1302
     last_seen: "2021-07-02"
   - icelandic: hvað?
     english: what?
@@ -4021,9 +4025,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Hvaða mál er talað þar?
     row_id: 983
-  - row_id: 1402
-    icelandic: hvaðan
+  - icelandic: hvaðan
     level: 2
+    row_id: 1402
   - icelandic: Hvaðan ert{{u}}?
     english: Where are you from?
     depends_on: hvaðan
@@ -4031,9 +4035,9 @@ rows:
     row_id: 12
   - icelandic: Hvað á ég að gera?
     english: What am I supposed to do?
+    basic_form: að eiga að, að gera
     level: 1
     row_id: 3
-    basic_form: að eiga að, að gera
     last_seen: "2021-07-01"
   - icelandic: Hvað á hann við með því?
     english: What does he mean with that?
@@ -4055,22 +4059,22 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Hvað ert{{u}} að gera?
     english: What are you doing?
+    depends_on: að gera
     level: 1
     row_id: 51
-    depends_on: að gera
     last_seen: "2021-07-01"
   - icelandic: Hvað ert{{u}} að horfa á?; Á hvað ert{{u}} að horfa?
     english: What are you watching?
+    basic_form: að horfa á
     level: 1
     row_id: 495
-    basic_form: að horfa á
     last_seen: "2021-07-01"
   - icelandic: Hvað ert{{u}} búinn að læra íslensku lengi?
     english: For how long have you been learning Icelandic?
     depends_on: búinn, að læra, lengi
+    basic_form: íslenska
     level: 1
     row_id: 335
-    basic_form: íslenska
     last_seen: "2021-07-01"
   - icelandic: Hvað ert{{u}} eiginlega að tala um?
     row_id: 953
@@ -4092,9 +4096,9 @@ rows:
   - icelandic: Hvað finnst þér um það?
     english: What do you think of that?
     depends_on: um
+    basic_form: að finnast, þú, það
     level: 1
     row_id: 769
-    basic_form: að finnast, þú, það
     last_seen: "2021-07-01"
   - icelandic: Hvað gerðir{{ðu}} um helgina?
     english: What did you do this weekend?
@@ -4109,9 +4113,9 @@ rows:
     row_id: 682
   - icelandic: Hvað gerðist?
     english: What happened?
+    basic_form: að gerast
     level: 2
     row_id: 409
-    basic_form: að gerast
     last_seen: "2021-07-01"
   - icelandic: Hvað heitir hann?
     english: What's his name?
@@ -4120,9 +4124,9 @@ rows:
     row_id: 213
   - icelandic: Hvað heitir kötturinn þinn?
     english: What's your cat's name?
+    basic_form: að heita, köttur
     level: 1
     row_id: 216
-    basic_form: að heita, köttur
     last_seen: "2021-07-01"
   - icelandic: Hvað í andskotanum ert{{u}} að gera?; Hvað í fjandanum ert{{u}} að gera?
     english: What the hell are you doing?
@@ -4133,17 +4137,17 @@ rows:
     row_id: 500
   - icelandic: Hvað meinar{{ðu}}?
     english: What do you mean?
+    basic_form: að meina
     level: 1
     row_id: 143
-    basic_form: að meina
     last_seen: "2021-07-01"
   - icelandic: Hvað segir{{ðu}} gott?
     english: How are you?
     depends_on: þú segir
+    basic_form: að segja, góður
     level: 1
     literally: What do you say that is good?
     row_id: 1112
-    basic_form: að segja, góður
     last_seen: "2021-07-01"
   - icelandic: Hvað skulda ég þér mikið?
     row_id: 922
@@ -4155,84 +4159,84 @@ rows:
   - icelandic: Hvað tekur það langan tíma?
     english: How long does it take?
     depends_on: hvað
+    basic_form: að taka, langur, tími
     level: 1
     row_id: 362
-    basic_form: að taka, langur, tími
     last_seen: "2021-07-01"
   - icelandic: Hvað vilt{{u}} fá?
     english: What do you want to get?
+    basic_form: að vilja, að fá
     level: 1
     row_id: 276
-    basic_form: að vilja, að fá
     last_seen: "2021-07-01"
   - icelandic: Hvað vilt{{u}} marga poka?
     english: How many bags do you want?
+    basic_form: að vilja, poki, margur
     level: 1
     row_id: 153
-    basic_form: að vilja, poki, margur
     last_seen: "2021-07-01"
   - icelandic: Hvað vilt{{u}} mikið?; Hversu mikið vilt{{u}}?
     english: How much do you want?
-    level: 1
-    row_id: 20
     depends_on: hvað, hversu
     basic_form: að vilja, mikill
+    level: 1
+    row_id: 20
     last_seen: "2021-07-01"
   - icelandic: Hvað þarftu eiginlega marga poka?
     row_id: 952
   - icelandic: Hvað þýðir þetta orð?
     english: What does this word mean?
-    level: 1
-    row_id: 202
     depends_on: þessi, orð
     basic_form: að þýða
+    level: 1
+    row_id: 202
     last_seen: "2021-07-01"
   - icelandic: Hvað ætlar{{ðu}} að gera á eftir?
     english: What are you going to do later today?
-    level: 1
-    row_id: 49
     depends_on: hvað, að gera, á eftir
     basic_form: að ætla
+    level: 1
+    row_id: 49
     last_seen: "2021-07-01"
   - icelandic: Hvað ætlar{{ðu}} að gera á Íslandi?
     english: What are you going to do in Iceland?
-    level: 1
-    row_id: 592
     depends_on: hvað
     basic_form: að ætla, Ísland
+    level: 1
+    row_id: 592
     last_seen: "2021-07-01"
   - icelandic: Hvað ætlar{{ðu}} að gera á morgun?
     english: What are you going to do tomorrow?
-    level: 1
-    row_id: 50
     depends_on: að gera, á morgun
     basic_form: að ætla
+    level: 1
+    row_id: 50
     last_seen: "2021-07-01"
   - icelandic: Hvað ætlar{{ðu}} að gera í dag?
     english: What do you plan on doing today?
-    level: 1
-    row_id: 231
     depends_on: að gera, í dag
     basic_form: að ætla
+    level: 1
+    row_id: 231
     last_seen: "2021-07-01"
   - icelandic: Hvað ætlar{{ðu}} að gera í kvöld?
     english: What are you going to do this evening?
-    level: 1
-    row_id: 258
     depends_on: að gera, í kvöld
     basic_form: að ætla
+    level: 1
+    row_id: 258
     last_seen: "2021-07-01"
   - icelandic: Hvað ætlar{{ðu}} að gera um helgina?
     english: What are you going to do this weekend?
+    basic_form: að ætla, að gera, helgi
     level: 1
     row_id: 170
-    basic_form: að ætla, að gera, helgi
     last_seen: "2021-07-01"
-  - row_id: 1292
-    icelandic: hvar?
+  - icelandic: hvar?
+    english: where?
     level: 1
     alternative_id: hvar
-    english: where?
+    row_id: 1292
     last_seen: "2021-07-02"
   - icelandic: Hvar áttu heima?
     english: Where do you live?; What's your address?
@@ -4242,26 +4246,26 @@ rows:
     row_id: 246
   - icelandic: Hvar býrð{{u}}?
     english: Where do you live?
+    depends_on: hvar
+    basic_form: að búa
     level: 1
     direction: "->"
     row_id: 245
-    depends_on: hvar
-    basic_form: að búa
     last_seen: "2021-07-01"
   - icelandic: Hvar býrð{{u}}?; Hvar áttu heima?
     english: Where do you live?
+    basic_form: að búa, að eiga heima
     level: 1
     direction: <-
-    row_id: 244
-    basic_form: að búa, að eiga heima
     should_split: "no"
+    row_id: 244
     last_seen: "2021-07-01"
   - icelandic: Hvar býr vinur þinn?
     english: Where does your friend live?
-    level: 1
-    row_id: 357
     depends_on: vinur, þinn, hvar
     basic_form: að búa
+    level: 1
+    row_id: 357
     last_seen: "2021-07-01"
   - icelandic: Hvar er hann?
     english: Where is he?
@@ -4277,16 +4281,16 @@ rows:
   - icelandic: Hvar ætlar{{ðu}} að búa?
     english: Where do you plan on living?
     depends_on: að búa
+    basic_form: að ætla, að búa
     level: 1
     row_id: 217
-    basic_form: að ætla, að búa
     last_seen: "2021-07-01"
-  - row_id: 1261
-    icelandic: hvenær?
+  - icelandic: hvenær?
+    english: when?
     level: 1
     note_after_show_is: Despite the spelling, this word is pronounced {{pron|kvenar}}
     alternative_id: hvenær
-    english: when?
+    row_id: 1261
     last_seen: "2021-07-02"
   - icelandic: Hvenær áttu von á honum?
     row_id: 964
@@ -4308,17 +4312,17 @@ rows:
     row_id: 1052
   - icelandic: Hvenær ætlar{{ðu}} að koma til Íslands?
     english: When do you plan on coming to Iceland?
-    level: 1
-    row_id: 263
     depends_on: hvenær, að koma
     basic_form: að ætla, Ísland
-    last_seen: "2021-07-01"
-  - row_id: 1245
-    icelandic: hver?
     level: 1
+    row_id: 263
+    last_seen: "2021-07-01"
+  - icelandic: hver?
     english: who?
-    last_seen: "2021-07-02"
+    level: 1
     alternative_id: hver
+    row_id: 1245
+    last_seen: "2021-07-02"
   - icelandic: Hver er tilgangurinn með þessu?
     english: What's the purpose of this?
     depends_on: tilgangur
@@ -4340,14 +4344,14 @@ rows:
     depends_on: sama
     level: 3
     row_id: 8
-  - row_id: 1220
-    icelandic: hvernig?
-    level: 1
+  - icelandic: hvernig?
     english: how?;; what kind?
-    last_seen: "2021-07-02"
-  - row_id: 1328
-    icelandic: hvernig
     level: 1
+    row_id: 1220
+    last_seen: "2021-07-02"
+  - icelandic: hvernig
+    level: 1
+    row_id: 1328
   - icelandic: Hvernig bíl áttu?; Hvers konar bíl áttu?
     english: What kind of a car do you own?
     level: 1
@@ -4356,22 +4360,22 @@ rows:
     row_id: 925
   - icelandic: Hvernig finnst þér?
     english: How do you like {{g|it}}?; What's your opinion {{g|of it}}?
+    basic_form: að finnast
     Laga?: hmmm
     row_id: 1138
-    basic_form: að finnast
     last_seen: "2021-06-29"
   - icelandic: Hvernig gengur?
     english: How is it going with the task that you're working on?; Are you making good progress?
     depends_on: hvernig
+    basic_form: að ganga
     level: 1
     row_id: 718
-    basic_form: að ganga
     last_seen: "2021-07-01"
   - icelandic: Hvernig gerir maður þetta?
     english: How does one do this?
+    basic_form: að gera, maður, þessi
     level: 1
     row_id: 18
-    basic_form: að gera, maður, þessi
     last_seen: "2021-07-01"
   - icelandic: Hvernig hefur{{ðu}} efni á þessu?
     english: How can you afford this?
@@ -4385,50 +4389,50 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Hvernig líst þér á?
     english: How do you like the looks of this?; Do you approve of this?
+    basic_form: að lítast á
     level: 2
     row_id: 100
-    basic_form: að lítast á
     last_seen: "2021-07-01"
   - icelandic: Hvernig lítur þetta út?
     english: How does this look?
     depends_on: þessi, hvernig
+    basic_form: að líta út
     level: 1
     row_id: 569
-    basic_form: að líta út
     last_seen: "2021-07-01"
   - icelandic: Hvernig segir maður ''X'' á íslensku?
     english: How do you say ''X'' in Icelandic?
     depends_on: maður
+    basic_form: að segja, íslenska
     level: 1
     row_id: 161
-    basic_form: að segja, íslenska
     last_seen: "2021-07-02"
   - icelandic: Hvernig þýðir maður þetta?
     english: How does one translate this?
     level: 2
     row_id: 204
-  - row_id: 1271
-    icelandic: hversu
+  - icelandic: hversu
     level: 1
+    row_id: 1271
     last_seen: "2021-07-02"
   - icelandic: Hversu vandræðalegt!; En vandræðalegt!
     english: How awkward!
     depends_on: vandræðalegt
     level: 2
     row_id: 877
-  - row_id: 1237
-    icelandic: hvert?
-    level: 1
-    depends_on: hvar
+  - icelandic: hvert?
     english: to where?
+    depends_on: hvar
+    level: 1
     alternative_id: hvert
+    row_id: 1237
     last_seen: "2021-07-02"
   - icelandic: Hvert langar þig að fara?
     english: Where do you want to go?
     depends_on: hvert, að langa, að fara
+    basic_form: að langa, þú
     level: 1
     row_id: 13
-    basic_form: að langa, þú
     last_seen: "2021-07-02"
   - icelandic: Hvert langar þig að fara á eftir?
     english: Where do you want to go later today?
@@ -4436,12 +4440,12 @@ rows:
     level: 1
     row_id: 14
     last_seen: "2021-07-01"
-  - row_id: 1364
-    icelandic: hvor
+  - icelandic: hvor
     level: 2
-  - row_id: 1348
-    icelandic: hvort
+    row_id: 1364
+  - icelandic: hvort
     level: 2
+    row_id: 1348
   - icelandic: Hvort vilt{{u}}?
     english: Which of the two items do you want?
     depends_on: hvor
@@ -4453,9 +4457,9 @@ rows:
     row_id: 1133
   - icelandic: hægt
     english: slow;; doable; possible; achievable
+    basic_form: hægur%
     level: 1
     row_id: 635
-    basic_form: hægur%
     last_seen: "2021-07-01"
   - icelandic: hækjur
     english: crutches (to help you walk when you are injured)
@@ -4467,9 +4471,9 @@ rows:
     english: an increase
     depends_on: að hækka
     row_id: 1084
-  - row_id: 1365
-    icelandic: hættulegur
+  - icelandic: hættulegur
     level: 2
+    row_id: 1365
   - icelandic: Hættu þessu.
     row_id: 1148
   - icelandic: höfuð; haus
@@ -4491,9 +4495,9 @@ rows:
     basic_form: að hittast
     level: 2
     row_id: 56
-  - row_id: 1454
-    icelandic: hönd
+  - icelandic: hönd
     level: 2
+    row_id: 1454
   - icelandic: i∆ í∆ joð∆ ká
     english: What is the name of the letters "I∆ Í∆ J∆ K"?
     level: 1
@@ -4501,11 +4505,11 @@ rows:
     categories: alphabet
     row_id: 1032
     last_seen: "2021-07-01"
-  - row_id: 1208
-    icelandic: i*lla*
+  - icelandic: i*lla*
+    english: badly
     level: 1
     pronunciation: ílla
-    english: badly
+    row_id: 1208
     last_seen: "2021-07-02"
   - icelandic: It went well.
     english: It went well.
@@ -4517,24 +4521,24 @@ rows:
     row_id: 1119
   - icelandic: Í alvöru?
     english: Really?
+    basic_form: alvara% ("seriousness")
     level: 1
     row_id: 254
-    basic_form: alvara% ("seriousness")
     last_seen: "2021-07-01"
   - icelandic: í dag
     english: today
+    basic_form: dagur
     level: 1
     row_id: 235
-    basic_form: dagur
     last_seen: "2021-07-01"
   - icelandic: í fyrra
     english: last year
     depends_on: fyrri
     level: 2
     row_id: 539
-  - row_id: 1340
-    icelandic: í gær
+  - icelandic: í gær
     level: 2
+    row_id: 1340
   - icelandic: í gærkvöld
     english: yesterday evening
     depends_on: kvöld, í gær
@@ -4542,17 +4546,17 @@ rows:
     row_id: 395
   - icelandic: Í hvernig fötum ert{{u}}?
     english: What type of clothes are you wearing?
-    level: 1
-    row_id: 403
     basic_form: föt, að vera í
+    level: 1
     eyða: kannski
+    row_id: 403
     last_seen: "2021-07-01"
   - icelandic: í kvöld
     english: this evening
     depends_on: kvöld
     level: 1
-    row_id: 393
     importance: "1"
+    row_id: 393
     last_seen: "2021-07-01"
   - icelandic: í mesta lagi
     english: at maximum
@@ -4573,9 +4577,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Íslendingur
     english: an Icelander; an Icelandic person
+    depends_on: Ísland
     level: 1
     row_id: 340
-    depends_on: Ísland
     last_seen: "2021-07-01"
   - icelandic: íslenska
     english: "{{g|the}} Icelandic language"
@@ -4583,15 +4587,15 @@ rows:
     level: 1
     row_id: 337
     last_seen: "2021-07-01"
-  - row_id: 1322
-    icelandic: í sumar
-    level: 1
-    depends_on: sumar
+  - icelandic: í sumar
     english: this summer
+    depends_on: sumar
+    level: 1
+    row_id: 1322
     last_seen: "2021-07-02"
-  - row_id: 1343
-    icelandic: jafn
+  - icelandic: jafn
     level: 2
+    row_id: 1343
   - icelandic: jarðarför
     english: a funeral; a burial
     depends_on: jörð, að fara
@@ -4610,9 +4614,9 @@ rows:
     english: Jesus Christ
     level: 3
     row_id: 518
-  - row_id: 1443
-    icelandic: jörð
+  - icelandic: jörð
     level: 2
+    row_id: 1443
   - icelandic: kaffi
     english: coffee
     level: 1
@@ -4620,9 +4624,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: kaffið
     english: the coffee
+    basic_form: kaffi
     level: 1
     row_id: 287
-    basic_form: kaffi
     last_seen: "2021-07-02"
   - icelandic: kannski
     english: maybe
@@ -4632,9 +4636,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Kannt{{u}} að elda?
     english: Do you know how to cook?
+    basic_form: að kunna
     level: 1
     row_id: 65
-    basic_form: að kunna
     last_seen: "2021-07-01"
   - icelandic: Kanntu mörg tungumál?; Kanntu mörg mál?
     english: Do you know many languages?
@@ -4648,15 +4652,15 @@ rows:
     row_id: 479
   - icelandic: kennari
     english: a teacher
+    depends_on: að kenna
     level: 1
     row_id: 210
-    depends_on: að kenna
     last_seen: "2021-07-01"
   - icelandic: kennarinn
     english: the teacher
+    basic_form: kennari
     level: 1
     row_id: 211
-    basic_form: kennari
     last_seen: "2021-07-01"
   - icelandic: kindin
     english: "the sheep (note: singular)"
@@ -4665,10 +4669,10 @@ rows:
     row_id: 1129
   - icelandic: kínverska
     row_id: 980
-  - row_id: 1319
-    icelandic: kjöt
-    level: 1
+  - icelandic: kjöt
     english: meat
+    level: 1
+    row_id: 1319
     last_seen: "2021-07-02"
   - icelandic: klósett
     english: a toilet; W.C.
@@ -4713,9 +4717,9 @@ rows:
     level: 2
     grammar_tags: bh
     row_id: 497
-  - row_id: 1382
-    icelandic: kominn
+  - icelandic: kominn
     level: 2
+    row_id: 1382
   - icelandic: kona
     english: a woman;; a wife
     level: 1
@@ -4723,33 +4727,33 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Konan mín er tónlistarmaður.
     english: My wife is a musician.
+    basic_form: kona, minn, tónlistarmaður
     level: 1
     row_id: 328
-    basic_form: kona, minn, tónlistarmaður
     last_seen: "2021-07-01"
-  - row_id: 1370
-    icelandic: kostur
+  - icelandic: kostur
     level: 2
-  - row_id: 1440
-    icelandic: krabbamein
+    row_id: 1370
+  - icelandic: krabbamein
     level: 2
-  - row_id: 1399
-    icelandic: kveðja
+    row_id: 1440
+  - icelandic: kveðja
     level: 2
+    row_id: 1399
   - icelandic: kvenréttindi
     row_id: 942
-  - row_id: 1307
-    icelandic: kvöld
-    level: 1
+  - icelandic: kvöld
     english: an evening
+    level: 1
+    row_id: 1307
     last_seen: "2021-07-02"
   - icelandic: Kærar kveðjur.
     english: Best regards.
     depends_on: kær, kveðja
     level: 2
-    note_bfr_show_en: Used at the end of emails.
     literally: Cherished greetings.
     row_id: 131
+    note_bfr_show_en: Used at the end of emails.
   - icelandic: kærasta
     english: a girlfriend
     depends_on: kæri
@@ -4763,22 +4767,22 @@ rows:
     level: 1
     row_id: 435
     last_seen: "2021-07-01"
-  - row_id: 1267
-    icelandic: „Kæri Gunnar∆ ...“
-    level: 1
+  - icelandic: „Kæri Gunnar∆ ...“
+    english: "\"Dear Gunnar∆ ...\""
     basic_form: kær ("cherished / beloved")
+    level: 1
     note_after_show: Used when writing letters and emails to people you know well.
     alternative_id: kæri, kær
-    english: "\"Dear Gunnar∆ ...\""
+    row_id: 1267
     last_seen: "2021-07-02"
-  - row_id: 1221
-    icelandic: köttur
-    level: 1
+  - icelandic: köttur
     english: a cat
-    last_seen: "2021-07-02"
-  - row_id: 1250
-    icelandic: land
     level: 1
+    row_id: 1221
+    last_seen: "2021-07-02"
+  - icelandic: land
+    level: 1
+    row_id: 1250
     last_seen: "2021-07-02"
   - icelandic: landnám
     english: the settlement of Iceland
@@ -4787,25 +4791,25 @@ rows:
     row_id: 1126
   - icelandic: Langar þig að koma með?
     english: Do you want to come along?; Do you want to come with {{g|us}}?
+    depends_on: að koma
+    basic_form: að langa
     level: 1
     direction: "->"
     row_id: 412
-    depends_on: að koma
-    basic_form: að langa
     last_seen: "2021-07-02"
   - icelandic: Langar þig að vera með okkur?
     english: Do you want to be with us?
+    basic_form: að langa, þú, að vera með, við
     level: 2
     row_id: 413
-    basic_form: að langa, þú, að vera með, við
     last_seen: "2021-07-01"
-  - row_id: 1180
-    icelandic: langur
+  - icelandic: langur
     level: 1
+    row_id: 1180
     last_seen: "2021-07-02"
-  - row_id: 1265
-    icelandic: laus
+  - icelandic: laus
     level: 1
+    row_id: 1265
     last_seen: "2021-07-02"
   - icelandic: Láttu mig vera.
     english: Leave me alone.; Let me be.
@@ -4817,28 +4821,28 @@ rows:
     level: 2.9
     grammar_tags: bh
     row_id: 831
-  - row_id: 1345
-    icelandic: leið
+  - icelandic: leið
     level: 2
-  - row_id: 1436
-    icelandic: leiðindi
+    row_id: 1345
+  - icelandic: leiðindi
     level: 2
-  - row_id: 1294
-    icelandic: leiðinlegur
+    row_id: 1436
+  - icelandic: leiðinlegur
     level: 1
+    row_id: 1294
     last_seen: "2021-07-02"
-  - row_id: 1408
-    icelandic: leiður
+  - icelandic: leiður
     level: 2
-  - row_id: 1232
-    icelandic: l*engi*
-    level: 1
-    depends_on: langur
+    row_id: 1408
+  - icelandic: l*engi*
     english: for long; for a long time
-    last_seen: "2021-07-02"
-  - row_id: 1305
-    icelandic: lengur
+    depends_on: langur
     level: 1
+    row_id: 1232
+    last_seen: "2021-07-02"
+  - icelandic: lengur
+    level: 1
+    row_id: 1305
     last_seen: "2021-07-02"
   - icelandic: Leyfðu mér að hugsa.
     english: Allow me to think.
@@ -4852,52 +4856,52 @@ rows:
     depends_on: að láta vita, að láta
     level: 2.2
     row_id: 913
-  - row_id: 1424
-    icelandic: léttur
+  - icelandic: léttur
     level: 2
-  - row_id: 1275
-    icelandic: list
-    level: 1
+    row_id: 1424
+  - icelandic: list
     english: art
+    level: 1
+    row_id: 1275
     last_seen: "2021-07-02"
   - icelandic: Líður þér eitthvað öðruvísi?
     level: 2
     row_id: 889
-  - row_id: 1453
-    icelandic: líf
+  - icelandic: líf
     level: 2
+    row_id: 1453
   - icelandic: líka
     english: also
     row_id: 1137
   - icelandic: Líst mér á!
     depends_on: Mér líst vel á það.
     row_id: 1141
-  - row_id: 1359
-    icelandic: lítið
+  - icelandic: lítið
     level: 2
+    row_id: 1359
   - icelandic: lítill
     english: little; small
     grammar_note f/icelandic: masculine
     row_id: 1132
-  - row_id: 1452
-    icelandic: loforð
+  - icelandic: loforð
     level: 2
+    row_id: 1452
   - icelandic: loksins
     row_id: 1167
-  - row_id: 1421
-    icelandic: lykill
+  - icelandic: lykill
     level: 2
+    row_id: 1421
   - icelandic: lyklaborðið
     english: the computer keyboard
     depends_on: lykill, borð
+    basic_form: lyklaborð
     level: 3
     alternative_id: lyklaborð
     row_id: 809
-    basic_form: lyklaborð
     last_seen: "2021-06-29"
-  - row_id: 1446
-    icelandic: lögregla
+  - icelandic: lögregla
     level: 2
+    row_id: 1446
   - icelandic: maður
     english: a man;; a person;; a husband
     level: 1
@@ -4908,9 +4912,9 @@ rows:
     depends_on: vís, fyrirmæli, lögregla
     level: 4
     row_id: 640
-  - row_id: 1389
-    icelandic: magi
+  - icelandic: magi
     level: 2
+    row_id: 1389
   - icelandic: mamma
     english: a mom; a mother
     level: 1
@@ -4947,19 +4951,19 @@ rows:
     row_id: 841
   - icelandic: margir
     english: many;; many people
+    basic_form: margur
     level: 1
     row_id: 42
-    basic_form: margur
     last_seen: "2021-07-01"
   - icelandic: margt
     english: many things
+    basic_form: margur
     level: 1
     row_id: 43
-    basic_form: margur
     last_seen: "2021-07-01"
-  - row_id: 1188
-    icelandic: margur
+  - icelandic: margur
     level: 1
+    row_id: 1188
     last_seen: "2021-07-02"
   - icelandic: Má bjóða þér afritið?
     english: Can I offer you the receipt?
@@ -4973,10 +4977,10 @@ rows:
     level: 1
     row_id: 310
     last_seen: "2021-07-01"
-  - row_id: 1254
-    icelandic: með
-    level: 1
+  - icelandic: með
     english: with
+    level: 1
+    row_id: 1254
     last_seen: "2021-07-02"
   - icelandic: meðfylgjandi
     depends_on: að fylgja með
@@ -4993,9 +4997,9 @@ rows:
   - icelandic: meiddur; slasaður
     level: 4
     row_id: 608
-  - row_id: 1367
-    icelandic: meira
+  - icelandic: meira
     level: 2
+    row_id: 1367
   - icelandic: Mér datt í hug að fara í sund.
     english: The idea occurred to me that I could go swimming.; I was thinking about going swimming.
     depends_on: að detta í hug
@@ -5032,9 +5036,9 @@ rows:
     row_id: 319
   - icelandic: Mér er kalt.
     english: I'm cold.; I'm feeling cold.
+    basic_form: ég, að vera, kaldur
     level: 1
     row_id: 60
-    basic_form: ég, að vera, kaldur
     last_seen: "2021-07-01"
   - icelandic: Mér er kalt af því að ég er ekki með vettlinga.
     english: I'm cold because I don't have mittens.
@@ -5051,15 +5055,15 @@ rows:
     row_id: 1017
   - icelandic: Mér finnst kaffi líka gott.
     english: I also like coffee.
+    basic_form: að finnast, kaffi, líka
     level: 1
     row_id: 688
-    basic_form: að finnast, kaffi, líka
     last_seen: "2021-07-01"
   - icelandic: Mér finnst það fyndið.
     english: I find it to be funny.; It is funny to me.
+    basic_form: að finnast, fyndinn
     level: 1
     row_id: 405
-    basic_form: að finnast, fyndinn
     last_seen: "2021-07-01"
   - icelandic: Mér gæti ekki verið meira sama.
     english: I could not care less.
@@ -5078,9 +5082,9 @@ rows:
   - icelandic: Mér líður betur.
     english: I feel better.
     depends_on: betur
+    basic_form: að líta, vel
     level: 1
     row_id: 576
-    basic_form: að líta, vel
     last_seen: "2021-07-01"
   - icelandic: Mér líður ekkert öðruvísi.
     level: 2
@@ -5088,22 +5092,22 @@ rows:
   - icelandic: Mér líður ekki vel.
     english: I don't feel good.
     depends_on: vel
+    basic_form: ég, að líða
     level: 1
     row_id: 4
-    basic_form: ég, að líða
     last_seen: "2021-07-01"
   - icelandic: Mér líður illa.
     english: I feel bad.
+    basic_form: ég, að líða, illa
     level: 1
     row_id: 164
-    basic_form: ég, að líða, illa
     last_seen: "2021-07-02"
   - icelandic: Mér líður vel.
     english: I feel good.
-    level: 1
-    row_id: 165
     depends_on: vel
     basic_form: að líða
+    level: 1
+    row_id: 165
     last_seen: "2021-07-01"
   - icelandic: Mér líður ömurlega.; Mér líður hræðilega.
     english: I feel terrible.; I feel like shit.
@@ -5112,9 +5116,9 @@ rows:
     row_id: 574
   - icelandic: Mér líst ekki vel á þetta.
     english: I don't like the looks of this.
+    basic_form: að lítast á, vel
     level: 1
     row_id: 101
-    basic_form: að lítast á, vel
     last_seen: "2021-07-01"
   - icelandic: Mér líst vel á það.
     row_id: 1142
@@ -5141,18 +5145,18 @@ rows:
     level: 2.1
     alternative_id: að þykja leitt
     row_id: 771
-  - row_id: 1460
-    icelandic: miðja
+  - icelandic: miðja
     level: 2
+    row_id: 1460
   - icelandic: Mig grunar...
     level: 4
     row_id: 885
   - icelandic: Mig langar að flytja til Englands.
     english: I want to move to England.
     depends_on: að flytja
+    basic_form: að langa, England
     level: 1
     row_id: 735
-    basic_form: að langa, England
     last_seen: "2021-07-01"
   - icelandic: Mig langar ekki að vera hérna lengur.; Ég vil ekki vera hérna lengur.
     english: I no longer want to be here.
@@ -5163,9 +5167,9 @@ rows:
     row_id: 1094
   - icelandic: mikið
     english: much
+    basic_form: mikill
     level: 1
     row_id: 282
-    basic_form: mikill
     last_seen: "2021-07-01"
   - icelandic: Mikið var!
     english: Finally!; Well that took you long enough!
@@ -5174,24 +5178,24 @@ rows:
     level: 4
     direction: "->"
     row_id: 1169
-  - row_id: 1230
-    icelandic: mikill
+  - icelandic: mikill
     level: 1
+    row_id: 1230
     last_seen: "2021-07-02"
-  - row_id: 1227
-    icelandic: minn
+  - icelandic: minn
     level: 1
+    row_id: 1227
     last_seen: "2021-07-02"
-  - row_id: 1291
-    icelandic: mjólk
-    level: 1
+  - icelandic: mjólk
     english: milk
+    level: 1
+    row_id: 1291
     last_seen: "2021-07-02"
   - icelandic: Mjólkin er búin.
     english: We're out of milk.
+    basic_form: búinn, mjólk
     level: 1
     row_id: 546
-    basic_form: búinn, mjólk
     last_seen: "2021-07-01"
   - icelandic: mjólkurferna
     english: a carton of milk
@@ -5206,14 +5210,14 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: mjög mikið
     english: very much
-    level: 1
-    row_id: 283
     depends_on: mjög, mikið
     basic_form: mikill
-    last_seen: "2021-07-01"
-  - row_id: 1331
-    icelandic: morgunn
     level: 1
+    row_id: 283
+    last_seen: "2021-07-01"
+  - icelandic: morgunn
+    level: 1
+    row_id: 1331
   - icelandic: mynd
     english: an image;; a movie
     level: 1
@@ -5227,9 +5231,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: myndin
     english: the picture;; the movie
+    basic_form: mynd
     level: 1
     row_id: 647
-    basic_form: mynd
     last_seen: "2021-07-01"
   - icelandic: Myndin er með enskum texta.
     english: The film has English subtitles.
@@ -5238,9 +5242,9 @@ rows:
     row_id: 237
   - icelandic: Mælir{{ðu}} með því?
     english: Do you recommend it?
+    basic_form: að mæla með, það
     level: 1
     row_id: 34
-    basic_form: að mæla með, það
     last_seen: "2021-07-01"
   - icelandic: naglarnir
     english: the nails (used in construction)
@@ -5266,21 +5270,21 @@ rows:
     level: 1
     row_id: 365
     last_seen: "2021-07-01"
-  - row_id: 1374
-    icelandic: nemandi
+  - icelandic: nemandi
     level: 2
+    row_id: 1374
   - icelandic: Nemendurnir mínir eru mjög duglegir.
     english: My students are very hardworking.
     depends_on: duglegur, nemandi
     level: 2
     row_id: 222
-  - row_id: 1375
-    icelandic: niður
+  - icelandic: niður
     level: 2
-  - row_id: 1320
-    icelandic: níu
-    level: 1
+    row_id: 1375
+  - icelandic: níu
     english: nine
+    level: 1
+    row_id: 1320
     last_seen: "2021-07-02"
   - icelandic: níu sinnum
     english: nine times
@@ -5297,12 +5301,12 @@ rows:
     english: a few men
     alternative_id: nokkrir
     row_id: 1001
-  - row_id: 1450
-    icelandic: nokkuð
+  - icelandic: nokkuð
     level: 2
-  - row_id: 1467
-    icelandic: nokkur
+    row_id: 1450
+  - icelandic: nokkur
     level: 3
+    row_id: 1467
   - icelandic: nokkur börn
     english: a few children
     depends_on: nokkrir
@@ -5310,53 +5314,53 @@ rows:
   - icelandic: núna; nú
     english: now
     level: 1
-    row_id: 726
     should_split: "no"
+    row_id: 726
     last_seen: "2021-07-01"
   - icelandic: nú þegar
     row_id: 1028
-  - row_id: 1458
-    icelandic: næstum
+  - icelandic: næstum
     level: 2
+    row_id: 1458
   - icelandic: næstum því
     english: almost
     basic_form: næstum, það
     row_id: 1121
   - icelandic: Næstum því aldrei.
     english: Almost never.
+    depends_on: næstum því, aldrei
     level: 1
     row_id: 1020
-    depends_on: næstum því, aldrei
     last_seen: "2021-07-01"
-  - row_id: 1286
-    icelandic: næstur
+  - icelandic: næstur
     level: 1
+    row_id: 1286
     last_seen: "2021-07-02"
   - icelandic: nögl
     english: a fingernail
     level: 4
     note_after_show: „Nagli“ is a nail used in construction while „nögl“ is a fingernail.
     row_id: 1173
-  - row_id: 1428
-    icelandic: ofan
+  - icelandic: ofan
     level: 2
-  - row_id: 1186
-    icelandic: of mikið
-    level: 1
-    basic_form: mikill
-    alternative_id: of
+    row_id: 1428
+  - icelandic: of mikið
     english: too much
-    last_seen: "2021-07-02"
-  - row_id: 1255
-    icelandic: og
+    basic_form: mikill
     level: 1
+    alternative_id: of
+    row_id: 1186
+    last_seen: "2021-07-02"
+  - icelandic: og
     english: and
+    level: 1
+    row_id: 1255
     last_seen: "2021-07-02"
   - icelandic: Og hvað með það?
     english: And so what?
+    depends_on: hvað, með, það, og
     level: 1
     row_id: 626
-    depends_on: hvað, með, það, og
     last_seen: "2021-07-01"
   - icelandic: Okkur leiðist.
     english: We are bored.
@@ -5380,13 +5384,13 @@ rows:
   - icelandic: orðaforði
     english: vocabulary
     depends_on: orð
-    literally: word supply
     level: 3
+    literally: word supply
     row_id: 514
-  - row_id: 1228
-    icelandic: ostur
-    level: 1
+  - icelandic: ostur
     english: cheese
+    level: 1
+    row_id: 1228
     last_seen: "2021-07-02"
   - icelandic: ófríður
     level: 5
@@ -5396,8 +5400,8 @@ rows:
     english: okay
     level: 1
     direction: <-
-    row_id: 414
     note_after_show: "\"Ókei\" is not used to describe things (as in \"The film was okay\"), it is only used to show acceptance/agreement."
+    row_id: 414
     last_seen: "2021-07-01"
   - icelandic: ókeypis
     english: free of charge
@@ -5411,14 +5415,14 @@ rows:
     level: 3
     alternative_id: óléttur
     row_id: 415
-  - row_id: 1379
-    icelandic: óvar
+  - icelandic: óvar
     level: 2
+    row_id: 1379
   - icelandic: óx hratt
     row_id: 954
-  - row_id: 1387
-    icelandic: pappír
+  - icelandic: pappír
     level: 2
+    row_id: 1387
   - icelandic: paprika
     english: bell pepper; sweet pepper
     row_id: 956
@@ -5427,15 +5431,15 @@ rows:
   - icelandic: pipar
     english: pepper
     row_id: 955
-  - row_id: 1394
-    icelandic: pínulítill
+  - icelandic: pínulítill
     level: 2
-  - row_id: 1241
-    icelandic: p*lanið*
-    level: 1
-    basic_form: plan%
-    Laga?: "?"
+    row_id: 1394
+  - icelandic: p*lanið*
     english: the plan
+    basic_form: plan%
+    level: 1
+    Laga?: "?"
+    row_id: 1241
     last_seen: "2021-07-02"
   - icelandic: poki
     english: a bag
@@ -5444,9 +5448,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: pólska
     row_id: 981
-  - row_id: 1457
-    icelandic: próf
+  - icelandic: próf
     level: 2
+    row_id: 1457
   - icelandic: rass
     english: an ass; a butt
     level: 2.2
@@ -5455,11 +5459,11 @@ rows:
     english: an asshole
     depends_on: rass, gat
     level: 2.9
-    note_bfr_show_en: Only referring to the anatomical part and not referring to behaving like a jerk.
     row_id: 868
-  - row_id: 1455
-    icelandic: rétt
+    note_bfr_show_en: Only referring to the anatomical part and not referring to behaving like a jerk.
+  - icelandic: rétt
     level: 2
+    row_id: 1455
   - icelandic: rétthentur
     english: right-handed
     depends_on: hönd, rétt
@@ -5468,9 +5472,9 @@ rows:
     row_id: 896
   - icelandic: réttindi
     row_id: 943
-  - row_id: 1197
-    icelandic: réttur
+  - icelandic: réttur
     level: 1
+    row_id: 1197
     last_seen: "2021-07-02"
   - icelandic: Ríkið
     english: the nickname of the Icelandic state monopoly liquor store Vínbúðin
@@ -5481,9 +5485,9 @@ rows:
     literally: the state
     importance: "-0.1"
     row_id: 738
-  - row_id: 1326
-    icelandic: rólegur
+  - icelandic: rólegur
     level: 1
+    row_id: 1326
     last_seen: "2021-07-02"
   - icelandic: rusl
     english: trash; garbage; junk
@@ -5506,22 +5510,22 @@ rows:
     direction: "->"
     note_after_show: Less vulgar than "klósett".
     row_id: 696
-  - row_id: 1401
-    icelandic: sama
+  - icelandic: sama
     level: 2
+    row_id: 1401
   - icelandic: saman eða í sitt hvoru
     row_id: 1100
   - icelandic: samband
     row_id: 1165
-  - row_id: 1381
-    icelandic: samt
+  - icelandic: samt
     level: 2
+    row_id: 1381
   - icelandic: sandur
     english: sand
     row_id: 1131
-  - row_id: 1429
-    icelandic: sannur
+  - icelandic: sannur
     level: 2
+    row_id: 1429
   - icelandic: Segðu honum að hann geti komið klukkan fimm.
     english: Tell him that he can come at 5 o'clock.
     level: 3
@@ -5534,16 +5538,16 @@ rows:
     level: 1
     row_id: 384
     last_seen: "2021-07-01"
-  - row_id: 1315
-    icelandic: september
+  - icelandic: september
+    english: September
     level: 1
     note_after_show_is: The letters "pt" are pronounced {{pron|ft}}
-    english: September
+    row_id: 1315
     last_seen: "2021-07-02"
-  - row_id: 1301
-    icelandic: sex
-    level: 1
+  - icelandic: sex
     english: six
+    level: 1
+    row_id: 1301
     last_seen: "2021-07-02"
   - icelandic: sex sinnum
     english: six times
@@ -5552,42 +5556,42 @@ rows:
     categories: number
     row_id: 488
     last_seen: "2021-07-01"
-  - row_id: 1317
-    icelandic: sig
+  - icelandic: sig
     level: 1
+    row_id: 1317
     last_seen: "2021-07-02"
   - icelandic: Sinatra er ekki jafn frægur og Elvis.
     english: Sinatra is not as famous as Elvis.
     depends_on: jafn
     level: 2
     row_id: 73
-  - row_id: 1203
-    icelandic: sinn
+  - icelandic: sinn
     level: 1
+    row_id: 1203
     last_seen: "2021-07-02"
-  - row_id: 1193
-    icelandic: sinnum
+  - icelandic: sinnum
     level: 1
     should_teach: "no"
+    row_id: 1193
     last_seen: "2021-07-02"
-  - row_id: 1258
-    icelandic: síðast
+  - icelandic: síðast
     level: 1
     Laga?: "?"
     eyða: "??"
+    row_id: 1258
     last_seen: "2021-07-02"
-  - row_id: 1314
-    icelandic: síðastur
+  - icelandic: síðastur
     level: 1
+    row_id: 1314
     last_seen: "2021-07-02"
   - icelandic: sjálfsagður
     level: 2
     should_teach: "no"
     row_id: 903
-  - row_id: 1252
-    icelandic: sjö
-    level: 1
+  - icelandic: sjö
     english: seven
+    level: 1
+    row_id: 1252
     last_seen: "2021-07-02"
   - icelandic: sjö sinnum
     english: seven times
@@ -5610,36 +5614,36 @@ rows:
   - icelandic: skeið
     level: 2
     row_id: 710
-  - row_id: 1251
-    icelandic: skemmtilegur
+  - icelandic: skemmtilegur
     level: 1
+    row_id: 1251
     last_seen: "2021-07-02"
   - icelandic: Skilur{{ðu}}?
     english: Do you understand?
+    basic_form: að skilja
     level: 1
     row_id: 597
-    basic_form: að skilja
     last_seen: "2021-07-01"
-  - row_id: 1400
-    icelandic: skipti
+  - icelandic: skipti
     level: 2
+    row_id: 1400
   - icelandic: Skiptir það máli?
     english: Does that matter?
     depends_on: að skipta máli
     level: 2
     row_id: 665
-  - row_id: 1427
-    icelandic: skírteini
+  - icelandic: skírteini
     level: 2
+    row_id: 1427
   - icelandic: skógur
     english: a forest
     row_id: 1123
-  - row_id: 1434
-    icelandic: skóli
+  - icelandic: skóli
     level: 2
-  - row_id: 1409
-    icelandic: skór
+    row_id: 1434
+  - icelandic: skór
     level: 2
+    row_id: 1409
   - icelandic: skuld
     row_id: 923
   - icelandic: slæmur
@@ -5655,22 +5659,22 @@ rows:
     row_id: 1150
   - icelandic: smjörið
     english: the butter
-    level: 3
-    row_id: 547
     basic_form: smjör
+    level: 3
     alternative_id: smjör
+    row_id: 547
     last_seen: "2021-06-29"
   - icelandic: snemma
     english: early;; early in the morning
     level: 1
     row_id: 296
     last_seen: "2021-07-01"
-  - row_id: 1398
-    icelandic: sofandi
+  - icelandic: sofandi
     level: 2
-  - row_id: 1362
-    icelandic: sokkur
+    row_id: 1398
+  - icelandic: sokkur
     level: 2
+    row_id: 1362
   - icelandic: Sonur minn er tveggja ára.
     level: 3.5
     row_id: 1051
@@ -5687,28 +5691,28 @@ rows:
   - icelandic: spænska
     level: 3
     row_id: 976
-  - row_id: 1204
-    icelandic: spænskur
+  - icelandic: spænskur
     level: 1
+    row_id: 1204
     last_seen: "2021-07-02"
   - icelandic: staðan
     english: the situation;; the job position
+    basic_form: staða
     level: 3
     dont_confuse: staður
-    row_id: 1071
     alternative_id: staða
-    basic_form: staða
+    row_id: 1071
     last_seen: "2021-06-29"
   - icelandic: staður
     english: a place; a location
     level: 2
     row_id: 1072
-  - row_id: 1466
-    icelandic: stíll
+  - icelandic: stíll
     level: 3
-  - row_id: 1249
-    icelandic: stór
+    row_id: 1466
+  - icelandic: stór
     level: 1
+    row_id: 1249
     last_seen: "2021-07-02"
   - icelandic: strax
     english: immediately
@@ -5724,12 +5728,12 @@ rows:
     level: 1
     row_id: 255
     last_seen: "2021-07-01"
-  - row_id: 1327
-    icelandic: sumar
+  - icelandic: sumar
     level: 1
-  - row_id: 1392
-    icelandic: sund
+    row_id: 1327
+  - icelandic: sund
     level: 2
+    row_id: 1392
   - icelandic: Svafstu vel?
     english: Did you sleep well?
     depends_on: að sofa
@@ -5743,23 +5747,23 @@ rows:
     english: similar to
     direction: "->"
     row_id: 1088
-  - row_id: 1223
-    icelandic: sv*ona*
-    level: 1
+  - icelandic: sv*ona*
     english: like this; in this manner
+    level: 1
+    row_id: 1223
     last_seen: "2021-07-02"
-  - row_id: 1439
-    icelandic: svo sem
+  - icelandic: svo sem
     level: 2
+    row_id: 1439
   - icelandic: Systir mín var þar á síðast ári.
     english: My sister was there last year.
     level: 2
     row_id: 188
-  - row_id: 1300
-    icelandic: Sæll.
+  - icelandic: Sæll.
+    english: "Hello. (note: formal, speaking to one man)"
     level: 1
     note_after_show: The term literally means "happy / content". It can be used in both formal and informal situations.
-    english: "Hello. (note: formal, speaking to one man)"
+    row_id: 1300
     last_seen: "2021-07-02"
   - icelandic: Takk fyrir að vera svona þolinmóður.
     english: Thank you for being so patient.
@@ -5787,20 +5791,20 @@ rows:
     english: the toothpaste
     level: 2
     row_id: 521
-  - row_id: 1354
-    icelandic: tá
+  - icelandic: tá
     level: 2
-  - row_id: 1352
-    icelandic: texti
+    row_id: 1354
+  - icelandic: texti
     level: 2
-  - row_id: 1333
-    icelandic: til
+    row_id: 1352
+  - icelandic: til
     level: 1
-  - row_id: 1303
-    icelandic: til Englands
-    level: 1
-    basic_form: England%
+    row_id: 1333
+  - icelandic: til Englands
     english: to England
+    basic_form: England%
+    level: 1
+    row_id: 1303
     last_seen: "2021-07-02"
   - icelandic: tilgangslaust
     english: without a purpose; futile
@@ -5840,8 +5844,8 @@ rows:
   - icelandic: tími
     english: time;; a class;; an hour
     level: 1
-    row_id: 358
     importance: "1"
+    row_id: 358
     last_seen: "2021-07-01"
   - icelandic: Tíminn leið hratt.
     english: The time passed quickly.
@@ -5861,16 +5865,16 @@ rows:
     english: The time passes slowly.
     depends_on: að líða, hægur
     level: 1
-    row_id: 632
     Laga?: "?"
+    row_id: 632
     last_seen: "2021-07-01"
   - icelandic: Tíminn líður of hratt.
     english: Time passes too quickly.
     level: 2
     row_id: 24
-  - row_id: 1423
-    icelandic: tíska
+  - icelandic: tíska
     level: 2
+    row_id: 1423
   - icelandic: tónleikar
     english: a concert;; concerts
     level: 2
@@ -5885,15 +5889,15 @@ rows:
     english: music
     depends_on: list
     level: 1
-    row_id: 333
     literally: tone art
+    row_id: 333
     last_seen: "2021-07-01"
   - icelandic: tónlistarmaður
     english: a musician
     depends_on: tónlist, maður
     level: 1
-    row_id: 329
     note_after_show_is: From "tónlist" ("music") + "maður" ("person")
+    row_id: 329
     last_seen: "2021-07-02"
   - icelandic: tunga
     english: a tongue
@@ -5913,27 +5917,27 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: tungumál; mál
     english: a language
+    depends_on: tunga
     level: 1
     direction: <-
     row_id: 309
-    depends_on: tunga
     last_seen: "2021-07-02"
   - icelandic: túkall
     english: 2 ISK coin (no longer in existance)
     level: 6
     row_id: 553
-  - row_id: 1216
-    icelandic: tveir
-    level: 1
+  - icelandic: tveir
     english: two
+    level: 1
+    row_id: 1216
     last_seen: "2021-07-02"
   - icelandic: tvisvar; tvisvar sinnum
     english: twice
     depends_on: tveir, sinnum
     level: 1
     categories: number
-    row_id: 484
     should_split: "no"
+    row_id: 484
     last_seen: "2021-07-01"
   - icelandic: tvíburar
     english: twins
@@ -5942,21 +5946,21 @@ rows:
     row_id: 897
   - icelandic: Tökum tíu mínútna pásu.
     row_id: 947
-  - row_id: 1406
-    icelandic: tölva
+  - icelandic: tölva
     level: 2
+    row_id: 1406
   - icelandic: Tölvan mín virkar ekki lengur.
     english: My computer no longer works.; My computer no longer functions.
     depends_on: að virka, tölva, lengi
     level: 2
     row_id: 643
-  - row_id: 1360
-    icelandic: tönn
+  - icelandic: tönn
     level: 2
-  - row_id: 1299
-    icelandic: um
-    level: 1
+    row_id: 1360
+  - icelandic: um
     english: about
+    level: 1
+    row_id: 1299
     last_seen: "2021-07-02"
   - icelandic: um eftirmiðdaginn
     english: during the afternoon
@@ -5980,13 +5984,13 @@ rows:
     level: 2
     should_teach: "no"
     row_id: 847
-  - row_id: 1357
-    icelandic: unglingur
+  - icelandic: unglingur
     level: 2
-  - row_id: 1288
-    icelandic: upp
-    level: 1
+    row_id: 1357
+  - icelandic: upp
     english: upwards
+    level: 1
+    row_id: 1288
     last_seen: "2021-07-02"
   - icelandic: u∆ ú∆ vaff
     english: What is the name of the letters "U∆ Ú∆ V"?
@@ -6039,22 +6043,22 @@ rows:
     depends_on: að vakna, snemma
     level: 2
     row_id: 705
-  - row_id: 1449
-    icelandic: vald
+  - icelandic: vald
     level: 2
+    row_id: 1449
   - icelandic: vandræðalegt
     english: awkward; embarrassing
     depends_on: vandræði
+    basic_form: vandræðalegur
     level: 2
     dont_confuse: hallærislegt
     literally: appearing to be in troubles
     alternative_id: vandræðalegur
     row_id: 875
-    basic_form: vandræðalegur
     last_seen: "2021-06-29"
-  - row_id: 1388
-    icelandic: vandræði
+  - icelandic: vandræði
     level: 2
+    row_id: 1388
   - icelandic: Vantar þig gaffal?
     english: Do you need a fork?; Are you without a fork?
     depends_on: að vanta
@@ -6084,73 +6088,73 @@ rows:
     row_id: 1085
   - icelandic: Var vikan þín góð?
     english: Was your week good?
+    basic_form: vika, þinn, góður
     level: 1
     row_id: 39
-    basic_form: vika, þinn, góður
     last_seen: "2021-07-01"
-  - row_id: 1222
-    icelandic: vatn
-    level: 1
+  - icelandic: vatn
     english: water
-    last_seen: "2021-07-02"
-  - row_id: 1278
-    icelandic: veður
     level: 1
+    row_id: 1222
+    last_seen: "2021-07-02"
+  - icelandic: veður
     english: weather
+    level: 1
+    row_id: 1278
     last_seen: "2021-07-02"
   - icelandic: vegna; út af
     english: because of
     row_id: 1127
-  - row_id: 1437
-    icelandic: vegur
+  - icelandic: vegur
     level: 2
+    row_id: 1437
   - icelandic: Veistu hver þetta er?
     english: Do you know who this is?
+    basic_form: að vita, hver, þessi
     level: 1
     row_id: 595
-    basic_form: að vita, hver, þessi
     last_seen: "2021-07-01"
-  - row_id: 1195
-    icelandic: vel
+  - icelandic: vel
     level: 1
     eyða: j
+    row_id: 1195
     last_seen: "2021-07-02"
-  - row_id: 1342
-    icelandic: verkur
+  - icelandic: verkur
     level: 2
+    row_id: 1342
   - icelandic: vél
     english: a machine;; an engine; a motor
     level: 2
     dont_confuse: vel
     row_id: 752
-  - row_id: 1368
-    icelandic: við
+  - icelandic: við
     level: 2
+    row_id: 1368
   - icelandic: Við bjuggumst ekki við því að rekast á þig hér.
     english: We did not expect bumping into you here.
     depends_on: að búast við, að rekast á
     basic_form: að búast við
     level: 2.9
     row_id: 723
-  - row_id: 1310
-    icelandic: við erum
-    level: 1
-    basic_form: að vera
-    alternative_id: við (fn)
+  - icelandic: við erum
     english: we are
+    basic_form: að vera
+    level: 1
+    alternative_id: við (fn)
+    row_id: 1310
     last_seen: "2021-07-02"
   - icelandic: Við erum góðar vinkonur.
     english: We are good (female) friends.
     depends_on: vinkona
     level: 2
-    note_bfr_show_en: All of the people being described are female.
     row_id: 858
+    note_bfr_show_en: All of the people being described are female.
   - icelandic: Við erum góðir vinir.
     english: We are good friends.
     depends_on: vinur
     level: 2
-    note_bfr_show_en: At least one of the people being described is a male.
     row_id: 857
+    note_bfr_show_en: At least one of the people being described is a male.
   - icelandic: Við erum í stíl.
     english: We are wearing matching outfits.
     depends_on: stíll
@@ -6202,9 +6206,9 @@ rows:
   - icelandic: Við sjáumst fljótt.
     english: See you soon!
     depends_on: við (fn)
+    basic_form: að sjást, fljótur
     level: 1
     row_id: 284
-    basic_form: að sjást, fljótur
     last_seen: "2021-07-01"
   - icelandic: við sváfum
     english: we slept
@@ -6218,9 +6222,9 @@ rows:
     row_id: 1067
   - icelandic: Við þekkjumst ekki.
     english: We don't know each other.
+    basic_form: að þekkjast
     level: 2
     row_id: 55
-    basic_form: að þekkjast
     last_seen: "2021-07-01"
   - icelandic: Við ætlum að halda tónleika á morgun.
     english: We're going to give a concert tomorrow.
@@ -6232,10 +6236,10 @@ rows:
     depends_on: sund
     level: 2
     row_id: 461
-  - row_id: 1274
-    icelandic: vika
-    level: 1
+  - icelandic: vika
     english: a week
+    level: 1
+    row_id: 1274
     last_seen: "2021-07-02"
   - icelandic: Vilt{{u}} afritið?
     english: Do you want the receipt?
@@ -6249,10 +6253,10 @@ rows:
     row_id: 71
   - icelandic: Vilt{{u}} hittast á eftir?
     english: Do you want to meet later today?; Should we meet later today?
-    level: 1
-    row_id: 381
     depends_on: á eftir
     basic_form: að hittast
+    level: 1
+    row_id: 381
     last_seen: "2021-07-01"
   - icelandic: Vilt{{u}} kíkja í heimsókn á eftir?
     english: Do you want to come over for a quick visit later today?
@@ -6271,8 +6275,8 @@ rows:
     english: Do you want to take turns (with me using this item)?
     depends_on: að skiptast á
     level: 4
-    row_id: 672
     Laga?: já
+    row_id: 672
   - icelandic: vinkona
     english: a female friend
     depends_on: vinur, kona
@@ -6298,53 +6302,53 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: vinnan
     english: the job; the work
+    basic_form: vinna
     level: 1
     row_id: 759
-    basic_form: vinna
     last_seen: "2021-07-01"
   - icelandic: Vinnur vinur þinn ekki hérna?
     english: Doesn't your friend work here?
     depends_on: þinn, hérna
+    basic_form: vinur, að vinna
     level: 1
     row_id: 257
-    basic_form: vinur, að vinna
     last_seen: "2021-07-01"
-  - row_id: 1264
-    icelandic: vinur
-    level: 1
+  - icelandic: vinur
     english: a {{g|(male)}} friend
+    level: 1
+    row_id: 1264
     last_seen: "2021-07-02"
   - icelandic: Vinur minn er enskukennari.
     english: My friend is an English teacher.
+    depends_on: vinur, enska, kennari
     level: 1
     row_id: 424
-    depends_on: vinur, enska, kennari
     last_seen: "2021-07-01"
   - icelandic: Vinur minn vinnur hérna.
     english: My friend works here.
     depends_on: hérna
+    basic_form: vinur, að vinna
     level: 1
     row_id: 256
-    basic_form: vinur, að vinna
     last_seen: "2021-07-01"
   - icelandic: v*itlaus*
     english: incorrect; wrong;; {{g|a}} stupid {{g|person}}
     depends_on: að vita, laus
     level: 1
-    row_id: 181
     note_after_show_is: Both "vitlaus" and "rangur" are common ways to say "incorrect". • Another meaning of "vitlaus" is "someone who has lost their mind".
     literally: without knowledge; witless
+    row_id: 181
     last_seen: "2021-07-01"
   - icelandic: vitlaus; rangur
     english: wrong; incorrect
     level: 1
     direction: <-
-    row_id: 123
     Laga?: splitta?
+    row_id: 123
     last_seen: "2021-07-01"
-  - row_id: 1351
-    icelandic: vondur
+  - icelandic: vondur
     level: 2
+    row_id: 1351
   - icelandic: vörn
     level: 4
     row_id: 886
@@ -6353,10 +6357,10 @@ rows:
     depends_on: vinur
     level: 2
     row_id: 519
-  - row_id: 1210
-    icelandic: yfir
-    level: 1
+  - icelandic: yfir
     english: over
+    level: 1
+    row_id: 1210
     last_seen: "2021-07-02"
   - icelandic: ýmislegt
     level: 3
@@ -6387,16 +6391,16 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Það búa hundrað manns í þessum bæ.
     english: There are 100 people who live in this town.
+    basic_form: maður, hundrað, að búa
     level: 1
     literally: "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]]."
     row_id: 560
-    basic_form: maður, hundrað, að búa
     last_seen: "2021-07-01"
   - icelandic: Það búa margir í New York.
     english: There are many people that live in New York.
+    basic_form: margur, að búa
     level: 1
     row_id: 41
-    basic_form: margur, að búa
     last_seen: "2021-07-01"
   - icelandic: það er
     english: it is; that is
@@ -6452,8 +6456,8 @@ rows:
   - icelandic: Það er ekki víst.
     english: That is not certain.
     basic_form: vís%
-    note_after_show_is: "\"Víst\" is the [[neuter]] form of \"vís\", and usually describes concepts rather than persons. Note that it is not the same word as the term \"viss\" which describes persons as being certain about something."
     level: 3
+    note_after_show_is: "\"Víst\" is the [[neuter]] form of \"vís\", and usually describes concepts rather than persons. Note that it is not the same word as the term \"viss\" which describes persons as being certain about something."
     row_id: 681
   - icelandic: Það er enginn hérna.; Það er ekki neinn hérna.
     english: There's nobody here.
@@ -6461,18 +6465,18 @@ rows:
     level: 1
     row_id: 754
     last_seen: "2021-07-01"
-  - row_id: 1266
-    icelandic: Það er erfitt.
-    level: 1
-    basic_form: erfiður%
+  - icelandic: Það er erfitt.
     english: It is difficult.
+    basic_form: erfiður%
+    level: 1
+    row_id: 1266
     last_seen: "2021-07-02"
   - icelandic: Það er erfitt að vera kennari.
     english: Being a teacher is difficult.
-    level: 1
-    row_id: 208
     depends_on: kennari
     basic_form: erfiður
+    level: 1
+    row_id: 208
     last_seen: "2021-07-01"
   - icelandic: Það er gaman í vinnunni.
     english: I enjoy being at work.
@@ -6489,27 +6493,27 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Það er gott veður.
     english: There is good weather.; The weather is good.
+    basic_form: góður, veður
     level: 1
     row_id: 173
-    basic_form: góður, veður
     last_seen: "2021-07-01"
   - icelandic: Það er grenjandi rigning.
     row_id: 1151
   - icelandic: Það er hræðilegt.
     english: That is terrible / extremely bad / awful.
     depends_on: hræddur
+    basic_form: hræðilegur%
     level: 1
     direction: "->"
     literally: frightening
     row_id: 566
-    basic_form: hræðilegur%
     last_seen: "2021-07-01"
   - icelandic: Það er hægt.
     english: That's doable.; That's achievable.; That can be done.
     depends_on: hægt
     level: 1
-    row_id: 907
     importance: "1"
+    row_id: 907
     last_seen: "2021-07-01"
   - icelandic: Það er hægt að keyra hægt.
     english: It is possible to drive slowly.; Driving slowly is doable.
@@ -6527,24 +6531,24 @@ rows:
     depends_on: tíska
     level: 3
     row_id: 11
-  - row_id: 1187
-    icelandic: Það er kalt.
-    level: 1
-    basic_form: kaldur%
+  - icelandic: Það er kalt.
     english: It's cold.
+    basic_form: kaldur%
+    level: 1
+    row_id: 1187
     last_seen: "2021-07-02"
   - icelandic: Það er of heitt.
     english: It's too hot.
+    basic_form: heitur
     level: 1
     row_id: 57
-    basic_form: heitur
     last_seen: "2021-07-01"
   - icelandic: Það er of kalt.
     english: It's too cold.
-    level: 1
-    row_id: 58
     depends_on: of
     basic_form: kaldur
+    level: 1
+    row_id: 58
     last_seen: "2021-07-01"
   - icelandic: Það er opið.
     english: It is open.
@@ -6565,19 +6569,19 @@ rows:
     level: 3
     alternative_id: ósanngjarn
     row_id: 615
-  - row_id: 1321
-    icelandic: Það er skrýtið.
-    level: 1
-    basic_form: skrýtinn%
-    alternative_id: skrýtið
+  - icelandic: Það er skrýtið.
     english: That's odd.; That's strange.
+    basic_form: skrýtinn%
+    level: 1
+    alternative_id: skrýtið
+    row_id: 1321
     last_seen: "2021-07-02"
   - icelandic: Það er stundum erfitt.
     english: It's sometimes difficult.
-    level: 1
-    row_id: 186
     depends_on: stundum
     basic_form: erfiður
+    level: 1
+    row_id: 186
     last_seen: "2021-07-01"
   - icelandic: Það er svo sem ágætt.
     english: Well∆ that's relatively fine.
@@ -6606,10 +6610,10 @@ rows:
     row_id: 562
   - icelandic: Það er vitlaust.; Það er rangt.
     english: That's incorrect.
-    level: 1
-    row_id: 124
     basic_form: vitlaus, rangur
+    level: 1
     should_split: "no"
+    row_id: 124
     last_seen: "2021-07-02"
   - icelandic: Það er *þess vegna* sem ég er ...
     english: That is *why* I am ...
@@ -6672,15 +6676,15 @@ rows:
     row_id: 77
   - icelandic: Það tekur langan tíma.
     english: It takes a long time.
+    basic_form: að taka, langur, tími
     level: 1
     row_id: 361
-    basic_form: að taka, langur, tími
     last_seen: "2021-07-01"
   - icelandic: Það tekur tvo tíma.
     english: It takes two hours.
+    basic_form: að taka, tveir, tími
     level: 1
     row_id: 359
-    basic_form: að taka, tveir, tími
     last_seen: "2021-07-01"
   - icelandic: Það tekur því ekki.
     level: 3
@@ -6691,13 +6695,13 @@ rows:
     row_id: 805
   - icelandic: Það vita það allir.
     english: Everybody knows that.
+    depends_on: að vita, allir
     level: 1
     row_id: 627
-    depends_on: að vita, allir
     last_seen: "2021-07-01"
-  - row_id: 1376
-    icelandic: þangað
+  - icelandic: þangað
     level: 2
+    row_id: 1376
   - icelandic: Þarf maður bílpróf til að keyra bíl?
     row_id: 1022
   - icelandic: Þarftu að kúka?
@@ -6708,10 +6712,10 @@ rows:
     row_id: 864
   - icelandic: Þarftu að vinna í dag?
     english: Do you have to work today?
-    level: 1
-    row_id: 377
     depends_on: í dag
     basic_form: að þurfa, að vinna
+    level: 1
+    row_id: 377
     last_seen: "2021-07-01"
   - icelandic: Þarftu hjálp?
     english: Do you need help?
@@ -6721,13 +6725,13 @@ rows:
   - icelandic: þarna; þar
     english: there
     level: 1
-    row_id: 725
     note_after_show_is: "\"Þarna\" is more common in spoken language but \"þar\" is more common in written language. They are usually synonymous, but there can be a slight difference with \"þarna\" referring to a specific location (\"over there\") and \"þar\" referring to an imprecise general area."
     should_split: "no"
+    row_id: 725
     last_seen: "2021-07-01"
-  - row_id: 1383
-    icelandic: þau
+  - icelandic: þau
     level: 2
+    row_id: 1383
   - icelandic: Þau búa saman.
     english: They live together.
     depends_on: að búa, þau
@@ -6748,9 +6752,9 @@ rows:
     row_id: 808
   - icelandic: Þekkist þið?
     english: Do you guys know each other?
+    basic_form: að þekkjast
     level: 1
     row_id: 492
-    basic_form: að þekkjast
     last_seen: "2021-07-01"
   - icelandic: Þessi hamborgari er góður.
     english: This hamburger is good.
@@ -6764,11 +6768,11 @@ rows:
     english: This haircut looks good on you.; This haircut suits you.
     level: 2.7
     row_id: 1061
-  - row_id: 1190
-    icelandic: þessi maður
+  - icelandic: þessi maður
+    english: this man
     level: 1
     alternative_id: þessi
-    english: this man
+    row_id: 1190
     last_seen: "2021-07-02"
   - icelandic: Þessi mynd er á útlensku.
     english: This film is in a foreign language.
@@ -6778,13 +6782,13 @@ rows:
   - icelandic: Þessi mynd er mjög fræg.
     english: This movie is very famous.
     depends_on: mynd, mjög
+    basic_form: frægur
     level: 1
     row_id: 645
-    basic_form: frægur
     last_seen: "2021-07-01"
-  - row_id: 1246
-    icelandic: þetta
+  - icelandic: þetta
     level: 1
+    row_id: 1246
     last_seen: "2021-07-02"
   - icelandic: Þetta er ekkert smá gott.
     english: This is very good!
@@ -6808,22 +6812,22 @@ rows:
     row_id: 159
   - icelandic: Þetta er leiðinlegt.
     english: This is boring.; This is tedious.
+    basic_form: leiðinlegur
     level: 1
     row_id: 109
-    basic_form: leiðinlegur
     last_seen: "2021-07-01"
   - icelandic: Þetta er löng bók.
     english: This is a long book.
     depends_on: bók
+    basic_form: langur
     level: 1
     row_id: 236
-    basic_form: langur
     last_seen: "2021-07-01"
   - icelandic: Þetta er vinkona mín.
     english: This is my female friend.
+    basic_form: þessi, vinkona, minn
     level: 1
     row_id: 388
-    basic_form: þessi, vinkona, minn
     last_seen: "2021-07-01"
   - icelandic: Þetta er vinur minn.
     english: This is my {{g|(male)}} friend.
@@ -6833,19 +6837,19 @@ rows:
   - icelandic: Þetta er ömurleg mynd.; Þetta er hræðileg mynd.
     english: This is a terrible/awful film.
     depends_on: þetta
-    level: 1
-    row_id: 564
     basic_form: ömurlegur, hræðilegur, mynd
+    level: 1
     should_split: "no"
+    row_id: 564
     last_seen: "2021-07-01"
   - icelandic: Þetta gengur eitthvað hálfilla.
     row_id: 1097
   - icelandic: Þetta gengur ekki vel.
     english: This is not going well.
     depends_on: vel
+    basic_form: að ganga
     level: 1
     row_id: 160
-    basic_form: að ganga
     last_seen: "2021-07-01"
   - icelandic: Þetta kaffi er gott.
     english: This coffee is good.
@@ -6868,14 +6872,14 @@ rows:
     row_id: 220
   - icelandic: Þetta var skemmtileg mynd.
     english: This was a fun/entertaining movie.
-    level: 1
-    row_id: 219
     depends_on: þetta, mynd
     basic_form: skemmtilegur
-    last_seen: "2021-07-01"
-  - row_id: 1263
-    icelandic: þinn
     level: 1
+    row_id: 219
+    last_seen: "2021-07-01"
+  - icelandic: þinn
+    level: 1
+    row_id: 1263
     last_seen: "2021-07-02"
   - icelandic: þolinmæði
     english: patience
@@ -6887,8 +6891,8 @@ rows:
     depends_on: þrír, sinnum
     level: 1
     categories: number
-    row_id: 485
     should_split: "no"
+    row_id: 485
     last_seen: "2021-07-01"
   - icelandic: þríburar
     english: triplets; three children carried in the same pregnancy
@@ -6896,10 +6900,10 @@ rows:
     level: 4.2
     importance: "-1"
     row_id: 898
-  - row_id: 1201
-    icelandic: þrír
-    level: 1
+  - icelandic: þrír
     english: three
+    level: 1
+    row_id: 1201
     last_seen: "2021-07-02"
   - icelandic: þunnur
     english: thin;; with a hangover (referring to alcohol)
@@ -6923,9 +6927,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Þú átt marga vini.
     english: You have many friends.
+    basic_form: að eiga, margur, vinur
     level: 1
     row_id: 347
-    basic_form: að eiga, margur, vinur
     last_seen: "2021-07-01"
   - icelandic: Þú ert algjör hálviti!
     english: You are a complete idiot!
@@ -6948,23 +6952,23 @@ rows:
     row_id: 423
   - icelandic: Þú gerir þetta betur en ég.
     english: You do this better than I do.
+    basic_form: að gera, vel
     level: 1
     note_after_show: "\"Betur\" is an adverb, not an adjective."
     row_id: 27
-    basic_form: að gera, vel
     last_seen: "2021-07-01"
   - icelandic: Þú hefur rangt fyrir þér.
     english: You're wrong.
+    basic_form: rangur
     level: 1
     row_id: 122
-    basic_form: rangur
     last_seen: "2021-07-01"
   - icelandic: Þú hefur rétt fyrir þér.
     english: You're right.
     depends_on: réttur
+    basic_form: að hafa, réttur, þú
     level: 1
     row_id: 121
-    basic_form: að hafa, réttur, þú
     last_seen: "2021-07-01"
   - icelandic: Þú lítur hræðilega út.
     english: You look terrible.; You look like shit.
@@ -6973,10 +6977,10 @@ rows:
     row_id: 568
   - icelandic: Þú lítur vel út.
     english: You look good.
-    level: 1
-    row_id: 30
     depends_on: vel
     basic_form: að líta út
+    level: 1
+    row_id: 30
     last_seen: "2021-07-01"
   - icelandic: Þú manst að fara út með ruslið.
     english: Remember to take out the trash.
@@ -6998,9 +7002,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Þú skilur mig.
     english: You understand me.
+    basic_form: að skilja
     level: 1
     row_id: 599
-    basic_form: að skilja
     last_seen: "2021-07-01"
   - icelandic: þú svafst
     english: you slept
@@ -7022,9 +7026,9 @@ rows:
   - icelandic: Ætlar{{ðu}} að elda í kvöld?
     english: Are you going to cook this evening?
     depends_on: að elda, í kvöld
+    basic_form: að ætla
     level: 1
     row_id: 589
-    basic_form: að ætla
     last_seen: "2021-07-01"
   - icelandic: Ætlar{{ðu}} að fá þér köku?
     english: Are you going to have some cake?
@@ -7033,15 +7037,15 @@ rows:
   - icelandic: Ætlar{{ðu}} að kaupa þetta?
     english: Are you going to buy this?
     depends_on: að kaupa
+    basic_form: að ætla, að kaupa, þessi
     level: 1
     row_id: 456
-    basic_form: að ætla, að kaupa, þessi
     last_seen: "2021-07-01"
   - icelandic: Ætlar{{ðu}} að skilja kartöflurnar eftir?
     row_id: 993
-  - row_id: 1463
-    icelandic: ökuréttindi
+  - icelandic: ökuréttindi
     level: 3
+    row_id: 1463
   - icelandic: ökuskírteini
     english: a driver's license
     depends_on: að aka, skírteini
