@@ -720,6 +720,7 @@ rows:
     level: 1
     dont_confuse: áður
     row_id: 133
+    last_seen: "2021-07-02"
   - icelandic: á*ður*
     english: previously; before
     level: 1
@@ -1911,8 +1912,12 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Ég hitti hann í gær.
     english: I met him yesterday.
-    level: 1
+    level: 2
     row_id: 391
+    depends_on: í gær
+    basic_form: að hitta
+    note_after_show_is: "{{spp}}"
+    last_seen: "2021-07-02"
   - icelandic: Ég hitti vini mína áðan.
     english: I met my friends earlier today.
     depends_on: að hitta, vinur
@@ -2029,6 +2034,8 @@ rows:
     depends_on: að muna
     level: 1
     row_id: 557
+    basic_form: að muna eftir, það
+    last_seen: "2021-07-02"
   - icelandic: Ég man ekki hvernig maður segir X.
     english: I don't remember how you say X.
     depends_on: hvernig
@@ -2434,6 +2441,8 @@ rows:
     english: I'm planning on coming this summer.
     level: 1
     row_id: 31
+    depends_on: að ætla, að koma, í sumar
+    last_seen: "2021-07-02"
   - icelandic: Ég ætla að koma til Íslands í september.
     english: I plan on coming to Iceland in September.
     level: 1
@@ -2591,10 +2600,11 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: fjórum sinnum
     english: four times
-    depends_on: fjórir
+    depends_on: fjórir, sinnum
     level: 1
     categories: number
     row_id: 486
+    last_seen: "2021-07-02"
   - icelandic: fjölskylda
     english: a family
     depends_on: fjöldi, skyldur
@@ -2835,6 +2845,9 @@ rows:
     english: He lives alone.
     level: 1
     row_id: 118
+    depends_on: einn
+    basic_form: að búa
+    last_seen: "2021-07-02"
   - icelandic: Hann býr í allt öðrum heimi.
     level: 3
     row_id: 625
@@ -3227,6 +3240,14 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: hins vegar
     row_id: 970
+  - icelandic: Hittumst við ekki á eftir?
+    english: Won't we meet each other later today?
+    level: 2
+    row_id: 390
+    depends_on: á eftir, við (fn)
+    basic_form: að hittast
+    note_after_show_is: "{{spp}}"
+    last_seen: "2021-07-02"
   - icelandic: hlekkur
     english: a link (in a chain or on the internet)
     level: 2
@@ -3362,9 +3383,11 @@ rows:
     level: 4.1
     row_id: 775
   - icelandic: Hún ætlar að tala við mömmu *sína*.
-    english: She is going to talk to *her own* mom.
+    english: She is going to talk to *her {{g|own}}* mom.
     level: 1
     row_id: 229
+    basic_form: að ætla, mamma, sinn
+    last_seen: "2021-07-02"
   - icelandic: hvað?
     english: what?
     level: 1
@@ -3718,11 +3741,13 @@ rows:
     row_id: 569
     basic_form: að líta út
     last_seen: "2021-07-01"
-  - icelandic: Hvernig segir maður X á íslensku?
-    english: How do you say X in Icelandic?
-    depends_on: að segja
+  - icelandic: Hvernig segir maður ''X'' á íslensku?
+    english: How do you say ''X'' in Icelandic?
+    depends_on: maður
     level: 1
     row_id: 161
+    basic_form: að segja, íslenska
+    last_seen: "2021-07-02"
   - icelandic: Hvernig þýðir maður þetta?
     english: How does one translate this?
     level: 2
@@ -3734,9 +3759,11 @@ rows:
     row_id: 877
   - icelandic: Hvert langar þig að fara?
     english: Where do you want to go?
-    depends_on: hvert, að langa
+    depends_on: hvert, að langa, að fara
     level: 1
     row_id: 13
+    basic_form: að langa, þú
+    last_seen: "2021-07-02"
   - icelandic: Hvert langar þig að fara á eftir?
     english: Where do you want to go later today?
     depends_on: hvert, á eftir, að langa
@@ -3894,9 +3921,10 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: kaffið
     english: the coffee
-    depends_on: kaffi
     level: 1
     row_id: 287
+    basic_form: kaffi
+    last_seen: "2021-07-02"
   - icelandic: kannski
     english: maybe
     level: 1
@@ -4020,10 +4048,13 @@ rows:
     note_after_show: The term is only used for the settlement of Iceland which occurred in the 9th and 10th centuries. „Að nema land“ is to settle land.
     row_id: 1126
   - icelandic: Langar þig að koma með?
-    english: Do you want to come along?
+    english: Do you want to come along?; Do you want to come with {{g|us}}?
     level: 1
     direction: "->"
     row_id: 412
+    depends_on: að koma
+    basic_form: að langa
+    last_seen: "2021-07-02"
   - icelandic: Langar þig að vera með okkur?
     english: Do you want to be with us?
     level: 2
@@ -4258,6 +4289,8 @@ rows:
     english: I feel bad.
     level: 1
     row_id: 164
+    basic_form: ég, að líða, illa
+    last_seen: "2021-07-02"
   - icelandic: Mér líður vel.
     english: I feel good.
     level: 1
@@ -4836,10 +4869,12 @@ rows:
     literally: tone art
     last_seen: "2021-07-01"
   - icelandic: tónlistarmaður
-    english: musician
+    english: a musician
     depends_on: tónlist, maður
     level: 1
     row_id: 329
+    note_after_show_is: From "tónlist" ("music") + "maður" ("person")
+    last_seen: "2021-07-02"
   - icelandic: tunga
     english: a tongue
     level: 2
@@ -4861,6 +4896,8 @@ rows:
     level: 1
     direction: <-
     row_id: 309
+    depends_on: tunga
+    last_seen: "2021-07-02"
   - icelandic: túkall
     english: 2 ISK coin (no longer in existance)
     level: 6
@@ -4932,6 +4969,7 @@ rows:
     english: outside
     level: 1
     row_id: 279
+    last_seen: "2021-07-02"
   - icelandic: útlendingur
     english: a foreigner
     depends_on: útlönd
@@ -5061,10 +5099,6 @@ rows:
     english: We met each other earlier today.
     level: 2
     row_id: 389
-  - icelandic: Við hittumst á eftir.
-    english: We will meet each other later today.
-    level: 1
-    row_id: 390
   - icelandic: Við horfðum á bíómynd áðan.
     english: We watched a film earlier today.
     level: 2
@@ -5471,6 +5505,9 @@ rows:
     english: That's incorrect.
     level: 1
     row_id: 124
+    basic_form: vitlaus, rangur
+    should_split: "no"
+    last_seen: "2021-07-02"
   - icelandic: Það er *þess vegna* sem ég er ...
     english: That is *why* I am ...
     should_teach: "no"
