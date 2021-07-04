@@ -652,11 +652,6 @@ rows:
     depends_on: að sjá eftir
     level: 3
     row_id: 144
-  - icelandic: að sjá eftir einhverju
-    english: to regret something
-    level: 2
-    alternative_id: að sjá eftir
-    row_id: 1425
     last_seen: "2021-07-02"
   - icelandic: að sjálfsögðu
     english: of course
@@ -780,6 +775,13 @@ rows:
     level: 1
     row_id: 1179
     last_seen: "2021-07-02"
+  - icelandic: að taka eftir einhverju
+    english: to notice something
+    depends_on: að taka, eftir
+    level: 2
+    alternative_id: að taka eftir
+    row_id: 1469
+    last_seen: "2021-07-02"
   - icelandic: að tala
     english: to speak; to talk
     level: 1
@@ -902,8 +904,10 @@ rows:
     row_id: 757
     last_seen: "2021-07-01"
   - icelandic: að virða
+    english: to respect
     level: 4
     row_id: 883
+    last_seen: "2021-07-02"
   - icelandic: að virka
     english: to work {{g|properly}}; to function {{g|properly}}
     level: 2
@@ -1506,6 +1510,7 @@ rows:
     english: something
     basic_form: einhver
     grammar_note f/icelandic: neuter
+    pronunciation: ei{{h}}gva{{gray|ð}}
     row_id: 1125
   - icelandic: eitt orð – mörg orð
     english: one word – many words
@@ -2572,6 +2577,7 @@ rows:
     direction: "->"
     alternative_id: að kunna vel við
     row_id: 912
+    last_seen: "2021-07-02"
   - icelandic: Ég kem eftir einn tíma.
     english: I will come in one hour.
     basic_form: að koma, einn, tími
@@ -2661,11 +2667,6 @@ rows:
     depends_on: Bandaríkin, að alast upp
     level: 3.1
     row_id: 838
-  - icelandic: Ég sakna þín.
-    english: I miss you.
-    depends_on: að sakna
-    level: 3
-    row_id: 195
   - icelandic: Ég sakna þín.
     english: I miss you.
     basic_form: að sakna%, þú (ef)
@@ -5498,6 +5499,7 @@ rows:
   - icelandic: nokkur
     level: 3
     row_id: 1467
+    last_seen: "2021-07-02"
   - icelandic: nokkur börn
     english: a few children
     depends_on: nokkrir
@@ -5516,10 +5518,6 @@ rows:
     level: 2
     row_id: 1458
     last_seen: "2021-07-02"
-  - icelandic: næstum því
-    english: almost
-    basic_form: næstum, það
-    row_id: 1121
   - icelandic: Næstum því aldrei.
     english: Almost never.
     depends_on: næstum því, aldrei
@@ -5890,12 +5888,17 @@ rows:
     row_id: 1362
     last_seen: "2021-07-02"
   - icelandic: Sonur minn er tveggja ára.
-    level: 3.5
+    english: My son is two years old.
+    depends_on: sonur
+    basic_form: að vera, tveir, ár
+    level: 2
     row_id: 1051
+    last_seen: "2021-07-02"
   - icelandic: Sonur minn er tveggja og hálfs árs.
     level: 3.5
     note_after_show: "\"Ár\" is here in singular because \"a half\" is singular."
     row_id: 1050
+    last_seen: "2021-07-02"
   - icelandic: Splæsir{{ðu}}?
     english: Your treat?; Are you going to be the one to splurge on this item for me?; Will you be paying for me?
     basic_form: að splæsa
@@ -5903,8 +5906,11 @@ rows:
     alternative_id: að splæsa
     row_id: 797
   - icelandic: spænska
+    english: "{{g|the}} Spanish language"
+    depends_on: Spánn
     level: 3
     row_id: 976
+    last_seen: "2021-07-02"
   - icelandic: spænskur
     level: 1
     row_id: 1204
@@ -5924,6 +5930,7 @@ rows:
   - icelandic: stíll
     level: 3
     row_id: 1466
+    last_seen: "2021-07-02"
   - icelandic: stór
     level: 1
     row_id: 1249
@@ -6599,12 +6606,15 @@ rows:
   - icelandic: ýmislegt
     level: 3
     row_id: 852
+    last_seen: "2021-07-02"
   - icelandic: ýmiss konar
     level: 3
     row_id: 854
+    last_seen: "2021-07-02"
   - icelandic: ýmsir
     level: 3
     row_id: 853
+    last_seen: "2021-07-02"
   - icelandic: Ýttu á hlekkinn.
     english: Click the link.
     depends_on: hlekkur, að ýta
@@ -6755,15 +6765,10 @@ rows:
     level: 1.3
     row_id: 908
   - icelandic: Það er hættulegt.
-    english: It's dangerous.
-    depends_on: hættulegur
-    level: 2
-    dont_confuse: að hætta
-    row_id: 371
-  - icelandic: Það er hættulegt.
     english: It is dangerous.
     basic_form: hættulegur%
     level: 2
+    dont_confuse: að hætta
     row_id: 1365
     last_seen: "2021-07-02"
   - icelandic: Það er í tísku núna.
@@ -6944,6 +6949,7 @@ rows:
     level: 3
     alternative_id: að taka því
     row_id: 622
+    last_seen: "2021-07-02"
   - icelandic: Það vildi svo til að ...
     level: 5
     row_id: 805
@@ -7267,8 +7273,11 @@ rows:
     row_id: 363
     last_seen: "2021-07-01"
   - icelandic: þýska
+    english: "{{g|the}} German language"
+    depends_on: Þýskaland
     level: 3
     row_id: 978
+    last_seen: "2021-07-02"
   - icelandic: Ætlar{{ðu}} að elda í kvöld?
     english: Are you going to cook this evening?
     depends_on: að elda, í kvöld
@@ -7292,6 +7301,7 @@ rows:
   - icelandic: ökuréttindi
     level: 3
     row_id: 1463
+    last_seen: "2021-07-02"
   - icelandic: ökuskírteini
     english: a driver's license
     depends_on: að aka, skírteini
