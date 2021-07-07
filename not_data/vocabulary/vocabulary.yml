@@ -982,6 +982,7 @@ rows:
     should_split: "yes"
     row_id: 862
     last_seen: "2021-07-01"
+    depends_on: af hverju, hvers vegna
   - icelandic: Af hverju er hún svona góð í fótbolta?
     english: Why is she so good at football?
     depends_on: svona
