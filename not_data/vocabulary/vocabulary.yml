@@ -4186,7 +4186,7 @@ rows:
     lemmas: að eiga við
     level: 2
     row_id: 806
-  - icelandic: Hvað áttu við?
+  - icelandic: Hvað átt{{u}} við?
     english: What do you mean?; What are you referring to?
     depends_on: að eiga við
     level: 2
@@ -4379,7 +4379,7 @@ rows:
     alternative_id: hvar
     row_id: 1292
     last_seen: "2021-07-02"
-  - icelandic: Hvar áttu heima?
+  - icelandic: Hvar átt{{u}} heima?
     english: Where do you live?; What's your address?
     lemmas: að eiga heima
     direction: "->"
@@ -4393,7 +4393,7 @@ rows:
     direction: "->"
     row_id: 245
     last_seen: "2021-07-01"
-  - icelandic: Hvar býrð{{u}}?; Hvar áttu heima?
+  - icelandic: Hvar býrð{{u}}?; Hvar átt{{u}} heima?
     english: Where do you live?
     lemmas: að búa, að eiga heima
     level: 1
@@ -4433,7 +4433,7 @@ rows:
     alternative_id: hvenær
     row_id: 1261
     last_seen: "2021-07-02"
-  - icelandic: Hvenær áttu von á honum?
+  - icelandic: Hvenær átt{{u}} von á honum?
     row_id: 964
   - icelandic: Hvenær er opið?
     depends_on: opinn
@@ -4493,7 +4493,7 @@ rows:
     alternative_id: hvernig
     row_id: 1220
     last_seen: "2021-07-02"
-  - icelandic: Hvernig bíl áttu?; Hvers konar bíl áttu?
+  - icelandic: Hvernig bíl átt{{u}}?; Hvers konar bíl átt{{u}}?
     english: What kind of a car do you own?
     level: 1
     row_id: 17
