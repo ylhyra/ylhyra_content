@@ -16,5 +16,4 @@ Click any of the above keys (or <kbd>Space</kbd> or <kbd>Enter</kbd>) to show th
 
 ***
 
-<Button><a href="VOCABULARY_RUNNING">Got it</a></Button>
-
+<Button><a href="VOCABULARY_PLAY">Got it</a></Button>
