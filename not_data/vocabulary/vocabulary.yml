@@ -7695,6 +7695,262 @@ rows:
     lemmas: kvöld
     row_id: 1531
     last_seen: "2021-07-09"
+  - icelandic: já
+    english: "yes"
+    level: 1
+    row_id: 1532
+    last_seen: "2021-07-09"
+  - icelandic: jú
+    english: "yes (note: responding to a negative question)"
+    level: 1
+    depends_on: já
+    note: If the question includes "ekki"/"ekkert"/"enginn" then you have to use "jú" instead of "já".
+    row_id: 1533
+    last_seen: "2021-07-09"
+  - icelandic: nei
+    english: "no"
+    level: 1
+    row_id: 1534
+    last_seen: "2021-07-09"
+  - icelandic: já já
+    english: yeah∆ sure
+    level: 1
+    note: "->"
+    row_id: 1535
+    last_seen: "2021-07-09"
+  - icelandic: nei nei
+    english: "nah (note: a softer version of \"no\")"
+    level: 1
+    note: "->"
+    row_id: 1536
+    last_seen: "2021-07-09"
+  - icelandic: Ég trúi þér ekki.
+    english: I don't believe you.
+    level: 2
+    lemmas: að trúa
+    note: This phrase is usually positive, in the meaning of "Wow!" / "That's unbelievable!".
+    row_id: 1537
+    last_seen: "2021-07-09"
+  - icelandic: mér finnst
+    english: I am of the opinion that _..._
+    level: 1
+    lemmas: að finnast%
+    row_id: 1538
+    last_seen: "2021-07-09"
+  - icelandic: þér finnst
+    english: you are of the opinion that _..._
+    level: 1
+    depends_on: frá þér
+    lemmas: að finnast
+    row_id: 1539
+    last_seen: "2021-07-09"
+  - icelandic: Þetta er ágætt.
+    english: This is fine.; This is mostly okay.;; This is quite good.
+    level: 1
+    lemmas: ágætur%
+    note: For older speakers "ágætt" means "quite good", but for younger speakers it means "sort of okay".
+    row_id: 1540
+    last_seen: "2021-07-09"
+  - icelandic: hér er ég - um mig
+    english: here am I - about me
+    level: 1
+    row_id: 1541
+    last_seen: "2021-07-09"
+  - icelandic: hér ert þú - um þig
+    english: here are you - about you
+    level: 1
+    row_id: 1542
+    last_seen: "2021-07-09"
+  - icelandic: hér er hann - um hann
+    english: here is he - about him
+    level: 1
+    row_id: 1543
+    last_seen: "2021-07-09"
+  - icelandic: hér er hún - um hana
+    english: here is she - about her
+    level: 1
+    row_id: 1544
+    last_seen: "2021-07-09"
+  - icelandic: frá þér
+    english: from you
+    level: 1
+    lemmas: þú
+    row_id: 1545
+    last_seen: "2021-07-09"
+  - icelandic: til þín
+    english: to you
+    level: 1
+    lemmas: þú
+    row_id: 1546
+    last_seen: "2021-07-09"
+  - icelandic: frá henni
+    english: from her
+    level: 1
+    lemmas: hún
+    row_id: 1547
+    last_seen: "2021-07-09"
+  - icelandic: frá honum
+    english: from him
+    level: 1
+    lemmas: hann
+    row_id: 1548
+    last_seen: "2021-07-09"
+  - icelandic: til hans
+    english: to him
+    level: 1
+    lemmas: hann
+    row_id: 1549
+    last_seen: "2021-07-09"
+  - icelandic: til hennar
+    english: to her
+    level: 1
+    lemmas: hún
+    row_id: 1550
+    last_seen: "2021-07-09"
+  - icelandic: hér er það - um það
+    english: here is it - about it
+    level: 1
+    row_id: 1551
+    last_seen: "2021-07-09"
+  - icelandic: frá því - til þess
+    english: from it - to it
+    level: 1
+    lemmas: það
+    row_id: 1552
+    last_seen: "2021-07-09"
+  - icelandic: Ég v*il koma*.
+    english: I want to come.
+    level: 1
+    lemmas: að vilja
+    row_id: 1553
+    last_seen: "2021-07-09"
+  - icelandic: M*ig* l*angar að koma*.
+    english: I want to come.
+    level: 1
+    lemmas: að langa
+    row_id: 1554
+    last_seen: "2021-07-09"
+  - icelandic: ég v*il*
+    english: I want
+    level: 1
+    lemmas: að vilja
+    row_id: 1555
+    last_seen: "2021-07-09"
+  - icelandic: ég v*il fara*
+    english: I want to go
+    level: 1
+    lemmas: að vilja
+    row_id: 1556
+    last_seen: "2021-07-09"
+  - icelandic: mig l*angar að fara*
+    english: I want to go
+    level: 1
+    depends_on: um mig
+    lemmas: að langa
+    row_id: 1557
+    last_seen: "2021-07-09"
+  - icelandic: þú v*ilt*
+    english: you want
+    level: 1
+    lemmas: að vilja
+    row_id: 1558
+    last_seen: "2021-07-09"
+  - icelandic: hann v*ill*
+    english: he wants
+    level: 1
+    lemmas: að vilja
+    row_id: 1559
+    last_seen: "2021-07-09"
+  - icelandic: hún v*ill*
+    english: she wants
+    level: 1
+    lemmas: að vilja
+    row_id: 1560
+    last_seen: "2021-07-09"
+  - icelandic: þig l*angar*
+    english: you want
+    level: 1
+    depends_on: um þig
+    lemmas: að langa
+    row_id: 1561
+    last_seen: "2021-07-09"
+  - icelandic: hana l*angar*
+    english: she wants
+    level: 1
+    depends_on: um hana
+    lemmas: að langa
+    row_id: 1562
+    last_seen: "2021-07-09"
+  - icelandic: hann l*angar*
+    english: he wants
+    level: 1
+    depends_on: um hann
+    lemmas: að langa
+    row_id: 1563
+    last_seen: "2021-07-09"
+  - icelandic: M*ig* l*angar* í hamborgara.
+    english: I want a hamburger.
+    level: 1
+    depends_on: um mig
+    lemmas: að langa
+    row_id: 1564
+    last_seen: "2021-07-09"
+  - icelandic: kartöflur
+    english: potatoes
+    level: 1
+    lemmas: kartafla%
+    row_id: 1565
+    last_seen: "2021-07-09"
+  - icelandic: franskar kartöflur
+    english: French fries
+    level: 1
+    lemmas: franskur, kartafla
+    literally: French potatoes
+    row_id: 1566
+    last_seen: "2021-07-09"
+  - icelandic: allt *í lagi*
+    english: all right; okay
+    level: 1
+    lemmas: allur
+    direction: "->"
+    literally: all in order
+    row_id: 1567
+    last_seen: "2021-07-09"
+  - icelandic: að skola
+    english: to rinse _with water_
+    level: 3
+    dont_confuse: að þvo
+    row_id: 1568
+    last_seen: "2021-07-09"
+  - icelandic: að þvo
+    english: to wash
+    level: 3
+    row_id: 1569
+    last_seen: "2021-07-09"
+  - icelandic: að þ*rífa*
+    english: to clean
+    level: 1
+    fix: líka "snatch"
+    row_id: 1570
+    last_seen: "2021-07-09"
+  - icelandic: að hr*einsa*
+    english: to clean
+    level: 3
+    row_id: 1571
+    last_seen: "2021-07-09"
+  - icelandic: að bera saman
+    english: to compare
+    level: 3
+    alternative_id: að bera saman við
+    row_id: 1572
+    last_seen: "2021-07-09"
+  - icelandic: sa*manborið við*
+    english: in comparison to
+    level: 1
+    depends_on: að bera saman
+    note: From "að bera saman við"
+    row_id: 1573
+    last_seen: "2021-07-09"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
