@@ -5,9 +5,9 @@ license: CC0
 
 This is an overview page of the [[declension]] patterns for [[nouns]]. It lists all the words and names a [[B2]] level student needs to be able to decline.
 
-Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about 22 basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[sound change]], and occasionally an additional letter pops up or disappears.
+Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about {{number of declension patterns}} basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[sound change]], and occasionally an additional letter pops up or disappears.
 
-The following table lists all the common patterns. [https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version. You should ''not'' memorize this table, instead you should use it as a reference to get an overview over the patterns. The most important patterns are shown in uppercase.
+The following table lists all the common patterns. [https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.<!--todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview over the patterns. The most important patterns are shown in uppercase.
 
 {{Noun declension patterns}}
 
@@ -394,16 +394,16 @@ This is the most common pattern for [[Weak|weakly]] declined feminine words. {{D
 
 Regular:
 
-*pítsa, íslenska, sápa, tölva, appelsína, eyja, króna, kveðja, manneskja, miðja, náttúra, núðlur, olía, ólífa, pera, rúsínur, sítróna, snúra, stofa, tíska, pása, byssa, frænka, húfa, sturta, hola, skófla, lambhúshetta, ljósapera, borðstofa, kennslustofa, skrifstofa, ruslatunna, peysa, rúta, vinna, enska, fita, heilsa, reynsla, spænska, vinátta, áhætta, samvinna, hamingja
+*pítsa, íslenska, sápa, tölva, appelsína, eyja, króna, kveðja, manneskja, miðja, náttúra, olía, sítróna, snúra, stofa, tíska, frænka, húfa, sturta, skrifstofa, ruslatunna, peysa, vinna, enska, fita, heilsa, reynsla, spænska
 
 Umlaut:
 
-*kaka, mamma, amma, fjara, haka, panna, stjarna, taska, vara, karfa, kartafla, flaska, plata, saga, myndataka, tillaga, fjallganga (a→ö)
+*kaka, mamma, amma, fjara, panna, stjarna, taska, vara, karfa, kartafla, flaska, plata, saga, myndataka, tillaga, fjallganga (a→ö)
 *kærasta (a→u)
 
 Additional letter ("-na") in fourth case plural:
 
-*fjölskylda, pylsa, sekúnda, mínúta, geymsla, greiðsla, klukka, síða, stelpa, tunga, úlpa, kennitala, vifta, gúrka, hilla, regla, skyrta, súpa, þoka, dúfa, fluga, veisla, vika, villa, umræða, útilega, lögregla, býfluga, afgreiðsla, blaðsíða, ryksuga, ástæða, áhyggja, kirkja, sulta, hálsbólga, heilsugæsla
+*fjölskylda, pylsa, sekúnda, mínúta, klukka, síða, stelpa, tunga, úlpa, tala, gúrka, hilla, regla, skyrta, súpa, þoka, fluga, veisla, vika, lögregla, blaðsíða, ryksuga, ástæða, kirkja, sulta, heilsugæsla
 
 Extreme irregulary:
 
@@ -567,4 +567,3 @@ These words also do not cleanly fit into any pattern and must be studied seperat
 |bæj'''um'''
 |bæj'''a'''
 }}
-
