@@ -704,11 +704,14 @@ rows:
     literally: Cherished greetings.
     row_id: 131
     note_regarding_english: Used at the end of emails.
-  - icelandic: Er mikið að gera í vinnunni?
+  - icelandic: Er mikið *að gera í vinnunni*?
+    english: Has work been busy?
     depends_on: vinna, mikill, að gera, mikið að gera
     level: 1
+    literally: Is there much to do at the job?
     row_id: 132
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-09"
+    lemmas: mikill, vinna
   - icelandic: áðan
     english: earlier today
     level: 1
@@ -3974,11 +3977,13 @@ rows:
     depends_on: að segjast
     level: 3.3
     row_id: 729
-  - icelandic: Ég ætla kannski að flytja til útlanda.
-    english: I am maybe going to move abroad.
+  - icelandic: Mig langar að flytja til útlanda.
+    english: I want to move to a foreign country.
     depends_on: útlönd, að flytja, að ætla
     level: 1.7
     row_id: 730
+    lemmas: að langa, að flytja, útland
+    last_seen: "2021-07-09"
   - icelandic: að flytja
     english: to transport; to move a large object;; to move to another house
     level: 3
@@ -4011,16 +4016,18 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: Ameríka
     english: America
-    level: 1.8
+    level: 2
     importance: "-1"
     row_id: 736
-    note: Usually referring to the U.S., but can sometimes refer to the continent of the Americas. More colloquial than "Bandaríkin".
-  - icelandic: Bandaríkin
-    english: The United States
+    note: Usually referring to the U.S. More colloquial than "Bandaríkin".
+    last_seen: "2021-07-09"
+  - icelandic: B*andaríkin*
+    english: the United States
     depends_on: ríki, band, að binda, bandalag
     level: 1.9
     row_id: 737
     note: This term is commonly used, "Ameríka" can also be used colloquially.
+    last_seen: "2021-07-09"
   - icelandic: Ríkið
     english: the nickname of the Icelandic state monopoly liquor store Vínbúðin
     depends_on: ríki
@@ -4030,11 +4037,6 @@ rows:
     importance: "-0.1"
     row_id: 738
     note: The liquor store is government-run, which is why it is referred to as "the state".
-  - icelandic: Ég er í Ameríku.
-    english: I'm in America.
-    depends_on: Ameríka
-    level: 1
-    row_id: 739
   - icelandic: Ég er í Bandaríkjunum.
     english: I'm in the United States.
     depends_on: Bandaríkin
@@ -4469,7 +4471,8 @@ rows:
     depends_on: þessi
     level: 1
     row_id: 818
-    lemmas: þessi
+    lemmas: þessi, góður
+    last_seen: "2021-07-09"
   - icelandic: Eru myndirnar á þessari tölvu?
     english: Are the pictures on this computer?
     depends_on: þessi, mynd
@@ -4659,12 +4662,15 @@ rows:
     english: female friends
     depends_on: vinkona
     level: 1.6
+    pronunciation: v'''í'''nkonur
     row_id: 860
+    last_seen: "2021-07-09"
   - icelandic: vinkonurnar
     english: the female friends
     depends_on: vinkonur
-    level: 1.6
+    level: 2
     row_id: 861
+    last_seen: "2021-07-09"
   - icelandic: A*f hverju ekki*?; Hv*ers vegna ekki*?
     english: Why not?
     depends_on: af hverju, hvers vegna
@@ -4793,11 +4799,12 @@ rows:
   - icelandic: vörn
     level: 4
     row_id: 886
-  - icelandic: Ertu að vinna á morgun?
+  - icelandic: Ert{{u}} að vinna á morgun?
+    english: Are you working tomorrow?
     depends_on: að vinna, á morgun
     level: 1
     row_id: 887
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-09"
   - icelandic: Mér líður alveg eins.
     level: 2
     row_id: 888
@@ -6238,10 +6245,14 @@ rows:
     alternative_id: hvert
     row_id: 1237
     last_seen: "2021-07-02"
-  - icelandic: að langa
+  - icelandic: mig l*angar*
+    english: I want
+    depends_on: mig
     level: 1
+    alternative_id: að langa
     row_id: 1238
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-09"
+    lemmas: ég, að langa
   - icelandic: að fara
     english: to go
     level: 1
@@ -6406,9 +6417,10 @@ rows:
     row_id: 1271
     last_seen: "2021-07-02"
   - icelandic: að vilja
+    english: to want
     level: 1
     row_id: 1272
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-09"
   - icelandic: að læra
     english: to learn;; to study
     level: 1
@@ -7337,8 +7349,11 @@ rows:
     last_seen: "2021-07-08"
   - icelandic: í viðbót
     english: in addition
-    level: 1
+    depends_on: að bæta við
+    level: 2
     row_id: 1478
+    note: Derived from "að bæta við" ("to add").
+    last_seen: "2021-07-09"
   - icelandic: En áhugavert!
     english: How interesting!
     level: 1
@@ -7347,6 +7362,50 @@ rows:
     row_id: 1479
     lemmas: áhugaverður%
     last_seen: "2021-07-08"
+  - icelandic: Ég verð hérna í eina viku '''í viðbót'''.
+    english: I'll be here for one '''more''' week.; I'll be here for one '''additional''' week.
+    depends_on: í viðbót
+    level: 2
+    row_id: 1480
+    lemmas: að verða, einn, vika, viðbót
+    last_seen: "2021-07-09"
+  - icelandic: Það er eitt í viðbót sem ég þarf að ræða við þig um.
+    english: There is one additional thing that I have to discuss with you.
+    depends_on: í viðbót, að þurfa, að ræða, um
+    level: 2
+    row_id: 1481
+    last_seen: "2021-07-09"
+  - icelandic: Hvað verður{{ðu}} '''lengi''' á landinu '''í viðbót'''?
+    english: For how '''much longer''' will you be in the country?
+    depends_on: lengi
+    level: 2
+    row_id: 1482
+    lemmas: að verða, land, viðbót
+    note: "\"Landið\" usually refers to Iceland."
+    last_seen: "2021-07-09"
+  - icelandic: Ég ætla að lesa einn kafla '''í viðbót'''.
+    english: I'm going to read one '''more''' chapter.
+    depends_on: í viðbót
+    row_id: 1483
+    lemmas: kafli
+    last_seen: "2021-07-09"
+  - icelandic: _um_ mig
+    english: _about_ me
+    level: 1
+    row_id: 1484
+    lemmas: ég
+    last_seen: "2021-07-09"
+  - icelandic: _frá_ mér
+    english: _from_ me
+    row_id: 1485
+    lemmas: ég
+    last_seen: "2021-07-09"
+  - icelandic: _til_ mín
+    english: _to_ me
+    level: 1
+    row_id: 1486
+    lemmas: ég
+    last_seen: "2021-07-09"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

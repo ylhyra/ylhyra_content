@@ -41,8 +41,7 @@ The Icelandic cases can be compared to the different forms that English [[pronou
 <div class="notes">
 '''Notes'''
 
-*For simplicy's sake we refer to the cases as the "first case", "second case" and so on instead of using the grammatical terms.
+*For simplicity's sake, Ylhýra refers to the cases as the "first case", "second case" and so on instead of using the grammatical terms. This is non-standard; all other resources use the grammatical terms.
 *The explanation of what the cases indicate is a simplification.
 *If you have studied German, do note that the standard way of showing the four German cases is ''[[nominative]], [[genitive]], [[dative]], [[accusative]]'' while in Icelandic the order is ''[[nominative]], [[accusative]], [[dative]], [[genitive]]''.
 </div>
-
