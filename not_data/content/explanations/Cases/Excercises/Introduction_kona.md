@@ -11,11 +11,13 @@ vocabulary:
 - vika
 - pítsa
 - vinkona
+- hér er vika - um viku
 - Hún er vinkona mín.
 - Ég á konu.
 - Ég kann íslensku.
+- hér er vinkona - um vinkonu
 - Ég kann ekki ensku.
-- Ég ætla að elda pítsu í kvöld.
+- Ég ætla að borða pítsu í kvöld.
 - Þetta var góð vika.
 - Þetta var erfið vika.
 - Vinkona mín borðar ekki pítsu.

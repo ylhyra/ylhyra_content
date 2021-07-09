@@ -778,25 +778,22 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: að sjá eftir einhverju
     english: to regret something
-    depends_on: að sjá eftir
     level: 3
+    alternative_id: að sjá eftir
     row_id: 144
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-09"
   - icelandic: Ég sé eftir því að hafa ekki farið.
     english: I regret not having gone.
-    depends_on: að sjá eftir
+    lemmas: að sjá eftir, að fara
     level: 3
     row_id: 145
+    last_seen: "2021-07-09"
   - icelandic: alltaf
     english: always
     level: 1
     dont_confuse: allt of
     row_id: 146
     last_seen: "2021-07-01"
-  - icelandic: Ég borða alltaf mikið.
-    english: I always eat a lot.
-    level: 1
-    row_id: 148
   - icelandic: Það kemur þér ekki við.
     english: That's none of your business.
     depends_on: að koma einhverjum við
@@ -1121,9 +1118,10 @@ rows:
     row_id: 212
   - icelandic: Hvað heitir hann?
     english: What's his name?
-    depends_on: að heita
+    lemmas: að heita
     level: 1
     row_id: 213
+    last_seen: "2021-07-09"
   - icelandic: að heita
     english: to be named
     level: 1
@@ -3555,6 +3553,7 @@ rows:
     depends_on: rólegur
     level: 1.8
     row_id: 653
+    last_seen: "2021-07-09"
   - icelandic: að skipta sér af
     english: to stick one's nose into matters; to get involved with things that are not your concern
     depends_on: að skipta
@@ -4244,8 +4243,10 @@ rows:
   - icelandic: Ég sá eftir því.
     english: I regretted it.
     depends_on: að sjá eftir einhverju
+    lemmas: að sjá eftir
     level: 3
     row_id: 777
+    last_seen: "2021-07-09"
   - icelandic: á fimm ára fresti
     english: every five years
     depends_on: frestur
@@ -4556,10 +4557,11 @@ rows:
     lemmas: að búast við
     level: 3.1
     row_id: 840
-  - icelandic: Manstu?
+  - icelandic: Manst{{u}}?
     english: Do you remember?
     level: 1.4
     row_id: 841
+    last_seen: "2021-07-09"
   - icelandic: Þú manst að fara út með ruslið.
     english: Remember to take out the trash.
     depends_on: að muna, rusl
@@ -4658,6 +4660,7 @@ rows:
     level: 1.5
     note: "\"Vinkona\" is pronounced \"v'''í'''nkona\"."
     row_id: 859
+    last_seen: "2021-07-09"
   - icelandic: vinkonur
     english: female friends
     depends_on: vinkona
@@ -6553,11 +6556,11 @@ rows:
     row_id: 1299
     last_seen: "2021-07-02"
   - icelandic: Sæll.
-    english: "Hello. (note: formal, speaking to one man)"
+    english: "Hello. (note: formal∆ speaking to one man)"
     level: 1
     note: The term literally means "happy / content". It can be used in both formal and informal situations.
     row_id: 1300
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-09"
   - icelandic: sex
     english: six
     level: 1
@@ -7471,6 +7474,207 @@ rows:
     level: 1
     alternative_id: var
     row_id: 1496
+    last_seen: "2021-07-09"
+  - icelandic: pabbi
+    english: dad
+    level: 1
+    row_id: 1497
+    last_seen: "2021-07-09"
+  - icelandic: hér er pabbi - um pabba
+    english: here is a dad - about a dad
+    depends_on: pabbi
+    level: 1
+    row_id: 1498
+    last_seen: "2021-07-09"
+  - icelandic: hér er tími - um tíma
+    english: here is time - about time
+    depends_on: tími
+    level: 1
+    row_id: 1499
+    last_seen: "2021-07-09"
+  - icelandic: sími
+    english: a telephone
+    level: 1
+    row_id: 1500
+    last_seen: "2021-07-09"
+  - icelandic: hér er sími - um síma
+    english: here is a telephone - about a telephone
+    depends_on: sími
+    level: 1
+    row_id: 1501
+    last_seen: "2021-07-09"
+  - icelandic: I own a telephone.
+    english: Ég á síma.
+    level: 1
+    row_id: 1502
+  - icelandic: Ég hef ekki tíma.
+    english: I don't have time.
+    lemmas: að hafa, tími
+    level: 1
+    row_id: 1503
+    last_seen: "2021-07-09"
+  - icelandic: Tekur þetta langan tíma?
+    english: Does this take a long time?
+    lemmas: að taka, langur, tími
+    level: 1
+    row_id: 1504
+    last_seen: "2021-07-09"
+  - icelandic: Hvenær kemur afi?
+    english: When will grandpa arrive?
+    depends_on: hann kemur
+    lemmas: að koma
+    level: 1
+    row_id: 1505
+    last_seen: "2021-07-09"
+  - icelandic: hér er fótbolti - um fóbolta
+    english: here is football - about football
+    level: 1
+    row_id: 1506
+    last_seen: "2021-07-09"
+  - icelandic: hér er afi - um afa
+    english: here is grandpa - about grandpa
+    level: 1
+    row_id: 1507
+    last_seen: "2021-07-09"
+  - icelandic: Hvar er afi?
+    english: Where's grandpa?
+    level: 1
+    row_id: 1508
+    last_seen: "2021-07-09"
+  - icelandic: hér er kærasti - um kærasta
+    english: here is a boyfriend - about a boyfriend
+    depends_on: kærasti
+    level: 1
+    row_id: 1509
+    last_seen: "2021-07-09"
+  - icelandic: hér er hamborgari - um hamborgara
+    english: here is a hamburger - about a hamburger
+    level: 1
+    row_id: 1510
+    last_seen: "2021-07-09"
+  - icelandic: hér er kennari - um kennara
+    english: here is a teacher - about a teacher
+    level: 1
+    row_id: 1511
+    last_seen: "2021-07-09"
+  - icelandic: Ég ætla að borða hamborgara.
+    english: I am going to eat a hamburger.
+    depends_on: að ætla
+    lemmas: hamborgari
+    level: 1
+    row_id: 1512
+    last_seen: "2021-07-09"
+  - icelandic: hér er kafli - um kafla
+    english: here is a chapter - about a chapter
+    level: 1
+    alternative_id: kafli
+    row_id: 1513
+    last_seen: "2021-07-09"
+  - icelandic: Er ég að trufla?
+    english: Am I interrupting?
+    depends_on: að trufla
+    level: 1
+    row_id: 1514
+    last_seen: "2021-07-09"
+  - icelandic: Ekki trufla afa.
+    english: Don't bother / interrupt grandpa.
+    level: 1
+    row_id: 1515
+    last_seen: "2021-07-09"
+  - icelandic: Ég ætla að heimsækja pabba minn á eftir.
+    english: I'm going to visit my dad later today.
+    lemmas: pabbi
+    level: 1
+    row_id: 1516
+    last_seen: "2021-07-09"
+  - icelandic: til
+    english: to; towards
+    level: 1
+    row_id: 1517
+    last_seen: "2021-07-09"
+  - icelandic: frá
+    english: from
+    level: 1
+    row_id: 1518
+    last_seen: "2021-07-09"
+  - icelandic: hjá
+    english: beside; next to; near;; at _(someone's house)_
+    level: 1
+    row_id: 1519
+    last_seen: "2021-07-09"
+  - icelandic: á móti
+    english: against; opposed to
+    level: 1
+    row_id: 1520
+    last_seen: "2021-07-09"
+  - icelandic: í gegnum _eitthvað_
+    english: through _something_
+    level: 1
+    alternative_id: gegnum
+    row_id: 1521
+    last_seen: "2021-07-09"
+  - icelandic: í k*ringum*
+    english: around
+    level: 1
+    row_id: 1522
+    last_seen: "2021-07-09"
+  - icelandic: til að; til þess að
+    english: in order to
+    level: 1
+    row_id: 1523
+    last_seen: "2021-07-09"
+  - icelandic: Sæl.
+    english: "Hello. (note: formal∆ speaking to either one woman or a group of men and women)"
+    lemmas: sæll
+    level: 1
+    row_id: 1524
+    last_seen: "2021-07-09"
+  - icelandic: Sælir.
+    english: "Hello. (note: formal∆ speaking to a group of men)"
+    lemmas: sæll
+    level: 2
+    row_id: 1525
+    last_seen: "2021-07-09"
+  - icelandic: Sælar.
+    english: "Hello. (note: formal∆ speaking to a group of women)"
+    lemmas: sæll
+    level: 2
+    row_id: 1526
+    last_seen: "2021-07-09"
+  - icelandic: Góðan daginn.; Góðan dag.
+    english: Good day!
+    lemmas: góður, dagur
+    level: 1
+    note: Used from the moment you wake up until 18:00 (6 P.M.).
+    row_id: 1527
+    last_seen: "2021-07-09"
+  - icelandic: Góða kvöldið.; Gott kvöld.
+    english: Good evening!
+    lemmas: góður, kvöld
+    level: 1
+    note: Used after 18:00 (6 P.M.)
+    row_id: 1528
+    last_seen: "2021-07-09"
+  - icelandic: Góða nótt.
+    english: Good night.
+    lemmas: góður, nótt
+    level: 2
+    note: Said when someone is going to sleep.
+    row_id: 1529
+    last_seen: "2021-07-09"
+  - icelandic: Daginn!
+    english: (a short version of "Good day!")
+    depends_on: góðan daginn
+    lemmas: dagur
+    level: 1
+    row_id: 1530
+    last_seen: "2021-07-09"
+  - icelandic: Kvöldið!
+    english: (a short version of "Good evening!")
+    depends_on: góða kvöldið
+    lemmas: kvöld
+    level: 1
+    row_id: 1531
     last_seen: "2021-07-09"
 sound:
   - recording_of: níu sinnum
