@@ -1,0 +1,526 @@
+rows:
+  - icelandic: forsyning
+    english: birgðir
+    level: 1
+    row_id: 1
+  - icelandic: adlyde
+    english: gegna, hlýða
+    level: 1
+    row_id: 2
+  - icelandic: beskytte
+    english: verja, vernda, hlífa
+    level: 1
+    row_id: 3
+  - icelandic: inficeret
+    english: sýktur, smitaður
+    level: 1
+    row_id: 4
+  - icelandic: belejligt
+    english: heppilegt
+    level: 1
+    row_id: 5
+  - icelandic: makker
+    english: lagsmaður!, gaur
+    level: 1
+    row_id: 6
+  - icelandic: åndssvagt
+    english: hálfvitalegt
+    level: 1
+    row_id: 7
+  - icelandic: væske
+    english: vökvi
+    level: 1
+    row_id: 8
+  - icelandic: forsigtig
+    english: passasamur
+    level: 1
+    row_id: 9
+  - icelandic: træk vejret
+    english: andaðu! (togaðu veðrið)
+    level: 1
+    row_id: 10
+  - icelandic: trussel
+    english: ógn
+    level: 1
+    row_id: 11
+  - icelandic: skændes
+    english: þræta, rífast
+    level: 1
+    row_id: 12
+  - icelandic: besværlig
+    english: vandasamur, troublesome
+    level: 1
+    row_id: 13
+  - icelandic: hemmelighed
+    english: leyndarmál
+    level: 1
+    row_id: 14
+  - icelandic: overtro
+    english: hjátrú
+    level: 1
+    row_id: 15
+  - icelandic: forvirret
+    english: confused
+    level: 1
+    row_id: 16
+  - icelandic: tåbe
+    english: fool
+    level: 1
+    row_id: 17
+  - icelandic: hemmelig
+    english: secret
+    level: 1
+    row_id: 18
+  - icelandic: fjernbetjening
+    english: fjarstýring
+    level: 1
+    row_id: 19
+  - icelandic: skræmmende
+    english: daunting, frightening
+    level: 1
+    row_id: 20
+  - icelandic: forsømme
+    english: to neglect
+    level: 1
+    row_id: 21
+  - icelandic: det aner jeg ikke
+    english: hef ekki glóru
+    level: 1
+    row_id: 22
+  - icelandic: erstatte
+    english: to replace
+    level: 1
+    row_id: 23
+  - icelandic: benægte
+    english: að neita
+    level: 1
+    row_id: 24
+  - icelandic: herligt
+    english: lovely
+    level: 1
+    row_id: 25
+  - icelandic: alle tiders
+    english: great
+    level: 1
+    row_id: 26
+  - icelandic: pokkers
+    english: damn!
+    level: 1
+    row_id: 27
+  - icelandic: fælde
+    english: trap
+    level: 1
+    row_id: 28
+  - icelandic: erobre
+    english: conquer
+    level: 1
+    row_id: 29
+  - icelandic: ordentligt
+    english: correctly, properly, well
+    level: 1
+    row_id: 30
+  - icelandic: afspejle
+    english: endurspegla
+    level: 1
+    row_id: 31
+  - icelandic: aftale
+    english: samningur, samkomulag
+    level: 1
+    row_id: 32
+  - icelandic: aktie
+    english: hlutabréf
+    level: 1
+    row_id: 33
+  - icelandic: anklage
+    english: ásaka, kæra
+    level: 1
+    row_id: 34
+  - icelandic: ansette
+    english: ráða
+    level: 1
+    row_id: 35
+  - icelandic: ansvar
+    english: ábyrgð, umsjón
+    level: 1
+    row_id: 36
+  - icelandic: ansøgning
+    english: umsókn
+    level: 1
+    row_id: 37
+  - icelandic: beklage
+    english: kvarta, sárkvarta, ég harma það
+    level: 1
+    row_id: 38
+  - icelandic: bekræfte
+    english: játa, staðfesta
+    level: 1
+    row_id: 39
+  - icelandic: besynderlig
+    english: undarlegt
+    level: 1
+    row_id: 40
+  - icelandic: betryggende
+    english: tilhraustandi
+    level: 1
+    row_id: 41
+  - icelandic: blot
+    english: bara, aðeins
+    level: 1
+    row_id: 42
+  - icelandic: bolig
+    english: híbýli
+    level: 1
+    row_id: 43
+  - icelandic: erfaring
+    english: reynsla, lífsreynsla
+    level: 1
+    row_id: 44
+  - icelandic: erhvervsliv
+    english: einkageirinn, atvinnulíf
+    level: 1
+    row_id: 45
+  - icelandic: foretage
+    english: aðhafast
+    level: 1
+    row_id: 46
+  - icelandic: forhold
+    english: ástarsamband; lífskjör; hagur
+    level: 1
+    row_id: 47
+  - icelandic: forsinke
+    english: seinka
+    level: 1
+    row_id: 48
+  - icelandic: forslag
+    english: tillaga, drög, uppástunga
+    level: 1
+    row_id: 49
+  - icelandic: fratræde
+    english: segja af sér
+    level: 1
+    row_id: 50
+  - icelandic: gevær
+    english: byssa
+    level: 1
+    row_id: 51
+  - icelandic: hemmeligheder
+    english: leyndarmál
+    level: 1
+    row_id: 52
+  - icelandic: hensigtsmæssigt
+    english: viðeigandi
+    level: 1
+    row_id: 53
+  - icelandic: hjørne
+    english: horn á herbergi, krókur
+    level: 1
+    row_id: 54
+  - icelandic: indrømme
+    english: viðurkenna
+    level: 1
+    row_id: 55
+  - icelandic: kø
+    english: biðröð
+    level: 1
+    row_id: 56
+  - icelandic: ledsager
+    english: fylgarmaður
+    level: 1
+    row_id: 57
+  - icelandic: meningsmåling
+    english: viðhorfskönnun
+    level: 1
+    row_id: 58
+  - icelandic: nederlag
+    english: tap, ósigur
+    level: 1
+    row_id: 59
+  - icelandic: næse
+    english: áminning; nef
+    level: 1
+    row_id: 60
+  - icelandic: omsorgsfuld
+    english: umhyggjusamur
+    level: 1
+    row_id: 61
+  - icelandic: opfordre
+    english: hvetja
+    level: 1
+    row_id: 62
+  - icelandic: ordne
+    english: að græja, hagræða
+    level: 1
+    row_id: 63
+  - icelandic: overblik
+    english: heildarmynd, yfirsýn
+    level: 1
+    row_id: 64
+  - icelandic: overtrædelse
+    english: lögbrot
+    level: 1
+    row_id: 65
+  - icelandic: overveje
+    english: íhuga
+    level: 1
+    row_id: 66
+  - icelandic: overvåge
+    english: vakta
+    level: 1
+    row_id: 67
+  - icelandic: redegørelse
+    english: greinargerð
+    level: 1
+    row_id: 68
+  - icelandic: redigere
+    english: ritstýra
+    level: 1
+    row_id: 69
+  - icelandic: regering
+    english: ríkisstjórn, stjórnvöld
+    level: 1
+    row_id: 70
+  - icelandic: rydde op
+    english: taka til
+    level: 1
+    row_id: 71
+  - icelandic: rygte
+    english: orðrómur
+    level: 1
+    row_id: 72
+  - icelandic: ryste
+    english: hristast, skjálfa, nötra
+    level: 1
+    row_id: 73
+  - icelandic: stilling
+    english: staða, starf
+    level: 1
+    row_id: 74
+  - icelandic: strube
+    english: kverkar, háls
+    level: 1
+    row_id: 75
+  - icelandic: svigte
+    english: svíkja, bregðast
+    level: 1
+    row_id: 76
+  - icelandic: tavs
+    english: þögull
+    level: 1
+    row_id: 77
+  - icelandic: tude
+    english: væla, skæla, ýlfra
+    level: 1
+    row_id: 78
+  - icelandic: tøser
+    english: stelpur
+    level: 1
+    row_id: 79
+  - icelandic: udstyr
+    english: búnaður, græja
+    level: 1
+    row_id: 80
+  - icelandic: udtryk
+    english: tjáning
+    level: 1
+    row_id: 81
+  - icelandic: underleverandør
+    english: undirverktaki
+    level: 1
+    row_id: 82
+  - icelandic: vilkår
+    english: skilmáli
+    level: 1
+    row_id: 83
+  - icelandic: hykleri
+    english: hypocrisy
+    level: 1
+    row_id: 84
+  - icelandic: lejr
+    english: sumarbúðir
+    level: 1
+    row_id: 85
+  - icelandic: forstyrre
+    english: trufla
+    level: 1
+    row_id: 86
+  - icelandic: trække
+    english: að draga
+    level: 1
+    row_id: 87
+  - icelandic: trække vejret
+    english: að draga andann
+    level: 1
+    row_id: 88
+  - icelandic: udmærke
+    english: að vera frábær
+    level: 1
+    row_id: 89
+  - icelandic: plejehjem
+    english: nursing home
+    level: 1
+    row_id: 90
+  - icelandic: overfald
+    english: líkamsárás
+    level: 1
+    row_id: 91
+  - icelandic: ophidset
+    english: æstur
+    level: 1
+    row_id: 92
+  - icelandic: travlt
+    english: upptekinn
+    level: 1
+    row_id: 93
+  - icelandic: foragte
+    english: furirlíta
+    level: 1
+    row_id: 94
+  - icelandic: skraldespand
+    english: ruslatunna
+    level: 1
+    row_id: 95
+  - icelandic: snavs
+    english: óþverri, skítur, sori
+    level: 1
+    row_id: 96
+  - icelandic: krænkelse
+    english: brot
+    level: 1
+    row_id: 97
+  - icelandic: forarget
+    english: hneykslaður, vera ofboðið
+    level: 1
+    row_id: 98
+  - icelandic: mærkeligt
+    english: undarlegur
+    level: 1
+    row_id: 99
+  - icelandic: erklære
+    english: að lýsa yfir
+    level: 1
+    row_id: 100
+  - icelandic: middelmådig
+    english: average
+    level: 1
+    row_id: 101
+  - icelandic: knalde
+    english: ríða
+    level: 1
+    row_id: 102
+  - icelandic: skuffe
+    english: að svekkja, að spæla
+    level: 1
+    row_id: 103
+  - icelandic: be*tragte*
+    english: álíta
+    level: 1
+    row_id: 104
+  - icelandic: fo*redrag*
+    english: fyrirlestur, ræða
+    level: 1
+    row_id: 105
+  - icelandic: be*gejstret*
+    english: stórhrifinn, heillaður
+    level: 1
+    row_id: 106
+  - icelandic: tillid
+    english: trúnaður, traust
+    level: 1
+    row_id: 107
+  - icelandic: smutte
+    english: hverfa frá (jeg skal smutte)
+    level: 1
+    row_id: 108
+  - icelandic: antage
+    english: að reikna með, to assume, to suppose
+    level: 1
+    row_id: 109
+  - icelandic: til gengæld
+    english: hins vegar; í staðinn
+    level: 1
+    row_id: 110
+  - icelandic: ligestilling
+    english: equality
+    level: 1
+    row_id: 111
+  - icelandic: overbevist
+    english: confident
+    level: 1
+    row_id: 112
+  - icelandic: et f*irma*
+    english: a company
+    level: 1
+    row_id: 113
+  - icelandic: en v*irksomhed*
+    english: a company
+    level: 1
+    row_id: 114
+  - icelandic: regeringen
+    english: the government
+    level: 1
+    row_id: 115
+  - icelandic: at sigte efter
+    english: to aim for)
+    level: 1
+    row_id: 116
+  - icelandic: incitamenter
+    english: incentives
+    level: 1
+    row_id: 117
+  - icelandic: en mening
+    english: an opinion
+    level: 1
+    row_id: 118
+  - icelandic: vigtigt
+    english: important
+    level: 1
+    row_id: 119
+  - icelandic: haven
+    english: the garden
+    level: 1
+    row_id: 120
+  - icelandic: et mønster
+    english: a pattern
+    level: 1
+    row_id: 121
+  - icelandic: overbevisende
+    english: sannfærandi
+    level: 1
+    row_id: 122
+  - icelandic: målet
+    english: the goal
+    level: 1
+    row_id: 123
+  - icelandic: ud fra mit synspunkt
+    english: from my point of view
+    level: 1
+    row_id: 124
+  - icelandic: forudset
+    english: predicted
+    level: 1
+    row_id: 125
+  - icelandic: fantasi
+    english: imagination
+    level: 1
+    row_id: 126
+  - icelandic: programmør
+    english: forritari
+    level: 1
+    row_id: 127
+  - icelandic: adfærd
+    english: behaviour
+    level: 1
+    row_id: 128
+  - icelandic: antagelse
+    english: getgáta, ályktun, tilgáta
+    level: 1
+    row_id: 129
+  - icelandic: at ændre
+    english: to change
+    level: 1
+    row_id: 130
+  - icelandic: Skal vi sige at det er nok for idag!
+    english: segja þetta gott í dag?
+    level: 1
+    row_id: 131
+sound: []
