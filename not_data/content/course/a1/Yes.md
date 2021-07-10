@@ -5,7 +5,6 @@ vocabulary:
 - jú
 - nei
 - já já
-- jú jú
 - nei nei
 - á eftir
 ---
@@ -45,4 +44,3 @@ You can duplicate the words to be more casual. "Já já" means "yeah sure" like 
 == Recommendations ==
 
 * Listen to the 1992 [[w:Eurovision|Eurovision]] song [https://youtu.be/ELSuY9riUUY?t=28 '''Nei eða já'''] ([https://4lyrics.eu/esc/1992/heart-2-heart-nei-eda-ja/ lyrics]). The only parts of the lyrics you should focus on are "Nei eða já" (No or yes).
-

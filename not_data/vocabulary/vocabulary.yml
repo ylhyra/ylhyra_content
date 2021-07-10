@@ -4319,6 +4319,7 @@ rows:
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
     importance: "-1"
     row_id: 792
+    last_seen: "2021-07-10"
   - icelandic: Ég veit svo sem ekki alveg hvað ég ætla að gera.
     english: Well∆ I don't quite know what I intend to do.
     level: 3.2
@@ -5084,12 +5085,28 @@ rows:
     depends_on: vakandi
     row_id: 950
     last_seen: "2021-07-10"
-  - icelandic: Hvað er þetta eiginlega?
+  - icelandic: Hvað er þetta e*iginlega*?
+    english: What is this??
+    level: 3
+    alternative_id: eiginlega
+    note: "\"Eiginlega\" (literally meaning \"in actuality\") does not really mean anything here but serves to add emphasis / urgency / incredulity to your question, similar to writing \"??!\"."
     row_id: 951
-  - icelandic: Hvað þarftu eiginlega marga poka?
+    last_seen: "2021-07-10"
+  - icelandic: Hvað þarft{{u}} '''eiginlega''' marga poka?
+    english: "'''Hey∆ so∆''' how many bags do you need?"
+    level: 3
+    depends_on: eiginlega
+    direction: "->"
+    note: "\"Eiginlega\" only serves to add either emphasis or nonchalance to the question. Here it has a meaning similar to \"kind of\"."
     row_id: 952
-  - icelandic: Hvað ert{{u}} eiginlega að tala um?
+    last_seen: "2021-07-10"
+  - icelandic: Hvað ert{{u}} e*iginlega* að tala um?
+    english: What are you talking about??
+    level: 3
+    depends_on: eiginlega
+    note: "\"Eiginlega\" only serves to add emphasis / urgency / incredulity to this question, similar to writing \"??!\" or \"What the heck are you talking about?\""
     row_id: 953
+    last_seen: "2021-07-10"
   - icelandic: óx hratt
     row_id: 954
   - icelandic: pipar
@@ -5099,7 +5116,11 @@ rows:
     english: bell pepper; sweet pepper
     row_id: 956
   - icelandic: Passaðu þig!
+    english: "Watch out!; Be careful! (note: speaking to one person)"
+    level: 3
+    lemmas: að passa sig
     row_id: 957
+    last_seen: "2021-07-10"
   - icelandic: tilgangur
     english: purpose
     level: 3
@@ -5127,10 +5148,17 @@ rows:
     english: Today's my birthday.
     row_id: 963
   - icelandic: Hvenær átt{{u}} von á honum?
+    english: When are you expecting him?
+    level: 3
+    lemmas: að eiga von á
     row_id: 964
-  - icelandic: Ég á ekki von á því.
-    depends_on: að eiga von á einhverju
+    last_seen: "2021-07-10"
+  - icelandic: Hvenær er von á þér?
+    english: When are you to be expected?; When should I expect you to arrive?
+    level: 3
+    lemmas: að eiga von á
     row_id: 965
+    last_seen: "2021-07-10"
   - icelandic: Þú ræður.
     english: It's up to you.; You decide.
     row_id: 967
@@ -6912,13 +6940,12 @@ rows:
     row_id: 1366
     last_seen: "2021-07-02"
   - icelandic: meira
-    english: more
+    english: "more (note: uncountable)"
     level: 1
-    lemmas: meiri%
+    alternative_id: meiri
     note: "\"Meira\" is used for uncountable things like coffee and time, while \"fleira\" is used for countable things like apples and days."
-    note_regarding_english: Used when discussing uncountable things.
     row_id: 1367
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-10"
   - icelandic: flottur
     level: 2
     row_id: 1369
@@ -7766,12 +7793,13 @@ rows:
     row_id: 1539
     last_seen: "2021-07-09"
   - icelandic: Þetta er ágætt.
-    english: This is fine.; This is mostly okay.;; This is quite good.
+    english: This is quite good.;; This is fine.; This is mostly okay.
     level: 1
     lemmas: ágætur%
+    alternative_id: ágætt
     note: For older speakers "ágætt" means "quite good", but for younger speakers it means "sort of okay".
     row_id: 1540
-    last_seen: "2021-07-09"
+    last_seen: "2021-07-10"
   - icelandic: hér er ég - um mig
     english: here am I - about me
     level: 1
@@ -8002,7 +8030,7 @@ rows:
     last_seen: "2021-07-10"
   - icelandic: að eiga von á einhverju
     english: to expect something
-    level: 1
+    level: 3
     alternative_id: að eiga von á
     literally: to have hope on
     row_id: 1578
@@ -8297,6 +8325,112 @@ rows:
     lemmas: vín%
     row_id: 1627
     last_seen: "2021-07-10"
+  - icelandic: Ég er '''eiginlega''' upptekinn.
+    english: I'm '''actually kind of''' busy.
+    level: 3
+    depends_on: eiginlega
+    direction: "->"
+    row_id: 1628
+    last_seen: "2021-07-10"
+  - icelandic: Gj*örðu svo vel.*
+    english: Here you go!;; You're welcome.
+    level: 1
+    note: Said when handing an item to somebody or after having done something for someone, particularly if you work at a store or a restaurant. The word form "gjörðu" does not exist in modern Icelandic apart from in this phrase, modern Icelandic uses "gerðu" (do).
+    pronunciation: gjössovel
+    row_id: 1629
+    last_seen: "2021-07-10"
+  - icelandic: Næsti∆ gjörðu svo vel.
+    english: "Next∆ please. (note: as in \"Next customer∆ it's your turn\")"
+    level: 2
+    depends_on: gjörðu svo vel, næstur
+    row_id: 1630
+    last_seen: "2021-07-10"
+  - icelandic: hér er vika - um viku
+    english: here is a week - about a week
+    level: 1
+    row_id: 1631
+    last_seen: "2021-07-10"
+  - icelandic: hér er vinkona - um vinkonu
+    english: here is a female friend - about a female friend
+    level: 1
+    row_id: 1632
+    last_seen: "2021-07-10"
+  - icelandic: fleira
+    english: "more (note: countable)"
+    level: 1
+    dont_confuse: meira
+    note: "\"Meira\" is used for uncountable things like coffee and time, while \"fleira\" is used for countable things like apples and days."
+    row_id: 1633
+    last_seen: "2021-07-10"
+  - icelandic: ég get fengið
+    english: I can get
+    level: 1
+    lemmas: að fá
+    row_id: 1634
+    last_seen: "2021-07-10"
+  - icelandic: Get ég fengið hamborgara?
+    english: Can I get a hamburger?
+    level: 1
+    lemmas: að geta, að fá, hamborgari
+    row_id: 1635
+    last_seen: "2021-07-10"
+  - icelandic: Get ég fengið kaffi?
+    english: Can I get some coffee?
+    level: 1
+    lemmas: að geta, að fá, kaffi
+    row_id: 1636
+    last_seen: "2021-07-10"
+  - icelandic: Get ég fengið '''að*eins meira''' kaffi*?
+    english: Can I get '''just a little bit more''' coffee?
+    level: 1
+    lemmas: að geta, að fá
+    row_id: 1637
+    last_seen: "2021-07-10"
+  - icelandic: Eitthvað fleira?
+    english: Anything else?
+    level: 1
+    literally: something more?
+    row_id: 1638
+    last_seen: "2021-07-10"
+  - icelandic: fimm hundruð
+    level: 1
+    row_id: 1639
+  - icelandic: krónur
+    level: 1
+    row_id: 1640
+  - icelandic: Nei takk.
+    english: No thanks.
+    level: 1
+    alternative_id: Nei∆ takk.
+    row_id: 1641
+    last_seen: "2021-07-10"
+  - icelandic: ég veit
+    level: 1
+    row_id: 1643
+  - icelandic: þú veist
+    level: 1
+    row_id: 1644
+  - icelandic: hann veit
+    level: 1
+    row_id: 1645
+  - icelandic: ég veit það ekki
+    level: 1
+    row_id: 1646
+  - icelandic: þetta kaffi
+    level: 1
+    row_id: 1647
+  - icelandic: þessi hamborgari
+    level: 1
+    row_id: 1648
+  - icelandic: þegar
+    level: 1
+    row_id: 1649
+  - icelandic: til Íslands
+    level: 1
+    row_id: 1650
+  - icelandic: ha?
+    level: 1
+    row_id: 1651
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

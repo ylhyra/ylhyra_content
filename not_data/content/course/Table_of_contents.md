@@ -30,4 +30,3 @@ This is a short tutorial in Icelandic for a complete beginner.
 </TOC>
 
 <Image src="Börn_svarthvít.jpg"/>
-

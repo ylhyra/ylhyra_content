@@ -23,7 +23,7 @@ title: Project:Drafts/Course
 
 '''Day 2'''
 
-*👁 [[Course/A1/Introduction to cases|Introduction to cases]]
+*👁 [[Cases/Excercise 1|Introduction to cases]]
 *👁 [[Course/A1/Thanks|Thanks]]
 *👁 [[Course/A1/Good day|Good day]]
 *👁 [[Course/A1/Questions|Questions]]
@@ -80,4 +80,3 @@ title: Project:Drafts/Course
 *👁 [[Course/A1/Sko|Sko]]
 *👁 [[Course/A1/Want|Want]]
 *👁 [[Course/A1/Time|Time]]
-
