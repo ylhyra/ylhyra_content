@@ -4975,13 +4975,28 @@ rows:
     row_id: 921
     last_seen: "2021-07-02"
   - icelandic: Hvað skulda ég þér mikið?
+    english: How much do I owe you?
+    level: 3
+    depends_on: að skulda
     row_id: 922
+    last_seen: "2021-07-10"
   - icelandic: skuld
+    english: debt
+    level: 3
     row_id: 923
+    last_seen: "2021-07-10"
   - icelandic: að skulda
+    english: to owe _(money)_
+    level: 3
+    depends_on: skuld
     row_id: 924
+    last_seen: "2021-07-10"
   - icelandic: Hvernig er veðrið?
+    english: How's the weather?
+    level: 1
+    lemmas: veður
     row_id: 925
+    last_seen: "2021-07-10"
   - icelandic: ófríður
     level: 5
     show_hint: "yes"
@@ -7951,6 +7966,88 @@ rows:
     note: From "að bera saman við"
     row_id: 1573
     last_seen: "2021-07-09"
+  - icelandic: til dæmis
+    english: for example
+    level: 1
+    lemmas: dæmi
+    note: Abbreviated "t.d."
+    row_id: 1574
+    last_seen: "2021-07-10"
+  - icelandic: me*ðal annars*
+    english: among other things; as an example
+    level: 3
+    depends_on: meðal
+    lemmas: annar
+    note: "Used when listing examples: \"Einkennin eru ''meðal annars'' hiti og þreyta\" (\"Symptoms ''include'' fever and fatigue\"). Abbreviated as \"m.a.\""
+    row_id: 1575
+    last_seen: "2021-07-10"
+  - icelandic: og svo framvegis
+    english: and so on and so forth
+    level: 3
+    depends_on: fram, vegur
+    note: Abbreviated as "o.s.frv."
+    row_id: 1576
+    last_seen: "2021-07-10"
+  - icelandic: að ge*ra ráð fyrir einhverju*
+    english: to assume something;; to assume that something is likely when making plans
+    level: 3
+    alternative_id: að gera ráð fyrir
+    row_id: 1577
+    last_seen: "2021-07-10"
+  - icelandic: að eiga von á einhverju
+    english: to expect something
+    level: 1
+    alternative_id: að eiga von á
+    literally: to have hope on
+    row_id: 1578
+    last_seen: "2021-07-10"
+  - icelandic: ke*nnitala*
+    english: Icelandic national identification number
+    level: 3
+    depends_on: tala
+    note: Abbreviated "k.t."
+    row_id: 1579
+    last_seen: "2021-07-10"
+  - icelandic: re*ikningsnúmer*
+    english: a bank account number
+    level: 3
+    depends_on: reikningur, númer
+    related_items: kennitala
+    note: Abbreviated "r.n.". To receive money in Iceland you have to list your kennitala (k.t.) and reikningsnúmer (r.n.).
+    row_id: 1580
+    last_seen: "2021-07-10"
+  - icelandic: til Reykjavíkur
+    english: to Reykjavík
+    level: 1
+    depends_on: vík
+    lemmas: Reykjavík
+    note: Vík is a feminine noun.
+    row_id: 1581
+    last_seen: "2021-07-10"
+  - icelandic: til hægri
+    english: to the right
+    level: 1
+    alternative_id: hægri
+    row_id: 1582
+    last_seen: "2021-07-10"
+  - icelandic: til vinstri
+    english: to the left
+    level: 1
+    alternative_id: vinstri
+    row_id: 1583
+    last_seen: "2021-07-10"
+  - icelandic: það er að segja
+    english: that is to say
+    level: 3
+    note_regarding_english: Used when rewording or being more exact about something you just said.
+    row_id: 1584
+    last_seen: "2021-07-10"
+  - icelandic: Ég átti ekki von á því.
+    english: I didn't expect it.
+    level: 3
+    lemmas: að eiga von á
+    row_id: 1585
+    last_seen: "2021-07-10"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
