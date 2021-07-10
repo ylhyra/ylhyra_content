@@ -557,22 +557,26 @@ rows:
     english: I'm bored.
     level: 2.9
     depends_on: að leiðast, leiðinlegur
-    lemmas: að leiðast
+    lemmas: að leiðast%
     row_id: 106
+    last_seen: "2021-07-10"
   - icelandic: Okkur leiðist.
     english: We are bored.
     level: 3
     depends_on: Mér leiðist.
     lemmas: að leiðast
+    dont_confuse: Við leiðumst.
     row_id: 107
+    last_seen: "2021-07-10"
   - icelandic: Við leiðumst.
-    english: We are holding hands.; We are holding each other's hand.
+    english: We are walking hand in hand.; We are walking while holding each other's hand.
     level: 3.3
     depends_on: að leiða
     lemmas: að leiðast
     dont_confuse: Okkur leiðist.
-    note: The [[impersonal]] "okkur leiðist" means "we are bored", but the personal "við leiðumst" means "we hold hands".
+    note: The [[impersonal]] "okkur leiðist" means "we are bored", but the personal "við leiðumst" means "we walk while holding hands".
     row_id: 108
+    last_seen: "2021-07-10"
   - icelandic: Þetta er leiðinlegt.
     english: This is boring.; This is tedious.
     level: 1
@@ -3944,9 +3948,9 @@ rows:
     english: here
     level: 1
     dont_confuse: þarna, hár
-    note: "\"Hérna\" is more common in spoken language while \"hér\" is more common in written language. They are usually synonymous, but there can be a slight difference with \"hérna\" referring to a specific location (\"over here\") and \"hér\" referring to an imprecise general area."
+    note: "\"Hérna\" is more common in spoken language while \"hér\" is more common in written language. They are usually synonymous, but there can be a slight difference with \"hérna\" referring to a specific location (\"over here\") and \"hér\" referring to an imprecise general area. \"Hérna\" is also an extremely common filler word like \"uhh\"."
     row_id: 724
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-10"
   - icelandic: þarna; þar
     english: there
     level: 1
@@ -7111,10 +7115,6 @@ rows:
     level: 2
     row_id: 1411
     last_seen: "2021-07-02"
-  - icelandic: að leiðast
-    level: 2
-    row_id: 1412
-    last_seen: "2021-07-02"
   - icelandic: hiti
     english: heat; warmth;; fever
     level: 2
@@ -8156,6 +8156,146 @@ rows:
     lemmas: humar%
     note: What is known as a "lobster" in Iceland is a small pink lobster (langoustine) that is only slightly bigger than a shrimp.
     row_id: 1601
+    last_seen: "2021-07-10"
+  - icelandic: k*arl*
+    english: a man;; an old man
+    level: 2
+    alternative_id: kall
+    note: Can also be written as "kall", which is how it is pronounced. "Karlar" can invoke an image of older, rugged men while "menn" is neutral.
+    row_id: 1602
+    last_seen: "2021-07-10"
+  - icelandic: k*arl*m*aður*
+    english: a man
+    level: 2
+    depends_on: karl, maður
+    note: Since "maður" can mean "human" and "karl" can mean "an old rugged man", "karlmaður" is an unambiguous neutral (or formal) way to describe someone as being a man. As an example, police reports use "karlmaður".
+    row_id: 1603
+    last_seen: "2021-07-10"
+  - icelandic: d*rengur*
+    english: a boy; a lad
+    level: 4
+    depends_on: strákur
+    note: A more formal / poetic synonym of "strákur".
+    row_id: 1605
+    last_seen: "2021-07-10"
+  - icelandic: s*túl*ka
+    english: "a girl; a lass (note: formal)"
+    level: 4
+    depends_on: stelpa
+    note: A more formal / poetic synonym of "stelpa".
+    row_id: 1606
+    last_seen: "2021-07-10"
+  - icelandic: stelpa
+    english: a girl
+    level: 1
+    row_id: 1607
+    last_seen: "2021-07-10"
+  - icelandic: strákur
+    english: a boy
+    level: 1
+    row_id: 1608
+    last_seen: "2021-07-10"
+  - icelandic: Ég veit ekki hver það er.
+    english: I don't know who that is.
+    level: 1
+    lemmas: að vita
+    row_id: 1610
+    last_seen: "2021-07-10"
+  - icelandic: Oj!
+    english: Ew!; Disgusting!
+    level: 1
+    alternative_id: oj
+    row_id: 1611
+    last_seen: "2021-07-10"
+  - icelandic: Vá!
+    english: Wow!
+    level: 1
+    row_id: 1612
+    last_seen: "2021-07-10"
+  - icelandic: að vera eftir
+    english: to remain
+    level: 1
+    row_id: 1613
+  - icelandic: í staðinn fyrir
+    english: instead of
+    level: 1
+    row_id: 1614
+  - icelandic: núll
+    english: zero
+    level: 1
+    row_id: 1615
+    last_seen: "2021-07-10"
+  - icelandic: mínus
+    english: "minus (note: mathematics)"
+    level: 2
+    row_id: 1616
+    last_seen: "2021-07-10"
+  - icelandic: plús
+    english: "plus (note: mathematics)"
+    level: 2
+    row_id: 1617
+    last_seen: "2021-07-10"
+  - icelandic: vinstra megin
+    english: on the left side
+    level: 2
+    lemmas: vinstri
+    alternative_id: megin
+    note: "\"Megin\" is an [[adverb]] indicating a side."
+    row_id: 1618
+    last_seen: "2021-07-10"
+  - icelandic: hægra megin
+    english: on the right side
+    level: 2
+    lemmas: hægri
+    note: "\"Megin\" is an [[adverb]] indicating a side."
+    row_id: 1619
+    last_seen: "2021-07-10"
+  - icelandic: Er ég fyrir þér?
+    english: Am I in your way?; Am I blocking your path?
+    level: 1
+    lemmas: að vera fyrir%
+    row_id: 1620
+    last_seen: "2021-07-10"
+  - icelandic: heyrðu
+    english: "\"Uhh, so\", \"Hey, so ...\" Used to get someone's attention or to indicate that you are about to switch to another point of conversation."
+    level: 1
+    row_id: 1621
+  - icelandic: Er taskan mín megin eða þín megin?
+    english: "Is the suitcase on my side or on your side? (note: of the airplane aisle)"
+    level: 3
+    depends_on: megin, taska
+    fix: klunnalegt
+    row_id: 1622
+    last_seen: "2021-07-10"
+  - icelandic: vatnið
+    english: the water
+    level: 1
+    lemmas: vatn
+    row_id: 1623
+    last_seen: "2021-07-10"
+  - icelandic: að framleiða
+    english: to produce; to manufacture
+    level: 4
+    depends_on: fram
+    row_id: 1624
+    last_seen: "2021-07-10"
+  - icelandic: framleiðandinn
+    english: the manufacturer
+    level: 4
+    lemmas: framleiðandi%
+    row_id: 1625
+    last_seen: "2021-07-10"
+  - icelandic: bjórinn
+    english: the beer
+    level: 1
+    lemmas: bjór%
+    row_id: 1626
+    last_seen: "2021-07-10"
+  - icelandic: vínið
+    english: the wine
+    level: 1
+    lemmas: vín%
+    row_id: 1627
     last_seen: "2021-07-10"
 sound:
   - recording_of: níu sinnum

@@ -4,6 +4,14 @@ redirects:
 - Ylhýra
 ---
 
+<div style="
+  background: #f09f9f;
+  padding: 8px 12px;
+  border: 1px solid #ce8d8d;
+  border-radius: 5px;">
+This is a testing site for the next version of Ylhýra. It contains some bugs and non-functioning links.
+</div>
+
 <Frontpage/>
 
 <div id="frontpage-splash-screen">
@@ -51,4 +59,3 @@ redirects:
 <div style="font-size:94%">'''[[explanations|<span style="color:black">Recent explanatory material</span>]]'''</div>
 {{Project:Newest}}
 -->
-
