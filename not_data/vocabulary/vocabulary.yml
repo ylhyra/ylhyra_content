@@ -4170,16 +4170,12 @@ rows:
     level: 2
     depends_on: vinna
     row_id: 762
-  - icelandic: fyrirtæki
-    english: a company
-    level: 3
-    dont_confuse: tæki
-    row_id: 763
   - icelandic: fyrirtækið
     english: the company
     level: 3
-    depends_on: fyrirtæki
+    lemmas: fyrirtæki%
     row_id: 764
+    last_seen: "2021-07-10"
   - icelandic: Ég á erfitt með að trúa því.
     english: I find that difficult to believe.
     level: 2.9
@@ -4329,11 +4325,12 @@ rows:
     row_id: 793
   - icelandic: Fyrirtækið fór á hausinn.
     english: The company went bankrupt.
-    level: 3.3
+    level: 5
     depends_on: fyrirtæki, haus
     lemmas: að fara á hausinn
     alternative_id: að fara á hausinn
     row_id: 794
+    last_seen: "2021-07-10"
   - icelandic: að sýna
     english: to show someone something
     level: 1.9
@@ -5044,7 +5041,11 @@ rows:
   - icelandic: Þú ert sá fyrsti sem segir þetta.
     row_id: 938
   - icelandic: Það er bannað.
+    english: It is forbidden.
+    level: 3
+    lemmas: að banna
     row_id: 939
+    last_seen: "2021-07-10"
   - icelandic: Það má ekki.
     english: It's not allowed.
     level: 2
@@ -5074,7 +5075,11 @@ rows:
     row_id: 949
     last_seen: "2021-07-09"
   - icelandic: Ég er glaðvakandi.
+    english: I am wide awake.; I am fully awake.
+    level: 3.5
+    depends_on: vakandi
     row_id: 950
+    last_seen: "2021-07-10"
   - icelandic: Hvað er þetta eiginlega?
     row_id: 951
   - icelandic: Hvað þarftu eiginlega marga poka?
@@ -5122,8 +5127,6 @@ rows:
   - icelandic: Ég á ekki von á því.
     depends_on: að eiga von á einhverju
     row_id: 965
-  - icelandic: að eiga von á einhverju
-    row_id: 966
   - icelandic: Þú ræður.
     english: It's up to you.; You decide.
     row_id: 967
@@ -5576,7 +5579,9 @@ rows:
     row_id: 1077
   - icelandic: að reka fyrirtæki
     english: to run a company
+    level: 3.5
     row_id: 1078
+    last_seen: "2021-07-10"
   - icelandic: að reka einhvern
     english: to fire someone (from their job)
     dont_confuse: að reka fyrirtæki
@@ -6423,8 +6428,9 @@ rows:
     english: It is difficult.
     level: 1
     lemmas: erfiður%
+    alternative_id: erfitt
     row_id: 1266
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-10"
   - icelandic: „Kæri Gunnar∆ ...“
     english: "\"Dear Gunnar∆ ...\""
     level: 1
@@ -8005,22 +8011,22 @@ rows:
     english: Icelandic national identification number
     level: 3
     depends_on: tala
-    note: Abbreviated "k.t."
+    note: Abbreviated "kt."
     row_id: 1579
     last_seen: "2021-07-10"
   - icelandic: re*ikningsnúmer*
     english: a bank account number
     level: 3
-    depends_on: reikningur, númer
+    depends_on: reikningur, númer, kennitala
     related_items: kennitala
-    note: Abbreviated "r.n.". To receive money in Iceland you have to list your kennitala (k.t.) and reikningsnúmer (r.n.).
+    note: Abbreviated "rn.". To receive money in Iceland you have to list your kennitala (kt.) and reikningsnúmer (rn.).
     row_id: 1580
     last_seen: "2021-07-10"
   - icelandic: til Reykjavíkur
     english: to Reykjavík
     level: 1
     depends_on: vík
-    lemmas: Reykjavík
+    lemmas: Reykjavík%
     note: Vík is a feminine noun.
     row_id: 1581
     last_seen: "2021-07-10"
@@ -8047,6 +8053,109 @@ rows:
     level: 3
     lemmas: að eiga von á
     row_id: 1585
+    last_seen: "2021-07-10"
+  - icelandic: Átt{{u}} von á einhverjum?
+    english: Are you expecting someone?
+    level: 3
+    lemmas: að eiga von á
+    row_id: 1586
+    last_seen: "2021-07-10"
+  - icelandic: Takk∆ sömuleiðis.
+    english: Thanks∆ you too.
+    level: 1
+    depends_on: sömuleiðis, takk
+    note: Used when replying to someone's thanks or compliments.
+    literally: Thanks∆ likewise.
+    row_id: 1587
+    last_seen: "2021-07-10"
+  - icelandic: s*ömuleiðis*
+    english: likewise; I will reply in the same manner as you just did
+    level: 1
+    depends_on: samur, leið
+    literally: of the same way
+    row_id: 1588
+    last_seen: "2021-07-10"
+  - icelandic: Takk.
+    english: Thanks.
+    level: 1
+    row_id: 1589
+    last_seen: "2021-07-10"
+  - icelandic: Takk fyrir.
+    english: Thank you.
+    level: 1
+    note: This is the reply you should use when someone hands you something, does something for you, or compliments you. It is warmer than a simple "takk".
+    literally: thanks for [...]
+    row_id: 1590
+    last_seen: "2021-07-10"
+  - icelandic: fyrirtækin
+    english: the companies
+    level: 1
+    lemmas: fyrirtæki
+    row_id: 1591
+    last_seen: "2021-07-10"
+  - icelandic: tækið
+    english: the apparatus; the tool; the machine
+    level: 1
+    lemmas: tæki%
+    row_id: 1592
+    last_seen: "2021-07-10"
+  - icelandic: a*f hverju?*
+    english: why?
+    level: 1
+    lemmas: hvað
+    literally: of what? (as in "of what reason")
+    pronunciation: akkuru
+    row_id: 1593
+    last_seen: "2021-07-10"
+  - icelandic: h*vers vegna?*
+    english: why?
+    level: 1
+    depends_on: vegna, af hverju
+    lemmas: hvað
+    note: Slightly more formal than "af hverju".
+    literally: because of what?
+    row_id: 1594
+    last_seen: "2021-07-10"
+  - icelandic: þorskur
+    english: "cod (note: a type of white fish that is commonly eaten in Iceland)"
+    level: 3
+    row_id: 1595
+    last_seen: "2021-07-10"
+  - icelandic: ýsa
+    english: "haddock (note: a type of white fish that is commonly eaten in Iceland)"
+    level: 3
+    row_id: 1596
+    last_seen: "2021-07-10"
+  - icelandic: harðfiskur
+    english: dried fish; fish jerky
+    level: 1
+    depends_on: fiskur, harður
+    row_id: 1597
+    last_seen: "2021-07-10"
+  - icelandic: laxinn
+    english: "the salmon (note: a type of fish)"
+    level: 3
+    lemmas: lax%
+    row_id: 1598
+    last_seen: "2021-07-10"
+  - icelandic: súpan
+    english: the soup
+    level: 1
+    lemmas: súpa%
+    row_id: 1599
+    last_seen: "2021-07-10"
+  - icelandic: rækjan
+    english: the shrimp; the prawn
+    level: 3
+    lemmas: rækja%
+    row_id: 1600
+    last_seen: "2021-07-10"
+  - icelandic: humarinn
+    english: the lobster;; the langoustine
+    level: 4
+    lemmas: humar%
+    note: What is known as a "lobster" in Iceland is a small pink lobster (langoustine) that is only slightly bigger than a shrimp.
+    row_id: 1601
     last_seen: "2021-07-10"
 sound:
   - recording_of: níu sinnum
