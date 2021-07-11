@@ -6601,8 +6601,8 @@ rows:
     level: 1
     row_id: 1294
     last_seen: "2021-07-02"
-  - icelandic: eitt orð – mörg orð
-    english: one word – many words
+  - icelandic: eitt orð - mörg orð
+    english: one word - many words
     level: 1
     depends_on: einn, margur
     alternative_id: orð
@@ -8405,8 +8405,11 @@ rows:
     row_id: 1641
     last_seen: "2021-07-10"
   - icelandic: ég veit
+    english: I know
     level: 1
+    lemmas: að vita
     row_id: 1643
+    last_seen: "2021-07-11"
   - icelandic: þú veist
     level: 1
     row_id: 1644
@@ -8426,11 +8429,215 @@ rows:
     level: 1
     row_id: 1649
   - icelandic: til Íslands
+    english: to Iceland
     level: 1
+    lemmas: Ísland
     row_id: 1650
+    last_seen: "2021-07-11"
   - icelandic: ha?
     level: 1
     row_id: 1651
+  - icelandic: hér eru nokkrir menn
+    english: here are a few men
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1652
+    last_seen: "2021-07-10"
+  - icelandic: um nokkra menn
+    english: about a few men
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1653
+    last_seen: "2021-07-10"
+  - icelandic: frá nokkrum mönnum
+    english: from a few men
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1654
+    last_seen: "2021-07-10"
+  - icelandic: til nokkurra manna
+    english: to a few men
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1655
+    last_seen: "2021-07-10"
+  - icelandic: hér eru nokkrar konur
+    english: here are a few women
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1656
+    last_seen: "2021-07-10"
+  - icelandic: um nokkrar konur
+    english: about a few women
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1657
+    last_seen: "2021-07-10"
+  - icelandic: frá nokkrum konum
+    english: from a few women
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1658
+    last_seen: "2021-07-10"
+  - icelandic: til nokkurra kvenna
+    english: to a few women
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1659
+    last_seen: "2021-07-10"
+  - icelandic: hér eru nokkur börn
+    english: here are a few children
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1660
+    last_seen: "2021-07-10"
+  - icelandic: um nokkur börn
+    english: about a few children
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1661
+    last_seen: "2021-07-10"
+  - icelandic: frá nokkrum börnum
+    english: from a few children
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1662
+    last_seen: "2021-07-10"
+  - icelandic: til nokkurra barna
+    english: to a few children
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1663
+    last_seen: "2021-07-10"
+  - icelandic: Ég kem eftir nokkra daga.
+    english: I'll come in a few days.
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1664
+    last_seen: "2021-07-10"
+  - icelandic: Þetta verður nokkurra daga ferðalag.
+    english: This will be a few days' trip.
+    level: 2.5
+    lemmas: nokkur, dagur
+    row_id: 1665
+    last_seen: "2021-07-10"
+  - icelandic: eftir nokkrar vikur
+    english: in a few weeks
+    level: 2.5
+    lemmas: nokkur, vika
+    row_id: 1666
+    last_seen: "2021-07-10"
+  - icelandic: Ég á nokkra vini á Íslandi.
+    english: I have a few friends in Iceland.
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1667
+    last_seen: "2021-07-10"
+  - icelandic: Nokkrir vinir mínir eru í heimsókn.
+    english: A few of my friends are over for a visit.
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1668
+    last_seen: "2021-07-10"
+  - icelandic: eftir nokkur ár
+    english: in a few years
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1669
+    last_seen: "2021-07-10"
+  - icelandic: fyrir nokkrum árum
+    english: a few years ago
+    level: 2.5
+    lemmas: nokkur, ár
+    row_id: 1670
+    last_seen: "2021-07-10"
+  - icelandic: Það eru nokkrir staðir sem mig langar að heimsækja.
+    english: There are a few places that I want to visit.
+    level: 2.5
+    lemmas: nokkur, staður
+    row_id: 1671
+    last_seen: "2021-07-10"
+  - icelandic: Langar þig að græða nokkra þúsundkalla?
+    english: Do you want to make a few bucks (ISK 1.000)?
+    level: 2.5
+    depends_on: að græða
+    lemmas: nokkur, þúsundkall
+    note: Þúsundkall is a ISK 1.000 bill.
+    row_id: 1672
+    last_seen: "2021-07-10"
+  - icelandic: Þetta tekur nokkra mánuði.
+    english: This will take a few months.
+    level: 2.5
+    lemmas: nokkur
+    row_id: 1673
+    last_seen: "2021-07-10"
+  - icelandic: Ég er ekki búinn að borða neitt nema harðfisk í nokkra daga.
+    english: I haven't eaten anything apart from fish jerky for a few days.
+    level: 2.5
+    lemmas: neinn, harðfiskur, nokkur
+    row_id: 1674
+    last_seen: "2021-07-10"
+  - icelandic: Ég eyddi nokkrum dögum í þetta.
+    english: I spent a few days on this.
+    level: 2.5
+    depends_on: dagur
+    lemmas: að eyða, nokkur
+    row_id: 1675
+    last_seen: "2021-07-10"
+  - icelandic: Ég mæli með að horfa á nokkra þætti á íslensku.
+    english: I recommend watching a few TV shows in Icelandic.
+    level: 2.5
+    depends_on: að mæla með
+    lemmas: nokkur, þáttur
+    row_id: 1676
+    last_seen: "2021-07-10"
+  - icelandic: Ég ætla að kíkja niður í bæ með nokkrum vinum mínum.
+    english: I'm going to go for a quick visit downtown with a few friends.
+    level: 2.5
+    depends_on: bær
+    lemmas: nokkur
+    row_id: 1677
+    last_seen: "2021-07-10"
+  - icelandic: nokkrum sinnum á dag
+    english: a few times per day
+    level: 2.5
+    depends_on: dagur
+    lemmas: nokkur
+    row_id: 1678
+    last_seen: "2021-07-10"
+  - icelandic: Hún mætti nokkrum mínútum á undan þér.
+    english: She showed up a few minutes before you.
+    level: 2.5
+    depends_on: að mæta, á undan
+    lemmas: nokkur
+    row_id: 1679
+    last_seen: "2021-07-10"
+  - icelandic: Ég hef sagt þér þetta nokkrum sinnum áður.
+    english: I have told you this a few times before.
+    level: 2.5
+    depends_on: sinnum, áður
+    lemmas: nokkur
+    row_id: 1680
+    last_seen: "2021-07-10"
+  - icelandic: Það er nokkurra klukkutíma bið.
+    english: There is a few hours' wait.; There is a few hours' delay.
+    level: 2.5
+    lemmas: nokkur, bið
+    row_id: 1681
+    last_seen: "2021-07-10"
+  - icelandic: Ég geri þetta á nokkurra mánaða fresti.
+    english: I do this every few months.
+    level: 2.5
+    lemmas: nokkur, mánuður, frestur
+    row_id: 1682
+    last_seen: "2021-07-10"
+  - icelandic: Þú verður að gefa mér nokkurra mínútna fyrirvara.
+    english: You will have to give me a few minutes' notice.
+    level: 2.5
+    depends_on: mínúta
+    lemmas: nokkur, fyrirvari
+    row_id: 1683
+    last_seen: "2021-07-10"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
