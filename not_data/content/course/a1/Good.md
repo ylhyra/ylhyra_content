@@ -16,10 +16,10 @@ hún er
 það er
 Hann er góður í íslensku.
 Er hún góð í íslensku?
-- Hún er mjög góð í íslensku.
-- Hann er ekki góður í íslensku.
-- Er mamma þín góð í íslensku?
-- Mamma mín er mjög góð í íslensku.
+Hún er mjög góð í íslensku.
+Hann er ekki góður í íslensku.
+Er mamma þín góð í íslensku?
+Mamma mín er mjög góð í íslensku.
 </vocabulary>
 
 ==I==

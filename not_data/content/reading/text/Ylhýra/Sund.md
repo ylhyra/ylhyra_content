@@ -29,24 +29,24 @@ að spjalla
 að synda
 að taka
 að vera
-- að vera með
-- að vera þess virði
-- að þurfa
-- að þvo
-- Evrópa
-- fólk
-- handklæði
-- heitt
-- heitur pottur
-- hver einasti
-- hægt
-- krónur
-- margir
-- maður
-- minna
-- mjög
-- mér finnst
-- nakinn
+að vera með
+að vera þess virði
+að þurfa
+að þvo
+Evrópa
+fólk
+handklæði
+heitt
+heitur pottur
+hver einasti
+hægt
+krónur
+margir
+maður
+minna
+mjög
+mér finnst
+nakinn
 - næstum því
 - oft
 - pottur

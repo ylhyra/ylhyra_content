@@ -16,10 +16,10 @@ mig langar
 hana langar
 hann langar
 mig langar í hamborgara
-- kartöflur
-- franskar kartöflur
-- heimsókn
-- allt í lagi
+kartöflur
+franskar kartöflur
+heimsókn
+allt í lagi
 </vocabulary>
 
 ==Want==

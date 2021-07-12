@@ -2,22 +2,12 @@
 title: Course/Doing
 ---
 <vocabulary>
-að gera
-að læra
-að borða
-ekki
-hamborgari
-Þú ert að læra.
-Mamma mín er að borða hamborgara.
-Hvað ert þú að læra?
-Þú ert ekki að læra íslensku.
-Ert þú ekki að læra íslensku?
-Er mamma mín ekki að borða hamborgara?
-Hvað ert þú að gera?
-Ert þú að læra?
-Ert þú að læra íslensku?
-- Ég er ekki að borða hamborgara.
-- Þú ert að borða hamborgara.
+Ég er að vinna.
+Hvað ert{{u}} að gera?
+Ég er að elda.
+Ég er að borða.
+Hvað ert{{u}} að læra?
+Ég er að læra íslensku.
 </vocabulary>
 
 ==The basic form of verbs==

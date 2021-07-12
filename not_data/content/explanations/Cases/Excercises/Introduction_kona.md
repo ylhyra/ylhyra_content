@@ -20,11 +20,11 @@ Hún er vinkona mín.
 Ég kann íslensku.
 hér er vinkona um vinkonu
 Ég kann ekki ensku.
-- Ég ætla að borða pítsu í kvöld.
-- Þetta var góð vika.
-- Þetta var erfið vika.
-- Vinkona mín borðar ekki pítsu.
-- Viltu pítsu?
+Ég ætla að borða pítsu í kvöld.
+Þetta var góð vika.
+Þetta var erfið vika.
+Vinkona mín borðar ekki pítsu.
+Viltu pítsu?
 </vocabulary>
 
 # Introduction to cases

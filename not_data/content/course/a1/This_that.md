@@ -2,6 +2,7 @@
 title: Course/This - that
 ---
 <vocabulary>
+Hvað er þetta?
 það
 þetta
 Þetta er gott.

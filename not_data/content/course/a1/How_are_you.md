@@ -16,9 +16,9 @@ En þú?
 mamma
 mamma mín
 mamma þín
-- það
-- það er
-- líka
+það
+það er
+líka
 </vocabulary>
 
 ==Hi==

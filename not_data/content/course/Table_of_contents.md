@@ -5,7 +5,7 @@ title: Course
 This is a short beginner-level tutorial in Icelandic.
 
 <TOC>
-- Unit 1
+- Unit {{incr}}
   - Course/How are you
   - Course/This - that
   - Course/Good
@@ -13,23 +13,25 @@ This is a short beginner-level tutorial in Icelandic.
   - Course/Greetings
   - Course/You are going to
   - Course/Yes
-  - <!-- ... -->
-  - <!-- ... -->
-  - <!-- ... -->
-  - Course/Doing
-  - Course/When?
+- Unit {{incr}}
   - Course/I know
+  - Course/I know how to
   - Course/Live
-- Unit 2
+  - <!-- ... -->
+  - <!-- ... -->
+  - <!-- ... -->
+  - Course/When?
+- Unit {{incr}}
   - Course/I like
   - Course/Want
   - Course/Ordering food
+  - Course/Doing
   - Course/Why?
   - Course/To watch
   - Course/How?
   - Course/Introduction to cases
   - Course/To own
-- Unit 4
+- Unit {{incr}}
   - Course/The
 </TOC>
 

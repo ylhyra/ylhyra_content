@@ -2,22 +2,18 @@
 title: Course/Live
 ---
 <vocabulary>
-hérna, hér
-heima
+hérna
 að búa
 ég bý
-þú býrð
-hann býr
-frekar
-lengi
-norður
+Ég bý á Íslandi.
+Ég bý í Reykjavík.
+Það er gott að búa á Íslandi.
+Er gott að búa í Reykjavík?
+Hvar ætlarðu að búa?
+Ég bý einn.
 Ég bý hérna.
 Ég bý ekki hérna.
-Mamma þín býr í Boston.
-Mamma þín býr ekki í Boston.
-Það er gott að búa í Reykjavík.
-- Ég veit það ekki alveg.
-- Það er frekar gott.
+Mamma mín veit hvar ég bý.
 </vocabulary>
 
 ==Uhm...==
@@ -64,4 +60,3 @@ me: Hvar er það?
 you: Það er á Norður-Íslandi.
 me: Ah. Er gott að búa á Akureyri.
 you: Já, það er frekar gott að búa hérna.
-
