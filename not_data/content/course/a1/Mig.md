@@ -1,6 +1,7 @@
 ---
-title: Course/Mig
+title: Course/Second case of the personal pronouns
 ---
+
 <vocabulary>
 hér er ég - um mig
 hér ert þú - um þig
@@ -14,9 +15,12 @@ Auðvitað langar mig að tala við þig.
 <!-- Langar þig að elda fyrir mig? -->
 Stundum skil ég þig ekki.
 <!-- Get ég fengið að tala við þig? -->
+hér er hún - um hana
+hér er hann - um hann
+hér er það - um það
 að hitta
-Ég ætla að hitta hana á eftir.
-Mig langar að hitta hann.
 Ertu að tala um hann?
+Ætlar{{ðu}} að tala við hann?
 Langar þig að hitta hana?
+Hana langar að hitta þig.
 </vocabulary>

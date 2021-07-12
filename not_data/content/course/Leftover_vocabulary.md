@@ -22,6 +22,7 @@ Já, en ekki alltaf.
 Hvað langar þig í?
 Mig langar í hamborgara.
 Langar þig líka í pítsu?
+<!-- bolli -->
 
 kannski
 í kvöld
