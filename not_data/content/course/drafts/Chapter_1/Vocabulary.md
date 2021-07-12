@@ -1,6 +1,5 @@
 ---
 title: Chapter 1/Vocabulary
-vocabulary:
 ---
 
 {{describe image

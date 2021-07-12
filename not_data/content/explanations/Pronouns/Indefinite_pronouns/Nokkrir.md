@@ -1,21 +1,22 @@
 ---
 title: Nokkrir
 level: A2
-vocabulary:
-- hér eru nokkrir menn
-- um nokkra menn
-- frá nokkrum mönnum
-- til nokkurra manna
-- hér eru nokkrar konur
-- um nokkrar konur
-- frá nokkrum konum
-- til nokkurra kvenna
-- hér eru nokkur börn
-- um nokkur börn
-- frá nokkrum börnum
-- til nokkurra barna
-- Ég kem eftir nokkra daga.
-- Þetta verður nokkurra daga ferðalag.
+---
+<vocabulary>
+hér eru nokkrir menn
+um nokkra menn
+frá nokkrum mönnum
+til nokkurra manna
+hér eru nokkrar konur
+um nokkrar konur
+frá nokkrum konum
+til nokkurra kvenna
+hér eru nokkur börn
+um nokkur börn
+frá nokkrum börnum
+til nokkurra barna
+Ég kem eftir nokkra daga.
+Þetta verður nokkurra daga ferðalag.
 - eftir nokkrar vikur
 - Ég á nokkra vini á Íslandi.
 - Nokkrir vinir mínir eru í heimsókn.
@@ -34,7 +35,7 @@ vocabulary:
 - Það er nokkurra klukkutíma bið.
 - Ég geri þetta á nokkurra mánaða fresti.
 - Þú verður að gefa mér nokkurra mínútna fyrirvara.
----
+</vocabulary>
 
 # Nokkrir
 

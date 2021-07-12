@@ -1,13 +1,14 @@
 ---
 title: Course/Yes
-vocabulary:
-- já
-- jú
-- nei
-- já já
-- nei nei
-- á eftir
 ---
+<vocabulary>
+já
+jú
+nei
+já já
+nei nei
+á eftir
+</vocabulary>
 
 ==Yes==
 There are '''two''' ways to say "yes" in Icelandic:

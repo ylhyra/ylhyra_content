@@ -1,15 +1,16 @@
 ---
 title: Course/Why?
-vocabulary:
-- Af hverju langar þig að búa á Íslandi?
-- Af hverju ertu að læra?
-- Af því að ætla að borða hamborgara.
-- af hverju?; hvers vegna?
-- af því að; vegna þess að
-- kalt
-- úti
-- út
 ---
+<vocabulary>
+Af hverju langar þig að búa á Íslandi?
+Af hverju ertu að læra?
+Af því að ætla að borða hamborgara.
+af hverju?; hvers vegna?
+af því að; vegna þess að
+kalt
+úti
+út
+</vocabulary>
 
 ==Why?==
 "Af hverju?" means "why?".<note>Word-by-word the translation is "Of what (reason)?"</note> "Af því að" means "because".<note>Word-by-word the translation is "Of it (reason) that".</note>

@@ -1,23 +1,24 @@
 ---
 title: Course/Live
-vocabulary:
-- hérna, hér
-- heima
-- að búa
-- ég bý
-- þú býrð
-- hann býr
-- frekar
-- lengi
-- norður
-- Ég bý hérna.
-- Ég bý ekki hérna.
-- Mamma þín býr í Boston.
-- Mamma þín býr ekki í Boston.
-- Það er gott að búa í Reykjavík.
+---
+<vocabulary>
+hérna, hér
+heima
+að búa
+ég bý
+þú býrð
+hann býr
+frekar
+lengi
+norður
+Ég bý hérna.
+Ég bý ekki hérna.
+Mamma þín býr í Boston.
+Mamma þín býr ekki í Boston.
+Það er gott að búa í Reykjavík.
 - Ég veit það ekki alveg.
 - Það er frekar gott.
----
+</vocabulary>
 
 ==Uhm...==
 There are two almost identical words that mean "here", they are "hérna" and "hér". "Hérna" and "hér" are synonymous, but "hérna" is more commonly used.

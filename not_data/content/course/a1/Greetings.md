@@ -1,12 +1,13 @@
 ---
 title: Course/Greetings
-vocabulary:
-- sæll
-- sæl
-- hæ
-- halló
-- góðan daginn
 ---
+<vocabulary>
+sæll
+sæl
+hæ
+halló
+góðan daginn
+</vocabulary>
 
 ==Greetings==
 

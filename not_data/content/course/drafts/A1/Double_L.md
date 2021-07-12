@@ -1,6 +1,5 @@
 ---
 title: Course/A1/Double L
-vocabulary:
 ---
 
 When two {{code|L}}'s are in a row, the pronunciation can seem a bit strange. {{code|LL}} is pronounced like ['''tl''']:

@@ -1,6 +1,5 @@
 ---
 title: Course/To own
-vocabulary:
 ---
 
 Að eiga.

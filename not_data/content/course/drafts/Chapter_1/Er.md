@@ -1,6 +1,5 @@
 ---
 title: Chapter 1/Er
-vocabulary:
 ---
 
 '''`[[Að vera|Er]]`''' means "is". It is very similar to the English "you '''are'''".

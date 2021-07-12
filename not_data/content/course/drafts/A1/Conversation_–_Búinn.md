@@ -1,6 +1,5 @@
 ---
 title: Course/A1/Conversation – Búinn
-vocabulary:
 ---
 
 Hvað ertu búinn að gera í dag?

@@ -1,20 +1,21 @@
 ---
 title: Course/When?
-vocabulary:
-- hvenær
-- þegar
-- í
-- á
-- til
-- Ísland
-- á Íslandi
-- til Íslands
-- ha?
-- frábært
-- gaman
-- að koma
-
 ---
+<vocabulary>
+hvenær
+þegar
+í
+á
+til
+Ísland
+á Íslandi
+til Íslands
+ha?
+frábært
+gaman
+að koma
+
+</vocabulary>
 
 ==When?==
 "Hvenær" means "when?". Rembember that "[[hv]]" is always pronounced "kv". There is one additional exception that only applies to the word "hvenær" that is fairly annoying for students: The letter "[[æ]]" in the word isn't fully pronounced, instead it is pronounced as an "[[a]]". "Hven'''æ'''r" is pronounced {{pron|k{{h}}ven'''a'''r}}.

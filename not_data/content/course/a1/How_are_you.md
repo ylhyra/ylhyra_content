@@ -1,24 +1,25 @@
 ---
 title: Course/How are you
-vocabulary:
-- hæ
-- hvað
-- þú
-- þú segir
-- hún
-- hún segir
-- allt
-- gott
-- en
-- Hvað segirðu gott?
-- En þú?
-- mamma
-- mamma mín
-- mamma þín
+---
+<vocabulary>
+hæ
+hvað
+þú
+þú segir
+hún
+hún segir
+allt
+gott
+en
+Hvað segirðu gott?
+En þú?
+mamma
+mamma mín
+mamma þín
 - það
 - það er
 - líka
----
+</vocabulary>
 
 ==Hi==
 A simple greeting in Icelandic is:

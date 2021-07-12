@@ -1,6 +1,5 @@
 ---
 title: Course/A1/Conversation – Búinn 2
-vocabulary:
 ---
 
 Hæ mamma. Hvað ert þú búin að gera í dag?

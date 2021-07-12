@@ -1,6 +1,5 @@
 ---
 title: Course/A1/Listening – sæll
-vocabulary:
 ---
 
 * sæll

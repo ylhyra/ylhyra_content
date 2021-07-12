@@ -1,6 +1,5 @@
 ---
 title: Course
-vocabulary:
 ---
 
 This is a short tutorial in Icelandic for a complete beginner.

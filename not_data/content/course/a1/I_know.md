@@ -1,18 +1,19 @@
 ---
 title: Course/I know
-vocabulary:
-- ég veit
-- þú veist
-- hann veit
-- ég veit það ekki
-- hvar
-- þetta kaffi
-- þessi hamborgari
-- Ég veit ekki hvar hann er.
-- Veist{{u}} hvað ég heiti?
-- Hvernig veit hann það?
-- Veist{{u}} hvar þú ert?
 ---
+<vocabulary>
+ég veit
+þú veist
+hann veit
+ég veit það ekki
+hvar
+þetta kaffi
+þessi hamborgari
+Ég veit ekki hvar hann er.
+Veist{{u}} hvað ég heiti?
+Hvernig veit hann það?
+Veist{{u}} hvar þú ert?
+</vocabulary>
 
 ==I don't know==
 "Ég veit" means "I know" (referring to knowledge and not skills such as guitar and languages).

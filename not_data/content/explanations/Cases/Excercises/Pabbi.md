@@ -4,18 +4,19 @@ tags:
 - Exercises
 level: A1
 license: CC0
-vocabulary:
-- pabbi
-- hér er pabbi - um pabba
-- tími
-- hér er tími - um tíma
-- sími
-- hér er sími - um síma
-- I own a telephone.
-- Ég hef ekki tíma. 
-- Tekur þetta langan tíma?
-- Klukkan hvað kemur pabbi?
-- hér er fótbolti - um fóbolta
+---
+<vocabulary>
+pabbi
+hér er pabbi um pabba
+tími
+hér er tími um tíma
+sími
+hér er sími um síma
+I own a telephone.
+Ég hef ekki tíma. 
+Tekur þetta langan tíma?
+Klukkan hvað kemur pabbi?
+hér er fótbolti - um fóbolta
 - hér er afi - um afa
 - Hvar er afi?
 - kærasti
@@ -30,7 +31,7 @@ vocabulary:
 - Er ég að trufla?
 - Ekki trufla afa.
 - Ég ætla að heimsækja pabba minn á eftir.
----
+</vocabulary>
 
 ## The "pabbi" declension pattern
 

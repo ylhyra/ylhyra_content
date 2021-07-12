@@ -1,23 +1,24 @@
 ---
 title: Course/Doing
-vocabulary:
-- að gera
-- að læra
-- að borða
-- ekki
-- hamborgari
-- Þú ert að læra.
-- Mamma mín er að borða hamborgara.
-- Hvað ert þú að læra?
-- Þú ert ekki að læra íslensku.
-- Ert þú ekki að læra íslensku?
-- Er mamma mín ekki að borða hamborgara?
-- Hvað ert þú að gera?
-- Ert þú að læra?
-- Ert þú að læra íslensku?
+---
+<vocabulary>
+að gera
+að læra
+að borða
+ekki
+hamborgari
+Þú ert að læra.
+Mamma mín er að borða hamborgara.
+Hvað ert þú að læra?
+Þú ert ekki að læra íslensku.
+Ert þú ekki að læra íslensku?
+Er mamma mín ekki að borða hamborgara?
+Hvað ert þú að gera?
+Ert þú að læra?
+Ert þú að læra íslensku?
 - Ég er ekki að borða hamborgara.
 - Þú ert að borða hamborgara.
----
+</vocabulary>
 
 ==The basic form of verbs==
 The most basic form of a [[verb]], and the form always shown in dictionaries, is the form used in "to do", "to learn", and "to be". It is known as the [[infinitive]] form. Verbs on this form usually end with the letter "a":

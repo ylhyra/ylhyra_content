@@ -1,6 +1,5 @@
 ---
 title: Course/Cases of vinur
-vocabulary:
 ---
 
 ég ætla að hitta vin minn

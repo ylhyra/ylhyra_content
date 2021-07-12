@@ -1,6 +1,5 @@
 ---
 title: Course/A1/At the supermarket
-vocabulary:
 ---
 
 Since you will go to the store multiple times a week, you'll get very comfortable at repeating this formulaic interaction:

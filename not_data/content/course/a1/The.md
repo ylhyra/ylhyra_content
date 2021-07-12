@@ -1,13 +1,14 @@
 ---
 title: Course/The
-vocabulary:
-- vinnan<!-- = the job-->
-- kaffið<!-- = the coffee-->
-- tómaturinn<!-- = the tomato-->
-- árið<!-- = the year-->
-- vikan<!-- = the week-->
-- partíið<!-- = the party-->
-- lagið<!-- = the song-->
+---
+<vocabulary>
+vinnan<!-= the job-->
+kaffið<!-= the coffee-->
+tómaturinn<!-= the tomato-->
+árið<!-= the year-->
+vikan<!-= the week-->
+partíið<!-= the party-->
+lagið<!-= the song-->
 - kennarinn<!-- = the teacher-->
 - hamborgarinn<!-- = the hamburger-->
 - mjólkin<!-- = the milk-->
@@ -25,7 +26,7 @@ vocabulary:
 - sósan<!-- = the sause-->
 - skólinn<!-- = the school-->
 - bókin<!-- = the book-->
----
+</vocabulary>
 
 In English, the word "'''the'''" is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the word ("hús'''ið'''"). The "the" is known as the [[w:Definite article|definite article]]. There is no "''a / an''" in Icelandic, "'''a''' house" is just "hús".
 

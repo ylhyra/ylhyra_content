@@ -1,6 +1,5 @@
 ---
 title: Course/A1/Want
-vocabulary:
 ---
 
 There are two ways to say “I want” in Icelandic:

@@ -1,25 +1,26 @@
 ---
 title: Course/Want
-vocabulary:
-- Ég v*il* koma.
-- M*ig* l*angar* að koma.
-- ég vil
-- mig langar
-- ég vil fara
-- mig langar að fara
-- þú vilt
-- hann vill
-- hún vill
-- mig langar
-- þig langar
-- hana langar
-- hann langar
-- mig langar í hamborgara
+---
+<vocabulary>
+Ég v*il* koma.
+M*ig* l*angar* að koma.
+ég vil
+mig langar
+ég vil fara
+mig langar að fara
+þú vilt
+hann vill
+hún vill
+mig langar
+þig langar
+hana langar
+hann langar
+mig langar í hamborgara
 - kartöflur
 - franskar kartöflur
 - heimsókn
 - allt í lagi
----
+</vocabulary>
 
 ==Want==
 There are two ways to say that you want something: "ég vil" (I want) and "mig langar" (I want, I desire).

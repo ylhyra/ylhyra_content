@@ -5,21 +5,23 @@ tags:
 license: CC0
 level: B1
 published: August 2020
-vocabulary:
-- næstum því
-- enginn
-- skógur
-- einhver
-- eitthvað
-- landnám
-- vegna, út af
-- áhrifin
-- kindin
-- gras
-- sandur
-- lítill
 todo: bara fyrsta málsgrein búin
 ---
+<vocabulary>
+næstum því
+enginn
+skógur
+einhver
+eitthvað
+landnám
+vegna
+út af
+áhrifin
+kindin
+gras
+sandur
+lítill
+</vocabulary>
 
 <Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" width="700"/>
 <Book audio="Lúpína.mp3">

@@ -2,20 +2,20 @@
 title: Course/Good
 ---
 <vocabulary>
-- Það er gott.
-- Hún er góð.
-- Hann er góður.
-- íslenska
-- í
-- ég
-- þú
-- ég er
-- þú ert
-- hann er
-- hún er
-- það er
-- Hann er góður í íslensku.
-- Er hún góð í íslensku?
+Það er gott.
+Hún er góð.
+Hann er góður.
+íslenska
+í
+ég
+þú
+ég er
+þú ert
+hann er
+hún er
+það er
+Hann er góður í íslensku.
+Er hún góð í íslensku?
 - Hún er mjög góð í íslensku.
 - Hann er ekki góður í íslensku.
 - Er mamma þín góð í íslensku?

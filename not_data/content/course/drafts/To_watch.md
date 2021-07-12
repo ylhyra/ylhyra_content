@@ -1,10 +1,11 @@
 ---
 title: Course/To watch
-vocabulary:
-- auðvitað
-<!--- Ég er ósammála.
-- Hann býr í stóru húsi.-->
 ---
+<vocabulary>
+auðvitað
+<!--Ég er ósammála.
+Hann býr í stóru húsi.-->
+</vocabulary>
 
 == To watch ==
 

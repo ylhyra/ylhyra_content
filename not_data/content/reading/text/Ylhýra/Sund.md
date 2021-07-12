@@ -1,3 +1,9 @@
+
+
+
+
+
+
 ---
 title: Sund
 redirects:
@@ -7,21 +13,22 @@ tags:
 license: CC0
 level: A1
 word count: 180
-vocabulary:
-- aldrei
-- allir
-- alveg
-- annars staðar
-- annað
-- auðvelt
-- að gera
-- að kosta
-- að liggja
-- að líða vel
-- að spjalla
-- að synda
-- að taka
-- að vera
+---
+<vocabulary>
+aldrei
+allir
+alveg
+annars staðar
+annað
+auðvelt
+að gera
+að kosta
+að liggja
+að líða vel
+að spjalla
+að synda
+að taka
+að vera
 - að vera með
 - að vera þess virði
 - að þurfa
@@ -66,7 +73,7 @@ vocabulary:
 - óþægilegt
 - þannig
 - þúsund
----
+</vocabulary>
 
 <Image src="Sundlaug.jpg" position="right" width="338"/>
 <Book audio="Sund.mp3">

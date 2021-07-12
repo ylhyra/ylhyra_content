@@ -1,17 +1,18 @@
 ---
 title: Course/I like
-vocabulary:
-- Mér finnst hamborgari góður.
-- Finnst þér gott að búa hérna?
-- Mér finnst hann ágætur.
-- Mér finnst hann sætur.
-- Mér finnst það fyndið.
-- Finnst þér þetta fyndið?
-- Ég veit ekki hvað mér finnst um það.
-- mér finnst
-- þér finnst
-- ágætt
 ---
+<vocabulary>
+Mér finnst hamborgari góður.
+Finnst þér gott að búa hérna?
+Mér finnst hann ágætur.
+Mér finnst hann sætur.
+Mér finnst það fyndið.
+Finnst þér þetta fyndið?
+Ég veit ekki hvað mér finnst um það.
+mér finnst
+þér finnst
+ágætt
+</vocabulary>
 
 ==I like it==
 The way to express your opinion of things is to say "''I find it to be good''". "I like coffee" is "''I find coffee to be good''" and "I don't like studying" is "''I find it boring to study''". You use this format to express your likes, dislikes, your personal view of things, and your personal observations.

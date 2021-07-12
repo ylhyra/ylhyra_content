@@ -1,21 +1,22 @@
 ---
 title: Course/Ordering food
-vocabulary:
-- gjörðu svo vel
-- meira
-- fleira
-- að fá
-- ég hef fengið
-- ég get fengið
-- Get ég fengið hamborgara?
-- Get ég fengið kaffi?
-- Get ég fengið að*eins meira kaffi*?
-- hvernig
-- Eitthvað fleira?
-- fimm hundruð
-- krónur
-- Nei takk.
 ---
+<vocabulary>
+gjörðu svo vel
+meira
+fleira
+að fá
+ég hef fengið
+ég get fengið
+Get ég fengið hamborgara?
+Get ég fengið kaffi?
+Get ég fengið að*eins meira kaffi*?
+hvernig
+Eitthvað fleira?
+fimm hundruð
+krónur
+Nei takk.
+</vocabulary>
 
 ==Asking for coffee==
 "Að fá" means "to get". "Ég hef fengið" means "I have gotten". "Fá" and "fengið" are the same word, but "fengið" has a different form because it's in the [[past participle]] form, same as "gotten". In both Icelandic and English, the [[past participle]] appears when you say "I ''have'' gotten", but in Icelandic it also appears when you say "I ''can'' get" (if English followed the Icelandic pattern it would be "I ''can'' gotten").

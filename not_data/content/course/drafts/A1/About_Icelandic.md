@@ -1,6 +1,5 @@
 ---
 title: Course/A1/About Icelandic
-vocabulary:
 ---
 
 ==About Icelandic==

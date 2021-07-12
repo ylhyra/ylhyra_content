@@ -1,6 +1,5 @@
 ---
 title: Course/How?
-vocabulary:
 ---
 
 Hvernig segir maður....
