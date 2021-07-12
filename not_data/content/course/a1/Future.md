@@ -7,5 +7,6 @@ að koma
 Ég kem á morgun.
 Ég kem í kvöld.
 Ég geri það á morgun.
-Ég borða þetta á eftir.
+Ég kem ekki á eftir.
+Ég veit ekki hvenær ég kem heim.
 </vocabulary>

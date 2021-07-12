@@ -26,6 +26,7 @@ This is a short beginner-level tutorial in Icelandic.
 - Course/To own | To own  <div class="toc_subtitle">The first two cases of the "pabbi" pattern</div>
 - Course/Future
 - Course/In an hour
+- Course/Mig
 
 ***
 <div style="background: #aba3b4">

@@ -11,15 +11,14 @@ Hann á fjölskyldu á Íslandi.
 hér er sími - um síma
 hér er hamborgari - um hamborgari
 Ég á ekki síma.
-Ég ætla að spyrja pabba.
-Þetta tekur bara einn tíma.
+<!-- Ég ætla að spyrja pabba. -->
+Það tekur tíma.
 kafli
 Ég ætla bara að lesa einn kafla í dag.
-Þetta var góður brandari.
-Langar þig að heyra brandara?
 poki
-bakpoki
-Ég ætla að kaupa bakpoka.
+Ég á á á Íslandi.
+<!-- bakpoki -->
+<!-- Ég ætla að kaupa bakpoka. -->
 fótbolti
 Er hann góður í fótbolta?
 </vocabulary>
