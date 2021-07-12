@@ -1,5 +1,5 @@
 ---
-title: Project:Software work in progess/Útlit
+title: Project:Software/Útlit
 ---
 
 * https://openai.com/blog/jukebox/

@@ -15,8 +15,6 @@ vocabulary:
 - Hvað ert þú að gera?
 - Ert þú að læra?
 - Ert þú að læra íslensku?
-- Er hún góð í íslensku?
-- Hún er ekki góð í íslensku.
 - Ég er ekki að borða hamborgara.
 - Þú ert að borða hamborgara.
 ---
@@ -72,4 +70,3 @@ you: Nei, ég er ekki að læra íslensku.
 == Recommendations ==
 
 * {{Recommendations/Study_vocabulary}}
-

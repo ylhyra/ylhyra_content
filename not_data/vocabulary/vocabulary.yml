@@ -3253,12 +3253,12 @@ rows:
     level: 3
     depends_on: að dansa
     row_id: 594
-  - icelandic: Veistu hver þetta er?
+  - icelandic: Veist{{u}} hver þetta er?
     english: Do you know who this is?
     level: 1
     lemmas: að vita, hver, þessi
     row_id: 595
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-12"
   - icelandic: Ertu í stuði fyrir göngutúr?
     english: Are you in the mood for going for a walk?
     level: 3
@@ -8411,8 +8411,11 @@ rows:
     row_id: 1643
     last_seen: "2021-07-11"
   - icelandic: þú veist
+    english: you know
     level: 1
+    note: Often pronounced together as {{pron|þú(v)st}} and used as a filler word like the English "ya know".
     row_id: 1644
+    last_seen: "2021-07-12"
   - icelandic: hann veit
     level: 1
     row_id: 1645
@@ -8434,9 +8437,12 @@ rows:
     lemmas: Ísland
     row_id: 1650
     last_seen: "2021-07-11"
-  - icelandic: ha?
+  - icelandic: Ha?
+    english: What did you just say?; Could you repeat that?
     level: 1
+    note: Often said in a tone that may seem aggressive, but is actually a neutral request for you to repeat yourself.
     row_id: 1651
+    last_seen: "2021-07-12"
   - icelandic: hér eru nokkrir menn
     english: here are a few men
     level: 2.5
@@ -8638,6 +8644,32 @@ rows:
     lemmas: nokkur, fyrirvari
     row_id: 1683
     last_seen: "2021-07-10"
+  - icelandic: ég ætla
+    english: I intend to; I am going to; I plan to
+    level: 1
+    lemmas: að ætla
+    row_id: 1696
+    last_seen: "2021-07-12"
+  - icelandic: þú ætlar
+    english: you intend to; you are going to; you plan to
+    level: 1
+    lemmas: að ætla
+    row_id: 1697
+    last_seen: "2021-07-12"
+  - icelandic: hann ætlar
+    english: he intends to; he is going to; he plans to
+    level: 1
+    lemmas: að ætla
+    row_id: 1698
+    last_seen: "2021-07-12"
+  - icelandic: Hljómar vel.
+    english: Sounds good!
+    level: 1
+    depends_on: vel
+    lemmas: að hljóma%
+    literally: sounds well
+    row_id: 1699
+    last_seen: "2021-07-12"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

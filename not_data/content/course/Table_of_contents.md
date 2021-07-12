@@ -8,9 +8,11 @@ This is a short tutorial in Icelandic for a complete beginner.
 <TOC>
 - Unit 1
   - Course/How are you
-  - Course/I am
-  - Course/Doing
+  - Course/This - that
+  - Course/Good
   - Course/Going to
+  - Course/Going to 2
+  - Course/Doing
   - Course/When?
   - Course/I know
   - Course/Live

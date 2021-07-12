@@ -3,7 +3,6 @@ title: Course/How are you
 vocabulary:
 - hæ
 - hvað
-- ég segi
 - þú
 - þú segir
 - hún
@@ -117,4 +116,3 @@ me: Það er gott.
 *{{Recommendations/Study_vocabulary}}
 *Have a look at the explanatory page about the [[Icelandic alphabet|'''Icelandic alphabet''']].
 *{{Recommendations/Read|Sund}}
-

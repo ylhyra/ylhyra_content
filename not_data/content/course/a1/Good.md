@@ -1,9 +1,10 @@
 ---
-title: Course/I am
-vocabulary:
-- góður
-- góð
-- gott
+title: Course/Good
+---
+<vocabulary>
+- Það er gott.
+- Hún er góð.
+- Hann er góður.
 - íslenska
 - í
 - ég
@@ -13,20 +14,13 @@ vocabulary:
 - hann er
 - hún er
 - það er
-- mjög
-- líka
-- Þetta er gott.
-- Það er gott.
 - Hann er góður í íslensku.
-- Hún er góð í íslensku.
-- Þetta er líka gott.
-- Þetta er mjög gott.
-- Hún er líka mjög góð í íslensku.
+- Er hún góð í íslensku?
+- Hún er mjög góð í íslensku.
+- Hann er ekki góður í íslensku.
 - Er mamma þín góð í íslensku?
-- Mamma þín er góð í íslensku.
-- Er hann líka góður í íslensku?
-- Er hún mjög góð í íslensku?
----
+- Mamma mín er mjög góð í íslensku.
+</vocabulary>
 
 ==I==
 "Ég" means "I".
@@ -108,4 +102,3 @@ me: Já, ég er mjög góður í íslensku.
 
 *{{Recommendations/Study_vocabulary}}
 *Listen to the song [https://www.youtube.com/watch?v=dIkuRAf4EfI Það er gott að elska] ("It is good to love") by Bubbi, see the lyrics [https://www.guitarparty.com/songs/thad-er-gott-ad-elska/ here]. Focus only on the words used in the chorus.
-

@@ -8,6 +8,10 @@ vocabulary:
 - hvar
 - þetta kaffi
 - þessi hamborgari
+- Ég veit ekki hvar hann er.
+- Veist{{u}} hvað ég heiti?
+- Hvernig veit hann það?
+- Veist{{u}} hvar þú ert?
 ---
 
 ==I don't know==
@@ -70,4 +74,3 @@ Translate the following:
 ==Recommendations==
 
 *Listen to the 2018 pop song [https://www.youtube.com/watch?v=NrFXCSsEy_M '''Veist af mér'''] by Huginn (lyrics [https://genius.com/Huginn-veist-af-mer-lyrics here]). Focus on the phrases "''Þú veist'' af mér" (literally "You know of me", meaning "You know where to find me if you need me") and "Því ''ég veit''" ("Because I know").
-
