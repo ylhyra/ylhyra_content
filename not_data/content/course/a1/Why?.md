@@ -2,14 +2,15 @@
 title: Course/Why?
 ---
 <vocabulary>
-Af hverju langar þig að búa á Íslandi?
-Af hverju ertu að læra?
-Af því að ætla að borða hamborgara.
-af hverju?; hvers vegna?
-af því að; vegna þess að
-kalt
-úti
-út
+Af hverju?
+Af hverju ekki?
+af því að
+Af hverju langar þig ekki að fara?
+Af því að það er gaman.
+svona
+Af hverju er þetta svona erfitt?
+Af því að það er kalt.
+Af því að það er of auðvelt.
 </vocabulary>
 
 ==Why?==
@@ -43,4 +44,3 @@ kalt
 *vegna þess að = because<note>The literal translation is "due to it that"</note>
 
 These phrases sound slightly more formal, and you're therefore more likely to see them used in writing. When speaking, however, it's more common to use "af hverju?".
-

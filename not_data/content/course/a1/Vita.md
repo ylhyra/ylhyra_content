@@ -12,6 +12,8 @@ Hvernig veit hann það?
 Veit mamma þín það?
 Hún veit hvar ég er.
 Hann veit að ég er að vinna.
+ekki alveg
+Ég veit það ekki alveg.
 <!-- Ég veit allt. -->
 </vocabulary>
 

@@ -13,6 +13,8 @@ Hvar ætlarðu að búa?
 Ég bý einn.
 Ég bý hérna.
 Ég bý ekki hérna.
+Ég ætla ekki að vera lengi.
+Ætlar þú að vera lengi á Íslandi?
 <!-- Mamma mín veit hvar ég bý. -->
 </vocabulary>
 

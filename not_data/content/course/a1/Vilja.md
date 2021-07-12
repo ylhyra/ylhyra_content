@@ -1,25 +1,7 @@
 ---
-title: Course/Want
+title: Course/Want 2
 ---
 <vocabulary>
-Ég v*il* koma.
-M*ig* l*angar* að koma.
-ég vil
-mig langar
-ég vil fara
-mig langar að fara
-þú vilt
-hann vill
-hún vill
-mig langar
-þig langar
-hana langar
-hann langar
-mig langar í hamborgara
-kartöflur
-franskar kartöflur
-heimsókn
-allt í lagi
 </vocabulary>
 
 ==Want==
@@ -64,4 +46,3 @@ When you want to describe that you desire an object, you have to use the phrase 
 
 * Mig langar að búa á Spáni. Mamma vill koma með mér.
 * Mamma vill koma í heimsókn. Mér finnst gaman að vera með henni.
-

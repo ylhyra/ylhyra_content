@@ -2,6 +2,14 @@
 title: Course/I like
 ---
 <vocabulary>
+Það er gaman.
+
+
+
+
+
+
+
 Mér finnst hamborgari góður.
 Finnst þér gott að búa hérna?
 Mér finnst hann ágætur.
@@ -13,6 +21,8 @@ mér finnst
 þér finnst
 ágætt
 </vocabulary>
+
+þetta er mjög gott kaffi
 
 ==I like it==
 The way to express your opinion of things is to say "''I find it to be good''". "I like coffee" is "''I find coffee to be good''" and "I don't like studying" is "''I find it boring to study''". You use this format to express your likes, dislikes, your personal view of things, and your personal observations.
@@ -48,4 +58,3 @@ Er erfitt að læra íslensku ein [alone]?
 Mér finnst það gaman.
 Mér finnst ekki gaman að vera á Spáni.
 Finnst þér gaman að læra íslensku?
-

@@ -8,23 +8,18 @@ level: A1
 license: CC0
 ---
 <vocabulary>
-kona
 íslenska
 enska
-vika
 pítsa
-vinkona
-hér er vika um viku
-Hún er vinkona mín.
-Ég á konu.
 Ég kann íslensku.
-hér er vinkona um vinkonu
+hér er enska - um ensku
 Ég kann ekki ensku.
 Ég ætla að borða pítsu í kvöld.
-Þetta var góð vika.
-Þetta var erfið vika.
-Vinkona mín borðar ekki pítsu.
-Viltu pítsu?
+Langar þig að læra ensku?
+hér er súpa - um súpu
+að panta
+Ég ætla að panta pítsu.
+Ég ætla ekki að elda súpu.
 </vocabulary>
 
 # Introduction to cases

@@ -7,10 +7,16 @@ jú
 nei
 já já
 nei nei
+Ha?
 á eftir
+„Er þetta kaffi gott?“ „Já.“
+„Er þetta kaffi ekki gott?“ „Jú.“
 „Ætlar{{ðu}} að koma?“ „Já, ég ætla að koma.“
 „Ætlar{{ðu}} ekki að koma?“ „Jú, ég ætla að koma.“
 „Ætlar{{ðu}} ekki að koma?“ „Nei, ég ætla ekki að koma.“
+„Þetta er gott, er það ekki?“ „Jú.”
+Já, takk.
+Nei, takk.
 </vocabulary>
 
 ==Yes==

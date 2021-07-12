@@ -10,11 +10,7 @@ Bara smá.
 Ég kann ekki íslensku.
 Ég kann að gera það.
 Hann er ekki góður í ensku.
-Hún kann á gítar.
-Hún er góð á gítar.
-Ég kann ekki á píanó.
 Kann hann að elda?
-Kann hún að dansa?
 Ég kann ekki að syngja.
 Ekki ennþá.
 </vocabulary>
