@@ -8,6 +8,9 @@ nei
 já já
 nei nei
 á eftir
+„Ætlar{{ðu}} að koma?“ „Já, ég ætla að koma.“
+„Ætlar{{ðu}} ekki að koma?“ „Jú, ég ætla að koma.“
+„Ætlar{{ðu}} ekki að koma?“ „Nei, ég ætla ekki að koma.“
 </vocabulary>
 
 ==Yes==

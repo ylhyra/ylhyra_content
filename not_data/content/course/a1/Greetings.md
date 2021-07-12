@@ -7,6 +7,7 @@ sæl
 hæ
 halló
 góðan daginn
+Hvað segirðu gott?
 </vocabulary>
 
 ==Greetings==
@@ -65,4 +66,3 @@ To summarize the above:
 *If you see a random person on the street, use "Góðan daginn".
 *If you see someone you personally know on the street, use "Hæ" or "Sæll".
 *If you're answering the phone, use "Halló".
-
