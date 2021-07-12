@@ -2,20 +2,21 @@
 title: Course/Ordering food
 ---
 <vocabulary>
-gjörðu svo vel
-meira
-fleira
+Takk.
+Takk fyrir.
+Nei takk.
 að fá
 ég hef fengið
 ég get fengið
 Get ég fengið hamborgara?
 Get ég fengið kaffi?
+meira
+fleira
+aðeins meira
 Get ég fengið að*eins meira kaffi*?
-hvernig
 Eitthvað fleira?
-fimm hundruð
-krónur
-Nei takk.
+þúsund krónur
+gjörðu svo vel
 </vocabulary>
 
 ==Asking for coffee==

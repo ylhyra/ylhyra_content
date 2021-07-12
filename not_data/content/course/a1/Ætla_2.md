@@ -19,6 +19,7 @@ Hvað ætlar{{ðu}} að borða?
 Hvenær ætlar{{ðu}} að borða?
 Hvenær ætlar{{ðu}} að koma?
 Ætlar{{ðu}} að drekka þetta kaffi?
+Hvað ætlar{{ðu}} að gera á Íslandi?
 </vocabulary>
 
 

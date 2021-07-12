@@ -13,7 +13,7 @@ Hvar ætlarðu að búa?
 Ég bý einn.
 Ég bý hérna.
 Ég bý ekki hérna.
-Mamma mín veit hvar ég bý.
+<!-- Mamma mín veit hvar ég bý. -->
 </vocabulary>
 
 ==Uhm...==

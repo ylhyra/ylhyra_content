@@ -17,6 +17,9 @@ This is a short beginner-level tutorial in Icelandic.
   - Course/I know
   - Course/I know how to
   - Course/Live
+  - Course/Ordering food
+  <!-- - Course/Thanks -->
+  <!-- - Course/Thanksamma mín veit hvar ég -->
   - <!-- ... -->
   - <!-- ... -->
   - <!-- ... -->
@@ -24,7 +27,6 @@ This is a short beginner-level tutorial in Icelandic.
 - Unit {{incr}}
   - Course/I like
   - Course/Want
-  - Course/Ordering food
   - Course/Doing
   - Course/Why?
   - Course/To watch

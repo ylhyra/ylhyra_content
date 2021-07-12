@@ -9,6 +9,7 @@ Bara smá.
 Ég kann s*má* íslensku.
 Ég kann ekki íslensku.
 Ég kann að gera það.
+Hann er ekki góður í ensku.
 Hún kann á gítar.
 Hún er góð á gítar.
 Ég kann ekki á píanó.

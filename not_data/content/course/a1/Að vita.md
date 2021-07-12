@@ -5,13 +5,14 @@ title: Course/I know
 ég veit
 hann veit
 Ég veit það ekki.
+Já∆ ég veit.
 Ég veit ekki hvar hann er.
 Hvernig veit hann það?
 Ég veit ekki hvað þetta er.
 Veit mamma þín það?
 Hún veit hvar ég er.
 Hann veit að ég er að vinna.
-Ég veit að hann ætlar ekki að koma.
+<!-- Ég veit allt. -->
 </vocabulary>
 
 ==I don't know==
