@@ -1,5 +1,6 @@
 ---
 title: Course/To own
+reviewed: no
 ---
 
 <vocabulary>

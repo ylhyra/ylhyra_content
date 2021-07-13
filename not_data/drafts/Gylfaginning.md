@@ -2,6 +2,7 @@
 title: Text:Gylfaginning
 tags:
 - Text
+reviewed: no
 ---
 
 https://docs.google.com/document/d/1Zaxz54OOpkNhoNIU8ad62QftcbEMuIlraSQ6054_gAM/edit

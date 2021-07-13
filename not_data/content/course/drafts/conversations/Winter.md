@@ -6,6 +6,7 @@ redirects:
 tags:
 - Conversations
 license: CC0
+reviewed: no
 ---
 
 <Audio src="Bakaríið_samtal.mp3"/>

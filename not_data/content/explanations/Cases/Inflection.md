@@ -5,6 +5,7 @@ redirects:
 - Inflect
 - Inflections
 license: CC0
+reviewed: no
 ---
 
 :''For the change in pitch when speaking, see [[intonation]].''

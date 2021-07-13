@@ -1,5 +1,6 @@
 ---
 title: Course/I know how to
+reviewed: no
 ---
 <vocabulary>
 ég kann

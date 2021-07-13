@@ -3,6 +3,7 @@ title: H
 redirects:
 - Hv#Exceptions
 license: CC0
+reviewed: no
 ---
 
 The letter '''H''' is pronounced the same as in English.

@@ -1,5 +1,6 @@
 ---
 title: Text:Blær/Fyrst við erum hérna/Teaser
+reviewed: no
 ---
 
 <a href="{{fullurl:Blær/Fyrst við erum hérna}}" class="frontpage-box-with-image"><!--

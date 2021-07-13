@@ -4,6 +4,7 @@ tags:
 - Word use
 level: A1
 license: CC0
+reviewed: no
 ---
 
 A common error is to translate "I think" as "ég hugsa". However, remember:

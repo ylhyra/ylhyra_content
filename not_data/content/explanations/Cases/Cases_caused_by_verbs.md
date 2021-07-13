@@ -7,6 +7,7 @@ tags:
 - Verbs
 - cases
 license: CC0
+reviewed: no
 ---
 
 kThis is a list of the most common verbs and which [[case]] they cause.

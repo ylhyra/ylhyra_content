@@ -1,6 +1,7 @@
 ---
 title: P
 license: CC0
+reviewed: no
 ---
 
 The letter '''P''' can be pronounced with a small breath or without.

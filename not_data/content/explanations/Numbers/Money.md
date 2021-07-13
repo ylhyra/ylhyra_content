@@ -3,6 +3,7 @@ title: Money
 tags:
 - Word use
 license: CC0
+reviewed: no
 ---
 
 Iceland's currency is the [[w:Icelandic króna|Icelandic króna]].

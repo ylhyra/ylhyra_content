@@ -1,5 +1,6 @@
 ---
 title: Course/A1/Is
+reviewed: no
 ---
 
 Many Icelandic words are similar to the English ones. In particular, note how similar '''`[[Að vera|er]]`''' is to the English "'''are'''".

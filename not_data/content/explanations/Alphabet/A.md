@@ -1,6 +1,7 @@
 ---
 title: A
 license: CC0
+reviewed: no
 ---
 
 The letter '''A''' is pronounced <Audio src="GNxf.mp3" inline/>. This is the same sound as in the English word ''f'''a'''ther''.

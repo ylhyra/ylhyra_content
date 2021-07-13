@@ -6,6 +6,7 @@ tags:
 - Pronunciation
 level: A1
 license: CC0
+reviewed: no
 ---
 
 At the end of a sentence and before pauses, certain sounds become pronounced without the voice.

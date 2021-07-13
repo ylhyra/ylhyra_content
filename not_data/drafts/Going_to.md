@@ -1,5 +1,6 @@
 ---
 title: Vocabulary:Going to
+reviewed: no
 ---
 
 ég ætla = I intend to, I am going to, I plan to

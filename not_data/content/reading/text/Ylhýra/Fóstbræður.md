@@ -4,6 +4,7 @@ tags:
 - Culture
 license: CC0
 level: A2
+reviewed: no
 ---
 
 <Image src="Fóstbræður.jpg" position="right" width="303"/>

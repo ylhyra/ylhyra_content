@@ -1,5 +1,6 @@
 ---
 title: Course/Greetings
+reviewed: no
 ---
 <vocabulary>
 sæll

@@ -3,6 +3,7 @@ title: Fíla
 tags:
 - Words
 license: CC0
+reviewed: no
 ---
 
 '''Fíla''' is slang for "to like something", it's particularly common when discussing how you liked a book, movie, or an activity.

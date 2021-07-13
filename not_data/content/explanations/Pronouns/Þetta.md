@@ -1,5 +1,6 @@
 ---
 title: Text:Þetta/Full explanation
+reviewed: no
 ---
 
 To refer to something close, you use <translate>'''þetta'''</translate>.<note><translate>Þetta</translate> is a [[demonstrative pronoun]] (<translate>ábendingarfornafn</translate>).</note> The word changes a bit based on gender:

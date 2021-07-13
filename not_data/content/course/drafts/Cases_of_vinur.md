@@ -1,5 +1,6 @@
 ---
 title: Course/Cases of vinur
+reviewed: no
 ---
 
 ég ætla að hitta vin minn

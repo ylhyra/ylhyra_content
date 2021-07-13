@@ -4,6 +4,7 @@ tags:
 - Pronunciation
 level: B1
 license: CC0
+reviewed: no
 ---
 
 `Ekki` has two different possible pronunciations:

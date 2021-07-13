@@ -1,5 +1,6 @@
 ---
 title: Text:Blær/Egg í áskrift/Teaser
+reviewed: no
 ---
 
 <a href="https://punktur.egill.xyz/egg.html" class="frontpage-box-with-image">

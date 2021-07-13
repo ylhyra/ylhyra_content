@@ -1,5 +1,6 @@
 ---
 title: Course/A1/Want
+reviewed: no
 ---
 
 There are two ways to say “I want” in Icelandic:

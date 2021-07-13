@@ -4,6 +4,7 @@ redirects:
 - Text:A1/Reykjavík
 license: CC0
 level: A1
+reviewed: no
 ---
 
 <Image src="Reykjavík um vetur.jpg" position="right"/>

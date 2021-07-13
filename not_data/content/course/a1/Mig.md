@@ -1,5 +1,6 @@
 ---
 title: Course/Second case of the personal pronouns
+reviewed: no
 ---
 
 <vocabulary>

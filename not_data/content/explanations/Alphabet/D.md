@@ -1,6 +1,7 @@
 ---
 title: D
 license: CC0
+reviewed: no
 ---
 
 The letter '''D''' is pronounced <Audio src="Jap5.mp3" inline/>. It is similar to the ''d'' in English, except that you don't use your voice. It's the same sound as in the English word ''s'''t'''and''.

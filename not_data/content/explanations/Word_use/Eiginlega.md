@@ -4,6 +4,7 @@ tags:
 - Words
 level: B2
 license: CC0
+reviewed: no
 ---
 
 *`Hvað gerðist '''eiginlega'''?`

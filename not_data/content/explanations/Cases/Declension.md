@@ -11,6 +11,7 @@ redirects:
 tags:
 - Cases
 license: CC0
+reviewed: no
 ---
 
 Icelandic [[nouns]] have four [[cases]]. Finding the correct form of the word is called '''declension'''. This is a simple declension table for the word ''lamb'':{{declension-singular| '''lamb'''|'''lamb'''|'''lambi'''|'''lambs'''}}

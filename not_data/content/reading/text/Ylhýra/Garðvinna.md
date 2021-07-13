@@ -4,6 +4,7 @@ redirects:
 - Text:A1/Garðvinna
 license: CC0
 level: A1
+reviewed: no
 ---
 
 <Image src="Þreyttur hundur.jpg" position="right"/>

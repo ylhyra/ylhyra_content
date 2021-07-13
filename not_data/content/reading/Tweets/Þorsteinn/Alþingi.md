@@ -4,6 +4,7 @@ redirects:
 - Kristnihald/Það þarf engar siðareglur á Alþingi.
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

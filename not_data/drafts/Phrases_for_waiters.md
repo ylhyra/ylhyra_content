@@ -1,6 +1,7 @@
 ---
 title: Phrases for waiters
 license: CC0
+reviewed: no
 ---
 
 {{under construction}}

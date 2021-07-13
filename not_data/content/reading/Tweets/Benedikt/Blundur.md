@@ -4,6 +4,7 @@ redirects:
 - Forseti2k32/Finnst fólk almennt ekki gera sér
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

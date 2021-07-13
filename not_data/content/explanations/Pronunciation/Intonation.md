@@ -4,6 +4,7 @@ tags:
 - Pronunciation
 level: A2
 license: CC0
+reviewed: no
 ---
 
 Intonation is the way you sing while speaking. Not all the words in a sentence have the same pitch (musical tone). For example in the English sentence "''You're cold''" the tone is going down on the last word, but in "''You're cold?''" the tone is rising, making it clear that it is a question.

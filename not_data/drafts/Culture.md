@@ -3,6 +3,7 @@ title: Project:Work in progress/Culture
 tags:
 - Todo
 - Culture
+reviewed: no
 ---
 
 ==Daily life==

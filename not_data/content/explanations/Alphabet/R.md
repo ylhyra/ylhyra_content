@@ -5,6 +5,7 @@ redirects:
 tags:
 - Pronunciation
 license: CC0
+reviewed: no
 ---
 
 There are two different R sounds in Icelandic. One is an R using the voice <Audio src="SpJM.mp3" inline/>, and one is an R without using the voice <Audio src="iZyO.mp3" inline/>.

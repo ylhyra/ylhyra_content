@@ -8,6 +8,7 @@ redirects:
 tags:
 - Pronunciation
 license: CC0
+reviewed: no
 ---
 
 <!--[[Introduction to Icelandic spelling]]-->

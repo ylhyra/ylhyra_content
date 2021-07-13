@@ -4,6 +4,7 @@ tags:
 - Word use
 level: A1
 license: CC0
+reviewed: no
 ---
 
 The following words have very similar or overlapping meanings, causing learners some problems:

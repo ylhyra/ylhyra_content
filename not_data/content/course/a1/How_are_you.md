@@ -1,5 +1,6 @@
 ---
 title: Course/How are you
+reviewed: no
 ---
 <vocabulary>
 hæ
@@ -114,6 +115,6 @@ me: Það er gott.
 ==Recommendations==
 
 *Practice saying "How are you?" and responding to yourself until you can do so without hesitating.
-*{{Recommendations/Study_vocabulary}}
+<!-- *{{Recommendations/Study_vocabulary}} -->
 *Have a look at the explanatory page about the [[Icelandic alphabet|'''Icelandic alphabet''']].
 *{{Recommendations/Read|Sund}}

@@ -8,6 +8,7 @@ tags:
 - Verbs
 level: A1
 license: CC0
+reviewed: no
 ---
 
 The '''past participle''' (''lýsingarháttur þátíðar'') is a [[verb]] form where the verb has been formed as if it were an [[adjective]] (a describing word).

@@ -1,5 +1,6 @@
 ---
 title: Brennu-Njáls saga/Höskuldur og brennan/Discussion
+reviewed: no
 ---
 
 ==Discussion==

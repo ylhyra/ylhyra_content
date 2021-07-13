@@ -4,6 +4,7 @@ redirects:
 - Forseti2k32/Ákveðinn sigur þegar innfæddir halda
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

@@ -5,6 +5,7 @@ redirects:
 tags:
 - Pronouns
 license: CC0
+reviewed: no
 ---
 
 [[:Text:Þetta/Intro]]

@@ -7,6 +7,7 @@ tags:
 - Grammatical moods
 - Verbs
 license: CC0
+reviewed: no
 ---
 
 A special verb form known as '''boðháttur''' (''imperative'') 👮 is used to give orders. It looks like this:

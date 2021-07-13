@@ -1,5 +1,6 @@
 ---
 title: Course/How?
+reviewed: no
 ---
 
 Hvernig segir maður....

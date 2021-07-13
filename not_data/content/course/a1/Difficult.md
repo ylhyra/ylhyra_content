@@ -1,5 +1,6 @@
 ---
 title: Course/Difficult
+reviewed: no
 ---
 <vocabulary>
 Það er erfitt.

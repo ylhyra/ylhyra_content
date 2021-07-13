@@ -1,5 +1,6 @@
 ---
 title: Talk:Sofðu unga ástin mín
+reviewed: no
 ---
 
 == Þýðing frá Láru ==

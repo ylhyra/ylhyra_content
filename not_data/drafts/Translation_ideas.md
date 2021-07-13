@@ -1,5 +1,6 @@
 ---
 title: Project:Translation ideas
+reviewed: no
 ---
 
 See [[Texts]]

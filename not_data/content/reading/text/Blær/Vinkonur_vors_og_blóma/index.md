@@ -1,5 +1,6 @@
 ---
 title: Blær/Vinkonur vors og blóma
+reviewed: no
 ---
 
 *[[Blær/Vinkonur vors og blóma/1]]

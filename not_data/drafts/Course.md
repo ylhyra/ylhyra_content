@@ -1,5 +1,6 @@
 ---
 title: Project:Drafts/Course
+reviewed: no
 ---
 
 <!--<div class="frontpage-intro">This course is still a work in progress and will be published in the summer of 2020. Feel free to [[Project:About|contact us]] to suggest improvements. </div>-->

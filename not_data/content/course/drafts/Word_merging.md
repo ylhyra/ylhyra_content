@@ -2,6 +2,7 @@
 title: Course/Word merging
 redirects:
 - Word merging
+reviewed: no
 ---
 <vocabulary>
 ertu?

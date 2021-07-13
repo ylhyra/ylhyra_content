@@ -2,6 +2,7 @@
 title: Blær/Silfursvanurinn
 redirects:
 - Blær/Silfur svanurinn
+reviewed: no
 ---
 
 * [[Blær/Silfursvanurinn/1]]

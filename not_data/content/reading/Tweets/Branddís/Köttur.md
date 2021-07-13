@@ -4,6 +4,7 @@ redirects:
 - Branddis Asrun/Kötturinn minn er alltaf að kúka á
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

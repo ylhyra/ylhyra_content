@@ -4,6 +4,7 @@ redirects:
 - Branddis Asrun/Einföld lausn á þessu máli. Við bjöllum
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

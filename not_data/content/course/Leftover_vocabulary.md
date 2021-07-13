@@ -1,5 +1,6 @@
 ---
 title: temp vocabulary
+reviewed: no
 ---
 
 ég segi

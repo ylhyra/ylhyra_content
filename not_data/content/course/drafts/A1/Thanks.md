@@ -3,6 +3,7 @@ title: Course/A1/Thanks
 vocabulary:
 redirects:
 - Chapter 2/Thanks
+reviewed: no
 ---
 
 Icelandic words have a lot of tiny h-sounds in places that may not be obvious at first.

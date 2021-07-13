@@ -3,6 +3,7 @@ title: Course/A1/This
 vocabulary:
 redirects:
 - Text:Þetta/Intro
+reviewed: no
 ---
 
 To refer to something close, you use <translate>'''þetta'''</translate>.<!--<note><translate>Þetta</translate> is a [[demonstrative pronoun]] (<translate>ábendingarfornafn</translate>).</note>--> The word changes a bit based on [[gender]]:

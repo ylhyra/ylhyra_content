@@ -1,6 +1,7 @@
 ---
 title: -ó endings/Less common words
 license: CC0
+reviewed: no
 ---
 
 This is an appendix to the article on [[-ó endings]] and is a semi-exhaustive list of less common -ó words.

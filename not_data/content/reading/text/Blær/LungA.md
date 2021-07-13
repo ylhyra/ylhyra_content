@@ -1,5 +1,6 @@
 ---
 title: Blær/LungA
+reviewed: no
 ---
 
 {{Blær|http://blaer.is/grein/lunga}}

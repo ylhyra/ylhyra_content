@@ -4,6 +4,7 @@ redirects:
 - Ei
 - Ey
 license: CC0
+reviewed: no
 ---
 
 The character sequences "'''ei'''" and "'''ey'''" represent the sound "eí", you start with the [[E]] sound and end with the [[Í]] sound. They represent the same sound since ''[[i]]'' and ''[[y]]'' sound the same.

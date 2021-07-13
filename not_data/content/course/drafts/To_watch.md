@@ -1,5 +1,6 @@
 ---
 title: Course/To watch
+reviewed: no
 ---
 <vocabulary>
 auðvitað

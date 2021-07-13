@@ -3,6 +3,7 @@ title: Jónas Hallgrímsson/Ásta/1
 tags:
 - Poems
 license: CC0
+reviewed: no
 ---
 
 <div data-translate="true" data-audio-file="Ástkæra.mp3">

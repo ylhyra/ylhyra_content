@@ -2,6 +2,7 @@
 title: Vestmannaeyjar
 license: CC0
 level: A2
+reviewed: no
 ---
 
 <Image src="Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg"/>

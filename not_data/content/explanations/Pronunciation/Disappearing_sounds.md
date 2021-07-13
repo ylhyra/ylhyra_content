@@ -7,6 +7,7 @@ tags:
 - Pronunciation
 level: A1
 license: CC0
+reviewed: no
 ---
 
 For most Icelandic words, you pronounce all the sounds that are written. But as soon as you start stringing those words together to form sentences, multiple sounds completely disappear.

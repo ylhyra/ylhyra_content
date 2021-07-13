@@ -3,6 +3,7 @@ title: Course/A1/Good day
 vocabulary:
 redirects:
 - Chapter 2/Good day
+reviewed: no
 ---
 
 Aside from `takk`, the other phrase you'll use every day is '''`[[Góðan daginn]]!`''' (“Good day!”). `Góðan daginn` is used from the early morning until 6PM (that's when the day turns into an evening).

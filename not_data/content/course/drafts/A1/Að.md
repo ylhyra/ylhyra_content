@@ -3,6 +3,7 @@ title: Course/A1/Að
 vocabulary:
 redirects:
 - Text:Að/Intro
+reviewed: no
 ---
 
 <translate>[[Að]]</translate> is used a lot in Icelandic. It can have several different uses, but most often it means '''to''' as in "'''to''' sing" (<translate>'''að''' syngja</translate>). Another common use of "að" is to connect sentence together: <translate>Bjarni segir '''að''' mamma komi á eftir</translate>, but that is a more advanced topic.

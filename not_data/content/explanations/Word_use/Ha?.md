@@ -5,6 +5,7 @@ redirects:
 tags:
 - Words
 license: CC0
+reviewed: no
 ---
 
 '''`Ha?`''' is equivalent to the English "Huh?" or "Hm?" but is used way more than in English and in more circumstances. It means ''“What did you just say?”'', but it's not rude at all. You say "`ha?`" when:

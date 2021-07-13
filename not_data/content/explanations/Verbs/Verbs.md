@@ -8,6 +8,7 @@ tags:
 - Parts of speech
 level: A1
 license: CC0
+reviewed: no
 ---
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").

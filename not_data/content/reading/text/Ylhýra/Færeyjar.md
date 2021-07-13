@@ -4,6 +4,7 @@ tags:
 - Culture
 license: CC0
 level: A1
+reviewed: no
 ---
 
 <Image src="Idioma_feroés.png" position="right" width="237"/>

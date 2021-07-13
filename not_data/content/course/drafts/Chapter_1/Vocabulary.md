@@ -1,5 +1,6 @@
 ---
 title: Chapter 1/Vocabulary
+reviewed: no
 ---
 
 {{describe image

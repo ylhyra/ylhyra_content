@@ -3,6 +3,7 @@ title: Prepositions that cause cases/Í – exercise 1
 redirects:
 - Prepositions that cause cases/Í – excercise 1
 license: CC0
+reviewed: no
 ---
 
 Several prepositions can cause either þolfall or þágufall depending on context.

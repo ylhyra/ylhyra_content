@@ -1,5 +1,6 @@
 ---
 title: Text:Sofðu unga ástin mín/1
+reviewed: no
 ---
 
 <div data-translate="true" data-audio-file="Sofðu_unga.mp3">

@@ -1,5 +1,6 @@
 ---
 title: Project:Cognates
+reviewed: no
 ---
 
 == Words with an English cognate ==

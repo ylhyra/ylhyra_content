@@ -1,6 +1,7 @@
 ---
 title: Nokkrir
 level: A2
+reviewed: no
 ---
 <vocabulary>
 hér eru nokkrir menn

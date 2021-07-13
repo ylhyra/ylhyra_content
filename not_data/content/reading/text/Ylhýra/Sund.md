@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ---
 title: Sund
 redirects:
@@ -13,6 +7,7 @@ tags:
 license: CC0
 level: A1
 word count: 180
+reviewed: no
 ---
 <vocabulary>
 aldrei
@@ -94,4 +89,3 @@ Sundlaugar eru mjög vinsælar á Íslandi. Það er sundlaug í næstum því h
 
 *The pool itself is called ''sundlaug'' ("swimming pool"), but the activity of going to the pools is called ''að fara í sund'' ("go into a swimming"). If you are at the pools, you are ''í sundi'' ("in a swimming").
 </div>
-

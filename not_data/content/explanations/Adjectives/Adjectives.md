@@ -7,6 +7,7 @@ tags:
 - Adjectives
 - Parts of speech
 license: CC0
+reviewed: no
 ---
 
 '''Adjectives''' (lýsingarorð) are the words that describe things, such as ''interesting'', ''funny'', and ''difficult''.

@@ -1,6 +1,7 @@
 ---
 title: i
 license: CC0
+reviewed: no
 ---
 
 The letter '''i''' is pronounced similar to the English ''k'''i'''d''. The Icelandic letter ''[[y]]'' has the exact same pronunciation.

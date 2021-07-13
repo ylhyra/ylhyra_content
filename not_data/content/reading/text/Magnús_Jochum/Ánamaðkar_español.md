@@ -2,6 +2,7 @@
 title: Magnús Jochum Pálsson/Ánamaðkar/es
 redirects:
 - Español/Magnús Jochum Pálsson/Ánamaðkar
+reviewed: no
 ---
 
 <div class="book" data-translate="true" data-audio-file="Ánamaðkar.mp3">

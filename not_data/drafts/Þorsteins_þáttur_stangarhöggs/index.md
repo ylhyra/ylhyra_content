@@ -1,5 +1,6 @@
 ---
 title: Þorsteins þáttur stangarhöggs
+reviewed: no
 ---
 
 2,600 words

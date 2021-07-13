@@ -4,6 +4,7 @@ redirects:
 - Asabergny/Ég lykta svo vel í dag að ég vorkenni
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

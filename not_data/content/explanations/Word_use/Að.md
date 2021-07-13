@@ -3,6 +3,7 @@ title: Að
 tags:
 - Words
 license: CC0
+reviewed: no
 ---
 
 `Að` is used a lot in Icelandic. It can have several different uses, but most often it means '''''to''''' as in '''''to eat'''''.

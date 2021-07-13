@@ -6,6 +6,7 @@ redirects:
 - Soft G-sound#Soft G
 - Soft throaty G#Soft throaty G
 license: CC0
+reviewed: no
 ---
 
 # G

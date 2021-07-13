@@ -1,5 +1,6 @@
 ---
 title: Course/I know
+reviewed: no
 ---
 <vocabulary>
 ég veit

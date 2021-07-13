@@ -4,6 +4,7 @@ tags:
 - Exercises
 level: A1
 license: CC0
+reviewed: no
 ---
 
 This is an exercise for the use of the word [[búinn]].

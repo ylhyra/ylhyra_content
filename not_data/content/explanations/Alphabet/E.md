@@ -1,6 +1,7 @@
 ---
 title: E
 license: CC0
+reviewed: no
 ---
 
 The letter '''E''' is pronounced <Audio src="j_6G.mp3" inline/>. It is similar to the English ''b'''e'''t''.

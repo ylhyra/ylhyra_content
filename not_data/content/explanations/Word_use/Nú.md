@@ -2,6 +2,7 @@
 title: Nú
 level: A2
 license: CC0
+reviewed: no
 ---
 
 ''Nú'' means "now". You can add it to the middle of sentences to create a much more relaxed sentence:

@@ -6,6 +6,7 @@ tags:
 - Exercises
 level: A1
 license: CC0
+reviewed: no
 ---
 <vocabulary>
 íslenska

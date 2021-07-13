@@ -1,5 +1,6 @@
 ---
 title: Course/A1/Conversation – Búinn
+reviewed: no
 ---
 
 Hvað ertu búinn að gera í dag?

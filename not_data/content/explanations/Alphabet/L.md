@@ -6,6 +6,7 @@ redirects:
 - Double L#Double L
 - Ll#Double L
 license: CC0
+reviewed: no
 ---
 
 The letter '''L''' can represent a few different sounds.

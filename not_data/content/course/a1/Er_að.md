@@ -1,5 +1,6 @@
 ---
 title: Course/Doing
+reviewed: no
 ---
 <vocabulary>
 Ég er að vinna.
@@ -57,7 +58,3 @@ me: Ég er að læra íslensku.
 me: Ert þú að læra íslensku?
 you: Nei, ég er ekki að læra íslensku.
 </Conversation>
-
-== Recommendations ==
-
-* {{Recommendations/Study_vocabulary}}

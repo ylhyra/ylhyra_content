@@ -3,6 +3,7 @@ title: Course/A1/Hello
 vocabulary:
 redirects:
 - Chapter 1/Hello
+reviewed: no
 ---
 
 `Halló` and `hæ` are the most common ways to casually greet someone. They sound almost exactly like their English counterparts.

@@ -1,5 +1,6 @@
 ---
 title: Course
+reviewed: no
 ---
 
 This is a short beginner-level tutorial in Icelandic.

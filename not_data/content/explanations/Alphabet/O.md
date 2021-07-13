@@ -1,6 +1,7 @@
 ---
 title: O
 license: CC0
+reviewed: no
 ---
 
 The letter '''O''' is pronounced <Audio src="969t.mp3" inline/>, like how British people say ''h'''o'''t'' or ''w'''a'''ter''.

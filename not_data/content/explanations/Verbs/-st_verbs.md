@@ -8,6 +8,7 @@ redirects:
 tags:
 - Verbs
 license: CC0
+reviewed: no
 ---
 
 Certain Icelandic [[verbs]] have another form that ends in '''-st''', such as "að komast", "að giftast", and "að sjást". If you look the [https://inflections.ylhyra.is/ inflection tables] of these words you will see them labeled as the "[[w:Middle voice|middle voice]]" (''miðmynd'').

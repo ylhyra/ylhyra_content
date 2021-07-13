@@ -7,6 +7,7 @@ redirects:
 tags:
 - Word use
 license: CC0
+reviewed: no
 ---
 
 '''Sletta'''<note>The word '''''sletta''''' means to spill or splash a little bit of liquid somewhere. The meaning is therefore that you're splashing a little bit of a foreign language into your own language.</note> is to use a foreign word when speaking Icelandic. Although Icelanders generally try their best to keep foreign words out of the language, there are several instances where you are "allowed" to use a foreign word. Sletta does not cover words that have already become an accepted part of the language (such as ''pítsa''). Note that while it is sometimes permissible to use them in spoken language, they are very much discouraged in written language. Slettur must also conjugate like any other word.

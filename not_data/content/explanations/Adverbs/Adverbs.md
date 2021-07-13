@@ -7,6 +7,7 @@ tags:
 - Nouns
 - Parts of speech
 license: CC0
+reviewed: no
 ---
 
 '''Adverbs''' (''atviksorð'') are a class of words that don't fit into the other categories of words. They describe for example when, how, or where things happen. Their form doesn't [[Inflection|change]] depending on what's happening in the sentence.<note>Except a handful may indicate "well / better / best" (vel / betur / best)</note> Adverbs are commonly seen:

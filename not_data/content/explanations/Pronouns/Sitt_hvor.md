@@ -4,6 +4,7 @@ tags:
 - Word use
 level: B2
 license: CC0
+reviewed: no
 ---
 
 If “sitt hvor” wasn’t such a common phrase, the ‘correct’ way to [[decline]] it would be:

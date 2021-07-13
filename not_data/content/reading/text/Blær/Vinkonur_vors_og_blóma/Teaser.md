@@ -1,5 +1,6 @@
 ---
 title: Text:Blær/Vinkonur vors og blóma/Teaser
+reviewed: no
 ---
 
 <a href="{{fullurl:Blær/Vinkonur_vors_og_blóma}}" class="frontpage-box-with-image"><span class="frontpage-box-description">

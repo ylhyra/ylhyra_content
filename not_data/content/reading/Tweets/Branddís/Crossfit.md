@@ -4,6 +4,7 @@ redirects:
 - Branddis Asrun/Sá stelpu í crossfit nota sandpappír
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

@@ -4,6 +4,7 @@ redirects:
 - Asabergny/Hver sundferð er endurfæðing
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

@@ -3,6 +3,7 @@ title: Að vera
 tags:
 - Verbs
 license: CC0
+reviewed: no
 ---
 
 '''`Að vera`''' = to be

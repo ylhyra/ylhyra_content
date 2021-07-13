@@ -3,6 +3,7 @@ title: Hljóta
 tags:
 - Words
 license: CC0
+reviewed: no
 ---
 
 Hljóta means "gotta be".

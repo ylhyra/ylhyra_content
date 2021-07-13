@@ -1,5 +1,6 @@
 ---
 title: Magnús Jochum Pálsson
+reviewed: no
 ---
 
 Magnús Jochum Pálsson (born 1997) is an author of short stories. He published ''[https://www.penninn.is/is/book/obreytt-astand Óbreytt ástand]'' in 2018, a 27 page book containing works such as:

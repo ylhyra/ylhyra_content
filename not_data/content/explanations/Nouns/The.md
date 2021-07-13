@@ -9,6 +9,7 @@ redirects:
 - Without article
 level: A1
 license: CC0
+reviewed: no
 ---
 
 The word "'''the'''" is known as the [[w:Definite article|definite article]]. In English it is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the relevant word ("hús'''ið'''").

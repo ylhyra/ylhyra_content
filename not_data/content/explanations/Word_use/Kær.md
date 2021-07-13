@@ -8,6 +8,7 @@ tags:
 - Words
 level: A1
 license: CC0
+reviewed: no
 ---
 
 `Kær` means ''dear'', ''beloved'', or ''cherished''. It is directly related to the English word ''cherished'', both came from the French word ''cher'' (it reached Iceland through the French [[w:Chivalric sagas|chivalric sagas]]).

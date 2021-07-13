@@ -1,5 +1,6 @@
 ---
 title: Course/Future
+reviewed: no
 ---
 <vocabulary>
 að koma

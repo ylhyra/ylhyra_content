@@ -3,6 +3,7 @@ title: Bláa lónið
 tags:
 - Culture
 license: CC0
+reviewed: no
 ---
 
 <Image src="Bláa lónið.jpg" position="right"/>

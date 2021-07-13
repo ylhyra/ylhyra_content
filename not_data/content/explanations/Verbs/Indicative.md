@@ -10,6 +10,7 @@ redirects:
 tags:
 - Grammatical moods
 license: CC0
+reviewed: no
 ---
 
 The '''indicative''' ("framsöguháttur") is the default [[grammatical mood]] of [[verbs]]. It indicates that something is a fact, such as in "hann '''fer'''" (he goes) and "við '''fórum'''" (we went).

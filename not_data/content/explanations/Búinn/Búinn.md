@@ -8,6 +8,7 @@ tags:
 - Word use
 level: A1
 license: CC0
+reviewed: no
 ---
 
 '''Búinn''' means "done" or "finished". You use the word to when explaining what you '''have''' been doing, or more specifically when explaining what you've done ''recently'' and what you've ''already'' done.

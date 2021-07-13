@@ -5,6 +5,7 @@ tags:
 - Words
 license: CC0
 index: no
+reviewed: no
 ---
 
 '''Það''' can be a:

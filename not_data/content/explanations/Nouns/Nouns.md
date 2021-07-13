@@ -7,6 +7,7 @@ tags:
 - Nouns
 - Parts of speech
 license: CC0
+reviewed: no
 ---
 
 '''Nouns''' (''nafnorð'') are the class of words that contain objects, creatures, ideas and so on such as: car, human, leg, happiness, Iceland.

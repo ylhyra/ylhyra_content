@@ -1,6 +1,7 @@
 ---
 title: Linguistic purism
 license: CC0
+reviewed: no
 ---
 
 {{under construction}}

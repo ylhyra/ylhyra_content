@@ -1,5 +1,6 @@
 ---
 title: Talk:Búinn vs. hef
+reviewed: no
 ---
 
 Ég er á ferðalagi um heiminn. Ég er búinn að heimsækja Mexíkó og Rússland, en á eftir að heimsækja Albaníu = I am travelling around the world. I have already visited Mexico and Russia, but I still haven’t visited Albania.

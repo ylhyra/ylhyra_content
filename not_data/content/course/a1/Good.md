@@ -1,5 +1,6 @@
 ---
 title: Course/Good
+reviewed: no
 ---
 <vocabulary>
 ég
@@ -98,5 +99,5 @@ me: Já, ég er mjög góður í íslensku.
 
 ==Recommendations==
 
-*{{Recommendations/Study_vocabulary}}
+<!-- *{{Recommendations/Study_vocabulary}} -->
 *Listen to the song [https://www.youtube.com/watch?v=dIkuRAf4EfI Það er gott að elska] ("It is good to love") by Bubbi, see the lyrics [https://www.guitarparty.com/songs/thad-er-gott-ad-elska/ here]. Focus only on the words used in the chorus.

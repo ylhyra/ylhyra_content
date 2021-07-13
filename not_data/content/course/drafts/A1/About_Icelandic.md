@@ -1,5 +1,6 @@
 ---
 title: Course/A1/About Icelandic
+reviewed: no
 ---
 
 ==About Icelandic==

@@ -1,5 +1,6 @@
 ---
 title: Chapter 1/Er
+reviewed: no
 ---
 
 '''`[[Að vera|Er]]`''' means "is". It is very similar to the English "you '''are'''".

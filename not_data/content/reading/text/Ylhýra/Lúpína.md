@@ -6,6 +6,7 @@ license: CC0
 level: B1
 published: August 2020
 todo: bara fyrsta málsgrein búin
+reviewed: no
 ---
 <vocabulary>
 næstum því

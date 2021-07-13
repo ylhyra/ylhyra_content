@@ -5,6 +5,7 @@ redirects:
 tags:
 - Content
 license: CC0
+reviewed: no
 ---
 
 <Image src="Landmannalaugar2.jpg"/>

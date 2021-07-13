@@ -4,6 +4,7 @@ tags:
 - Culture
 license: CC0
 level: A1
+reviewed: no
 ---
 
 <Book audio="Strætó.mp3">

@@ -1,12 +1,12 @@
 ---
 title: Course/I am going to
+reviewed: no
 ---
 <vocabulary>
 Ég ætla ekki að læra í dag.
 mikið
 mjög mikið
 að drekka
-<!-- Ég ætla ekki að drekka mikið kaffi. -->
 Ég ætla ekki að læra í dag.
 Ég ætla að drekka mikið vatn í dag.
 að koma
@@ -69,7 +69,3 @@ me: En þú?
 you: Ég ætla bara að borða.
 me: Það hljómar mjög vel.
 <Conversation>
-
-==Recommendations==
-
-*{{Recommendations/Study_vocabulary}}

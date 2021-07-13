@@ -4,6 +4,7 @@ tags:
 - Subjunctive
 - Word use
 license: CC0
+reviewed: no
 ---
 
 In Icelandic, the way to show politeness is:

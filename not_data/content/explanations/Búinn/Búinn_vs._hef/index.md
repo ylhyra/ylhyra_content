@@ -5,6 +5,7 @@ tags:
 - Grammar
 level: A2
 license: CC0
+reviewed: no
 ---
 
 There are two different ways to express what you have done: '''hef''' ("have") and '''[[búinn]]''' ("done/finished").

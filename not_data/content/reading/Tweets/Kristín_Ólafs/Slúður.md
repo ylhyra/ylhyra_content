@@ -4,6 +4,7 @@ redirects:
 - Krolafs/Þegar þú veist að það eru einhverjar
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet

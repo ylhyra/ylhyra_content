@@ -9,6 +9,7 @@ tags:
 - Cases
 level: A1
 license: CC0
+reviewed: no
 ---
 
 There are four [[cases]] in Icelandic. The '''third case''' in the [[declension table]] is known as the "dative case".<note>On Ylhýra we refer to it as the "third case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].

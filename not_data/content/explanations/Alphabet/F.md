@@ -1,6 +1,7 @@
 ---
 title: F
 license: CC0
+reviewed: no
 ---
 
 The letter '''F''' is normally pronounced exactly like the F in English.

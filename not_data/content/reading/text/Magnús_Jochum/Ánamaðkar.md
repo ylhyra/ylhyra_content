@@ -2,6 +2,7 @@
 title: Magnús Jochum Pálsson/Ánamaðkar
 tags:
 - Text
+reviewed: no
 ---
 
 <small>[[Español/Magnús_Jochum_Pálsson/Ánamaðkar|Read in Spanish]]</small>

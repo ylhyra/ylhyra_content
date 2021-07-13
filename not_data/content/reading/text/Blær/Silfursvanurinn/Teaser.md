@@ -1,5 +1,6 @@
 ---
 title: Text:Blær/Silfur svanurinn/Teaser
+reviewed: no
 ---
 
 <a href="{{fullurl:Blær/Silfur svanurinn}}" class="frontpage-box-with-image"><!--

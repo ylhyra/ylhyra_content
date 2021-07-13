@@ -5,6 +5,7 @@ redirects:
 tags:
 - Word use
 license: CC0
+reviewed: no
 ---
 
 *[[Hérna]]

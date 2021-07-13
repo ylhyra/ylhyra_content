@@ -1,5 +1,6 @@
 ---
 title: Project:Ylhýra/Kennsluefni í vinnslu
+reviewed: no
 ---
 
 [[Course/A1]]

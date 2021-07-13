@@ -3,6 +3,7 @@ title: Blær/Fyrst við erum hérna
 redirects:
 - Blær/Vestfirðir
 - Fv
+reviewed: no
 ---
 
 {{Blær|https://blaer.is/grein/fyrst-vid-erum-herna}}

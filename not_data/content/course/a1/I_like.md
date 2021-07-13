@@ -1,5 +1,6 @@
 ---
 title: Course/I like
+reviewed: no
 ---
 <vocabulary>
 Það er gaman.

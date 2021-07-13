@@ -1,5 +1,6 @@
 ---
 title: Project:Drafts/Course WIP
+reviewed: no
 ---
 
 Ég veit ekki '''alveg''' hvað ég er að gera.

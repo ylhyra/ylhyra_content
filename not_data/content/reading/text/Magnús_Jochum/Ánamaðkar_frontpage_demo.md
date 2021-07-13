@@ -1,5 +1,6 @@
 ---
 title: Text:Demo
+reviewed: no
 ---
 
 <div id="frontpage-splash-screen-demo-text" data-translate="true">

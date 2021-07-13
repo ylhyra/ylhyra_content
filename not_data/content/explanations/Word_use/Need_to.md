@@ -3,6 +3,7 @@ title: Need to
 tags:
 - Word use
 license: CC0
+reviewed: no
 ---
 
 The following words all mean "I have to / I need to / I must":

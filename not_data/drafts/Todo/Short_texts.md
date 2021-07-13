@@ -2,6 +2,7 @@
 title: Project:Todo/Short texts
 tags:
 - Todo
+reviewed: no
 ---
 
 ''Geared towards: beginner, no experience with languages''

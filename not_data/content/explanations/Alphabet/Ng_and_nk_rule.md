@@ -4,6 +4,7 @@ redirects:
 - Ng
 - Nk
 license: CC0
+reviewed: no
 ---
 
 ==Pronunciation before ''ng'' and ''nk''==

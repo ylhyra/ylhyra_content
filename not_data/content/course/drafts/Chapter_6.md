@@ -3,6 +3,7 @@ title: Chapter 6
 vocabulary:
 tags:
 - Chapters
+reviewed: no
 ---
 
 =Verbs in Icelandic=

@@ -1,6 +1,7 @@
 ---
 title: Nafn Vestmannaeyja
 license: CC0
+reviewed: no
 ---
 
 <Image src="Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg"/>

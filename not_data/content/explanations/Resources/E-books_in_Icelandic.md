@@ -1,6 +1,7 @@
 ---
 title: E-books in Icelandic
 license: CC0
+reviewed: no
 ---
 
 Purchasing Icelandic e-books is quite easy and it is relatively cheap for the value you get out of them as a student.

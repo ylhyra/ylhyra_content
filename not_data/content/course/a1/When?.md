@@ -1,5 +1,6 @@
 ---
 title: Course/When?
+reviewed: no
 ---
 <vocabulary>
 hvenær

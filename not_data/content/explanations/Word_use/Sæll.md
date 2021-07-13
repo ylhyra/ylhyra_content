@@ -4,6 +4,7 @@ tags:
 - Word use
 - Words
 license: CC0
+reviewed: no
 ---
 
 {{Text:Sæll/Intro}}

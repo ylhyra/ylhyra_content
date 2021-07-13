@@ -4,6 +4,7 @@ redirects:
 - Asabergny/Ég er með harðsperrur eftir orminn.
 tags:
 - Tweets
+reviewed: no
 ---
 
 <Tweet
