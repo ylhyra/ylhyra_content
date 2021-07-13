@@ -17,7 +17,7 @@ reviewed: no
 Prepositions in Icelandic cause words to have a particular [[cases|case]]. A preposition will never cause the first case ([[nominative]]), it will always cause one of the other three ([[accusative]], [[dative]], or [[genitive]]).
 ***
 
-==Prepositions that always result in the same case==
+## Prepositions that always result in the same case
 Certain prepositions always result in the same case.
 
 The following prepositions always cause words to be in the [[Accusative|'''second case''' (accusative)]]:
@@ -42,7 +42,7 @@ The following prepositions always cause words to be in the [[Genitive|'''fourth 
 
 ***
 
-==Prepositions that can either cause the second or the third case==
+## Prepositions that can either cause the second or the third case
 Several prepositions can cause either the [[second case]] or the [[third case]] depending on context. A general rule is that:
 
 *The [[second case]] {{þf}} indicates that the subject is moving relative to the object.
@@ -140,7 +140,7 @@ Examples:
 *Ég sé hann í vikunni. {{þgf}} = I'll see him this week. This is a phrase.
 *Mikið ertu í flottri peysu. {{þgf}} = Oh my, the sweater you're wearing is really nice. You are already wearing the sweater, there is no movement.
 
-==[[Prepositions that cause cases/Í – exercise 1|Exercise 1 for ''í'']]==
+## [[Prepositions that cause cases/Í – exercise 1|Exercise 1 for ''í'']]
 ***
 
 '''með''' (with)
@@ -186,7 +186,7 @@ The [[third case]] can be seen in some word phrases:
 
   
 
-== See also ==
+## See also 
 
 * [[Verbs that cause cases|Verbs and the cases they cause]]
 

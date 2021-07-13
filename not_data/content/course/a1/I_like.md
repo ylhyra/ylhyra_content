@@ -25,7 +25,7 @@ mér finnst
 
 þetta er mjög gott kaffi
 
-==I like it==
+## I like it
 The way to express your opinion of things is to say "''I find it to be good''". "I like coffee" is "''I find coffee to be good''" and "I don't like studying" is "''I find it boring to study''". You use this format to express your likes, dislikes, your personal view of things, and your personal observations.
 
 The phrase is:
@@ -48,7 +48,7 @@ Já, ég drekk mjög mikið kaffi.
 Já, ég drekk kaffi með mjólk, en þú?
 Ég drekk kaffi og te með mjólk.
 
-==Difficult==
+## Difficult
 
 Hvað kannt þú mörg tungumál?
 

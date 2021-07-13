@@ -6,7 +6,7 @@ license: CC0
 reviewed: no
 ---
 
-= Numbers and counting =
+# Numbers and counting 
 
 The numbers can be a bit tricky. The numbers 1 to 4 conjugate just like adjectives, for all genders and for all cases. The rest of the numbers are simple, they don’t conjugate at all.
 
@@ -94,13 +94,13 @@ Here are the declension tables for the numbers one to four:
 | fjögurra
 |}
 
-== Komma ==
+## Komma 
 
 English uses the point as a decimal mark. English numbers: 5.2 cm = five point two centimeters $1,999.95 = one thousand nine hundred ninety nine point ninety five dollars
 
 But like in most of continental Europe, Iceland uses the comma instead of point. Icelandic numbers: 5,2 cm = fimm komma tveir sentímetrar 1.999,95$ = eitt þúsund níu hundruð níutíu og níu komma níutíu og fimm dollarar
 
-== Higher numbers ==
+## Higher numbers 
 
 In case you want to count over one hundred, you will need to use the Icelandic words ''hundrað'', ''þúsund'' and ''miljón''. To count using these numbers, it is important to realise that they have genders, too. So that is why in the previous example, it is ''eitt þúsund dollarar''. ''Þúsund'' is neuter, like ''hundrað'', while ''miljón'' is feminine. Let’s look at some examples:
 
@@ -110,7 +110,7 @@ In case you want to count over one hundred, you will need to use the Icelandic w
 (3) Það kostar tvö þúsund þrjú hundrað og fimmtíu krónur (<i>That costs 2350 krónur</i>)
 <!-- TODO add an example where we have a different case. -->
 </pre>
-== Counting and dates ==
+## Counting and dates 
 
 <!-- LM I don't understand this yet, but you use ordinals for dates and stuff. Need to have a warning about sixth being sjötta though -->
 fyrsti / fyrsta / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta fyrsta / fyrstu / fyrsta

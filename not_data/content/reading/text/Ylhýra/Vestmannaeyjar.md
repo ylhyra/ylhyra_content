@@ -20,7 +20,7 @@ Margir fara til Vestmannaeyja til að skoða krúttlegu fuglana sem búa í klet
 Árið 1973 varð stórt eldgos í Vestmannaeyjum. Helmingur allra húsa fór undir ösku. En bærinn var endurbyggður og nú búa fjögur þúsund manns í Vestmannaeyjum.
 </div>
 
-==Next up==
+## Next up
 
 *[[Nafn Vestmannaeyja]]
 

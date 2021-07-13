@@ -3,7 +3,7 @@ title: Talk:Sofðu unga ástin mín
 reviewed: no
 ---
 
-== Þýðing frá Láru ==
+## Þýðing frá Láru 
 <pre>
 
 Sleep, my young love.

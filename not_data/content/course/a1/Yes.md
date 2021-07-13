@@ -20,7 +20,7 @@ Já, takk.
 Nei, takk.
 </vocabulary>
 
-==Yes==
+## Yes
 There are '''two''' ways to say "yes" in Icelandic:
 
 *When answering "yes" to a question, you use `já`.
@@ -38,7 +38,7 @@ There's only one "no":
 *Er þetta góður hamborgari? Nei.
 *Er þetta '''ekki''' góður hamborgari? Nei.
 
-==Yeah sure==
+## Yeah sure
 You can duplicate the words to be more casual. "Já já" means "yeah sure" like you're less committed to the answer. This lack of committment can be used to show politeness, like you're saying "sure no problem".
 
 * já já = yeah sure (more casual than just "já")
@@ -52,7 +52,7 @@ You can duplicate the words to be more casual. "Já já" means "yeah sure" like 
 * 1|Ætlar þú að koma á eftir?
 * 2|Nei, ég ætla ekki að koma á eftir.
 
-==What did you just say?==
+## What did you just say?
 
 '''Ha?''' is equivalent to the English "Huh?" or "Hm?" but is used way more than in English. It means ''“What did you just say?”'', but it's not rude at all. You say "`ha?`" when:
 
@@ -63,6 +63,6 @@ The manner in which it is said is a bit harsh, and therefore many students feel 
 
 Remember that you don't say "Could you repeat that?" or "Would you mind talking a bit slower?", you just say "Ha?".
 
-== Recommendations ==
+## Recommendations 
 
 * Listen to the 1992 [[w:Eurovision|Eurovision]] song [https://youtu.be/ELSuY9riUUY?t=28 '''Nei eða já'''] ([https://4lyrics.eu/esc/1992/heart-2-heart-nei-eda-ja/ lyrics]). The only parts of the lyrics you should focus on are "Nei eða já" (No or yes).

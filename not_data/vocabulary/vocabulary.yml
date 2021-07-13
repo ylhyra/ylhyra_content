@@ -1698,12 +1698,12 @@ rows:
     level: 2
     row_id: 320
   - icelandic: að búa
-    english: to live somewhere
+    english: to live somewhere; to reside
     level: 1
     direction: "->"
     fix: ja
     row_id: 321
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-13"
   - icelandic: að búa til
     english: to create; to make
     level: 2
@@ -8967,11 +8967,11 @@ rows:
     row_id: 1761
     last_seen: "2021-07-12"
   - icelandic: ég b*ý*
-    english: I live _(somewhere)_
+    english: I live _(somewhere)_; I reside
     lemmas: að búa
     level: 1
     row_id: 1762
-    last_seen: "2021-07-12"
+    last_seen: "2021-07-13"
   - icelandic: Ég bý í Reykjavík.
     english: I live in Reykjavík.
     lemmas: að búa

@@ -3,7 +3,7 @@ title: Project:Cognates
 reviewed: no
 ---
 
-== Words with an English cognate ==
+## Words with an English cognate 
 
 akkúrat •
 aleinn •

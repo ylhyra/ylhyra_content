@@ -12,7 +12,7 @@ reviewed: no
 ---
 
 <!--[[Introduction to Icelandic spelling]]-->
-==Alphabet==
+## Alphabet
 These are the letters of the Icelandic alphabet:
 
 *[[A]]
@@ -55,7 +55,7 @@ These two-letter combinations are treated as if they were a single letter:
 *[[ey]]
 
 <!--
-==Vowels==
+## Vowels
 The following letters are pronounced like one sound:
 
 *[[A]], [[E]], [[I]], [[Í]], [[O]], [[U]], [[Ú]], [[Y]], [[Ý]], [[Ö]]
@@ -70,7 +70,7 @@ While these letters and letter clusters are a mixture of two sounds:
 *[[Æ]] – pronounced "aí"
 
 -->
-==Pronunciation rules==
+## Pronunciation rules
 
 *[[Exhaling before sounds]]
 *[[Short and long vowels]]

@@ -17,10 +17,10 @@ reviewed: no
 
 ***
 -->
-==Kennsluefni í vinnslu==
+## Kennsluefni í vinnslu
 Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmislegt sem skrifað hefur verið en þarf að bæta við seinna er í drögum undir [[Project:Drafts/Course_WIP]], sjá einnig eldra dæmi undir [[Project:Drafts/Course]].
 
-==Kennsluefni á döfinni==
+## Kennsluefni á döfinni
 
 *Á morgun, í morgun, á hinn, á morgnana, um morguninn
 *[[Project:Ylhýra/Kennsluefni í vinnslu|Ylhýra/Kennsluefni í vinnslu]]
@@ -37,7 +37,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 *[[Project:List of adjevtive declension patterns]]
 *[[Project:Sound_shift]]
 
-==Textar á döfinni==
+## Textar á döfinni
 
 *Næturlífið í Reykjavík
 *Íslenskt jarm
@@ -59,11 +59,11 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 *Tyrkjaránið
 *Baskar
 
-==Hugdettur að texta til að fá leyfi fyrir==
+## Hugdettur að texta til að fá leyfi fyrir
 
 *[[Project:Translation ideas]]
 
-==Texti sem þarfnast þýðingar==
+## Texti sem þarfnast þýðingar
 
 *Núna:
 **[[Þorsteins þáttur stangarhöggs]] Búið að næstum því þýða tvo kafla, en þeir þarfnast yfirferðar
@@ -79,7 +79,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 ***
 
-==Introductory pages needing sorting, finishing==
+## Introductory pages needing sorting, finishing
 
 *👁 [[Course/A1/New letters: Þ, Ð|Introduction to the letters Þ and Ð]]
 *👁 [[Course/A1/Is|Is]]
@@ -109,7 +109,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 ***
 
-==Annað==
+## Annað
 
 *Forsíða:
 **Fleiri hlekki vantar á hlaðvörp og þessháttar.
@@ -121,23 +121,23 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 *[[Project:Software work in progess|Software]]
 *Vantar að gera ítarlegri leiðbeiningar um hvernig hugbúnaðurinn virkar.
 
-===Ideas===
+### Ideas
 
 *Add declension and vocabulary excercises after reading texts.
 *Add a very slow recording to [[Intonation]] and videos.
 
-===Annað===
+### Annað
 
 *[[Project:Manual of style]]
 *Ná í fleiri ókeypis ljósmyndir frá [https://unsplash.com/photos/iAmDH5XqWNg Unsplash]
 *[https://skemman.is/bitstream/1946/7366/2/Lokaritgerd.pdf Ritgerð um viðtengingarhátt]
 *https://www.mediawiki.org/wiki/Extension:Cargo/Storing_data
 
-==Recent pages==
+## Recent pages
 
 *[[Special:NewPages]]
 
-== Todo varðandi beyginar ==
+## Todo varðandi beyginar 
 
 * helgi er beygt "til helgar" ef það þýðir weekend, annars "til helgi"
 * https://inflections.ylhyra.is/sj%C3%B3

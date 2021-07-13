@@ -18,7 +18,7 @@ There are four [[cases]] in Icelandic. The '''fourth case''' in the [[declension
 In Icelandic the first case is called '''eignarfall''' and is abbreviated as '''ef.''' Eignarfall literally means "owning case". The English name "genitive" means "pertaining to origin" in Latin.</note> It shows that the word belongs to something.
 
 The [[helper word]] you use to force a word into the fourth case is „til“ ("to").
-==Things that cause the fourth case==
+## Things that cause the fourth case
 The following [[prepositions]] always [[Prepositions that cause cases|cause]] the fourth case:
 
 *til (to)

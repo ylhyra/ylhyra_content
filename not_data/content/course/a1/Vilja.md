@@ -5,10 +5,10 @@ reviewed: no
 <vocabulary>
 </vocabulary>
 
-==Want==
+## Want
 There are two ways to say that you want something: "ég vil" (I want) and "mig langar" (I want, I desire).
 
-===Ég vil===
+### Ég vil
 "Ég vil" is a straighforward way of describing what you want. The word is related to the English "It is my will", which is also quite straightforward.
 
 Because this term is so blunt, you have to be careful never to use it when asking for things, because it can sound like you're demanding things. You can however use it when asking other people what they want. "Ég vil fá hamborgara" is a slightly rude statement: "I want a hamburger!!!", while "Vilt þú fá hamborgara?" is a friendly question: "Do you want a hamburger? :)".
@@ -17,7 +17,7 @@ Because this term is so blunt, you have to be careful never to use it when askin
 
 *Ég vil fara heim.
 
-===Mig langar===
+### Mig langar
 "Mig langar" is a more sentimental way of describing what you want. The word is related to the English "I long for it", which is also quite sentimental.
 
 Because of this, it's the word you should use when describing what you want. It's more polite and has a much less demanding tone than "ég vil".

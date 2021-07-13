@@ -17,7 +17,7 @@ This is a short beginner-level tutorial in Icelandic.
 - Course/Yes
 - Course/I know
 - Course/I know how to
-- Course/Live
+- Course/Live| Uhm... • Live
 # Unit {{incr}}
 - Course/Ordering food
 - Course/Difficult

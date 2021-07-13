@@ -7,7 +7,7 @@ reviewed: no
 
 ''Geared towards: beginner, no experience with languages''
 
-== Short phrases: ==
+## Short phrases: 
 
 get ég fengið – can I get
 
@@ -49,9 +49,9 @@ E: ég ætla bara út á safn til að kíkja (???)
 
 L: ég var að fá nýja vinnu, hún er frekar skemmtileg.
 
-== Short texts: ==
+## Short texts: 
 
-=== Swimming pools ===
+### Swimming pools 
 
 þegar maður býr í köldu landi þá vilja allir fara og finna hita. Í Finnlandi þá farir allir fjölskyldur saman í sána. En á Íslandi eru sánir ekki mjög vinsælar. Í staðinn fer maður í sund. Það eru sundlaugar út um allt á Íslandi. Bara í Reykjavík eru 13 sundlaugar. Og þær eru allar frábærar.
 
@@ -59,7 +59,7 @@ Ef þú kemur í heimsókn til Íslands, eru mjög mikilvægt að kíkja í sund
 
 Sundlaugarnar á Íslandi eru heitur með hiti frá hverum. Þess vegna er hægt að fara í heitum pottum í sumar jafnvel í vetur.
 
-=== nordic mythology ===
+### nordic mythology 
 
 Baldur throwing competition?
 

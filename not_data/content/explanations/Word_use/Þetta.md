@@ -11,7 +11,7 @@ reviewed: no
 [[:Text:Þetta/Intro]]
 [[:Text:Þetta/Full explanation]]
 
-==''Todo''==
+## ''Todo''
 Munurinn á '''þessu''' og ábendingarfornafninu '''sá'''.
 
 *'''Það''' getur ekki verið

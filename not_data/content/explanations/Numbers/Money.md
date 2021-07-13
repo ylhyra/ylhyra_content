@@ -8,7 +8,7 @@ reviewed: no
 
 Iceland's currency is the [[w:Icelandic króna|Icelandic króna]].
 
-==Kall==
+## Kall
 ''Kall'' (an alternative writing of "karl", meaning "man") is a sort of informal way to talk about an amount of money. It's similar to the American "bucks" or English "quid".
 
 *Það kostar fimm hundruð kall í strætó. = Það kostar fimm hundruð krónur í strætó.

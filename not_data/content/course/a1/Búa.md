@@ -19,7 +19,7 @@ Hvar ætlarðu að búa?
 <!-- Mamma mín veit hvar ég bý. -->
 </vocabulary>
 
-==Uhm...==
+## Uhm...
 There are two almost identical words that mean "here", they are "hérna" and "hér". "Hérna" and "hér" are synonymous, but "hérna" is more commonly used.
 
 The [[H]] in "hérna" is not a normal H sound, instead it has a sound similar to the English "'''''h'''ue''". This sound is created not in the throat but with a constriction in the back of the roof of your mouth. This sound appears when H is followed by a [[J]] or [[É]].
@@ -34,32 +34,15 @@ Remember that "rn" is pronounced "dn", so "hérna" is pronounced {{pron|hédna}}
 *'''Hérna''', hvað ætlar þú að gera í dag? = '''Uhh so''', what are you going to do today?
 *Ég, '''hérna''', ætla að borða, '''hérna''', hamborga. = I am, '''uhh''', going to eat an, '''uhh''', hamburger.
 
-==I live here==
-"Að búa" means "to live somewhere, to reside". The Ú goes through a [[sound change]] in the other forms of the verb:
+## I live here
+"Að búa" means "to live somewhere, to reside". As is common with many verbs, the main vowel [[sound change|changes]] to something else in other verb forms. Here, the "[[ú]]" has turned into an "[[ý]]".
 
 *að b'''ú'''a = to live somewhere, to reside
 *ég b'''ý''' = I live somewhere, I reside
-*þú b'''ý'''rð = you live somewhere, you reside
-*hann b'''ý'''r = he lives somewhere, he resides
 
-you: Hérna, hvar býrð þú?
-me: Ég bý hérna í Reykjavík.
-you: Ah, ókei.
-you: Hvar býr mamma þín?
-me: Hún býr í Boston.
-you: Í Ameríku?
-me: Já.
-you: Ætlar þú að búa í Ameríku?
-me: Æ, ég veit það ekki.
-you: Er gott að búa í Reykjavík?
-me: Já, það er frekar gott.
-you: Er mamma þín góð í íslensku?
-me: Já, hún er frekar góð.
-you: Ætlar hún að búa lengi í Ameríku?
-me: Ekki mjög lengi.
-me: En hvar býrð þú?
-you: Ég bý á Akureyri.
-me: Hvar er það?
-you: Það er á Norður-Íslandi.
-me: Ah. Er gott að búa á Akureyri.
-you: Já, það er frekar gott að búa hérna.
+
+
+
+
+
+

@@ -6,7 +6,7 @@ reviewed: no
 
 This is an appendix to the article on [[-ó endings]] and is a semi-exhaustive list of less common -ó words.
 
-==Occasionally seen==
+## Occasionally seen
 
 *menntaskóli → '''menntó''' (a junior college)
 **Informal.
@@ -29,7 +29,7 @@ This is an appendix to the article on [[-ó endings]] and is a semi-exhaustive l
 *rómantískt → '''rómó''' (romantic)
 **Informal.
 
-==Extremely uncommon==
+## Extremely uncommon
 You should not make any effort to learn these words, they are only listed here for completeness.
 
 *tíkarspenar → '''tíkó''' (pigtails in hair)
@@ -61,7 +61,7 @@ You should not make any effort to learn these words, they are only listed here f
 *gagnfræðiskóli → '''gaggó''' (high school, the term is no longer in use)
 **Informal, almost never seen today because gagnfræðiskólar were merged into grunnskólar and no longer exist.
 
-==Proper names==
+## Proper names
 You should not make an effort to learn these proper names, but they are also listed for completeness.
 
 *Hafrannsóknarstofnun → '''Hafró''' (National Marine Research Institution)

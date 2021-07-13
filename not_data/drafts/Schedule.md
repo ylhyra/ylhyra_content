@@ -13,9 +13,9 @@ I was not sure how many lessons or topics there would need to be every day or we
 
 It would also be nice to have some indication of what kind of exercises would work best with each topic. I have tried to do this for the first day.*
 
-== WEEK 1 ==
+## WEEK 1 
 
-=== Day 1 ===
+### Day 1 
 
 * ''Introduction'' What is Icelandic, how do I learn it?
 * ''Alphabet''
@@ -24,7 +24,7 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Pronunciation''
 * ''The ‚the‘''
 
-=== Day 2 ===
+### Day 2 
 
 * ''Halló'' Different greetings and how they are used. (Also: how do you answer the phone in Icelandic?)
 * ''Hv-pronunciation (hvað, hvernig, af hverju)'' Asking questions
@@ -32,14 +32,14 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Bless! (heyrumst/sjáumst)'' Saying goodbye.
 * ''My name is…''
 
-=== Day 3 ===
+### Day 3 
 
 * ''Ekki/ekkert /aldrei''
 * ''Ég ætla''
 * ''Takk/Gjörðu svo vel''
 * ''Where are you from?''
 
-=== Day 4 ===
+### Day 4 
 
 * ''‚Þarna‘ pronounciation'' Here and there.
 * ''son &amp; dóttir'' Surnames, families. (Needs noting that you can strictly speaking take your moms name but no-one does this. Is a recurring topic on fora.
@@ -47,7 +47,7 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''-ðu, -tu (ætlarðu/kauptu)''
 * ''Describing: smá, mjög, stundum''
 
-=== Day 5 ===
+### Day 5 
 
 * ''Búinn''
 * ''Hvað fílar þú?''
@@ -55,30 +55,30 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Nú og þá''
 * ''Days of the week''
 
-== WEEK 2 ==
+## WEEK 2 
 
-=== Day 1 ===
+### Day 1 
 
 * ''Introduction to verbs'' How are they usually formed?
 * ''Ég vil/mig langar''
 * ''Jú''
 * ''Orðin/n/ð''
 
-=== Day 2 ===
+### Day 2 
 
 * ''Spurningar 2.0 (hver, hversu, hverju)'' More questions. Á hverju degi
 * ''Seasons and weather''
 * ''Sem''
 * ''Pronunciation of (nn) after long vowels''
 
-=== Day 3 ===
+### Day 3 
 
 * ''Fjölskyldan mamma/pabbi/systir/bróðir'' Family names
 * ''Eiginlega/örugglega''
 * ''Uppáhalds''
 * ''Counting words/ordinals'' Incl. dates
 
-=== Day 4 ===
+### Day 4 
 
 * ''Bóðháttur 1'' (illustrate with recipes?)
 * ''Gaman/skemmtilegt''
@@ -86,7 +86,7 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Answering: ég skil, auðvitað, vonandi, einmitt''
 * ''Líka''
 
-=== Day 5 ===
+### Day 5 
 
 * ''Öðruvísi/eins (opposites?)''
 * ''Questions 3 Hvað er það mikið/langt/hátt?''
@@ -94,9 +94,9 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Mikill and margir''
 * ''Colours''
 
-== WEEK 3 ==
+## WEEK 3 
 
-=== Day 1 ===
+### Day 1 
 
 * ''Cases 2'' some more practice/theory about cases? Maybe some often used prepositions and verbs that come with a case, gleyma, hjálpa, etc.
 * ''Good day, good night''
@@ -104,21 +104,21 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Fæ and fara''
 * ''How do you feel? 1'' (þreyttur, hress, í stuð, glaður)
 
-=== Day 2 ===
+### Day 2 
 
 * ''Ertu ekki í lagi'' (being ill) Could be combined with some words regarding the body and the doctor
 * ''Búinn vs. hef''
 * ''Þess vegna, af því að''
 * ''Vinstri og hægri''
 
-=== Day 3 ===
+### Day 3 
 
 * ''Body parts''
 * ''Ef … þá'' Consequences
 * ''(ekki) enn''
 * ''Describing'' Stór/lítill
 
-=== Day 4 ===
+### Day 4 
 
 * ''Áður en/eftir''
 * ''Places around the house'' garðurinn, skúr, hurð, glugga
@@ -126,37 +126,37 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Aftur og aftur''
 * ''Leiðinlegur, sorglegur''
 
-=== Day 5 ===
+### Day 5 
 
 * ''Swear words?''
 * ''Rooms around the house''
 * ''í, við, á, undir, yfir''
 * ''Different kinds of verbs (a, u, i verbs)''
 
-== WEEK 4 ==
+## WEEK 4 
 
-=== Day 1 ===
+### Day 1 
 
 * ''Giving orders 2'' bóðháttur
 * ''á hverjum degi, um helgina''
 * ''Næsti eða síðasti dagur''
 * ''Food words''
 
-=== Day 2 ===
+### Day 2 
 
 * ''Cases 3: eignarfall''
 * ''Answering questions 2'' Því miður/endilega
 * ''Clothing'' (combines well with eignarfall)
 * ''How are you feeling 2''
 
-=== Day 3 ===
+### Day 3 
 
 * ''Segja, tala, samræða, umræða''
 * ''hjá''
 * ''Ordering in Icelandic''
 * ''Gráta, hlægja''
 
-=== Day 4 ===
+### Day 4 
 
 * ''Setja, setjast/koma, komast'' reflective verbs
 * ''Places:'' kirkja, garður, safn, etc.
@@ -164,7 +164,7 @@ It would also be nice to have some indication of what kind of exercises would wo
 * ''Opposites 2''
 * ''Persónufornafn and cases'' ég, mig, mér, mín
 
-=== Day 5 ===
+### Day 5 
 
 * ''Vera í/vera með''
 * ''Animals''

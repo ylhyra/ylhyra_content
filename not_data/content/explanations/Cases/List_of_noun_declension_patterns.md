@@ -13,8 +13,8 @@ The following table lists all the common patterns. [https://ylhyra.is/Template:N
 {{Noun declension patterns}}
 
 To memorize this list, start by studying only words that follow the most common patterns (fiskur, pabbi, mamma, and píanó). Don't memorize the endings, instead memorize the words themselves by reciting the four cases, including the [[helper words]]. Start by learning the [[singular]], leave the [[plural]] for later. Recite a few words a day like they were your evening prayers until it begins to stick. Always recite the tables including the [[helper words]], so that your phrase is: "hér er fiskur, um fisk, frá fiski, til fisks". Focus on learning only a handful of words really well. If you know a few words really well, your brain will begin to pick up on patterns as you read more text in Icelandic by yourself.
-=Masculine=
-==The “fiskur” pattern==
+# Masculine
+## The “fiskur” pattern
 This is the most common pattern for [[strong]] masculine nouns.
 
 Declension singular and plural
@@ -38,7 +38,7 @@ Names:
 
 *Ólafur, Haukur, Haraldur, Eiríkur, Ingólfur, Hlynur, Vilhjálmur, Gunnlaugur
 
-==The “fugl” pattern==
+## The “fugl” pattern
 This is exactly the same pattern as "fiskur" except for the lack of the "ur" in the first case.{{Declension singular and plural
 |hákarl
 |hákarl
@@ -71,7 +71,7 @@ Names:
 
 *Jón, Gunnar, Einar, Kristján, Stefán, Jóhann, Björn,<ref name=":0">The name Björn can either be declined "til Björns" or "til Bjarnar", but the animal can only be "til bjarnar".</ref> Halldór, Pétur, Arnar, Kristinn, Ragnar, Guðjón, Óskar, Karl, Ásgeir, Ágúst, Kjartan, Sigurjón, Friðrik, Aron, Hilmar, Baldur, Rúnar, Brynjar, Ómar, Ingvar, Sævar, Garðar, Viktor, Þórarinn, Hafsteinn, Ívar, Grétar, Aðalsteinn
 
-==The “matur” pattern ''(rare)''==
+## The “matur” pattern ''(rare)''
 This is a rare pattern.
 
 {{Declension singular and plural
@@ -89,7 +89,7 @@ Words:
 
 *matur, hafragrautur
 
-==The “skógur” pattern==
+## The “skógur” pattern
 
 {{Declension singular and plural
 |skóg'''ur'''
@@ -110,7 +110,7 @@ Names:
 
 *Magnús, Jóhannes, Tómas, Jónas
 
-==The “bjór” pattern==
+## The “bjór” pattern
 
 {{Declension singular and plural
 |bjór
@@ -135,7 +135,7 @@ Names:
 
 *Daníel, Davíð, Róbert, Benedikt, Alexander, Björgvin, Kristófer, Jakob, Axel
 
-==The “staður” pattern==
+## The “staður” pattern
 
 {{Declension singular and plural
 |stað'''ur'''
@@ -162,7 +162,7 @@ Additional letter:
 
 In the singular, this is the same pattern as "matur".
 
-==The “hvalur” pattern==
+## The “hvalur” pattern
 
 {{Declension singular and plural
 |tölvuleik'''ur'''
@@ -191,7 +191,7 @@ Same except no "ur" in first case:
 
 *bar (a->ö)
 
-==The “vinur” pattern==
+## The “vinur” pattern
 
 {{Declension singular and plural
 |vin'''ur'''
@@ -229,7 +229,7 @@ The following words and names follow the same pattern as "vinur", except they do
 
 *björn (jö→i; jö→ja), Björn<ref name=":0" /> (jö→i; jö→ja), örn (ö→e; ö→a), Örn (ö→e; ö→a)
 
-==The “pabbi” pattern==
+## The “pabbi” pattern
 This is the most common pattern for [[weak]] masculine words.
 
 {{Declension singular and plural
@@ -257,7 +257,7 @@ Names:
 
 *Árni, Bjarni, Helgi, Gísli, Andri, Bjarki, Atli, Guðni, Sindri, Snorri, Kári, Tryggvi, Ingi, Ari, Hjalti
 
-==The “frændi” pattern ''(rare)''==
+## The “frændi” pattern ''(rare)''
 This pattern is the same as "pabbi" in the singular, but has a different plural. It only appears in a handful of words that all end in "-ndi".{{Declension singular and plural
 |frænd'''i'''
 |frænd'''a'''
@@ -281,9 +281,9 @@ Words with umlaut:
 
 ***
 
-=Feminine=
+# Feminine
 
-==The “bygging” pattern==
+## The “bygging” pattern
 This patterns appears in words that end in "-ing" and most female names that are [[Strong|strongly]] declined. Nouns that end in "-ing" are all derived from verbs, like how the English "a build'''ing'''" is derived from "to build".{{Declension singular and plural
 |bygging
 |bygging'''u'''
@@ -303,7 +303,7 @@ Names:
 
 *Guðrún, Kristín, Sigrún, Ingibjörg, Elín, Katrín, Guðbjörg, Guðný, Ólöf, Sólveig, Elísabet, Kolbrún, Guðlaug, Sigurbjörg, Björg, Áslaug, Laufey, Sigurlaug, Rannveig, Þorbjörg, Dagný, Sóley
 
-==The “flugvél” pattern==
+## The “flugvél” pattern
 
 {{Declension singular and plural
 |vél
@@ -328,7 +328,7 @@ Names:
 
 *Rakel, Karen
 
-==The “búð” pattern==
+## The “búð” pattern
 {{Declension singular and plural
 |búð
 |búð
@@ -359,7 +359,7 @@ Names:
 
 *Berglind
 
-==The “bók” pattern==
+## The “bók” pattern
 
 {{Declension singular and plural
 |bók
@@ -381,7 +381,7 @@ Umlaut:
 *bók, rót, gulrót, viðbót (ó→æ)
 *önd, strönd, tönn (ö→e)
 
-==The “mamma” pattern==
+## The “mamma” pattern
 This is the most common pattern for [[Weak|weakly]] declined feminine words. {{Declension singular and plural
 |mamm'''a'''
 |mömm'''u'''
@@ -418,7 +418,7 @@ Names with umlaut:
 
 *Anna, Jóhanna, Sara, Hanna, Kristjana, Sandra, Arna, Halla, Svava,
 
-==The “keppni” pattern==
+## The “keppni” pattern
 This is a rare pattern where the words don't change their form in the singular. Luckily, you almost never see these words in the plural so you don't need to study it.{{Declension singular and plural
 |keppni
 |keppni
@@ -434,7 +434,7 @@ Words:
 
 *beiðni, keppni, samkeppni, leti,<ref name="singular">Only used in the [[singular]]</ref> athygli,<ref name="singular" /> eðlisfræði,<ref name="singular" /> efnafræði,<ref name="singular" /> jarðfræði,<ref name="singular" /> líffræði,<ref name="singular" /> lögfræði,<ref name="singular" /> stærðfræði,<ref name="singular" /> félagsfræði,<ref name="singular" /> málfræði<ref name="singular" />
 
-==The “steik” pattern==
+## The “steik” pattern
 This is a rare pattern.{{Declension singular and plural
 |steik
 |steik
@@ -458,9 +458,9 @@ Irregularities*
 
 ***
 
-=Neuter=
+# Neuter
 
-==The “píanó” pattern==
+## The “píanó” pattern
 Almost all neuter words follow this pattern. These words don't have a suffix in the first case plural, instead the plural is either the same as the singular (meaning people have to figure out from context whether you're talking about one or many items), or they can indicate the plural with a sound change.{{Declension singular and plural
 |píanó
 |píanó
@@ -489,7 +489,7 @@ Adds "j" in third case plural:
 
 *egg ("frá eggjum")
 
-==The “eyra” pattern==
+## The “eyra” pattern
 This is a rare pattern that usually only appears in the words for a handful of body parts.{{Declension singular and plural
 |eyr'''a'''
 |eyr'''a'''
@@ -513,7 +513,7 @@ Umlaut:
 
 *hjarta (a→ö)
 
-==The “stræti” pattern==
+## The “stræti” pattern
 
 {{Declension singular and plural
 |stræt'''i'''
@@ -534,7 +534,7 @@ Insertion of a "j" in the third case plural:
 
 *herbergi
 
-=Irregular=
+# Irregular
 These family terms follow the same highly irregular pattern:
 
 *bróðir, systir, faðir, móðir, dóttir

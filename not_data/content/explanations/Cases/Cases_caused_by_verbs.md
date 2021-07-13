@@ -12,7 +12,7 @@ reviewed: no
 
 kThis is a list of the most common verbs and which [[case]] they cause.
 
-==[[First case]]==
+## [[First case]]
 
 *að vera
 **„Þetta er góður hamborgari.“
@@ -21,7 +21,7 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að þykja
 **„Mér þykir þessi bók góð.“
 
-==[[Second case]]==
+## [[Second case]]
 
 *að aðstoða
 **„Geturðu aðstoðað mig?“
@@ -148,7 +148,7 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að þýða
 **„Það þýðir ekkert.“
 
-==[[Third case]]==
+## [[Third case]]
 
 *að bjóða
 **„Bjóddu honum líka.“
@@ -197,7 +197,7 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að þakka
 **„Ég verð að þakka þér fyrir það.“
 
-==Can either cause the [[Second case|second]] or [[third case]] (or both)==
+## Can either cause the [[Second case|second]] or [[third case]] (or both)
 
 *að segja
 **[[Second case]]: „Hver sagði það {{þf}}?“ (Who '''said''' that?)
@@ -215,14 +215,14 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að kenna
 **„Hver kenndi þér {{þgf}} þetta {{þf}}?“
 
-==[[Fourth case]]==
+## [[Fourth case]]
 
 *að sakna
 **„Ég sakna vina minna.“
 *að njóta
 **„Njóttu sumarfrísins.“
 
-==See also==
+## See also
 
 *[[Prepositions that cause cases|Prepositions and the cases they cause]]
 

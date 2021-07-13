@@ -27,7 +27,7 @@ However, if you're using a superlative like "'''''the''' largest''", the declens
 * Þú ert bestu'''r'''.
 * Þú ert best'''i''' vinur minn.
 
-==Example sentences==
+## Example sentences
 
 *Where is my good toothbrush? = Hvar er góði tannburstinn minn?
 *My good friend, why do you say such hurtful things? = Góði vinur, hví segirðu svona særandi orð?

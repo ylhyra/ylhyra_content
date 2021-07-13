@@ -7,7 +7,7 @@ reviewed: no
 
 The word „[[Ætla|að ætla]]“ usually means "to intend, to plan to". In old Icelandic it also had the alternative meaning of "to believe / to assume" which is today only used to say "I wonder if". Students usually find it to be a bit counter-intuitive, but learning it well is worth it.
 
-==Ætli ...?==
+## Ætli ...?
 Have a look at this sentence:
 
 *`Ætli þú viljir koma í heimsókn?`
@@ -29,7 +29,7 @@ More examples:
 
 ***
 
-==Ætli það ekki.==
+## Ætli það ekki.
 
 Related to the above, there also exists the possibility to ask questions with the word ''ekki'', similar to the English:
 
@@ -75,7 +75,7 @@ Examples:
 
 ***
 
-==Exercise – Translate from English to Icelandic==
+## Exercise – Translate from English to Icelandic
 I was wondering if there was some space in your car.
 
 $cot$

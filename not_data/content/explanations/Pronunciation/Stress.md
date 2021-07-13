@@ -9,7 +9,7 @@ license: CC0
 reviewed: no
 ---
 
-==Stress on words==
+## Stress on words
 Words are always pronounced with the stress (the emphasis) on the first part (the first syllable) of the word:
 
 *"maður" is pronounced '''''MAÐ'''ur''
@@ -28,10 +28,10 @@ In [[compound words]], the sub-words can have stress, but the main emphasis is o
 *"vegavinnufyrirtæki" is pronounced '''''VEG'''avinnu'''FYR'''irtæki''
 *"heimsótt" is pronounced '''''HEIM SÓTT'''''
 
-==Stress in sentences==
+## Stress in sentences
 There's no requirement that you ''have'' to place a stress on the start of every word (although that is the only place you can place a stress). In sentences, it is sufficient to keep the stress only on important words and on words you want to highlight. (See the article on [[intonation]] for examples.)
 
-===Unstressed words don't have long sounds===
+### Unstressed words don't have long sounds
 Have a look at this sentence:
 
 *"'''''MAM'''ma og '''PAB'''bi ætla að koma á '''EFt'''ir''".
@@ -40,7 +40,7 @@ If we wanted to, we could have placed stress on the word "koma", but we don't ha
 
 All long sounds become short when a word is unstressed.
 
-===Unstressed words don't have the [[Preaspiration|small breaths]]===
+### Unstressed words don't have the [[Preaspiration|small breaths]]
 The word "[[ekki]]" is pronounced {{pron|e{{h}}ki}}, with a small [[Preaspiration|breath of air]] being blown out right before the ''kk''. If the word is stressed, the small breath of air is absolutely necessary – without it people cannot understand you. However, if the word is unstressed there's no need for the breath. You can (and should) just pronounce it as {{pron|eki}}.
 
 *"'''''ÞAÐ''' er ekki '''RÉTT'''''", meaning "that's not true" is pronounced {{pron|það er iggi rétt}}

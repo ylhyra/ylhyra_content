@@ -19,7 +19,7 @@ Examples:
 
 ***
 
-==Exercices==
+## Exercices
 
 *[[Búinn vs. hef/Exercise 1|Búinn vs. hef – Exercise 1]]
 

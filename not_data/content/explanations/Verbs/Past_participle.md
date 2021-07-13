@@ -24,7 +24,7 @@ The word form `farið` functions exactly like an adjective and it [[Inflection|i
 
 [https://inflections.ylhyra.is/fara/433568 Click here] to see all the inflectional forms of the verb `að fara`. Then scroll down to "Past participle" to see the full table for how `farinn` changes.
 
-=={{anchor|Sagnbót}}“Hafa” and “geta” cause the past participle==
+## {{anchor|Sagnbót}}“Hafa” and “geta” cause the past participle
 The past participle also appears in another very important and common context: When a word appears with `að '''hafa'''` (to have) and `að '''geta'''` (to be able to).
 
 For the word hafa, this is exactly the same thing as happens in English:
@@ -39,7 +39,7 @@ Unlike in English however, the same happens with the word `að geta`:
 
 The form used in this context is '''always''' the [[Gender|neuter]] form in the [[Nominative case|first case]].<note>Because this form does not change at all, you might see a few books describe it as its own form, called the ''supine'' (''sagnbót'') form. For example, [https://bin.arnastofnun.is/ BÍN] lists this form by itself. However, since it always looks and behaves like the past participle, [[neuter]], [[nominative]], standard grammar books and school textbooks do not differentiate between the two. You can safely ignore this difference.</note> It does not change depending on the subject.
 
-==How to form the past participle==
+## How to form the past participle
 The formation of the past participle does not follow any rules that you can easily memorize and there are many irregular ones. What you're usually trying to do is to make the word end in `-að`, `-ið`, `-ð` or `-t`.
 
 Regular `-að` words include:

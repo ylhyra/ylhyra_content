@@ -12,7 +12,7 @@ The following words all mean "I have to / I need to / I must":
 *að verða að = to have to, must
 *að eiga að = to be supposed to do
 
-==Þurfa að==
+## Þurfa að
 ''Þurfa'' means "to need" (''Ég þarf nýja skó''; ''Ég þarf einhvern til að hjálpa mér''.) So, ''þurfa <u>að</u>'' is for when something needs to be done, should be done, or is necessary. In many scenarios it means the exact same thing as ''að verða að.''
 
 *Ég þarf að vera mættur klukkan þrjú.
@@ -20,7 +20,7 @@ The following words all mean "I have to / I need to / I must":
 *Það þarf að vökva blómin.
 *Hverju þyrfti að breyta?
 
-==Verða að==
+## Verða að
 
 ''Verða að'' often means the same thing as ''að þurfa að'', but it can be a bit stronger: meaning that you need to do something out of necessity, or because it is unavoidable.
 
@@ -29,7 +29,7 @@ The following words all mean "I have to / I need to / I must":
 *Ég verð að viðurkenna að mér fannst þetta myndband frekar fyndið.
 *Það verður að laga þetta eins fljótt og hægt er.
 
-==Eiga að==
+## Eiga að
 
 Eiga að means that you should do something, because someone told you to. The verb has an implied authority to it. For example:
 
@@ -78,7 +78,7 @@ Eiga að means that you should do something, because someone told you to. The ve
 |they had to
 |}
 
-==See also==
+## See also
 
 *[[Hljóta]] – "it's gotta be"
 

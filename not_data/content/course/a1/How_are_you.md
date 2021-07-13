@@ -22,14 +22,14 @@ mamma þín
 líka
 </vocabulary>
 
-==Hi==
+## Hi
 A simple greeting in Icelandic is:
 
 {{phrase|Hæ.|Hi.}}
 
 "Hæ" is pronounced the same as the English "hi". The letter [[Æ|'''Æ'''/'''æ''']] <Audio src="pGvG.mp3" inline/> is pronounced like "eye", it is written as a blend of the letters "A" and "E". If you don't have an Icelandic keyboard you can write "H'''ae'''" instead of "H'''æ'''".
 
-==How are you?==
+## How are you?
 After greeting someone, you then ask them how they are:
 
 {{phrase|„Hvað segir þú gott?“|How are you?}}
@@ -58,7 +58,7 @@ Both mean the exact same thing, but it's far more common to write it as "segirð
 
 As mentioned above, the letter Ð is extremely soft, so soft that it often disappears, and in this phrase, both of the Ð's completely disappear. And so, the sentence "Hvað segirðu gott?" is pronounced {{pron|k{{h}}va seyiru go{{h}}tt}}.
 
-==I'm fine.==
+## I'm fine.
 There is only one possible response to the question "Hvað segirðu gott?" ("How are you?"), and that is a positive response:
 
 {{phrase|Allt gott.|All good; Everything good.}}
@@ -85,7 +85,7 @@ me: En þú?
 you: Gott.
 </Conversation>
 
-==And how is your mother doing?==
+## And how is your mother doing?
 The way to say "your mom" is "mamma þín" ("''mom your''"):
 
 {{phrase|Hvað segir mamma þín gott?|How is your mother doing? ("What does your mom say that is good?")}}
@@ -112,7 +112,7 @@ you: Mamma mín segir líka allt gott.
 me: Það er gott.
 </Conversation>
 
-==Recommendations==
+## Recommendations
 
 *Practice saying "How are you?" and responding to yourself until you can do so without hesitating.
 <!-- *{{Recommendations/Study_vocabulary}} -->

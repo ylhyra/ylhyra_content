@@ -28,10 +28,10 @@ But other words, like “cat”, change a lot:
 
 The [[first case]] is the default case and is the one that is shown in dictionaries.
 
-==Comparison to English==
+## Comparison to English
 The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with '''''him'''''”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[first case]] in Icelandic, "him" is analogous to both the [[Second case|second]] and the [[third case]], and "his" is analogous to the [[fourth case]].
 </onlyinclude>
-==Further reading==
+## Further reading
 
 *[[List of noun declension patterns]]
 *[[Cases/A1/Exercise 1|Cases – Exercise 1]]

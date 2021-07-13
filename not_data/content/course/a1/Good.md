@@ -21,19 +21,19 @@ Hann er ekki góður í íslensku.
 Mamma mín er mjög góð í íslensku.
 </vocabulary>
 
-==I==
+## I
 "Ég" means "I".
 
 The letter [[É]] is pronounced <Audio src="iD48.mp3" inline/>. It is not a single sound but two, being pronounced like "yeah" in English.
 
 The letter G in the word "ég" is a [[Soft G|'''soft G''']] sound. The soft G sound is often so soft that it completely disappears, and that is the case for the word "ég". You do not pronounce the "g" in "ég" at all, you just pronounce it as {{pron|é}}.
 
-==I am==
+## I am
 "Ég er" means "I am". The letter '''[[R]]''' <Audio src="SpJM.mp3" inline/> is pronounced by tapping the roof of your mouth once quickly with the tongue, like the American pronunciation of ''au'''t'''umn'' or ''be'''tt'''er''.
 
 Remember that "ég" is just pronounced {{pron|é}}.
 
-==Good==
+## Good
 Like all other [[adjectives]], the word "good" changes its form depending on the [[gender]] of the person or word it's describing. There are three grammatical genders in Icelandic: he ([[masculine]]), she ([[feminine]]), and it ([[neuter]]).
 
 *Hann er '''góður'''. = He is good.
@@ -67,7 +67,7 @@ you: Er mamma þín líka '''góð''' í íslensku?
 me: Já, hún er líka mjög '''góð''' í íslensku.
 </Conversation>
 
-==You are==
+## You are
 
 *Þú ert góður í íslensku. = You are good at Icelandic. ("You are good in Icelandic.")
 
@@ -83,7 +83,7 @@ Notice how the form of the word "is" changes:
 *þú '''ert''' = you are
 *hún '''er''' = she is
 
-==Very==
+## Very
 "Mjög" means "very". Like with the word "ég", the letter G in "mjög" is a [[soft G]] that isn't pronounced at all.
 
 The letter '''[[Ö]]''' <Audio src=" 3AF6.mp3" inline/>is pronounced similarly to the English ''b'''i'''rd'' or ''n'''u'''rse'', but you do have to make your mouth circle-shaped and you have to pronounce it in the front of your mouth. In the word "mjög" it's a very long sound, and you should exaggerate its length. Since the G is silent, you can imagine it being written {{pron|mjööö}}.
@@ -97,7 +97,7 @@ me: Já, þetta er mjög gott.
 you: Ert þú góður í íslensku?
 me: Já, ég er mjög góður í íslensku.
 
-==Recommendations==
+## Recommendations
 
 <!-- *{{Recommendations/Study_vocabulary}} -->
 *Listen to the song [https://www.youtube.com/watch?v=dIkuRAf4EfI Það er gott að elska] ("It is good to love") by Bubbi, see the lyrics [https://www.guitarparty.com/songs/thad-er-gott-ad-elska/ here]. Focus only on the words used in the chorus.

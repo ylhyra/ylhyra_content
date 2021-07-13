@@ -11,7 +11,7 @@ Hvað ert{{u}} að læra?
 Ég er að læra íslensku.
 </vocabulary>
 
-==The basic form of verbs==
+## The basic form of verbs
 The most basic form of a [[verb]], and the form always shown in dictionaries, is the form used in "to do", "to learn", and "to be". It is known as the [[infinitive]] form. Verbs on this form usually end with the letter "a":
 
 *'''að''' gera = '''to''' do
@@ -19,7 +19,7 @@ The most basic form of a [[verb]], and the form always shown in dictionaries, is
 
 The little word "[[að]]" means the exact same thing as the English word "to", it is an additional word that shows that this is the basic form of the verb.
 
-==Doing==
+## Doing
 While English uses verbs that end in "-ing" to show what you're currently doing, Icelandic just uses the basic form:
 
 *Ég er '''að læra'''. = I am '''learning'''. (or literally "I am to learn")

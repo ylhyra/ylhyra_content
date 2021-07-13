@@ -99,7 +99,7 @@ $cot$
 Hvað ertu '''búinn''' að læra mörg orð í dag?
 
 $cob$
-==Exercise 2 – With two verbs==
+## Exercise 2 – With two verbs
 
 Fill in the blank:
 

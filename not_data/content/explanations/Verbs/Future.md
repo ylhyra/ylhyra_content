@@ -14,7 +14,7 @@ Talking about things that will happen in the future is easy, you just speak the 
 *Ég fer í sund. = I go swimming.
 *Ég fer í sund um helgina. = I '''will''' go swimming next weekend.
 
-==Verður = will be / becomes==
+## Verður = will be / becomes
 <level level="a1"/>
 
 The only exception to the simple explanation above is that you use ''að vera'' (to be) when speaking about the present, but you use a different word, ''að verða'' (to become), when speaking about the future.
@@ -24,7 +24,7 @@ The only exception to the simple explanation above is that you use ''að vera'' 
 *Þetta er mjög skemmtilegt.
 *Þetta verður mjög skemmtilegt.
 
-==Mun = will==
+## Mun = will
 <level level="b1"/>
 
 There does exist one other way to speak about the future, using ''mun'' (will):

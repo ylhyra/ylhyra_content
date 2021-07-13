@@ -8,30 +8,30 @@ license: CC0
 reviewed: no
 ---
 
-==Online teachers==
+## Online teachers
 
 *[https://www.italki.com/teachers/icelandic?from%5B0%5D=IS Icelandic teachers on iTalki]. Classes are around ISK 3,000 per hour.
 *[https://www.mimir.is/is/nam/icelandic-1 Mímir], classroom – 36 classes for around ISK 46,000. If you live in Iceland and are a part of a labour union, the classes will be subsidized. Online classes start in September and in January.
 
-==Language exchange==
+## Language exchange
 
 *[https://www.hellotalk.com/ HelloTalk]
 *[https://italki.com/ iTalki language exchange]
 *[https://discord.gg/YaVeJcq Discord group for learners of Icelandic]
 
-==Forums==
+## Forums
 
 *[https://discord.gg/YaVeJcq Discord group for learners of Icelandic]
 *[https://www.reddit.com/r/learnIcelandic/ /r/LearnIcelandic] on Reddit
 
-==Dictionaries==
+## Dictionaries
 
 *[https://snara.is/ Snara.is], a comprehensive online dictionary. Costs $5 per month, but is essential
 *[http://bin.arnastofnun.is/ BÍN – Icelandic declension and conjugation database] (See also [https://www.alarichall.org.uk/teaching/beygingarlysingarlysing.pdf BÍN glossary])
 *[http://digicoll.library.wisc.edu/cgi-bin/IcelOnline/IcelOnline.TEId-idx?id=IcelOnline.IEOrd Free Icelandic to English online dictionary]
 *[http://islex.is/islex Free Icelandic to Nordic languages online dictionary]
 
-==Teaching material==
+## Teaching material
 
 *<level level="a1"/> [https://www.alarichall.org.uk/teaching/modern_icelandic.php Audio course for beginners, by Alaric Hall]
 *<level level="a1"/> [http://tungumalatorg.is/ifu/files/2011/12/%C3%81fram%C3%ADslenska1hluti-2.pdf ''Áfram, áfram, áfram íslenska'', worksheets]
@@ -47,7 +47,7 @@ reviewed: no
 *<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar excercises]. ISK 3,000
 *<level level="b1"/> [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. ISK 3,700 (''Can not be purchased online'')
 
-==Texts==
+## Texts
 
 *<level level="b2"/> [http://digicoll.library.wisc.edu/IcelOnline/Browse.html#bilingual Bilingual texts] from ''Carry On Icelandic'' (2004)
 *<level level="a2"/> [https://www.forlagid.is/vara/arstidir/ ''Árstíðir''] (2020) – Short stories for learners of Icelandic ISK 2,900
@@ -58,7 +58,7 @@ reviewed: no
 *[https://english.arnastofnun.is/page/island_og_islendingar_en About Icelandic culture], from ''Carry on Icelandic'' (2004)
 *[https://www.aldasigmunds.com/books/the-little-book-of-the-icelanders/ Little Book of Icelanders], about Icelandic culture. USD 19
 
-==Audiobooks==
+## Audiobooks
 
 *[[E-books in Icelandic|List of some books available as both audiobooks and e-books]]
 *[https://www.forlagid.is/voruflokkur/rafbaekur/ All e-books available through Forlagið and Amazon]
@@ -83,7 +83,7 @@ reviewed: no
 *[https://www.youtube.com/watch?v=WkH48lLGRoE&list=PLi_ywhkKY1_XOv_rFvNcfIoH7rMphnJ9b&index=7&t=0s Djákninn á Myrká]
 *[https://www.youtube.com/watch?v=ZQkMtgGtYlI Samtalið á klaustri]
 
-==Children's plays==
+## Children's plays
 
 *[https://www.youtube.com/watch?v=sC46642qqHE Blái hnötturinn] (2018)
 *[https://www.youtube.com/watch?v=ouKJlMHwBng Ávaxtakarfan] (2013)
@@ -114,7 +114,7 @@ reviewed: no
 *[https://open.spotify.com/album/1mYSLZwzjzULHGFCdzcuHp?si=y14oS2LyTj2ajNbQ2cABQQ Gulleyjan] (2012)
 *[https://open.spotify.com/album/4Z53aLhUzgXeAQvKvzROtW?si=RKCB3vzZTcmqUwwRqwPBKw Kalli á þakinu] (2005)
 
-==Videos==
+## Videos
 
 *<level level="a1"/> [http://tungumalatorg.is/viltu_laera_islensku/en Viltu læra íslensku], '''has subtitles'''
 *Latibær [https://www.youtube.com/playlist?list=PLSqBgl5gIvtNSzoWv-vJwbP4qL9Tb20rs]
@@ -149,7 +149,7 @@ reviewed: no
 
 *[https://www.youtube.com/watch?v=JjkwuiS1chs Hvar er Guðmundur?]
 
-==Podcasts==
+## Podcasts
 '''Scripted podcasts'''
 
 *Í ljósi sögunnar ([https://open.spotify.com/show/4z956m0MLbaecUeSjlJmw2?si=9rZ1OpIhTySg5CiIJAQhew Spotify], [https://podcasts.apple.com/is/podcast/%C3%AD-lj%C3%B3si-s%C3%B6gunnar/id1093079601 iTunes], [https://www.ruv.is/thaettir/i-ljosi-sogunnar RÚV]) – The most popular Icelandic podcast. A podcast about notable international historical events. The narrator speaks clearly, and the topics might be familiar since they're international.
@@ -171,14 +171,14 @@ reviewed: no
 *[https://open.spotify.com/show/3UyRiO4SjljYhfbCbdbBLj Hemmi frændi]
 *[https://www.mixcloud.com/alvarpid/ Alvarpið] – Publisher of various Podcasts
 
-==Classes in real life==
+## Classes in real life
 
 *[https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland – Diploma (1 year) or bachelor's (3 years)], full-time classes. The classes are fully subsidized by the Icelandic government apart from a yearly ISK 70,000 inscrtiption fee.
 *[https://www.mimir.is/is/nam/icelandic-1 Mímir] – 36 classes for around 46,000. If you live in Iceland and are a part of a labour union, the classes will be subsidized.
 *[https://www.uw.is/icelandic_courses/ Summer classes in Ísafjörður] – University Center of the Westfjords
 *[http://thetincanfactory.eu/index.html The Tin Can Factory]
 
-==Various==
+## Various
 
 *[https://www.mcc.is/enska-forsida/ Guide to immigration]
 *[https://notendur.hi.is/haukurth/norse/ Introductory guide to Old Norse]

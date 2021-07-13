@@ -10,7 +10,7 @@ reviewed: no
 
 There are two different R sounds in Icelandic. One is an R using the voice <Audio src="SpJM.mp3" inline/>, and one is an R without using the voice <Audio src="iZyO.mp3" inline/>.
 
-==Normal R (R with the voice)==
+## Normal R (R with the voice)
 <Audio src="SpJM.mp3" inline/>
 
 This R sound is pronounced by tapping the roof of your mouth once quickly with the tongue. This is the same sound as the American ''au'''t'''umn'' or ''be'''tt'''er''. You may also recognize it from being the same as the hard Scottish R or the same as the sound in the Spanish ''ca'''r'''o''.
@@ -21,7 +21,7 @@ This is the default R sound:
 
 *`ve'''r'''a, k'''r'''óna, e'''r'''fitt, sva'''r'''a, ho'''r'''fa, '''r'''auður, b'''r'''óðir, hey'''r'''a`
 
-==Breathy R (R without using the voice)==
+## Breathy R (R without using the voice)
 <Audio src="iZyO.mp3" inline/>
 
 The other R sound in Icelandic is the R without using the voice.
@@ -38,7 +38,7 @@ This sound also occurs when the two letters "hr" are written together. Notice th
 
 ***
 
-==Exceptions==
+## Exceptions
 
 *'''rn''' – The letter cluster "rn" is pronounced "dn"<ref group="lower-alpha">As a student, you should always pronounce it as "dn", it sounds better and more natural. Native speakers do occasionally pronounce it as "rdn" (especially when speaking slowly), but you should try not to.
 

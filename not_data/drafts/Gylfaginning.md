@@ -7,7 +7,7 @@ reviewed: no
 
 https://docs.google.com/document/d/1Zaxz54OOpkNhoNIU8ad62QftcbEMuIlraSQ6054_gAM/edit
 
-== Original ==
+## Original 
 '''1. kafli'''
 
 Gylfi konungur réð þar löndum er nú heitir Svíþjóð. Frá honum er það sagt að hann gaf einni farandi konu að launum skemmtunar sinnar eitt plógsland í ríki sínu það er fjórir öxn drægi upp dag og nótt.
@@ -86,7 +86,7 @@ Hár segir: "Lifir hann of allar aldir og stjórnar öllu ríki sínu og ræður
 
 Þá svarar Hár: "Þá var hann með hrímþursum."
 
-== Modern Icelandic ==
+## Modern Icelandic 
 ''Á einfaldri nútímaíslensku''
 
 Gylfi konungur réð á því svæði sem nú heitir Svíþjóð. Til hans hafði komið farandkona sem skemmti konungi og sagði honum sögur. Konungur gaf henni að launum land í ríki sínu sem hún gæti ræktað upp. Landið sem konungur gaf henni var svo stórt að það myndi taka fjóra uxa, vinnandi dag og nótt, til að plægja það.
@@ -139,6 +139,6 @@ Gangleri spyr þá meira: „Hvað gerði Alföður eiginlega áður en himininn
 
 „Þá var hann með frost-tröllunum,“ svarar Hár.
 
-== English ==
+## English 
 http://www.sacred-texts.com/neu/pre/pre04.htm
 

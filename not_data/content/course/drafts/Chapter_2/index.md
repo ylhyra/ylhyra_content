@@ -6,19 +6,19 @@ tags:
 reviewed: no
 ---
 
-== Thanks ==
+## Thanks 
 
 {{/Thanks}}
 
-==Good day to you==
+## Good day to you
 
 {{/Good day}}
 
-==Who?==
+## Who?
 
 {{/Questions}}
 
-== Gender ==
+## Gender 
 
 {{Gender}}
 {{Text:Gender/Vocabulary}}

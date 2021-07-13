@@ -7,7 +7,7 @@ tags:
 reviewed: no
 ---
 
-==[[A1]]==
+## [[A1]]
 
 *General
 **[[Text:A1/Reykjavík|Reykjavík]] – 70 words
@@ -23,7 +23,7 @@ reviewed: no
 *Tweets
 **[[Tweets/Rannveig Dóra/Matur|Matur]] by Rannveig Dóra
 
-==[[A2]]==
+## [[A2]]
 
 *General
 **[[Harðfiskur]] – 135 words
@@ -40,7 +40,7 @@ reviewed: no
 **[[Tweets/Ása/Íslenskar bíómyndir|Íslenskar bíómyndir]] by Ása
 **[[Tweets/Imba/Afgreiðslustörf|Afgreiðslustörf]] by Imba
 
-==[[B1]]==
+## [[B1]]
 
 *[[Lúpína]] – 215 words
 *[[Lopapeysa ]] – 125 words
@@ -62,7 +62,7 @@ reviewed: no
 **[[Imba/afi|''afi'']] by Imba
 **[[Imba/current_mood|''current mood'']] by Imba
 
-==[[B2]]==
+## [[B2]]
 
 *General
 **[[Þúfa]] – 215 words
@@ -98,7 +98,7 @@ reviewed: no
 **[[Tweets/Þorsteinn/Afi|Afi]] by Þorsteinn
 **[[Tweets/Imba/Rok|Rok]] by Imba
 
-==[[C1]]==
+## [[C1]]
 
 *Videos
 **[[Villi Neto/Forníslenski sjomlinn|Forníslenski sjomlinn]] by Villi Neto

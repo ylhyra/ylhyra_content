@@ -3,7 +3,7 @@ title: Course/A1/About Icelandic
 reviewed: no
 ---
 
-==About Icelandic==
+## About Icelandic
 <Image src="Iceland (orthographic projection).svg" position="right" caption="The neighbors of Iceland are:
 <ul>
 <li>[[w:Greenland|Greenland]] to the left</li>
@@ -12,21 +12,21 @@ reviewed: no
 
 The Icelandic language has around 315,000 speakers, and almost all of them live in Iceland.<ref>[https://www.ethnologue.com/19/language/isl/ Ethnologue, 19th ed]. Numbers from 2015.</ref>
 
-===Language relatives===
+### Language relatives
 Icelandic is most closely related language is the [[w:Faroese language|Faroese language]], spoken in the [[w:Faroe Islands|Faroe Islands]] south-east of Iceland. Icelanders can't understand spoken Faroese, but they can read it and usually think that the Faroese vocabulary hilarious.
 
 Icelandic is also related to the languages spoken in Scandinavia (Norwegian, Danish, and Swedish), but they are different enough that even though Icelanders learn Danish in school for 7 years, most are unable to read Danish comfortably.
 
 All of these languages are descendants of the [[w:Old Norse language|Old Norse language]] spoken around the 9th to 13th century.
 
-===Where Icelandic comes from===
+### Where Icelandic comes from
 Norwegian settlers started moving to Iceland at the end of the 9th century and brought the Old Norse language with them. Living in relative isolation in an island in the North Atlantic Ocean meant that there was limited contact with other languages.
 
 Modern Icelandic is relatively similar to the Old Norse language spoken a thousand years ago, and even though the pronunciation has changed Icelanders can still read Old Norse literature relatively easily, which is something many Icelanders are proud of.
 
-===Similarity to English===
+### Similarity to English
 Icelandic and English both [[w:Germanic languages|Germanic languages]] and share many similarities, especially regarding sentence structure. Many words look similar in Icelandic and English, both because they are distantly related, and because English [[w:List of English words of Old Norse origin|acquired some words from Old Norse]] around the 10th century such as "cake", "egg", "ugly", and "take".
-==Is Icelandic difficult to learn?==
+## Is Icelandic difficult to learn?
 
 Becoming proficient in a new language does take a few years of practise, but Icelandic is not that much more difficult than most other languages. For a native English speaker, learning Icelandic will take:
 
@@ -35,11 +35,11 @@ Becoming proficient in a new language does take a few years of practise, but Ice
 *Less time than learning Japanese, Chinese, or Arabic
 
 In the long run, learning the vocabulary and grammar isn't that hard, the most difficult may be having the motivation or discipline to study a little bit every week for months, finding good learning material at the appropriate level, and consistenly using the language.
-==How well could I survive in Iceland by only speaking English?==
+## How well could I survive in Iceland by only speaking English?
 
 Since English is currently the global language, Icelanders learn English at school and most are adequate at English, similar to the rest of Northwestern Europe. While it is possible to live in Iceland using English, it comes at the cost of not being able to integrate well into society.
 
-==When will I become good at Icelandic?==
+## When will I become good at Icelandic?
 
 It should take a few weeks until you can comfortably greet people, several months for you to be able to chit chat out on the street, and a few years until you can take part in a heated argument with multiple people.
 

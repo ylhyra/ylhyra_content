@@ -10,7 +10,7 @@ license: CC0
 reviewed: no
 ---
 
-=Age=
+# Age
 
 Ages are discussed in the fourth case ([[genitive case]] {{ef}}).
 
@@ -45,7 +45,7 @@ It’s even okay to just skip the “ára” part as well, it is just implied.:
 
 *Ég get ekki fengið nýtt skírteini fyrr en ég verð þrjátíu og tveggja.
 
-=Módel=
+# Módel
 
 Most people don't actually know how old they are, instead they know which year they were born in. So, just like with car models you describe yourself as:
 

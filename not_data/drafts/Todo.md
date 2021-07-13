@@ -13,7 +13,7 @@ Current archives:
 *[[Project:Todo/2]]
 *[[Project:Todo/3]]
 
-== Meiri viðtengingarháttur ==
+## Meiri viðtengingarháttur 
 
 *Ég held að þetta _sé_ (að vera) búið. = I think it’s over.
 *Mér finnst þetta __vera___ (að vera) fáránlegt.

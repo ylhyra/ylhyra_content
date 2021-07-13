@@ -3,11 +3,13 @@ title: Ng and nk rule
 redirects:
 - Ng
 - Nk
+- ng rule
+- nk rule
 license: CC0
 reviewed: no
 ---
 
-==Pronunciation before ''ng'' and ''nk''==
+## Pronunciation before ''ng'' and ''nk''
 Words that contain the letters ''ng'' and ''nk'' have an unintuitive pronunciation: The word "þungur" is pronounced "þ'''ú'''ngur" and the word "fingur" is pronounced "f'''í'''ngur".
 
 The reason for this is that the sounds ''ng'' and ''nk'' are created with the tongue close to the roof of the mouth, and that is much easier to do if the sound that comes before it was also created with the tongue close to the roof of the mouth. The two vowels in Icelandic that are created with the tongue close to the roof of the mouth are ''[[Í|'''í''']]'' and ''[[Ú|'''ú''']]'' and therefore all sounds before ''ng'' and ''nk'' want to either be ''í'' or ''ú''.
@@ -26,4 +28,3 @@ The rules are:
 **fingur ({{pron|fíngur}}), klink ({{pron|klínk}})
 *'''[[y]]''' before ''ng'' or ''nk'' is pronounced '''[[ý]]''' (remember that "ý" is the same sound as ''[[í]]'')
 **syngur ({{pron|sýngur}}), þyngd ({{pron|þýngd}})
-

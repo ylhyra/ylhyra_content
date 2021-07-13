@@ -14,7 +14,7 @@ license: CC0
 reviewed: no
 ---
 
-==The hypothetical verb form==
+## The hypothetical verb form
 In Icelandic, [[verbs]] take on a different form when they express something that is hypothetical or uncertain. The form is known as the '''subjunctive''' ("viðtengingarháttur"). It appears in the following scenarios:
 
 *When expressing something hypothetical ("If I ''were'' president...")
@@ -24,7 +24,7 @@ In Icelandic, [[verbs]] take on a different form when they express something tha
 
 The last one is the most common situation where you will encounter the subjunctive. When the subjunctive appears due to being in a secondary sentence it does not have to indicate that something is a hypothetical situation (in the sentence "My mom says that I ''am'' a good cook" there is no doubt that she did indeed say that), the only reason it appears is due to grammatical rules.
 
-==Examples==
+## Examples
 {| class="wikitable"
 |+
 ![[Regular verb form]]
@@ -64,10 +64,10 @@ The last one is the most common situation where you will encounter the subjuncti
 |Secondary sentence
 |}
 
-==When to study this form==
+## When to study this form
 Viðtengingarháttur is a fairly advanced topic usually introduced around level [[B1]]. Learners often just use the [[regular verb form]] instead or try to avoid sentences where viðtengingarháttur is necessary, but since it is so common it is necessary to be aware of it. Although you will be understood if you don't use viðtengingarháttur, it sounds incorrect and amateurish to natives.
 
-==Words that cause the hypothetical form==
+## Words that cause the hypothetical form
 The following words are the most common things that cause the hypothetical form:
 
 *Ég held að ...
@@ -88,13 +88,13 @@ Note that the hypothetical form does '''not''' appear if sentences are connected
 *en
 *þegar
 
-==Politeness==
+## Politeness
 The subjunctive is used when you want to be extra polite. You have to use the [[past tense]], just like in the English "''Could'' I get some coffee?":
 
 *'''Gæti''' ég fengið kaffi?
 *'''Værir''' þú til í að hætta þessu?
 
-==Conjugation==
+## Conjugation
 When learning the conjugation tables of the viðtengingarháttur, you add "I think that ..." and "I thought that ..." before the verb. This is how native speakers conjugate, because they have a feel for what should happen to a verb if it is preceded by "I think". This will also train your feel for the language.
 
 [[Present tense]]:
@@ -145,16 +145,16 @@ When learning the conjugation tables of the viðtengingarháttur, you add "I thi
 |I thought they were
 |}
 
-==Miscallenous==
+## Miscallenous
 
 *The viðtengingarháttur is slowly disappearing – many younger speakers (born after 1995) have a much weaker sense of this verb mood and will for some types of sentences use the regular verb mood in cases where older speakers (born before 1985) would have used viðtengingarháttur. Young people still use it when describing hypothetical situations, but are less likely to use it in secondary sentences. For example, standard Icelandic is „Hann spurði mig hvað ég '''væri''' að læra“ but many people born after 1995 would say „Hann spurði mig hvað ég '''er''' að læra“.
 
-===Similarity to other languages===
+### Similarity to other languages
 
 *The viðtengingarháttur is the same as the German ''Konjunktiv'' and is used almost the same.<!-- As mentioned in Hulda 2011 -->
 *The viðtengingarháttur is similar to being a mix of the Spanish ''condicional'' and ''subjunctivo,'' but ''subjunctivo'' is not used in exactly the same situations.
 
-==Exercises==
+## Exercises
 
 *[[Viðtengingarháttur/Exercise 1|Exercise 1]]
 <!-- Hmm. Ég veit ekki hvort ég ___ (að eiga) ___ (að fá) mér pasta eða fisk í kvöldmat. Bæði ___ (að vera) mjög góð en mér ___ (að finnast) fiskur betri, held ég. Já það ___ (að vera) góð hugmynd, ég held að ég ___ (að fá) mér bara fisk. Vonandi ___ (að koma) mamma heim nógu snemma til að ___ (að borða) með mér. Ég vona að litli bróðir minn ___ (að koma) líka. Hann ___ (að vera) svo skemmtilegur. Ég ___ (að eiga) ___ (að leika) við hann meira.

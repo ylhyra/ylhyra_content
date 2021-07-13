@@ -13,7 +13,7 @@ reviewed: no
 
 '''Verbs''' (''sagnorð'') are the class of words that describe actions ("to be", "to go", "to see").
 
-==[[Infinitive|Basic form]]<note>Known as ''infinitive'' (''nafnháttur'')</note>==
+## [[Infinitive|Basic form]]<note>Known as ''infinitive'' (''nafnháttur'')</note>
 Icelandic verbs in their most basic form practically always end in "a":
 
 *to hear – að heyra
@@ -25,14 +25,14 @@ Icelandic verbs in their most basic form practically always end in "a":
 
 The little word "að" means the exact same thing as the English word "to", it is an additional word that shows that this is the basic form of the verb.
 
-==Form changes<note>Known as conjugation</note>==
+## Form changes<note>Known as conjugation</note>
 English verbs can change significantly depending on what is happening to them ("go", "goes", "went", "gone"). The same happens in Icelandic to a significantly higher degree, with some verbs having up to one hundred variants. The verbs can change so much since there can be a specific form depending on when the action is happening, who is doing the action, whether we are doubtful or not, and so on. Not only do the verb endings change, certain words are highly irregular.
 
 [https://inflections.ylhyra.is/fara/433568 Click here] to see all the possible variants of the word "to go".
 
 Note that for the first months of your studies, you only need to recognize about six forms of each verb. Despite all the irregularities, there are patterns there and all students eventually start to get a feel for them.
 
-==Saying what you are currently doing==
+## Saying what you are currently doing
 Explaining what you are currently doing is quite easy if you can memorize one form change: "að vera" (to be) changes to "ég er" (I am). Now, to say that you are currently doing something you just take "ég er" and add a verb in its basic form to it.
 
 *Ég er að baka. (I am baking)

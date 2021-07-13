@@ -14,7 +14,7 @@ Af því að það er kalt.
 Af því að það er of auðvelt.
 </vocabulary>
 
-==Why?==
+## Why?
 "Af hverju?" means "why?".<note>Word-by-word the translation is "Of what (reason)?"</note> "Af því að" means "because".<note>Word-by-word the translation is "Of it (reason) that".</note>
 
 *Það er snjór úti.
@@ -37,7 +37,7 @@ Af því að það er of auðvelt.
 *Af hverju ekki?
 *Af því að það er kalt úti.
 
-==An alternative way to say ''Why?''==
+## An alternative way to say ''Why?''
 
 "Af hverju" and "af því að" are the most common phrases you will use for "why?" and "because", but there's another way to say the same thing. The phrases are:
 

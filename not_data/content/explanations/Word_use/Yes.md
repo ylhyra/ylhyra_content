@@ -34,7 +34,7 @@ you: Er þetta '''ekki''' gott?
 me: Jú, þetta er mjög gott.
 </Conversation>
 
-===Já já===
+### Já já
 
 `Já já` is a casual way of saying "yeah, sure".
 
@@ -47,7 +47,7 @@ you: Kannski klukkan 15:00?
 me: Ókei, hljómar vel.
 </Conversation>
 
-===Já (breathing in) 🌬===
+### Já (breathing in) 🌬
 
 A strange thing that sometimes startles foreigners is hearing people say "`Já`" while breathing in.
 

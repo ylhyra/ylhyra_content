@@ -36,7 +36,7 @@ Lýsi is [[w:Cod liver oil|cod liver oil]], a dietary supplement derived from th
 
 The children's packaging of fish oil contains a character who is cool, has a baseball cap, and rides a skateboard.
 <div>
-==Notes==
+## Notes
 
 }}
 

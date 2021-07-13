@@ -5,7 +5,7 @@ status: draft
 
 '''Ylhýra''' is a project with a strong focus on word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts.
 
-==Detailed translations over automatic translations==
+## Detailed translations over automatic translations
 Automatic translations and dictionary definitions are beneficial, but manual translations can be more helpful, more specific, and more correct. The reader can have trust in the translations offered, as opposed to the automatic ones which may be confusing or incorrect.
 {| class="wikitable"
 |+
@@ -51,13 +51,13 @@ Automatic translations and dictionary definitions are beneficial, but manual tra
 |}
 |}
 
-===Interlinear gloss===
+### Interlinear gloss
 Interlinear glosses are translations placed between the lines of the text. They allow a reader to skip over the most difficult words while still being introduced to the word. Since the reading is not halted it can make difficult texts more enjoyable. This both encourages people to continue reading and limits frustration.
 
-===Synchronized audio===
+### Synchronized audio
 With the use of automatic audio synchronization, we highlight the relevant section.
 
-==Speed of creation==
+## Speed of creation
 Manual translations are fairly time-consuming to create, but not prohibitively so. To speed up creation the system does two things:
 
 *Requests suggestions from Google Translate. Both sentences and words are translated.
@@ -73,7 +73,7 @@ The steps to create a fully annotated text are:
 
 Annotating a 500 word passage can take around 1 hour, or slightly longer than it takes to read a difficult text with a group of students.
 
-==Use of wiki-software for encouraging collaboration==
+## Use of wiki-software for encouraging collaboration
 
 *MediaWiki
 **high degree of freedom for developing courses

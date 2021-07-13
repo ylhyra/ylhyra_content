@@ -11,7 +11,7 @@ reviewed: no
 
 There is one thing you must notice: This phrase is using "að gjöra", a completely outdated alternative form of the word "að gera" (to do). Nowadays you will never see the form "að gjöra" except when reading the Bible. If this phrase were using modern Icelandic, it would be "gerðu svo vel".
 
-==Pronunciation==
+## Pronunciation
 
 "Gjörðu svo vel" is [[Slurring|slurred]], so it is pronounced {{pron|gjössovel}} (more slurring) or {{pron|gjörrusovel}} (speaking more clearly).
 

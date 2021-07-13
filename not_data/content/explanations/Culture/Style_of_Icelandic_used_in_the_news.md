@@ -19,7 +19,7 @@ Newsanchors will also use this style of Icelandic when announcing the news, sinc
 
 While you should learn to understand this style of Icelandic, you rarely have a reason to write like this yourself, and you should most definitely not try to speak like this.
 
-==Examples==
+## Examples
 These examples are from the article ''[https://www.frettabladid.is/frettir/villikettirnir-fa-lagalega-stodu/ Villikettirnir fá lagalega stöðu]'' from [https://www.frettabladid.is/ Fréttablaðið].
 
 *„''Nefnir Arndís fyrsta verkefni félagsins...''“ In this example, they have placed the verb in the first position. In spoken Icelandic, this would be „''Arndís nefnir fyrsta verkefni félagsins''“.

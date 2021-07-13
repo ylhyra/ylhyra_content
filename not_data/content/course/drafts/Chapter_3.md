@@ -6,13 +6,13 @@ tags:
 reviewed: no
 ---
 
-==Ha?==
+## Ha?
 {{ha?}}
 
-==Að==
+## Að
 {{Text:Að/Intro}}
 
-==What's that strange click sound?==
+## What's that strange click sound?
 
 When two {{code|L}}'s are in a row, the pronunciation can seem a bit strange. {{code|LL}} is pronounced like ['''tl''']:
 
@@ -22,7 +22,7 @@ Some words don't have this click sound, those words tend to be either foreign or
 
 * `halló`, `milljón`, `brilljant`, `bolla`, `Solla`, `Halli`
 
-== Sæll! ==
+## Sæll! 
 Now that you know how to pronounce your {{code|LL}}s, it's time to learn the business casual greeting.
 
 {{Text:Sæll/Intro}}
@@ -35,7 +35,7 @@ Hlustunarleikir:
 * hæ
 * góðan daginn
 
-== This ==
+## This 
 
 {{Text:Þetta/Intro}}
 

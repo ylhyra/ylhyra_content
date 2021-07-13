@@ -33,7 +33,7 @@ Again, this is the most common way to sing sentences, even questions:
 *`Hvað er eiginlega að þér?`
 **Hvað er eiginlega <sup>að</sup> <sub>þér</sub>
 
-== Other intonation forms ==
+## Other intonation forms 
 <level level="a2"/>
 
 Of course you have some freedom in your intonations. Sometimes people use sentences where the pitch is going up, it usually doesn't change the meaning at all.

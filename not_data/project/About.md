@@ -9,7 +9,7 @@ tags:
 Ylhýra is a collaborative project that publishes software and material for making Icelandic accessible. We publish annotated Icelandic texts, explanatory material, and some interactive material. Our own content is available under [[Project:License|an open license]].
 <Button>[mailto:ylhyra@ylhyra.is Contact us]</Button>
 
-==Authors==
+## Authors
 <Image src="Eliza og Ylhýra.jpg" link="Project:Eliza Reid" position="right" caption="Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland."/>
 
 *Egill [mailto:egill@egill.xyz (email)]
@@ -21,10 +21,10 @@ Ylhýra is a collaborative project that publishes software and material for maki
 
 The project has been supported by the Municipality of Kópavogur, Landsvirkjun, and Isavia.
 
-==Software==
+## Software
 Code is [https://github.com/ylhyra/ylhyra available on GitHub].
 <!--
-==Acknowledgements==
+## Acknowledgements
 
 *[https://bin.arnastofnun.is/DMII/LTdata/k-format/ ''The Database of Icelandic Morphology'']. [[w:Árni Magnússon Institute for Icelandic Studies|The Árni Magnússon Institute for Icelandic Studies]]. Author and editor: [https://www.arnastofnun.is/is/stofnunin/starfsfolk/kristin-bjarnadottir Kristín Bjarnadóttir]. <small>([https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0])</small>
 *[https://greynir.is/analysis Greynir], NLP tokenizer by Vilhjálmur Þorsteinsson and Miðeind.
@@ -34,7 +34,7 @@ Code is [https://github.com/ylhyra/ylhyra available on GitHub].
 
 <Image src="Loftmynd 2.jpg" width="600"/>
 
-==Collaborating==
+## Collaborating
 
 *[[Project:Become a collaborator|Become a collaborator]]
 *[[Help:Adding material|How to add or edit material]]

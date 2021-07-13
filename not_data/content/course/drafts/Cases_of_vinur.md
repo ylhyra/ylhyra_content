@@ -6,7 +6,7 @@ reviewed: no
 ég ætla að hitta vin minn
 þetta er vinur minn
 
-== Vocabulary ==
+## Vocabulary 
 
 * hér er vinur = here is a friend
 * um vin = about a friend

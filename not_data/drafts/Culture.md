@@ -6,7 +6,7 @@ tags:
 reviewed: no
 ---
 
-==Daily life==
+## Daily life
 
 *Religion
 *Sports
@@ -16,12 +16,12 @@ reviewed: no
 **Long summer days, long winter nights
 * [[Kennitala]]
 
-==Education==
+## Education
 
 *Education system
 *What languages do Icelanders know
 
-==History of Iceland==
+## History of Iceland
 
 *Overview
 *874-930 Settlement
@@ -29,21 +29,21 @@ reviewed: no
 *1252-1944 Kings
 *1944- Republic of Iceland
 
-==History of Icelandic culture==
+## History of Icelandic culture
 
 *Íslendingasögur
 *Norse mythology
 *Blót
 *Snorri
 
-==Jobs==
+## Jobs
 
 *Farming
 *Fishing
 *The job market
 *Tourism
 
-==Media==
+## Media
 
 *Icelandic films
 *Icelandic TV series
@@ -51,7 +51,7 @@ reviewed: no
 *Books and literature
 *Poetry
 
-==Moving to Iceland==
+## Moving to Iceland
 
 *The immigration system
 *Becoming a citizen
@@ -60,7 +60,7 @@ reviewed: no
 *Raising children in a new country
 *Where in Iceland should I live
 
-==Nature==
+## Nature
 
 *Hiking
 *Warm natural baths
@@ -68,7 +68,7 @@ reviewed: no
 *Respecting nature
 *Camping
 
-==Politics==
+## Politics
 
 *[[Introduction to Icelandic politics]]
 *Alþingi (the parliament)
@@ -79,12 +79,12 @@ reviewed: no
 *Relations with the United States
 *Relations with the European Union
 
-==Population==
+## Population
 
 *Population
 *Immigration and emigration
 
-==The Nordics==
+## The Nordics
 
 *Nordic relations
 *The Nordic Council

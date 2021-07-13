@@ -14,3 +14,7 @@ Kann hann að elda?
 Ég kann ekki að syngja.
 Ekki ennþá.
 </vocabulary>
+
+# I know how to
+
+While "ég veit" refers only to knowing facts, "ég kann" refers to knowing how to do something. That includes knowing how to cook, knowing a language, and knowing guitar.

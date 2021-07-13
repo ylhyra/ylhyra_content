@@ -18,7 +18,7 @@ Note that the word klukka is [[feminine]] {{kvk}} but the number is [[neuter]] {
 * The phrase may be influenced by [[w:Danish|Danish]].
 * The phrase may be referring to "the clock has three '''beats'''" (beat is a [[neuter]] word) and the last word may just have disappeared.</note>
 
-==Hálf==
+## Hálf
 
 In English, 09:30 is "half <u>past</u> nine" but in Icelandic it is "half ten", which may be confusing at first.
 
@@ -27,7 +27,7 @@ In English, 09:30 is "half <u>past</u> nine" but in Icelandic it is "half ten", 
 *04:30 – hálf fimm
 *09:30 – hálf tíu
 
-==Minutes and quarters==
+## Minutes and quarters
 For everything else, there is "yfir" and "í".
 
 *12:15 – korter yfir tólf
@@ -35,7 +35,7 @@ For everything else, there is "yfir" and "í".
 *11:55 – fimm mínútur í tólf
 *11:45 – korter í tólf
 
-==AM/PM==
+## AM/PM
 Iceland does not use AM/PM, instead time is written in a 24 hour format<note>May either be written with a dot (15.30, more common in newspapers and recommended by many style guides) or a colon (15:30, more common with the general populace).</note> but spoken about in "during the day/evening/night/morning".
 {| class="wikitable"
 |+
@@ -51,7 +51,7 @@ Iceland does not use AM/PM, instead time is written in a 24 hour format<note>May
 |Klukkan 19:00.
 |Klukkan sjö um kvöld.
 |}
-==Very uncommon ways to talk about time==
+## Very uncommon ways to talk about time
 <level level="c1"/>
 
 You do not need to know the following words, but you might hear them in formal speech:

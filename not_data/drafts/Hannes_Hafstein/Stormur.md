@@ -29,7 +29,7 @@ reviewed: no
 {{line|hugur minn fylgir þér, djarfur og glaður.}}
 }}
 
-== Beinþýðing ==
+## Beinþýðing 
 '''Storm ''(beinþýðing)'''''
 
 I adore you, storm, who rages about the lands
@@ -72,7 +72,7 @@ You ever-free air traveler, blustering fast;
 
 my mind follows you, daring and glad.
 
-== Ljóðrænni þýðing ==
+## Ljóðrænni þýðing 
 '''Storm ''(ljóðrænni þýðing)'''''
 
 I adore you, oh storm, who rages the lands

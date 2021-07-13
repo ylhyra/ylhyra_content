@@ -8,35 +8,35 @@ reviewed: no
 
 `Að` is used a lot in Icelandic. It can have several different uses, but most often it means '''''to''''' as in '''''to eat'''''.
 
-==Main meanings==
+## Main meanings
 The two main meanings are:
 
-===1. Using with verbs (the infinitive)===
+### 1. Using with verbs (the infinitive)
 This is the basic form of verbs, known as the [[infinitive]]:
 
 *Ég ætla '''að''' koma á sunnudaginn, mig langar '''að''' vera lengi.
 
-===2. Joining together sentences – ''<translate>that ...</translate>''===
+### 2. Joining together sentences – ''<translate>that ...</translate>''
 
 *Ég held '''að''' ég komi seint, mamma segir '''að''' ég þurfi að elda þó '''að''' ég hafi eldað í gær.
 
-==Other less common meanings==
+## Other less common meanings
 
-===3. Towards===
+### 3. Towards
 
 *Ég fór upp '''að''' húsinu, en það var enginn heima.
 
-===4. Changing===
+### 4. Changing
 
 *Ísinn minn varð '''að''' mauki.
 
-===5. In phrases===
+### 5. In phrases
 
 *Hvað er eiginlega '''að''' þér? = What's wrong with you?
 *'''Að''' sjálfsögðu. = Of course.
 *Þetta er '''að''' mestu leyti tilbúið.
 
-====Phrases regarding time====
+#### Phrases regarding time
 
 *Kötturinn er úti '''að''' nóttu til.
 *'''Að''' lokum endaði allt vel.

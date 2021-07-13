@@ -30,6 +30,6 @@ The following words are particularly [[Politeness|polite]] and positive, and you
 *Æði.
 *Yndislegt.
 
-== Kærlega ==
+## Kærlega 
 [[Kærlega]] means "dearly" or "from my heart".
 

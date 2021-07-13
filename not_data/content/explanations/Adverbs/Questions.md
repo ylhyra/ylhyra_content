@@ -8,7 +8,7 @@ license: CC0
 reviewed: no
 ---
 
-=Questions=
+# Questions
 The most important words when it comes to questions are:
 
 *af hverju = why?
@@ -34,7 +34,7 @@ Other words relating to questions that are more advanced are:
 *hvaðan = from where?
 *hversu mikið = how much
 
-== Word order ==
+## Word order 
 Like in English, the [[word order]] changes to indicate that a sentence is a question:
 
 * Það er gott. = That is good.

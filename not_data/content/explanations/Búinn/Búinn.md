@@ -23,11 +23,11 @@ Búinn is an extremely common word and it's easy to use since you don't need to 
 The word búinn changes depending on [[gender]] like so:{{Declension adjective singular all genders nominative|búinn|búin|búið}}
 Although the masculine "búinn" and feminine "búin" are written differently, they are pronounced exactly the same.
 
-==Exercises==
+## Exercises
 
 *[[Búinn/A1/Exercise 1|Exercise 1]]
 
-==See also==
+## See also
 
 *[[Búinn vs. hef]]
 

@@ -11,7 +11,7 @@ Words shortened on this format are always two syllables. This trick does not wor
 
 This page contains a list of words you are relatively likely to encounter. For a list of less common words, see [[/Less common words|here]].
 
-==Very common words==
+## Very common words
 The following words are heard in everyday speech:
 
 *strætisvagn → '''strætó''' (bus)	
@@ -19,7 +19,7 @@ The following words are heard in everyday speech:
 *tyggigúmmí → '''tyggjó''' (gum)	
 **Extremely common.
 
-==Relatively common words==
+## Relatively common words
 
 *slysadeild → '''slysó''' (hospital emergency department)	
 **Extremely common.
@@ -28,14 +28,14 @@ The following words are heard in everyday speech:
 *sleikipinni → '''sleikjó''' (popsicle)	
 **Extremely common.
 
-==Some proper names==
+## Some proper names
 
 *[[w:Mosfellsbær|Mosfellsbær]] → '''Mosó''' (a town next to Reykjavík)	
 **Informal, common.
 *[[w:Siglufjörður|Siglufjörður]] → '''Sigló''' (a town in the north)	
 **Informal.
 
-==Less common or informal==
+## Less common or informal
 
 *kærasti / kærasta → '''kæró''' (boyfriend, girlfriend)	
 **Informal, occasionally used by the younger generation.
@@ -56,7 +56,7 @@ The following words are heard in everyday speech:
 **Informal, very common.
 **''„Sjáumst.“ „Já, bæjó.“''
 
-==Others==
+## Others
 
 *[[/Less common words |List of less commonly seen -ó words]]
 

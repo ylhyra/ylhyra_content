@@ -11,13 +11,13 @@ reviewed: no
 
 The letter '''L''' can represent a few different sounds.
 
-==Normal L==
+## Normal L
 
 This sound is same as the English L.
 
 *land, heili, gulur, lamb
 
-==Breathy L==
+## Breathy L
 This sound is a whispery L that's pronounced without using the voice.
 
 To pronounce you have to create turbulent airflow behind your [[w:Premolar|premolar teeth]] (the teeth that are next to your [[w:Canine tooth|canine teeth]]). To do so you can either:
@@ -38,10 +38,10 @@ This sound appears in the following situations:
 
 No similar sound exists in English, but you may recognize it from the [[w:Welsh language|Welsh]], [[w:Nahuatl language|Nahuatl]], and [[w:Greenlandic language|Greenlandic]] languages.
 
-==Double L==
+## Double L
 A double L can represent three possible sounds.
 
-==={{anchor|Clicky double L}}1. Clicky double L===
+### {{anchor|Clicky double L}}1. Clicky double L
 This is the most common sound that double L represents. It sounds vaguely similar to a click sound and is made up of two sounds:
 
 #First you do a ''[[d]]'' sound (remember that ''d'' in Icelandic is pronounced without using the voice)
@@ -51,14 +51,14 @@ You can see it in words such as:
 
 *fullur, allur, fjöll, sæll
 
-===2. Breathy L===
+### 2. Breathy L
 A double L can also represent a [[#Breathy L|breathy L]] like in the word "sa'''l'''t".
 
 This sound appears when a double L is followed by a '''t''':
 
 *fullt, allt
 
-===3. Normal L===
+### 3. Normal L
 And lastly, a double L can represent just a normal L sound.
 
 It appears in the following situations:
@@ -72,7 +72,7 @@ It appears in the following situations:
 
 ***
 
-==Exceptions==
+## Exceptions
 
 *'''sl''' – The letter cluster "sl" is pronounced "sdl", same as the clicky double L in "a'''ll'''ir".
 **slaka ({{pron|sdlaka}}), rusl ({{pron|rusdl}}), slys ({{pron|sdlis}}), versla ({{pron|versdla}})

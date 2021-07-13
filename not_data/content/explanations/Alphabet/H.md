@@ -12,7 +12,7 @@ The letter '''H''' is pronounced the same as in English.
 
 The name of the letter is "há".
 
-==Exceptions==
+## Exceptions
 
 *'''hv''' – "hv" always sounds like "kv"
 **hvar, hvalur, hver, hvítur, hvíla sig, hverfa

@@ -9,16 +9,16 @@ reviewed: no
 ---
 
 <Image src="Landmannalaugar2.jpg"/>
-==External resources==
+## External resources
 
 *[[Resources]]
 
-==Vocabulary==
+## Vocabulary
 
 *[[Vocabulary/All|List of 2000 basic vocabulary words]]
 *Memrise courses: [https://www.memrise.com/course/728073/icelandic-vocabulary-and-phrases/][https://www.memrise.com/course/357011/icelandic-in-easy-stages-with-sound/][https://www.memrise.com/course/134020/beginners-icelandic/]
 
-==Reference material==
+## Reference material
 
 *[[How to learn a language]]
 *[[How to use Ylhýra|Using ''Ylhýra'']]

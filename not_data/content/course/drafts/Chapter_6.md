@@ -6,7 +6,7 @@ tags:
 reviewed: no
 ---
 
-=Verbs in Icelandic=
+# Verbs in Icelandic
 
 There are many ways of saying how you are doing something. For example: ''I '''am''' cycling'', ''yesterday I '''went''' grocery shopping'', ''tomorrow I '''will watch''' a movie'', ''the world '''would have been''' a better place without ants'', and so on.
 

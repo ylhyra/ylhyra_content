@@ -16,7 +16,7 @@ Mig langar að kunna íslensku.
 Mig langar að vera góður í ensku.
 </vocabulary>
 
-===Mig langar===
+### Mig langar
 "Mig langar" is a more sentimental way of describing what you want. The word is related to the English "I long for it", which is also quite sentimental.
 
 Because of this, it's the word you should use when describing what you want. It's more polite and has a much less demanding tone than "ég vil".

@@ -16,7 +16,7 @@ reviewed: no
 
 Icelandic words can have significantly more variation in form compared to English words. It may seem overwhelming at first but students eventually acquire an innate feel for when to use each form.
 
-== What do the inflection forms indicate? ==
+## What do the inflection forms indicate? 
 A [[noun|'''noun''']] usually has 16 possible forms which indicate:
 
 *[[case]] (there are four possibilities)
@@ -39,12 +39,12 @@ The basic form of a '''[[verb]]''' has around 30 possible forms (and some more d
 *[[Giving orders|are we giving orders]]?
 *[[Subjunctive|is it a real situation or a hypothetical situation]]?
 
-== Learning inflections ==
+## Learning inflections 
 Learning the inflection patterns takes time. You should not worry too much about them for the first few months of your studies, it's better to focus on recognizing words. When you've become familiar with the meaning of words you should start to memorize the [[cases]] of some common words. Rote memorization is necessary for a few weeks, after that you will automatically start picking up on patterns in the texts you read. When reading, it's a good idea to [https://inflections.ylhyra.is/ look up] the inflections of the words you see.
 
 Inflecting incorrectly is usually okay when you're still at the [[A1]] level as in most cases people can figure out what you're trying to say, but inflecting incorrectly can often make you incomprehensible.
 
-==Helpful links==
+## Helpful links
 
 *[http://inflections.ylhyra.is/ A website where you can look up the inflections of words]
 

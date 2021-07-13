@@ -17,21 +17,21 @@ To refer to something close, you use <translate>'''þetta'''</translate>.<note><
 |þetta
 |}
 
-===Normal usage===
+### Normal usage
 
 *<translate>Þessi sími virkar ekki</translate> = This telephone doesn't work.
 *<translate>Þessi kaka er góð</translate> = This cake is good.
 *<translate>Þetta lamb er fallegt</translate> = This lamb is pretty.
 *<translate>Þessi köttur er þreyttur.</translate> = This cat is tired.
 
-===No noun===
+### No noun
 If there is no [[noun]], the default is <translate>þetta</translate> {{hk}}
 
 *<translate>Hvað er þetta?</translate> = What is this?
 *<translate>Þetta er ekki fyndið.</translate> = This isn't funny.
 *<translate>Þetta getur ekki verið rétt</translate> = This cannot be true
 
-=== Noun is somewhere else in the sentence ===
+### Noun is somewhere else in the sentence 
 The default is also a neuter <translate>þetta</translate> {{hk}} when the noun is somewhere else in the sentence but not right next to the <translate>þetta</translate>:
 
 *<translate>Þetta er góð kaka.</translate> = This is a good cake

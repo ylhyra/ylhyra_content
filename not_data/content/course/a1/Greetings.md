@@ -11,17 +11,17 @@ góðan daginn
 Hvað segirðu gott?
 </vocabulary>
 
-=Greetings=
+# Greetings
 
-===Hæ===
+### Hæ
 
 "Hæ" (hi) is a common, casual greeting.<!-- https://www.visindavefur.is/svar.php?id=1706 --> Saying it twice ("hæ hæ") is also quite popular, it means the same thing but shows that you are cheerful.
 
-===Halló===
+### Halló
 
 "Halló" (hello) is used in the same situations as the English "hello", including when answering the telephone. The double L is pronounced like a normal L since it's borrowed from a foreign language.<note>It's a loan word from [[w:Danish language|Danish]].<!--<ref>Guðrún Kvaran. [https://www.visindavefur.is/svar.php?id=78021 Halló, hæ og sæll — hafa þessar upphrópanir verið notaðar lengi eða er þetta nýlegt í málinu?] Vísindavefurinn, 2020.</ref>--></note>
 
-===Góðan daginn===
+### Góðan daginn
 "Góðan daginn" means "Good day to you". You use this greeting from morning until 6 PM (or 18:00), after that it's evening and you have to switch to "Good evening to you". You use this greeting when:
 
 *you first meet your family member, friend, or coworker early in the morning
@@ -36,7 +36,7 @@ Notes on pronunciation:
 *The G in "daginn" makes the sound of [[J]].
 *The phrase is pronounced {{pron|góan dayin}}.
 
-===Sæll===
+### Sæll
 
 "<translate>Sæll</translate>" is one of the most common ways to greet someone.<note>The word itself means "happy" or "content", the implied meaning is "I wish you happiness / good fortune".</note> Although it is a relatively formal greeting, it's used both between good friends and in a professional setting. You should use it when meeting your friend, when writing an email, and when addressing the prime minister. This greeting only works if you're in a situation where you already know something about the other person, if you don't know anything about them (such as when greeting a customer, or when writing an email to an organization) you should use "Góðan daginn".
 
@@ -56,7 +56,7 @@ Notes on pronunciation:
 *"Sæll" is pronounced quickly (the æ is [[short]] because it's followed by two [[consonant]] letters). The double L is a [[clicky double L]], meaning that you first pronounce a [[D]] sound and then a [[breathy L]] sound.
 *The æ in "sæl" is [[Long vowel|long]] (it's only followed by one consonant). Althought the L in "sæl" is a normal L, several sounds [[Voiceless at the end of sentences|lose their voice at the ends of sentences]], so "Sæl!" is pronounced with a [[breathy L]].
 
-===When to use which greeting===
+### When to use which greeting
 To summarize the above:
 
 *If you're seeing a good friend, use "Hæ" or "Sæll".

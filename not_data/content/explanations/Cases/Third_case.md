@@ -18,7 +18,7 @@ In Icelandic the first case is called '''þágufall''' and is abbreviated as '''
 
 The [[helper word]] you use to force a word into the third case is „frá“ ("from").
 
-==Things that cause the third case==
+## Things that cause the third case
 The following [[prepositions]] always [[Prepositions that cause cases|cause]] the third case:
 
 *frá (from)

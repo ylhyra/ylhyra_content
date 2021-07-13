@@ -16,7 +16,7 @@ It takes a significant amount of practice to be able to understand spoken Icelan
 
 In the examples below, letters that are shown in gray aren't pronounced at all. Practice pronouncing those sentences.
 
-==Vowels at word boundaries==
+## Vowels at word boundaries
 When a word ends in a vowel that doesn't have an accent mark (a, e, i, o, u, ö) and the next word starts in a vowel, the first vowel disappears.
 
 *`Mamma mín er bakari. Mamm<u>{{gray|a}} e</u>r bakari.`
@@ -48,7 +48,7 @@ This doesn't happen to vowels that have an accent mark (á, ú, í, ó, é).
 *Stræt'''ó''' er kominn.
 *Þ'''ú''' ert farinn.
 
-==Sounds that are so soft that they disappear (Ð and G)==
+## Sounds that are so soft that they disappear (Ð and G)
 The [[soft g]] sound <Audio src="vlmK.mp3" inline/> (such as in `ég`) and the soft [[ð]] sound <Audio src="6mpZ.mp3" inline/> (such as in `að`) are so soft that they often just disappear.
 
 *<Audio src="XWho.mp3" inline/> `É{{gray|g}} er a{{gray|ð}} koma.` {{pron|é er a koma}}
@@ -64,10 +64,10 @@ In particular you should remember the following common words:
 
 ***
 
-==Common words starting with Þ, Ð, or H==
+## Common words starting with Þ, Ð, or H
 <level level="a2"/>
 
-==={{anchor|Thorn}}Þ disappearing, or sounding like Ð or H===
+### {{anchor|Thorn}}Þ disappearing, or sounding like Ð or H
 [[Þ]] has a tendancy to become softer, especially when it comes to common words like "this, that, there, it" when they are not the most important word of the sentence. There are four different ways you will hear Þ being pronounced:
 
 *Þ, such as in `'''Þ'''ess vegna.`

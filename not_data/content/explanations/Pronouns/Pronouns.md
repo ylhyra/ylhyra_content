@@ -7,9 +7,9 @@ license: CC0
 reviewed: no
 ---
 
-=Pronouns=
+# Pronouns
 
-==Possessive pronouns==
+## Possessive pronouns
 
 Possessive pronouns are the words we use to describe that something belongs to someone or something. Thus in English one might say
 
@@ -122,7 +122,7 @@ The other possessive pronouns, however, are just the genitive case of their resp
 |þeirra
 |}
 
-==Sitt and Sín==
+## Sitt and Sín
 
 There is a last personal pronoun that only occurs in particular cases. Sometimes a verb carries with it the implication that the person who is ‘doing’ does that thing to themselves, as in
 

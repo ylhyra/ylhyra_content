@@ -20,7 +20,7 @@ In Icelandic the first case is called '''þolfall''' and is abbreviated as '''þ
 
 The [[helper word]] you use to force a word into the second case is „um“ ("about").
 
-==Things that cause the second case==
+## Things that cause the second case
 The following [[prepositions]] always [[Prepositions that cause cases|cause]] the second case:
 
 *um (about)
