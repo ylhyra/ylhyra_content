@@ -52,6 +52,17 @@ You can duplicate the words to be more casual. "Já já" means "yeah sure" like 
 * 1|Ætlar þú að koma á eftir?
 * 2|Nei, ég ætla ekki að koma á eftir.
 
+==What did you just say?==
+
+'''Ha?''' is equivalent to the English "Huh?" or "Hm?" but is used way more than in English. It means ''“What did you just say?”'', but it's not rude at all. You say "`ha?`" when:
+
+*You didn’t hear what the other person said
+*You just ''can’t believe'' what the other person said
+
+The manner in which it is said is a bit harsh, and therefore many students feel that it sounds agressive or rude. That's not the case at all, "ha?" is a very normal word and is not rude at all. It is used both between friends and in professional settings.
+
+Remember that you don't say "Could you repeat that?" or "Would you mind talking a bit slower?", you just say "Ha?".
+
 == Recommendations ==
 
 * Listen to the 1992 [[w:Eurovision|Eurovision]] song [https://youtu.be/ELSuY9riUUY?t=28 '''Nei eða já'''] ([https://4lyrics.eu/esc/1992/heart-2-heart-nei-eda-ja/ lyrics]). The only parts of the lyrics you should focus on are "Nei eða já" (No or yes).

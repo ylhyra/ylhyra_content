@@ -11,6 +11,7 @@ að drekka
 Ég ætla að drekka mikið vatn í dag.
 að koma
 Ég ætla að koma til Íslands í apríl.
+Hljómar vel.
 </vocabulary>
 
 ==I am going to do it==
@@ -18,13 +19,7 @@ að koma
 
 You may remember that in the pronunciation of the word "gott" (good) you have to [[Preaspiration|exhale a little bit]] before the ''tt'' so that the word sounds like {{pron|go{{h}}tt}}. That doesn't only happen before a ''tt'', it also happens before a ''tl'', meaning that the word "ætla" is pronounced {{pron|æ{{h}}tla}}. If you place your hand in front of your mouth you should feel a short gust of wind coming out of your mouth. This short outgoing breath is extremely important, it can be impossible to understand you without it. For that reason, it is far better to exaggerate this sound significantly rather than not doing it enough.
 
-The word "ætla" changes like so depending on the [[person]]:
-
-*ég ætla = I intend to, I am going to, I plan to
-*þú ætlar = you intend to, you are going to, you plan to
-*hann ætlar = he intends to, he is going to, he plans to
-
-You can see that the [[verb]] that comes after "ætla" is in the basic default state ([[infinitive]]), same as in English:
+The [[verb]] that comes after "ætla" is in the basic default state ([[infinitive]]), including the infinitive marker "að" (*to*), same as in English:
 
 *Ég ætla '''að borða''' hamborgara. = I plan '''to eat''' a hamburger, I intend '''to eat''' a hamburger.
 *Ég ætla '''að læra''' íslensku. = I plan '''to learn''' Icelandic, I intend '''to learn''' Icelandic.
@@ -57,7 +52,7 @@ you: Já, en ekki í dag.
 </Conversation>
 
 ==Sounds good==
-When someone tells you their plans, a good way to answer is with "Það hljómar vel" ("That sounds good"). Notice that the phrase is literally "sounds well" (using "vel") but not "sounds good" (which would use "gott").
+When someone tells you their plans, a good way to answer is with "Hljómar vel" ("Sounds good"). Notice that the phrase is literally "sounds well" (using "vel") but not "sounds good" (which would use "gott").
 
 The letters "hl" in "hljómar" represent only a single sound: the [[breathy L]]. There's no "H" sound in this word. The [[breathy L]] is the sound you recognize from the word "allt". The word "hljómar" starts with that sound and the word "vel" ends with that sound (because L sounds become breathy L sounds at the [[Voiceless at the end of sentences|end of a sentence]]).
 
@@ -67,5 +62,5 @@ me: Ég ætla bara að læra.
 you: Hljómar vel.
 me: En þú?
 you: Ég ætla bara að borða.
-me: Það hljómar mjög vel.
+me: Hljómar mjög vel.
 <Conversation>

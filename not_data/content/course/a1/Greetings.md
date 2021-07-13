@@ -11,7 +11,7 @@ góðan daginn
 Hvað segirðu gott?
 </vocabulary>
 
-==Greetings==
+=Greetings=
 
 ===Hæ===
 
@@ -42,14 +42,14 @@ Notes on pronunciation:
 
 "Sæll" is an [[adjective]], and therefore it changes its form depending on who it's describing. If you're greeting a man you say "Sæll" and if you're greeting a woman you say "Sæl". There's yet another form you need to use when addressing a group of people, but that's a topic for another time.
 
-{| class="wikitable"
+<!-- {| class="wikitable"
 |+
 !{{Kk}}
 |<translate>sæll</translate>
 |-
 !{{Kvk}}
 |<translate>sæl</translate>
-|}
+|} -->
 
 Notes on pronunciation:
 
