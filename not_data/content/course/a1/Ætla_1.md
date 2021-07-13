@@ -2,16 +2,12 @@
 title: Course/I am going to
 ---
 <vocabulary>
-Ég ætla að borða hamborgara.
-Ég ætla ekki að borða pítsu.
-Ég ætla að læra íslensku í dag.
 Ég ætla ekki að læra í dag.
-Ég ætla að vinna.
 mikið
-að drekka kaffi
-Ég ætla ekki að drekka mikið kaffi.
-Ég ætla ekki að vinna mikið í dag.
-Ég ætla ekki að læra mikið í dag.
+mjög mikið
+að drekka
+<!-- Ég ætla ekki að drekka mikið kaffi. -->
+Ég ætla ekki að læra í dag.
 Ég ætla að drekka mikið vatn í dag.
 að koma
 Ég ætla að koma til Íslands í apríl.

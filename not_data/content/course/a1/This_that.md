@@ -15,5 +15,5 @@ mjög gott
 Það er gott veður.
 Það er gott að heyra.
 Þetta kaffi er gott.
-Er þetta gott kaffi?
+Er þetta kaffi gott?
 </vocabulary>

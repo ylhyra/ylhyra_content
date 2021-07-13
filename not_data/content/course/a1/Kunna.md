@@ -3,7 +3,6 @@ title: Course/I know how to
 ---
 <vocabulary>
 ég kann
-hún kann
 Ég kann ensku.
 Bara smá.
 Ég kann s*má* íslensku.
