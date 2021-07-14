@@ -40,6 +40,14 @@ Remember that "rn" is pronounced "dn", so "hérna" is pronounced {{pron|hédna}}
 *að b'''ú'''a = to live somewhere, to reside
 *ég b'''ý''' = I live somewhere, I reside
 
+The letter [[ý]] <Audio src=" 6jJT.mp3" inline/> makes the exact same sound as the letter [[í]]. Similarly, the letter [[y]] makes the exact same sound as the letter [[i]]. Y and Ý are only retained for historical reasons.
+
+
+
+
+
+
+
 
 
 

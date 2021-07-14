@@ -6323,10 +6323,10 @@ rows:
     english: I want
     lemmas: ég, að langa
     depends_on: mig
-    alternative_id: að langa
+    alternative_id: að langa%
     level: 1
     row_id: 1238
-    last_seen: "2021-07-09"
+    last_seen: "2021-07-14"
   - icelandic: að fara
     english: to go
     level: 1
@@ -8756,11 +8756,6 @@ rows:
     level: 1
     row_id: 1716
     last_seen: "2021-07-12"
-  - icelandic: að drekka
-    english: to drink
-    level: 1
-    row_id: 1720
-    last_seen: "2021-07-12"
   - icelandic: Ég ætla ekki að læra í dag.
     english: I'm not going to study today.
     level: 1
@@ -9097,12 +9092,6 @@ rows:
     lemmas: íslenska
     level: 1
     row_id: 1784
-    last_seen: "2021-07-12"
-  - icelandic: Mig langar að vera góður í ensku.
-    english: I want to be good in English.
-    lemmas: enska
-    level: 1
-    row_id: 1785
     last_seen: "2021-07-12"
   - icelandic: af *því að*
     english: because

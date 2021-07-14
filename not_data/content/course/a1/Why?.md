@@ -15,33 +15,29 @@ Af því að það er of auðvelt.
 </vocabulary>
 
 ## Why?
-"Af hverju?" means "why?".<note>Word-by-word the translation is "Of what (reason)?"</note> "Af því að" means "because".<note>Word-by-word the translation is "Of it (reason) that".</note>
+"Af hverju?" means "why?".<note>Word-by-word the translation is "Of what [reason]?" "Hverju" is the [[third case]] of "hvað" (*what*).</note> It has an extremely slurred pronounciation and is in most cases pronounced {{p|a{{h}}kkuru}}.
 
-*Það er snjór úti.
-*Af hverju ert þú kennari?
-*Ég er kennari af því að mér finnst gaman að kenna.
-*Ætlar þú að hitta mömmu þína í dag? [first teach cases]
+"Af því að" means "because".<note>Word-by-word the translation is "Of that [reason] that". "Því" is the [[third case]] of "það".</note> The letter V in "því" is usually not pronounced,<note>This almost never happens in other words.</note> and even the F and the Ð are quite soft in this phrase so they also disappear.<note>Ð always has a tendency to disappear; F disappears only because the Þ next to it overshadows it.</note> The pronunciation is therefor {{p|a þí a}}.
 
-*Við hvað vinnurðu?
-*Ég er kennari.
-*Af hverju ertu kennari?
-*Ég er kennari af því að mér finnst gaman að kenna.
 
-*Viltu hamborgara?
-*Nei takk.
-*Af hverju ekki?
-*Af því að ég ætla að borða hamborgara á eftir.
 
-*Langar þig að fara út í kvöld?
-*Nei, mig langar ekki að fara út í kvöld.
-*Af hverju ekki?
-*Af því að það er kalt úti.
 
-## An alternative way to say ''Why?''
 
-"Af hverju" and "af því að" are the most common phrases you will use for "why?" and "because", but there's another way to say the same thing. The phrases are:
 
-*hvergs vegna? = why?<note>The literal translation is "due to what?"</note>
-*vegna þess að = because<note>The literal translation is "due to it that"</note>
 
-These phrases sound slightly more formal, and you're therefore more likely to see them used in writing. When speaking, however, it's more common to use "af hverju?".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

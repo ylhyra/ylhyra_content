@@ -13,36 +13,33 @@ Mig langar mjög mikið að fara.
 Hvað langar þig að gera í dag?
 Mig langar að búa hérna.
 Mig langar að kunna íslensku.
-Mig langar að vera góður í ensku.
 </vocabulary>
 
-### Mig langar
-"Mig langar" is a more sentimental way of describing what you want. The word is related to the English "I long for it", which is also quite sentimental.
+# Desires
 
-Because of this, it's the word you should use when describing what you want. It's more polite and has a much less demanding tone than "ég vil".
+"Mig langar" means "I want / I yearn for" and by itself most often describes what you want to do. It is a slightly sentimental way of describing your desires and is related to the English phrase "I long for".
 
-"Mig langar" is one of the [[Impersonal verb|rare words]] where you don't use the [[first case]] ("ég"), instead you use the second case ("mig").<note>To get a sense for why the [[second case]] is used, you can imagine the phrase "'''Mig''' langar að fara" being "It interests '''me''' to go."</note> The "langar" part [[Impersonal verb|doesn't change]] its form depending on who it applies to.
+In the same way that the English word "she" turns into "her" depending on what's happening to it in the sentence, the word "ég" (*I*) turns into "mig" (*me*) depending on context. "Ég" is the [[first case]]<note>The nominative case</note> and "mig" is the [[second case]].<note>The accusative case</note> 
 
-Opposite to "ég vil", with "mig langar" you do use the "að" part for the verb that comes after it:
+The grammar of "mig langar" is fairly confusing – it's "''**me** wants''" instead of "''**I** want''". The reason behind it<note>The reason is that "að langa" is an [[impersonal verb]].</note> is not important right now.
 
-*Mig langar að fara heim.
+The [[second case]] of "þú" (*you*) is "þig", so "you want" is "þig langar".
 
-When you want to describe that you desire an object, you have to use the phrase "mig langar í" ("I desire ''into''"):
 
-*Mig langar í hamborgara.
 
-***
 
-*Hvað vilt þú borða í kvöld?
-*Ég veit það ekki alveg. Mig langar smá í hamborgara.
-*Það hljómar vel. Mig langar mjög mikið í franskar kartöflur.
-*Mig líka.
 
-*Langar þig að gera eitthvað í dag?
-*Nei.
-*Ókei. Er ekki allt í lagi?
-*Ég vil ekki tala um það.
-*Allt í lagi. Ég tala við þig á eftir.
 
-* Mig langar að búa á Spáni. Mamma vill koma með mér.
-* Mamma vill koma í heimsókn. Mér finnst gaman að vera með henni.
+
+
+
+
+
+
+
+
+
+
+
+
+
