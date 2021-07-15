@@ -1,5 +1,9 @@
 ---
 title: List of noun declension patterns
+redirects:
+- declension patterns
+- declension pattern
+- pattern
 license: CC0
 reviewed: no
 ---

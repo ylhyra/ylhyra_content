@@ -10529,3 +10529,533 @@ sound:
     filename: E1_Ertu_að_vinna_á_morgun.mp3
     speed: slow
     speaker: E
+  - recording_of: þú
+    filename: E1_þú.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hún segir
+    filename: E1_hún_segir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: en
+    filename: E1_en.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvað er þetta?
+    filename: E1_Hvað_er_þetta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Þetta er gott.
+    filename: E1_Þetta_er_gott.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Það er líka gott.
+    filename: E1_Það_er_líka_gott.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Þetta er mjög gott.
+    filename: E1_Þetta_er_mjög_gott.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Það er gott að heyra.
+    filename: E1_Það_er_gott_að_heyra.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Þetta kaffi er gott.
+    filename: E1_Þetta_kaffi_er_gott.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Er þetta kaffi gott?
+    filename: E1_Er_þetta_kaffi_gott.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég
+    filename: E1_ég.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég er
+    filename: E1_ég_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: þú ert
+    filename: E1_þú_ert.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hann er
+    filename: E1_hann_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hann er góður.
+    filename: E1_Hann_er_góður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hún er
+    filename: E1_hún_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hún er góð.
+    filename: E1_Hún_er_góð.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Er hún góð í íslensku?
+    filename: E1_Er_hún_góð_í_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hann er ekki góður í íslensku.
+    filename: E1_Hann_er_ekki_góður_í_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Mamma mín er mjög góð í íslensku.
+    filename: E1_Mamma_mín_er_mjög_góð_í_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég ætla ekki að læra í dag.
+    filename: E1_Ég_ætla_ekki_að_læra_í_dag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: mikið
+    filename: E1_mikið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: mjög mikið
+    filename: E1_mjög_mikið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: að drekka
+    filename: E1_að_drekka.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég ætla að drekka mikið vatn í dag.
+    filename: E1_Ég_ætla_að_drekka_mikið_vatn_í_dag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: að koma
+    filename: E1_að_koma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég ætla að koma til Íslands í apríl.
+    filename: E1_Ég_ætla_að_koma_til_Íslands_í_apríl.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hljómar vel.
+    filename: E1_Hljómar_vel.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Sæll.
+    filename: E1_Sæll.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Sæl.
+    filename: E1_Sæl.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Góðan daginn.
+    filename: E1_Góðan_daginn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Góðan dag.
+    filename: E1_Góðan_dag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hvenær?
+    filename: E1_hvenær.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hvar?
+    filename: E1_hvar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: þú ætlar
+    filename: E1_þú_ætlar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hann ætlar
+    filename: E1_hann_ætlar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ætlar hann að koma?
+    filename: E1_Ætlar_hann_að_koma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ætlarðu að koma til Íslands?
+    filename: E1_Ætlarðu_að_koma_til_Íslands.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ætlarðu að læra íslensku?
+    filename: E1_Ætlarðu_að_læra_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvenær ætlarðu að koma?
+    filename: E1_Hvenær_ætlarðu_að_koma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ætlarðu að vera á hóteli?
+    filename: E1_Ætlarðu_að_vera_á_hóteli.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvar ætlarðu að vera?
+    filename: E1_Hvar_ætlarðu_að_vera.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvað ætlarðu að borða?
+    filename: E1_Hvað_ætlarðu_að_borða.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvenær ætlarðu að borða?
+    filename: E1_Hvenær_ætlarðu_að_borða.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: já
+    filename: E1_já.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: jú
+    filename: E1_jú.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: nei
+    filename: E1_nei.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: já já
+    filename: E1_já_já.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: nei nei
+    filename: E1_nei_nei.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ha?
+    filename: E1_Ha.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: „Er þetta kaffi gott?“ „Já.“
+    filename: E1_„Er_þetta_kaffi_gott“_„Já“.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: „Er þetta kaffi ekki gott?“ „Jú.“
+    filename: E1_„Er_þetta_kaffi_ekki_gott“_„Jú“.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: „Ætlarðu að koma?“ „Já, ég ætla að koma.“
+    filename: E1_„Ætlarðu_að_koma“_„Já_ég_ætla_að_koma“.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: „Ætlarðu ekki að koma?“ „Jú, ég ætla að koma.“
+    filename: E1_„Ætlarðu_ekki_að_koma“_„Jú_ég_ætla_að_koma“.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: „Ætlarðu ekki að koma?“ „Nei, ég ætla ekki að koma.“
+    filename: E1_„Ætlarðu_ekki_að_koma“_„Nei_ég_ætla_ekki_að_koma“.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: „Þetta er gott, er það ekki?“ „Jú.”
+    filename: E1_„Þetta_er_gott_er_það_ekki“_„Jú”.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Já, takk.
+    filename: E1_Já_takk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég veit
+    filename: E1_ég_veit.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Já, ég veit.
+    filename: E1_Já_ég_veit.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég veit ekki hvar hann er.
+    filename: E1_Ég_veit_ekki_hvar_hann_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvernig veit hann það?
+    filename: E1_Hvernig_veit_hann_það.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég veit ekki hvað þetta er.
+    filename: E1_Ég_veit_ekki_hvað_þetta_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Veit mamma þín það?
+    filename: E1_Veit_mamma_þín_það.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hún veit hvar ég er.
+    filename: E1_Hún_veit_hvar_ég_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ekki alveg
+    filename: E1_ekki_alveg.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég veit það ekki alveg.
+    filename: E1_Ég_veit_það_ekki_alveg.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég kann
+    filename: E1_ég_kann.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég kann ensku.
+    filename: E1_Ég_kann_ensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Bara smá.
+    filename: E1_Bara_smá.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég kann smá íslensku.
+    filename: E1_Ég_kann_smá_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég kann ekki íslensku.
+    filename: E1_Ég_kann_ekki_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég kann að gera það.
+    filename: E1_Ég_kann_að_gera_það.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hann er ekki góður í ensku.
+    filename: E1_Hann_er_ekki_góður_í_ensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Kann hann að elda?
+    filename: E1_Kann_hann_að_elda.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég kann ekki að syngja.
+    filename: E1_Ég_kann_ekki_að_syngja.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hérna
+    filename: E1_hérna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: hér
+    filename: E1_hér.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég bý
+    filename: E1_ég_bý.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég bý á Íslandi.
+    filename: E1_Ég_bý_á_Íslandi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég bý í Reykjavík.
+    filename: E1_Ég_bý_í_Reykjavík.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Það er gott að búa á Íslandi.
+    filename: E1_Það_er_gott_að_búa_á_Íslandi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Er gott að búa í Reykjavík?
+    filename: E1_Er_gott_að_búa_í_Reykjavík.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hvar ætlarðu að búa?
+    filename: E1_Hvar_ætlarðu_að_búa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég bý einn.
+    filename: E1_Ég_bý_einn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég bý hérna.
+    filename: E1_Ég_bý_hérna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég bý ekki hérna.
+    filename: E1_Ég_bý_ekki_hérna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ég ætla ekki að vera lengi.
+    filename: E1_Ég_ætla_ekki_að_vera_lengi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Ætlar þú að vera lengi á Íslandi?
+    filename: E1_Ætlar_þú_að_vera_lengi_á_Íslandi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Takk.
+    filename: E1_Takk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Takk fyrir.
+    filename: E1_Takk_fyrir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Nei takk.
+    filename: E1_Nei_takk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: að fá
+    filename: E1_að_fá.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég hef fengið
+    filename: E1_ég_hef_fengið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: ég get fengið
+    filename: E1_ég_get_fengið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Get ég fengið hamborgara?
+    filename: E1_Get_ég_fengið_hamborgara.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Get ég fengið kaffi?
+    filename: E1_Get_ég_fengið_kaffi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: meira
+    filename: E1_meira.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: fleira
+    filename: E1_fleira.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Get ég fengið aðeins meira kaffi?
+    filename: E1_Get_ég_fengið_aðeins_meira_kaffi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Eitthvað fleira?
+    filename: E1_Eitthvað_fleira.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: þúsund krónur
+    filename: E1_þúsund_krónur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Gjörðu svo vel.
+    filename: E1_Gjörðu_svo_vel.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Það er erfitt.
+    filename: E1_Það_er_erfitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Það er auðvelt.
+    filename: E1_Það_er_auðvelt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: frekar
+    filename: E1_frekar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
+  - recording_of: Hún er frekar góð í íslensku.
+    filename: E1_Hún_er_frekar_góð_í_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-15"
