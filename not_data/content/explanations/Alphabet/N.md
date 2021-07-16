@@ -41,7 +41,7 @@ It appears:
 
 ## Exceptions
 
-*'''nn''' – "nn" sounds like "dn" if it comes after an "[[Ú|'''ú''']]" or an "[[Í|'''í''']]" sound (both are sounds where the tongue is close to the roof of the mouth). The letters that end in such sounds are ú, ó, á (all end in an ú sound) and í, ý, au, ei, ei, æ (all end in an [[í]] sound)
+*'''nn''' – "nn" sounds like "dn" if it comes after an "[[Ú|'''ú''']]" or an "[[Í|'''í''']]" sound (both are sounds where the tongue is close to the roof of the mouth). The letters that end in such sounds are ú, ó, á (all end in an ú sound) and í, ý, au, ei, ei, æ (all end in an [[í]] sound). The final "n" is not pronounced with the voice, instead you just place your tongue into the position of an "n" without making a sound.
 **einn, fínn, brúnn, steinn, óhreinn, seinn, grænn
 *'''sn''' – The letter cluster "sn" is pronounced "sdn".
 **snúa ({{pron|sdnúa}}), asnalegt ({{pron|asdnalegt}}), losnaði ({{pron|losdn}})
@@ -49,4 +49,3 @@ It appears:
 ***
 
 The name of the letter is "enn", same as in English.
-

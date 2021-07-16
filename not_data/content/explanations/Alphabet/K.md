@@ -1,6 +1,8 @@
 ---
 title: K
 license: CC0
+redirects:
+- K in the roof of the mouth#K in the roof of the mouth
 reviewed: no
 ---
 
@@ -72,4 +74,3 @@ This small breath is extremely important, without it it's almost impossible to u
 ***
 
 The name of the letter is "ká".
-

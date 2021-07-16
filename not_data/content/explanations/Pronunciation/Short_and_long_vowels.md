@@ -9,6 +9,7 @@ redirects:
 - Short sound
 - Short vowel
 - Short vowels
+- Vowel length
 license: CC0
 reviewed: no
 ---
@@ -24,7 +25,7 @@ The rules are:
 *A vowel is '''short''' if it doesn't have [[stress]]<ref name=":0" /> or if it's followed by two or more [[Consonant|consonants]] (like "mm", "skt", or "kk").
 **v'''i'''nn'''u'''r, b'''a'''kka, l'''æ'''rð'''i''', b'''o'''rð'''a''', t'''a'''kk, g'''o'''tt, f'''i'''sk'''u'''r, '''a'''mm'''a''', '''e'''lst'''u'''r
 
-## Gliding 
+## Gliding
 There is another trick you can use to perfect your pronunciation. Long vowels are not static, instead they glide a bit into a fully open mouth. In English, when you pronounce the sad trombone sound "wah-wah", you start with your mouth closed in the "w" and glide into the fully open-mouthed "ah".
 
 When you see a long vowel, try to both exaggerate its length and also exaggerate the amount of gliding you do, going from a closed mouth to an open mouth. Over-exaggerating it sounds better than not doing enough:
@@ -36,4 +37,3 @@ When you see a long vowel, try to both exaggerate its length and also exaggerate
 <notes>
 *A note to German speakers: The gliding in Icelandic long vowels may sound similar to German words that end in an "r". "De" in Icelandic might sound like a German "de'''r'''". Icelanders however don't perceive an "r" in long vowels.
 </notes>
-
