@@ -11718,11 +11718,6 @@ sound:
     speed: slow
     speaker: Imba
     date: "2021-07-18"
-  - recording_of: að búa
-    filename: Imba1_að_búa.mp3
-    speed: slow
-    speaker: Imba
-    date: "2021-07-18"
   - recording_of: ég bý
     filename: Imba1_ég_bý.mp3
     speed: slow
@@ -11740,11 +11735,6 @@ sound:
     date: "2021-07-18"
   - recording_of: meira
     filename: Imba1_meira.mp3
-    speed: slow
-    speaker: Imba
-    date: "2021-07-18"
-  - recording_of: aðeins meira
-    filename: Imba1_aðeins_meira.mp3
     speed: slow
     speaker: Imba
     date: "2021-07-18"
@@ -11782,4 +11772,14 @@ sound:
     filename: Imba1_Langar_þig_að_koma.mp3
     speed: slow
     speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að segja
+    filename: E1_að_segja.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-18"
+  - recording_of: hann
+    filename: E1_hann.mp3
+    speed: slow
+    speaker: E
     date: "2021-07-18"
