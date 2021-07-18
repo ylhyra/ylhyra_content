@@ -4,7 +4,13 @@ redirects:
 - Ylhýra
 reviewed: no
 ---
+<Frontpage/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div style="
   background: #f09f9f;
   padding: 8px 12px;
@@ -12,9 +18,6 @@ reviewed: no
   border-radius: 5px;">
 This is a testing site for the next version of Ylhýra. It contains some bugs and non-functioning links.
 </div>
-
-<Frontpage/>
-
 <div id="frontpage-splash-screen">
 <div id="frontpage-splash-screen-english">
 {{Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence.

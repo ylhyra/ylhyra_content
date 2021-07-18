@@ -1792,11 +1792,11 @@ rows:
     row_id: 336
     last_seen: "2021-07-01"
   - icelandic: íslenska
-    english: "{{g|the}} Icelandic language"
+    english: Icelandic language
     depends_on: Ísland, íslenskur
     level: 1
     row_id: 337
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-16"
   - icelandic: Hann er góður í íslensku.
     english: He's good at Icelandic.
     depends_on: íslenska, góður
@@ -2403,6 +2403,7 @@ rows:
     depends_on: útlönd
     level: 2
     row_id: 443
+    last_seen: "2021-07-16"
   - icelandic: útlendingur
     english: a foreigner
     depends_on: útlönd
@@ -5186,26 +5187,26 @@ rows:
     row_id: 974
     last_seen: "2021-07-02"
   - icelandic: enska
-    english: "{{g|the}} English language"
+    english: English language
     level: 1
     row_id: 975
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-16"
   - icelandic: spænska
-    english: "{{g|the}} Spanish language"
+    english: Spanish language
     depends_on: Spánn
     level: 3
     row_id: 976
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-16"
   - icelandic: danska
     level: 3
     row_id: 977
     last_seen: "2021-07-02"
   - icelandic: þýska
-    english: "{{g|the}} German language"
+    english: German language
     depends_on: Þýskaland
     level: 3
     row_id: 978
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-16"
   - icelandic: franska
     level: 3
     row_id: 979
@@ -5804,7 +5805,9 @@ rows:
     row_id: 1118
   - icelandic: í
     english: in;; into
+    level: 1
     row_id: 1119
+    last_seen: "2021-07-16"
   - icelandic: á Íslandi
     english: in Iceland
     lemmas: Ísland
@@ -5859,8 +5862,10 @@ rows:
     row_id: 1132
   - icelandic: hæ
     english: hi
+    level: 1
     note: A very common greeting among friends.
     row_id: 1133
+    last_seen: "2021-07-16"
   - icelandic: halló
     english: hello
     level: 1
@@ -5871,15 +5876,21 @@ rows:
     english: my mom
     lemmas: minn
     depends_on: mamma
+    level: 1
     row_id: 1135
+    last_seen: "2021-07-16"
   - icelandic: mamma þín
     english: your mom
     lemmas: þinn
     depends_on: mamma
+    level: 1
     row_id: 1136
+    last_seen: "2021-07-16"
   - icelandic: líka
     english: also
+    level: 1
     row_id: 1137
+    last_seen: "2021-07-16"
   - icelandic: Hvernig finnst þér?
     english: How do you like {{g|it}}?; What's your opinion {{g|of it}}?
     lemmas: að finnast
@@ -6357,10 +6368,6 @@ rows:
     alternative_id: hver
     level: 1
     row_id: 1245
-    last_seen: "2021-07-02"
-  - icelandic: þetta
-    level: 1
-    row_id: 1246
     last_seen: "2021-07-02"
   - icelandic: fyndinn
     level: 1
@@ -8285,9 +8292,13 @@ rows:
     row_id: 1620
     last_seen: "2021-07-10"
   - icelandic: heyrðu
-    english: "\"Uhh, so\", \"Hey, so ...\" Used to get someone's attention or to indicate that you are about to switch to another point of conversation."
-    level: 1
+    english: "\"Uhh∆ so\"; \"Hey∆ so ...\""
+    lemmas: að heyra
+    level: 2
+    direction: "->"
+    note: Used to get someone's attention or to indicate that you are about to switch to another point of conversation. Literally means "hear me". The phrase is not rude, but it is a bit casual.
     row_id: 1621
+    last_seen: "2021-07-16"
   - icelandic: Er taskan mín megin eða þín megin?
     english: "Is the suitcase on my side or on your side? (note: of the airplane aisle)"
     depends_on: megin, taska
@@ -8419,12 +8430,13 @@ rows:
   - icelandic: hann veit
     level: 1
     row_id: 1645
-  - icelandic: ég veit það ekki
+  - icelandic: Ég veit það ekki.
+    english: I don't know.
+    lemmas: að vita
     level: 1
+    note: It's important not to forget "það" here.
     row_id: 1646
-  - icelandic: þetta kaffi
-    level: 1
-    row_id: 1647
+    last_seen: "2021-07-16"
   - icelandic: þessi hamborgari
     level: 1
     row_id: 1648
@@ -8672,10 +8684,10 @@ rows:
     last_seen: "2021-07-12"
   - icelandic: Hvað er þetta?
     english: What is this?
-    lemmas: að vera
+    lemmas: að vera, þessi
     level: 1
     row_id: 1700
-    last_seen: "2021-07-12"
+    last_seen: "2021-07-16"
   - icelandic: Þetta er gott.
     english: This is good.
     lemmas: góður
@@ -8944,11 +8956,11 @@ rows:
     row_id: 1758
     last_seen: "2021-07-12"
   - icelandic: Hann er ekki góður í ensku.
-    english: He's not good in English.
+    english: He's not good at English.
     lemmas: enska
     level: 1
     row_id: 1759
-    last_seen: "2021-07-12"
+    last_seen: "2021-07-16"
   - icelandic: Kann hann að elda?
     english: Does he know how to cook?
     lemmas: að kunna
@@ -9027,11 +9039,11 @@ rows:
     row_id: 1772
     last_seen: "2021-07-12"
   - icelandic: Hún er frekar góð í íslensku.
-    english: She is rather good in Icelandic.
+    english: She is rather good at Icelandic.
     lemmas: íslenska
     level: 1
     row_id: 1773
-    last_seen: "2021-07-12"
+    last_seen: "2021-07-16"
   - icelandic: Það er frekar erfitt að læra íslensku.
     english: It's rather difficult to learn Icelandic.
     lemmas: íslenska
@@ -9360,6 +9372,13 @@ rows:
     level: 1
     row_id: 1831
     last_seen: "2021-07-12"
+  - icelandic: þetta
+    english: this _thing_
+    lemmas: þessi%
+    alternative_id: þetta
+    level: 1
+    row_id: 1832
+    last_seen: "2021-07-16"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
@@ -11059,3 +11078,378 @@ sound:
     speed: slow
     speaker: E
     date: "2021-07-15"
+  - recording_of: ég
+    filename: Imba1_ég.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: til
+    filename: Imba1_til.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: mamma
+    filename: Imba1_mamma.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: til mín
+    filename: Imba1_til_mín.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: mamma mín
+    filename: Imba1_mamma_mín.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hann
+    filename: Imba1_hann.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að vera
+    filename: Imba1_að_vera.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Ísland
+    filename: Imba1_Ísland.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hann er
+    filename: Imba1_hann_er.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: íslenska
+    filename: Imba1_íslenska.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hann er góður.
+    filename: Imba1_Hann_er_góður.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: í
+    filename: Imba1_í.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hann er góður í íslensku.
+    filename: Imba1_Hann_er_góður_í_íslensku.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: það
+    filename: Imba1_það.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: það er
+    filename: Imba1_það_er.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: þetta
+    filename: Imba1_þetta.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: mjög
+    filename: Imba1_mjög.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Það er gott.
+    filename: Imba1_Það_er_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Þetta er mjög gott.
+    filename: Imba1_Þetta_er_mjög_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: en
+    filename: Imba1_en.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: þú
+    filename: Imba1_þú.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: En þú?
+    filename: Imba1_En_þú.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hann er ekki góður í íslensku.
+    filename: Imba1_Hann_er_ekki_góður_í_íslensku.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að koma
+    filename: Imba1_að_koma.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að heyra
+    filename: Imba1_að_heyra.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Það er gott að heyra.
+    filename: Imba1_Það_er_gott_að_heyra.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hvað?
+    filename: Imba1_hvað.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að ætla
+    filename: Imba1_að_ætla.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: dagur
+    filename: Imba1_dagur.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: ég ætla
+    filename: Imba1_ég_ætla.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að læra
+    filename: Imba1_að_læra.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: í dag
+    filename: Imba1_í_dag.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Ég ætla ekki að læra í dag.
+    filename: Imba1_Ég_ætla_ekki_að_læra_í_dag.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að segja
+    filename: Imba1_að_segja.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: þú segir
+    filename: Imba1_þú_segir.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hvað segirðu gott?
+    filename: Imba1_Hvað_segirðu_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: veður
+    filename: Imba1_veður.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Það er gott veður.
+    filename: Imba1_Það_er_gott_veður.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hæ
+    filename: Imba1_hæ.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hún
+    filename: Imba1_hún.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hún segir
+    filename: Imba1_hún_segir.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: mikið
+    filename: Imba1_mikið.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: mjög mikið
+    filename: Imba1_mjög_mikið.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: ég er
+    filename: Imba1_ég_er.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: kaffi
+    filename: Imba1_kaffi.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Þetta kaffi er gott.
+    filename: Imba1_Þetta_kaffi_er_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að drekka
+    filename: Imba1_að_drekka.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: vatn
+    filename: Imba1_vatn.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Ég ætla að drekka mikið vatn í dag.
+    filename: Imba1_Ég_ætla_að_drekka_mikið_vatn_í_dag.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hún er
+    filename: Imba1_hún_er.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hún er góð.
+    filename: Imba1_Hún_er_góð.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Er hún góð í íslensku?
+    filename: Imba1_Er_hún_góð_í_íslensku.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hvað er þetta?
+    filename: Imba1_Hvað_er_þetta.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: allt
+    filename: Imba1_allt.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: til þín
+    filename: Imba1_til_þín.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: mamma þín
+    filename: Imba1_mamma_þín.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: þú ert
+    filename: Imba1_þú_ert.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Þetta er gott.
+    filename: Imba1_Þetta_er_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: til Íslands
+    filename: Imba1_til_Íslands.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Ég ætla að koma til Íslands í apríl.
+    filename: Imba1_Ég_ætla_að_koma_til_Íslands_í_apríl.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Mamma mín er mjög góð í íslensku.
+    filename: Imba1_Mamma_mín_er_mjög_góð_í_íslensku.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Er þetta kaffi gott?
+    filename: Imba1_Er_þetta_kaffi_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: líka
+    filename: Imba1_líka.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Það er líka gott.
+    filename: Imba1_Það_er_líka_gott.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Já, ég veit.
+    filename: Imba1_Já_ég_veit.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: ég veit
+    filename: Imba1_ég_veit.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Ég veit það ekki.
+    filename: Imba1_Ég_veit_það_ekki.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: já
+    filename: Imba1_já.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: já já
+    filename: Imba1_já_já.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Veit mamma þín það?
+    filename: Imba1_Veit_mamma_þín_það.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: að gera
+    filename: Imba1_að_gera.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: Hvað ætlarðu að gera í dag?
+    filename: Imba1_Hvað_ætlarðu_að_gera_í_dag.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: hann ætlar
+    filename: Imba1_hann_ætlar.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: bara
+    filename: Imba1_bara.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"
+  - recording_of: smá
+    filename: Imba1_smá.mp3
+    speed: slow
+    speaker: Imba
+    date: "2021-07-18"

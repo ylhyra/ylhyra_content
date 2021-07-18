@@ -17,18 +17,18 @@ title: Project:Software/Útlit
 * http://levitan-eng.jewish-museum.ru/
 * https://www.aristidebenoist.com/
 * https://developer.github.com/
-*https://snohetta.com/news
-*https://svenkadak.com/blog/scrollbar-blindness
-*https://tildeverse.org/
-*https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user/
-*https://otherinter.net/squad-wealth/
-*http://schemasofuncertainty.com/dungeoneering
-*https://streamlit.io/
-*https://missiveapp.com/features
-*https://www.ussherpress.com/freshcards/
-*https://mochi.cards/
-*https://www.editorx.com/
-*https://formik.org/docs/overview
-*https://auth0.com/pricing
-*https://dashboard.magic.link/login
-*https://zencastr.com/
+* https://snohetta.com/news
+* https://svenkadak.com/blog/scrollbar-blindness
+* https://tildeverse.org/
+* https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user/
+* https://otherinter.net/squad-wealth/
+* http://schemasofuncertainty.com/dungeoneering
+* https://streamlit.io/
+* https://missiveapp.com/features
+* https://www.ussherpress.com/freshcards/
+* https://mochi.cards/
+* https://www.editorx.com/
+* https://formik.org/docs/overview
+* https://auth0.com/pricing
+* https://dashboard.magic.link/login
+* https://zencastr.com/
