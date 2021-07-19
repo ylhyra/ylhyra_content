@@ -9190,7 +9190,7 @@ rows:
     level: 1
     row_id: 1800
     last_seen: "2021-07-12"
-  - icelandic: hér er hamborgari - um hamborgari
+  - icelandic: hér er hamborgari - um hamborgara
     english: here is a hamburger - about a hamburger
     level: 1
     row_id: 1801
@@ -9331,9 +9331,9 @@ rows:
     level: 1
     row_id: 1824
     last_seen: "2021-07-12"
-  - icelandic: Ég veit næstum allt um þig.
+  - icelandic: Ég veit næstum því allt um þig.
     english: I know almost everything about you.
-    lemmas: að vita, allur, þú
+    lemmas: að vita, það, allur, þú
     level: 1
     row_id: 1825
     last_seen: "2021-07-12"
@@ -11783,3 +11783,673 @@ sound:
     speed: slow
     speaker: E
     date: "2021-07-18"
+  - recording_of: til
+    filename: E1_til.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: til þín
+    filename: E1_til_þín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: mamma þín
+    filename: E1_mamma_þín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að ætla
+    filename: E1_að_ætla.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: ég ætla
+    filename: E1_ég_ætla.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: vatn
+    filename: E1_vatn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: veður
+    filename: E1_veður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: líka
+    filename: E1_líka.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: til Íslands
+    filename: E1_til_Íslands.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: til mín
+    filename: E1_til_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: mamma mín
+    filename: E1_mamma_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að heyra
+    filename: E1_að_heyra.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: í
+    filename: E1_í.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: dagur
+    filename: E1_dagur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að læra
+    filename: E1_að_læra.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: í dag
+    filename: E1_í_dag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hæ
+    filename: E1_hæ.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að kunna
+    filename: E1_að_kunna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: borð
+    filename: E1_borð.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að borða
+    filename: E1_að_borða.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Daginn!
+    filename: E1_Daginn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég veit það ekki.
+    filename: E1_Ég_veit_það_ekki.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: eftir
+    filename: E1_eftir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: bara
+    filename: E1_bara.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: enska
+    filename: E1_enska.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hvernig?
+    filename: E1_hvernig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hann langar
+    filename: E1_hann_langar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Hvað langar þig að gera í dag?
+    filename: E1_Hvað_langar_þig_að_gera_í_dag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um
+    filename: E1_um.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um mig
+    filename: E1_um_mig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: mig langar
+    filename: E1_mig_langar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að hafa
+    filename: E1_að_hafa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: af hverju?
+    filename: E1_af_hverju.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hvers vegna?
+    filename: E1_hvers_vegna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: af því að
+    filename: E1_af_því_að.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að fara
+    filename: E1_að_fara.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: þetta
+    filename: E1_þetta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: þig langar
+    filename: E1_þig_langar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: einn
+    filename: E1_einn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Mig langar að kunna íslensku.
+    filename: E1_Mig_langar_að_kunna_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að elda
+    filename: E1_að_elda.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Mig langar að búa hérna.
+    filename: E1_Mig_langar_að_búa_hérna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Langar þig að koma?
+    filename: E1_Langar_þig_að_koma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Mig langar að koma.
+    filename: E1_Mig_langar_að_koma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að geta
+    filename: E1_að_geta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: lengi
+    filename: E1_lengi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hamborgari
+    filename: E1_hamborgari.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Mig langar mjög mikið að fara.
+    filename: E1_Mig_langar_mjög_mikið_að_fara.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Af hverju langar þig ekki að fara?
+    filename: E1_Af_hverju_langar_þig_ekki_að_fara.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: til Reykjavíkur
+    filename: E1_til_Reykjavíkur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: ennþá
+    filename: E1_ennþá.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: enn
+    filename: E1_enn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: mig langar að fara
+    filename: E1_mig_langar_að_fara.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Mig langar að fara til Íslands.
+    filename: E1_Mig_langar_að_fara_til_Íslands.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: gaman
+    filename: E1_gaman.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Af því að það er gaman.
+    filename: E1_Af_því_að_það_er_gaman.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla að vera hérna í einn tíma.
+    filename: E1_Ég_ætla_að_vera_hérna_í_einn_tíma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: pítsa
+    filename: E1_pítsa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að panta
+    filename: E1_að_panta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla að panta pítsu.
+    filename: E1_Ég_ætla_að_panta_pítsu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: ég á
+    filename: E1_ég_á.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég á fjölskyldu.
+    filename: E1_Ég_á_fjölskyldu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Hann á fjölskyldu á Íslandi.
+    filename: E1_Hann_á_fjölskyldu_á_Íslandi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Langar þig að læra ensku?
+    filename: E1_Langar_þig_að_læra_ensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla ekki að elda súpu.
+    filename: E1_Ég_ætla_ekki_að_elda_súpu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla bara að lesa einn kafla í dag.
+    filename: E1_Ég_ætla_bara_að_lesa_einn_kafla_í_dag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: vika
+    filename: E1_vika.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: ég kem
+    filename: E1_ég_kem.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: eftir eina viku
+    filename: E1_eftir_eina_viku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég kem til Íslands eftir eina viku.
+    filename: E1_Ég_kem_til_Íslands_eftir_eina_viku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: morgunn
+    filename: E1_morgunn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: á morgun
+    filename: E1_á_morgun.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég geri það á morgun.
+    filename: E1_Ég_geri_það_á_morgun.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég kem ekki á eftir.
+    filename: E1_Ég_kem_ekki_á_eftir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: svona
+    filename: E1_svona.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Af hverju er þetta svona erfitt?
+    filename: E1_Af_hverju_er_þetta_svona_erfitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég kann íslensku.
+    filename: E1_Ég_kann_íslensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: kvöld
+    filename: E1_kvöld.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla að borða pítsu.
+    filename: E1_Ég_ætla_að_borða_pítsu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að tala
+    filename: E1_að_tala.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að tala við einhvern
+    filename: E1_að_tala_við_einhvern.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég kem á morgun.
+    filename: E1_Ég_kem_á_morgun.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: í eina viku
+    filename: E1_í_eina_viku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er einn tími
+    filename: E1_hér_er_einn_tími.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um einn tíma
+    filename: E1_um_einn_tíma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: sími
+    filename: E1_sími.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég á ekki síma.
+    filename: E1_Ég_á_ekki_síma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er ég
+    filename: E1_hér_er_ég.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: fótur
+    filename: E1_fótur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: bolti
+    filename: E1_bolti.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: fótbolti
+    filename: E1_fótbolti.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Er hann góður í fótbolta?
+    filename: E1_Er_hann_góður_í_fótbolta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér ert þú
+    filename: E1_hér_ert_þú.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um þig
+    filename: E1_um_þig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er sími
+    filename: E1_hér_er_sími.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um síma
+    filename: E1_um_síma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla á vera á Íslandi í eina viku.
+    filename: E1_Ég_ætla_á_vera_á_Íslandi_í_eina_viku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: súpan
+    filename: E1_súpan.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er súpa
+    filename: E1_hér_er_súpa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um súpu
+    filename: E1_um_súpu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég á konu.
+    filename: E1_Ég_á_konu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er hamborgari
+    filename: E1_hér_er_hamborgari.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er ein vika
+    filename: E1_hér_er_ein_vika.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um eina viku
+    filename: E1_um_eina_viku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að taka
+    filename: E1_að_taka.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Það tekur tíma.
+    filename: E1_Það_tekur_tíma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Það er kalt.
+    filename: E1_Það_er_kalt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Af því að það er kalt.
+    filename: E1_Af_því_að_það_er_kalt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég kem í kvöld.
+    filename: E1_Ég_kem_í_kvöld.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég ætla að borða pítsu í kvöld.
+    filename: E1_Ég_ætla_að_borða_pítsu_í_kvöld.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er enska
+    filename: E1_hér_er_enska.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um ensku
+    filename: E1_um_ensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Það tekur eina viku.
+    filename: E1_Það_tekur_eina_viku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég veit ekki hvenær ég kem heim.
+    filename: E1_Ég_veit_ekki_hvenær_ég_kem_heim.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: of mikið
+    filename: E1_of_mikið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Af því að það er of auðvelt.
+    filename: E1_Af_því_að_það_er_of_auðvelt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég er ekki að tala um þig.
+    filename: E1_Ég_er_ekki_að_tala_um_þig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: auðvitað
+    filename: E1_auðvitað.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Auðvitað langar mig að tala við þig.
+    filename: E1_Auðvitað_langar_mig_að_tala_við_þig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: að skilja
+    filename: E1_að_skilja.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Stundum skil ég þig ekki.
+    filename: E1_Stundum_skil_ég_þig_ekki.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ætlarðu að tala við hann?
+    filename: E1_Ætlarðu_að_tala_við_hann.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Langar þig að hitta hana?
+    filename: E1_Langar_þig_að_hitta_hana.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég skil þig.
+    filename: E1_Ég_skil_þig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ertu að tala um hann?
+    filename: E1_Ertu_að_tala_um_hann.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er hún
+    filename: E1_hér_er_hún.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um hana
+    filename: E1_um_hana.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er það
+    filename: E1_hér_er_það.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um það
+    filename: E1_um_það.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hana langar
+    filename: E1_hana_langar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Hana langar að hitta þig.
+    filename: E1_Hana_langar_að_hitta_þig.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: Ég tala við þig á eftir.
+    filename: E1_Ég_tala_við_þig_á_eftir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: hér er hann
+    filename: E1_hér_er_hann.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
+  - recording_of: um hann
+    filename: E1_um_hann.mp3
+    speed: slow
+    speaker: E
+    date: "2021-07-19"
