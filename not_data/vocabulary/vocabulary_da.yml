@@ -352,7 +352,7 @@ rows:
     level: 1
     row_id: 88
   - icelandic: udmærke
-    english: að vera frábær
+    english: að brillera
     level: 1
     row_id: 89
   - icelandic: plejehjem
@@ -372,7 +372,7 @@ rows:
     level: 1
     row_id: 93
   - icelandic: foragte
-    english: furirlíta
+    english: fyrirlíta
     level: 1
     row_id: 94
   - icelandic: skraldespand
@@ -455,12 +455,8 @@ rows:
     english: a company
     level: 1
     row_id: 114
-  - icelandic: regeringen
-    english: the government
-    level: 1
-    row_id: 115
   - icelandic: at sigte efter
-    english: to aim for)
+    english: to aim for
     level: 1
     row_id: 116
   - icelandic: incitamenter

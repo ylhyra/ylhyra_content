@@ -9190,11 +9190,6 @@ rows:
     level: 1
     row_id: 1800
     last_seen: "2021-07-12"
-  - icelandic: hér er hamborgari - um hamborgara
-    english: here is a hamburger - about a hamburger
-    level: 1
-    row_id: 1801
-    last_seen: "2021-07-12"
   - icelandic: Ég á ekki síma.
     english: I don't own a telephone.
     lemmas: að eiga, sími
