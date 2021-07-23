@@ -681,7 +681,7 @@ rows:
     english: nafli
     row_id: 227
   - icelandic: vacilar
-    english: vera óstöðugur;; hika;; stríða
+    english: vera óstöðugur;; hika;; stríða einhverjum
     row_id: 228
   - icelandic: desaprensivo
     english: ófyrirleitinn; samviskulaus
@@ -2789,9 +2789,6 @@ rows:
   - icelandic: germen
     english: angi; vísir
     row_id: 930
-  - icelandic: chivarse
-    english: angra; reita til reiði;; klaga; kjafta frá
-    row_id: 931
   - icelandic: relámpago
     english: elding; leiftur
     row_id: 932
@@ -4344,10 +4341,6 @@ rows:
   - icelandic: pillar
     english: taka; grípa;; fatta
     row_id: 1448
-  - icelandic: tarado
-    english: klikkaður;; gallaður; skemmdur
-    row_id: 1449
-    last_seen: "2021-07-22"
   - icelandic: integrista
     english: bókstafstrúarmaður
     row_id: 1450
@@ -4390,10 +4383,6 @@ rows:
   - icelandic: pactar
     english: semja um; koma sér saman um
     row_id: 1463
-  - icelandic: pillar
-    english: taka; grípa
-    row_id: 1464
-    last_seen: "2021-07-22"
   - icelandic: desventaja
     english: ókostur; galli
     row_id: 1465
@@ -4427,10 +4416,6 @@ rows:
   - icelandic: palurdo
     english: grófur; óheflaður;; "durgur"; "bóndadrengur"vacil
     row_id: 1474
-  - icelandic: vacilar
-    english: vera óstöðugur; "stríða einhverjum"
-    row_id: 1475
-    last_seen: "2021-07-22"
   - icelandic: halagador
     english: smjaðrari
     row_id: 1476
