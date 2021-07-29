@@ -6,6 +6,102 @@ published: February 2021
 reviewed: no
 ---
 
+<vocabulary>
+árið
+níu
+eitt hundrað
+tvö hundruð
+sjö
+þriggja ára
+strákur
+að búa
+svartur
+hár
+mjög
+ljótur
+pabbi
+að heita
+sköllóttur
+að vera kallaður
+þrátt fyrir
+bara
+sterkur
+skáld
+erfiður
+vondur
+aðrir
+krakkar
+í kvöld
+veisla
+heima
+heima hjá
+fjölskylda
+að mega
+ég má
+að koma
+með
+að spyrja
+þú mátt
+risi
+risastór
+allir
+þarna
+að verða
+fullur
+alveg
+nógu
+erfiður
+að svara
+ánægður
+svar
+að finna
+hestur
+að fara
+á eftir
+seint
+að mæta
+loksins
+að sitja
+að drekka
+bjór
+fólk
+að sjá
+hann sér
+af hverju
+að koma
+svona
+að vilja
+að setjast
+hérna
+hjá
+jú
+takk
+að svara
+hann sest
+pabbi
+bróðir
+að sitja
+á móti
+mikið
+að semja
+ljóð
+afi
+að lesa
+fyrir
+vá
+að segja
+frábært
+næstur
+að gefa
+frá Agli
+þrír
+skel
+önd
+egg
+gjöfin
+
+</vocabulary>
+
 This is a simplified retelling of [https://www.snerpa.is/net/isl/egils.htm#:~:text=Enn%20%C3%A1ttu%20%C3%BEau%20Skalla%2DGr%C3%ADmur%20son chapter 31] from the medieval Icelandic saga ''[[w:Egils saga|Egils saga]]''. The story takes place in the 10th century and was written in the 13th century. The main character of the story is an aggressive bully named Egill, a great poet who travels around Northern Europe. It is among the most commonly read sagas.
 
 <Book audio="Egils saga.mp3">

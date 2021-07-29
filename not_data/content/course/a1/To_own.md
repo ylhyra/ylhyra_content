@@ -10,7 +10,7 @@ að eiga
 Hann á fjölskyldu á Íslandi.
 Ég á konu.
 hér er sími - um síma
-hér er hamborgari - um hamborgari
+hér er hamborgari - um hamborgara
 Ég á ekki síma.
 <!-- Ég ætla að spyrja pabba. -->
 Það tekur tíma.
@@ -43,24 +43,3 @@ Examples:
 * Hann á pabb**a**. (*He has a dad.*) – Pabbi is the object of the verb "að eiga".
 * Þetta er hamborgar**i**. (*This is a hamburger.*) – The first case is used with "to be".
 * Ég ætla að borða hamborgar**a**. (*I'm going to eat a hamburger.*) – It is the object of the verb "að borða".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

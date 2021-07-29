@@ -46,9 +46,9 @@ nakinn
 - oft
 - pottur
 - sautján
-- sig (þgf)
+- sig
 - sirka
-- skór (þgf,ft)
+- skór 
 - sturta
 - sundföt
 - sundlaug

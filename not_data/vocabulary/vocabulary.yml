@@ -6038,8 +6038,10 @@ rows:
     last_seen: "2021-07-29"
   - icelandic: skálin
     english: the bowl
-    lemmas: skál%
+    lemmas: skál
+    level: 4
     row_id: 1110
+    last_seen: "2021-07-29"
   - icelandic: J*e* m*inn* e*ini*.
     english: Oh my!
     level: 4
@@ -8519,11 +8521,17 @@ rows:
     row_id: 1560
     last_seen: "2021-07-10"
   - icelandic: fimm hundruð
+    english: five hundred
     level: 1
     row_id: 1561
-  - icelandic: krónur
+    last_seen: "2021-07-29"
+  - icelandic: þrjú hundruð krónur
+    english: three hundred króna
+    lemmas: þrír, hundrað, króna
     level: 1
+    note_regarding_english: The króna is the Icelandic currency.
     row_id: 1562
+    last_seen: "2021-07-29"
   - icelandic: Nei takk.
     english: No thanks.
     alternative_id: Nei∆ takk.
@@ -10143,8 +10151,234 @@ rows:
   - icelandic: að setjast niður
     english: to have a seat; to sit down
     depends_on: að setja, að sitja, sæti
+    alternative_id: að setjast
     level: 3
     row_id: 1828
+    last_seen: "2021-07-29"
+  - icelandic: árið
+    english: the year
+    lemmas: ár
+    level: 1
+    row_id: 1829
+    last_seen: "2021-07-29"
+  - icelandic: eitt hundrað
+    english: one hundred
+    lemmas: einn, hundrað
+    level: 1
+    row_id: 1830
+    last_seen: "2021-07-29"
+  - icelandic: þriggja ára
+    english: three years old
+    lemmas: þrír, ár
+    level: 1
+    row_id: 1831
+    last_seen: "2021-07-29"
+  - icelandic: svartur
+    english: black
+    level: 1
+    row_id: 1832
+    last_seen: "2021-07-29"
+  - icelandic: Hann er hár.
+    english: He is tall.
+    alternative_id: hár
+    level: 1
+    row_id: 1833
+    last_seen: "2021-07-29"
+  - icelandic: ljótur
+    english: ugly
+    level: 1
+    note_regarding_english: masculine
+    row_id: 1834
+    last_seen: "2021-07-29"
+  - icelandic: að vera kallaður
+    english: to be called
+    depends_on: að kalla
+    level: 3
+    row_id: 1835
+    last_seen: "2021-07-29"
+  - icelandic: þ*rátt* f*yrir* það
+    english: despite that
+    alternative_id: þrátt fyrir
+    level: 2
+    row_id: 1836
+    last_seen: "2021-07-29"
+  - icelandic: Hún er sterk.
+    english: She is strong.
+    lemmas: sterkur%
+    level: 2
+    row_id: 1837
+    last_seen: "2021-07-29"
+  - icelandic: skáldið
+    english: the poet
+    lemmas: skáld%
+    level: 3
+    note_regarding_english: A person that writes poems.
+    row_id: 1838
+    last_seen: "2021-07-29"
+  - icelandic: aðrir
+    english: others; other people
+    lemmas: annar
+    level: 2
+    row_id: 1839
+    last_seen: "2021-07-29"
+  - icelandic: krakkar
+    english: kids
+    lemmas: krakki
+    level: 2
+    row_id: 1840
+    last_seen: "2021-07-29"
+  - icelandic: v*eisla*
+    english: a party
+    level: 2
+    row_id: 1841
+    last_seen: "2021-07-29"
+  - icelandic: Ég er heima hjá honum.
+    english: I'm at his house.
+    alternative_id: heima hjá
+    level: 1
+    row_id: 1842
+    last_seen: "2021-07-29"
+  - icelandic: ég má
+    english: I am allowed to
+    lemmas: að mega
+    level: 1
+    row_id: 1843
+    last_seen: "2021-07-29"
+  - icelandic: að spyrja
+    english: to ask
+    level: 1
+    dont_confuse: að svara
+    row_id: 1844
+    last_seen: "2021-07-29"
+  - icelandic: þú mátt
+    english: you are allowed to
+    lemmas: að mega
+    level: 1
+    row_id: 1845
+    last_seen: "2021-07-29"
+  - icelandic: risi
+    english: a giant
+    level: 3
+    row_id: 1846
+    last_seen: "2021-07-29"
+  - icelandic: risastór
+    english: huge
+    depends_on: risi, stór
+    level: 3
+    note_regarding_english: masculine
+    literally: big as a giant
+    row_id: 1847
+    last_seen: "2021-07-29"
+  - icelandic: að svara
+    english: to answer
+    level: 1
+    row_id: 1848
+    last_seen: "2021-07-29"
+  - icelandic: Hann er ánægður.
+    english: He is content.; He is satisfied.; He is pleased.
+    alternative_id: ánægður
+    level: 1
+    row_id: 1849
+    last_seen: "2021-07-29"
+  - icelandic: svarið
+    english: the answer
+    lemmas: svar%
+    depends_on: að svara
+    level: 2
+    row_id: 1850
+    last_seen: "2021-07-29"
+  - icelandic: hestur
+    english: a horse
+    level: 3
+    row_id: 1851
+    last_seen: "2021-07-29"
+  - icelandic: Ég kem seint.
+    english: I will arrive late.
+    depends_on: seinn
+    alternative_id: seint
+    level: 1
+    row_id: 1852
+    last_seen: "2021-07-29"
+  - icelandic: hann sér
+    english: he sees
+    lemmas: að sjá
+    level: 1
+    row_id: 1853
+    last_seen: "2021-07-29"
+  - icelandic: hann sest niður
+    english: he sits down; he has a seat
+    lemmas: að setjast
+    level: 3
+    row_id: 1855
+    last_seen: "2021-07-29"
+  - icelandic: bróðir
+    english: a brother
+    level: 1
+    row_id: 1856
+    last_seen: "2021-07-29"
+  - icelandic: að semja
+    english: "to compose (note: a poem or a song)"
+    level: 4
+    row_id: 1857
+    last_seen: "2021-07-29"
+  - icelandic: ljóðið
+    english: the poem
+    lemmas: ljóð%
+    level: 3
+    row_id: 1858
+    last_seen: "2021-07-29"
+  - icelandic: afi
+    english: grandfather
+    level: 1
+    row_id: 1859
+    last_seen: "2021-07-29"
+  - icelandic: að lesa
+    english: to read
+    level: 1
+    row_id: 1860
+    last_seen: "2021-07-29"
+  - icelandic: að gefa
+    english: to give
+    level: 1
+    row_id: 1861
+    last_seen: "2021-07-29"
+  - icelandic: frá Agli
+    english: from Egill
+    level: 1
+    direction: <-
+    note: Egill is a male name that has an irregular declension
+    row_id: 1862
+    last_seen: "2021-07-29"
+  - icelandic: skelin
+    english: the shell
+    lemmas: skel%
+    level: 3
+    row_id: 1863
+    last_seen: "2021-07-29"
+  - icelandic: öndin
+    english: the duck
+    lemmas: önd%
+    level: 3
+    row_id: 1864
+    last_seen: "2021-07-29"
+  - icelandic: eggið
+    english: the egg
+    lemmas: egg%
+    level: 2
+    row_id: 1865
+    last_seen: "2021-07-29"
+  - icelandic: gjöfin
+    english: the gift; the present
+    lemmas: gjöf%
+    depends_on: að gefa
+    level: 3
+    row_id: 1866
+    last_seen: "2021-07-29"
+  - icelandic: hárið
+    english: the hair
+    lemmas: hár%
+    level: 1
+    row_id: 1867
     last_seen: "2021-07-29"
 sound:
   - recording_of: níu sinnum

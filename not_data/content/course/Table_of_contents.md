@@ -19,41 +19,41 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 
 <TOC>
 # Unit {{incr}}
-- Course/How are you
-- Course/This - that
-- Course/Good
-- Course/I am going to
-- Course/Greetings
+{{chapter|Course/How are you}}
+{{chapter|Course/This - that}}
+{{chapter|Course/Good}}
+{{chapter|Course/I am going to}}
+{{chapter|Course/Greetings}}
 # Unit {{incr}}
-- Course/You are going to
-- Course/Yes
-- Course/I know
-- Course/I know how to
-- Course/Live| Uhm... • Live
+{{chapter|Course/You are going to}}
+{{chapter|Course/Yes}}
+{{chapter|Course/I know}}
+{{chapter|Course/I know how to}}
+{{chapter|Course/Live| Uhm... • Live}}
 # Unit {{incr}}
-- Course/Ordering food
-- Course/Difficult
-- Course/Want 1 | Want ''(að langa)'' <!-- Langar -->
-- Course/Why?
+{{chapter|Course/Ordering food}}
+{{chapter|Course/Difficult}}
+{{chapter|Course/Want 1 | Want ''(að langa)'' <!-- Langar -->}}
+{{chapter|Course/Why?}}
 # Unit {{incr}}
-- Course/Introduction to cases|Introduction to cases <div class="toc_subtitle">The first two cases of the "mamma" pattern</div>
-- Course/To own | To own  <div class="toc_subtitle">The first two cases of the "pabbi" pattern</div>
-- Course/Future
-- Course/In an hour
-- Course/Second case of the personal pronouns
+{{chapter|Course/Introduction to cases|Introduction to cases <div class="toc_subtitle">The first two cases of the "mamma" pattern</div>}}
+{{chapter|Course/To own | To own  <div class="toc_subtitle">The first two cases of the "pabbi" pattern</div>}}
+{{chapter|Course/Future}}
+{{chapter|Course/In an hour}}
+{{chapter|Course/Second case of the personal pronouns}}
 
 <!-- ***
 <div style="background: #aba3b4">
 
 # Unit {{incr}}
-- Course/When?
-- Course/Doing
-- Course/To watch
-- Course/How?
-- Course/I like
+{{chapter|Course/When?}}
+{{chapter|Course/Doing}}
+{{chapter|Course/To watch}}
+{{chapter|Course/How?}}
+{{chapter|Course/I like}}
 # Unit {{incr}}
-- Course/The
-- Course/Want 2 | Want ''(að vilja)'' <!-- Vilja -- >
+{{chapter|Course/The}}
+{{chapter|Course/Want 2 | Want ''(að vilja)'' <!-- Vilja -- >}}
 </div> -->
 </TOC>
 

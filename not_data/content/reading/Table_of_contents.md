@@ -7,16 +7,16 @@ tags:
 reviewed: no
 ---
 
-<!-- <TOC> -->
+<TOC>
 ## [[A1]]
 
 *General
-**[[Text:A1/Reykjavík|Reykjavík]] – 70 words
-**[[Sund]] – 180 words
-**[[Færeyjar]] – 150 words
-**[[Egils_saga/Veisla_hjá_afa|Egils saga – Veisla hjá afa]] – 270 words
-**[[Strætó]] – 160 words
-**[[Text:A1/Garðvinna|Garðvinna]] – 80 words
+**{{link with percentage|Reykjavík}} <!--– 70 words-->
+**{{link with percentage|Sund}} <!--– 180 words-->
+**{{link with percentage|Færeyjar}} <!--– 150 words-->
+**{{link with percentage|Egils_saga/Veisla_hjá_afa|Egils saga – Veisla hjá afa}} <!--– 270 words-->
+**{{link with percentage|Strætó}} <!--– 160 words-->
+**{{link with percentage|Garðvinna}} <!--– 80 words-->
 <!--**[[Text/Milk|Mjólk]] – 30 words
 **[[Text:Eiríkur dansar|Dans]] – 9 words-->
 <!-- **[[Conversations/Prentari|Prentari]] 💬
@@ -113,5 +113,5 @@ reviewed: no
 **[[Tweets/Imba/Ligeglad|Ligeglad]] by Imba
 **[[Tweets/Þorsteinn/Alþingi|Alþingi]] by Þorsteinn
 **[[Tweets/Ása/Sjófánar|Sjófánar]] by Ása<!--{{needs audio}}-->
-<!-- </TOC> -->
+</TOC>
 <!-- {{Mailchimp}} -->
