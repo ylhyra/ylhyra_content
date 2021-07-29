@@ -11,7 +11,7 @@ að tala
 að tala við einhvern
 Ég tala við þig á eftir.
 Auðvitað langar mig að tala við þig.
-Ég veit næstum allt um þig.
+Ég veit næstum því allt um þig.
 Ég skil þig.
 <!-- Langar þig að elda fyrir mig? -->
 Stundum skil ég þig ekki.
@@ -37,10 +37,3 @@ The first two [[cases]] of the [[personal pronouns]] are:
 * ég er það, um það (*it*)
 
 You already recognize the second case from "mig langar" and "þig langar", the only new form here is the form "um hana".
-
-
-
-
-
-
-

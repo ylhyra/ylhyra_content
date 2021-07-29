@@ -6,6 +6,56 @@ license: CC0
 level: A1
 reviewed: no
 ---
+<vocabulary>
+eyja
+sem
+á milli
+Ísland
+Skotland
+hluti
+Danmörk
+að búa
+margir
+fimmtíu
+þúsund
+manns
+að tala
+fólk
+líkur
+mjög
+að skilja
+þegar
+þeir
+að skrifa
+samt
+allt
+að nota
+sami
+orð
+danskur
+mér finnst
+ótrúlega
+fyndið
+að hljóma
+litli bróðir hans
+frændi
+frændur
+okkar
+af því að
+svo
+nálægt
+gaman
+að hugsa
+samskipti
+ég veit
+af hverju
+kannski
+að kosta
+að fljúga
+mikið
+</vocabulary>
+
+# Færeyjar
 
 <Image src="Idioma_feroés.png" position="right" width="237"/>
 <Book audio="Færeyska.mp3">

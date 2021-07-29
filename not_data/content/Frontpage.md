@@ -2,13 +2,14 @@
 title: ""
 redirects:
 - Ylhýra
+- Front page
 reviewed: no
 classes:
 - wide-screen
 - sans-serif
 ---
 <Frontpage/>
-{{spacer|100}}
+{{spacer|10}}
 <!-- <div style="
   background: #f09f9f;
   padding: 8px 12px;

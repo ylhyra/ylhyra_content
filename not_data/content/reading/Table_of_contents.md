@@ -7,6 +7,7 @@ tags:
 reviewed: no
 ---
 
+<!-- <TOC> -->
 ## [[A1]]
 
 *General
@@ -18,8 +19,8 @@ reviewed: no
 **[[Text:A1/Garðvinna|Garðvinna]] – 80 words
 <!--**[[Text/Milk|Mjólk]] – 30 words
 **[[Text:Eiríkur dansar|Dans]] – 9 words-->
-**[[Conversations/Prentari|Prentari]] 💬
-**[[Conversations/Winter|Vetur]] 💬
+<!-- **[[Conversations/Prentari|Prentari]] 💬
+**[[Conversations/Winter|Vetur]] 💬 -->
 *Tweets
 **[[Tweets/Rannveig Dóra/Matur|Matur]] by Rannveig Dóra
 
@@ -112,6 +113,5 @@ reviewed: no
 **[[Tweets/Imba/Ligeglad|Ligeglad]] by Imba
 **[[Tweets/Þorsteinn/Alþingi|Alþingi]] by Þorsteinn
 **[[Tweets/Ása/Sjófánar|Sjófánar]] by Ása<!--{{needs audio}}-->
-
+<!-- </TOC> -->
 <!-- {{Mailchimp}} -->
-

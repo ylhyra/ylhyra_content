@@ -3,7 +3,19 @@ title: Course
 reviewed: no
 ---
 
-This is a short beginner-level tutorial in Icelandic.
+<div className="centered-button">
+<div class="button big">[[vocabulary/play|Start session]]</div>
+</div>
+
+This is a short beginner-level course in Icelandic.
+After reading a chapter, study the associated vocabulary flashcards.
+Your knowledge of these cards is shown next to each chapter below. Try to reach 100% before going to the next chapter.
+
+Difficult cards are shown more frequently until you've memorized them. You can either review cards belonging to a particular chapter, or you can review all the cards you've seen by clicking on the big blue button above. Reviewing frequently is the best to make the information stick in your long-term memory.
+
+Each unit should take about two weeks to master, assuming that you spend two hours per week studying.
+
+<!-- {{spacer|10}} -->
 
 <TOC>
 # Unit {{incr}}

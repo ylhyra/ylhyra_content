@@ -6,6 +6,61 @@ license: CC0
 level: A1
 reviewed: no
 ---
+<vocabulary>
+stræti
+strætó
+að stytta
+orð
+svona
+nokkuð
+algengt
+íslenska
+til dæmis
+hægt
+kærasti
+allavega
+hvorki
+að vera til
+lest
+fyrir neðan
+jörð
+að búa
+nógu
+margir
+til þess að
+að borga sig
+þannig
+bestur
+leið
+að ferðast
+á milli
+staðir
+mjög
+að taka
+líka
+bæir
+úti á landi
+jafn
+oft
+þar
+gulur
+smá
+flókið
+að kaupa
+miði
+ekki
+að mæta
+að borga
+kort
+að koma á óvart
+peningar
+að fá til baka
+að sækja
+búinn
+áður en
+að fara
+upp
+</vocabulary>
 
 <Book audio="Strætó.mp3">
 <Image src="Strætó.JPG" position="right"/>
