@@ -32,3 +32,4 @@ title: Project:Software/Útlit
 * https://auth0.com/pricing
 * https://dashboard.magic.link/login
 * https://zencastr.com/
+* https://epicpython.com/

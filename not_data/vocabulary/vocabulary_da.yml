@@ -428,7 +428,7 @@ rows:
     level: 1
     row_id: 107
   - icelandic: smutte
-    english: hverfa frá (jeg skal smutte)
+    english: hverfa frá (jeg skal _____)
     level: 1
     row_id: 108
   - icelandic: antage

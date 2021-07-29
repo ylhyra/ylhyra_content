@@ -3,21 +3,19 @@ title: ""
 redirects:
 - Ylhýra
 reviewed: no
+classes:
+- wide-screen
+- sans-serif
 ---
 <Frontpage/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<div style="
+{{spacer|100}}
+<!-- <div style="
   background: #f09f9f;
   padding: 8px 12px;
   border: 1px solid #ce8d8d;
   border-radius: 5px;">
 This is a testing site for the next version of Ylhýra. It contains some bugs and non-functioning links.
-</div>
+</div> -->
 <div id="frontpage-splash-screen">
 <div id="frontpage-splash-screen-english">
 {{Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence.
@@ -27,6 +25,16 @@ This is a testing site for the next version of Ylhýra. It contains some bugs an
 {{Text:Demo}}
 </div>
 </div>
+
+
+<!--
+
+Ylhýra is a
+
+2000 words and sentences
+
+
+--->
 
 <!--
 <hr/>

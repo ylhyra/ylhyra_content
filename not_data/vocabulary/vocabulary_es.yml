@@ -15,7 +15,7 @@ rows:
     english: þorskur
     row_id: 5
   - icelandic: mangante
-    english: óskammfeilinn;; betlari;; þjófur
+    english: óskammfeilinn;;  betlari;; þjófur
     row_id: 6
   - icelandic: botanas
     english: (Mex) snarl
@@ -96,7 +96,7 @@ rows:
     english: pipar
     row_id: 32
   - icelandic: carrera
-    english: hlaup;; kapphlaup;; career
+    english: hlaup;;  kapphlaup;; career
     row_id: 33
   - icelandic: ácaros de polvo
     english: rykmaurar
@@ -114,7 +114,7 @@ rows:
     english: musk (musky smell)
     row_id: 38
   - icelandic: trastorno
-    english: disorder;; óreiða; ófriður;; umvending; breyting
+    english: disorder;;  óreiða; ófriður;; umvending; breyting
     row_id: 39
   - icelandic: ladrillo
     english: múrsteinn
@@ -141,7 +141,7 @@ rows:
     english: notorious
     row_id: 47
   - icelandic: lío
-    english: ástarsamband;; klandur;; óreiða;; gauragangur
+    english: ástarsamband;;  klandur;;  óreiða;; gauragangur
     row_id: 48
   - icelandic: tinieblas
     english: myrkur;; skuggar
@@ -153,7 +153,7 @@ rows:
     english: gengi;; klíka
     row_id: 51
   - icelandic: deshacerse
-    english: eyðileggjast;; rakna;; leysast upp
+    english: eyðileggjast;;  rakna;; leysast upp
     row_id: 52
   - icelandic: esquivar
     english: forðast; komast undan
@@ -192,7 +192,7 @@ rows:
     english: rifa; sprunga;; sneið (af melónu t.d.)
     row_id: 64
   - icelandic: chasquear
-    english: hvína; smella;; svekkja; gabba;; svíkja
+    english: hvína; smella;;  svekkja; gabba;; svíkja
     row_id: 65
   - icelandic: incipiente
     english: byrjunar-; á byrjunarstigi
@@ -216,7 +216,7 @@ rows:
     english: lán
     row_id: 72
   - icelandic: disimular
-    english: leyna; fela;; látast; þykjast;; láta eins og ekkert sé
+    english: leyna; fela;;  látast; þykjast;; láta eins og ekkert sé
     row_id: 73
   - icelandic: asesorarse
     english: að leita ráðgjafar; að fá lögfræðiráðgjöf
@@ -267,7 +267,7 @@ rows:
     english: að bregða; að hræða; að gera hverft við
     row_id: 89
   - icelandic: machacón
-    english: leiðigjarn; þreytandi;; eftirgangsharður;; tilbreytingarlaus
+    english: leiðigjarn; þreytandi;;  eftirgangsharður;; tilbreytingarlaus
     row_id: 90
   - icelandic: cohete
     english: raketta
@@ -312,7 +312,7 @@ rows:
     english: (á Spáni) svindl; svika- gabb
     row_id: 104
   - icelandic: vagar
-    english: flakka; flækjast;; rölta; ráfa;; slæpast
+    english: flakka; flækjast;;  rölta; ráfa;; slæpast
     row_id: 105
   - icelandic: alzarse
     english: rísa á fætur; standa upp;; hækka
@@ -351,7 +351,7 @@ rows:
     english: mér finnst það viðbjóðslegt
     row_id: 117
   - icelandic: palillo
-    english: pinni; kjuðu;; tannstöngull;; matarprjónar
+    english: pinni; kjuðu;;  tannstöngull;; matarprjónar
     row_id: 118
   - icelandic: féretro
     english: líkkista
@@ -432,7 +432,7 @@ rows:
     english: hulstur; áklæði; ver; hlíf; umslag
     row_id: 144
   - icelandic: puerco
-    english: svín;; viðbjóður;; skítugur
+    english: svín;;  viðbjóður;; skítugur
     row_id: 145
   - icelandic: porvenir
     english: framtíð
@@ -651,7 +651,7 @@ rows:
     english: rafhlaða;; vaskur
     row_id: 217
   - icelandic: formal
-    english: formlegur;; alvarlegur;; áreiðanlegur; trausverðulegur
+    english: formlegur;;  alvarlegur;; áreiðanlegur; trausverðulegur
     row_id: 218
   - icelandic: ajustado
     english: vel hertur;; þröngur
@@ -660,7 +660,7 @@ rows:
     english: vera í góðu skapi (ath. öfugt við það sem orðið þýðir eitt og sér)
     row_id: 220
   - icelandic: paño
-    english: klæði; efni;; klútur;; tuska
+    english: klæði; efni;;  klútur;; tuska
     row_id: 221
   - icelandic: lupa
     english: stækkunargler
@@ -681,7 +681,7 @@ rows:
     english: nafli
     row_id: 227
   - icelandic: vacilar
-    english: vera óstöðugur;; hika;; stríða einhverjum
+    english: vera óstöðugur;;  hika;; stríða einhverjum
     row_id: 228
   - icelandic: desaprensivo
     english: ófyrirleitinn; samviskulaus
@@ -690,7 +690,7 @@ rows:
     english: flýja
     row_id: 230
   - icelandic: acertado
-    english: réttur;; vel valinn; við hæfi;; skynsamlegur
+    english: réttur;;  vel valinn; við hæfi;; skynsamlegur
     row_id: 231
   - icelandic: pecaminoso
     english: syndsamlegur
@@ -843,7 +843,7 @@ rows:
     english: hýjungur; fínlegur hárvöxtur;; dúnn (samheiti er "pelusa")
     row_id: 281
   - icelandic: corriente (adj.)
-    english: rennandi; "el mes corriente" → yfirstandandi mánuður;; al corriente → nútímalegur; tímanlega;; estar al corriente de → vera upplýstur um;; venjulegur
+    english: rennandi; "el mes corriente" → yfirstandandi mánuður;;  al corriente → nútímalegur; tímanlega;;  estar al corriente de → vera upplýstur um;; venjulegur
     row_id: 282
   - icelandic: empacar
     english: að pakka
@@ -861,7 +861,7 @@ rows:
     english: eftirlitsmaður; stjórnandi
     row_id: 287
   - icelandic: expediente
-    english: málshöfðun í lögfræði;; úrræði;; skrá; skjöl
+    english: málshöfðun í lögfræði;;  úrræði;; skrá; skjöl
     row_id: 288
   - icelandic: nabo sueco
     english: gulrófa
@@ -894,7 +894,7 @@ rows:
     english: forhúð
     row_id: 298
   - icelandic: arranque
-    english: start í bíl;; rykkur;; byrjun
+    english: start í bíl;;  rykkur;; byrjun
     row_id: 299
   - icelandic: baraja
     english: spilastokkur
@@ -924,7 +924,7 @@ rows:
     english: henda út; fleygja út (bara í Suður-Ameríku)
     row_id: 308
   - icelandic: rebosar
-    english: flæða yfir;; vera ríkulegur; vera í ríkum mæli;; "____ de"
+    english: flæða yfir;;  vera ríkulegur; vera í ríkum mæli;; "____ de"
     row_id: 309
   - icelandic: perjudicar
     english: skaða; skemma
@@ -945,7 +945,7 @@ rows:
     english: leggja saman;; neyða; þvinga
     row_id: 315
   - icelandic: infundir
-    english: vekja; kveikja;; innræta;; "_____ miedo a algn"
+    english: vekja; kveikja;;  innræta;; "_____ miedo a algn"
     row_id: 316
   - icelandic: tutear
     english: að þúa (nota „tu“)
@@ -1035,13 +1035,13 @@ rows:
     english: tötralegur
     row_id: 345
   - icelandic: pauta
-    english: viðmið;; regla;; fyrirmynd
+    english: viðmið;;  regla;; fyrirmynd
     row_id: 346
   - icelandic: hucha
     english: sparibaukur; sparigrís;; sparifé
     row_id: 347
   - icelandic: brotar
-    english: gefa af sér;; vella fram (vatn);; streyma fram (tár);; springa út (blóm)
+    english: gefa af sér;;  vella fram (vatn);;  streyma fram (tár);; springa út (blóm)
     row_id: 348
   - icelandic: musitar
     english: muldra; hvísla
@@ -1059,7 +1059,7 @@ rows:
     english: árás; áhlaup
     row_id: 353
   - icelandic: empeño
-    english: ákveðni; staðfesta;; af ákafa;; staðráðinn í einhverju
+    english: ákveðni; staðfesta;;  af ákafa;; staðráðinn í einhverju
     row_id: 354
   - icelandic: topar
     english: rekast í/á; finna af tilviljun
@@ -1245,7 +1245,7 @@ rows:
     english: hvirfilvindur;; hringiða
     row_id: 415
   - icelandic: contundente
-    english: endanlegur; úrslita- (t.d. þegar rætt er um sönnunargögn);; sannfærandi;; áhrifamikill; öflugur
+    english: endanlegur; úrslita- (t.d. þegar rætt er um sönnunargögn);;  sannfærandi;; áhrifamikill; öflugur
     row_id: 416
   - icelandic: ensañar
     english: að ergja; að gera reiðan (sjaldgæft)
@@ -1272,7 +1272,7 @@ rows:
     english: innbyggður skápur
     row_id: 424
   - icelandic: tajo
-    english: vinna; vinnustaður (volver al ____
+    english: vinna; vinnustaður (volver al ____)
     row_id: 425
   - icelandic: retrete
     english: salerni
@@ -1317,7 +1317,7 @@ rows:
     english: þröngur;; (í Mexíkó) dökkur á húð
     row_id: 439
   - icelandic: liso
-    english: flatur;; sléttur;; jafn
+    english: flatur;;  sléttur;; jafn
     row_id: 440
   - icelandic: mohoso
     english: myglaður;; ryðgaður
@@ -1353,7 +1353,7 @@ rows:
     english: rólegur; stillur;; heiðskír
     row_id: 451
   - icelandic: perdiz
-    english: akurhæna (___ de nieve
+    english: akurhæna (___ de nieve)
     row_id: 452
   - icelandic: bombón
     english: (súkkulaði);; augnayndi
@@ -1392,7 +1392,7 @@ rows:
     english: sorphaugur
     row_id: 464
   - icelandic: quebrar
-    english: brjóta; mölva;;verða gjaldþrota
+    english: brjóta; mölva;; verða gjaldþrota
     row_id: 465
   - icelandic: prometedor
     english: sem lofar góðu; efnilegt
@@ -1467,7 +1467,7 @@ rows:
     english: verkfall
     row_id: 489
   - icelandic: exprimir
-    english: kreista (úr ávexti);; nýta sér (aðstæður/persónu);; exploit
+    english: kreista (úr ávexti);;  nýta sér (aðstæður/persónu);; exploit
     row_id: 490
   - icelandic: mejilla
     english: kinn; vangi
@@ -1619,8 +1619,8 @@ rows:
   - icelandic: imprescindible
     english: óhjákvæmilegur; nauðsynlegur
     row_id: 540
-  - icelandic: flanco
-    english: hlið á líkamanum ("f____")
+  - icelandic: f*lanco*
+    english: hlið á líkamanum
     row_id: 541
   - icelandic: caverna
     english: hellir
@@ -1977,7 +1977,7 @@ rows:
     english: fara að púla
     row_id: 659
   - icelandic: pirarse
-    english: stinga af;; láta sig hverfa;; skrópa
+    english: stinga af;;  láta sig hverfa;; skrópa
     row_id: 660
   - icelandic: picaporte
     english: dyrahandfang
@@ -2166,7 +2166,7 @@ rows:
     english: koma upp úr jörðinni;; koma í ljós
     row_id: 722
   - icelandic: goloso
-    english: sólginn í sætindi;; ljúffengur matur;; gráðugur
+    english: sólginn í sætindi;;  ljúffengur matur;; gráðugur
     row_id: 723
   - icelandic: ladrido
     english: gelt í hundi
@@ -2175,7 +2175,7 @@ rows:
     english: rispa; klór
     row_id: 725
   - icelandic: enrollarse
-    english: to become coiled up;; masa;; tefjast vegna kjaftagangs
+    english: to become coiled up;;  masa;; tefjast vegna kjaftagangs
     row_id: 726
   - icelandic: encuesta
     english: rannsókn;; skoðanakönnun
@@ -2211,7 +2211,7 @@ rows:
     english: vanvirðing
     row_id: 737
   - icelandic: a tope
-    english: troðfullur;;í hámarki; af fullum krafti
+    english: troðfullur;; í hámarki; af fullum krafti
     row_id: 738
   - icelandic: cochino
     english: skítugur; óhreinn; sóðalegur;; svín
@@ -2295,7 +2295,7 @@ rows:
     english: plóma
     row_id: 765
   - icelandic: apañar
-    english: taka upp; safna saman; tína;; gera við; laga;; hnupla; stela
+    english: taka upp; safna saman; tína;;  gera við; laga;; hnupla; stela
     row_id: 766
   - icelandic: estancamiento
     english: stöðnun
@@ -2411,8 +2411,8 @@ rows:
   - icelandic: ligar
     english: binda; tengja → kyssa;; "to score" (in relationships)
     row_id: 804
-  - icelandic: valla
-    english: girðing ("v___")
+  - icelandic: v*alla*
+    english: girðing
     row_id: 805
   - icelandic: delantera
     english: framhlið
@@ -2448,7 +2448,7 @@ rows:
     english: kolkrabbi
     row_id: 816
   - icelandic: recaudación
-    english: söfnun; það sem safnast;; miðasölutekjur;; skattstofa
+    english: söfnun; það sem safnast;;  miðasölutekjur;; skattstofa
     row_id: 817
   - icelandic: formidable
     english: frábær; ótrúlegur;; ógnvekjandi
@@ -2558,11 +2558,11 @@ rows:
   - icelandic: musgo
     english: mosi
     row_id: 853
-  - icelandic: ramera
-    english: vændiskona ("r______")
+  - icelandic: r*amera*
+    english: vændiskona
     row_id: 854
   - icelandic: tronar
-    english: þruma; drynja;; fara á hausinn;; (Mexíkó) að hætta með kæró;; að mistakast;; (Mexíkó) að skjóta; taka af lífi
+    english: þruma; drynja;;  fara á hausinn;;  (Mexíkó) að hætta með kæró;;  að mistakast;; (Mexíkó) að skjóta; taka af lífi
     row_id: 855
   - icelandic: bóveda
     english: hvelfing (arkitektúr)
@@ -2625,7 +2625,7 @@ rows:
     english: þrá eitthvað
     row_id: 875
   - icelandic: compromiso
-    english: skylda; skuldbinding;; stefnumót;; samkomulag;; trúlofun
+    english: skylda; skuldbinding;;  stefnumót;;  samkomulag;; trúlofun
     row_id: 876
   - icelandic: frailecillo
     english: lundi (fugl)
@@ -2634,7 +2634,7 @@ rows:
     english: mjög norðanlega á jörðunni
     row_id: 878
   - icelandic: gaita
-    english: (á Spáni) vesen; erfitt verk; til óþæginda;; suður-amerísk flauta;; (í Argentínu) Spánverji
+    english: (á Spáni) vesen; erfitt verk; til óþæginda;;  suður-amerísk flauta;; (í Argentínu) Spánverji
     row_id: 879
   - icelandic: mancillar
     english: óhreinka; bletta; flekka
@@ -2700,7 +2700,7 @@ rows:
     english: orðatiltæki
     row_id: 900
   - icelandic: agarrar
-    english: grípa; þrífa í;; halda fast um;; taka
+    english: grípa; þrífa í;;  halda fast um;; taka
     row_id: 901
   - icelandic: derretir
     english: bræða
@@ -2835,7 +2835,7 @@ rows:
     english: poached eggs
     row_id: 946
   - icelandic: agudo
-    english: hvass; beittur;; skræk (rödd);; sár/svíðandi (sársauki)
+    english: hvass; beittur;;  skræk (rödd);; sár/svíðandi (sársauki)
     row_id: 947
   - icelandic: oprimir
     english: klemma; þrengja að;; þrýsta á takka
@@ -2865,7 +2865,7 @@ rows:
     english: hneppa að sér
     row_id: 956
   - icelandic: desenvolverse
-    english: þróast;; fara fram; ganga vel/illa;; spjara sig (bósktaflega "tekið utan af sér sjálfu")
+    english: þróast;;  fara fram; ganga vel/illa;; spjara sig (bósktaflega "tekið utan af sér sjálfu")
     row_id: 957
   - icelandic: malandro
     english: (Suð-Am) a crook
@@ -2883,7 +2883,7 @@ rows:
     english: blowtorch
     row_id: 962
   - icelandic: deslumbrar
-    english: blinda af birtu;; hrífa; heilla;; agndofa
+    english: blinda af birtu;;  hrífa; heilla;; agndofa
     row_id: 963
   - icelandic: pepita
     english: ávaxtakjarni
@@ -2928,7 +2928,7 @@ rows:
     english: (Suð-Am) eldspýta
     row_id: 977
   - icelandic: parado
-    english: kyrr;; (Mexíkó) standandi uppréttur;; (Spáni) atvinnulaus
+    english: kyrr;;  (Mexíkó) standandi uppréttur;; (Spáni) atvinnulaus
     row_id: 978
   - icelandic: 10 palos
     english: (Argentínu) 10 milljónir
@@ -2985,7 +2985,7 @@ rows:
     english: narta í
     row_id: 996
   - icelandic: reseña
-    english: yfirlit;; ágrip;; ritdómur
+    english: yfirlit;;  ágrip;; ritdómur
     row_id: 997
   - icelandic: acomplejado
     english: haldinn sálarflækjum/vanmetakennd
@@ -3045,7 +3045,7 @@ rows:
     english: þurrkherbergi;; þvottasnúra
     row_id: 1016
   - icelandic: nabo
-    english: næpa;; (Spáni) typpi;; (Argentínu) hálfviti
+    english: næpa;;  (Spáni) typpi;; (Argentínu) hálfviti
     row_id: 1017
   - icelandic: desalmado
     english: grimmur; miskunnarlaus
@@ -3072,7 +3072,7 @@ rows:
     english: mistur; móða
     row_id: 1025
   - icelandic: solapa
-    english: kragahorn á jakka;; flap á bókakápu;; flap á umslagi
+    english: kragahorn á jakka;;  flap á bókakápu;; flap á umslagi
     row_id: 1026
   - icelandic: ocio
     english: tómstund; frístund;; iðjuleysi
@@ -3252,7 +3252,7 @@ rows:
     english: skortur
     row_id: 1085
   - icelandic: envasado
-    english: pökkun;; niðursuða;; átöppun
+    english: pökkun;;  niðursuða;; átöppun
     row_id: 1086
   - icelandic: portón
     english: stór hurð
@@ -3363,13 +3363,13 @@ rows:
     english: geirvarta
     row_id: 1122
   - icelandic: galán
-    english: glæsimenni;; kvennamaður;; unnusti
+    english: glæsimenni;;  kvennamaður;; unnusti
     row_id: 1123
   - icelandic: riña
     english: slagsmál; rifrildi
     row_id: 1124
   - icelandic: gentil
-    english: kind; nice; vingjarnlegur;; elegant; glæsilegur;; encantador
+    english: kind; nice; vingjarnlegur;;  elegant; glæsilegur;; encantador
     row_id: 1125
   - icelandic: cautiverio
     english: fangavist; hald; ánauð
@@ -3377,7 +3377,7 @@ rows:
   - icelandic: buzón
     english: póstkassi; pósthólf
     row_id: 1127
-  - icelandic: embestida
+  - icelandic: e*mbestida*
     english: áhlaup; árás
     row_id: 1128
   - icelandic: represa
@@ -3393,7 +3393,7 @@ rows:
     english: efni;; skán
     row_id: 1132
   - icelandic: despojar de
-    english: svipta;; tæma;; losa sig við
+    english: svipta;;  tæma;; losa sig við
     row_id: 1133
   - icelandic: correoso
     english: seigur
@@ -3411,7 +3411,7 @@ rows:
     english: gróðabrask
     row_id: 1138
   - icelandic: mozo
-    english: ungur;; einhleypur; ógiftur;; unglingur;; þjónn
+    english: ungur;;  einhleypur; ógiftur;;  unglingur;; þjónn
     row_id: 1139
   - icelandic: papilla
     english: grautur; mauk
@@ -3528,7 +3528,7 @@ rows:
     english: hrukka í andliti;; krumpa í fötum
     row_id: 1177
   - icelandic: dependencia
-    english: ósjálfstæði; það að vera háður einhverjum eða einhverju;; skrifstofa; deild; útibú;; herbergi;; (í fleirtölu) viðbygging; útbygging
+    english: ósjálfstæði; það að vera háður einhverjum eða einhverju;;  skrifstofa; deild; útibú;;  herbergi;; (í fleirtölu) viðbygging; útbygging
     row_id: 1178
   - icelandic: fulgor
     english: ljómi; gljái; birta
@@ -3549,7 +3549,7 @@ rows:
     english: nauta-at
     row_id: 1184
   - icelandic: sofoco
-    english: köfnunartilfinning;; hitakóf;; skömm; blygðun
+    english: köfnunartilfinning;;  hitakóf;; skömm; blygðun
     row_id: 1185
   - icelandic: estirar
     english: teygja úr
@@ -3563,14 +3563,14 @@ rows:
   - icelandic: esfumarse
     english: hverfa; gufa upp
     row_id: 1189
-  - icelandic: arremetida
+  - icelandic: a*rremetida*
     english: árás
     row_id: 1190
   - icelandic: rogar
     english: þrábiðja;; biðja um ("te lo _ue__")
     row_id: 1191
   - icelandic: demorarse
-    english: seinka; tefja;; fresta;; slóra
+    english: seinka; tefja;;  fresta;; slóra
     row_id: 1192
   - icelandic: luto
     english: sorgarbúningur
@@ -3582,7 +3582,7 @@ rows:
     english: fylla; stoppa upp; troða í
     row_id: 1195
   - icelandic: recogido
-    english: afskekktur;; lítill um sig;; hlédrægur
+    english: afskekktur;;  lítill um sig;; hlédrægur
     row_id: 1196
   - icelandic: cenicero
     english: öskubakki
@@ -3624,7 +3624,7 @@ rows:
     english: gleypa í sig; háma í sig; troða sig út; to gobble
     row_id: 1209
   - icelandic: forzoso
-    english: nauðsynlegur;; óhjákvæmilegur;; skyldugt
+    english: nauðsynlegur;;  óhjákvæmilegur;; skyldugt
     row_id: 1210
   - icelandic: calzoncillos
     english: karlmannsnærbuxur
@@ -3660,7 +3660,7 @@ rows:
     english: for life
     row_id: 1221
   - icelandic: confiado
-    english: auðtrúa;; sjálfsöruggur;; montinn
+    english: auðtrúa;;  sjálfsöruggur;; montinn
     row_id: 1222
   - icelandic: trinchera
     english: a ditch; skurður
@@ -3768,7 +3768,7 @@ rows:
     english: snigill
     row_id: 1257
   - icelandic: asiduo
-    english: iðinn;; tíður; reglulegur;; fastagestur
+    english: iðinn;;  tíður; reglulegur;; fastagestur
     row_id: 1258
   - icelandic: motor de búsqueda
     english: leitarvél
@@ -3884,10 +3884,10 @@ rows:
   - icelandic: escarcha
     english: héla; hrím
     row_id: 1296
-  - icelandic: abejorro
+  - icelandic: a*bejorr*o
     english: hunangsfluga
     row_id: 1297
-  - icelandic: madriguera
+  - icelandic: m*adriguera*
     english: greni (dýra)
     row_id: 1298
   - icelandic: afanoso
@@ -3972,7 +3972,7 @@ rows:
     english: anddyri
     row_id: 1325
   - icelandic: haz
-    english: knippi; búnt;; un rayo de luz;; andlit
+    english: knippi; búnt;;  un rayo de luz;; andlit
     row_id: 1326
   - icelandic: pepino
     english: agúrka
@@ -4002,7 +4002,7 @@ rows:
     english: vísa brott; reka
     row_id: 1335
   - icelandic: me piro; vampiro
-    english: ég er þá farinn ;;) (úrelt)
+    english: ég er þá farinn ;; ) (úrelt)
     row_id: 1336
   - icelandic: pedorro
     english: sá sem prumpar
@@ -4041,7 +4041,7 @@ rows:
     english: skaftpottur
     row_id: 1348
   - icelandic: mimo
-    english: vera blíður við barn;; ofdekur;; látbragðsleikur
+    english: vera blíður við barn;;  ofdekur;; látbragðsleikur
     row_id: 1349
   - icelandic: semental
     english: kynbótadýr
@@ -4050,7 +4050,7 @@ rows:
     english: sprengjubrot
     row_id: 1351
   - icelandic: desquiciar
-    english: taka af hjörum;; pirra; ergja;; gera brjálaðan
+    english: taka af hjörum;;  pirra; ergja;; gera brjálaðan
     row_id: 1352
   - icelandic: vejiga
     english: (gall)blaðra
@@ -4166,7 +4166,7 @@ rows:
   - icelandic: pasmarote
     english: half-wit
     row_id: 1390
-  - icelandic: arremeter
+  - icelandic: a*rremeter*
     english: ráðast á
     row_id: 1391
   - icelandic: duodécimo
@@ -4233,7 +4233,7 @@ rows:
     english: þúsundasti
     row_id: 1412
   - icelandic: tantear
-    english: þreifa fyrir sér;; prófa; reyna;; þreifa sig áfram
+    english: þreifa fyrir sér;;  prófa; reyna;; þreifa sig áfram
     row_id: 1413
   - icelandic: docente
     english: kennari
@@ -4248,7 +4248,7 @@ rows:
     english: leki
     row_id: 1417
   - icelandic: sobar
-    english: hnoða;; káfa á;; nudda vöðva
+    english: hnoða;;  káfa á;; nudda vöðva
     row_id: 1418
   - icelandic: correa
     english: leðurreim; ól
@@ -4375,7 +4375,7 @@ rows:
     english: grunaður
     row_id: 1460
   - icelandic: desgraciado
-    english: ólánssamur;; ógæfumaður;; drullusokkur
+    english: ólánssamur;;  ógæfumaður;; drullusokkur
     row_id: 1461
   - icelandic: arraigado
     english: rótgróinn
@@ -4618,7 +4618,7 @@ rows:
     english: að vera blankur
     row_id: 1542
   - icelandic: plazo
-    english: tímabil;; gildistími;; frestur
+    english: tímabil;;  gildistími;; frestur
     row_id: 1543
   - icelandic: portada
     english: forsíða (á tímariti)
