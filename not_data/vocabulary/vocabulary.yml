@@ -6046,9 +6046,12 @@ rows:
     note: Short for "Jesús minn eini" (my one and only Jesus), as one could not use the Lord's name in vain. Used to indicate that you're shocked.
     row_id: 1111
     last_seen: "2021-07-29"
-  - icelandic: að greiða
-    english: to pay money;; to comb someone's hair
+  - icelandic: að greiða einhverjum
+    english: to pay money to someone;; to comb someone's hair
+    alternative_id: að greiða
+    level: 4
     row_id: 1112
+    last_seen: "2021-07-29"
   - icelandic: að stinga í samband
     english: "to plug in (note: electronics)"
     depends_on: að stinga, samband
@@ -9856,6 +9859,292 @@ rows:
     english: under normal circumstances;; normally
     level: 3
     row_id: 1783
+    last_seen: "2021-07-29"
+  - icelandic: strætið
+    english: the street
+    lemmas: stræti%
+    level: 2
+    row_id: 1784
+    last_seen: "2021-07-29"
+  - icelandic: strætóinn
+    english: the bus
+    lemmas: strætó%
+    depends_on: stræti
+    alternative_id: strætisvagn
+    level: 2
+    note: Short for "strætisvagn" (bus, "street wagon").
+    row_id: 1785
+    last_seen: "2021-07-29"
+  - icelandic: að stytta
+    english: to shorten
+    depends_on: stuttur
+    level: 3
+    row_id: 1786
+    last_seen: "2021-07-29"
+  - icelandic: Það er algengt.
+    english: It is common.
+    lemmas: algengur%
+    depends_on: að ganga
+    alternative_id: algengt
+    level: 2
+    row_id: 1787
+    last_seen: "2021-07-29"
+  - icelandic: allavega
+    english: anyway; anyhow; in any case
+    depends_on: allur, vegur
+    level: 1
+    row_id: 1788
+    last_seen: "2021-07-29"
+  - icelandic: hvorki ... né
+    english: neither .... nor
+    alternative_id: hvori né, hvorki, né
+    level: 3
+    row_id: 1789
+    last_seen: "2021-07-29"
+  - icelandic: lestin
+    english: the train
+    lemmas: lest%
+    level: 4
+    row_id: 1790
+    last_seen: "2021-07-29"
+  - icelandic: fyrir neðan _eitthvað_
+    english: below _something_
+    depends_on: niður
+    alternative_id: fyrir neðan, neðan
+    level: 2
+    row_id: 1791
+    last_seen: "2021-07-29"
+  - icelandic: nógu
+    english: sufficiently
+    depends_on: nóg
+    level: 1
+    row_id: 1792
+    last_seen: "2021-07-29"
+  - icelandic: Það b*orgar sig*.
+    english: It's worthwhile.;; It will result in savings down the line.
+    lemmas: að borga
+    alternative_id: að borga sig
+    level: 3
+    literally: it pays for itself
+    row_id: 1793
+    last_seen: "2021-07-29"
+  - icelandic: Hann er bestur.
+    english: He is the best.
+    lemmas: góður
+    alternative_id: bestur
+    level: 2
+    row_id: 1794
+    last_seen: "2021-07-29"
+  - icelandic: að ferðast
+    english: to travel
+    depends_on: ferð
+    level: 2
+    row_id: 1795
+    last_seen: "2021-07-29"
+  - icelandic: staðir
+    english: places
+    lemmas: staður
+    level: 2
+    row_id: 1796
+    last_seen: "2021-07-29"
+  - icelandic: bæir
+    english: towns
+    lemmas: bær
+    level: 2
+    row_id: 1797
+    last_seen: "2021-07-29"
+  - icelandic: klippingin
+    english: the haircut
+    lemmas: klipping%
+    depends_on: að klippa
+    level: 3
+    row_id: 1798
+    last_seen: "2021-07-29"
+  - icelandic: ekki eins og þú
+    english: not like you
+    depends_on: eins og
+    level: 2
+    row_id: 1799
+    last_seen: "2021-07-29"
+  - icelandic: eins og ég sagði
+    english: like I said; as I said
+    depends_on: eins og
+    level: 2
+    row_id: 1800
+    last_seen: "2021-07-29"
+  - icelandic: flestir
+    english: most people
+    lemmas: margur%
+    level: 1
+    row_id: 1801
+    last_seen: "2021-07-29"
+  - icelandic: Íslendingar
+    english: Icelanders; Icelandic people
+    lemmas: Íslendingur
+    level: 1
+    row_id: 1802
+    last_seen: "2021-07-29"
+  - icelandic: þrjú hundruð
+    english: three hundred
+    level: 1
+    row_id: 1803
+    last_seen: "2021-07-29"
+  - icelandic: sextíu
+    english: sixty
+    level: 1
+    row_id: 1804
+    last_seen: "2021-07-29"
+  - icelandic: þar af
+    english: thereof; of those
+    level: 3
+    row_id: 1805
+    last_seen: "2021-07-29"
+  - icelandic: tvö hundruð
+    english: two hundred
+    level: 1
+    row_id: 1806
+    last_seen: "2021-07-29"
+  - icelandic: þrjátíu
+    english: thirty
+    level: 1
+    row_id: 1807
+    last_seen: "2021-07-29"
+  - icelandic: eitt prósent
+    english: one percent
+    alternative_id: prósent
+    level: 1
+    row_id: 1808
+    last_seen: "2021-07-29"
+  - icelandic: að hlæja
+    english: to laugh
+    level: 3
+    row_id: 1809
+    last_seen: "2021-07-29"
+  - icelandic: fáir
+    english: few people
+    lemmas: fár%
+    level: 1
+    row_id: 1810
+    last_seen: "2021-07-29"
+  - icelandic: sv*olítið
+    english: a little bit
+    depends_on: lítið
+    alternative_id: svolítill
+    level: 1
+    literally: so little
+    pronunciation: soldið
+    row_id: 1811
+    last_seen: "2021-07-29"
+  - icelandic: Þetta er '''eins og''' að vera í útlöndum.
+    english: This is '''like''' being abroad.
+    depends_on: útlönd, eins
+    alternative_id: eins og
+    level: 2
+    note: "\"Eins og\" (meaning \"the same as\") is used to describe things as being similar."
+    row_id: 1812
+    last_seen: "2021-07-29"
+  - icelandic: Eins og hvað?
+    english: Like what?;; Like what∆ for example?
+    depends_on: eins og
+    level: 2
+    row_id: 1813
+    last_seen: "2021-07-29"
+  - icelandic: ekki e*ins* o*g* e*r*
+    english: not at the moment
+    depends_on: eins og
+    level: 3
+    note: A slightly formal phrase.
+    row_id: 1814
+    last_seen: "2021-07-29"
+  - icelandic: Við erum eins.
+    english: We are identical.
+    alternative_id: eins
+    level: 2
+    note: Either referring to behaviour or clothes.
+    row_id: 1815
+    last_seen: "2021-07-29"
+  - icelandic: Það er eins gott!
+    english: It better be!!; You better!!
+    alternative_id: eins gott
+    level: 3
+    note_regarding_english: "This is a threat to the listener, as in: \"If that isn't so, you will pay consequences.\""
+    literally: as good
+    row_id: 1816
+    last_seen: "2021-07-29"
+  - icelandic: Það er ekkert '''eins''' gaman og að vera úti.
+    english: Nothing is '''as''' fun as being outside.
+    alternative_id: eins
+    level: 3
+    row_id: 1817
+    last_seen: "2021-07-29"
+  - icelandic: að sitja
+    english: "to be sitting (note: no movement)"
+    level: 2
+    dont_confuse: að setjast, að setja
+    note: "\"Að sitja\" is to be sitting, while \"að setjast\" is to have a seat."
+    row_id: 1818
+    last_seen: "2021-07-29"
+  - icelandic: ég s*it* á stól
+    english: I am sitting in a chair
+    lemmas: að sitja, stóll
+    level: 2
+    row_id: 1819
+    last_seen: "2021-07-29"
+  - icelandic: garðurinn
+    english: the garden
+    lemmas: garður%
+    level: 1
+    row_id: 1820
+    last_seen: "2021-07-29"
+  - icelandic: sólin
+    english: the sun
+    lemmas: sól
+    level: 1
+    row_id: 1821
+    last_seen: "2021-07-29"
+  - icelandic: sól
+    english: sun
+    level: 1
+    row_id: 1822
+    last_seen: "2021-07-29"
+  - icelandic: hinir
+    english: the others; the other people
+    lemmas: hinn
+    level: 3
+    row_id: 1823
+    last_seen: "2021-07-29"
+  - icelandic: að fara í sund
+    english: to go to the swimming pools
+    alternative_id: sund
+    level: 1
+    literally: to go into a swimming
+    row_id: 1824
+    last_seen: "2021-07-29"
+  - icelandic: ö*rugglega
+    english: "most probably; most likely (note: referring to assumptions)"
+    depends_on: öruggur
+    level: 2
+    note: Although the word literally means "securely / certainly", it is used in the meaning of "that is the most likely assumption I would make".
+    literally: securely
+    row_id: 1825
+    last_seen: "2021-07-29"
+  - icelandic: grasið
+    english: the grass
+    lemmas: gras%
+    level: 1
+    row_id: 1826
+    last_seen: "2021-07-29"
+  - icelandic: Hann er þyrstur.
+    english: He's thirsty.
+    alternative_id: þyrstur
+    level: 1
+    row_id: 1827
+    last_seen: "2021-07-29"
+  - icelandic: að setjast niður
+    english: to have a seat; to sit down
+    depends_on: að setja, að sitja, sæti
+    level: 3
+    row_id: 1828
     last_seen: "2021-07-29"
 sound:
   - recording_of: níu sinnum

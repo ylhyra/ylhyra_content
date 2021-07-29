@@ -6,7 +6,38 @@ license: CC0
 level: A1
 reviewed: no
 ---
-
+<vocabulary>
+að sitja
+ég sit
+einn
+úti
+garður
+hundur
+minn
+góður
+veður
+að vinna
+smá
+margt
+að þurfa
+að ætla
+meira
+sólin
+sól
+ég veit
+hvar
+allir
+hinir
+fjölskylda
+kannski
+sund
+að fara í sund
+örugglega
+að liggja
+grasið
+örugglega
+þyrstur
+</vocabulary>
 <Image src="Þreyttur hundur.jpg" position="right"/>
 <Book audio="Garðvinna.mp3">
 Ég sit einn úti í garði með hundinum mínum.

@@ -6,6 +6,35 @@ license: CC0
 level: A1
 reviewed: no
 ---
+<vocabulary>
+eins og
+flestir
+Íslendingar
+að búa
+þrjú hundruð
+sextíu
+þúsund
+manns
+þar af
+tvö hundruð
+þrjátíu
+nálægt
+fimm
+prósent
+að vita
+alveg
+útlendingur
+að hlæja
+fáir
+mér finnst
+of
+stór
+mig langar
+svolítið
+úti á landi
+að vera
+einn
+</vocabulary>
 
 <Image src="Reykjavík um vetur.jpg" position="right"/>
 <Image src="Kirkja.jpg" position="right"/>
