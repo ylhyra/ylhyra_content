@@ -5,6 +5,39 @@ level: A2
 reviewed: no
 ---
 <vocabulary>
+vestur
+eyja
+hægt
+fyrir sunnan
+annaðhvort eða
+að komast
+þangað
+bátur
+flugvél
+auðvitað
+miklu
+ódýrari
+að fara
+að kosta
+þúsund
+hundrað
+margir
+að skoða
+krúttlegur
+fugl
+að búa
+klettur
+að heita
+lundi
+ár
+stór
+eldgos
+helmingur
+hús
+aska
+bær
+að byggja
+fjórir
 </vocabulary>
 <Image src="Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg"/>
 
@@ -35,4 +68,3 @@ Margir fara til Vestmannaeyja til að skoða krúttlegu fuglana sem búa í klet
 
 * [https://herjolfur.is/en Tickets to the ferry to Vestmannaeyjar]
 </div>
-

@@ -9,7 +9,6 @@ todo: bara fyrsta málsgrein búin
 reviewed: no
 ---
 <vocabulary>
-</vocabulary><vocabulary>
 næstum því
 enginn
 skógur
@@ -18,11 +17,86 @@ eitthvað
 landnám
 vegna
 út af
-áhrifin
+áhrif
 kindin
 gras
 sandur
 lítill
+að reyna
+að koma
+upp
+skógar
+erfiður
+þar sem
+jörð
+vegur
+slæmur
+í kringum
+miðja
+síðastur
+öld
+að fá
+einhver
+sá
+hugmynd
+að flytja inn
+planta
+að sjá
+að heita
+að vaxa
+hratt
+jarðvegur
+að innihalda
+nitur
+að geta
+aðrir
+að vaxa
+svæði
+áður
+ekkert
+nema
+sandur
+útbreiddur
+ekki fyrr en
+í kringum
+nítján hundruð
+níutíu
+að byrja
+að safna
+fræ
+að dreifa
+meðfram
+vegir
+einhver
+að kasta
+út úr
+flugvél
+margir
+bjartsýnn
+að munu
+að bjarga
+gróður
+að vera út um allt
+núll
+komma
+þrír
+prósent
+land
+að halda áfram
+að dreifa úr sér
+hægt
+að gera
+að stöðva
+að vaxa
+vor
+skuggi
+að hverfa
+skiljanlega
+ósáttur við
+að finnast
+sama
+að taka
+yfir
 </vocabulary>
 
 <Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" width="700"/>
@@ -48,4 +122,3 @@ Margir eru skiljanlega ósáttir við lúpínuna, en öðrum finnst hún svo fal
 *[https://rafhladan.is/bitstream/handle/10802/4440/Lupinuskyrsla.pdf?sequence=1 Alaskalúpína og skógarkerfill á Íslandi] (2010). Náttúrufræðistofnun Íslands og Landgræðsla ríkisins.
 *[https://www.ni.is/grodur/agengar-plontur/alaskalupina Alaskalúpína]. Náttúrufræðistofnun Íslands.
 </sources>
-

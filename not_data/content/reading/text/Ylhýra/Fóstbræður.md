@@ -7,7 +7,6 @@ level: A2
 reviewed: no
 ---
 <vocabulary>
-</vocabulary><vocabulary>
 bræður
 íslenskur
 sjónvarp

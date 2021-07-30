@@ -10,7 +10,6 @@ word count: 180
 reviewed: no
 ---
 <vocabulary>
-</vocabulary><vocabulary>
 aldrei
 allir
 alveg

@@ -6098,7 +6098,7 @@ rows:
     level: 3
     row_id: 1014
     last_seen: "2021-07-30"
-  - icelandic: á þeim tíma
+  - icelandic: á þeim tíma; á þessum tíma
     english: during that time; in those years
     lemmas: sá, tími
     level: 3
@@ -10807,9 +10807,10 @@ rows:
   - icelandic: að vera kallaður
     english: to be called
     depends_on: að kalla
+    alternative_id: kallaður
     level: 3
     row_id: 1832
-    last_seen: "2021-07-29"
+    last_seen: "2021-07-30"
   - icelandic: þ*rátt* f*yrir* það
     english: despite that
     alternative_id: þrátt fyrir
@@ -12022,6 +12023,578 @@ rows:
     lemmas: lykt%
     level: 3
     row_id: 2065
+    last_seen: "2021-07-30"
+  - icelandic: skógarnir
+    english: the forests
+    lemmas: skógur
+    alternative_id: skógar
+    level: 3
+    row_id: 2067
+    last_seen: "2021-07-30"
+  - icelandic: þ$ar s$em
+    english: since; because
+    level: 2
+    row_id: 2068
+    last_seen: "2021-07-30"
+  - icelandic: hugmyndin
+    english: the idea
+    lemmas: hugmynd%
+    depends_on: mynd
+    level: 3
+    literally: mind image
+    row_id: 2069
+    last_seen: "2021-07-30"
+  - icelandic: að flytja inn
+    english: to import _(goods)_;; to move into a house
+    depends_on: að flytja
+    level: 3
+    row_id: 2070
+    last_seen: "2021-07-30"
+  - icelandic: plantan
+    english: the plant
+    lemmas: planta%
+    level: 3
+    row_id: 2071
+    last_seen: "2021-07-30"
+  - icelandic: að vaxa
+    english: to grow
+    level: 4
+    row_id: 2072
+    last_seen: "2021-07-30"
+  - icelandic: jarðvegurinn
+    english: the soil; the earth
+    lemmas: jarðvegur%
+    depends_on: jörð, vegur
+    level: 5
+    row_id: 2073
+    last_seen: "2021-07-30"
+  - icelandic: nitrið
+    english: the nitrogen
+    lemmas: nitur%
+    level: 5
+    row_id: 2074
+    last_seen: "2021-07-30"
+  - icelandic: svæðið
+    english: the area; the region
+    lemmas: svæði%
+    level: 2
+    row_id: 2075
+    last_seen: "2021-07-30"
+  - icelandic: útbreiddur
+    english: widespread
+    level: 4
+    note_regarding_english: masculine
+    row_id: 2076
+    last_seen: "2021-07-30"
+  - icelandic: ekki fyrr en
+    english: not until
+    level: 3
+    row_id: 2077
+    last_seen: "2021-07-30"
+  - icelandic: að byrja
+    english: to begin
+    level: 2
+    row_id: 2078
+    last_seen: "2021-07-30"
+  - icelandic: að safna
+    english: to collect
+    level: 3
+    row_id: 2079
+    last_seen: "2021-07-30"
+  - icelandic: fræið
+    english: the seed
+    lemmas: fræ%
+    level: 4
+    row_id: 2080
+    last_seen: "2021-07-30"
+  - icelandic: að dreifa út
+    english: to distribute;; to disperse
+    alternative_id: að dreifa
+    level: 4
+    row_id: 2081
+    last_seen: "2021-07-30"
+  - icelandic: meðfram
+    english: alongside
+    level: 4
+    row_id: 2082
+    last_seen: "2021-07-30"
+  - icelandic: vegirnir
+    english: the roads
+    lemmas: vegur
+    alternative_id: vegir
+    level: 2
+    row_id: 2083
+    last_seen: "2021-07-30"
+  - icelandic: að kasta
+    english: to throw
+    level: 3
+    row_id: 2084
+    last_seen: "2021-07-30"
+  - icelandic: bjartsýnn
+    english: optimistic
+    depends_on: bjart, að sjá
+    level: 4
+    note_regarding_english: masculine
+    row_id: 2086
+    last_seen: "2021-07-30"
+  - icelandic: að bjarga einhverjum
+    english: to save someone
+    alternative_id: að bjarga
+    level: 3
+    row_id: 2087
+    last_seen: "2021-07-30"
+  - icelandic: gróðurinn
+    english: "the vegetation (note: as in plants)"
+    lemmas: gróður%
+    level: 5
+    row_id: 2088
+    last_seen: "2021-07-30"
+  - icelandic: að vera út um allt
+    english: to be all over the place; to be everywhere
+    alternative_id: út um allt
+    level: 3
+    row_id: 2089
+    last_seen: "2021-07-30"
+  - icelandic: komma
+    english: a comma
+    level: 2
+    row_id: 2090
+    last_seen: "2021-07-30"
+  - icelandic: að halda áfram
+    english: to continue
+    level: 2
+    row_id: 2091
+    last_seen: "2021-07-30"
+  - icelandic: að dreifa úr sér
+    english: to spread onself out
+    depends_on: að dreifa
+    level: 4
+    note: For example, a person may spread themselves out on the couch, or a plant may grow across a region.
+    row_id: 2092
+    last_seen: "2021-07-30"
+  - icelandic: að *stöð*va
+    english: to stop _(a vehicle or a person)_
+    level: 3
+    row_id: 2093
+    last_seen: "2021-07-30"
+  - icelandic: vorið
+    english: "the spring (note: the season following winter)"
+    lemmas: vor%
+    level: 2
+    row_id: 2094
+    last_seen: "2021-07-30"
+  - icelandic: skugginn
+    english: the shadow
+    lemmas: skuggi%
+    level: 3
+    row_id: 2095
+    last_seen: "2021-07-30"
+  - icelandic: að hverfa
+    english: to disappear
+    level: 3
+    row_id: 2096
+    last_seen: "2021-07-30"
+  - icelandic: skiljanlega
+    english: understandably
+    depends_on: að skilja
+    level: 2
+    row_id: 2097
+    last_seen: "2021-07-30"
+  - icelandic: að vera ósáttur við eitthvað
+    english: to be unhappy about some issue; to be discontent about something
+    depends_on: sáttur
+    alternative_id: ósáttur, ósáttur við
+    level: 3
+    row_id: 2098
+    last_seen: "2021-07-30"
+  - icelandic: punktur
+    english: "a period; a full stop (note: punctuation mark)"
+    level: 2
+    row_id: 2099
+    last_seen: "2021-07-30"
+  - icelandic: vestur
+    english: West
+    level: 2
+    row_id: 2100
+    last_seen: "2021-07-30"
+  - icelandic: að l*íta* *á* eitthvað
+    english: to have a look at something
+    level: 4
+    row_id: 2101
+    last_seen: "2021-07-30"
+  - icelandic: víkingur
+    english: a viking
+    level: 3
+    row_id: 2103
+    last_seen: "2021-07-30"
+  - icelandic: Írland
+    english: Ireland
+    level: 4
+    row_id: 2104
+    last_seen: "2021-07-30"
+  - icelandic: þrællinn
+    english: the slave
+    lemmas: þræll%
+    level: 5
+    row_id: 2105
+    last_seen: "2021-07-30"
+  - icelandic: Hann er írskur.
+    english: He is Irish.
+    depends_on: Írland
+    alternative_id: írskur
+    level: 4
+    row_id: 2106
+    last_seen: "2021-07-30"
+  - icelandic: að drepa
+    english: to kill
+    level: 3
+    row_id: 2107
+    last_seen: "2021-07-30"
+  - icelandic: að leita að
+    english: to search for; to look for
+    alternative_id: að leita
+    level: 3
+    row_id: 2108
+    last_seen: "2021-07-30"
+  - icelandic: áttin
+    english: the direction
+    lemmas: átt%
+    level: 3
+    dont_confuse: átta
+    row_id: 2109
+    last_seen: "2021-07-30"
+  - icelandic: annaðhvort eða
+    english: either or
+    depends_on: annar, hvor
+    level: 2
+    row_id: 2110
+    last_seen: "2021-07-30"
+  - icelandic: báturinn
+    english: the boat
+    lemmas: bátur%
+    level: 3
+    row_id: 2111
+    last_seen: "2021-07-30"
+  - icelandic: m$iklu m$eira
+    english: far more
+    lemmas: mikill, mikið
+    level: 3
+    row_id: 2112
+    last_seen: "2021-07-30"
+  - icelandic: Það er ódýrara.
+    english: It is cheaper.
+    lemmas: ódýr
+    level: 2
+    row_id: 2113
+    last_seen: "2021-07-30"
+  - icelandic: að skoða eitthvað
+    english: to observe something; to view something;; to consider something
+    alternative_id: að skoða
+    level: 3
+    row_id: 2114
+    last_seen: "2021-07-30"
+  - icelandic: krúttlegur
+    row_id: 2115
+    last_seen: "2021-07-30"
+  - icelandic: fuglarnir
+    english: the birds
+    lemmas: fugl%
+    level: 3
+    row_id: 2116
+    last_seen: "2021-07-30"
+  - icelandic: klettur
+    english: a cliff;; a steep large rock
+    level: 4
+    row_id: 2117
+    last_seen: "2021-07-30"
+  - icelandic: lu*ndarnir
+    english: the puffins
+    lemmas: lundi%
+    level: 4
+    note_regarding_english: A type of a bird with an orange beak found in Vestmannaeyjar.
+    row_id: 2118
+    last_seen: "2021-07-30"
+  - icelandic: eldgosið
+    english: the volcanic eruption
+    lemmas: eldgos%
+    depends_on: eldur, gos
+    level: 2
+    row_id: 2119
+    last_seen: "2021-07-30"
+  - icelandic: askan
+    english: the ash
+    lemmas: aska%
+    level: 4
+    row_id: 2120
+    last_seen: "2021-07-30"
+  - icelandic: að byggja
+    english: to build; to construct
+    level: 3
+    row_id: 2121
+    last_seen: "2021-07-30"
+  - icelandic: veturinn
+    english: the winter
+    lemmas: vetur%
+    level: 2
+    row_id: 2122
+    last_seen: "2021-07-30"
+  - icelandic: frostið
+    english: the frost
+    lemmas: frost%
+    level: 4
+    row_id: 2123
+    last_seen: "2021-07-30"
+  - icelandic: að frjósa
+    english: to become frozen
+    level: 4
+    note: "\"Að frysta\" is to freeze something, while \"að frjósa\" is to become frozen."
+    row_id: 2124
+    last_seen: "2021-07-30"
+  - icelandic: Kjötið er frosið.
+    english: The meat is frozen.
+    lemmas: kjöt, að frjósa
+    level: 4
+    row_id: 2125
+    last_seen: "2021-07-30"
+  - icelandic: Það er ekkert pláss.
+    english: There's no space.; There's no room.
+    lemmas: pláss%
+    level: 3
+    row_id: 2126
+    last_seen: "2021-07-30"
+  - icelandic: f$ljótandi
+    english: to be floating;; to be on a liquid form
+    depends_on: að fljóta
+    level: 5
+    row_id: 2127
+    last_seen: "2021-07-30"
+  - icelandic: að lyftast upp
+    english: to become raised; to become elevated
+    depends_on: að lyfta
+    level: 5
+    row_id: 2128
+    last_seen: "2021-07-30"
+  - icelandic: a$lls s$taðar
+    english: everywhere
+    lemmas: allur, staður
+    level: 2
+    row_id: 2129
+    last_seen: "2021-07-30"
+  - icelandic: að síga niður
+    english: to sink down;; to descend slowly
+    alternative_id: að síga
+    level: 5
+    row_id: 2131
+    last_seen: "2021-07-30"
+  - icelandic: að fyllast af
+    english: to become filled with
+    depends_on: að fylla
+    alternative_id: að fyllast
+    level: 4
+    row_id: 2132
+    last_seen: "2021-07-30"
+  - icelandic: h$olan
+    english: the hole
+    lemmas: hola%
+    level: 4
+    note: "\"Hola\" is a relatively large hole while \"gat\" is a relatively small hole."
+    row_id: 2133
+    last_seen: "2021-07-30"
+  - icelandic: ísinn
+    english: the ice;; the ice cream
+    lemmas: ís%
+    level: 2
+    row_id: 2134
+    last_seen: "2021-07-30"
+  - icelandic: að endurtaka sig
+    english: to repeat oneself
+    alternative_id: að endurtaka
+    level: 4
+    row_id: 2135
+    last_seen: "2021-07-30"
+  - icelandic: aftur of aftur
+    english: again and again
+    level: 2
+    row_id: 2136
+    last_seen: "2021-07-30"
+  - icelandic: í hvert skipti
+    english: each time
+    level: 3
+    row_id: 2137
+    last_seen: "2021-07-30"
+  - icelandic: að frysta eitthvað
+    english: to freeze something
+    depends_on: frost
+    alternative_id: að frysta
+    level: 4
+    note: "\"Að frysta\" is to freeze something, while \"að frjósa\" is to become frozen."
+    row_id: 2138
+    last_seen: "2021-07-30"
+  - icelandic: Surtsey myndaðist í Vestmannaeyjagosinu 1963.
+    english: Surtsey was formed in the Vestmannaeyjar volcanic eruption 1963.
+    lemmas: að myndast
+    depends_on: mynd
+    level: 4
+    note: Surtsey is an island.
+    row_id: 2139
+    last_seen: "2021-07-30"
+  - icelandic: pínkulítill
+    row_id: 2140
+    last_seen: "2021-07-30"
+  - icelandic: hóllinn
+    english: the small hill; the mound
+    lemmas: hóll%
+    level: 3
+    row_id: 2141
+    last_seen: "2021-07-30"
+  - icelandic: varlega
+    english: carefully; with caution
+    level: 3
+    row_id: 2143
+    last_seen: "2021-07-30"
+  - icelandic: að l*abba*
+    english: to walk; to stroll around
+    level: 2
+    row_id: 2144
+    last_seen: "2021-07-30"
+  - icelandic: v$egna þ$ess a$ð
+    english: because
+    level: 2
+    row_id: 2145
+    last_seen: "2021-07-30"
+  - icelandic: að stíga á
+    english: to step on
+    alternative_id: að stíga
+    level: 5
+    row_id: 2146
+    last_seen: "2021-07-30"
+  - icelandic: að misstíga sig
+    english: to stumble while walking;; to misstep
+    depends_on: að stíga
+    alternative_id: að misstíga
+    level: 5
+    row_id: 2147
+    last_seen: "2021-07-30"
+  - icelandic: höfnin
+    english: the harbor
+    lemmas: höfn%
+    level: 3
+    row_id: 2148
+    last_seen: "2021-07-30"
+  - icelandic: listaverkið
+    english: the artwork
+    lemmas: listaverk%
+    depends_on: list, verk
+    level: 3
+    row_id: 2149
+    last_seen: "2021-07-30"
+  - icelandic: tilvísunin
+    english: the reference
+    lemmas: tilvísun%
+    level: 4
+    note: "\"Að vísa til\" is to reference something."
+    row_id: 2150
+    last_seen: "2021-07-30"
+  - icelandic: í miðri borginni
+    english: in the middle of the city
+    lemmas: miður ("middle")%
+    level: 3
+    row_id: 2151
+    last_seen: "2021-07-30"
+  - icelandic: borgin
+    english: the city
+    lemmas: borg%
+    level: 3
+    row_id: 2152
+    last_seen: "2021-07-30"
+  - icelandic: við hliðina á
+    english: to the side of
+    lemmas: hlið
+    level: 3
+    row_id: 2153
+    last_seen: "2021-07-30"
+  - icelandic: fiskvinnslan
+    english: the fish processing facility
+    lemmas: fiskvinnsla%
+    level: 5
+    row_id: 2154
+    last_seen: "2021-07-30"
+  - icelandic: glerið
+    english: "the glass (note: material)"
+    lemmas: gler%
+    alternative_id: gler
+    level: 2
+    row_id: 2155
+    last_seen: "2021-07-30"
+  - icelandic: að hlaupa
+    english: to run
+    level: 3
+    row_id: 2156
+    last_seen: "2021-07-30"
+  - icelandic: að vera úti í móa
+    english: to be out in nature in an uncultivated area with low-growing vegetation
+    lemmas: mói%
+    alternative_id: mói
+    level: 4
+    note: "\"Mói\" is a type of tussocky (grassy) area that hasn't been cultivated by humans and is therefore very uneven. It is quite common in Iceland."
+    row_id: 2157
+    last_seen: "2021-07-30"
+  - icelandic: uppi
+    row_id: 2158
+    last_seen: "2021-07-30"
+  - icelandic: skúrinn
+    english: the shed
+    lemmas: skúr%
+    level: 4
+    row_id: 2159
+    last_seen: "2021-07-30"
+  - icelandic: í gamla daga
+    english: in the old days
+    lemmas: gamall, dagur
+    level: 3
+    row_id: 2160
+    last_seen: "2021-07-30"
+  - icelandic: bæði
+    row_id: 2161
+    last_seen: "2021-07-30"
+  - icelandic: aðferðin
+    english: the method
+    lemmas: aðferð%
+    level: 4
+    row_id: 2162
+    last_seen: "2021-07-30"
+  - icelandic: nútíminn
+    english: the present; modernity
+    lemmas: nútími%
+    depends_on: núna, tími
+    level: 3
+    row_id: 2163
+    last_seen: "2021-07-30"
+  - icelandic: í kring
+    english: around
+    level: 7
+    fix: "???"
+    row_id: 2164
+    last_seen: "2021-07-30"
+  - icelandic: Farðu varlega.
+    english: Be careful.; Be cautious.
+    lemmas: að fara
+    level: 3
+    note_regarding_english: "{{bhet}}"
+    row_id: 2165
+    last_seen: "2021-07-30"
+  - icelandic: Það myndaðist löng biðröð.
+    english: A long queue formed.
+    lemmas: að myndast%
+    level: 4
+    note: "\"Að myndast\" means to come into being - for something to be formed."
+    row_id: 2166
+    last_seen: "2021-07-30"
+  - icelandic: frosin pítsa
+    english: frozen pítsa
+    lemmas: að frjósa
+    level: 4
+    row_id: 2167
     last_seen: "2021-07-30"
 sound:
   - recording_of: níu sinnum

@@ -4,6 +4,33 @@ license: CC0
 reviewed: no
 ---
 <vocabulary>
+vestur
+fyrstur
+að finna
+að líta á
+landnám
+maður
+bróðir
+að koma
+á þessum tíma
+vinsæll
+víkingur
+Írland
+að taka
+nokkrir
+þræll
+írskur
+sig
+að drepa
+reiður
+að leita að
+að finna
+eyja
+fyrir sunnan
+átt
+þess vegna
+kallaður
+
 </vocabulary>
 <Image src="Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg"/>
 <level level="b1"/>
@@ -16,4 +43,3 @@ reviewed: no
 
 Írland er í vesturátt frá Noregi og þess vegna voru Írar kallaðir „Vestmenn“. Vegna þessara írsku þræla eru þessar eyjar fyrir sunnan Ísland kallaðar [[Vestmannaeyjar]].<note>This is the story as it is told by the medieval work [[w:Landnámabók|Landnámabók]]. It should probably not be taken as literal truth.<ref>Þorsteinn Vilhjálmsson. [https://www.visindavefur.is/svar.php?id=7135 „Hvenær fundust Vestmannaeyjar og hver fann þær?“] Vísindavefurinn, 3. mars 2008.</ref></note>
 </Book>
-

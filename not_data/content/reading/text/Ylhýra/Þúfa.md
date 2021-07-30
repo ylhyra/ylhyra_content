@@ -10,6 +10,89 @@ level: B2
 reviewed: no
 ---
 <vocabulary>
+vetur
+að koma
+frostið
+vatn
+jörð
+að frjósa
+þar sem
+frosið
+vatn
+að taka
+meira
+pláss
+fljótandi
+að lyftast
+jarðvegur
+jafn
+hár
+alls staðar
+jafn
+ójafn
+að síga
+að fyllast
+hola
+ís
+að skilja eftir
+sandur
+að endurtaka sig
+aftur of aftur
+í hvert skipti
+að frysta
+að frjósa
+smám saman
+að myndast
+pínkulítill
+hóll
+þúfa
+út um allt
+að verða
+varlega
+þegar
+að labba
+vegna þess að
+auðvelt
+að stíga
+að misstíga sig
+höfnin
+listaverk
+að líta út
+eins og
+risastór
+gaman
+að sjá
+tilvísun
+náttúra
+þarna
+miður
+borgin
+við hliðina á
+stór
+fiskvinnsla
+tónlist
+hús
+gler
+listaverk
+hvernig
+krakki
+að hlaupa
+mói
+án þess að
+að detta
+uppi
+skúr
+fiskur
+að þurrka
+í gamla daga
+að labba
+að sjá
+bæði
+gamall
+aðferð
+líka
+nútími
+í kring
 </vocabulary>
 <div class="sans-serif notes">
 Here you will read about „þúfur“ ([[w:Hummock#Earth_hummocks_of_cryogenic_origin|earth hummocks]]), an unusual earthen formation found in regions near the arctic. These tiny mounds are formed from the soil going through freeze-thaw cycles.
@@ -38,4 +121,3 @@ Uppi á þúfunni í Reykjavík er lítill skúr þar sem fiskur er þurrkaður 
 *[https://www.facebook.com/pages/Studio-%C3%93l%C3%B6f-Nordal/419113361528680 Stúdíó Ólöf Nordal] on Facebook
 
 </div>
-

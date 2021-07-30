@@ -7,7 +7,6 @@ level: A1
 reviewed: no
 ---
 <vocabulary>
-</vocabulary><vocabulary>
 eins og
 flestir
 Íslendingar
