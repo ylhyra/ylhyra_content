@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Ég er með harðsperrur<note>''Harðsperrur'' ("sore muscles") is an unusual word. ''Sperra'' is a very old word meaning "to stretch yourself, to exert yourself, so the word ''harðsperrur'' might be translated as "hard exertions". The pronunciation of the word is very unusual, instead of the expected <!--{{pron|harðspɛrʏr}}-->/harð-sperrur/, most people pronounce it as {{pron|hassperur}}.</note> eftir orminn."
 audio="Harðsperrur.mp3"

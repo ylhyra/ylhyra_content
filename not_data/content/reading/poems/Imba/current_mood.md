@@ -6,7 +6,8 @@ tags:
 level: B1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 {{poem|
 '''''current mood'''''
 {{line|straumur}}

@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Kötturinn minn er alltaf að kúka á gólfið en kúkurinn er stór og kötturinn lítill 🤔
 

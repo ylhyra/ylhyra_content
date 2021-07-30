@@ -7,7 +7,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Verði ég yfirmaður á vinnustað mun ég sjá til þess að þar verði svefnherbergi."
 audio="o2Js.mp3"

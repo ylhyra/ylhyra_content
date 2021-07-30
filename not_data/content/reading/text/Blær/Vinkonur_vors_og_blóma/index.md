@@ -2,7 +2,8 @@
 title: Blær/Vinkonur vors og blóma
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 *[[Blær/Vinkonur vors og blóma/1]]
 *[[Blær/Vinkonur vors og blóma/2]]
 *[[Blær/Vinkonur vors og blóma/3]]

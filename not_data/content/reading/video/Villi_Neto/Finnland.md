@@ -4,7 +4,8 @@ tags:
 - Videos
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 {{instagram
 |file=Video by villineto-BtG9s6mg3Mc.mp4
 |url=https://www.instagram.com/p/BtG9s6mg3Mc/

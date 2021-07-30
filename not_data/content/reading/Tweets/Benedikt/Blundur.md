@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Finnst fólk almennt ekki gera sér grein fyrir mikilvægi þess að fá sér blund."
 audio="cGBK.mp3"

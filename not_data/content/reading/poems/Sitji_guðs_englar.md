@@ -7,7 +7,8 @@ tags:
 license: CC0
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Image src="Loftmynd.jpeg" position="right"/>
 <level level="c1"/>
 

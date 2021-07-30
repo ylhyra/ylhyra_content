@@ -5,7 +5,8 @@ redirects:
 - Fv
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 {{Blær|https://blaer.is/grein/fyrst-vid-erum-herna}}
 
 <div class="book" data-translate=true data-audio-file="Fyrst_við_erum_hérna.mp3">

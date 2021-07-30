@@ -4,7 +4,8 @@ redirects:
 - Blær/Silfur svanurinn
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 * [[Blær/Silfursvanurinn/1]]
 * [[Blær/Silfursvanurinn/2]]
 * [[Blær/Silfursvanurinn/3]]

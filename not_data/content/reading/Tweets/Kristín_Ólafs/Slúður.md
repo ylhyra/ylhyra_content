@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Þegar þú veist að það eru einhverjar tussur að slúðra um þig en þér er alveg sama"
 audio="FoRe.mp3

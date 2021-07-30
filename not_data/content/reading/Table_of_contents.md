@@ -6,7 +6,8 @@ tags:
 - Content
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <TOC>
 ## [[A1]]
 

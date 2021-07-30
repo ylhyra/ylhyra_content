@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Einhvern veginn finnst mér flestar íslenskar kvikmyndir vera um karlmenn (á öllum aldri) í tilvistarkreppu."
 audio="jSiQ.mp3"

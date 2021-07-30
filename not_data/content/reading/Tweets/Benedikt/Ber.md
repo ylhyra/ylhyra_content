@@ -7,7 +7,8 @@ tags:
 level: C1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Þegar árið 2016 er gert upp má ekki gleyma því að berjasprettan seinasta sumar var sú mesta í manna minnum."
 audio="cYmI.mp3

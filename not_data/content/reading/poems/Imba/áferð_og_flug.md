@@ -8,7 +8,8 @@ tags:
 level: C1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Book>
 
 {{poem|

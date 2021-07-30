@@ -5,7 +5,8 @@ tags:
 license: CC0
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <div data-translate="true" data-audio-file="Ástkæra.mp3">
 <Audio src="Ástkæra.mp3"/>
 {{poem|

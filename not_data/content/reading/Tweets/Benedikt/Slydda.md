@@ -7,7 +7,8 @@ tags:
 level: C1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Hef nokkuð áreiðanlegar heimildir fyrir því að Satan hafi fengið slyddu í vöggugjöf."
 audio="vZvF.mp3"

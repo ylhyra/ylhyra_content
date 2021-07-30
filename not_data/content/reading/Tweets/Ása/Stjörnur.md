@@ -7,7 +7,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Óska eftir félaga til að horfa með á stjörnurnar. Má gjarnan þekkja himininn betur en ég."
 audio="hRki.mp3"

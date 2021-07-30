@@ -5,7 +5,6 @@ level: A1
 published: February 2021
 reviewed: no
 ---
-
 <vocabulary>
 árið
 níu

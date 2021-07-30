@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Ég lykta svo vel í dag að ég vorkenni öllum sem fá ekki tækifæri til að hnusa af mér"
 id="835842608744235009"

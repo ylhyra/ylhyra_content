@@ -6,7 +6,8 @@ tags:
 level: B1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Book audio="Imba Afi.mp3">
 {{poem|
 '''afi'''

@@ -7,7 +7,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Draumsýn: Teikna blóm á daginn, veiða fisk á kvöldin. Búa í vita í heittempruðu loftslagi."
 audio="KRFC.mp3"

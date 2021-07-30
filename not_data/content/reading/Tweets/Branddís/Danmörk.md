@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Einföld lausn á þessu máli. Við bjöllum bara til Danmerkur og segjum að reynslutími okkar sem sjálfstæð þjóð sé búinn."
 audio="IOUM.mp3"

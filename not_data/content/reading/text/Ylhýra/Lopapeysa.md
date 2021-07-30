@@ -6,7 +6,8 @@ license: CC0
 level: B1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Book audio="Lopapeysa.mp3">
 <Image src="Lopapeysa – John Shortland.jpg" position="right"/>
 <Image src="Lopapeysa – Alan Levine.jpg" position="right"/>

@@ -2,7 +2,8 @@
 title: Brennu-Njáls saga/Höskuldur og brennan/Discussion
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 ## Discussion
 
 Here you've read a simplified retelling of the chapters leading up to the climactic event of ''[[w:Brennu-Njáls saga|Brennu-Njáls saga]]'' ("''The Saga of Burnt Njáll''") in which the main character Njáll and all of his sons are killed when his house is burnt down.

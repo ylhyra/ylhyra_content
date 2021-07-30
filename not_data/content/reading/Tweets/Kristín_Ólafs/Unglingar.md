@@ -7,7 +7,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Það er unglingur hér fyrir utan Hagaskóla á hjólabretti, að reykja og með sólgleraugu og ég vil bara viðurkenna það að ég er logandi hrædd."
 audio="ao7p.mp3"

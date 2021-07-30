@@ -4,7 +4,8 @@ tags:
 - Videos
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 {{instagram
 |file=Video by villineto-Bm510Y-HUDD.mp4
 |url=https://www.instagram.com/p/Bm510Y-HUDD/

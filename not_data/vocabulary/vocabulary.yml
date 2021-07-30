@@ -236,16 +236,10 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: margir
     english: many;; many people
-    lemmas: margur
+    lemmas: margur%
     level: 1
     row_id: 40
-    last_seen: "2021-07-01"
-  - icelandic: margt
-    english: many things
-    lemmas: margur
-    level: 1
-    row_id: 41
-    last_seen: "2021-07-01"
+    last_seen: "2021-07-30"
   - icelandic: Hann er fullorðinn.
     english: He's an adult.; He's a grown-up.
     depends_on: fullur, orðinn, að verða
@@ -4342,15 +4336,6 @@ rows:
     note: This term is commonly used, "Ameríka" can also be used colloquially.
     row_id: 706
     last_seen: "2021-07-09"
-  - icelandic: Ríkið
-    english: the nickname of the Icelandic state monopoly liquor store Vínbúðin
-    depends_on: ríki
-    level: 4
-    dont_confuse: ríkur
-    note: The liquor store is government-run, which is why it is referred to as "the state".
-    literally: the state
-    importance: "-0.1"
-    row_id: 707
   - icelandic: Ég er í Bandaríkjunum.
     english: I'm in the United States.
     lemmas: Bandaríkin
@@ -6752,11 +6737,13 @@ rows:
     level: 4
     dont_confuse: neglur
     row_id: 1118
-  - icelandic: nögl
-    english: a fingernail
+  - icelandic: nöglin
+    english: the fingernail
+    lemmas: nögl%
     level: 4
     note: „Nagli“ is a nail used in construction while „nögl“ is a fingernail.
     row_id: 1119
+    last_seen: "2021-07-30"
   - icelandic: nagli
     english: a nail (used in construction)
     level: 4
@@ -6833,10 +6820,6 @@ rows:
     lemmas: kaldur%
     level: 1
     row_id: 1132
-    last_seen: "2021-07-02"
-  - icelandic: margur
-    level: 1
-    row_id: 1133
     last_seen: "2021-07-02"
   - icelandic: heitur
     level: 1
@@ -10798,12 +10781,6 @@ rows:
     level: 3
     row_id: 1825
     last_seen: "2021-07-29"
-  - icelandic: árið
-    english: the year
-    lemmas: ár
-    level: 1
-    row_id: 1826
-    last_seen: "2021-07-29"
   - icelandic: eitt hundrað
     english: one hundred
     lemmas: einn, hundrað
@@ -11632,12 +11609,6 @@ rows:
     level: 3
     row_id: 1994
     last_seen: "2021-07-30"
-  - icelandic: Það er rétt.
-    english: That is correct.
-    lemmas: réttur%
-    level: 1
-    row_id: 1995
-    last_seen: "2021-07-30"
   - icelandic: margt smátt
     english: many small things
     lemmas: margur, smár
@@ -11669,6 +11640,310 @@ rows:
     lemmas: dýr%
     level: 1
     row_id: 2001
+    last_seen: "2021-07-30"
+  - icelandic: typpið
+    english: the penis
+    lemmas: typpi%
+    level: 3
+    row_id: 2002
+    last_seen: "2021-07-30"
+  - icelandic: píka
+    english: female genitals; vulva
+    level: 3
+    note: Considered an obscene word by some, but is not an insult.
+    row_id: 2003
+    last_seen: "2021-07-30"
+  - icelandic: brjóstið
+    english: the breast (anatomical region);; the boob
+    lemmas: brjóst%
+    level: 3
+    row_id: 2004
+    last_seen: "2021-07-30"
+  - icelandic: nefið
+    english: the nose
+    lemmas: nef%
+    level: 3
+    row_id: 2005
+    last_seen: "2021-07-30"
+  - icelandic: vöðvinn
+    english: the muscle
+    lemmas: vöðvi%
+    level: 3
+    row_id: 2006
+    last_seen: "2021-07-30"
+  - icelandic: setningin
+    english: the sentence
+    lemmas: setning%
+    level: 1
+    row_id: 2007
+    last_seen: "2021-07-30"
+  - icelandic: að vera stressaður fyrir einhverju
+    english: to be nervous; to be anxious
+    alternative_id: stressaður
+    level: 3
+    row_id: 2008
+    last_seen: "2021-07-30"
+  - icelandic: Sýndu mér.
+    english: Show me.
+    lemmas: að sýna
+    level: 3
+    note_regarding_english: "{{bhet}}"
+    row_id: 2009
+    last_seen: "2021-07-30"
+  - icelandic: fyrir sunnan
+    english: to the south of
+    depends_on: suður
+    level: 3
+    note: Commonly used to mean "in the south of Iceland".
+    row_id: 2010
+    last_seen: "2021-07-30"
+  - icelandic: skaginn
+    english: the peninsula
+    lemmas: skagi%
+    level: 5
+    row_id: 2011
+    last_seen: "2021-07-30"
+  - icelandic: ferðamennirnir
+    english: the travelers; the tourists
+    depends_on: ferðamaður
+    alternative_id: ferðamenn
+    level: 2
+    row_id: 2012
+    last_seen: "2021-07-30"
+  - icelandic: h$elst e$kki
+    english: preferably not
+    lemmas: gjarnan
+    alternative_id: helst
+    level: 2
+    note: "\"Helst\" is the superlative of \"gjarnan -> heldur -> helst\" (\"willingly/readily -> more willingly -> most willingly\")"
+    row_id: 2013
+    last_seen: "2021-07-30"
+  - icelandic: hlutirnir
+    english: the things; the objects
+    lemmas: hlutur%
+    alternative_id: hlutir
+    level: 2
+    row_id: 2014
+    last_seen: "2021-07-30"
+  - icelandic: flugvöllurinn
+    english: the airport
+    lemmas: flugvöllur%
+    alternative_id: flugvöllur
+    level: 1
+    row_id: 2015
+    last_seen: "2021-07-30"
+  - icelandic: blár
+    english: blue
+    level: 1
+    row_id: 2016
+    last_seen: "2021-07-30"
+  - icelandic: fallegur
+    english: beautiful
+    level: 1
+    note_regarding_english: masculine
+    row_id: 2017
+    last_seen: "2021-07-30"
+  - icelandic: umkringdur
+    english: surrounded by
+    depends_on: kringum
+    level: 4
+    note_regarding_english: masculine
+    row_id: 2018
+    last_seen: "2021-07-30"
+  - icelandic: hraunið
+    english: the lava
+    lemmas: hraun%
+    level: 4
+    row_id: 2019
+    last_seen: "2021-07-30"
+  - icelandic: ljósblár
+    english: light blue
+    depends_on: ljós, blár
+    level: 3
+    row_id: 2020
+    last_seen: "2021-07-30"
+  - icelandic: hvítur
+    english: white
+    level: 1
+    row_id: 2021
+    last_seen: "2021-07-30"
+  - icelandic: húðin
+    english: the skin
+    lemmas: húð%
+    level: 3
+    row_id: 2022
+    last_seen: "2021-07-30"
+  - icelandic: að r$eikna m$eð e$inhverju
+    english: to expect something; to assume something; to reckon something
+    depends_on: að reikna
+    alternative_id: að reikna með
+    level: 3
+    row_id: 2023
+    last_seen: "2021-07-30"
+  - icelandic: r*eyndar
+    english: actually; in fact
+    level: 2
+    row_id: 2025
+    last_seen: "2021-07-30"
+  - icelandic: v$irkjunin
+    english: "the power plant (note: in particular a hydropower or geothermal power plant)"
+    lemmas: virkjun%
+    alternative_id: að virkja
+    level: 4
+    note: "\"Að virkja\" is to harness or utilize, for example to harness the power of a waterfall."
+    row_id: 2026
+    last_seen: "2021-07-30"
+  - icelandic: nágrennið
+    english: the vicinity; the neighborhood
+    lemmas: nágrenni%
+    depends_on: nágranni
+    level: 5
+    row_id: 2027
+    last_seen: "2021-07-30"
+  - icelandic: nágranninn
+    english: the neighbor
+    lemmas: nágranni%
+    level: 3
+    row_id: 2028
+    last_seen: "2021-07-30"
+  - icelandic: metrar
+    english: meters
+    lemmas: metri%
+    level: 2
+    row_id: 2029
+    last_seen: "2021-07-30"
+  - icelandic: að ná í eitthvað
+    english: to go pick something up; to go and get something
+    depends_on: að ná
+    alternative_id: að ná í
+    level: 2
+    row_id: 2030
+    last_seen: "2021-07-30"
+  - icelandic: að sjóða
+    english: to boil
+    level: 3
+    row_id: 2031
+    last_seen: "2021-07-30"
+  - icelandic: rafmagnið
+    english: the electricity
+    lemmas: rafmagn%
+    level: 3
+    row_id: 2032
+    last_seen: "2021-07-30"
+  - icelandic: e$ftir þ$að
+    english: after that; and then
+    level: 1
+    row_id: 2033
+    last_seen: "2021-07-30"
+  - icelandic: að renna
+    english: "to flow (note: as in flowing water);; to slip (note: on ice)"
+    level: 3
+    row_id: 2034
+    last_seen: "2021-07-30"
+  - icelandic: að innihalda
+    english: to contain; to include
+    depends_on: að halda, inni
+    level: 4
+    row_id: 2035
+    last_seen: "2021-07-30"
+  - icelandic: steinninn
+    english: the stone
+    lemmas: steinn%
+    level: 3
+    row_id: 2036
+    last_seen: "2021-07-30"
+  - icelandic: steinefnin
+    english: the minerals
+    lemmas: steinefni%
+    depends_on: steinn, efni
+    level: 5
+    row_id: 2037
+    last_seen: "2021-07-30"
+  - icelandic: sérstaklega
+    english: especially; particularly
+    depends_on: sérstakur
+    level: 3
+    row_id: 2038
+    last_seen: "2021-07-30"
+  - icelandic: ástæðan fyrir því
+    english: the reason for that
+    lemmas: ástæða%
+    level: 3
+    row_id: 2039
+    last_seen: "2021-07-30"
+  - icelandic: miðinn
+    english: the ticket
+    lemmas: miði%
+    level: 3
+    row_id: 2040
+    last_seen: "2021-07-30"
+  - icelandic: Nei∆ ekki beint.
+    english: No∆ not exactly.
+    lemmas: beinn
+    alternative_id: ekki beint
+    level: 3
+    literally: not direct
+    row_id: 2041
+    last_seen: "2021-07-30"
+  - icelandic: huggulegt hús
+    english: a cozy house
+    lemmas: huggulegur%
+    alternative_id: huggulegt
+    level: 3
+    row_id: 2042
+    last_seen: "2021-07-30"
+  - icelandic: náttúra
+    english: nature
+    alternative_id: náttúrulegur
+    level: 2
+    row_id: 2043
+    last_seen: "2021-07-30"
+  - icelandic: bræður
+    lemmas: bróðir
+    level: 2
+    row_id: 2044
+    last_seen: "2021-07-30"
+  - icelandic: sjónvarpið
+    lemmas: sjónvarp%
+    alternative_id: sjónvarp
+    level: 2
+    literally: vision cast
+    row_id: 2045
+    last_seen: "2021-07-30"
+  - icelandic: nítján hundruð
+    english: nineteen hundred
+    level: 2
+    note: Always used when discussing the year 1900, and sometimes used when discussing something costing 1,900 ISK.
+    row_id: 2046
+    last_seen: "2021-07-30"
+  - icelandic: níutíu
+    english: ninety
+    level: 2
+    row_id: 2047
+    last_seen: "2021-07-30"
+  - icelandic: tvö þúsund
+    depends_on: tveir, þúsund
+    level: 2
+    row_id: 2048
+    last_seen: "2021-07-30"
+  - icelandic: Úr hverju er þetta?
+    english: What is this made from?
+    alternative_id: úr
+    level: 2
+    note: The preposition "úr" means "out of" or "from".
+    row_id: 2049
+    last_seen: "2021-07-30"
+  - icelandic: húmorinn
+    english: the humor
+    lemmas: húmor%
+    level: 4
+    row_id: 2050
+    last_seen: "2021-07-30"
+  - icelandic: úrið
+    english: the wristwatch
+    lemmas: úr%
+    level: 4
+    row_id: 2051
     last_seen: "2021-07-30"
 sound:
   - recording_of: níu sinnum

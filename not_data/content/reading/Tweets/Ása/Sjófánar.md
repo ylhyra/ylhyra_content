@@ -7,7 +7,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Í dag dundaði ég mér við að festa saman sjófána og hlustaði á íslensk sjómannalög á meðan. Já, ég er í bestu vinnu í heimi."
 audio="RjKt.mp3"

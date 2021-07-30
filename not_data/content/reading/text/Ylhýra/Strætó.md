@@ -7,6 +7,7 @@ level: A1
 reviewed: no
 ---
 <vocabulary>
+</vocabulary><vocabulary>
 stræti
 strætó
 að stytta

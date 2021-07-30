@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Bjó til plan þar sem borðaraðirnar á háskólabókasafninu skiptast á að gefa axlanudd. Gengur ansi illa að ná fram almennri sátt með fyrirkomulagið."
 audio="LdUP.mp3"

@@ -8,7 +8,8 @@ tags:
 level: A2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Í afgreiðslustörfum sér maður það besta og það versta í manninum."
 audio="ZM8a.mp3"

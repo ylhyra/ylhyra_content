@@ -6,7 +6,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Book audio="Imba eg veit.mp3">
 {{poem|
 '''ég veit'''

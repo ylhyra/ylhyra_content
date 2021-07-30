@@ -6,7 +6,8 @@ level: C1
 license: CC0
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 '''Vísur Vatnsenda-Rósu''' (''the verses of Rose from Waters-end'') is a love poem written by Rósa Guðmundsdóttir (1795–1855).
 
 According to popular rumor, Rósa had a secret relationship with a man named Páll, who ended up marrying another woman while Rósa became a laborer at his estate.

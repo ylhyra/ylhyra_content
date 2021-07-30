@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Að banna lausagöngu katta er fáránleg hugmynd en hins vegar mætti alveg endurskoða lausagöngu barna."
 audio="Lausaganga.mp3"

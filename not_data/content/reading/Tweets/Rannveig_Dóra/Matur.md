@@ -7,7 +7,8 @@ tags:
 level: A1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="„Rannveig Dóra, maturinn er tilbúinn“
 

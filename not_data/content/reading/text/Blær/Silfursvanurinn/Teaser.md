@@ -2,7 +2,8 @@
 title: Text:Blær/Silfur svanurinn/Teaser
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <a href="{{fullurl:Blær/Silfur svanurinn}}" class="frontpage-box-with-image"><!--
 --><span class="div frontpage-box-image" style="background-image:url({{fullurl:Special:Redirect/file/Blær_–_Silfur_svanurinn_82960.jpeg|height=200}})"></span><!--
 --><span class="frontpage-box-description">

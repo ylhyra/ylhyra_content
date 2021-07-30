@@ -4,7 +4,8 @@ tags:
 - Text
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <div class="book" data-translate="true" data-audio-file="Pípulækningar.mp3">
 <Audio src="Pípulækningar.mp3"/>
 <h1>[[Magnús Jochum Pálsson/Pípulækningar|Pípulækningar]]<note>The title of this piece is a wordplay on the word `pípulagningar` (plumbing) and `lækningar` (practice of medicine). </note></h1>

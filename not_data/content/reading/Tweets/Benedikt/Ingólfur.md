@@ -7,7 +7,8 @@ tags:
 level: B1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="„Við minnumst Ingólfs Arnarsonar í veislum<br>
 en óskum þess að skipið hans það hefði sokkið“<ref>According to tradition Ingólfur Arnarson was first permanent settler of Iceland who founded Reykjavík in the year 874.

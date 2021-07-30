@@ -4,7 +4,8 @@ tags:
 - Text
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <small>[[Español/Magnús_Jochum_Pálsson/Ánamaðkar|Read in Spanish]]</small>
 
 <div class="book" data-translate="true" data-audio-file="Ánamaðkar.mp3">

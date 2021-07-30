@@ -6,7 +6,8 @@ level: C2
 license: CC0
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 This is a popular lullaby written by scholar [[w:Sveinbjörn Egilsson|Sveinbjörn Egilsson]] (1791–1852).
 
 {{poem|

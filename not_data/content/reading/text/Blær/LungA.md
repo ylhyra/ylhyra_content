@@ -2,7 +2,8 @@
 title: Blær/LungA
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 {{Blær|http://blaer.is/grein/lunga}}
 
 <div class="book" data-translate=true>

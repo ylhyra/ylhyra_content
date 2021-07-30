@@ -2,7 +2,8 @@
 title: Text:Blær/Vinkonur vors og blóma/Teaser
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <a href="{{fullurl:Blær/Vinkonur_vors_og_blóma}}" class="frontpage-box-with-image"><span class="frontpage-box-description">
 <span class="div">
 <span class="div frontpage-box-author">Blær</span>

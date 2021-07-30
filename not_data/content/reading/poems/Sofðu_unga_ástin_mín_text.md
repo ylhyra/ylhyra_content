@@ -2,7 +2,8 @@
 title: Text:Sofðu unga ástin mín/1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <div data-translate="true" data-audio-file="Sofðu_unga.mp3">
 <Audio src="Sofðu_unga.mp3"/>
 {{poem|

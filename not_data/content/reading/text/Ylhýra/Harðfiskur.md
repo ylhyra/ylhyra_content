@@ -9,7 +9,8 @@ license: CC0
 level: A2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Image src="Stockfisch_in_Iceland_2005.JPG" position="right"/>
 <Book audio="Harðfiskur.mp3">
 Harðfiskur er fiskur sem er búið að þurrka. Þess vegna er hann harður.

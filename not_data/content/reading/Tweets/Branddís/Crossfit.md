@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Sá stelpu í Crossfit nota sandpappír á handsiggið sitt. Spurði hana hvort það væri ekki soldið gróft ahahah"
 audio="GRof.mp3"

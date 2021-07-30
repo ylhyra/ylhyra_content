@@ -4,7 +4,8 @@ redirects:
 - Español/Magnús Jochum Pálsson/Ánamaðkar
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <div class="book" data-translate="true" data-audio-file="Ánamaðkar.mp3">
 <Audio src="Ánamaðkar.mp3"/>
 <h1>'''Ánamaðkar'''</h1>

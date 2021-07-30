@@ -9,6 +9,7 @@ todo: bara fyrsta málsgrein búin
 reviewed: no
 ---
 <vocabulary>
+</vocabulary><vocabulary>
 næstum því
 enginn
 skógur

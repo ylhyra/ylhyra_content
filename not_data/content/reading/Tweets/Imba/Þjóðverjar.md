@@ -7,7 +7,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Barnalegt af Þjóðverjum að vera ekki með nammidag.<note>The Nordic countries assign Saturday as "candy day" – the only day of the week you are allowed to buy candy – to limit children's candy consumption.</note>"
 audio="YM0v.mp3"

@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Ákveðinn sigur þegar innfæddir halda að þú talir mállýsku frá framandi landshluta heldur en að þú sért útlendingur."
 audio="Ákveðinn.mp3"

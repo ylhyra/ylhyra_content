@@ -7,7 +7,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Fyrir 20 árum var ég ólæs og kunni varla að tala. Núna er ég fluglæs og tala við alls konar fólk sem á vegi mínum verður."
 audio="fxWp.mp3"

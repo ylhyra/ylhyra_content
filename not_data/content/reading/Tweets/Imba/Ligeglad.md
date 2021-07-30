@@ -8,7 +8,8 @@ tags:
 level: C1
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Lífið snýst um að vera nógu ligeglad til þess að njóta og nógu strangur við sig til þess að ganga vel."
 audio="sVkS.mp3"

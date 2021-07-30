@@ -7,7 +7,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Rok er svarti sauðurinn í veðurfjölskyldunni."
 audio="Rok.mp3"

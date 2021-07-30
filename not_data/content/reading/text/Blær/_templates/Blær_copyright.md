@@ -2,7 +2,8 @@
 title: Template:Copyright/Blær
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <small class="small-text-block">
 &copy; ''[https://blaer.is/ Blær]'', 2014. –
 Editors:

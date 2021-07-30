@@ -3,7 +3,8 @@ title: Nafn Vestmannaeyja
 license: CC0
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Image src="Khamkeo-vilaysing-TahzKepGKL4-unsplash.jpg"/>
 <level level="b1"/>
 

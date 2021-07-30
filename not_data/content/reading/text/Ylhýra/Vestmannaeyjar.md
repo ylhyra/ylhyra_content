@@ -4,7 +4,8 @@ license: CC0
 level: A2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Image src="Ursula-drake-1OVcNeq6ZHQ-unsplash.jpg"/>
 
 <div data-translate="true" data-audio-file="Vestmannaeyjar.mp3">

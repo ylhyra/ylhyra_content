@@ -2,7 +2,8 @@
 title: Text:Blær/Egg í áskrift/Teaser
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <a href="https://punktur.egill.xyz/egg.html" class="frontpage-box-with-image">
 <span class="frontpage-box-description">
 <span class="div">

@@ -6,7 +6,8 @@ tags:
 level: B2
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 {{poem|
 '''grip'''
 {{line|það er svo hljótt}}

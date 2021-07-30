@@ -6,7 +6,8 @@ tags:
 - Tweets
 reviewed: no
 ---
-
+<vocabulary>
+</vocabulary>
 <Tweet
 text="Það þarf engar siðareglur á Alþingi. Bara ef alþingismenn læsu nú saman Hávamál í byrjun þings. Það myndi nægja."
 audio="Siðareglur.mp3"
