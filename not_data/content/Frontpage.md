@@ -7,6 +7,7 @@ reviewed: no
 classes:
 - wide-screen
 - sans-serif
+- brown-screen
 ---
 <Frontpage/>
 {{spacer|10}}
@@ -26,6 +27,12 @@ This is a testing site for the next version of Ylhýra. It contains some bugs an
 {{Text:Demo}}
 </div>
 </div>
+Spaced repetition
+
+Course
+
+
+
 
 
 <!--
