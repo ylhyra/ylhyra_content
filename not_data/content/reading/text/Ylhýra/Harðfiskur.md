@@ -10,6 +10,54 @@ level: A2
 reviewed: no
 ---
 <vocabulary>
+harðfiskur
+að þurrka
+þess vegna
+harður
+svolítið
+eins og
+sem
+að borða
+nema
+að bæta við
+saltið
+sykurinn
+ekki neitt
+bara
+þurr
+að borða
+maður
+með
+smjör
+að vera til
+lítill
+biti
+að þurfa
+að setja
+snakk
+mjög gott
+að eiga
+þegar
+að fara
+útilega
+fjallganga
+áttatíu
+prósent
+mikið
+að verða
+saddur
+allir
+að finnast
+góður
+því miður
+hægt
+skóli
+vinna
+af því að
+svo
+sterkur
+lykt
+vondur
 </vocabulary>
 <Image src="Stockfisch_in_Iceland_2005.JPG" position="right"/>
 <Book audio="Harðfiskur.mp3">
@@ -23,4 +71,3 @@ Oft borðar maður harðfisk með smjöri. Það eru líka til litlir harðfiskb
 
 Öllum finnst harðfiskur góður, en það er því miður ekki hægt að borða harðfisk í skólanum eða í vinnunni af því að það er svo sterk lykt af honum. Lyktin er ekki vond, hún er bara sterk.
 </Book>
-

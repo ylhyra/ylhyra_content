@@ -7143,12 +7143,6 @@ rows:
     level: 1
     row_id: 1196
     last_seen: "2021-07-02"
-  - icelandic: ekkert
-    english: nothing
-    lemmas: enginn
-    level: 1
-    row_id: 1197
-    last_seen: "2021-07-02"
   - icelandic: fjórir
     english: four
     level: 1
@@ -11944,6 +11938,90 @@ rows:
     lemmas: úr%
     level: 4
     row_id: 2051
+    last_seen: "2021-07-30"
+  - icelandic: að þurrka eitthvað
+    english: to dry something
+    alternative_id: að þurrka
+    level: 3
+    row_id: 2052
+    last_seen: "2021-07-30"
+  - icelandic: þ$ess v$egna
+    english: because of that; for that reason
+    level: 1
+    row_id: 2053
+    last_seen: "2021-07-30"
+  - icelandic: nema
+    english: unless; except
+    level: 1
+    row_id: 2054
+    last_seen: "2021-07-30"
+  - icelandic: saltið
+    english: the salt
+    lemmas: salt%
+    level: 2
+    row_id: 2055
+    last_seen: "2021-07-30"
+  - icelandic: sykurinn
+    english: the sugar
+    lemmas: sykur%
+    level: 2
+    row_id: 2056
+    last_seen: "2021-07-30"
+  - icelandic: ekkert; ekki neitt
+    english: nothing
+    lemmas: enginn, ekki, neinn
+    level: 1
+    row_id: 2057
+    last_seen: "2021-07-30"
+  - icelandic: Handklæðið er þurrt.
+    english: The towel is dry.
+    lemmas: handklæði, þurr%
+    level: 3
+    row_id: 2058
+    last_seen: "2021-07-30"
+  - icelandic: einn biti
+    english: one bite _(of food)_
+    lemmas: biti%
+    level: 3
+    row_id: 2059
+    last_seen: "2021-07-30"
+  - icelandic: snakkið
+    english: the snack
+    lemmas: snakk%
+    level: 3
+    row_id: 2060
+    last_seen: "2021-07-30"
+  - icelandic: að fara í útilegu
+    english: to go camping
+    lemmas: útilega%
+    depends_on: úti, að liggja
+    level: 3
+    literally: outside-laying
+    row_id: 2061
+    last_seen: "2021-07-30"
+  - icelandic: að fara í fjallgöngu
+    english: to go hiking
+    lemmas: fjallganga%
+    depends_on: að ganga, fjall
+    level: 2
+    row_id: 2062
+    last_seen: "2021-07-30"
+  - icelandic: áttatíu
+    english: eighty
+    level: 2
+    row_id: 2063
+    last_seen: "2021-07-30"
+  - icelandic: saddur
+    english: satiated; not hungry; full
+    depends_on: svangur
+    level: 3
+    row_id: 2064
+    last_seen: "2021-07-30"
+  - icelandic: lyktin
+    english: the smell
+    lemmas: lykt%
+    level: 3
+    row_id: 2065
     last_seen: "2021-07-30"
 sound:
   - recording_of: níu sinnum
