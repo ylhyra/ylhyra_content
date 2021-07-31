@@ -280,17 +280,14 @@ Kom eitthvað fyrir / kom eitthvað upp á?
 mér þykir það leitt
 segja af sér / segja upp
 að falla á prófi
-gæsalappir
-spurningamerki
-gata vegur braut
-Ekki að ræða það!
+
 Farðu úr bolnum.
 Farðu úr sokkunum.
 hálfrar milljón(ar)??? króna hjól
 Sýndu mér.
 Ertu viss?
 leita mér að vinnu
-skjár
+
 hljóðfæri
 dekk
 Mig hefur dreymt um það lengi.
@@ -338,7 +335,7 @@ Að gefa út lag.
 Smakka
 Að vanda sig
 Að vanda
-Reyndar ekki
+
 Loksins
 Til vara
 Hvað ertu með framan í þér?
@@ -509,42 +506,38 @@ Finnurðu lyktina?
 Samferða vs meðferð
 Yfirvöld the authorities
 Þjónusta service
-stendur þig vel
-Erleiðast að haldast í hendur meðan maður  labbar?
-Ég tok ekki eftir því
+
+
 Mynd af honum berum að ofan
 Hvað heldurðu að þú sért að gera?
-Hitt og þetta
-Fyrir utan það
+
 Næststærsti
 Mig hefur alltaf langað e?að gera það
-Að lenda í slysi
-Sem betur fer
+
+
 Hvílík :/ þvílík
-Skíthræddur
+
 Að detta í sundur
 Ná mér í kaffi
-Allur ad koma til
+
 Hið opinbera
-rétt ókominn
-Ef ske kynni
-Samferða vs. samfarir
+
+
+
+
+
 Að kinka kolli að hrista hausinn
-Svínvirkar
 Komast fyrir vs komast fyrr
 Það styttist í það
-Er til meira?
-Það var ekki ætlunin.
-Að skipta um skððun
+
 Tvo hluti
 Viltu koma med?
 Fardu ur ad ofan.
-föt
 að laga
 Hann náði í mig
 Þú ert með lykla
 Þægilegt
-Húsgögn
+
 Um hádegið
 Hann for an þess að kveðja
 Ætlarðu ekki að heilsa?
@@ -560,7 +553,7 @@ Svekktur
 Viltu sopa?
 Mæðgin
 Bómullin
-Allt í góðu mín vegna.
+
 Af engri ástæðu
 Skamma stund
 An gríns
@@ -586,7 +579,6 @@ Að leggja til, tillaga
 
 Geturðu bent mér á
 Endurgreiða
-Það hefur ekkert upp á sig.
 Þannig vs svona
 Rífa rifna
 Ég undirbjó mig mjög vel.
@@ -595,7 +587,7 @@ Mikið úrval
 Þú lítur hræðilega út You look terrible.
 Að muna - sterk vs veik beyging
 I hina áttina
-Ég var að velta því fyrir mér
+
 
 þremur vikum seinna
 
@@ -625,7 +617,6 @@ að slást  - að slást í
 Hver þáttur er klukkutími.
 
 þannig
-Síðan hvenær? = Since when?
 Það kom öllum á óvart.
 skemmtilegasta sem ég hef gert á ævinni
 að segja frá
@@ -636,7 +627,7 @@ fréttir
 Er það ekki?
 rétt áðan
 að fá lánað
-það er hlýrra en í gær
+
 
 
 Ég heyri í þér á eftir.
