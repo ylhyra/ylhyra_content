@@ -20,17 +20,14 @@ húsnæði
 Er hann að lagast í bakinu?
 
 Hvernig er veðrið?
-augljóslega
+
 
 átti það skilið
 hraðari
 Sonur hans er hærri en hann.
 
-Hann
-fita
-að fitna
 að rétta mér
-aumingi
+
 ég er kominn með nóg
 Þú eyðileggur alltaf allt.
 Langar þig að koma með?, Viltu koma með?
@@ -43,13 +40,10 @@ Ekkert af viti.
 
 Ég nenni þessu ekki lengur.
 auka hús
-ég ruglaðist
+
 Því fleiri smákökur sem ég borða, því svangari verð ég.
 að henda mat
 Það er jafn gott.
-
-kettlingur
-kisa
 auglýsing
 að halda áfram
 að passa upp á
@@ -58,9 +52,8 @@ Hvað ertu með?
 Áttir þú að hringja í mig?
 slappur
 Er einhver séns að ég geti platað þig til að
-Hvað gerðist svo?
+
 Klukkan er of margt.
-Það er allt of seint.
 Ég vinn sem ...
 Hafðu engar áhyggjur af því.
 fyrifram
@@ -73,7 +66,7 @@ Að eiga von á ..
 að klára
 ósáttur
 Reiðir út í hvorn annan.
-gera það sem manni sýnist
+
 fótur	foot;; leg
 Mér er illt í fætinum.	My foot hurts.;; My leg hurts.
 Án nokkurar
@@ -83,7 +76,7 @@ Hann er slæmur kennari.
 Hann er vondur kennari.
 að kenna um
 bjóða upp á
-þrýstingur
+
 Mér þykir leitt að hafa ekki komið.
 Fæ ég að hringja hjá þér?
 Ég kemst ekki inn.
@@ -95,7 +88,7 @@ Hvað er hann þekktur fyrir?, Fyrir hvað er hann þekktur?
 Hvað er þetta eiginlega?
 að leita að vinnu
 ár fram í tímann
-og hvað með það
+
 það fer ekki fram hjá neinum
 Fékkstu starfið?
 Ég fékk vinnu hjá...
@@ -104,14 +97,10 @@ get ekki verið lengur
 vissi thad nu thegar
 Það er komið gat á buxurnar þínar.
 Hún er jafngömul mér. Hún er jafngömul og ég.
-innan skamms
+
 tveggja gráðu frost
 Það er slökkt á sjónvarpinu.
 Ekki hafa áhyggjur af því.
-þangað
-þangað til
-hingað
-hingað til
 Áttu von á einhverjum?
 get ekki staðið í þessu
 skítalaunum
@@ -124,18 +113,13 @@ Við búum saman.
 Við bjuggum samam.
 að eiga skilið
 Ég var búinn að gleyma því.
-þurrka
-þorna
+
 ekki fyrr en á morgun vs. þangað til á morgun
-100 manns
-100 menn
-Takk fyrir að láta mig vita.
-bensínstöð
+
 Eg held að einhver hafi tekið...
-húsið hans egils
+
 að taka eftir vs. að fylgjast með
-vandræðaleg þögn
-Reyndar ekki.	Actually not.
+
 Ég treysti honum satt best að segja ekki.	To be honest\, I don't trust him.
 hvað sem ég vil
 Það svarar enginn.
@@ -148,15 +132,13 @@ fyrst að maður er byrjaður
 kominn af stað
 það er löngu búið
 að slappa af vs. sleppa
-ég sé til með það
+ með það
 réðst á mig
 að taka á móti
 það er undir þér komið
 að sækja um
-viljandi
-óviljandi
-ólöglegt
-þess virði
+
+
 Hvað má bjóða þér?
 missa vs sakna
 Missti af fluginu mínu.
@@ -165,7 +147,7 @@ hvernig hitti ég á þig?
 setning kemur frá að setja
 stutt mynd
 þangað tl á morgun vs ekki fyrr en á morgun
-Það er síminn til þín.
+
 Ekki vs. ekkert
 Þarna, þangað, þaðan, hérna, hingað, héðan
 Numbers
@@ -179,12 +161,11 @@ sums staðar
 Er læst?
 hvað ákvaðstu að gera?
 tók það fram
-Þú ert aumkunnarverður lítill kall.
 Viltu far?
 leggja það á minnið
 utan við sig
 Ég á ekki von á því.
-Það er of seint.
+
 að grenja	to cry loudly
 að toga í
 Ekki sem verst
@@ -197,8 +178,8 @@ að minna á vs að muna
 vegna vinnu
 ég kemst ekki vegna þess að
 Bræðurnir eru reiðir út í hvorn annan.
-Geturðu beðið aðeins?
-Góð spurning.
+
+
 
 að svipta sig lífi, að fremja sjálfsmorð
 enn sem komið er
@@ -220,7 +201,6 @@ töluvert
 Skál!
 hugsa um, sjá um
 ey
-í hvert skipti
 berfættur
 Bara að skoða.
 að slá sér upp með
@@ -231,10 +211,10 @@ Klukan er tvö
 að hleypa inn
 óviðeigandi
 þykjustu
-utan við sig
+
 við rifumst
 voða fínt
-vanur þessu
+
 fyrr
 í fyrra
 fyrri
@@ -242,8 +222,7 @@ Hann er stutthærður.
 að greiða	to pay money;; to comb someone's hair
 heyrnartól
 að komast að einhverju
-rándýrt
-stressaður	nervous
+
 síðan	since (regarding time);; after that
 hinkraðu
 sleipt
@@ -270,7 +249,7 @@ hvort eð er
 þeim var sagt
 Ertu kominn með vinnu?
 geturðu rétt mér smjörið?
-mín fyrrverandi
+
 að fylgjast með er líka "to keep an eye on"
 steinsofnaði
 talsvert yngri

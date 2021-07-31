@@ -7991,10 +7991,14 @@ rows:
     level: 2
     row_id: 1364
     last_seen: "2021-07-02"
-  - icelandic: vegur
+  - icelandic: v%egurinn
+    english: the road
+    lemmas: vegur%
     level: 2
+    related_items: gata
+    note: Roads outside of an urban area are usually called "vegur" while roads in urban areas are called "gata".
     row_id: 1365
-    last_seen: "2021-07-02"
+    last_seen: "2021-07-31"
   - icelandic: Eldhúsið er hreint.
     english: The kitchen is clean.
     lemmas: eldhús, hreinn%
@@ -10339,10 +10343,10 @@ rows:
     last_seen: "2021-07-29"
   - icelandic: að vera þess virði
     english: to be worth it
-    alternative_id: virði
+    alternative_id: virði, þess virði
     level: 1
     row_id: 1757
-    last_seen: "2021-07-29"
+    last_seen: "2021-07-31"
   - icelandic: Evrópa
     english: Europe
     level: 1
@@ -11935,10 +11939,11 @@ rows:
     last_seen: "2021-07-30"
   - icelandic: að þurrka eitthvað
     english: to dry something
+    depends_on: þurr
     alternative_id: að þurrka
     level: 3
     row_id: 2052
-    last_seen: "2021-07-30"
+    last_seen: "2021-07-31"
   - icelandic: þ$ess v$egna
     english: because of that; for that reason
     level: 1
@@ -12111,13 +12116,13 @@ rows:
     level: 4
     row_id: 2082
     last_seen: "2021-07-30"
-  - icelandic: vegirnir
+  - icelandic: v%egirnir
     english: the roads
     lemmas: vegur
     alternative_id: vegir
     level: 2
     row_id: 2083
-    last_seen: "2021-07-30"
+    last_seen: "2021-07-31"
   - icelandic: að kasta
     english: to throw
     level: 3
@@ -13296,22 +13301,63 @@ rows:
     level: 3
     row_id: 2275
     last_seen: "2021-07-31"
-  - icelandic: gæsalappir
+  - icelandic: gæsalappirnar
+    english: the quotation marks
+    lemmas: gæsalappir%
+    depends_on: gæs
+    level: 4
+    note: Literally "geese feet". "Löpp" is an animal's paw or foot.
     row_id: 2276
-  - icelandic: spurningamerki
+    last_seen: "2021-07-31"
+  - icelandic: spurningamerkið
+    english: the question mark
+    lemmas: spurningamerki%
+    depends_on: spurning, að merkja
+    level: 3
     row_id: 2277
-  - icelandic: gata vegur braut
+    last_seen: "2021-07-31"
+  - icelandic: g%atan
+    english: the road; the street
+    lemmas: gata%
+    level: 2
+    note: Roads outside of an urban area are usually called "vegur" while roads in urban areas are called "gata".
     row_id: 2278
-  - icelandic: Ekki að ræða það!
+    last_seen: "2021-07-31"
+  - icelandic: Ekki a%ð r%æða þ%að!
+    english: No way!; Absolutely not!; That's not even up for discussion!
+    depends_on: að ræða
+    level: 3
     row_id: 2279
-  - icelandic: mín fyrrverandi
+    last_seen: "2021-07-31"
+  - icelandic: fyrrverandi eiginkona hans
+    english: his ex-wife
+    depends_on: eiginkona
+    alternative_id: fyrrverandi
+    level: 3
     row_id: 2280
-  - icelandic: rándýrt
+    last_seen: "2021-07-31"
+  - icelandic: Þetta er r%ándýrt.
+    english: This is extremely expensive.
+    lemmas: rándýr%
+    depends_on: dýr
+    alternative_id: rándýrt
+    level: 3
+    note: "\"Rán\" is a robbery. \"Rándýr\" as a noun means \"a predatory animal\"."
     row_id: 2281
-  - icelandic: vanur þessu
+    last_seen: "2021-07-31"
+  - icelandic: Hann er vanur því.
+    english: He's used to it.
+    lemmas: vanur%
+    level: 3
     row_id: 2282
-  - icelandic: utan við sig
+    last_seen: "2021-07-31"
+  - icelandic: að vera u$tan v$ið s$ig
+    english: to be a bit absent minded;; to be a bit distracted with your own thought
+    depends_on: utan
+    alternative_id: utan við sig
+    level: 3
     row_id: 2283
+    last_seen: "2021-07-31"
   - icelandic: Það er '''t$öluvert''' s$íðan.
     english: A '''considerable''' amount of time has passed since then.
     lemmas: töluverður
@@ -13362,47 +13408,125 @@ rows:
     level: 3
     row_id: 2291
     last_seen: "2021-07-31"
-    athugasemd til mín: "\"Töluvert\" (''significantly'') likely either means \"worthy of being counted\" or \"worthy of being spoken of\"."
+    athugasemd_til_min: "\"Töluvert\" (''significantly'') likely either means \"worthy of being counted\" or \"worthy of being spoken of\"."
   - icelandic: viljandi
+    english: intentionally
+    depends_on: að vilja
+    level: 3
     row_id: 2292
-  - icelandic: ólöglegt
+    last_seen: "2021-07-31"
+  - icelandic: Það er ólöglegt.
+    english: That's illegal.
+    lemmas: ólöglegur%
+    depends_on: lög, lag
+    alternative_id: löglegt, löglegur
+    level: 3
     row_id: 2293
-  - icelandic: þess virði
-    row_id: 2294
-  - icelandic: Ég sé til.
+    last_seen: "2021-07-31"
+  - icelandic: Ég s$é t$il.
+    english: I will think about what you just suggested and if I'm in the mood later I might do it∆ but I won't promise anything.
+    lemmas: að sjá til%
+    level: 3
+    literally: to see to
     row_id: 2295
+    last_seen: "2021-07-31"
   - icelandic: vandræðaleg þögn
+    english: an awkward silence
+    lemmas: vandræðalegur
+    depends_on: þögn
+    level: 4
     row_id: 2296
+    last_seen: "2021-07-31"
   - icelandic: húsið hans Gísla
+    english: Gísli's house
+    lemmas: hús
+    level: 2
     row_id: 2297
+    last_seen: "2021-07-31"
   - icelandic: að fela sig
+    english: to hide oneself
+    alternative_id: að fela
+    level: 3
     row_id: 2298
+    last_seen: "2021-07-31"
   - icelandic: Takk fyrir að láta mig vita.
+    english: Thanks for letting me know.
+    level: 1
     row_id: 2299
+    last_seen: "2021-07-31"
   - icelandic: að þorna
+    english: to become dry; to dry out
+    depends_on: þurrka
+    level: 3
     row_id: 2300
-  - icelandic: þangað til
+    last_seen: "2021-07-31"
+  - icelandic: þ$angað t$il
+    english: until;; until that time
+    level: 2
+    related_items: hingað til
     row_id: 2301
-  - icelandic: hingað til
+    last_seen: "2021-07-31"
+  - icelandic: h$ingað t$il
+    english: until now; so far
+    level: 3
     row_id: 2302
-  - icelandic: innan skamms
+    last_seen: "2021-07-31"
+  - icelandic: i$nnan sk$amms
+    english: soon; shortly
+    lemmas: skammur
+    level: 3
     row_id: 2303
+    last_seen: "2021-07-31"
   - icelandic: að þrýsta á
+    english: to put pressure on;; to press _(a button)_
+    alternative_id: að þrýsta
+    level: 3
     row_id: 2304
+    last_seen: "2021-07-31"
   - icelandic: þrýstingur
+    english: pressure
+    depends_on: að þrýsta
+    level: 3
     row_id: 2305
-  - icelandic: gera það sem manni sýnist
+    last_seen: "2021-07-31"
+  - icelandic: að gera það sem manni sýnist
+    english: "to do whatever one pleases (note: without necessarily considering what other people want)"
+    lemmas: maður, að sýnast
+    level: 3
     row_id: 2306
+    last_seen: "2021-07-31"
   - icelandic: Hvað gerðist svo?
+    english: Then what happened?
+    lemmas: að gerast
+    level: 2
     row_id: 2307
-  - icelandic: kisa
+    last_seen: "2021-07-31"
+  - icelandic: k$isa
+    english: "kitty cat (note: feminine)"
+    depends_on: köttur
+    level: 3
+    note: Used when talking about a particular cat in an affectionate manner. "Kisi" is masculine and "kisa" is feminine.
     row_id: 2308
-  - icelandic: kisi
+    last_seen: "2021-07-31"
+  - icelandic: k$isi
+    english: "kitty cat (note: masculine)"
+    depends_on: kisa
+    level: 3
+    note: Used when talking about a particular cat in an affectionate manner. "Kisi" is masculine and "kisa" is feminine.
     row_id: 2309
-  - icelandic: kettlingur
+    last_seen: "2021-07-31"
+  - icelandic: kettlingur%
+    english: the kitten
+    depends_on: köttur
+    level: 4
     row_id: 2310
-  - icelandic: ég ruglaðist
+    last_seen: "2021-07-31"
+  - icelandic: Ég r$uglaðist.
+    english: I got confused.; I made an error due to having gotten things mixed up.
+    lemmas: að ruglast%
+    level: 3
     row_id: 2311
+    last_seen: "2021-07-31"
   - icelandic: alg$jör a$umingi
     english: a total wimp; a total weakling;; a total loser
     depends_on: aumur
@@ -13416,6 +13540,71 @@ rows:
     level: 3
     note: Here "aumingi" means "poor little thing" and is used to show sympathy with someone's hardship. In other contexts "aumingi" can mean a wimp.
     row_id: 2313
+    last_seen: "2021-07-31"
+  - icelandic: þögnin
+    english: the silence
+    lemmas: þögn%
+    level: 3
+    row_id: 2314
+    last_seen: "2021-07-31"
+  - icelandic: Hún er vön þessu.
+    english: She's used to this.
+    lemmas: vanur
+    alternative_id: vön
+    level: 3
+    row_id: 2315
+    last_seen: "2021-07-31"
+  - icelandic: g%öturnar
+    english: the roads; the street
+    lemmas: gata
+    level: 2
+    row_id: 2316
+    last_seen: "2021-07-31"
+  - icelandic: Mjólk inniheldur fitu.
+    english: Milk contains fat.
+    lemmas: að innihalda, fita%
+    depends_on: feitur
+    level: 4
+    row_id: 2317
+    last_seen: "2021-07-31"
+  - icelandic: aug%ljóslega
+    english: clearly; obviously
+    depends_on: auga, ljós
+    alternative_id: augljós
+    level: 3
+    row_id: 2318
+    last_seen: "2021-07-31"
+  - icelandic: gr%einilega
+    english: clearly; obviously
+    alternative_id: greinilegur, greinilegt
+    level: 3
+    row_id: 2319
+    last_seen: "2021-07-31"
+  - icelandic: A*kkúrat!
+    english: Exactly!; Precisely!
+    level: 3
+    row_id: 2320
+    last_seen: "2021-07-31"
+  - icelandic: að giska
+    english: to guess
+    level: 3
+    row_id: 2321
+    last_seen: "2021-07-31"
+  - icelandic: Ge%ttu!
+    english: Guess!
+    lemmas: að geta
+    depends_on: að giska
+    level: 3
+    note: "\"Að giska\" (to guess) is usually the term used to mean guessing, however when telling someone they should guess the preferred term is \"að geta\". \"Að geta\" usually means \"to be able to\", but means \"to guess\" in this context."
+    note_regarding_english: "{{bhet}}"
+    row_id: 2322
+    last_seen: "2021-07-31"
+  - icelandic: r%étt á%ðan
+    english: just a moment ago
+    depends_on: áðan
+    level: 3
+    note: "\"Rétt\" here is an adverb meaning \"only / just barely\"."
+    row_id: 2323
     last_seen: "2021-07-31"
 sound:
   - recording_of: níu sinnum
