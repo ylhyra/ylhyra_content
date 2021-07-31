@@ -10455,13 +10455,6 @@ rows:
     level: 1
     row_id: 1775
     last_seen: "2021-07-29"
-  - icelandic: Það er ódýrara.
-    english: That is less expensive.
-    lemmas: ódýr
-    alternative_id: ódýrara
-    level: 3
-    row_id: 1776
-    last_seen: "2021-07-29"
   - icelandic: Það er ódýrt.
     english: That is inexpensive.
     lemmas: ódýr%
@@ -12593,8 +12586,133 @@ rows:
   - icelandic: frosin pítsa
     english: frozen pítsa
     lemmas: að frjósa
+    alternative_id: frosin pítsa
     level: 4
     row_id: 2167
+    last_seen: "2021-07-30"
+  - icelandic: t$æpt ár
+    english: a little less than a year
+    lemmas: tæpur%
+    level: 3
+    row_id: 2168
+    last_seen: "2021-07-30"
+  - icelandic: r*úmt* ár
+    english: a little over a year
+    lemmas: rúmur%
+    level: 3
+    row_id: 2169
+    last_seen: "2021-07-30"
+  - icelandic: Ég er í sjokki.
+    english: I'm in shock.; I am shocked.
+    lemmas: sjokk%
+    level: 4
+    note: Colloquial.
+    row_id: 2170
+    last_seen: "2021-07-30"
+  - icelandic: verkefnið
+    english: the project
+    lemmas: verkefni%
+    depends_on: efni
+    level: 3
+    row_id: 2171
+    last_seen: "2021-07-30"
+  - icelandic: heimavinna
+    english: homework
+    depends_on: heima, vinna
+    level: 2
+    row_id: 2172
+    last_seen: "2021-07-30"
+  - icelandic: að k*veikja á*
+    english: "to turn on (note: electronics)"
+    alternative_id: að kveikja
+    level: 3
+    row_id: 2173
+    last_seen: "2021-07-30"
+  - icelandic: að kvikna á
+    english: "to become turned on (note: electronics)"
+    depends_on: að kveikja
+    level: 4
+    row_id: 2174
+    last_seen: "2021-07-30"
+  - icelandic: að s*lökkva
+    english: "to turn off (note: electronics); to put out a fire"
+    level: 3
+    row_id: 2175
+    last_seen: "2021-07-30"
+  - icelandic: að s*lokkna
+    english: "to become turned off (note: electronics); for a fire to go out"
+    depends_on: að slökkva
+    alternative_id: að slökkna
+    level: 4
+    note: Can also be written as "slökkna". "Að slökkva" is to turn something off, while "að slokkna" is for something to become turned off by itself.
+    row_id: 2176
+    last_seen: "2021-07-30"
+  - icelandic: Við hvað vinnur{{ðu}}?
+    english: What do you work as?
+    lemmas: að vinna
+    level: 2
+    row_id: 2177
+    last_seen: "2021-07-30"
+  - icelandic: íþróttirnar
+    english: the sports
+    lemmas: íþrótt%
+    level: 2
+    row_id: 2178
+    last_seen: "2021-07-30"
+  - icelandic: innan í
+    english: inside of
+    level: 3
+    row_id: 2179
+    last_seen: "2021-07-30"
+  - icelandic: að vera utan á einhverju
+    english: to be on the outside of something; to be on the outer surface of something
+    depends_on: úti
+    alternative_id: utan á, utan
+    level: 3
+    row_id: 2180
+    last_seen: "2021-07-30"
+  - icelandic: að vera ofan á einhverju
+    english: _(for an item)_ to be on top of something
+    alternative_id: ofan á
+    level: 3
+    row_id: 2181
+    last_seen: "2021-07-30"
+  - icelandic: u*ndir
+    english: underneath
+    level: 3
+    row_id: 2182
+    last_seen: "2021-07-30"
+  - icelandic: Ég er eitthvað slappur.
+    english: I am a bit under the weather.; I'm a bit sickly.
+    alternative_id: slappur
+    level: 3
+    note: "\"Slappur\" can also mean \"lacking physical strength / lacking vigor\"."
+    note_regarding_english: Speaker is male.
+    row_id: 2183
+    last_seen: "2021-07-30"
+  - icelandic: númer eitt
+    english: number one
+    level: 2
+    row_id: 2184
+    last_seen: "2021-07-30"
+  - icelandic: Æ*ðisleg*t!
+    english: Great!; Fantastic!
+    lemmas: æðislegur%
+    depends_on: æði
+    level: 3
+    row_id: 2185
+    last_seen: "2021-07-30"
+  - icelandic: að k*veikja í*
+    english: to start a fire
+    depends_on: að kveikja
+    level: 3
+    row_id: 2187
+    last_seen: "2021-07-30"
+  - icelandic: að k*vikna í*
+    english: for something to catch fire
+    depends_on: að kveikja, að kvikna á
+    level: 4
+    row_id: 2188
     last_seen: "2021-07-30"
 sound:
   - recording_of: níu sinnum

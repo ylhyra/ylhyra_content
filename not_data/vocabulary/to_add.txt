@@ -18,18 +18,15 @@ skuld
 Það kemur ekki neinum við., Það kemur engum við.
 húsnæði
 Er hann að lagast í bakinu?
-tæpt ár
-rúmt ár
+
 Hvernig er veðrið?
 augljóslega
-huggulegt, kósí	cozy
 
 átti það skilið
 hraðari
 Sonur hans er hærri en hann.
 
 Hann
-Ég er í sjokki.	I'm in shock., I am shocked.
 fita
 að fitna
 að rétta mér
@@ -43,36 +40,27 @@ læst
 tímaspursmál
 Hann var alveg miður sín.
 Ekkert af viti.
-Verkefni
-heimavinna
+
 Ég nenni þessu ekki lengur.
 auka hús
 ég ruglaðist
 Því fleiri smákökur sem ég borða, því svangari verð ég.
 að henda mat
-Það er eins gott.
 Það er jafn gott.
-að stinga í samband
-að kveikja
-að kvikna
-að slökkva
-að slökkna
+
 kettlingur
 kisa
 auglýsing
 að halda áfram
 að passa upp á
 að passa einhvern
-Við erum eins.
 Hvað ertu með?
 Áttir þú að hringja í mig?
 slappur
-Ekki séns.
 Er einhver séns að ég geti platað þig til að
 Hvað gerðist svo?
 Klukkan er of margt.
 Það er allt of seint.
-Við hvað vinnurðu?
 Ég vinn sem ...
 Hafðu engar áhyggjur af því.
 fyrifram
@@ -80,7 +68,6 @@ Einmitt!, Nákvæmlega!, Akkúrat!
 Það er mánuður síðan.
 Að eiga von á ..
 Ég ætla að horfa á margar myndir.
-að ferðast
 Ég skal sjá um það.
 Ég er ekkert sérstaklega mikið fyrir te.
 að klára
@@ -99,8 +86,6 @@ bjóða upp á
 þrýstingur
 Mér þykir leitt að hafa ekki komið.
 Fæ ég að hringja hjá þér?
-risi	a giant
-risastór	gigantic, huge
 Ég kemst ekki inn.
 Hvað þarftu marga?
 Það er ekkert eftir.
@@ -579,21 +564,19 @@ Allt í góðu mín vegna.
 Af engri ástæðu
 Skamma stund
 An gríns
-Mér er alveg sama.
 Að bregðast við, brást við
 Ég kem með rúnstykki
 Sitt lítið af hverju
 Komdu þér fyrir
 Að segja upp
 Honum var sagt upp
-Æðislegt!
+
 Hvort eð er
 Mikið var!
 Að reyna við
 Vissirðu af þessu?
 Hann bað mig um það.
 Eg ætlast til þess
-Numer eitt
 Að brjota saman
 Fara ut hinum megin
 Óánægður
@@ -632,13 +615,9 @@ að taka þátt
 að fá að gera eitthvað
 
 að finna fyrir
-innan í
-utan á
-ofan á
-undir = below
 fyrir neðan (er það sama og undir?)
-af 
-íþróttir
+af
+
 svekktur
 stjórna vs stýra
 mundi vs munaði
@@ -670,7 +649,4 @@ eitt ár í viðbót = one more year
 Gefstu upp?
 eitthvað annað
 akkúrat is only an interjection
-pláss
 er það ekki?
-
-Ætlarðu að vera lengi?

@@ -18,101 +18,97 @@ reviewed: no
 **{{link with percentage|Egils_saga/Veisla_hjá_afa|Egils saga – Veisla hjá afa}} <!--– 270 words-->
 **{{link with percentage|Strætó}} <!--– 160 words-->
 **{{link with percentage|Garðvinna}} <!--– 80 words-->
-<!--**[[Text/Milk|Mjólk]] – 30 words
-**[[Text:Eiríkur dansar|Dans]] – 9 words-->
-<!-- **[[Conversations/Prentari|Prentari]] 💬
-**[[Conversations/Winter|Vetur]] 💬 -->
 *Tweets
-**[[Tweets/Rannveig Dóra/Matur|Matur]] by Rannveig Dóra
+**{{link with percentage|Tweets/Rannveig Dóra/Matur|Matur|<!-- x -->by Rannveig Dóra}}
 
 ## [[A2]]
 
 *General
-**[[Harðfiskur]] – 135 words
-**[[Fóstbræður]] – 70 words
-**[[Bláa lónið]] – 180 words
-**[[Vestmannaeyjar]] – 90 words
+**{{link with percentage|Harðfiskur||<!-- x -->– 135 words}}
+**{{link with percentage|Fóstbræður||<!-- x -->– 70 words}}
+**{{link with percentage|Bláa lónið||<!-- x -->– 180 words}}
+**{{link with percentage|Vestmannaeyjar||<!-- x -->– 90 words}}
 *Videos
-**[[Villi Neto/Finnland|Finnland]] by Villi Neto
-**[[Villi Neto/Lýsi|Lýsi]] by Villi Neto
-**[[Villi Neto/Fullt nafn|Fullt nafn]] by Villi Neto
-**[[Villi Neto/Kaffi|Kaffi]] by Villi Neto
+**{{link with percentage|Villi Neto/Finnland|Finnland|<!-- x -->by Villi Neto}}
+**{{link with percentage|Villi Neto/Lýsi|Lýsi|<!-- x -->by Villi Neto}}
+**{{link with percentage|Villi Neto/Fullt nafn|Fullt nafn|<!-- x -->by Villi Neto}}
+**{{link with percentage|Villi Neto/Kaffi|Kaffi|<!-- x -->by Villi Neto}}
 *Tweets
-**[[Tweets/Branddís/Köttur|Köttur]] by Branddís
-**[[Tweets/Ása/Íslenskar bíómyndir|Íslenskar bíómyndir]] by Ása
-**[[Tweets/Imba/Afgreiðslustörf|Afgreiðslustörf]] by Imba
+**{{link with percentage|Tweets/Branddís/Köttur|Köttur|<!-- x -->by Branddís}}
+**{{link with percentage|Tweets/Ása/Íslenskar bíómyndir|Íslenskar bíómyndir|<!-- x -->by Ása}}
+**{{link with percentage|Tweets/Imba/Afgreiðslustörf|Afgreiðslustörf|<!-- x -->by Imba}}
 
 ## [[B1]]
 
-*[[Lúpína]] – 215 words
-*[[Lopapeysa ]] – 125 words
-*[[Nafn Vestmannaeyja ]] – 100 words
-*[[Brennu-Njáls_saga/Höskuldur_og_brennan|Brennu-Njáls saga – Höskuldur og brennan]] – 2200 words
+*{{link with percentage|Lúpína||<!-- x -->– 215 words}}
+*{{link with percentage|Lopapeysa ||<!-- x -->– 125 words}}
+*{{link with percentage|Nafn Vestmannaeyja ||<!-- x -->– 100 words}}
+*{{link with percentage|Brennu-Njáls_saga/Höskuldur_og_brennan|Brennu-Njáls saga – Höskuldur og brennan|<!-- x -->– 2200 words}}
 *Articles
-**[[Blær/Vinkonur vors og blóma|''Vinkonur vors og blóma'']] by Blær
-**[[Blær/Silfur svanurinn|''Silfur svanurinn'']] by Blær
+**{{link with percentage|Blær/Vinkonur vors og blóma|''Vinkonur vors og blóma''|<!-- x -->by Blær}}
+**{{link with percentage|Blær/Silfur svanurinn|''Silfur svanurinn''|<!-- x -->by Blær}}
 *Videos
-**[[Villi Neto/Reiður á innsoginu|Reiður á innsoginu]] by Villi Neto
-**[[Villi Neto/Íslendingar í sólarlöndum|Íslendingar í sólarlöndum]] by Villi Neto
-**[[Villi Neto/Íslenskar myndir|Íslenskar myndir]] by Villi Neto
+**{{link with percentage|Villi Neto/Reiður á innsoginu|Reiður á innsoginu|<!-- x -->by Villi Neto}}
+**{{link with percentage|Villi Neto/Íslendingar í sólarlöndum|Íslendingar í sólarlöndum|<!-- x -->by Villi Neto}}
+**{{link with percentage|Villi Neto/Íslenskar myndir|Íslenskar myndir|<!-- x -->by Villi Neto}}
 *Tweets
-**[[Tweets/Benedikt/Yfirmaður|Yfirmaður]] by Benedikt
-**[[Tweets/Kristín Ólafs/Unglingar|Unglingar]] by Kristín Ólafs
-**[[Tweets/Kristín Ólafs/Slúður|Slúður]] by Kristín Ólafs
-**[[Tweets/Imba/Þjóðverjar|Þjóðverjar]] by Imba
+**{{link with percentage|Tweets/Benedikt/Yfirmaður|Yfirmaður|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Kristín Ólafs/Unglingar|Unglingar|<!-- x -->by Kristín Ólafs}}
+**{{link with percentage|Tweets/Kristín Ólafs/Slúður|Slúður|<!-- x -->by Kristín Ólafs}}
+**{{link with percentage|Tweets/Imba/Þjóðverjar|Þjóðverjar|<!-- x -->by Imba}}
 *Poems
-**[[Imba/afi|''afi'']] by Imba
-**[[Imba/current_mood|''current mood'']] by Imba
+**{{link with percentage|Imba/afi|''afi''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/current_mood|''current mood''|<!-- x -->by Imba}}
 
 ## [[B2]]
 
 *General
-**[[Þúfa]] – 215 words
+**{{link with percentage|Þúfa||<!-- x -->– 215 words}}
 *Articles
-**[[Magnús Jochum Pálsson/Pípulækningar|''Pípulækningar'']] by Magnús Jochum
-**[[Magnús Jochum Pálsson/Ánamaðkar|''Ánamaðkar'']] by Magnús Jochum
-**[[Blær/Egg í áskrift|''Egg í áskrift'']] by Blær
-**[[Blær/Fyrst við erum hérna|''Fyrst við erum hérna'']] by Blær
-**[[Blær/LungA|''LungA'']] by Blær
+**{{link with percentage|Magnús Jochum Pálsson/Pípulækningar|''Pípulækningar''|<!-- x -->by Magnús Jochum}}
+**{{link with percentage|Magnús Jochum Pálsson/Ánamaðkar|''Ánamaðkar''|<!-- x -->by Magnús Jochum}}
+**{{link with percentage|Blær/Egg í áskrift|''Egg í áskrift''|<!-- x -->by Blær}}
+**{{link with percentage|Blær/Fyrst við erum hérna|''Fyrst við erum hérna''|<!-- x -->by Blær}}
+**{{link with percentage|Blær/LungA|''LungA''|<!-- x -->by Blær}}
 *Poems
-**[[Sofðu unga ástin mín|''Sofðu unga ástin mín'']] by Jóhann Sigurjónsson
-**[[Imba/ég veit|''ég veit'']] by Imba
-**[[Imba/grip|''grip'']] by Imba
+**{{link with percentage|Sofðu unga ástin mín|''Sofðu unga ástin mín''|<!-- x -->by Jóhann Sigurjónsson}}
+**{{link with percentage|Imba/ég veit|''ég veit''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/grip|''grip''|<!-- x -->by Imba}}
 *Videos
-**[[Villi Neto/Bubbi|Bubbi]] by Villi Neto
-**[[Villi Neto/Skata|Skata]] by Villi Neto
+**{{link with percentage|Villi Neto/Bubbi|Bubbi|<!-- x -->by Villi Neto}}
+**{{link with percentage|Villi Neto/Skata|Skata|<!-- x -->by Villi Neto}}
 *Tweets
-**[[Tweets/Ása/Kettir|Kettir]] by Ása
-**[[Tweets/Ása/Sund|Sund]] by Ása
-**[[Tweets/Ása/Ormurinn|Ormurinn]] by Ása
-**[[Tweets/Ása/Stjörnur|Stjörnur]] by Ása
-**[[Tweets/Branddís/Borðaraðir|Borðaraðir]] by Branddís
-**[[Tweets/Branddís/Danmörk|Danmörk]] by Branddís
-**[[Tweets/Branddís/Crossfit|Crossfit]] by Branddís
-**[[Tweets/Branddís/Mössuð|Mössuð]] by Branddís
-**[[Tweets/Benedikt/Ingólfur|Ingólfur]] by Benedikt
-**[[Tweets/Benedikt/Draumsýn|Draumsýn]] by Benedikt
-**[[Tweets/Benedikt/Blundur|Blundur]] by Benedikt
-**[[Tweets/Benedikt/Slydda|Slydda]] by Benedikt
-**[[Tweets/Benedikt/Hreimur|Hreimur]] by Benedikt
-**[[Tweets/Benedikt/Ber|Ber]] by Benedikt
-**[[Tweets/Ólafur/Ólæs|Ólæs]] by Ólafur
-**[[Tweets/Þorsteinn/Afi|Afi]] by Þorsteinn
-**[[Tweets/Imba/Rok|Rok]] by Imba
+**{{link with percentage|Tweets/Ása/Kettir|Kettir|<!-- x -->by Ása}}
+**{{link with percentage|Tweets/Ása/Sund|Sund|<!-- x -->by Ása}}
+**{{link with percentage|Tweets/Ása/Ormurinn|Ormurinn|<!-- x -->by Ása}}
+**{{link with percentage|Tweets/Ása/Stjörnur|Stjörnur|<!-- x -->by Ása}}
+**{{link with percentage|Tweets/Branddís/Borðaraðir|Borðaraðir|<!-- x -->by Branddís}}
+**{{link with percentage|Tweets/Branddís/Danmörk|Danmörk|<!-- x -->by Branddís}}
+**{{link with percentage|Tweets/Branddís/Crossfit|Crossfit|<!-- x -->by Branddís}}
+**{{link with percentage|Tweets/Branddís/Mössuð|Mössuð|<!-- x -->by Branddís}}
+**{{link with percentage|Tweets/Benedikt/Ingólfur|Ingólfur|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Benedikt/Draumsýn|Draumsýn|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Benedikt/Blundur|Blundur|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Benedikt/Slydda|Slydda|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Benedikt/Hreimur|Hreimur|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Benedikt/Ber|Ber|<!-- x -->by Benedikt}}
+**{{link with percentage|Tweets/Ólafur/Ólæs|Ólæs|<!-- x -->by Ólafur}}
+**{{link with percentage|Tweets/Þorsteinn/Afi|Afi|<!-- x -->by Þorsteinn}}
+**{{link with percentage|Tweets/Imba/Rok|Rok|<!-- x -->by Imba}}
 
 ## [[C1]]
 
 *Videos
-**[[Villi Neto/Forníslenski sjomlinn|Forníslenski sjomlinn]] by Villi Neto
+**{{link with percentage|Villi Neto/Forníslenski sjomlinn|Forníslenski sjomlinn|<!-- x -->by Villi Neto}}
 *Poems
-**[[Imba/áferð og flug|''áferð og flug'']] by Imba
-**[[Jónas Hallgrímsson/Ásta/1|''Ásta'']] by Jónas Hallgrímsson
-**[[Sveinbjörn Egilsson/Bí bí og blaka|''Bí bí og blaka'']] by Sveinbjörn Egilsson
-**''[[Vísur Vatnsenda-Rósu]]''
-**''[[Sitji guðs englar]]''
+**{{link with percentage|Imba/áferð og flug|''áferð og flug''|<!-- x -->by Imba}}
+**{{link with percentage|Jónas Hallgrímsson/Ásta/1|''Ásta''|<!-- x -->by Jónas Hallgrímsson}}
+**{{link with percentage|Sveinbjörn Egilsson/Bí bí og blaka|''Bí bí og blaka''|<!-- x -->by Sveinbjörn Egilsson}}
+**{{link with percentage|Vísur Vatnsenda-Rósu|''Vísur Vatnsenda-Rósu''}}
+**{{link with percentage|Sitji guðs englar|''Sitji guðs englar''}}
 *Tweets
-**[[Tweets/Imba/Ligeglad|Ligeglad]] by Imba
-**[[Tweets/Þorsteinn/Alþingi|Alþingi]] by Þorsteinn
-**[[Tweets/Ása/Sjófánar|Sjófánar]] by Ása<!--{{needs audio}}-->
+**{{link with percentage|Tweets/Imba/Ligeglad|Ligeglad|<!-- x -->by Imba}}
+**{{link with percentage|Tweets/Þorsteinn/Alþingi|Alþingi|<!-- x -->by Þorsteinn}}
+**{{link with percentage|Tweets/Ása/Sjófánar|Sjófánar|<!-- x -->by Ása<!--{{needs audio}}-->}}
 </TOC>
 <!-- {{Mailchimp}} -->
