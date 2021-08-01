@@ -8698,10 +8698,11 @@ rows:
   - icelandic: franskar kartöflur
     english: French fries
     lemmas: franskur, kartafla
-    level: 1
+    level: 2
+    note: Often simply shortened to "franskar".
     literally: French potatoes
     row_id: 1487
-    last_seen: "2021-07-09"
+    last_seen: "2021-08-01"
   - icelandic: allt *í lagi*
     english: all right; okay
     lemmas: allur
@@ -10514,12 +10515,12 @@ rows:
     level: 2
     row_id: 1784
     last_seen: "2021-07-29"
-  - icelandic: allavega
+  - icelandic: allavega; allavegana
     english: anyway; anyhow; in any case
     depends_on: allur, vegur
     level: 1
     row_id: 1785
-    last_seen: "2021-07-29"
+    last_seen: "2021-08-01"
   - icelandic: hvorki ... né
     english: neither .... nor
     alternative_id: hvori né, hvorki, né
@@ -13602,10 +13603,383 @@ rows:
   - icelandic: r%étt á%ðan
     english: just a moment ago
     depends_on: áðan
+    alternative_id: r%étt á%ðan
     level: 3
     note: "\"Rétt\" here is an adverb meaning \"only / just barely\"."
     row_id: 2323
-    last_seen: "2021-07-31"
+    last_seen: "2021-08-01"
+  - icelandic: Einhverjar athugasemdir?
+    english: Any comments?
+    lemmas: athugasemd%
+    depends_on: að athuga, athygli
+    level: 3
+    row_id: 2324
+    last_seen: "2021-08-01"
+  - icelandic: v*eitingastaður
+    english: a restaurant
+    level: 3
+    note: It is also quite common to simply use the word "restaurant" in spoken Icelandic.
+    row_id: 2325
+    last_seen: "2021-08-01"
+  - icelandic: lyfið
+    english: the medication
+    lemmas: lyf%
+    alternative_id: lyf
+    level: 3
+    row_id: 2326
+    last_seen: "2021-08-01"
+  - icelandic: Ég get ekki kvartað.
+    english: I can't complain.
+    lemmas: að geta, að kvarta%
+    level: 3
+    row_id: 2327
+    last_seen: "2021-08-01"
+  - icelandic: plastið
+    english: the plastic
+    lemmas: plast%
+    level: 3
+    row_id: 2328
+    last_seen: "2021-08-01"
+  - icelandic: Ég get komið hvenær sem er.
+    english: I can come whenever.; I can come any time.
+    alternative_id: hvenær sem er
+    level: 3
+    row_id: 2329
+    last_seen: "2021-08-01"
+  - icelandic: áin
+    english: the river
+    lemmas: á
+    level: 2
+    row_id: 2330
+    last_seen: "2021-08-01"
+  - icelandic: árnar
+    english: the rivers
+    lemmas: á
+    depends_on: áin
+    level: 3
+    row_id: 2331
+    last_seen: "2021-08-01"
+  - icelandic: l*ækur
+    english: a small river; a stream
+    level: 3
+    dont_confuse: læknir
+    row_id: 2332
+    last_seen: "2021-08-01"
+  - icelandic: fjallið
+    english: the mountain
+    lemmas: fjall%
+    alternative_id: fjall
+    level: 2
+    row_id: 2333
+    last_seen: "2021-08-01"
+  - icelandic: skýið
+    english: the cloud
+    lemmas: ský%
+    alternative_id: ský
+    level: 3
+    dont_confuse: himinn
+    row_id: 2334
+    last_seen: "2021-08-01"
+  - icelandic: sængin
+    english: the duvet
+    lemmas: sæng%
+    alternative_id: sæng
+    level: 3
+    note_regarding_english: A duvet is a thick sheet similar to a comforter that is filled with feathers. You sleep under it at night to keep you warm.
+    row_id: 2335
+    last_seen: "2021-08-01"
+  - icelandic: rúmið
+    english: the bed
+    lemmas: rúm%
+    level: 3
+    pronunciation: rúmmið
+    row_id: 2336
+    last_seen: "2021-08-01"
+  - icelandic: k*oddinn
+    english: the pillow
+    lemmas: koddi%
+    level: 3
+    row_id: 2337
+    last_seen: "2021-08-01"
+  - icelandic: að endast
+    english: to last _(for a long time)_; to be durable
+    depends_on: að enda
+    level: 3
+    row_id: 2338
+    last_seen: "2021-08-01"
+  - icelandic: stærðin
+    english: the size
+    lemmas: stærð%
+    level: 3
+    row_id: 2339
+    last_seen: "2021-08-01"
+  - icelandic: stærðfræði
+    english: mathematics
+    depends_on: stærð
+    level: 3
+    literally: study of size
+    row_id: 2340
+    last_seen: "2021-08-01"
+  - icelandic: að steikja
+    english: "to roast; to fry (n: on a pan)"
+    depends_on: steik
+    level: 3
+    row_id: 2341
+    last_seen: "2021-08-01"
+  - icelandic: Ég er að st%eikjast ú%r h%ita.
+    english: I'm uncomfortably hot.; I feel as if I am being roasted from _(this)_ heat.
+    lemmas: að steikjast%, hiti
+    depends_on: að steikja
+    level: 3
+    note: "\"Að steikjast\" is to become fried / roasted."
+    row_id: 2342
+    last_seen: "2021-08-01"
+  - icelandic: ég bakaði
+    english: I baked
+    lemmas: að baka%
+    level: 2
+    row_id: 2343
+    last_seen: "2021-08-01"
+  - icelandic: ofninn
+    english: the oven;; the radiator
+    lemmas: ofn%
+    level: 3
+    row_id: 2344
+    last_seen: "2021-08-01"
+  - icelandic: löggan
+    english: "the police officer;; the cops; the police (n: colloquial)"
+    lemmas: lögga%
+    depends_on: lögregla, lögreglumaður
+    level: 3
+    note: Short for "lögreglan".
+    note_regarding_english: can
+    row_id: 2345
+    last_seen: "2021-08-01"
+  - icelandic: lögreglumaður
+    english: a police officer
+    depends_on: lögregla
+    level: 3
+    row_id: 2346
+    last_seen: "2021-08-01"
+  - icelandic: nærbuxurnar
+    english: the underpants; the underwear
+    lemmas: nærbuxur%
+    depends_on: nær, buxur
+    level: 3
+    literally: nearer-pants
+    row_id: 2347
+    last_seen: "2021-08-01"
+  - icelandic: brjóstahaldarinn
+    english: the bra
+    lemmas: brjóstahaldari%
+    depends_on: brjóst, að halda
+    level: 3
+    literally: breast holder
+    row_id: 2348
+    last_seen: "2021-08-01"
+  - icelandic: námskeiðið
+    english: the _(educational)_ course
+    lemmas: námskeið%
+    depends_on: nám, nemandi
+    alternative_id: námskeið
+    level: 2
+    literally: the period of studies
+    row_id: 2349
+    last_seen: "2021-08-01"
+  - icelandic: að hósta
+    english: to cough
+    level: 3
+    row_id: 2350
+    last_seen: "2021-08-01"
+  - icelandic: að hnerra
+    english: to sneeze
+    level: 3
+    row_id: 2351
+    last_seen: "2021-08-01"
+  - icelandic: skærin
+    english: scissors
+    lemmas: skæri%
+    depends_on: að skera
+    level: 3
+    note: A plural neuter noun.
+    row_id: 2352
+    last_seen: "2021-08-01"
+  - icelandic: að skera
+    english: to cut; to slice
+    level: 3
+    row_id: 2353
+    last_seen: "2021-08-01"
+  - icelandic: yfirmaðurinn minn
+    english: my boss; my supervisor
+    lemmas: yfirmaður%
+    depends_on: yfir, maður
+    level: 2
+    literally: over-person
+    row_id: 2354
+    last_seen: "2021-08-01"
+  - icelandic: starfsmaður
+    english: an employee
+    depends_on: starf
+    level: 2
+    row_id: 2355
+    last_seen: "2021-08-01"
+  - icelandic: þjónninn
+    english: the waiter
+    lemmas: þjónn%
+    level: 2
+    row_id: 2356
+    last_seen: "2021-08-01"
+  - icelandic: á fyrstu hæð
+    english: on the first floor
+    lemmas: hæð
+    level: 3
+    row_id: 2357
+    last_seen: "2021-08-01"
+  - icelandic: launin
+    english: the wages; the salary
+    lemmas: laun%
+    level: 3
+    row_id: 2358
+    last_seen: "2021-08-01"
+  - icelandic: Við förum '''þá''' bara tveir.
+    english: "'''Then''' we will just go∆ the two of us.; '''In that case''' the two of us will just be the one's going."
+    depends_on: þá
+    level: 3
+    note_regarding_english: Describing two males.
+    row_id: 2359
+    last_seen: "2021-08-01"
+  - icelandic: ég held að ég sé
+    english: I think that I am
+    lemmas: að halda, að vera
+    level: 3
+    row_id: 2360
+    last_seen: "2021-08-01"
+  - icelandic: ég hélt að ég væri
+    english: I thought I was
+    lemmas: að halda, að vera
+    level: 3
+    row_id: 2361
+    last_seen: "2021-08-01"
+  - icelandic: sko
+    level: 2
+    row_id: 2362
+    last_seen: "2021-08-01"
+  - icelandic: kl.
+    fix: kenna
+    row_id: 2363
+    last_seen: "2021-08-01"
+  - icelandic: Ég kem klukkan tvö.
+    english: I will come at two o'clock.
+    lemmas: að koma, klukkan, tveir
+    depends_on: klukka
+    level: 1
+    row_id: 2364
+    last_seen: "2021-08-01"
+  - icelandic: klukka
+    english: a clock
+    level: 1
+    row_id: 2365
+    last_seen: "2021-08-01"
+  - icelandic: Þú varst upptekinn þá.
+    english: You were busy at that time.
+    lemmas: að segja, þá%
+    alternative_id: þá
+    level: 2
+    note: "\"Þá\" (then) can mean \"at that time\" or \"in that case\"."
+    note_regarding_english: Speaking to a male.
+    row_id: 2366
+    last_seen: "2021-08-01"
+  - icelandic: Þ%á þ*arft{{u}}* pening.
+    english: Then you're going to need money.; In that case you're going to need money.
+    lemmas: að þurfa, peningur
+    depends_on: þá
+    level: 2
+    row_id: 2367
+    last_seen: "2021-08-01"
+  - icelandic: Ég heyri '''þá''' bara í þér seinna.
+    english: I'll just hear from you later∆ then.; In that case I'll just hear from you later.
+    lemmas: að heyra
+    level: 2
+    row_id: 2368
+    last_seen: "2021-08-01"
+  - icelandic: J%æja.
+    english: All righty then.; Well then!
+    level: 2
+    row_id: 2369
+    last_seen: "2021-08-01"
+  - icelandic: Ég hef það f%ínt.
+    english: I'm doing fine.; I'm good.
+    lemmas: að hafa, fínn
+    level: 1
+    note: Used when someone asks "How have you been recently?"
+    row_id: 2370
+    last_seen: "2021-08-01"
+  - icelandic: v%oða m%ikið
+    english: "an awful lot; very much (n: informal)"
+    alternative_id: voða, voðalega
+    level: 3
+    row_id: 2371
+    last_seen: "2021-08-01"
+  - icelandic: Já∆ e*ndilega.
+    english: Yes∆ by all means.; Yes∆ sure∆ that's a great idea.
+    alternative_id: endilega
+    level: 3
+    row_id: 2372
+    last_seen: "2021-08-01"
+  - icelandic: ei*nmitt
+    english: exactly
+    level: 2
+    row_id: 2373
+    last_seen: "2021-08-01"
+  - icelandic: Bíddu!
+    english: Wait!
+    lemmas: að bíða
+    level: 2
+    note_regarding_english: "{{bhet}}"
+    row_id: 2374
+    last_seen: "2021-08-01"
+  - icelandic: ja%mm
+    english: yup; yes
+    depends_on: já
+    level: 3
+    note_regarding_english: A colloquial way of saying "yes", used mainly by younger speaker.
+    row_id: 2375
+    last_seen: "2021-08-01"
+  - icelandic: neibb
+    english: nope
+    depends_on: nei
+    level: 3
+    note_regarding_english: A colloquial way of saying "no", used mainly by younger speaker.
+    row_id: 2376
+    last_seen: "2021-08-01"
+  - icelandic: æfingin
+    english: the exercise;; the practice
+    lemmas: æfing%
+    depends_on: að æfa
+    level: 2
+    row_id: 2377
+    last_seen: "2021-08-01"
+  - icelandic: í fyrramálið
+    english: tomorrow morning
+    lemmas: fyrramál%
+    depends_on: í fyrra
+    alternative_id: fyrramálið
+    level: 2
+    row_id: 2378
+    last_seen: "2021-08-01"
+  - icelandic: Hlustarðu á '''s*voleiðis''' tónlist?
+    english: Do you listen to '''that kind of''' music?
+    level: 3
+    note: "\"Svoleiðis\" means \"that kind of stuff\"/\"stuff that manner\"."
+    row_id: 2379
+    last_seen: "2021-08-01"
+  - icelandic: Það er sniðugt.
+    english: That's clever.
+    lemmas: sniðugur%
+    alternative_id: sniðugt
+    level: 2
+    row_id: 2380
+    last_seen: "2021-08-01"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

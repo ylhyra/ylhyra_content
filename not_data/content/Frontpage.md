@@ -9,8 +9,6 @@ classes:
 - sans-serif
 - brown-screen
 ---
-<Frontpage/>
-{{spacer|10}}
 <!-- <div style="
   background: #f09f9f;
   padding: 8px 12px;
@@ -18,23 +16,46 @@ classes:
   border-radius: 5px;">
 This is a testing site for the next version of Ylhýra. It contains some bugs and non-functioning links.
 </div> -->
+
+<div id="frontpage-screen">
+{{spacer|10}}
+<h1>An accessible way <br/>to learn Icelandic</h1>
+{{spacer|5}}
+<Frontpage/>
+{{spacer|10}}
+
+<h3>[[text|Read]]</h3>
 <div id="frontpage-splash-screen">
 <div id="frontpage-splash-screen-english">
-{{Text:Ylhýra}} is a collection of Icelandic texts where translations are shown for each word and sentence.
+<span class="underline_links">{{Text:Ylhýra}}</span> includes a [[texts|collection of Icelandic texts]] where translations are shown for each word and sentence.
 </div>
-<!--<noscript><xxImage src="Ylhyra demo.gif" width="402"/></noscript>-->
+{{spacer|20}}
 <div id="frontpage-splash-screen-demo">
 {{Text:Demo}}
 </div>
 </div>
-Spaced repetition
+{{spacer|10}}
 
-Course
+<h3>[[Vocabulary]]</h3>
 
+Our simple [[vocabulary|flashcard game]] uses spaced repetition to assist you in building a deeper active vocabulary. Intended to be be used daily, the game’s 2,000 words and sentences focus on giving you a feel for idiomatic language use and grammar.  Includes 400 audio recordings.
+{{spacer|10}}
 
+<h3>[[Course]]</h3>
 
+A [[course|course for beginners]].
 
+---
 
+<div class="frontpage-pricing">
+<h3>Pricing</h3>
+
+Ylhýra is free to use.
+
+[[signup|Creating an account]] allows you to save your vocabulary progress across devices. An account is available on a pay-what-you-want basis — if you wish to pay nothing, you can.
+
+</div>
+</div>
 <!--
 
 Ylhýra is a
