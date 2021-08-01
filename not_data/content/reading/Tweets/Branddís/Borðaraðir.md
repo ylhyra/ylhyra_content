@@ -7,10 +7,26 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+að búa til
+ég bjó til
+plan
+borð
+röð
+háskóli
+bókasafn
+að skiptast á
+að gefa
+að nudda
+axlir
+að ganga
+að ganga ansi illa
+að ná
+almennt
+sáttur
+fyrirkomulag
 </vocabulary>
 <Tweet
-text="Bjó til plan þar sem borðaraðirnar á háskólabókasafninu skiptast á að gefa axlanudd. Gengur ansi illa að ná fram almennri sátt með fyrirkomulagið."
-audio="LdUP.mp3"
+data-translate="true"audio="LdUP.mp3"
 id="823969533950119936"
 date="1485284620000"
 favorites="51"
@@ -18,5 +34,4 @@ user_name="Branddís Ásrún"
 handle="Branddis_Asrun"
 user_picture="Tweet-Branddis_Asrun-vfvk14.jpg"
 verified=""
-></Tweet>
-
+>Bjó til plan þar sem borðaraðirnar á háskólabókasafninu skiptast á að gefa axlanudd. Gengur ansi illa að ná fram almennri sátt með fyrirkomulagið.</Tweet>

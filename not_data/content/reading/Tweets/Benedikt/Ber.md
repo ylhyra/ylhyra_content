@@ -8,11 +8,22 @@ level: C1
 reviewed: no
 ---
 <vocabulary>
+þegar
+árið
+að gera
+að gleyma
+ber
+seinastur
+sumar
+mestur
+sú
+maður
+að muna
+mig minnir
 </vocabulary>
 <Tweet
-text="Þegar árið 2016 er gert upp má ekki gleyma því að berjasprettan seinasta sumar var sú mesta í manna minnum."
-audio="cYmI.mp3
-|photo1=Tweet-forseti2k32-ulgig.jpg"
+data-translate="true"audio="cYmI.mp3"
+photo1="Tweet-forseti2k32-ulgig.jpg"
 id="814138149882437633"
 date="1482940635000"
 favorites="53"
@@ -20,5 +31,4 @@ user_name="Benedikt"
 handle="forseti2k32"
 user_picture="Tweet-forseti2k32-1rhck2j.jpg"
 verified=""
-></Tweet>
-
+>Þegar árið 2016 er gert upp má ekki gleyma því að berjasprettan seinasta sumar var sú mesta í manna minnum.</Tweet>

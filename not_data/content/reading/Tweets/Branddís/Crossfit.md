@@ -7,10 +7,20 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+ég sá
+stelpa
+að nota
+sandpappír
+sigg
+hönd
+ég spurði
+hvort
+ég hélt að ég væri
+svolítið
+grófur
 </vocabulary>
 <Tweet
-text="Sá stelpu í Crossfit nota sandpappír á handsiggið sitt. Spurði hana hvort það væri ekki soldið gróft ahahah"
-audio="GRof.mp3"
+data-translate="true"audio="GRof.mp3"
 id="830106220111474689"
 date="1486747720000"
 favorites="220"
@@ -18,5 +28,4 @@ user_name="Branddís Ásrún"
 handle="Branddis_Asrun"
 user_picture="Tweet-Branddis_Asrun-vfvk14.jpg"
 verified=""
-></Tweet>
-
+>Sá stelpu í Crossfit nota sandpappír á handsiggið sitt. Spurði hana hvort það væri ekki soldið gróft ahahah</Tweet>

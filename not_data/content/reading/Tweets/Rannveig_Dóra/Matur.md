@@ -8,9 +8,14 @@ level: A1
 reviewed: no
 ---
 <vocabulary>
+matur
+tilbúinn
+uppáhalds
+setningin
+lífið
 </vocabulary>
 <Tweet
-audio="aDj5.mp3"
+data-translate="true"audio="aDj5.mp3"
 id="664156211516973056"
 date="1447182154000"
 favorites="5"

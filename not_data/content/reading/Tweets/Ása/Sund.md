@@ -7,10 +7,13 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+hver og einn
+sund
+ferð
+að fæðast
 </vocabulary>
 <Tweet
-text="Hver sundferð er endurfæðing."
-audio="qiQ3.mp3"
+data-translate="true"audio="qiQ3.mp3"
 id="857346862172565506"
 date="1493242395000"
 favorites="7"
@@ -18,5 +21,4 @@ user_name="107 stjórinn"
 handle="asabergny"
 user_picture="Tweet-asabergny-jkfrbo.jpg"
 verified=""
-></Tweet>
-
+>Hver sundferð er endurfæðing.</Tweet>
