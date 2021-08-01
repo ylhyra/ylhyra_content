@@ -18,4 +18,3 @@ title: Template:Tweet
 -->{{#if: {{{photo4|}}}|<Image src="{{{photo4}}}" width="300" link="https://twitter.com/{{{handle}}}/status/{{{id}}}"/>|}}<!--
 --></div><!--
 --></div>
-

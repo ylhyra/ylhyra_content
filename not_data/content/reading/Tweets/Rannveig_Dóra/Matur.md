@@ -10,9 +10,6 @@ reviewed: no
 <vocabulary>
 </vocabulary>
 <Tweet
-text="„Rannveig Dóra, maturinn er tilbúinn“
-
-Uppáhalds setningin mín í lífinu"
 audio="aDj5.mp3"
 id="664156211516973056"
 date="1447182154000"
@@ -21,5 +18,7 @@ user_name="Rannveig Dóra"
 handle="rannveigdora"
 user_picture="Tweet-rannveigdora-1jbr676.jpg"
 verified=""
-></Tweet>
+data-translate="true"
+>„Rannveig Dóra, maturinn er tilbúinn“
 
+Uppáhalds setningin mín í lífinu</Tweet>

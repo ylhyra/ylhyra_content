@@ -11507,10 +11507,10 @@ rows:
     row_id: 1973
     last_seen: "2021-07-30"
   - icelandic: að bjóða
-    english: to invite
+    english: to invite;; to offer
     level: 2
     row_id: 1974
-    last_seen: "2021-07-30"
+    last_seen: "2021-08-01"
   - icelandic: að banna
     english: to forbid
     level: 2
@@ -13979,6 +13979,104 @@ rows:
     alternative_id: sniðugt
     level: 2
     row_id: 2380
+    last_seen: "2021-08-01"
+  - icelandic: sp*ítalinn
+    english: the hospital
+    lemmas: spítali%
+    level: 2
+    note: Ultimately derived from "ho'''spital'''".
+    row_id: 2381
+    last_seen: "2021-08-01"
+  - icelandic: sj*úkrahús
+    english: a hospital
+    depends_on: hús
+    level: 3
+    note: Synonym of "spítali"
+    literally: house for the sick people
+    row_id: 2382
+    last_seen: "2021-08-01"
+  - icelandic: brúðkaupið
+    english: the wedding
+    lemmas: brúðkaup%
+    depends_on: að kaupa
+    level: 3
+    note: Literally "the purchase of a bride"
+    row_id: 2383
+    last_seen: "2021-08-01"
+  - icelandic: kjóllinn
+    english: the dress
+    lemmas: kjóll%
+    level: 3
+    row_id: 2384
+    last_seen: "2021-08-01"
+  - icelandic: pilsið
+    english: the skirt
+    lemmas: pils%
+    level: 4
+    row_id: 2385
+    last_seen: "2021-08-01"
+  - icelandic: trefillinn
+    english: the scarf
+    lemmas: trefill%
+    level: 3
+    row_id: 2386
+    last_seen: "2021-08-01"
+  - icelandic: Ég er með hálsbólgu.
+    english: I have a soar throat.
+    lemmas: hálsbólga%
+    depends_on: bólga, háls
+    level: 3
+    literally: throat inflammation
+    row_id: 2387
+    last_seen: "2021-08-01"
+  - icelandic: að prjóna
+    english: to knit
+    level: 3
+    row_id: 2388
+    last_seen: "2021-08-01"
+  - icelandic: pylsa
+    english: a hot dog
+    alternative_id: pulsa
+    level: 2
+    note: Some prefer the alternative version "p'''u'''lsa". Which variant should be used is a major (but non-serious) point of controversy among Icelanders.
+    row_id: 2389
+    last_seen: "2021-08-01"
+  - icelandic: sinnepið
+    english: the mustard
+    lemmas: sinnep%
+    level: 3
+    row_id: 2390
+    last_seen: "2021-08-01"
+  - icelandic: s$teiktur l$aukur
+    english: dry fried onion; cronions
+    depends_on: að steikja, laukur
+    level: 3
+    note: Used as a condiment on hot dogs.
+    row_id: 2391
+    last_seen: "2021-08-01"
+  - icelandic: tómatsósa
+    english: ketchup; tomato sauce
+    depends_on: tómatur, sósa
+    level: 2
+    row_id: 2392
+    last_seen: "2021-08-01"
+  - icelandic: tómaturinn
+    english: the tomato
+    lemmas: tómatur%
+    level: 2
+    row_id: 2393
+    last_seen: "2021-08-01"
+  - icelandic: bananinn
+    english: the banana
+    lemmas: banani%
+    level: 2
+    row_id: 2394
+    last_seen: "2021-08-01"
+  - icelandic: eplið
+    english: the apple
+    lemmas: epli%
+    level: 2
+    row_id: 2395
     last_seen: "2021-08-01"
 sound:
   - recording_of: níu sinnum
