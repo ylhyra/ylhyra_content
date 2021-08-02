@@ -5,6 +5,11 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+ég get
+ég hef fengið
+fullur
+nafn
+kjaftæði
 </vocabulary>
 {{instagram
 |file=Video by villineto-Bm510Y-HUDD.mp4
@@ -28,4 +33,3 @@ Já...
 }}
 
 }}
-

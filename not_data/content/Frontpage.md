@@ -49,7 +49,7 @@ The [[course|course]] is an explanatory companion to the vocabulary game and cov
 </div>
 <section class="frontpage-pricing">
 <div>
-<h3>Pricing</h3>
+<!-- <h3>Pricing</h3> -->
 
 Ylhýra is free to use, but [[signup|creating an account]] allows you to save your vocabulary progress across devices. An account is available on a pay-what-you-want basis.<!--; the recommended price is 20 U.S. dollars but if you wish to pay nothing, you can.-->
 </div>

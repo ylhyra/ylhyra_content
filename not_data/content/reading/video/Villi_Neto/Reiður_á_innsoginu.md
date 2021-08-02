@@ -5,6 +5,23 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+reiður
+á innsoginu
+ég er
+alltaf
+einn
+að vera með
+börnin
+heima
+ég á að
+að gera
+ha
+einstæður
+faðir
+næstum því
+út af því
+þú ert
+bara
 </vocabulary>
 {{instagram
 |file=Villi Neto – Reiður á innsoginu.mp4
@@ -25,4 +42,3 @@ Og ég er alltaf einn með börnin heima. Hvað á ég að gera? Hvað á ég a�
 }}
 
 }}
-

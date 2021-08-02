@@ -5,6 +5,24 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+kaffið
+ég geri
+sem
+maður
+um daginn
+ég fór
+kaffihús
+hann var
+bara
+svona
+sko
+að mala
+þinn eigin
+baun
+þá
+alveg
+þú hefur
+ég hef fengið
 </vocabulary>
 {{instagram
 |file=Villi Neto – Kaffi.mp4
@@ -22,4 +40,3 @@ reviewed: no
 
 – Hefurðu fengið instantkaffi?
 }}
-

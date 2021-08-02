@@ -5,6 +5,14 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+að vera til
+hér
+ég vil
+pylsa
+eftir
+sund
+góður
+vinir
 </vocabulary>
 {{instagram
 |file=Video by villineto-BtG9s6mg3Mc.mp4
@@ -31,4 +39,3 @@ In this video, Villi imitates a Finnish visiting the swimming pool in Iceland. H
 </div>
 }}
 }}
-

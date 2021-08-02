@@ -5,6 +5,15 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+jæja
+þá
+það er komið að því
+gamall
+góður
+að vera peppaður
+veisla
+við förum
+við borðum
 </vocabulary>
 {{instagram
 |file=Video by villineto-Bru4gz7gSY7.mp4
@@ -31,4 +40,3 @@ reviewed: no
 
 }}
 }}
-

@@ -5,6 +5,58 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+Íslendingar
+sólarlönd
+hvert
+við förum
+morgunmatur
+hiti
+geðveikt
+vel
+sko
+afi
+spænskur
+og
+hvað
+hann heitir
+aftur
+skemmtistaður
+við fórum
+í gær
+þar
+sem
+ég var
+að lemja
+að vera laminn
+við þurfum
+að fara
+þangað
+strákar
+ég held að ég megi
+ekki
+að fara
+út úr
+hús
+ég brenndi
+alveg
+gjörsamlega
+einhver
+búinn
+að sjá
+hattur
+þið eruð
+að fara
+strönd
+heyrðu
+ókei
+ég kem
+eftir
+smá
+ég þarf
+að þrífa
+bara
+hérna
+sólarvörn
 </vocabulary>
 {{instagram
 |file=Villi Neto – Íslendingar í sólarlöndum.mp4
@@ -35,4 +87,3 @@ Eruð þið að fara á ströndina? Heyrðu, ókei, ég kem eftir smá, ég þar
 }}
 
 }}
-

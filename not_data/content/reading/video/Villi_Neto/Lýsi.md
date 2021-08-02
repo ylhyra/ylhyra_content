@@ -5,6 +5,23 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+lýsi
+komdu
+að taka
+mig langar
+mamma
+að langa í
+ógeðslegt
+viss
+þú ert
+alveg
+bíddu
+að vera með
+derhúfa
+
+hjólabretti
+hann er
+gefðu mér þetta
 </vocabulary>
 {{instagram
 |file=VilliNetoLýsi.mp4
@@ -42,4 +59,3 @@ The children's packaging of fish oil contains a character who is cool, has a bas
 }}
 
 }}
-

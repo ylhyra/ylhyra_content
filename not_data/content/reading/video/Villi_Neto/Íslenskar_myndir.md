@@ -5,6 +5,48 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+íslensk
+bíómynd
+mamma
+pabbi
+að vera kominn
+heim
+að voga sér
+að koma heim
+eftir
+sem
+þú gerðir
+ha
+þú sérð
+hvað
+þú ert
+búinn
+að gera
+faðir
+
+elskan mín
+að láta
+svona
+láttu ekki svona
+ég er
+bara
+að vera
+nakinn
+allur
+tími
+að fara
+föt
+systir
+ég veit
+bíddu
+uppi
+skóli
+þú veist
+glæpur
+glæpagengi
+kominn
+til þess að
+að ræna
 </vocabulary>
 {{instagram
 |file=Video by villineto-Bm1QnH2jnci.mp4
@@ -60,4 +102,3 @@ This video is a joke about Icelandic film clichés. All Icelandic films are abou
 }}
 
 }}
-

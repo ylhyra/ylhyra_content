@@ -5,6 +5,37 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+forn
+stoltur
+líkami
+þykkur
+hey
+ég held að ég gæti
+að kalla
+svona
+þruma
+bróðir
+að hlusta
+ekki
+um mann
+hann
+bara
+mjöður
+að verða
+í kvöld
+sko
+við skulum
+að fara
+framar
+röð
+náttúrulega
+mikilvægur
+manneskja
+þunnur
+þynnka
+að fá
+bein
+biti
 </vocabulary>
 {{instagram
 |file=Villi Neto – Forníslenski sjomlinn.mp4
@@ -33,4 +64,3 @@ Vér skulum fara framar í röð, ég er náttúrulega M.M.M., „mjög mikilvæ
 }}
 
 }}
-

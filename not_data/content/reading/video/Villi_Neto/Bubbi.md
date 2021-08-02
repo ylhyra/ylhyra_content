@@ -5,6 +5,12 @@ tags:
 reviewed: no
 ---
 <vocabulary>
+halló
+ég er
+ha
+stál
+hnífur
+merki
 </vocabulary>
 {{instagram
 |file=Video by villineto-BoUBRXViuAQ.mp4
@@ -29,4 +35,3 @@ The joke in this video is that a Mexican version of Bubbi jumps out and sings in
 </div>
 }}
 }}
-
