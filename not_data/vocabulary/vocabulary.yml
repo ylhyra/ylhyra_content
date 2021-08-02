@@ -15942,6 +15942,22 @@ rows:
     pronunciation: fjörtíu
     row_id: 2685
     last_seen: "2021-08-02"
+  - icelandic: að gefa út bók
+    english: to publish a book
+    depends_on: að gefa
+    alternative_id: að gefa út
+    level: 3
+    row_id: 2686
+    last_seen: "2021-08-02"
+  - icelandic: að b$irta g$rein
+    english: to publish an article
+    depends_on: að birtast
+    alternative_id: að birta
+    level: 4
+    dont_confuse: að gefa út
+    note: "\"Að gefa út\" is to publish a standalone work such as a book or a song, while \"að birta\" is to have your work appear in some other publication such as a newspaper. \"Að birta\" is to bring to light, to show."
+    row_id: 2687
+    last_seen: "2021-08-02"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

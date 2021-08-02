@@ -4,6 +4,7 @@ reviewed: no
 ---
 <vocabulary>
 </vocabulary>
+{{Blær styles}}
 {{Blær|http://blaer.is/grein/lunga}}
 
 <div class="book" data-translate=true>
@@ -302,4 +303,3 @@ reviewed: no
 </div>
 
 {{Copyright/Blær}}
-
