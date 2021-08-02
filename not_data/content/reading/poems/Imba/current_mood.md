@@ -7,6 +7,21 @@ level: B1
 reviewed: no
 ---
 <vocabulary>
+straumur
+í gegnum
+sem
+ég hef
+nú þegar
+ég hef gengið
+ég hélt
+ég hélt að ég þyldi
+spænska
+að höndla
+hiti
+tilfinning
+enda
+skandínavískur
+tík
 </vocabulary>
 {{poem|
 '''''current mood'''''
@@ -21,4 +36,3 @@ reviewed: no
 {{line|enda skandinavísk tík}}
 }}
 {{imba}}
-

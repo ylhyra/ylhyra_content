@@ -45,7 +45,13 @@ reviewed: no
 *{{link with percentage|Nafn Vestmannaeyja ||<!-- x -->– 100 words}}
 *{{link with percentage|Brennu-Njáls_saga/Höskuldur_og_brennan|Brennu-Njáls saga – Höskuldur og brennan|<!-- x -->– 2200 words}}
 *Articles
-**{{link with percentage|Blær/Vinkonur vors og blóma|''Vinkonur vors og blóma''|<!-- x -->by Blær}}
+**''Vinkonur vors og blóma'' <!-- x -->by Blær
+***{{link with percentage|Blær/Vinkonur vors og blóma/1|Part 1}}
+***{{link with percentage|Blær/Vinkonur vors og blóma/2|Part 2}}
+***{{link with percentage|Blær/Vinkonur vors og blóma/3|Part 3}}
+***{{link with percentage|Blær/Vinkonur vors og blóma/4|Part 4}}
+***{{link with percentage|Blær/Vinkonur vors og blóma/5|Part 5}}
+***{{link with percentage|Blær/Vinkonur vors og blóma/6|Part 6}}
 **{{link with percentage|Blær/Silfur svanurinn|''Silfur svanurinn''|<!-- x -->by Blær}}
 *Videos
 **{{link with percentage|Villi Neto/Reiður á innsoginu|Reiður á innsoginu|<!-- x -->by Villi Neto}}

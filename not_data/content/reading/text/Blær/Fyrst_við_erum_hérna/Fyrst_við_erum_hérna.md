@@ -12,7 +12,7 @@ reviewed: no
 
 <div class="book" data-translate=true data-audio-file="Fyrst_við_erum_hérna.mp3">
 {{center|<Audio src="Fyrst_við_erum_hérna.mp3"/>}}
-<html>
+
 <div class="blaer article">
 <div class="post-header">
   <div id="post-header-text" class="header-text">
@@ -365,7 +365,7 @@ reviewed: no
   </div>
 </div>
 </div>
-</html>
+
 </div>
 {{Copyright/Blær}}
 

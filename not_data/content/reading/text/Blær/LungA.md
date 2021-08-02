@@ -8,7 +8,7 @@ reviewed: no
 {{Blær|http://blaer.is/grein/lunga}}
 
 <div class="book" data-translate=true>
-<html>
+
 <div class="blaer article">
   <div class="post-header">
     <div id="post-header-text" class="header-text">
@@ -19,7 +19,7 @@ reviewed: no
 
   <div class="article-entry">
     <div data-no-audio class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_35177.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_35177.jpeg" width="800"/>
     </div>
   </div>
 
@@ -29,7 +29,7 @@ reviewed: no
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_72077.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_72077.jpeg" width="800"/>
       <p class="description">Aðsend mynd</p>
     </div>
 
@@ -48,7 +48,7 @@ reviewed: no
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_26295.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_26295.jpeg" width="800"/>
     </div>
 
     <div class="text">
@@ -74,207 +74,207 @@ reviewed: no
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_24797.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_24797.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_48757.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_48757.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_89954.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_89954.jpeg" width="800"/>
     </div>
 
     <div class="images-two-up">
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_81409.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_81409.jpeg" width="800"/>
       </div>
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_82330.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_82330.jpeg" width="800"/>
       </div>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_74277.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_74277.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_25211.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_25211.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_58446.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_58446.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_34407.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_34407.jpeg" width="800"/>
     </div>
 
     <div class="images-two-up">
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_86325.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_86325.jpeg" width="800"/>
       </div>
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_96597.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_96597.jpeg" width="800"/>
       </div>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_70494.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_70494.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_45176.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_45176.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_34482.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_34482.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_91168.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_91168.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_23199.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_23199.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_50546.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_50546.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_27594.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_27594.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_88840.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_88840.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_42883.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_42883.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_33215.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_33215.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_37573.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_37573.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_46117.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_46117.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_26290.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_26290.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_59603.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_59603.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_48353.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_48353.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_41579.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_41579.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_79436.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_79436.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
 
       <video poster="/assets/images/Screen-Shot-2014-07-29-at-19.55.34-copy.jpg" autoplay loop muted>
-<source src="https://ylhyra.is/Special:Filepath/Blær_–_Lunga_86080.webm" type="video/webm">
-<source src="https://ylhyra.is/Special:Filepath/Blær_–_Lunga_42799.mp4" type="video/mp4">
+<source src="/api/content?title=File:Blær_–_Lunga_86080.webm" type="video/webm">
+<source src="/api/content?title=File:Blær_–_Lunga_42799.mp4" type="video/mp4">
 </video>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_68860.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_68860.jpeg" width="800"/>
     </div>
 
     <div class="images-two-up">
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_19176.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_19176.jpeg" width="800"/>
       </div>
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_65019.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_65019.jpeg" width="800"/>
       </div>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_4432.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_4432.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
 
       <video poster="/assets/images/Screen-Shot-2014-07-29-at-19.59.50-copy.jpg" autoplay loop muted>
-<source src="https://ylhyra.is/Special:Filepath/Blær_–_Lunga_94064.webm" type="video/webm">
-<source src="https://ylhyra.is/Special:Filepath/Blær_–_Lunga_24685.mp4" type="video/mp4">
+<source src="/api/content?title=File:Blær_–_Lunga_94064.webm" type="video/webm">
+<source src="/api/content?title=File:Blær_–_Lunga_24685.mp4" type="video/mp4">
 </video>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_25943.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_25943.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_86234.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_86234.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_22042.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_22042.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_20465.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_20465.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_74298.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_74298.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_67549.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_67549.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_29594.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_29594.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_15382.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_15382.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_51648.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_51648.jpeg" width="800"/>
     </div>
 
     <div class="images-two-up">
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_91491.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_91491.jpeg" width="800"/>
       </div>
       <div class="image-box image-box-half">
-        </html><Image src="Blær_–_Lunga_37872.jpeg" width="800"/><html>
+        <Image src="Blær_–_Lunga_37872.jpeg" width="800"/>
       </div>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_30304.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_30304.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-large">
-      </html><Image src="Blær_–_Lunga_92785.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_92785.jpeg" width="800"/>
     </div>
 
     <div class="image-box image-box-medium">
-      </html><Image src="Blær_–_Lunga_64949.jpeg" width="800"/><html>
+      <Image src="Blær_–_Lunga_64949.jpeg" width="800"/>
     </div>
 
   </div>
@@ -299,7 +299,7 @@ reviewed: no
   </div>
 
 </div>
-</html>
+
 </div>
 
 {{Copyright/Blær}}

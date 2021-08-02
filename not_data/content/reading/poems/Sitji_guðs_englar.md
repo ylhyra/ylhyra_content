@@ -8,6 +8,18 @@ license: CC0
 reviewed: no
 ---
 <vocabulary>
+vertu
+nú
+yfir
+í kringum
+eilífur
+blessun
+ég held að ég sitji
+Guð
+engill
+saman
+sæng
+yfir
 </vocabulary>
 <Image src="Loftmynd.jpeg" position="right"/>
 <level level="c1"/>
@@ -25,4 +37,3 @@ This is an evening prayer commonly recited for children. It was written around 1
 '''Notes'''
 
 </div>
-

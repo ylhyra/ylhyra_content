@@ -7,6 +7,44 @@ level: B2
 reviewed: no
 ---
 <vocabulary>
+ég veit
+hvernig
+hann er
+að tala við einhvern
+seint um nótt
+að vilja
+aldrei nokkurn tímann
+að sofna
+aldrei framar
+að ógna
+grunnur
+þarfir
+kæruleysi
+ást
+að trúa á
+að trúa blint á
+að duga manni
+fram eftir öllu
+þráin
+að dúkka upp
+ótti
+ekkert
+ég held að ég verði
+jafn
+ljúfur
+nákvæmlega
+núna
+þar til
+hann lokar
+augun
+hann veit
+alls ekki
+hann brýtur
+hjartað
+þú liggur
+þarna
+brjálaður
+ástfanginn
 </vocabulary>
 <Book audio="Imba eg veit.mp3">
 {{poem|
@@ -32,4 +70,3 @@ reviewed: no
 }}
 </Book>
 {{imba}}
-

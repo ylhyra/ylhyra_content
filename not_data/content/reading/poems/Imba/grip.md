@@ -7,6 +7,58 @@ level: B2
 reviewed: no
 ---
 <vocabulary>
+ég hef gripið
+gítargrip
+það er hljótt
+mannmergð
+vörður
+að hringsóla um
+að sjá
+aldrei
+ósýnilegur
+að berjast
+ég berst
+tómið
+vá
+ég hélt að ég væri
+margt
+ég hélt að þið gætuð
+að skamma
+ég lofa
+ég hef lært
+bjór
+íslenskur
+bók
+að vilja
+að fara
+héðan
+að geta
+fastur
+hún er föst
+meintur
+draumur
+á milli
+svefn
+vaka
+hvort
+martröð
+þegar
+að standa á sama
+þegar á því stendur
+að gera greinarmun
+að taka fastan
+manneskja
+fortíð
+að ofsækja
+hvert sem er
+hann fer
+núna
+gráðugur
+hann vill
+alltaf
+meira
+að óttast
+að grípa í tómt
 </vocabulary>
 {{poem|
 '''grip'''
@@ -28,11 +80,10 @@ reviewed: no
 {{line|föst á milli svefns og vöku}}
 {{line|já! hvort er þetta draumur eða martröð?}}
 {{line|þegar á honum stendur gerir hún engan greinarmun}}
-{{line|tekin föst en stendur á sama}}
+{{line|tekin föst en stendur á sama}}<!-- TODO ömurlega gert -->
 {{line|manneskjur úr fortíðinni sem ofsækja hana hvert sem hún fer}}
 {{line|og núna er hún sú gráðuga, vill alltaf meira en óttast það}}
 {{line|að grípa í tómt}}
 }}
 
 {{imba}}
-

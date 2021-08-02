@@ -2,7 +2,7 @@
 title: Template:Instructions
 ---
 
-<html><div class="instructions sans-serif">
+<div class="instructions sans-serif">
   <ul class="mouse">
     <li>
       <div>☞</div>
@@ -34,5 +34,5 @@ title: Template:Instructions
         <br>in an unusual manner, and you can ignore them.</div>
     </li>
   </ul>
-</div></html>
+</div>
 

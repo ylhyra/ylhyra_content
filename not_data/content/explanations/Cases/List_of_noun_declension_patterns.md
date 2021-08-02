@@ -12,7 +12,7 @@ This is an overview page of the [[declension]] patterns for [[nouns]]. It lists 
 
 Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about {{number of declension patterns}} basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[sound change]], and occasionally an additional letter pops up or disappears.
 
-The following table lists all the common patterns. [https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.<!--todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview over the patterns. The most important patterns are shown in uppercase.
+The following table lists all the common patterns. <!--[https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview over the patterns. The most important patterns are shown in uppercase.
 
 {{Noun declension patterns}}
 

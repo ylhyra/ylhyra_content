@@ -7,6 +7,18 @@ license: CC0
 reviewed: no
 ---
 <vocabulary>
+álft
+að láta
+ég held að ég sofi
+ég mun
+að vaka
+samt
+börn
+lítill
+fram
+fjall
+að leita
+lamb
 </vocabulary>
 This is a popular lullaby written by scholar [[w:Sveinbjörn Egilsson|Sveinbjörn Egilsson]] (1791–1852).
 
@@ -29,4 +41,3 @@ Listen to this song:
 *[https://open.spotify.com/track/28PD0dykzqfvIsSjaahCHM?si=TZ-Jn13tTBKWbPu7ltBFtw By Þuríður Pálsdóttir] (on Spotify)
 *[https://open.spotify.com/track/4vAtS3WTASctUnL5iFa6VG?si=mkLC5qS_SP6ZN_qCF97Ghg By Hjálmfríður Þöll] (on Spotify)
 *[https://www.youtube.com/watch?v=WeOnTI4yXTI By Hafdís Huld] (on YouTube)
-

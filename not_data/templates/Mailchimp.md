@@ -3,7 +3,7 @@ title: Template:Mailchimp
 ---
 
 <!-- Begin Mailchimp Signup Form -->
-<html>
+
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <div id="mc_embed_signup">
   <form action="https://xyz.us19.list-manage.com/subscribe/post?u=bf389f20ff9d24161706b5794&amp;id=67a7da1338" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -16,5 +16,5 @@ title: Template:Mailchimp
     </div>
   </form>
 </div>
-</html>
+
 

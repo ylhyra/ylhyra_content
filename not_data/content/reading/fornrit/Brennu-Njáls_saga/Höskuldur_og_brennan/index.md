@@ -12,23 +12,23 @@ reviewed: no
 </vocabulary>
 The following is a highly simplified retelling of the middle part of ''[[w:Njáls saga|Brennu-Njáls saga]]'', one of the most popular Icelandic [[w:saga|sagas]]. ''Brennu-Njáls saga'' was written in the 13th and tells the story of events from around the year 1000 AD.
 
-<Button>[[/1|Start reading]]</Button>
+<Button>[[Brennu-Njáls saga/Höskuldur og brennan/1|Start reading]]</Button>
 
 ***
 
 <!-- Total: 2150 words -->
 
-*'''[[/1|Part 1]]''' – Njáll adopts Höskuldur.<!-- 160 words -->
-*'''[[/2|Part 2]]''' – Höskuldur gets married.<!-- 260 words -->
-*'''[[/3|Part 3]]''' – Discord is sown out of envy.<!-- 215 words -->
-*'''[[/4|Part 4]]''' – Njáll's sons kill Höskuldur.<!-- 140 words -->
-*'''[[/5|Part 5]]''' – The widow of Höskuldur encourages her uncle Flosi to avenge Höskuldur's death.<!-- 315 words -->
-*'''[[/6|Part 6]]''' – The case of Höskuldur's death is discussed at parliament. Skarphéðinn insults Flosi.<!-- 240 words -->
-*'''[[/7|Part 7]]''' – Flosi sets fire to Njál's house.<!-- 190 words -->
-*'''[[/8|Part 8]]''' – Helgi tries to flee.<!-- 230 words -->
-*'''[[/9|Part 9]]''' – Njáll refuses the opportunity to leave the house and instead decides to go to sleep.<!-- 150 words -->
-*'''[[/10|Part 10]]''' – The others try to flee, but most fail. The house burns down.<!-- 245 words -->
-*'''[[/Discussion|Discussion]]'''
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/1|Part 1]]''' – Njáll adopts Höskuldur.<!-- 160 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/2|Part 2]]''' – Höskuldur gets married.<!-- 260 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/3|Part 3]]''' – Discord is sown out of envy.<!-- 215 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/4|Part 4]]''' – Njáll's sons kill Höskuldur.<!-- 140 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/5|Part 5]]''' – The widow of Höskuldur encourages her uncle Flosi to avenge Höskuldur's death.<!-- 315 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/6|Part 6]]''' – The case of Höskuldur's death is discussed at parliament. Skarphéðinn insults Flosi.<!-- 240 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/7|Part 7]]''' – Flosi sets fire to Njál's house.<!-- 190 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/8|Part 8]]''' – Helgi tries to flee.<!-- 230 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/9|Part 9]]''' – Njáll refuses the opportunity to leave the house and instead decides to go to sleep.<!-- 150 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/10|Part 10]]''' – The others try to flee, but most fail. The house burns down.<!-- 245 words -->
+*'''[[Brennu-Njáls saga/Höskuldur og brennan/Discussion|Discussion]]'''
 
 ***
 

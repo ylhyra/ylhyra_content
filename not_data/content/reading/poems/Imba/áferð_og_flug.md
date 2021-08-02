@@ -9,6 +9,26 @@ level: C1
 reviewed: no
 ---
 <vocabulary>
+áferð
+að vera á ferðinni
+flug
+að vera í skýjunum
+þar til
+ég sá
+allir
+aðrir
+þeir gátu
+að halla sér aftur
+aftar
+ég var
+aftastur
+sætið
+eins og
+húð
+reið
+eiginkona
+ég elskaði
+ekki lengur
 </vocabulary>
 <Book>
 
@@ -28,4 +48,3 @@ reviewed: no
 </Book>
 
 {{imba}}
-

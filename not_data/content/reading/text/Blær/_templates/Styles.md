@@ -41,6 +41,9 @@ title: Template:Blær styles
       text-align: center;
       margin-top: 19px;
       margin-bottom: 19px;
+      > span {
+        border: 0;
+      }
     }
     h2 {
       padding: 0 1em;
@@ -51,7 +54,7 @@ title: Template:Blær styles
       text-align: center;
 
       font-size: 18px;
-      font-weight: 500;
+      font-weight: 400;
       max-width: 450px;
       margin-bottom: 12px;
     }
