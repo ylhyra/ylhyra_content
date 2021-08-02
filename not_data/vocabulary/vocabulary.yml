@@ -11129,12 +11129,14 @@ rows:
     note_regarding_english: masculine
     row_id: 1895
     last_seen: "2021-07-30"
-  - icelandic: sá tuttugasti
-    english: the twentieth one
+  - icelandic: tuttugasti
+    english: twentieth (20th)
+    depends_on: tuttugu
     alternative_id: tuttugasti
     level: 2
+    note: "\"Tugur\" is a ten of something."
     row_id: 1896
-    last_seen: "2021-07-30"
+    last_seen: "2021-08-02"
   - icelandic: sá fyrsti
     english: the first one
     alternative_id: fyrsti
@@ -13407,9 +13409,9 @@ rows:
     lemmas: töluverður%
     depends_on: að telja, tala, að tala, færri
     level: 3
+    athugasemd_til_min: "\"Töluvert\" (''significantly'') likely either means \"worthy of being counted\" or \"worthy of being spoken of\"."
     row_id: 2291
     last_seen: "2021-07-31"
-    athugasemd_til_min: "\"Töluvert\" (''significantly'') likely either means \"worthy of being counted\" or \"worthy of being spoken of\"."
   - icelandic: viljandi
     english: intentionally
     depends_on: að vilja
@@ -14281,8 +14283,8 @@ rows:
   - icelandic: hver maður
     english: each person;; each man
     level: 3
-    row_id: 2428
     athugasemd_til_min: altid?
+    row_id: 2428
     last_seen: "2021-08-01"
   - icelandic: að fæðast
     english: to be born
@@ -14742,9 +14744,13 @@ rows:
     level: 3
     row_id: 2501
     last_seen: "2021-08-01"
-  - icelandic: annað
-    alternative_id: annað
+  - icelandic: annar
+    english: another;; the second one
+    depends_on: annar%
+    level: 2
+    note_regarding_english: masculine
     row_id: 2502
+    last_seen: "2021-08-02"
   - icelandic: hann sest
     english: he sits down; he has a seat
     lemmas: að setjast
@@ -15228,8 +15234,8 @@ rows:
     alternative_id: Hávamál
     level: 5
     direction: "->"
-    row_id: 2581
     athugasemd_til_min: trivia
+    row_id: 2581
     last_seen: "2021-08-01"
   - icelandic: í byrjun
     english: at the start; at the beginning
@@ -15754,6 +15760,188 @@ rows:
   - icelandic: brann
     row_id: 2659
     last_seen: "2021-08-01"
+  - icelandic: annar maí
+    english: May 2
+    depends_on: annar
+    level: 2
+    row_id: 2660
+    last_seen: "2021-08-02"
+  - icelandic: fyrsti janúar
+    english: January 1
+    lemmas: fyrstur
+    depends_on: fyrsti
+    alternative_id: janúar
+    level: 2
+    row_id: 2661
+    last_seen: "2021-08-02"
+  - icelandic: þriðji febrúar
+    english: February 3
+    lemmas: þriðji
+    depends_on: þrír
+    level: 2
+    row_id: 2662
+    last_seen: "2021-08-02"
+  - icelandic: fjórði mars
+    english: March 4
+    lemmas: fjórði
+    depends_on: fjórir
+    alternative_id: mars, fjórði
+    level: 2
+    row_id: 2663
+    last_seen: "2021-08-02"
+  - icelandic: fimmti apríl
+    english: April 5
+    lemmas: fimmti
+    depends_on: fimm
+    alternative_id: apríl
+    level: 2
+    row_id: 2664
+    last_seen: "2021-08-02"
+  - icelandic: að labba aftur á bak
+    english: to walk backwards
+    depends_on: bak
+    alternative_id: aftur á bak
+    level: 3
+    row_id: 2666
+    last_seen: "2021-08-02"
+  - icelandic: "'''sjötti''' júní"
+    english: June 6
+    depends_on: sjö, sex
+    alternative_id: sjötti , júní
+    level: 2
+    note: "\"Sjötti\" (sixth) causes significant confusion (including among Icelandic children) since it sounds like \"sjö\" (seven)."
+    row_id: 2667
+    last_seen: "2021-08-02"
+  - icelandic: sjöundi júlí
+    english: July 7
+    depends_on: sjö, sjötti
+    alternative_id: sjöundi, júlí
+    level: 2
+    row_id: 2668
+    last_seen: "2021-08-02"
+  - icelandic: áttundi ágúst
+    english: August 8
+    alternative_id: áttundi, ágúst
+    level: 2
+    row_id: 2669
+    last_seen: "2021-08-02"
+  - icelandic: níundi september
+    english: September 9
+    alternative_id: níundi, september
+    level: 2
+    row_id: 2670
+    last_seen: "2021-08-02"
+  - icelandic: tíundi október
+    english: October 10
+    alternative_id: tíundi, október
+    level: 2
+    row_id: 2671
+    last_seen: "2021-08-02"
+  - icelandic: ellefti nóvember
+    english: November 11
+    alternative_id: ellefti, nóvember
+    level: 2
+    row_id: 2672
+    last_seen: "2021-08-02"
+  - icelandic: tólfti desember
+    english: December 12
+    alternative_id: tólfti, desember
+    level: 2
+    row_id: 2673
+    last_seen: "2021-08-02"
+  - icelandic: fyrsti∆ annar∆ þriðji∆ fjórði
+    english: the first∆ the second∆ the third∆ the fourth
+    depends_on: fyrsti, annar, þriðji, fjórði
+    alternative_id: fyrsti∆ annar∆ þriðji∆ fjórði
+    level: 2
+    row_id: 2674
+    last_seen: "2021-08-02"
+  - icelandic: fimmti∆ '''sjötti'''∆ sjöundi∆ áttundi
+    english: the fifth∆ the '''sixth'''∆ the seventh∆ the eighth
+    depends_on: fimmti, sjötti, sjöundi, áttundi
+    alternative_id: fimmti∆ sjötti∆ sjöundi∆ áttundi
+    level: 2
+    note: "\"Sjötti\" (sixth) causes significant confusion (including among Icelandic children) since it sounds like \"sjö\" (seven)."
+    row_id: 2675
+    last_seen: "2021-08-02"
+  - icelandic: þrítugasti
+    english: thirtieth (30th)
+    depends_on: þrjátíu
+    alternative_id: þrítugasti
+    level: 3
+    note: "\"Tugur\" is a ten of something."
+    row_id: 2676
+    last_seen: "2021-08-02"
+  - icelandic: fertugasti
+    english: fortieth (40th)
+    depends_on: fjörutíu
+    alternative_id: fertugasti
+    level: 3
+    note: "\"Fer-\" is a four of something, \"tugur\" is a ten of something."
+    row_id: 2677
+    last_seen: "2021-08-02"
+  - icelandic: fimmtugasti
+    english: fiftieth (50th)
+    depends_on: fimmtíu
+    alternative_id: fimmtugasti
+    level: 3
+    note: "\"Tugur\" is a ten of something."
+    row_id: 2678
+    last_seen: "2021-08-02"
+  - icelandic: sextugasti
+    english: sixtieth (60th)
+    alternative_id: sextugasti
+    level: 3
+    note: "\"Tugur\" is a ten of something."
+    row_id: 2679
+    last_seen: "2021-08-02"
+  - icelandic: sjötugasti
+    english: seventieth (70th)
+    depends_on: sjötíu
+    alternative_id: sjötugasti
+    level: 3
+    note: "\"Tugur\" is a ten of something."
+    row_id: 2680
+    last_seen: "2021-08-02"
+  - icelandic: áttugasti
+    english: eightieth (80th)
+    depends_on: áttatíu
+    alternative_id: áttugasti
+    level: 3
+    note: "\"Tugur\" is a ten of something."
+    row_id: 2681
+    last_seen: "2021-08-02"
+  - icelandic: nítugasti
+    english: ninetieth (90th)
+    depends_on: níutíu
+    alternative_id: nítugasti
+    level: 3
+    note: "\"Tugur\" is a ten of something."
+    row_id: 2682
+    last_seen: "2021-08-02"
+  - icelandic: hundraðasti
+    english: hundredth
+    depends_on: hundrað
+    alternative_id: hundraðasti
+    level: 2
+    row_id: 2683
+    last_seen: "2021-08-02"
+  - icelandic: þúsundasti
+    english: thousandth
+    depends_on: þúsund
+    alternative_id: þúsundasti
+    level: 2
+    row_id: 2684
+    last_seen: "2021-08-02"
+  - icelandic: fjörutíu
+    english: forty (40)
+    depends_on: fjórir, tíu
+    alternative_id: fjörtíu
+    level: 2
+    note: The first "u" is not pronounced.
+    pronunciation: fjörtíu
+    row_id: 2685
+    last_seen: "2021-08-02"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
