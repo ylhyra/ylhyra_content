@@ -37,14 +37,13 @@ að fá
 bein
 biti
 </vocabulary>
-{{instagram
-|file=Villi Neto – Forníslenski sjomlinn.mp4
-|url=https://www.instagram.com/p/BysuJIVg2Qv/
-|user_image=VilliNeto.jpg
-|user_name=Villi Neto
-|user_handle=villineto
-|audio=01-fornislenski.mp3
-|text=
+<Instagram
+file="Villi Neto – Forníslenski sjomlinn.mp4"
+url="https://www.instagram.com/p/BysuJIVg2Qv/"
+user_image="VilliNeto.jpg"
+user_name="Villi Neto"
+user_handle="villineto"
+audio="01-fornislenski.mp3">
 '''Forníslenski sjomlinn'''.<note>''Sjomli'' is a jokeful distortion of the word ''gamli'' (old one), this slang was most popular around 2016, mostly by self-identified cool guys to speak to their other cool guy friends. The title of this video is therefore "the Old Icelandic bro".</note>
 
 Já, ég er stoltur af mínum líkama. Ég er nú þykkari en heybaggi.
@@ -59,8 +58,4 @@ Vér skulum fara framar í röð, ég er náttúrulega M.M.M., „mjög mikilvæ
 
 Þynnka? Það verður að fá beinið með bitanum.
 
-{{notranslate|1=
-
-}}
-
-}}
+</Instagram>

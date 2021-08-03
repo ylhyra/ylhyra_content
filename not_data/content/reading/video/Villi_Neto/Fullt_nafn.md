@@ -11,14 +11,13 @@ fullur
 nafn
 kjaftæði
 </vocabulary>
-{{instagram
-|file=Video by villineto-Bm510Y-HUDD.mp4
-|url=https://www.instagram.com/p/Bm510Y-HUDD/
-|user_image=VilliNeto.jpg
-|user_name=Villi Neto
-|user_handle=villineto
-|audio=CUUo.mp3
-|text=Já, get ég fengið fullt<note>The joke here is that ''fullur'' can both mean "full" and "drunk".</note> nafn?
+<Instagram
+file="Video by villineto-Bm510Y-HUDD.mp4"
+url="https://www.instagram.com/p/Bm510Y-HUDD/"
+user_image="VilliNeto.jpg"
+user_name="Villi Neto"
+user_handle="villineto"
+audio="CUUo.mp3">Já, get ég fengið fullt<note>The joke here is that ''fullur'' can both mean "full" and "drunk".</note> nafn?
 
 Öö, fullt nafn?
 
@@ -28,8 +27,4 @@ Já, fullt nafn.
 
 Já...
 
-{{notranslate|1=
-
-}}
-
-}}
+</Instagram>

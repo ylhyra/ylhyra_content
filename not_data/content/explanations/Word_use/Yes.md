@@ -83,7 +83,7 @@ you: Ert þú þyrstur?
 {{option|is=Já}}
 {{option|is=Jú}}
 {{option|is=Já já}}
-{{option|is=Já {{notranslate|[breathing in]}}}}
+{{option|is=Já <notranslate>[breathing in]</notranslate>}}
 </Conversation>
 me: Já
 }}
@@ -96,7 +96,7 @@ you: Vilt þú kók?
 {{option|is=Já já}}
 {{option|is=Já}}
 {{option|is=Jú}}
-{{option|is=Já {{notranslate|[breathing in]}}}}
+{{option|is=Já <notranslate>[breathing in]</notranslate>}}
 </Conversation>
 me: Já já
 }}
@@ -109,7 +109,7 @@ you: Ert þú ekki þyrstur?
 {{option|is=Jú}}
 {{option|is=Já}}
 {{option|is=Já já}}
-{{option|is=Já {{notranslate|[breathing in]}}}}
+{{option|is=Já <notranslate>[breathing in]</notranslate>}}
 </Conversation>
 me: Jú
 }}
@@ -119,12 +119,12 @@ you: Gunnar er aftur byrjaður að reykja sígarettur.
 {{multiple choice|en|is
 |instructions=You're slightly disappointed in Gunnar
 |options=
-{{option|is=Já {{notranslate|[breathing in]}}}}
+{{option|is=Já <notranslate>[breathing in]</notranslate>}}
 {{option|is=Já}}
 {{option|is=Jú}}
 {{option|is=Já já}}
 </Conversation>
-me: Já {{notranslate|[breathing in]}}
+me: Já <notranslate>[breathing in]</notranslate>
 }}
 
 <Conversation>
@@ -135,7 +135,7 @@ you: Kemur þú ekki á eftir?
 {{option|is=Jú}}
 {{option|is=Já}}
 {{option|is=Já já}}
-{{option|is=Já {{notranslate|[breathing in]}}}}
+{{option|is=Já <notranslate>[breathing in]</notranslate>}}
 </Conversation>
 me: Jú, ég kem á eftir.
 }}
@@ -148,7 +148,7 @@ you: Vilt þú bjór?
 {{option|is=Já|en=yes}}
 {{option|is=Jú|en=yes (responding to a negative)}}
 {{option|is=Já já|en=yeah sure}}
-{{option|is=Já {{notranslate|[breathing in]}}}}
+{{option|is=Já <notranslate>[breathing in]</notranslate>}}
 </Conversation>
 me: Já takk!
 }}

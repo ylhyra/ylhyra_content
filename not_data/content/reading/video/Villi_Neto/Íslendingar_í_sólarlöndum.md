@@ -58,14 +58,13 @@ bara
 hérna
 sólarvörn
 </vocabulary>
-{{instagram
-|file=Villi Neto – Íslendingar í sólarlöndum.mp4
-|url=https://www.instagram.com/p/Bxh97plgX94/
-|user_image=VilliNeto.jpg
-|user_name=Villi Neto
-|user_handle=villineto
-|audio=07-solarlond.mp3
-|text=
+<Instagram
+file="Villi Neto – Íslendingar í sólarlöndum.mp4"
+url="https://www.instagram.com/p/Bxh97plgX94/"
+user_image="VilliNeto.jpg"
+user_name="Villi Neto"
+user_handle="villineto"
+audio="07-solarlond.mp3">
 '''Íslendingar í sólarlöndum'''
 
 Hvert förum við í morgunmat? Burger King?
@@ -80,10 +79,6 @@ Er einhver búinn að sjá sombreró-hattinn minn?
 
 Eruð þið að fara á ströndina? Heyrðu, ókei, ég kem eftir smá, ég þarf bara að þrífa, hérna, af sólarvörnina.
 
-{{notranslate|1=
-<div class="video-explanation">
+<div class="video-explanation" data-translate="no">
 
-</div>
-}}
-
-}}
+</div></Instagram>

@@ -48,14 +48,13 @@ kominn
 til þess að
 að ræna
 </vocabulary>
-{{instagram
-|file=Video by villineto-Bm1QnH2jnci.mp4
-|url=https://www.instagram.com/p/Bm1QnH2jnci/
-|user_image=VilliNeto.jpg
-|user_name=Villi Neto
-|user_handle=villineto
-|audio=08-islenskarmyndir.mp3
-|text=
+<Instagram
+file="Video by villineto-Bm1QnH2jnci.mp4"
+url="https://www.instagram.com/p/Bm1QnH2jnci/"
+user_image="VilliNeto.jpg"
+user_name="Villi Neto"
+user_handle="villineto"
+audio="08-islenskarmyndir.mp3">
 '''Íslenskar bíómyndir'''
 
 – Mamma, pabbi, ég er kominn heim.
@@ -92,13 +91,9 @@ að ræna
 
 – Ha?
 
-{{notranslate|1=
-<div class="video-explanation">
+<div class="video-explanation" data-translate="no">
 This video is a joke about Icelandic film clichés. All Icelandic films are about depression, alcoholism, deteriorating family units, crime, and the occasional nudity.
 
-## Notes
 
-</div>
-}}
 
-}}
+</div></Instagram>
