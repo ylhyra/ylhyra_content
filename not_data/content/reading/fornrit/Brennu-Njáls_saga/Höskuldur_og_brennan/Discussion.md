@@ -1,5 +1,7 @@
 ---
-title: Brennu-Njáls saga/Höskuldur og brennan/Discussion
+title: Brennu-Njáls saga/Höskuldur og brennan/11
+redirects:
+- Brennu-Njáls saga/Höskuldur og brennan/Discussion
 reviewed: no
 ---
 <vocabulary>
@@ -18,3 +20,4 @@ You can purchase a shortened version of the entire story in modern English [http
 
 <Image src="Möðruvallabók f13r.jpg" width="270" other="A part of ''Brennu-Njáls saga'' from a 14th century manuscript."/>
 
+{{parts|11}}

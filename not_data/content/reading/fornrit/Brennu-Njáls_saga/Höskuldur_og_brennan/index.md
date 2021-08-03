@@ -17,22 +17,21 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 ***
 
 <!-- Total: 2150 words -->
+<TOC>
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/1|'''Part 1''' – Njáll adopts Höskuldur.<!-- 160 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/2|'''Part 2''' – Höskuldur gets married.<!-- 260 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/3|'''Part 3''' – Discord is sown out of envy.<!-- 215 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/4|'''Part 4''' – Njáll's sons kill Höskuldur.<!-- 140 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/5|'''Part 5''' – The widow of Höskuldur encourages her uncle Flosi to avenge Höskuldur's death.<!-- 315 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/6|'''Part 6''' – The case of Höskuldur's death is discussed at parliament. Skarphéðinn insults Flosi.<!-- 240 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/7|'''Part 7''' – Flosi sets fire to Njál's house.<!-- 190 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/8|'''Part 8''' – Helgi tries to flee.<!-- 230 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/9|'''Part 9''' – Njáll refuses the opportunity to leave the house and instead decides to go to sleep.<!-- 150 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/10|'''Part 10''' – The others try to flee, but most fail. The house burns down.<!-- 245 words -->}}
+*{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/Discussion|'''Discussion'''}}
+</TOC>
 
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/1|Part 1]]''' – Njáll adopts Höskuldur.<!-- 160 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/2|Part 2]]''' – Höskuldur gets married.<!-- 260 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/3|Part 3]]''' – Discord is sown out of envy.<!-- 215 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/4|Part 4]]''' – Njáll's sons kill Höskuldur.<!-- 140 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/5|Part 5]]''' – The widow of Höskuldur encourages her uncle Flosi to avenge Höskuldur's death.<!-- 315 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/6|Part 6]]''' – The case of Höskuldur's death is discussed at parliament. Skarphéðinn insults Flosi.<!-- 240 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/7|Part 7]]''' – Flosi sets fire to Njál's house.<!-- 190 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/8|Part 8]]''' – Helgi tries to flee.<!-- 230 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/9|Part 9]]''' – Njáll refuses the opportunity to leave the house and instead decides to go to sleep.<!-- 150 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/10|Part 10]]''' – The others try to flee, but most fail. The house burns down.<!-- 245 words -->
-*'''[[Brennu-Njáls saga/Höskuldur og brennan/Discussion|Discussion]]'''
-
-***
-
-<div class="notes">
+<Footer>
 '''Links'''
 
 *[https://www.snerpa.is/net/isl/njala.htm The original text of ''Brennu-Njáls saga'' with modern Icelandic spelling]
@@ -44,4 +43,5 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 '''Notes'''
 
 This is a retelling of chapters 94–130, the common printed version of ''Brennu-Njáls saga'' is 159 chapters in total. Several elements of the story are omitted for simplicity's sake.
-</div>
+
+<Footer>
