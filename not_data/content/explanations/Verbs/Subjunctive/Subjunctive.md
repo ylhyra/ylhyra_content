@@ -14,7 +14,8 @@ license: CC0
 reviewed: no
 ---
 
-## The hypothetical verb form
+# Subjunctive
+<!-- ## The hypothetical verb form -->
 In Icelandic, [[verbs]] take on a different form when they express something that is hypothetical or uncertain. The form is known as the '''subjunctive''' ("viðtengingarháttur"). It appears in the following scenarios:
 
 *When expressing something hypothetical ("If I ''were'' president...")
@@ -173,4 +174,3 @@ Forseti Indlands ___ (að segjast) ___ (að vera) spenntur fyrir geimfaraáætlu
 <ref>[https://skemman.is/bitstream/1946/7366/2/Lokaritgerd.pdf Notkun viðtengingarháttar í nútímaíslensku]. Hulda Óladóttir, 2011.</ref><ref>Höskuldur Þráinsson, ''Íslensk tunga III'', 2005, p. 463-466. Cited by Hildur Ýr Ísberg in "''[https://skemman.is/bitstream/1946/7391/1/BAritgerd.pdf Viðtengingarháttur: Lifandi eða dauður?]''" (PDF), 2011 (Bachelor's thesis).</ref>
 
 -->
-

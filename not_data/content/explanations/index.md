@@ -13,16 +13,10 @@ reviewed: no
 
 *[[Resources]]
 
-## Vocabulary
-
-*[[Vocabulary/All|List of 2000 basic vocabulary words]]
-*Memrise courses: [https://www.memrise.com/course/728073/icelandic-vocabulary-and-phrases/][https://www.memrise.com/course/357011/icelandic-in-easy-stages-with-sound/][https://www.memrise.com/course/134020/beginners-icelandic/]
-
 ## Reference material
 
 *[[How to learn a language]]
 *[[How to use Ylhýra|Using ''Ylhýra'']]
-<!--*[[:Category:Content|List of all pages]]-->
 *[[Course/A1/About Icelandic|About Icelandic]]
 *[[Alphabet and pronunciation]] <level level="a1"/>
 **[[R]] <level level="a1"/>
@@ -92,4 +86,3 @@ reviewed: no
 **[[Style of Icelandic used in the news]] <level level="b2"/>
 **[[Nicknames]] <level level="c1"/>
 <!--Linguistic purism-->
-

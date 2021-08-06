@@ -13,6 +13,4 @@ tags:
 *Make sure text is in view when listening to audio.
 *Speech recordings need to be made easier, also needs post-processing of short audio recordings. [https://github.com/lucianodato/speech-denoiser]
 *Add script to an external CDN? [https://www.jsdelivr.com]
-*DragDrop.js needs to be rewritten and focused
 *[[Project:Software work in progess/Útlit]]
-

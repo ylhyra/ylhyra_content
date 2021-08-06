@@ -17,57 +17,57 @@ Add either "er" (a regular framsöguháttur) or "sé" (viðtengingarháttur) to 
 
 Hvað ___ hann að gera?
 
-$cot$
+<Collapse>
 
 Hvað '''er''' hann að gera?
 
-$cob$
+</Collapse>
 
 Ég held að hann ___ að horfa á sjónvarpið.
 
-$cot$
+<Collapse>
 
 Ég held að hann '''sé''' að horfa á sjónvarpið.
 
 „Ég held“ is the main sentence. The two sentences are attached together with "að" like so: „Ég held að (hann sé að horfa á sjónvarpið).“ Since this is a secondary subclause, we have to use viðtengingarháttur.
 
-$cob$
+</Collapse>
 
 Ég ætla að skrifa nafnið mitt hérna svo að það ___ á hreinu að ég ___ sá sem skrifaði greinina.
 
-$cot$
+<Collapse>
 
 Ég ætla að skrifa nafnið mitt hérna svo að það '''sé''' á hreinu að ég '''sé''' sá sem skrifaði greinina.
 
 Both are subclauses like so: „Ég ætla að skrifa nafnið mitt hérna svo að (það sé á hreinu að (ég sé sá sem skrifaði greinina)).
 
-$cob$
+</Collapse>
 
 Þó að hann ___ orðinn fimmtán ára má hann ekki fara einn til útlanda.
 
-$cot$
+<Collapse>
 
 Þó að hann '''sé''' orðinn fimmtán ára má hann ekki fara einn til útlanda.
 
 „Þó að“ always causes a subjunctive. You can rearrange the sentence to better see the subclause: Hann má ekki fara einn til útlanda þó að (hann '''sé''' orðinn fimmtán ára).
 
-$cob$
+</Collapse>
 
 Færðu þig, mig langar að sjá hvað ___ að gerast.
 
-$cot$
+<Collapse>
 
 Færðu þig, mig langar að sjá hvað '''er''' að gerast.
 
-$cob$
+</Collapse>
 
 Færðu þig, mig langar að sjá hvort það ___ eitthvað að gerast.
 
-$cot$
+<Collapse>
 
 Færðu þig, mig langar að sjá hvort það '''sé''' eitthvað að gerast.
 
-$cob$
+</Collapse>
 
 <!--
 
@@ -90,7 +90,7 @@ $cob$
 -->
 
 <!--
-$cot$
-$cob$
+<Collapse>
+</Collapse>
 -->
 

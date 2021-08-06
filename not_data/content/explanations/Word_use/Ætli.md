@@ -78,121 +78,121 @@ Examples:
 ## Exercise – Translate from English to Icelandic
 I was wondering if there was some space in your car.
 
-$cot$
+<Collapse>
 Ætli það sé pláss í bílnum þínum?
-$cob$
+</Collapse>
 
 Don't you think we can borrow her car?
 
-$cot$
+<Collapse>
 Ætli við getum '''ekki''' fengið bílinn hennar lánaðan.
-$cob$
+</Collapse>
 
 I guess so.
 
-$cot$
+<Collapse>
 Ætli það ekki.
-$cob$
+</Collapse>
 
 When do you think the movie starts?
 
-$cot$
+<Collapse>
 Hvenær ætli myndin byrji?
-$cob$
+</Collapse>
 
 I'm thinking about going downtown later.
 
-$cot$
+<Collapse>
 Ætli maður kíki '''ekki''' í bæinn á eftir.
-$cob$
+</Collapse>
 
 Well then, I guess I'll show up tomorrow.
 
-$cot$
+<Collapse>
 Ætli ég mæti þá '''ekki''' á morgun.
-$cob$
+</Collapse>
 
 I guess the cake is ready.
 
-$cot$
+<Collapse>
 Ætli kakan sé '''ekki''' tilbúin.
-$cob$
+</Collapse>
 
 I wonder if the cake is ready.
 
-$cot$
+<Collapse>
 Ætli kakan sé tilbúin?
-$cob$
+</Collapse>
 
 Has anyone here encountered my phone?
 
-$cot$
+<Collapse>
 Ætli einhver hafi rekist á símann minn?
-$cob$
+</Collapse>
 
 I guess that will have to wait until a later time.
 
-$cot$
+<Collapse>
 Ætli það bíði '''ekki''' betri tíma.
-$cob$
+</Collapse>
 
 I was wondering if you wanted to come over for a visit.
 
-$cot$
+<Collapse>
 Ætli þú viljir koma í heimsókn?
-$cob$
+</Collapse>
 
 Do you think that you might have gotten a fever, by any chance?
 
-$cot$
+<Collapse>
 Ætli þú sért nokkuð kominn með hita?
-$cob$
+</Collapse>
 
 I reckon that you've just gotten a fever.
 
-$cot$
+<Collapse>
 Ætli þú sért '''ekki''' bara kominn með hita.
-$cob$
+</Collapse>
 
 Do you suppose the pool is open?
 
-$cot$
+<Collapse>
 Ætli sundlaugin sé opin?
-$cob$
+</Collapse>
 
 I was wondering if I could come and fetch my telephone later.
 
-$cot$
+<Collapse>
 Ætli ég geti komið og sótt símann minn á eftir?
-$cob$
+</Collapse>
 
 I can probably come and fetch my telephone later.
 
-$cot$
+<Collapse>
 Ætli ég geti ekki komið og sótt símann minn á eftir.
-$cob$
+</Collapse>
 
 I was wondering if you were free tomorrow.
 
-$cot$
+<Collapse>
 Ætli þú sért laus á morgun?
-$cob$
+</Collapse>
 
 Do you think they're still mad at us?
 
-$cot$
+<Collapse>
 Ætli þau séu enn reið út í okkur?
-$cob$
+</Collapse>
 
 Don't you think they're still mad at us?
 
-$cot$
+<Collapse>
 Ætli þau séu '''ekki''' enn reið út í okkur?
-$cob$
+</Collapse>
 
 Which of the two would you like, an apple or an orange?
 
-$cot$
+<Collapse>
 Hvort ætli þig langi í epli eða appelsínu?
-$cob$
+</Collapse>
 

@@ -20,67 +20,67 @@ Please remember: Don't emphasize the word ''nú'' – it should always be in an 
 
 Það er alltaf gaman að sjá þig. – It's always nice to see you.
 
-$cot$
+<Collapse>
 Það er '''nú''' alltaf gaman að sjá þig. – '''Well''', it's always nice to see you.
-$cob$
+</Collapse>
 
 Ég er ekki svo góður á gítar. – I am not so good at guitar.
 
-$cot$
+<Collapse>
 Ég er '''nú''' ekki svo góður á gítar. – '''Well''', I am not so good at guitar.
-$cob$
+</Collapse>
 
 Ég fékk mér kaffi áðan, en ég væri samt til í annan bolla.
 
-$cot$
+<Collapse>
 Ég fékk mér '''nú''' kaffi áðan, en ég væri '''nú''' samt til í annan bolla.
-$cob$
+</Collapse>
 
 Ég gerði ekki mikið í dag.
 
-$cot$
+<Collapse>
 Ég gerði '''nú''' ekki mikið í dag. – '''Well''', I didn't do much today.
-$cob$
+</Collapse>
 
 Ég hafði ekki gert ráð fyrir því.
 
-$cot$
+<Collapse>
 Ég hafði '''nú''' ekki gert ráð fyrir því. – '''Well''', I had not considered that likely.
-$cob$
+</Collapse>
 
 Það er lítið mál.
 
-$cot$
+<Collapse>
 Það er '''nú''' lítið mál. – '''Well now''', that's no problem.
-$cob$
+</Collapse>
 
 Ég ætlaði bara að sjá hvernig þú hefðir það.
 
-$cot$
+<Collapse>
 Ég ætlaði '''nú''' bara að sjá hvernig þú hefðir það. – '''Well''', it had just been my intention to see how things were going for you.
-$cob$
+</Collapse>
 
 Þú þurftir ekki að koma með neitt.
 
-$cot$
+<Collapse>
 Þú þurftir '''nú''' ekki að koma með neitt. – '''Well''', you didn't have to bring anything
-$cob$
+</Collapse>
 
 Þú hlýtur að hafa vitað af því.
 
-$cot$
+<Collapse>
 Þú hlýtur '''nú''' að hafa vitað af því. – '''Well''', you must have known about that.
-$cob$
+</Collapse>
 
 Þetta átti að vera gaman, en þér tókst að klúðra því.
 
-$cot$
+<Collapse>
 Þetta átti '''nú''' að vera gaman, en þér tókst að klúðra því. – '''Well''', this was supposed to be fun, but you were able to mess that up.
-$cob$
+</Collapse>
 
 Ég veit það ekki alveg. – I don't quite know.
 
-$cot$
+<Collapse>
 Ég veit það '''nú''' ekki alveg. – '''Well''', I don't quite know.
-$cob$
+</Collapse>
 

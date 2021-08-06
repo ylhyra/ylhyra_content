@@ -11,7 +11,6 @@ redirects:
 - Levels
 tags:
 - Difficulty levels
-license: CC0
 reviewed: no
 ---
 
@@ -60,5 +59,8 @@ The difficulty scale we use is the European language proficiency scale, known as
 *Can express themselves spontaneously, very fluently and precisely, differentiating finer shades of meaning even in the most complex situations.
 |}
 
-<!--{{ccbysa}}-->
-
+<Footer>
+<div class="gray small">
+Table from the CEFR Global Scale.
+</div>
+</Footer>

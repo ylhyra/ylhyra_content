@@ -24,7 +24,7 @@ The only exception to the simple explanation above is that you use ''að vera'' 
 *Þetta er mjög skemmtilegt.
 *Þetta verður mjög skemmtilegt.
 
-## Mun = will
+## Mun (''will be'')
 <level level="b1"/>
 
 There does exist one other way to speak about the future, using ''mun'' (will):
@@ -37,4 +37,3 @@ There does exist one other way to speak about the future, using ''mun'' (will):
 **Same as ''Þú verður aldrei ríkur.''
 
 However, you never actually need to use it, you can always just word your sentence in a way that just uses the present tense. As a student, you should recognize this word but <u>you should not use it yourself</u> when speaking. The reason for that is that learners tend to use it in situations where the present tense would have sounded much more natural.
-
