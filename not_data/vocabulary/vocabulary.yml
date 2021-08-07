@@ -19158,6 +19158,126 @@ rows:
     level: 1
     row_id: 3206
     last_seen: "2021-08-07"
+  - icelandic: kaffið mitt
+    alternative_id: kaffið mitt
+    level: "1"
+    row_id: 3207
+  - icelandic: frænka mín
+    alternative_id: frænka mín
+    level: "1"
+    row_id: 3208
+  - icelandic: hér er fiskur - um fisk
+    alternative_id: hér er fiskur - um fisk
+    level: "1"
+    row_id: 3209
+  - icelandic: hér er hundur - um hund
+    alternative_id: hér er hundur - um hund
+    level: "1"
+    row_id: 3210
+  - icelandic: hér er maður - um mann
+    alternative_id: hér er maður - um mann
+    level: "1"
+    row_id: 3211
+  - icelandic: hér er fiskurinn - um fiskinn
+    alternative_id: hér er fiskurinn - um fiskinn
+    level: "1"
+    row_id: 3212
+  - icelandic: Borðarðu fisk?
+    alternative_id: Borðarðu fisk?
+    level: "1"
+    row_id: 3213
+  - icelandic: hér er maðurinn - um manninn
+    alternative_id: hér er maðurinn - um manninn
+    level: "1"
+    row_id: 3214
+  - icelandic: hér er dagurinn - um daginn
+    alternative_id: hér er dagurinn - um daginn
+    level: "1"
+    row_id: 3215
+  - icelandic: hér er kötturinn minn - um köttinn minn
+    alternative_id: hér er kötturinn minn - um köttinn minn
+    level: "1"
+    row_id: 3216
+  - icelandic: hér er þátturinn - um þáttinn
+    alternative_id: hér er þátturinn - um þáttinn
+    level: "1"
+    row_id: 3217
+  - icelandic: hér er hamborgarinn minn - um hamborgarann minn
+    alternative_id: hér er hamborgarinn minn - um hamborgarann minn
+    level: "1"
+    row_id: 3218
+  - icelandic: Ég veit ekki hvar hundurinn minn er.
+    english: I don't know where my dog is.
+    lemmas: að vita, hundur
+    alternative_id: Ég veit ekki hvar hundurinn minn er.
+    level: 1
+    row_id: 3219
+    last_seen: "2021-08-07"
+  - icelandic: Áttu hund?
+    english: Do you own a dog?
+    lemmas: að eiga, hundur
+    alternative_id: Áttu hund?
+    level: 1
+    row_id: 3220
+    last_seen: "2021-08-07"
+  - icelandic: Maðurinn minn á hund.
+    english: My husband owns a dog.
+    lemmas: maður, að eiga, hundur
+    alternative_id: Maðurinn minn á hund.
+    level: 1
+    row_id: 3221
+    last_seen: "2021-08-07"
+  - icelandic: Þessi bók er um vin minn.
+    english: This book is about my friend.
+    lemmas: vinur
+    alternative_id: Þessi bók er um vin minn.
+    level: 1
+    row_id: 3222
+    last_seen: "2021-08-07"
+  - icelandic: Þessi bók er eftir vin minn.
+    english: This book was written by my friend.; My friend is the author of this book.
+    lemmas: bók, vinur
+    depends_on: eftir
+    alternative_id: Þessi bók er eftir vin minn.
+    level: 1
+    note: This book is after my friend.
+    row_id: 3223
+    last_seen: "2021-08-07"
+  - icelandic: Ég er að horfa á þátt.
+    english: I'm watching a TV show.
+    lemmas: þáttur
+    alternative_id: Ég er að horfa á þátt.
+    level: 1
+    row_id: 3224
+    last_seen: "2021-08-07"
+  - icelandic: Hvað er þátturinn um?; Um hvað er þátturinn?
+    english: What is the TV show about?
+    lemmas: þáttur
+    alternative_id: Hvað er þátturinn um?
+    level: 1
+    row_id: 3225
+    last_seen: "2021-08-07"
+  - icelandic: Hvernig eldar maður fisk?
+    english: How does one cook a fish?; How do you cook a fish?
+    lemmas: að elda, fiskur
+    alternative_id: Ég kann ekki að elda fisk.
+    level: 1
+    row_id: 3226
+    last_seen: "2021-08-07"
+  - icelandic: Ég er að tala við vin minn.
+    lemmas: vinur
+    depends_on: að tala við
+    alternative_id: Ég er að tala við vin minn.
+    level: 1
+    row_id: 3227
+    last_seen: "2021-08-07"
+  - icelandic: Langar vin þinn að koma með?
+    english: Does your friend want to come along?; Does your friend want to come with (us)?
+    lemmas: að langa, vinur
+    alternative_id: Langar vin þinn að koma með?
+    level: 1
+    row_id: 3228
+    last_seen: "2021-08-07"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
