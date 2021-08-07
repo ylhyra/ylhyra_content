@@ -49,20 +49,19 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 # Unit {{incr}}
 {{chapter|Course/The (neuter)|The "the" for the neuter}}
 {{chapter|Course/The (feminine)|The "the" for the feminine}}
+{{chapter|Course/My (feminine, neuter)|My (feminine and neuter)}}
+# Unit {{incr}}
 
-***
+<!--***
 <div class="toc_subtitle"></div>
 <div style="background: #aba3b4">
-
-# Unit {{incr}}
-{{chapter|Course/When?}}
+{{chapter|Course/How?}}
 {{chapter|Course/Doing}}
 {{chapter|Course/To watch}}
-{{chapter|Course/How?}}
 {{chapter|Course/I like}}
-# Unit {{incr}}
 {{chapter|Course/Want 2 | Want ''(að vilja)'' <!-- Vilja -->}}
-</div>
+
+</div>-->
 </TOC>
 
 <Image src="Börn_svarthvít.jpg"/>

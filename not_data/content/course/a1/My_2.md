@@ -13,7 +13,7 @@ Kann afi þinn ensku?
 # My family members
 When using "minn", you always have to use the [[definite article]]. There are two major exceptions to this rule, which are when talking about someone's:
 1. Friend
-2. Specific direct relatives such as a sister, brother, mother, father, son, daughter, grandma, and grandpa<note>Words such as husband, wife, family, girlfriend, and boyfriend do not describe specific direct relatives, and therefore they ''do'' use the definite article</note>
+2. Specific direct relatives using words such as a sister, brother, mother, father, son, daughter, grandma, grandpa, aunt, and uncle (but '''not''' words such as child, family, husband, wife, girlfriend, and boyfriend)
 
 Instead of saying "vinur'''inn''' minn", you say "vinur minn".
 <notes>
