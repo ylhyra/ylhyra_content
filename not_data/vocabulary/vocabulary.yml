@@ -8137,9 +8137,11 @@ rows:
     row_id: 1378
     last_seen: "2021-07-02"
   - icelandic: að standa
-    level: 2
+    english: to stand;; to be written _somewhere_
+    level: 3
+    example_declension: ég stend í dag, ég stóð í gær, ég hef staðið
     row_id: 1379
-    last_seen: "2021-07-02"
+    last_seen: "2021-08-06"
   - icelandic: loforð
     english: a promise
     depends_on: að lofa, orð
@@ -9158,13 +9160,13 @@ rows:
     direction: "->"
     row_id: 1547
     last_seen: "2021-07-10"
-  - icelandic: Gj*örðu svo vel.*
+  - icelandic: Gj*örðu svo vel*.
     english: Here you go!;; You're welcome.
     level: 1
     note: Said when handing an item to somebody or after having done something for someone, particularly if you work at a store or a restaurant. The word form "gjörðu" does not exist in modern Icelandic apart from in this phrase, modern Icelandic uses "gerðu" (do).
     pronunciation: gjössovel
     row_id: 1548
-    last_seen: "2021-07-10"
+    last_seen: "2021-08-06"
   - icelandic: Næsti∆ gjörðu svo vel.
     english: "Next∆ please. (note: as in \"Next customer∆ it's your turn\")"
     depends_on: gjörðu svo vel, næstur
@@ -10721,9 +10723,9 @@ rows:
   - icelandic: að hlæja
     english: to laugh
     level: 3
+    example_declension: ég hlæ í dag; ég hló í gær; við hlógum í gær; ég hef hlegið
     row_id: 1806
     last_seen: "2021-08-03"
-    example_declension: ég hlæ í dag; ég hló í gær; við hlógum í gær; ég hef hlegið
   - icelandic: fáir
     english: few people
     lemmas: fár%
@@ -11586,9 +11588,9 @@ rows:
     english: to invite someone;; to offer someone
     alternative_id: að bjóða
     level: 2
+    example_declension: ég býð í dag; ég bauð í gær; við buðum í gær; ég hef boðið
     row_id: 1974
     last_seen: "2021-08-03"
-    example_declension: ég býð í dag; ég bauð í gær; við buðum í gær; ég hef boðið
   - icelandic: að banna
     english: to forbid
     level: 2
@@ -12326,9 +12328,9 @@ rows:
   - icelandic: að drepa
     english: to kill
     level: 3
+    example_declension: ég drap í gær; við drápum í gær; ég hef drepið
     row_id: 2107
     last_seen: "2021-08-03"
-    example_declension: ég drap í gær; við drápum í gær; ég hef drepið
   - icelandic: að leita að
     english: to search for; to look for
     alternative_id: að leita
@@ -17833,8 +17835,8 @@ rows:
     lemmas: fingur%
     alternative_id: fingur
     level: 3
-    row_id: 2988
     example_declension: einn fingur; margir fingur
+    row_id: 2988
     last_seen: "2021-08-03"
   - icelandic: frá stráknum
     english: from the boy
@@ -18208,8 +18210,8 @@ rows:
     english: to trust someone
     alternative_id: að treysta
     level: 2
-    row_id: 3057
     example_declension: ég treysti í dag; ég treysti í gær; ég hef treyst
+    row_id: 3057
     last_seen: "2021-08-03"
   - icelandic: einn daginn
     alternative_id: einn daginn
@@ -18329,8 +18331,8 @@ rows:
     depends_on: hönd
     alternative_id: að henda
     level: 2
-    row_id: 3077
     example_declension: ég hendi í dag, ég henti í gær, ég hef hent
+    row_id: 3077
     last_seen: "2021-08-03"
   - icelandic: þú meinar
     english: you mean
@@ -18488,8 +18490,8 @@ rows:
     english: to turn _(something)_; to twist _(something)_
     alternative_id: að snúa
     level: 3
-    row_id: 3104
     example_declension: ég '''sný''' í dag; ég '''sneri''' í gær; ég hef snúið
+    row_id: 3104
     last_seen: "2021-08-03"
   - icelandic: ég sný
     english: I turn _(something)_
@@ -18638,8 +18640,8 @@ rows:
     english: to pray
     alternative_id: að biðja
     level: 2
-    row_id: 3128
     example_declension: ég bið í dag; í bað í gær; við báðum í gær; ég hef beðið
+    row_id: 3128
     last_seen: "2021-08-03"
   - icelandic: á*fram
     english: in a forwards direction;; continue to be
@@ -18693,8 +18695,8 @@ rows:
     english: to jump; to leap
     alternative_id: að stökkva
     level: 4
-    row_id: 3139
     example_declension: ég stekk í dag; ég stökk í gær; við stukkum í gær; ég hef stokkið
+    row_id: 3139
     last_seen: "2021-08-03"
   - icelandic: ég s*tekk
     english: I jump; I leap
@@ -18760,9 +18762,9 @@ rows:
     english: to collapse
     alternative_id: að hrynja
     level: 5
+    example_declension: það hrynur í dag; það '''hrundi''' í gær
     row_id: 3149
     last_seen: "2021-08-03"
-    example_declension: það hrynur í dag; það '''hrundi''' í gær
   - icelandic: Ég verð hérna t$il m$orguns.
     english: I'll be here until morning.; I'll be here until tomorrow morning.
     lemmas: að verða, morgunn
@@ -18794,6 +18796,212 @@ rows:
   - icelandic: að skreppa
     row_id: 3154
     last_seen: "2021-08-03"
+  - icelandic: Já takk.
+    english: Yes∆ please.
+    alternative_id: Já, takk.
+    level: 1
+    row_id: 3155
+    last_seen: "2021-08-06"
+  - icelandic: dagurinn
+    english: the day
+    lemmas: dagur
+    alternative_id: dagurinn
+    level: 1
+    row_id: 3157
+    last_seen: "2021-08-06"
+  - icelandic: maðurinn
+    english: the man;; the human
+    lemmas: maður
+    alternative_id: maðurinn
+    level: 1
+    row_id: 3158
+    last_seen: "2021-08-06"
+  - icelandic: maturinn
+    english: the food
+    lemmas: matur
+    alternative_id: maturinn
+    level: 1
+    row_id: 3159
+    last_seen: "2021-08-06"
+  - icelandic: Maturinn er tilbúinn.
+    english: Food's ready.
+    lemmas: matur
+    depends_on: tilbúinn
+    alternative_id: Maturinn er tilbúinn.
+    level: 1
+    literally: The food is ready.
+    row_id: 3160
+    last_seen: "2021-08-06"
+  - icelandic: hamborgarinn
+    english: the hamburger
+    lemmas: hamborgari
+    alternative_id: hamborgarinn
+    level: 1
+    row_id: 3161
+    last_seen: "2021-08-06"
+  - icelandic: Skólinn byrjar á morgun.
+    english: School starts tomorrow.
+    lemmas: skóli, að byrja
+    alternative_id: Skólinn byrjar á morgun.
+    level: 1
+    literally: The school starts tomorrow.
+    row_id: 3162
+    last_seen: "2021-08-06"
+  - icelandic: bíllinn
+    english: the car
+    lemmas: bíll
+    alternative_id: bíllinn
+    level: 1
+    row_id: 3163
+    last_seen: "2021-08-06"
+  - icelandic: fiskurinn
+    english: the fish
+    lemmas: fiskur
+    alternative_id: fiskurinn
+    level: 1
+    row_id: 3164
+    last_seen: "2021-08-06"
+  - icelandic: Hvernig er fiskurinn?
+    english: How's the fish?
+    lemmas: fiskur
+    alternative_id: Hvernig er fiskurinn?
+    level: 1
+    row_id: 3165
+    last_seen: "2021-08-06"
+  - icelandic: þátturinn
+    english: the TV show;; the TV show episode
+    lemmas: þáttur
+    alternative_id: þátturinn
+    level: 1
+    row_id: 3166
+    last_seen: "2021-08-06"
+  - icelandic: Þátturinn er á ensku.
+    english: The TV show is in English.
+    lemmas: þáttur, enska
+    alternative_id: Þátturinn er á ensku.
+    level: 1
+    row_id: 3167
+    last_seen: "2021-08-06"
+  - icelandic: hamborgarinn minn
+    english: my hamburger
+    lemmas: hamborgari
+    alternative_id: hamborgarinn minn
+    level: 1
+    row_id: 3168
+    last_seen: "2021-08-06"
+  - icelandic: m%aðurinn m%inn
+    english: my husband
+    alternative_id: maðurinn minn
+    level: 1
+    literally: my man
+    row_id: 3169
+    last_seen: "2021-08-06"
+  - icelandic: Hvar er bíllinn þinn?
+    english: Where's your car?
+    lemmas: að vera, bíll
+    alternative_id: Hvar er bíllinn þinn?.
+    level: 1
+    row_id: 3170
+    last_seen: "2021-08-06"
+  - icelandic: Hundurinn þinn er mjög stór.
+    english: Your dog is very big.
+    lemmas: hundur
+    depends_on: stór
+    alternative_id: Hundurinn þinn er mjög stór.
+    level: 1
+    row_id: 3171
+    last_seen: "2021-08-06"
+  - icelandic: Maðurinn minn er kennari.
+    english: My husband is a teacher.
+    lemmas: maður
+    depends_on: kennari
+    alternative_id: Maðurinn minn er kennari.
+    level: 1
+    row_id: 3172
+    last_seen: "2021-08-06"
+  - icelandic: Er þetta kötturinn þinn?
+    english: Is this your cat?
+    lemmas: köttur
+    alternative_id: Er þetta kötturinn þinn?
+    level: 1
+    row_id: 3173
+    last_seen: "2021-08-06"
+  - icelandic: Vinkona mín býr hérna.
+    english: My (female) friend lives here.
+    lemmas: að búa
+    alternative_id: Vinkona mín býr hérna.
+    level: 1
+    row_id: 3174
+    last_seen: "2021-08-06"
+  - icelandic: Vinur minn kemur á morgun.
+    english: My friend will arrive tomorrow.; My friend comes tomorrow.
+    lemmas: að koma
+    alternative_id: Vinur minn kemur á morgun.
+    level: 1
+    row_id: 3175
+    last_seen: "2021-08-06"
+  - icelandic: pabbi minn
+    english: my dad
+    alternative_id: pabbi minn
+    level: 1
+    row_id: 3176
+    last_seen: "2021-08-06"
+  - icelandic: Hvar býr amma þín?
+    english: Where does your grandmother live?
+    lemmas: að búa
+    depends_on: amma
+    alternative_id: Hvar býr amma þín?
+    level: 1
+    row_id: 3177
+    last_seen: "2021-08-06"
+  - icelandic: Kann afi þinn ensku?
+    english: Does your grandfather know English?
+    lemmas: að kunna, enska
+    alternative_id: Kann afi þinn ensku?
+    level: 1
+    row_id: 3178
+    last_seen: "2021-08-06"
+  - icelandic: Hann var upptekinn.
+    english: He was busy.
+    depends_on: upptekinn
+    alternative_id: Hann var upptekinn.
+    level: 1
+    row_id: 3179
+    last_seen: "2021-08-06"
+  - icelandic: Hvernig var dagurinn þinn?
+    english: How was your day?
+    lemmas: að vera, dagur
+    alternative_id: Hvernig var dagurinn þinn?
+    level: 1
+    row_id: 3180
+    last_seen: "2021-08-06"
+  - icelandic: Hvar varst{{u}}?
+    english: Where were you?
+    lemmas: að vera
+    alternative_id: Hvar varstu?
+    level: 1
+    row_id: 3181
+    last_seen: "2021-08-06"
+  - icelandic: Þetta var erfiður dagur.
+    english: This was a difficult day.
+    alternative_id: Þetta var erfiður dagur.
+    level: 1
+    row_id: 3182
+    last_seen: "2021-08-06"
+  - icelandic: Þátturinn var frekar góður.
+    english: The TV show was fairly good.
+    lemmas: þáttur
+    alternative_id: Þátturinn var frekar góður.
+    level: 1
+    row_id: 3183
+    last_seen: "2021-08-06"
+  - icelandic: Var vinkona þín ánægð með það?
+    english: Was your (female) friend happy with that?
+    lemmas: ánægður
+    alternative_id: Var vinkona þín ánægð?
+    level: 1
+    row_id: 3184
+    last_seen: "2021-08-06"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

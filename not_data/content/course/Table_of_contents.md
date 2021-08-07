@@ -42,9 +42,13 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 {{chapter|Course/In an hour}}
 {{chapter|Course/Second case of the personal pronouns}}
 # Unit {{incr}}
-{{chapter|Course/The|The "the" <!--<div class="toc_subtitle"></div>-->}}
+{{chapter|Course/The|The "the"}}
+{{chapter|Course/My}}
+{{chapter|Course/My 2|My family members}}
+{{chapter|Course/Was}}
 
 <!-- ***
+<div class="toc_subtitle"></div>
 <div style="background: #aba3b4">
 
 # Unit {{incr}}
