@@ -46,8 +46,11 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 {{chapter|Course/My}}
 {{chapter|Course/My 2|My family members}}
 {{chapter|Course/Was}}
+# Unit {{incr}}
+{{chapter|Course/The (neuter)|The "the" for the neuter}}
+{{chapter|Course/The (feminine)|The "the" for the feminine}}
 
-<!-- ***
+***
 <div class="toc_subtitle"></div>
 <div style="background: #aba3b4">
 
@@ -58,8 +61,8 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 {{chapter|Course/How?}}
 {{chapter|Course/I like}}
 # Unit {{incr}}
-{{chapter|Course/Want 2 | Want ''(að vilja)'' <!-- Vilja -- >}}
-</div> -->
+{{chapter|Course/Want 2 | Want ''(að vilja)'' <!-- Vilja -->}}
+</div>
 </TOC>
 
 <Image src="Börn_svarthvít.jpg"/>
