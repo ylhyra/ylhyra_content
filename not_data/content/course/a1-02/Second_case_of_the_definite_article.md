@@ -4,6 +4,7 @@ reviewed: no
 ---
 <vocabulary>
 hér er fiskur - um fisk
+hér er vinur - um vin
 hér er hundur - um hund
 hér er maður - um mann
 hér er fiskurinn - um fiskinn

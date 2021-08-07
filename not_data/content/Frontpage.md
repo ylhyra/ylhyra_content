@@ -45,7 +45,7 @@ A simple [[vocabulary|flashcard game]] that uses spaced repetition to assist you
 
 <h3>[[Course]]</h3>
 
-The [[course|course]] is an explanatory companion to the vocabulary game and covers the beginner ([[A1]]) level. The course is aimed at self-learners and introduces grammatical concepts slowly.
+The [[course|course]] is an explanatory companion to the vocabulary game and currently covers around 20% of the beginner ([[A1]]) level. The course is aimed at self-learners and introduces grammatical concepts slowly.
 </div>
 <section class="frontpage-pricing">
 <div>

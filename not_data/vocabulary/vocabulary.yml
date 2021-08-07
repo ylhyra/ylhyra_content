@@ -11309,11 +11309,11 @@ rows:
     last_seen: "2021-07-30"
   - icelandic: partíið
     english: the party
-    lemmas: party%
+    lemmas: partí%
     level: 1
     note: Colloquial. In formal speech you would use "veisla".
     row_id: 1915
-    last_seen: "2021-07-30"
+    last_seen: "2021-08-07"
   - icelandic: betri
     level: 1
     row_id: 1916
@@ -19159,53 +19159,87 @@ rows:
     row_id: 3206
     last_seen: "2021-08-07"
   - icelandic: kaffið mitt
+    english: my coffee
+    lemmas: kaffi
     alternative_id: kaffið mitt
-    level: "1"
+    level: 1
     row_id: 3207
+    last_seen: "2021-08-07"
   - icelandic: frænka mín
+    english: my aunt; my female cousin; my niece
     alternative_id: frænka mín
-    level: "1"
+    level: 1
     row_id: 3208
+    last_seen: "2021-08-07"
   - icelandic: hér er fiskur - um fisk
+    english: here is a fish - about a fish
     alternative_id: hér er fiskur - um fisk
-    level: "1"
+    level: 1
     row_id: 3209
+    last_seen: "2021-08-07"
   - icelandic: hér er hundur - um hund
+    english: here is a dog - about a dog
     alternative_id: hér er hundur - um hund
-    level: "1"
+    level: 1
     row_id: 3210
+    last_seen: "2021-08-07"
   - icelandic: hér er maður - um mann
+    english: here is a man - about a man
     alternative_id: hér er maður - um mann
-    level: "1"
+    level: 1
+    note: An irregular declension.
     row_id: 3211
+    last_seen: "2021-08-07"
   - icelandic: hér er fiskurinn - um fiskinn
+    english: here is the fish - about the fish
+    lemmas: fiskur
     alternative_id: hér er fiskurinn - um fiskinn
-    level: "1"
+    level: 1
     row_id: 3212
-  - icelandic: Borðarðu fisk?
+    last_seen: "2021-08-07"
+  - icelandic: Borðar{{ðu}} fisk?
+    english: Do you eat fish?
+    lemmas: að borða, fiskur
     alternative_id: Borðarðu fisk?
-    level: "1"
+    level: 1
     row_id: 3213
+    last_seen: "2021-08-07"
   - icelandic: hér er maðurinn - um manninn
+    english: here is the man - about the man
+    lemmas: maður
     alternative_id: hér er maðurinn - um manninn
-    level: "1"
+    level: 1
+    note: An irregular declension.
     row_id: 3214
+    last_seen: "2021-08-07"
   - icelandic: hér er dagurinn - um daginn
+    english: here is the day - about the day
+    lemmas: dagur
     alternative_id: hér er dagurinn - um daginn
-    level: "1"
+    level: 1
     row_id: 3215
+    last_seen: "2021-08-07"
   - icelandic: hér er kötturinn minn - um köttinn minn
+    english: here is my cat - about my cat
+    lemmas: köttur
     alternative_id: hér er kötturinn minn - um köttinn minn
-    level: "1"
+    level: 1
     row_id: 3216
+    last_seen: "2021-08-07"
   - icelandic: hér er þátturinn - um þáttinn
+    english: here is the TV show - about the TV show
+    lemmas: þáttur
     alternative_id: hér er þátturinn - um þáttinn
-    level: "1"
+    level: 1
     row_id: 3217
+    last_seen: "2021-08-07"
   - icelandic: hér er hamborgarinn minn - um hamborgarann minn
+    english: here is my hamburger - about my hamburger
+    lemmas: hamborgari
     alternative_id: hér er hamborgarinn minn - um hamborgarann minn
-    level: "1"
+    level: 1
     row_id: 3218
+    last_seen: "2021-08-07"
   - icelandic: Ég veit ekki hvar hundurinn minn er.
     english: I don't know where my dog is.
     lemmas: að vita, hundur
@@ -19213,9 +19247,10 @@ rows:
     level: 1
     row_id: 3219
     last_seen: "2021-08-07"
-  - icelandic: Áttu hund?
+  - icelandic: Átt{{u}} hund?
     english: Do you own a dog?
     lemmas: að eiga, hundur
+    depends_on: þú átt
     alternative_id: Áttu hund?
     level: 1
     row_id: 3220
@@ -19265,6 +19300,7 @@ rows:
     row_id: 3226
     last_seen: "2021-08-07"
   - icelandic: Ég er að tala við vin minn.
+    english: I'm talking to my friend.
     lemmas: vinur
     depends_on: að tala við
     alternative_id: Ég er að tala við vin minn.
@@ -19274,9 +19310,21 @@ rows:
   - icelandic: Langar vin þinn að koma með?
     english: Does your friend want to come along?; Does your friend want to come with (us)?
     lemmas: að langa, vinur
+    depends_on: um vin
     alternative_id: Langar vin þinn að koma með?
     level: 1
     row_id: 3228
+    last_seen: "2021-08-07"
+  - icelandic: þú borðar
+    english: you eat
+    lemmas: að borða
+    level: 1
+    row_id: 3229
+    last_seen: "2021-08-07"
+  - icelandic: hér er vinur - um vin
+    english: here is a friend - about a friend
+    level: 1
+    row_id: 3230
     last_seen: "2021-08-07"
 sound:
   - recording_of: níu sinnum
