@@ -4342,11 +4342,11 @@ rows:
     last_seen: "2021-07-09"
   - icelandic: B*andaríkin*
     english: the United States
-    depends_on: ríki, band, að binda, bandalag
+    depends_on: ríki
     level: 1.9
     note: This term is commonly used, "Ameríka" can also be used colloquially.
     row_id: 706
-    last_seen: "2021-07-09"
+    last_seen: "2021-08-07"
   - icelandic: Ég er í Bandaríkjunum.
     english: I'm in the United States.
     lemmas: Bandaríkin
@@ -12597,9 +12597,10 @@ rows:
   - icelandic: við hliðina á
     english: to the side of
     lemmas: hlið
+    depends_on: hliðin
     level: 3
     row_id: 2153
-    last_seen: "2021-07-30"
+    last_seen: "2021-08-07"
   - icelandic: fiskvinnslan
     english: the fish processing facility
     lemmas: fiskvinnsla%
@@ -19002,6 +19003,161 @@ rows:
     level: 1
     row_id: 3184
     last_seen: "2021-08-06"
+  - icelandic: Var gaman?
+    english: Was it fun?
+    lemmas: að vera
+    alternative_id: Var gaman?
+    level: 1
+    row_id: 3185
+    last_seen: "2021-08-07"
+  - icelandic: Hvernig var?
+    english: How was (it)?
+    lemmas: að vera
+    alternative_id: Hvernig var?
+    level: 1
+    row_id: 3186
+    last_seen: "2021-08-07"
+  - icelandic: borðið
+    english: the table
+    lemmas: borð
+    alternative_id: borðið
+    level: 1
+    row_id: 3187
+    last_seen: "2021-08-07"
+  - icelandic: landið
+    english: the land;; the country
+    lemmas: land
+    alternative_id: landið
+    level: 1
+    row_id: 3188
+    last_seen: "2021-08-07"
+  - icelandic: bókin
+    english: the book
+    lemmas: bók
+    alternative_id: bókin
+    level: 1
+    row_id: 3189
+    last_seen: "2021-08-07"
+  - icelandic: konan
+    english: the woman
+    lemmas: kona
+    alternative_id: konan
+    level: 1
+    row_id: 3190
+    last_seen: "2021-08-07"
+  - icelandic: mjólkin
+    english: the milk
+    lemmas: mjólk
+    alternative_id: mjólkin
+    level: 1
+    row_id: 3191
+    last_seen: "2021-08-07"
+  - icelandic: vikan
+    english: the week
+    lemmas: vika%
+    alternative_id: vikan
+    level: 1
+    row_id: 3192
+    last_seen: "2021-08-07"
+  - icelandic: árið mitt
+    english: my year
+    lemmas: ár
+    alternative_id: árið mitt
+    level: 1
+    row_id: 3193
+    last_seen: "2021-08-07"
+  - icelandic: vikan mín
+    english: my week
+    lemmas: vika
+    alternative_id: vikan mín
+    level: 1
+    row_id: 3194
+    last_seen: "2021-08-07"
+  - icelandic: flugvélin mín
+    english: my airplane
+    lemmas: flugvél
+    alternative_id: flugvélin mín
+    level: 1
+    row_id: 3195
+    last_seen: "2021-08-07"
+  - icelandic: konan mín
+    english: my wife
+    lemmas: kona
+    alternative_id: konan mín
+    level: 1
+    literally: my woman
+    row_id: 3196
+    last_seen: "2021-08-07"
+  - icelandic: barnið mitt
+    english: my child
+    lemmas: barn
+    alternative_id: barnið mitt
+    level: 1
+    row_id: 3197
+    last_seen: "2021-08-07"
+  - icelandic: hárið þitt
+    english: your hair
+    lemmas: hár
+    alternative_id: hárið þitt
+    level: 1
+    row_id: 3198
+    last_seen: "2021-08-07"
+  - icelandic: eldhúsið þitt
+    english: your kitchen
+    lemmas: eldhús
+    alternative_id: eldhúsið þitt
+    level: 1
+    row_id: 3199
+    last_seen: "2021-08-07"
+  - icelandic: bókin þín
+    english: your book
+    lemmas: bók
+    alternative_id: bókin þín
+    level: 1
+    row_id: 3200
+    last_seen: "2021-08-07"
+  - icelandic: tölvan mín
+    english: my computer
+    lemmas: tölva
+    alternative_id: tölvan mín
+    level: 1
+    row_id: 3201
+    last_seen: "2021-08-07"
+  - icelandic: dagurinn minn
+    english: my day
+    lemmas: dagur
+    alternative_id: dagurinn minn
+    level: 1
+    row_id: 3202
+    last_seen: "2021-08-07"
+  - icelandic: hundurinn þinn
+    english: your dog
+    lemmas: hundur
+    alternative_id: hundurinn þinn
+    level: 1
+    row_id: 3203
+    last_seen: "2021-08-07"
+  - icelandic: garðurinn minn
+    english: my garden
+    lemmas: garður
+    alternative_id: garðurinn minn
+    level: 1
+    row_id: 3204
+    last_seen: "2021-08-07"
+  - icelandic: maturinn minn
+    english: my food
+    lemmas: matur
+    alternative_id: maturinn minn
+    level: 1
+    row_id: 3205
+    last_seen: "2021-08-07"
+  - icelandic: bjórinn minn
+    english: my beer
+    lemmas: bjór
+    alternative_id: bjórinn minn
+    level: 1
+    row_id: 3206
+    last_seen: "2021-08-07"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3

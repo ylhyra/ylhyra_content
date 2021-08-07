@@ -13,11 +13,13 @@ eldhúsið þitt
 bókin þín
 tölvan mín
 dagurinn minn
+kaffið mitt
 hundurinn þinn
 garðurinn minn
 maturinn minn
 bjórinn minn
 frænka mín
+<!-- Eldhúsið þitt er ekkert smá flott. -->
 </vocabulary>
 # My
 To say "my day" you say "dagurinn minn" (with the [[definite article]]).
