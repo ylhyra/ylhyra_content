@@ -9,13 +9,14 @@ classes:
 - sans-serif
 - brown-screen
 ---
-<!-- <div style="
+<div style="
   background: #f09f9f;
   padding: 8px 12px;
   border: 1px solid #ce8d8d;
+  font-size: 12px;
   border-radius: 5px;">
-This is a testing site for the next version of Ylhýra. It contains some bugs and non-functioning links.
-</div> -->
+This is a testing site for the next version of Ylhýra. Please [mailto:egill@egill.xyz let me know] if you encounter bugs.
+</div>
 
 <div id="frontpage-screen">
 {{spacer|10}}
@@ -45,9 +46,9 @@ A simple [[vocabulary|flashcard game]] that uses spaced repetition to assist you
 
 <h3>[[Course]]</h3>
 
-The [[course|course]] is an explanatory companion to the vocabulary game and currently covers around 20% of the beginner ([[A1]]) level. The course is aimed at self-learners and introduces grammatical concepts slowly.
+The [[course|course]] is an explanatory companion to the vocabulary game and covers the first 20% of the beginner ([[A1]]) level. The course is aimed at self-learners and introduces grammatical concepts slowly.
 </div>
-<section class="frontpage-pricing">
+<section class="frontpage-pricing pwyw-on">
 <div>
 <!-- <h3>Pricing</h3> -->
 
