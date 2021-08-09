@@ -2,7 +2,7 @@
 title: Project:Poster
 status: draft
 ---
-
+<!--
 '''Ylhýra''' is a project with a strong focus on word-for-word translations. Interlinear gloss, translations on mouse-over, and synchronized audio are used to encourage learners to continue reading challenging texts.
 
 ## Detailed translations over automatic translations
@@ -84,3 +84,4 @@ Annotating a 500 word passage can take around 1 hour, or slightly longer than it
 ***allow others to suggest edits which will be approved or rejected
 **encourages continuous incremental improvements and forces you to publish immediately
 
+-->

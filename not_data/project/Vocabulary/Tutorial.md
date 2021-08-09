@@ -2,12 +2,17 @@
 title: Vocabulary/Tutorial
 ---
 
-# Vocabulary game
+# About the vocabulary game
 
-This is a simple flaschard-based vocabulary game. After rating how well you know terms, you will be shown the difficult terms frequently until they begin to stick in memory.
+This is a simple flaschard-based vocabulary game that schedules words using [[w:Spaced repetition|spaced repetition]].
+After rating how well you know terms, you will see difficult terms frequently until they begin to stick in memory. After that, you will see them in ever-increasing intervals.
+
+The game works best if used daily.
+
+## The buttons
 
 An explanation of what you should expect from the buttons:
-* "Bad" is for cards that you didn't know, didn't know perfectly, or had to think hard about. Clicking "Bad" will show you the card again in your current session, showing it after you've gone through three other cards. It will also schedule the card to be seen the next day.
+* "Bad" is for cards that you didn't know, didn't know perfectly, or had to think hard about. Clicking "Bad" will show you the card again in your current session and will schedule the card to be seen tomorrow.
 * "Good" is for terms you knew perfectly but which you had to think a little bit about. Clicking "Good" will not show it again in your current session.
   * If this is the first time you see this card, it will be scheduled to be seen in two days.
   * Otherwise the card's previous time interval will be doubled. Always clicking "Good" will therefore show a card in 2 days, then 4 days, then 8, 16 and so on.
