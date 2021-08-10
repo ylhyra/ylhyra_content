@@ -1,7 +1,7 @@
 ---
 title: Pay what you want
+url: pwyw
 redirects:
-- PWYW
 - signup/pwyw
 index: no
 classes:

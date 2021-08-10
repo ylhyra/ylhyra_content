@@ -1,6 +1,6 @@
 ---
 title: Sign up
-# url: signup
+url: signup
 redirects:
 - signup
 index: no

@@ -2,7 +2,7 @@
 title: ""
 redirects:
 - Ylhýra
-- Front page
+- Frontpage
 reviewed: no
 classes:
 - wide-screen

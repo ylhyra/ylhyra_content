@@ -23,6 +23,7 @@ Maðurinn minn á hund.
 Ég er að horfa á þátt.
 Hvað er þátturinn um?
 Ég kann ekki að elda fisk.
+Ég ætla að hitta vin minn á eftir.
 Ég er að tala við vin minn.
 Langar vin þinn að koma með?
 </vocabulary>
