@@ -1,9 +1,10 @@
 ---
-title: Project:License
+title: License
 redirects:
 - Project:Copyrights
 - Project:Licence
 - Project:Licensing
+- Project:License
 tags:
 - Ylhýra
 ---
@@ -18,6 +19,6 @@ Ylhýra attempts to publish as much as it can under an [[W:Free-culture movement
 
 ## Software
 
-[https://github.com/ylhyra/ylhyra Ylhýra's software] is published under the [https://tldrlegal.com/license/mit-license MIT]<!--[https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3) GPLv3]-->.
+[https://github.com/ylhyra/ylhyra Ylhýra's software] is published under the [https://tldrlegal.com/license/mit-license MIT]<!--[https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3) GPLv3]--> license.
 
 <Image src="Landmannalaugar2.jpg" width="600"/>

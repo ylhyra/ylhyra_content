@@ -33,3 +33,5 @@ title: Project:Software/Útlit
 * https://dashboard.magic.link/login
 * https://zencastr.com/
 * https://epicpython.com/
+* https://practicaltypography.com/times-new-roman-alternatives.html
+* https://www.typemates.com/fonts/bridge-text

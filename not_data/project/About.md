@@ -19,7 +19,7 @@ Ylhýra is a collaborative project that publishes software and material for maki
 {{spacer|10}}
 
 ## Authors
-<Image src="Eliza og Ylhýra.jpg" link="Project:Eliza Reid" position="right" caption="Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland."/>
+<Image src="Eliza og Ylhýra.jpg" link="Project:Eliza Reid" position="right" caption="Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland, who herself has Icelandic as a second language."/>
 
 *Egill <i><small>[mailto:egill@egill.xyz (email)]</small></i>
 *Anna Steinunn Ingólfsdóttir
