@@ -19,7 +19,7 @@ An Ylhýra account is available on a '''pay-what-you-want''' basis, meaning that
 <div class="small gray">
 Payment is handled through PayPal.
 
-Ylhýra is free to use. Creating an account allows you to share your vocabulary progress across multiple devices.
+Ylhýra is free to use. Creating an account allows you to save your vocabulary progress and continue the game across multiple devices.
 
 The recipient is Ylhýra <span title="Einkahlutafélag (Icelandic private company)">ehf.</span>, Icelandic identification number 480520-0170.
 </div>

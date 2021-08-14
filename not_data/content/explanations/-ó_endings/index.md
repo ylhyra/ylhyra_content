@@ -36,6 +36,7 @@ The following words are heard in everyday speech:
 
 ## Less common or informal
 
+*tengdamóðir, tengdafaðir → '''tengdó''' (mother/father in law)
 *kærasti / kærasta → '''kæró''' (boyfriend, girlfriend)
 **Informal, occasionally used by the younger generation.
 **''„Ég og kæró ætlum að kíkja til Sigló um helgina.“''

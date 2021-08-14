@@ -1,6 +1,7 @@
 ---
 title: temp vocabulary
 reviewed: no
+status: draft
 ---
 
 ég segi
