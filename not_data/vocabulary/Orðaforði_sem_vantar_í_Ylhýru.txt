@@ -1,13 +1,11 @@
 marga hluti í einu.
 ég fæ borgað fyrir það
 gefa til kynna
-
 að segja af sér
 Hvað vantar þig
 Hvernig er peysan mín á litinn?
 að líta niður á
 Að fara yfir texta.
-
 Úr hverju er þetta
 Tíminn líður án þess að maður átti sig á því.
 Að skreppa út í búð.
@@ -18,16 +16,11 @@ skuld
 Það kemur ekki neinum við., Það kemur engum við.
 húsnæði
 Er hann að lagast í bakinu?
-
 Hvernig er veðrið?
-
-
 átti það skilið
 hraðari
 Sonur hans er hærri en hann.
-
 að rétta mér
-
 ég er kominn með nóg
 Þú eyðileggur alltaf allt.
 Langar þig að koma með?, Viltu koma með?
@@ -37,10 +30,8 @@ læst
 tímaspursmál
 Hann var alveg miður sín.
 Ekkert af viti.
-
 Ég nenni þessu ekki lengur.
 auka hús
-
 Því fleiri smákökur sem ég borða, því svangari verð ég.
 að henda mat
 Það er jafn gott.
@@ -52,7 +43,6 @@ Hvað ertu með?
 Áttir þú að hringja í mig?
 slappur
 Er einhver séns að ég geti platað þig til að
-
 Klukkan er of margt.
 Ég vinn sem ...
 Hafðu engar áhyggjur af því.
@@ -66,9 +56,8 @@ Að eiga von á ..
 að klára
 ósáttur
 Reiðir út í hvorn annan.
-
-fótur	foot;; leg
-Mér er illt í fætinum.	My foot hurts.;; My leg hurts.
+fótur    foot;; leg
+Mér er illt í fætinum.    My foot hurts.;; My leg hurts.
 Án nokkurar
 allt búið
 að hvíla sig
@@ -76,7 +65,6 @@ Hann er slæmur kennari.
 Hann er vondur kennari.
 að kenna um
 bjóða upp á
-
 Mér þykir leitt að hafa ekki komið.
 Fæ ég að hringja hjá þér?
 Ég kemst ekki inn.
@@ -88,7 +76,6 @@ Hvað er hann þekktur fyrir?, Fyrir hvað er hann þekktur?
 Hvað er þetta eiginlega?
 að leita að vinnu
 ár fram í tímann
-
 það fer ekki fram hjá neinum
 Fékkstu starfið?
 Ég fékk vinnu hjá...
@@ -97,7 +84,6 @@ get ekki verið lengur
 vissi thad nu thegar
 Það er komið gat á buxurnar þínar.
 Hún er jafngömul mér. Hún er jafngömul og ég.
-
 tveggja gráðu frost
 Það er slökkt á sjónvarpinu.
 Ekki hafa áhyggjur af því.
@@ -113,14 +99,10 @@ Við búum saman.
 Við bjuggum samam.
 að eiga skilið
 Ég var búinn að gleyma því.
-
 ekki fyrr en á morgun vs. þangað til á morgun
-
 Eg held að einhver hafi tekið...
-
 að taka eftir vs. að fylgjast með
-
-Ég treysti honum satt best að segja ekki.	To be honest\, I don't trust him.
+Ég treysti honum satt best að segja ekki.    To be honest\, I don't trust him.
 hvað sem ég vil
 Það svarar enginn.
 Það mættu tíu.
@@ -132,13 +114,11 @@ fyrst að maður er byrjaður
 kominn af stað
 það er löngu búið
 að slappa af vs. sleppa
- með það
+með það
 réðst á mig
 að taka á móti
 það er undir þér komið
 að sækja um
-
-
 Hvað má bjóða þér?
 missa vs sakna
 Missti af fluginu mínu.
@@ -147,7 +127,6 @@ hvernig hitti ég á þig?
 setning kemur frá að setja
 stutt mynd
 þangað tl á morgun vs ekki fyrr en á morgun
-
 Ekki vs. ekkert
 Þarna, þangað, þaðan, hérna, hingað, héðan
 Numbers
@@ -165,27 +144,23 @@ Viltu far?
 leggja það á minnið
 utan við sig
 Ég á ekki von á því.
-
-að grenja	to cry loudly
+að grenja    to cry loudly
 að toga í
 Ekki sem verst
-Evrópusambandið (ESB)	The European Union (EU)
-Evrópska efnahagssambandið (EES)	The European Economic Area (EAA)
-móðurmál	native language	móðir, tungumál
+Evrópusambandið (ESB)    The European Union (EU)
+Evrópska efnahagssambandið (EES)    The European Economic Area (EAA)
+móðurmál    native language    móðir, tungumál
 mig minnir
 að minna á vs að muna
 ég hefði getað svarið
 vegna vinnu
 ég kemst ekki vegna þess að
 Bræðurnir eru reiðir út í hvorn annan.
-
-
-
 að svipta sig lífi, að fremja sjálfsmorð
 enn sem komið er
-Ekki sem verst.	Not bad at all.
+Ekki sem verst.    Not bad at all.
 Hef ekki tíma til þess.
-Þau dreifa hugmyndafræði sinni með orðaforðaleikjum.	They spread their ideology using vocabulary games.
+Þau dreifa hugmyndafræði sinni með orðaforðaleikjum.    They spread their ideology using vocabulary games.
 eftir  Krist (e.Kr.)
 fyrir  Krist (f.Kr.)
 héðan og þaðan
@@ -211,24 +186,21 @@ Klukan er tvö
 að hleypa inn
 óviðeigandi
 þykjustu
-
 við rifumst
 voða fínt
-
 fyrr
 í fyrra
 fyrri
 Hann er stutthærður.
-að greiða	to pay money;; to comb someone's hair
+að greiða    to pay money;; to comb someone's hair
 heyrnartól
 að komast að einhverju
-
-síðan	since (regarding time);; after that
+síðan    since (regarding time);; after that
 hinkraðu
 sleipt
 hakk og spagettí
 klipping fer þér vel
-gaman	fun, enjouyable
+gaman    fun, enjouyable
 dónalegur
 ég get ekki ákveðið mig
 hvað kom fyrir (hann)?
@@ -249,7 +221,6 @@ hvort eð er
 þeim var sagt
 Ertu kominn með vinnu?
 geturðu rétt mér smjörið?
-
 að fylgjast með er líka "to keep an eye on"
 steinsofnaði
 talsvert yngri
@@ -259,14 +230,12 @@ Kom eitthvað fyrir / kom eitthvað upp á?
 mér þykir það leitt
 segja af sér / segja upp
 að falla á prófi
-
 Farðu úr bolnum.
 Farðu úr sokkunum.
 hálfrar milljón(ar)??? króna hjól
 Sýndu mér.
 Ertu viss?
 leita mér að vinnu
-
 hljóðfæri
 dekk
 Mig hefur dreymt um það lengi.
@@ -314,7 +283,6 @@ Að gefa út lag.
 Smakka
 Að vanda sig
 Að vanda
-
 Loksins
 Til vara
 Hvað ertu með framan í þér?
@@ -485,30 +453,17 @@ Finnurðu lyktina?
 Samferða vs meðferð
 Yfirvöld the authorities
 Þjónusta service
-
-
 Mynd af honum berum að ofan
 Hvað heldurðu að þú sért að gera?
-
 Næststærsti
 Mig hefur alltaf langað e?að gera það
-
-
 Hvílík :/ þvílík
-
 Að detta í sundur
 Ná mér í kaffi
-
 Hið opinbera
-
-
-
-
-
 Að kinka kolli að hrista hausinn
 Komast fyrir vs komast fyrr
 Það styttist í það
-
 Tvo hluti
 Viltu koma med?
 Fardu ur ad ofan.
@@ -516,7 +471,6 @@ að laga
 Hann náði í mig
 Þú ert með lykla
 Þægilegt
-
 Um hádegið
 Hann for an þess að kveðja
 Ætlarðu ekki að heilsa?
@@ -532,7 +486,6 @@ Svekktur
 Viltu sopa?
 Mæðgin
 Bómullin
-
 Af engri ástæðu
 Skamma stund
 An gríns
@@ -542,7 +495,6 @@ Sitt lítið af hverju
 Komdu þér fyrir
 Að segja upp
 Honum var sagt upp
-
 Hvort eð er
 Mikið var!
 Að reyna við
@@ -555,7 +507,6 @@ Fara ut hinum megin
 Að leggja til, tillaga
 Ókei only used in responses, not to describe things.
 Því var stolið.
-
 Geturðu bent mér á
 Endurgreiða
 Þannig vs svona
@@ -566,53 +517,151 @@ Mikið úrval
 Þú lítur hræðilega út You look terrible.
 Að muna - sterk vs veik beyging
 I hina áttina
-
-
 þremur vikum seinna
-
 Hvað er innan í ...
-slappur
-
-
-
 Það er smá bið.
-
 lengi að ná sér
 að komast að
 Laga:
-vitlaus ->
-
+vitlaus -&gt;
 að taka þátt
 að fá að gera eitthvað
-
 að finna fyrir
 fyrir neðan (er það sama og undir?)
 af
-
 svekktur
 stjórna vs stýra
 mundi vs munaði
 að slást  - að slást í
 Hver þáttur er klukkutími.
-
 þannig
 Það kom öllum á óvart.
 skemmtilegasta sem ég hef gert á ævinni
 að segja frá
- í farangursgeymslunn
-
+í farangursgeymslunn
 Hann reiddist.
 fréttir
 Er það ekki?
-
 að fá lánað
-
-
-
 Ég heyri í þér á eftir.
 ég næ því ekki
-
-
-
 eitt ár í viðbót = one more year
 Gefstu upp?
+af hverju ertu vakandi **svo** snemma
+gjarnan, heldur, helst
+ekki í þetta skipti
+út um allt / úti um allt??
+hvernig hitti ég á þig
+Það er komið að því. = The passage of time has now arrived at a point in which the next thing to occur is this thing.
+Röðin er komin að þér
+Jæja, þá er komið að þér. = Well then, now it's your turn.
+allt hitt
+eru ekki allir í stuði
+ég er ekki í stuði fyrir þetta
+Þetta er komið.
+Verðurðu lengi í burtu?
+Gangi þér vel.
+margt í boði
+að fara úr að ofan
+einhvers staðar annars staðar
+hvað með...?
+aftan á
+að lokum
+ég er með kvef
+Ekki slæmt!    Not bad!
+á næsta ári
+leigubíll = a taxi
+með tveggja mánaða fyrirvara = two months in advance
+þau héldu áfram
+Það var ekki jafn dýrt og ég hélt.
+mörgum sinnum    many times
+hún sagði að hún hefði unnið hérna
+Ég komst að því að allir Íslendingar fara til Tene.
+Ég hélt að hann hlyti að vera
+Ég er kominn með hita.
+Það er leitt að heyra.
+hiti = fever
+of seint
+of snemmt
+að snýta sér
+að fletta upp = to look up
+hurðirnar = the doors
+að smakka = to have a taste
+Ég man eftir matnum hennar.
+hrísgrjón
+grænmeti
+Flóki er gott nafn
+Það var brjálað að gera í Bláa lóninu.
+að ganga frá
+jafnvel þótt að
+Hann getur ekki komið.
+það eru fjögur ár síðan
+Það getur alltaf eitthvað komið upp á
+hreimur
+Hefurðu nokkurn tímann
+aldrei nokkurn tímann
+að leggja til
+í gangi
+útskýra
+"betra" is a long vowel
+"flugið" is not a long vowel
+að skrifa undir samning = to sign a contract
+í bekknum mínum
+sítt hár
+staðfest
+Ég hef ekki haft tíma.
+límið
+hérne megin hinum megin
+alls staðar
+gráður
+á hverju ári
+mikið af fólki
+að seinka = to delay something
+Það var eins tíma seinkun.
+til þess að vera viss um
+að sækja – ég sæki í dag – ég sótti í gær – ég hef sótt
+nálægt höfninni
+Nei, hæ!
+Sem betur fer.
+Hef ekki orðið var við það
+Að sja um=to manage
+Í laginu eins og
+Allt í einu gerðist
+Auglýsing
+Til hvers
+Taka því
+Tíma því
+Hinum megin
+Það vill svo til að
+Annað hvort eða
+Glorhungraður
+Oftast
+Fjórðungur
+Eg ceit það ekki alveg.
+Er það ekii? J
+Mig langar frekar að vera herna
+Frekar mikið
+Rett að byrja
+Lagið er ekki með löngu serhljoði
+Það fer eftir því
+Að láta = to have something be done
+Enn og aftur
+Að leggja sig fram
+Að vera ofan í
+Að gefa far
+Til hliðar
+Það borgaði sig = lt paid off
+I hverju ertu?
+Hvernig get ég aðstoðað?
+Á hinn
+Hvernig finnst þér
+Gerðu það
+Klosettpappir
+Eldhusrulla
+Hvitlaukur
+Það er komið sumar
+Báðum megin
+Hinum megin við vegginn
+Ekki beint = not exactly
+Slæmar fréttir
+Engin ástæða
