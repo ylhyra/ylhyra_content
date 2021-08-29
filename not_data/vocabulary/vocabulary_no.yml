@@ -1,0 +1,115 @@
+rows:
+  - icelandic: å nekte
+    english: að neita
+    alternative_id: å nekte
+    row_id: 1
+  - icelandic: å gi
+    english: að gefa
+    alternative_id: å gi
+    row_id: 2
+  - icelandic: en innsats
+    english: an effort
+    alternative_id: en innsats
+    row_id: 3
+  - icelandic: lytteferdigheter
+    english: listening skills
+    alternative_id: lytteferdigheter
+    row_id: 4
+  - icelandic: et vær
+    english: veður
+    alternative_id: et vær
+    row_id: 5
+  - icelandic: å klage
+    english: að kvarta
+    alternative_id: klage
+    row_id: 6
+  - icelandic: generelt
+    english: almennt
+    alternative_id: generelt
+    note: borið fram „sj“
+    row_id: 7
+  - icelandic: å snakke
+    english: að tala
+    alternative_id: å snakke
+    row_id: 8
+  - icelandic: et spørsmål
+    english: spurning
+    alternative_id: et spørsmål
+    row_id: 9
+  - icelandic: tilfeldigvis
+    english: by any chance
+    alternative_id: tilfeldigvis
+    row_id: 10
+  - icelandic: kanskje
+    english: kannski
+    alternative_id: kanskje
+    row_id: 11
+  - icelandic: datamaskin
+    english: tölva
+    alternative_id: datamaskin
+    row_id: 12
+  - icelandic: datamaskina
+    english: tölvan
+    alternative_id: datamaskina
+    row_id: 13
+  - icelandic: ei nettside
+    english: vefsíða
+    alternative_id: ei nettside
+    row_id: 14
+  - icelandic: ei anbefaling
+    english: a recommendation
+    alternative_id: ei anbefaling
+    row_id: 15
+  - icelandic: et forslag
+    english: tillaga
+    alternative_id: et forslag
+    row_id: 16
+  - icelandic: veldig bra
+    english: mjög gott
+    alternative_id: veldig bra
+    row_id: 17
+  - icelandic: den ligner
+    english: það er svipað
+    alternative_id: den ligner
+    row_id: 18
+  - icelandic: å tvinge
+    english: að neyða
+    alternative_id: å tvinge
+    row_id: 19
+  - icelandic: vanskelig
+    english: erfitt
+    alternative_id: vanskelig
+    row_id: 20
+  - icelandic: å undervise
+    english: að kenna
+    alternative_id: å undervise
+    row_id: 21
+  - icelandic: m*orsomt
+    english: skemmtilegt
+    alternative_id: m*orsomt
+    row_id: 22
+  - icelandic: a*rtig
+    english: skemmtilegt
+    alternative_id: a*rtig
+    row_id: 23
+  - icelandic: g*øy
+    english: skemmtilegt
+    alternative_id: gøy
+    row_id: 24
+  - icelandic: akkurat nå
+    english: einmitt núna
+    row_id: 25
+  - icelandic: veldig fort
+    english: verulega hratt
+    alternative_id: veldig fort
+    row_id: 26
+  - icelandic: det gir
+    english: það gefur
+    alternative_id: det gir
+    row_id: 27
+  - icelandic: angst
+    english: kvíði
+    alternative_id: angst
+    row_id: 28
+    last_seen: "2021-08-27"
+sound: []
