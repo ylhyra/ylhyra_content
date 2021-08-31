@@ -232,4 +232,53 @@ rows:
     alternative_id: sint
     row_id: 57
     last_seen: "2021-08-29"
+  - icelandic: å trenge
+    english: að þurfa; að þarfnast
+    alternative_id: å trenge
+    row_id: 58
+  - icelandic: venninne
+    english: vinkona
+    alternative_id: venninne
+    row_id: 59
+  - icelandic: u*middelbart
+    english: undir eins
+    alternative_id: u*middelbart
+    row_id: 60
+  - icelandic: muligens
+    english: mögulega
+    alternative_id: muligens
+    row_id: 61
+  - icelandic: en spøk
+    english: brandari
+    alternative_id: en spøk
+    row_id: 62
+  - icelandic: å laste
+    english: að hlaða (niður)
+    alternative_id: å laste
+    row_id: 63
+  - icelandic: å avbryte
+    english: að grípa fram í
+    alternative_id: å avbryte
+    row_id: 64
+  - icelandic: ei virksomhet
+    english: fyrirtæki; rekstur; starfsemi
+    alternative_id: ei virksomhet
+    row_id: 65
+  - icelandic: s*amtlige
+    english: allt
+    alternative_id: s*amtlige
+    row_id: 66
+  - icelandic: m*ed* *en* *gang*
+    english: undir eins
+    alternative_id: m*ed* *en* *gang*
+    row_id: 67
+  - icelandic: å ruse seg
+    english: að nota eiturlyf
+    alternative_id: å ruse seg
+    row_id: 68
+  - icelandic: klær
+    english: föt
+    alternative_id: klær
+    row_id: 69
+    last_seen: "2021-08-31"
 sound: []
