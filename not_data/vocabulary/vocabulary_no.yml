@@ -50,8 +50,10 @@ rows:
     row_id: 12
   - icelandic: datamaskina
     english: tölvan
+    depends_on: datamaskin
     alternative_id: datamaskina
     row_id: 13
+    last_seen: "2021-08-29"
   - icelandic: ei nettside
     english: vefsíða
     alternative_id: ei nettside
@@ -112,4 +114,122 @@ rows:
     alternative_id: angst
     row_id: 28
     last_seen: "2021-08-27"
+  - icelandic: til foreldrene mine sitt hus
+    english: heim til foreldra minna
+    alternative_id: til foreldrene mine sitt hus
+    row_id: 29
+  - icelandic: etter timen vår
+    english: eftir tímann okkar
+    alternative_id: etter timen vår
+    row_id: 30
+  - icelandic: j%eg d%rar
+    english: ég fer til
+    alternative_id: j%eg d%rar
+    row_id: 31
+  - icelandic: en overraskelse
+    english: a surprise
+    alternative_id: en overraskelse
+    row_id: 32
+  - icelandic: sør
+    english: suður
+    alternative_id: sør
+    row_id: 33
+  - icelandic: en anmeldelse
+    english: gagnrýni; a review;; kæra
+    alternative_id: en anmeldelse
+    row_id: 34
+  - icelandic: omsorgsfull
+    english: umhyggjusamur
+    alternative_id: omsorgsfull
+    row_id: 35
+  - icelandic: forsinke
+    english: að seinka
+    alternative_id: forsinke
+    row_id: 36
+  - icelandic: t*ydelig
+    english: augljós; greinilegur
+    alternative_id: t*ydelig
+    row_id: 37
+    last_seen: "2021-08-29"
+  - icelandic: å t%ilgi
+    english: að fyrirgefa
+    alternative_id: å t%ilgi
+    row_id: 38
+  - icelandic: et offer
+    english: a victim; brotaþoli
+    alternative_id: et offer
+    row_id: 39
+  - icelandic: å banke
+    english: að banka;; að lemja
+    alternative_id: å banke
+    row_id: 40
+  - icelandic: å være s*kuls
+    english: að vera kvitt
+    alternative_id: å være s*kuls
+    row_id: 41
+  - icelandic: å overbevise
+    english: að sannfæra
+    alternative_id: å overbevise
+    row_id: 42
+  - icelandic: tillit
+    english: trúnaður; traust
+    alternative_id: tillit
+    row_id: 43
+  - icelandic: g*æ*r*en*
+    english: galinn; klikkaður
+    alternative_id: g*æ*r*en*
+    row_id: 44
+  - icelandic: ukentlig
+    english: vikulegur
+    alternative_id: ukentlig
+    row_id: 45
+  - icelandic: ansatt
+    english: starfsmaður
+    alternative_id: ansatt
+    row_id: 46
+  - icelandic: å føre
+    english: að leiða til
+    alternative_id: å føre
+    row_id: 47
+  - icelandic: å angripe
+    english: að ráðast á
+    alternative_id: å angripe
+    row_id: 48
+  - icelandic: å skylle
+    english: að skola
+    alternative_id: å skylle
+    row_id: 49
+  - icelandic: sunn
+    english: heilbrigður
+    alternative_id: sunn
+    row_id: 50
+  - icelandic: om dattera di
+    english: um dóttur þína
+    alternative_id: om dattera di
+    row_id: 51
+  - icelandic: ei behandling
+    english: meðferð
+    alternative_id: ei behandling
+    row_id: 52
+  - icelandic: ei moro
+    english: skemmtun
+    alternative_id: ei moro
+    row_id: 53
+  - icelandic: et sinne
+    english: reiði
+    alternative_id: et sinne
+    row_id: 54
+  - icelandic: nysgjerrig
+    english: forvitinn
+    alternative_id: nysgjerrig
+    row_id: 55
+  - icelandic: å anse
+    english: to consider; regard; að álíta; að þykja
+    alternative_id: å anse
+    row_id: 56
+  - icelandic: sint
+    english: reiður
+    alternative_id: sint
+    row_id: 57
+    last_seen: "2021-08-29"
 sound: []
