@@ -5,13 +5,13 @@ reviewed: no
 ---
 
 <vocabulary>
-
 hér er einhver annar - um einhvern annan
 frá einhverjum öðrum - til einhvers annars
 Það er annar apríl.
 Ég kem annan maí.
 Ég verð hérna frá öðrum janúar til annars febrúar.
 Ég þekki engan annan hérna.
+einhvers staðar annars staðar
 
 hér er önnur spurning - um aðra spurningu
 frá annarri spurningu - til annarrar spurningar
@@ -34,11 +34,10 @@ Ertu laus annað kvöld?
 Ég nenni engu öðru í dag.
 Ég er á öðru ári í háskóla.
 En, að öðru ...
-að öðru leyti
 Hann er ekki góður í þessu en hann er góður í mörgu öðru.
-Ég trúi ekki öðru en að þetta gangi vel.
+Ég trúi ekki öðru en að þér gangi vel.
 Annars er ég mjög ánægður.
-Annars segi ég mömmu.
+Annars segi ég mömmu!
 Annars er ekki mikið um að vera hérna.
 </vocabulary>
 

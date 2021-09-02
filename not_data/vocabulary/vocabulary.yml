@@ -19326,6 +19326,230 @@ rows:
     level: 1
     row_id: 3230
     last_seen: "2021-08-07"
+  - icelandic: hér er einhver annar - um einhvern annan
+    english: here is someone else - about someone else
+    alternative_id: hér er einhver annar - um einhvern annan, annar
+    level: 2
+    row_id: 3231
+    last_seen: "2021-09-02"
+  - icelandic: frá einhverjum öðrum - til einhvers annars
+    english: from someone else - to someone else
+    lemmas: einhver, annar
+    alternative_id: frá einhverjum öðrum - til einhvers annars
+    level: 2
+    row_id: 3232
+    last_seen: "2021-09-02"
+  - icelandic: Það er annar apríl.
+    english: It's April 2nd.
+    alternative_id: Það er annar apríl.
+    level: 2
+    row_id: 3233
+    last_seen: "2021-09-02"
+  - icelandic: Ég kem annan maí.
+    english: I will come May 2nd.
+    lemmas: annar
+    alternative_id: Ég kem annan maí.
+    level: 2
+    row_id: 3234
+    last_seen: "2021-09-02"
+  - icelandic: Ég verð hérna frá öðrum janúar til annars febrúar.
+    english: I will be here from January 2nd to February 2nd.
+    lemmas: að verða, annar
+    alternative_id: Ég verð hérna frá öðrum janúar til annars febrúar.
+    level: 2
+    row_id: 3235
+    last_seen: "2021-09-02"
+  - icelandic: Ég þekki e%ngan a%nnan hérna.
+    english: I don't know anyone else here.
+    lemmas: að þekkja, enginn, annar
+    alternative_id: Ég þekki engan annan hérna.
+    level: 2
+    row_id: 3236
+    last_seen: "2021-09-02"
+  - icelandic: hér er önnur spurning - um aðra spurningu
+    english: here is another question - about another question
+    lemmas: annar, spurning
+    alternative_id: hér er önnur spurning - um aðra spurningu
+    level: 2
+    row_id: 3237
+    last_seen: "2021-09-02"
+  - icelandic: frá annarri spurningu - til annarrar spurningar
+    english: from another question - to another question
+    lemmas: annar, spurning
+    alternative_id: frá annarri spurningu - til annarrar spurningar
+    level: 2
+    row_id: 3238
+    last_seen: "2021-09-02"
+  - icelandic: hér er einhver önnur bók - um einhverja aðra bók
+    english: here is some other book - about some other book
+    lemmas: einhver, annar, bók
+    alternative_id: hér er einhver önnur bók - um einhverja aðra bók
+    level: 2
+    row_id: 3239
+    last_seen: "2021-09-02"
+  - icelandic: frá einhverri annarri bók - til einhverrar annarrar bókar
+    english: from some other book - to some other book
+    lemmas: einhver, annar, bók
+    alternative_id: frá einhverri annarri bók - til einhverrar annarrar bókar
+    level: 2
+    row_id: 3240
+    last_seen: "2021-09-02"
+  - icelandic: Langar þig að horfa á einhverja aðra mynd?
+    english: Do you want to watch some other film?
+    lemmas: að langa, einhver, annar
+    alternative_id: Langar þig að horfa á einhverja aðra mynd?
+    level: 2
+    row_id: 3241
+    last_seen: "2021-09-02"
+  - icelandic: Er einhver önnur ástæða fyrir því?
+    english: Is there some other reason for that?
+    lemmas: annar
+    depends_on: ástæða
+    alternative_id: Það er engin önnur ástæða fyrir því.
+    level: 2
+    row_id: 3242
+    last_seen: "2021-09-02"
+  - icelandic: Ég bý á annarri hæð.
+    english: I live on the second floor.
+    lemmas: annar, hæð
+    depends_on: fyrsta hæð
+    alternative_id: Ég bý á annarri hæð., önnur hæð
+    level: 3
+    note: Iceland follows the American system of numbering building storys, the ground floor is the first floor.
+    row_id: 3243
+    last_seen: "2021-09-02"
+  - icelandic: Við finnum einhverja aðra leið.
+    english: We'll find some other way.
+    lemmas: að finna, einhver, annar
+    depends_on: leið
+    alternative_id: Við finnum einhverja aðra leið.
+    level: 2
+    row_id: 3244
+    last_seen: "2021-09-02"
+  - icelandic: hér er annað lag - um annað lag
+    english: here is another song - about another song
+    lemmas: annar
+    depends_on: lag
+    alternative_id: hér er annað lag - um annað lag
+    level: 2
+    row_id: 3245
+    last_seen: "2021-09-02"
+  - icelandic: frá öðru barni - til annars barns
+    english: from another child - to another child
+    lemmas: annar, barn
+    alternative_id: frá öðru lagi - til annars lags
+    level: 2
+    row_id: 3246
+    last_seen: "2021-09-02"
+  - icelandic: eitthvað annað
+    english: something else
+    lemmas: einhver, annar
+    alternative_id: eitthvað annað
+    level: 2
+    row_id: 3247
+    last_seen: "2021-09-02"
+  - icelandic: Ertu laus '''annað kvöld'''?
+    english: Are you free '''tomorrow evening'''?
+    lemmas: annar
+    alternative_id: Ertu laus annað kvöld?, annað kvöld
+    level: 3
+    note: Literally "the second evening". This phrase is very common.
+    row_id: 3248
+    last_seen: "2021-09-02"
+  - icelandic: Ég ætla ekki að gera neitt annað í dag.
+    english: I'm not going to do anything else today.
+    lemmas: neinn, annar
+    alternative_id: Ég ætla ekki að gera neitt annað í dag.
+    level: 2
+    row_id: 3249
+    last_seen: "2021-09-02"
+  - icelandic: Þetta er annað skiptið sem ég lendi í bílslysi.
+    alternative_id: Þetta er annað skiptið sem ég lendi í bílslysi.
+    level: 2
+    fix: er það með ð?
+    row_id: 3250
+    last_seen: "2021-09-02"
+  - icelandic: Ég á%tti ekki v%on á *neinu öðru*.
+    english: I didn't expect anything else.; That's what I expected.
+    lemmas: að eiga von á, neinn, annar
+    alternative_id: Ég átti ekki von á neinu öðru.
+    level: 3
+    row_id: 3251
+    last_seen: "2021-09-02"
+  - icelandic: Ég b%jóst ekki v%ið ö%ðru.
+    english: I did not expect anything else.; That's what I expected.
+    lemmas: að búast við, annar
+    alternative_id: Ég bjóst ekki við öðru.
+    level: 3
+    row_id: 3252
+    last_seen: "2021-09-02"
+  - icelandic: Ég nenni engu öðru í dag.
+    alternative_id: Ég nenni engu öðru í dag.
+    level: 2
+    fix: "?"
+    row_id: 3253
+    last_seen: "2021-09-02"
+  - icelandic: Ég er á öðru ári í háskóla.
+    english: I'm on my second year in university.
+    lemmas: annar, ár, háskóli
+    alternative_id: Ég er á öðru ári í háskóla.
+    level: 2
+    row_id: 3254
+    last_seen: "2021-09-02"
+  - icelandic: A%ð ö%ðru ...
+    english: Switching to another subject ...
+    alternative_id: En, að öðru ...
+    level: 3
+    note: Relatively formal, said when you want to bring up a particular subject such as in a meeting.
+    literally: towards another
+    row_id: 3255
+    last_seen: "2021-09-02"
+  - icelandic: Hann er ekki góður í þessu en hann er góður í mörgu öðru.
+    english: He's not good at this∆ but he's good at many other things.
+    lemmas: margur, annar
+    depends_on: margt annað
+    alternative_id: Hann er ekki góður í þessu en hann er góður í mörgu öðru.
+    level: 2
+    row_id: 3256
+    last_seen: "2021-09-02"
+  - icelandic: Ég trúi ekki öðru en að þér gangi vel.
+    alternative_id: Ég trúi ekki öðru en að þér gangi vel.
+    level: 2
+    row_id: 3257
+    last_seen: "2021-09-02"
+  - icelandic: A*nnars* er ég mjög ánægður.
+    english: Apart from that I'm very happy.
+    depends_on: annar
+    alternative_id: Annars er ég mjög ánægður.
+    level: 3
+    row_id: 3258
+    last_seen: "2021-09-02"
+  - icelandic: Annars segi ég mömmu!
+    english: Otherwise I'll tell mom!
+    lemmas: að segja, mamma
+    alternative_id: Annars segi ég mömmu!
+    level: 2
+    row_id: 3259
+    last_seen: "2021-09-02"
+  - icelandic: Annars er ekki mikið um að vera hérna.
+    alternative_id: Annars er ekki mikið um að vera hérna.
+    level: 3
+    row_id: 3260
+    last_seen: "2021-09-02"
+  - icelandic: einhvers staðar annars staðar
+    english: somewhere else
+    depends_on: einhver, staður, annar
+    alternative_id: einhvers staðar annars staðar, annars staðar
+    level: 2
+    row_id: 3261
+    last_seen: "2021-09-02"
+  - icelandic: margt annað
+    english: many other things
+    lemmas: margur, annar
+    alternative_id: margt annað
+    level: 2
+    row_id: 3262
+    last_seen: "2021-09-02"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
