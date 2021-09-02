@@ -1,14 +1,15 @@
 ---
 title: ""
 redirects:
-- Ylhýra
-- Frontpage
+  - Ylhýra
+  - Frontpage
 reviewed: no
 classes:
-- wide-screen
-- sans-serif
-- brown-screen
+  - wide-screen
+  - sans-serif
+  - brown-screen
 ---
+
 <div style="
   background: #f09f9f;
   padding: 8px 12px;
@@ -41,18 +42,20 @@ This is a testing site for the next version of Ylhýra. Please [mailto:egill@egi
 
 <h3>[[Vocabulary]]</h3>
 
-A simple [[vocabulary|flashcard game]] that uses spaced repetition to assist you in building a deeper active vocabulary. Intended to be be used daily, the game’s 2,000 words and sentences focus on giving you a feel for idiomatic language use and grammar. Suitable for beginners up to the [[B2]] level.  Includes 400 audio recordings.
+A simple [[vocabulary|flashcard game]] that uses spaced repetition to assist you in building a deeper active vocabulary. Intended to be be used daily, the game’s 2,000 words and sentences focus on giving you a feel for idiomatic language use and grammar. Suitable for beginners up to the [[B2]] level. Includes 400 audio recordings.
 {{spacer|10}}
 
 <h3>[[Course]]</h3>
 
 The [[course|course]] is an explanatory companion to the vocabulary game and covers the first 20% of the beginner ([[A1]]) level. The course is aimed at self-learners and introduces grammatical concepts slowly.
+
 </div>
 <section class="frontpage-pricing pwyw-on">
 <div>
 <!-- <h3>Pricing</h3> -->
 
 Ylhýra is free to use, but [[signup|creating an account]] allows you to save your vocabulary progress. An account is available on a pay-what-you-want basis.<!--; the recommended price is 20 U.S. dollars but if you wish to pay nothing, you can.-->
+
 </div>
 </section>
 <!--
@@ -60,7 +63,6 @@ Ylhýra is free to use, but [[signup|creating an account]] allows you to save yo
 Ylhýra is a
 
 2000 words and sentences
-
 
 --->
 

@@ -2,6 +2,7 @@
 title: Course/My (feminine, neuter)
 reviewed: no
 ---
+
 <vocabulary>
 árið mitt
 vikan mín
@@ -23,11 +24,15 @@ frænka mín
 </vocabulary>
 # My
 To say "my day" you say "dagurinn minn" (with the [[definite article]]).
+
 "Minn" is the [[masculine]] form, "mín" is the [[feminine]] form, and "mitt" is the [[neuter]] form:
-* dagurinn minn
-* vikan mín
-* árið mitt
+
+- `dagurinn minn` – "dagur" is a [[masculine]] word and therefore you use "minn"
+- `vikan mín` – "vika" is a [[feminine]] word and therefore you use "mín"
+- `árið mitt` – "ár" is a [[neuter]] word and therefore you use "mitt"
+
 "Your" has the exact same form, just with the first letter changed to "Þ":
-* dagurinn þinn
-* vikan þín
-* árið þitt
+
+- `dagurinn þinn`
+- `vikan þín`
+- `árið þitt`
