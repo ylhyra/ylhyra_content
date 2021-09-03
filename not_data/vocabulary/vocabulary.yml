@@ -15855,8 +15855,9 @@ rows:
     lemmas: þriðji
     depends_on: þrír
     level: 2
+    note: Written as "3. febrúar"
     row_id: 2662
-    last_seen: "2021-08-02"
+    last_seen: "2021-09-02"
   - icelandic: fjórði mars
     english: March 4
     lemmas: fjórði
@@ -15871,8 +15872,9 @@ rows:
     depends_on: fimm
     alternative_id: apríl
     level: 2
+    note: Written as "5. apríl"
     row_id: 2664
-    last_seen: "2021-08-02"
+    last_seen: "2021-09-02"
   - icelandic: að labba aftur á bak
     english: to walk backwards
     depends_on: bak
@@ -19343,6 +19345,7 @@ rows:
     english: It's April 2nd.
     alternative_id: Það er annar apríl.
     level: 2
+    note: Written as "2. apríl"
     row_id: 3233
     last_seen: "2021-09-02"
   - icelandic: Ég kem annan maí.
@@ -19357,6 +19360,7 @@ rows:
     lemmas: að verða, annar
     alternative_id: Ég verð hérna frá öðrum janúar til annars febrúar.
     level: 2
+    note: Written as "frá 2. janúar til 2. febrúar"
     row_id: 3235
     last_seen: "2021-09-02"
   - icelandic: Ég þekki e%ngan a%nnan hérna.

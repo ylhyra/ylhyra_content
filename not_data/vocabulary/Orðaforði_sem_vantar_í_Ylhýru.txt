@@ -726,6 +726,8 @@ að öðru leyti
 annars konar
 annars staðar
 
+TODO fjarlægja annar frá einhver annar
+
 
 
 

@@ -26,6 +26,7 @@ hér er annað lag - um annað lag
 frá öðru lagi - til annars lags
 eitthvað annað
 ekkert annað
+margt annað
 Ertu laus annað kvöld?
 Ég ætla ekki að gera neitt annað í dag.
 Þetta er annað skiptið sem ég lendi í bílslysi.
@@ -33,7 +34,7 @@ Ertu laus annað kvöld?
 Ég bjóst ekki við öðru.
 Ég nenni engu öðru í dag.
 Ég er á öðru ári í háskóla.
-En, að öðru ...
+En∆ að öðru ...
 Hann er ekki góður í þessu en hann er góður í mörgu öðru.
 Ég trúi ekki öðru en að þér gangi vel.
 Annars er ég mjög ánægður.

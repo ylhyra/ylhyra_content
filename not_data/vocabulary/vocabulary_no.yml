@@ -281,4 +281,82 @@ rows:
     alternative_id: klær
     row_id: 69
     last_seen: "2021-08-31"
+  - icelandic: etterpå
+    english: seinna; á eftir
+    alternative_id: etterpå
+    row_id: 70
+  - icelandic: itj
+    english: ekki (Þrándheimi)
+    alternative_id: itj
+    row_id: 71
+  - icelandic: å sje;; å sjå
+    english: að sjá (Þrándheimi)
+    alternative_id: å sje;; å sjå
+    row_id: 72
+  - icelandic: my
+    english: mikið (Þrándheimi)
+    alternative_id: my
+    row_id: 73
+  - icelandic: te
+    english: til (Þrándheimi)
+    alternative_id: te
+    row_id: 74
+  - icelandic: undertekst
+    english: texti í textaðri bíómynd
+    alternative_id: undertekst
+    row_id: 75
+  - icelandic: å gjøre narr av
+    english: að gera grín að
+    alternative_id: å gjøre narr av
+    row_id: 76
+  - icelandic: skarre-r
+    english: að skrolla í r-unum sínum
+    alternative_id: skarre-r
+    row_id: 77
+  - icelandic: det e# ikke så farlig;; det e# ikke så viktig;; det har itj# så my# å sei#
+    english: nei ókei það býttar engu (Þrándheimi)
+    alternative_id: det e# ikke så farlig;; det e# ikke så viktig;; det har itj# så my# å sei#
+    row_id: 78
+    last_seen: "2021-09-03"
+  - icelandic: å korrigere
+    english: að leiðrétta
+    alternative_id: å korrigere
+    row_id: 79
+  - icelandic: å adlyde
+    english: að hlýða
+    alternative_id: å adlyde
+    row_id: 80
+  - icelandic: lydig
+    english: hlýðinn
+    alternative_id: lydig
+    row_id: 81
+  - icelandic: mange takk
+    english: takk kærlega
+    alternative_id: mange takk
+    row_id: 82
+  - icelandic: jeg trodde
+    english: ég hélt (bókmál)
+    alternative_id: jeg trodde
+    row_id: 83
+  - icelandic: æ trudd#
+    english: ég hélt (Þrándheimi)
+    alternative_id: æ trudd#
+    row_id: 84
+  - icelandic: æ visst#
+    english: ég vissi (Þrándheimi)
+    alternative_id: æ visst#
+    row_id: 85
+  - icelandic: æ visst# ikke at han hadd# bodd#
+    english: ég vissi ekki að hann hefði búið (Þrándheimi)
+    alternative_id: æ visst# ikke at han hadd# bodd#
+    row_id: 86
+  - icelandic: jeg syntes
+    english: mér fannst
+    alternative_id: jeg syntes
+    row_id: 87
+  - icelandic: serien ligna; serien lignet
+    english: þáttaröðin var lík
+    alternative_id: serien ligna;; serien lignet
+    row_id: 88
+    last_seen: "2021-09-03"
 sound: []
