@@ -12,7 +12,7 @@ classes:
 
 <SignupSteps/>
 
-An Ylhýra account is available on a '''pay-what-you-want''' basis, meaning that it is up to you how much you pay. The recommended price is 20 U.S.&nbsp;dollars. If you want to pay nothing, just write “0”.
+An Ylhýra account is available on a '''pay-what-you-want''' basis, meaning that it is up to you how much you pay. The recommended price is <Constant name="RECOMMENDED_PRICE_IN_US_DOLLARS"/> U.S.&nbsp;dollars. If you want to pay nothing, just write “0”.
 
 <PWYW/>
 

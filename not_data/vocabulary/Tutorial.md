@@ -32,7 +32,7 @@ You will in most cases only use the "Bad" and "Good" buttons.
 
 ## Timer
 
-Each session lasts 5 minutes; the progess can be seen in the progress bar at the bottom of your screen. The timer will automatically stop when there's no activity from the user, so you can easily step away from the session. You don't have to finish the entire session, the words will still be scheduled correctly.
+Each session lasts <Constant name="EACH_SESSION_LASTS_X_MINUTES"/> minutes; the progess can be seen in the progress bar at the bottom of your screen. The timer will automatically stop when there's no activity from the user, so you can easily step away from the session. You don't have to finish the entire session, the words will still be scheduled correctly.
 
 ## Keyboard shortcuts
 

@@ -359,4 +359,57 @@ rows:
     alternative_id: serien ligna;; serien lignet
     row_id: 88
     last_seen: "2021-09-03"
+  - icelandic: å flir^
+    english: að hlægja (Þrándheimi)
+    alternative_id: å flir^
+    row_id: 89
+  - icelandic: å skrike
+    english: að öskra (í Osló);; að gráta (Þrándheimi)
+    alternative_id: å skrike
+    row_id: 90
+  - icelandic: han skreik^
+    english: hann grét (Þrándheimi)
+    alternative_id: han skreik^
+    row_id: 91
+  - icelandic: han vart^;; han blei^
+    english: hann varð (Þrándheimi)
+    alternative_id: han vart^;; han blei^
+    row_id: 92
+  - icelandic: brødran^
+    english: bræðurnir (Þrándheimi)
+    alternative_id: brødran^
+    row_id: 93
+  - icelandic: forutsigbar
+    english: fyrirsjáanlegur
+    alternative_id: forutsigbar
+    row_id: 94
+  - icelandic: ofte
+    english: oft
+    alternative_id: ofte
+    row_id: 95
+  - icelandic: noen (Osló);; nånn^ (Þrándheimi)
+    english: nokkrir
+    alternative_id: noen (Osló);; nånn^ (Þrándheimi)
+    row_id: 96
+  - icelandic: ei bestemt ending
+    english: ákveðinn greinir
+    alternative_id: ei bestemt ending
+    row_id: 97
+  - icelandic: en oppmerksomhet
+    english: athygli
+    alternative_id: en oppmerksomhet
+    row_id: 98
+  - icelandic: å være i stand til
+    english: að vera fær um
+    alternative_id: å være i stand til
+    row_id: 99
+  - icelandic: mennene (Osló);; mennern (Þrándheimi)
+    english: mennirnir
+    alternative_id: mennene (Osló);; mennern (Þrándheimi)
+    row_id: 100
+  - icelandic: forslagene (Osló);; forslagan^ (Þrándheimi)
+    english: tillögurnar
+    alternative_id: forslagene (Osló);; forslagan^ (Þrándheimi)
+    row_id: 101
+    last_seen: "2021-09-07"
 sound: []
