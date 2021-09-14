@@ -25,26 +25,26 @@ reviewed: no
 
   <div class="article-entry">
     <div class="text">
-      <p><em><strong>Umvafinn kynngimögnuðum fjallstindum og syngjandi fossum opnar Seyðisfjarðarbær dyr sínar fyrir skapandi ungmennum á hinni árlegu listahátíð </strong></em><a href="http://lunga.is/" target="_blank"><strong><em>LungA</em></strong></a><em><strong>. Hátíðin fagnaði fimmtán ára afmæli sínu í ár. Í heila viku í júlí voru starfræktar sjö listasmiðjur sem lauk með listasýningu, uppskeruhátíð og lokatónleikum. Stemningin var vægast sagt mögnuð og hátíðargestir sammála um að þeir myndu koma aftur að ári.</strong></em></p>
+      <div class="p"><em><strong>Umvafinn kynngimögnuðum fjallstindum og syngjandi fossum opnar Seyðisfjarðarbær dyr sínar fyrir skapandi ungmennum á hinni árlegu listahátíð </strong></em><a href="http://lunga.is/" target="_blank"><strong><em>LungA</em></strong></a><em><strong>. Hátíðin fagnaði fimmtán ára afmæli sínu í ár. Í heila viku í júlí voru starfræktar sjö listasmiðjur sem lauk með listasýningu, uppskeruhátíð og lokatónleikum. Stemningin var vægast sagt mögnuð og hátíðargestir sammála um að þeir myndu koma aftur að ári.</strong></em></div>
     </div>
 
     <div class="image-box image-box-medium">
       <Image src="Blær_–_Lunga_72077.jpeg" width="800"/>
-      <p class="description">Aðsend mynd</p>
+      <div class="description">Aðsend mynd</div>
     </div>
 
     <div class="text">
-      <p>Danirnir Jonatan Spjelberg og Lasse Høgenhof komu fyrst til Seyðisfjarðar árið 2010 og urðu strax ástfangnir af staðnum, fólkinu og dularfullu náttúrunni. Þeir eru báðir <a href="http://www.kaospilot.dk/" target="_blank">Kaos Pilot</a>-ar að
+      <div class="p">Danirnir Jonatan Spjelberg og Lasse Høgenhof komu fyrst til Seyðisfjarðar árið 2010 og urðu strax ástfangnir af staðnum, fólkinu og dularfullu náttúrunni. Þeir eru báðir <a href="http://www.kaospilot.dk/" target="_blank">Kaos Pilot</a>-ar að
         mennt og stofnendur <a href="http://lunga.is/school/" target="_blank">LungA skólans</a> ásamt Björt Sigfinnsdóttur en hún sér einnig um listasmiðjurnar á LungA hátíðinni. Árið 2011 keyptu þeir húsið <a href="http://h-e-i-m-a.com/" target="_blank">HEIMA </a>sem
-        er alþjóðlegt aðsetur fyrir listamenn. Síðan þá hafa þeir verið með annan fótinn í Seyðisfirði og eru á því að bærinn sé einn fallegasti staður í heiminum.</p>
+        er alþjóðlegt aðsetur fyrir listamenn. Síðan þá hafa þeir verið með annan fótinn í Seyðisfirði og eru á því að bærinn sé einn fallegasti staður í heiminum.</div>
     </div>
 
     <div class="text">
       <h1>Af hverju komuð þið til Seyðisfjarðar?</h1>
-      <p>„Við komum hingað í fyrsta skiptið árið 2010. Björt bauð okkur að koma og vera með í ungmennaskipta verkefni og taka þátt í listasmiðjunum á LungA. Við þekktum hana í gegnum Kaos Pilot svo það lá beint við að koma hingað. Dvölin var töfrum líkast.“</p>
-      <p>Ári seinna keyptu þeir ásamt öðrum hús á Seyðisfirði sem kallast HEIMA. </p>
-      <p>„Annað skiptið sem við komum hingað ákváðum við að kaupa hús og gera það að blöndu af listaaðsetri og kommúnu. Við fáum marga listamenn alls staðar að úr heiminum sem dvelja hér í langan tíma. Þeir vinna sjálfstætt eða hver með öðrum og gera líka
-        eitthvað fyrir bæinn. Það er mjög yndislegt að hafa þá hér.“</p>
+      <div class="p">„Við komum hingað í fyrsta skiptið árið 2010. Björt bauð okkur að koma og vera með í ungmennaskipta verkefni og taka þátt í listasmiðjunum á LungA. Við þekktum hana í gegnum Kaos Pilot svo það lá beint við að koma hingað. Dvölin var töfrum líkast.“</div>
+      <div class="p">Ári seinna keyptu þeir ásamt öðrum hús á Seyðisfirði sem kallast HEIMA. </div>
+      <div class="p">„Annað skiptið sem við komum hingað ákváðum við að kaupa hús og gera það að blöndu af listaaðsetri og kommúnu. Við fáum marga listamenn alls staðar að úr heiminum sem dvelja hér í langan tíma. Þeir vinna sjálfstætt eða hver með öðrum og gera líka
+        eitthvað fyrir bæinn. Það er mjög yndislegt að hafa þá hér.“</div>
     </div>
 
     <div class="image-box image-box-medium">
@@ -53,24 +53,24 @@ reviewed: no
 
     <div class="text">
       <h1><strong></strong><strong>Hvað er það við Seyðisfjörð sem lætur ykkur vilja búa hérna?</strong></h1>
-      <p>„Ég veit það ekki. Ég hef eytt miklum tíma í að reyna að finna það út og ég held að ég muni aldrei skilja það í raun. Í fyrsta skiptið sem ég kom hingað varð ég ástfanginn af staðnum. Fólkið hérna er mjög skrítið og blítt á sama tíma.
-        Hér er líka nóg af plássi fyrir alla. Við erum farnir að kynnast bæjarlífinu betur og betur og höfum eignast marga vini. </p>
-      <p>Hér er allt svo tært og öruggt. Það er útaf fjöllunum. Tindarnir passa upp á mann en á sama tíma geta þeir verið ógnandi, samt á jákvæðan hátt. Krafturinn sem kemur frá þeim er hvetjandi.</p>
-      <p>Ef þú vilt einhvern tímann komast að því hvort þú sért leiðinlegur skaltu fara til Seyðisfjarðar og dvelja þar í smá tíma. Því það er ekkert að gerast þangað til þú lætur eitthvað gerast sjálfur. Í stórborgum er stöðugt eitthvað í gangi til
-        þess að halda þér uppteknum, endalaus afþreying í boði. Hérna er það ekki þannig, allt veltur á því hvað fólkið skapar fyrir sig sjálft.“ </p>
+      <div class="p">„Ég veit það ekki. Ég hef eytt miklum tíma í að reyna að finna það út og ég held að ég muni aldrei skilja það í raun. Í fyrsta skiptið sem ég kom hingað varð ég ástfanginn af staðnum. Fólkið hérna er mjög skrítið og blítt á sama tíma.
+        Hér er líka nóg af plássi fyrir alla. Við erum farnir að kynnast bæjarlífinu betur og betur og höfum eignast marga vini. </div>
+      <div class="p">Hér er allt svo tært og öruggt. Það er útaf fjöllunum. Tindarnir passa upp á mann en á sama tíma geta þeir verið ógnandi, samt á jákvæðan hátt. Krafturinn sem kemur frá þeim er hvetjandi.</div>
+      <div class="p">Ef þú vilt einhvern tímann komast að því hvort þú sért leiðinlegur skaltu fara til Seyðisfjarðar og dvelja þar í smá tíma. Því það er ekkert að gerast þangað til þú lætur eitthvað gerast sjálfur. Í stórborgum er stöðugt eitthvað í gangi til
+        þess að halda þér uppteknum, endalaus afþreying í boði. Hérna er það ekki þannig, allt veltur á því hvað fólkið skapar fyrir sig sjálft.“ </div>
     </div>
 
     <div class="text">
       <h1>Finnst ykkur LungA og nú skólinn hafa áhrif á bæjarlífið?</h1>
-      <p>„Já, hátíðin hefur augljóslega mikil áhrif. Meira en þúsundir manna koma hingað yfir vikuna sem þrefaldar fjöldann í bænum. Það er mjög gaman að sjá svona mikið af ungu fólki ganga um bæinn því það gefur honum svo mikið líf. Venjan er að þessi aldurshópur
-        flytji til höfuðborgarinnar eða til útlanda til að læra eða vinna svo það breytir miklu að fá hann hingað. Það hefur svo mikil og góð áhrif á hið hversdagslega andrúmsloft.“</p>
+      <div class="p">„Já, hátíðin hefur augljóslega mikil áhrif. Meira en þúsundir manna koma hingað yfir vikuna sem þrefaldar fjöldann í bænum. Það er mjög gaman að sjá svona mikið af ungu fólki ganga um bæinn því það gefur honum svo mikið líf. Venjan er að þessi aldurshópur
+        flytji til höfuðborgarinnar eða til útlanda til að læra eða vinna svo það breytir miklu að fá hann hingað. Það hefur svo mikil og góð áhrif á hið hversdagslega andrúmsloft.“</div>
       <h1>Getiði sagt aðeins frá LungA skólanum?</h1>
-      <p>„Hugmyndin kviknaði út frá hugmyndafræði LungA. Skólinn er alþjóðleg, sjálfstæð menntastofnun og er fyrsti skóli sinnar tegundar hér á landi. Danskir lýðháskólar eru fyrirmyndin og boðið er upp á 12 vikna kúrsa. Við viljum ýta undir sérstöðu einstaklingsins
+      <div class="p">„Hugmyndin kviknaði út frá hugmyndafræði LungA. Skólinn er alþjóðleg, sjálfstæð menntastofnun og er fyrsti skóli sinnar tegundar hér á landi. Danskir lýðháskólar eru fyrirmyndin og boðið er upp á 12 vikna kúrsa. Við viljum ýta undir sérstöðu einstaklingsins
         og styðja við bakið á nemendum okkar svo þeir finni sína leið í átt að sterkari sjálfsmynd, ásamt því að þroskast og skilja betur heiminn sem við búum í og finna sitt hlutverk í honum. Við framkvæmum í gegnum tungumál listarinnar og sköpunargáfunnar.
         Fyrr í vetur héldum við mánaðarlangt prufunámskeið sem gekk afar vel. Nemendurnir sögðu að það sem hafi staðið upp úr væri fólkið, nemendahópurinn og leiðbeinendurnir. Við leggjum mikið upp úr því að hópurinn geti unnið náið saman. Það skiptir
         ekki máli hvort þú hefur yfir að búa kunnáttu í listum, eða langar til að bæta við menntun þína. Það er mikilvægt að þú hafir ástríðu til að læra og rannsaka, og opinn huga gagnvart óvæntum uppákomum og áskorunum. Við verðum með fjölbreytt námskeið
-        sem munu án efa víkka sjóndeildarhringinn.“</p>
-      <p>Hér að neðan eru myndir frá hátíðinni.</p>
+        sem munu án efa víkka sjóndeildarhringinn.“</div>
+      <div class="p">Hér að neðan eru myndir frá hátíðinni.</div>
     </div>
 
     <div class="image-box image-box-medium">
