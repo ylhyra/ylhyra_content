@@ -4,4 +4,4 @@ redirects:
 - template:g
 ---
 
-<span className="gray">$1</span>
+<span class="gray">$1</span>

@@ -4,4 +4,4 @@ redirects:
 - Template:p
 ---
 
-<span className="pron">[<span>$1</span>]</span>
+<span class="pron">[<span>$1</span>]</span>

@@ -14,7 +14,7 @@ Ylhýra is a collaborative project that publishes software and material for maki
 
 {{spacer|10}}
 <div class="centered-button">
-<div className="button big">[mailto:ylhyra@ylhyra.is Contact]</div>
+<div class="button big">[mailto:ylhyra@ylhyra.is Contact]</div>
 </div>
 {{spacer|10}}
 

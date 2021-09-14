@@ -4,6 +4,7 @@ tags:
 - Culture
 license: CC0
 reviewed: no
+level: A2
 ---
 <vocabulary>
 fyrir sunnan
@@ -77,10 +78,9 @@ hvítur
 úti
 </vocabulary>
 
+<Book audio="Bláa lónið.mp3">
 <Image src="Bláa lónið.jpg" position="right"/>
 <Image src="Suðurnes.png" position="right" caption="Reykjanesskagi"/>
-<level level="a2"/>
-<Book audio="Bláa lónið.mp3">
 Fyrir sunnan Reykjavík er skagi sem lítur út eins og fótur. Hann heitir Reykjanesskagi. Ferðamenn þekkja helst tvo hluti á Reykjanesskaga: Keflavíkurflugvöll og Bláa lónið.
 
 Bláa lónið er mjög fallegt lón sem er umkringt hrauni. Vatnið í lóninu er ljósblátt, næstum því hvítt, og það er heitt og þægilegt. Vatnið er líka mjög gott fyrir húðina.

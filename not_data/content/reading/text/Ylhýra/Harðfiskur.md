@@ -59,13 +59,14 @@ sterkur
 lykt
 vondur
 </vocabulary>
-<Image src="Stockfisch_in_Iceland_2005.JPG" position="right"/>
 <Book audio="Harðfiskur.mp3">
 Harðfiskur er fiskur sem er búið að þurrka. Þess vegna er hann harður.
 
 Harðfiskur er svolítið eins og „beef jerky“ sem Ameríkanar borða, nema að það er ekki búið að bæta við salti, sykri eða neinu öðru, þetta er bara þurr fiskur.
 
 Oft borðar maður harðfisk með smjöri. Það eru líka til litlir harðfiskbitar sem maður þarf ekki að setja smjör á, þeir eru eins og snakk.
+
+<Image src="Stockfisch_in_Iceland_2005.JPG" position="center"/>
 
 Það er mjög gott að eiga harðfisk þegar maður fer í útilegu eða fjallgöngu. Harðfiskur er áttatíu prósent prótein svo að maður þarf ekki að borða mikið til að verða saddur.
 

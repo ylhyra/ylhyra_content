@@ -2,10 +2,9 @@
 title: Template:Phrase
 ---
 
-<div className="phrase">
+<div class="phrase">
 	<div>
 		<span lang="is">$1</span>
-		<small className="gray"> =&nbsp;$2</small>
+		<small class="gray"> = $2</small>
 	</div>
 </div>
-
