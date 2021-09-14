@@ -3,7 +3,7 @@ title: Course/I know
 redirects:
 - ég veit
 - að vita
-  reviewed: no
+reviewed: no
 ---
 <vocabulary>
 ég veit
