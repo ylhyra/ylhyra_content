@@ -35,3 +35,5 @@ title: Project:Software/Útlit
 * https://epicpython.com/
 * https://practicaltypography.com/times-new-roman-alternatives.html
 * https://www.typemates.com/fonts/bridge-text
+* https://linguistics.berkeley.edu/sei/index.html
+* https://rsms.me/inter/

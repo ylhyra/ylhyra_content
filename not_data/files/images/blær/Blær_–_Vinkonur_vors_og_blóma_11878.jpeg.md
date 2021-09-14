@@ -2,5 +2,4 @@
 title: File:Blær_–_Vinkonur_vors_og_blóma_11878.jpeg
 ---
 
-{{c}} Blær – http://blaer.is/grein/vinkonur
-
+{{c}} [https://blaer.is/profill/julia Júlía Runólfsdóttir] – [http://blaer.is/grein/vinkonur Blær]
