@@ -348,23 +348,8 @@ reviewed: no
 
 </div>
 
-<div data-no-audio class="article-authors-wrap">
-  <div class="article-authors">
-    <div class="article-authors-writers">
-      <h2>Texti</h2>
-      <a href="https://blaer.is/profill/Blær" class="user">
-            <img src="https://blaer.is/cpresources/userphotos/Blær/100/152-iPhone-App-Icon.png?d=1403049161"> <h3>Ritstjórn</h3>
-          </a>
-    </div>
-    <div class="article-authors-photographers">
-      <h2>Ljósmyndir</h2>
-      <a href="https://blaer.is/profill/Blær" class="user right">
-            <img src="https://blaer.is/cpresources/userphotos/Blær/100/152-iPhone-App-Icon.png?d=1403049161"> <h3>Ritstjórn</h3>
-          </a>
-    </div>
-  </div>
-</div>
 </div>
 
-</div>
+<Footer>
 {{Copyright/Blær}}
+</Footer>

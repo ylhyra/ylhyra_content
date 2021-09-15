@@ -50,7 +50,15 @@ reviewed: no
 ***{{link with percentage|Blær/Vinkonur vors og blóma/4|Part 4}}
 ***{{link with percentage|Blær/Vinkonur vors og blóma/5|Part 5}}
 ***{{link with percentage|Blær/Vinkonur vors og blóma/6|Part 6}}
-**{{link with percentage|Blær/Silfur svanurinn|''Silfur svanurinn''|<!-- x -->by Blær}}
+**{{link with percentage|Blær/Silfursvanurinn|''Silfursvanurinn''|<!-- x -->by Blær}}
+***{{link with percentage|Blær/Silfursvanurinn/1|Part 1}}
+***{{link with percentage|Blær/Silfursvanurinn/2|Part 2}}
+***{{link with percentage|Blær/Silfursvanurinn/3|Part 3}}
+***{{link with percentage|Blær/Silfursvanurinn/4|Part 4}}
+***{{link with percentage|Blær/Silfursvanurinn/5|Part 5}}
+***{{link with percentage|Blær/Silfursvanurinn/6|Part 6}}
+***{{link with percentage|Blær/Silfursvanurinn/7|Part 7}}
+***{{link with percentage|Blær/Silfursvanurinn/8|Part 8}}
 *Videos
 **{{link with percentage|Villi Neto/Reiður á innsoginu|Reiður á innsoginu|<!-- x -->by Villi Neto}}
 **{{link with percentage|Villi Neto/Íslendingar í sólarlöndum|Íslendingar í sólarlöndum|<!-- x -->by Villi Neto}}

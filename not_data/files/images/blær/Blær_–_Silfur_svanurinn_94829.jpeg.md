@@ -2,5 +2,4 @@
 title: File:Blær_–_Silfur_svanurinn_94829.jpeg
 ---
 
-{{c}} Blær – http://blaer.is/grein/amma-sigga
-
+{{c}} [https://blaer.is/profill/birna Birna Ketilsdóttir Schram] – Blær
