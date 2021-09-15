@@ -22,13 +22,13 @@ reviewed: no
 </div>
 <div class="article-entry">
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_large/1-23_2.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-23_2.jpg"/>
   </div>
 </div>
 
 <div class="article-entry">
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-32.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-32.jpg"/>
     <div class="description">Þessi grein er unnin í samstarfi við 66° Norður</div>
   </div>
 
@@ -46,11 +46,11 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-13_2_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-13_2_1.jpg"/>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-21_4.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-21_4.jpg"/>
   </div>
 
   <div class="text">
@@ -63,9 +63,9 @@ reviewed: no
 
   <div data-no-audio class="image-box image-box-large">
 
-    <video poster="https://blaer.is/assets/images/svanhildur-keyra.jpg" autoplay="true" loop="true" muted="true">
-  <source src="https://blaer.is/assets/videos/svanhildur-keyra.webmhd.webm" type="video/webm">
-  <source src="https://blaer.is/assets/videos/svanhildur-keyra.iphone5.mp4" type="video/mp4">
+    <video poster="/api/content?title=File:Blaer_fyrst_vid_erum_herna_svanhildur-keyra.jpg" autoplay="true" loop="true" muted="true">
+  <source src="/api/content?title=File:Blaer_fyrst_vid_erum_herna_svanhildur-keyra.webmhd.webm" type="video/webm">
+  <source src="/api/content?title=File:Blaer_fyrst_vid_erum_herna_svanhildur-keyra.iphone5.mp4" type="video/mp4">
 </video>
   </div>
 
@@ -80,15 +80,15 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-large">
-    <img src="https://blaer.is/assets/images/_large/1-11.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-11.jpg"/>
   </div>
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-9_7.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-9_7.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-10_10.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-10_10.jpg"/>
     </div>
   </div>
 
@@ -100,12 +100,12 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-large">
-    <img src="https://blaer.is/assets/images/_large/1-29_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-29_1.jpg"/>
     <div class="description">Hörgshlíðarlaug í Mjóafirði</div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-30_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-30_1.jpg"/>
     <div class="description">Hörgshlíðarlaug í Mjóafirði</div>
   </div>
 
@@ -117,12 +117,12 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-8_11.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-8_11.jpg"/>
     <div class="description">Vélsmiðjan á Þingeyri</div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-50.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-50.jpg"/>
     <div class="description">Simbahöllin</div>
   </div>
 
@@ -136,11 +136,11 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-46.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-46.jpg"/>
   </div>
 
   <div data-no-audio class="image-box image-box-large">
-    <img src="https://blaer.is/assets/images/_large/1-17_5.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-17_5.jpg"/>
   </div>
 
   <div class="text">
@@ -152,21 +152,21 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-49.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-49.jpg"/>
     <div class="description">Látrabjarg</div>
   </div>
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-15_5.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-15_5.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-47.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-47.jpg"/>
     </div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-24_2.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-24_2.jpg"/>
   </div>
 
   <div class="text">
@@ -177,7 +177,7 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-48_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-48_1.jpg"/>
   </div>
 
   <div class="text">
@@ -188,15 +188,15 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-26_3.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-26_3.jpg"/>
   </div>
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-5_12.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-5_12.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-20_4.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-20_4.jpg"/>
     </div>
   </div>
 
@@ -208,23 +208,23 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-18_3.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-18_3.jpg"/>
   </div>
 
   <div data-no-audio class="image-box image-box-large">
 
-    <video poster="https://blaer.is/assets/images/1-27.jpg" autoplay="true" loop="true" muted="true">
-  <source src="https://blaer.is/assets/videos/bonus-teitur.webmhd.webm" type="video/webm">
-  <source src="https://blaer.is/assets/videos/bonus-teitur.iphone5.mp4" type="video/mp4">
+    <video poster="/api/content?title=File:Blaer_fyrst_vid_erum_herna_1-27.jpg" autoplay="true" loop="true" muted="true">
+  <source src="/api/content?title=File:Blaer_fyrst_vid_erum_herna_bonus-teitur.webmhd.webm" type="video/webm">
+  <source src="/api/content?title=File:Blaer_fyrst_vid_erum_herna_bonus-teitur.iphone5.mp4" type="video/mp4">
 </video>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-28_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-28_1.jpg"/>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-31.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-31.jpg"/>
     <div class="description">Heydalur í Mjóafirði</div>
   </div>
 
@@ -238,23 +238,23 @@ reviewed: no
 
   <div data-no-audio class="image-box image-box-large">
 
-    <video poster="https://blaer.is/assets/images/birna-bjor.jpg" autoplay="true" loop="true" muted="true">
-  <source src="https://blaer.is/assets/videos/birna-bjór.webmhd.webm" type="video/webm">
-  <source src="https://blaer.is/assets/videos/birna-bjór.iphone5.mp4" type="video/mp4">
+    <video poster="/api/content?title=File:Blaer_fyrst_vid_erum_herna_birna-bjor.jpg" autoplay="true" loop="true" muted="true">
+  <source src="/api/content?title=File:Blaer_fyrst_vid_erum_herna_birna-bjór.webmhd.webm" type="video/webm">
+  <source src="/api/content?title=File:Blaer_fyrst_vid_erum_herna_birna-bjór.iphone5.mp4" type="video/mp4">
 </video>
   </div>
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-33.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-33.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-34.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-34.jpg"/>
     </div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-51.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-51.jpg"/>
   </div>
 
   <div class="text">
@@ -268,16 +268,16 @@ reviewed: no
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-40.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-40.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-36.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-36.jpg"/>
       <div class="description">Djúpavík</div>
     </div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-45_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-45_1.jpg"/>
   </div>
 
   <div class="text">
@@ -300,19 +300,19 @@ reviewed: no
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-1_25.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-1_25.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-2_16.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-2_16.jpg"/>
     </div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-3_16.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-3_16.jpg"/>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-4_16.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-4_16.jpg"/>
   </div>
 
   <div class="text">
@@ -324,25 +324,25 @@ reviewed: no
   </div>
 
   <div data-no-audio class="image-box image-box-large">
-    <img src="https://blaer.is/assets/images/_large/1-43_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-43_1.jpg"/>
     <div class="description">Krossneslaug</div>
   </div>
 
   <div data-no-audio class="image-box image-box-medium">
-    <img src="https://blaer.is/assets/images/_medium/1-42_1.jpg">
+    <Image src="Blaer_fyrst_vid_erum_herna_1-42_1.jpg"/>
   </div>
 
   <div class="images-two-up">
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-25_2.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-25_2.jpg"/>
     </div>
     <div data-no-audio class="image-box image-box-half">
-      <img src="https://blaer.is/assets/images/_articleSmall/1-22_3.jpg">
+      <Image src="Blaer_fyrst_vid_erum_herna_1-22_3.jpg"/>
     </div>
   </div>
 
   <div data-no-audio class="image-box image-box-large">
-    <img src="https://blaer.is/assets/images/_large/blaer-kort.png">
+    <Image src="Blaer_fyrst_vid_erum_herna_blaer-kort.png"/>
     <div class="description">Leiðin sem við fórum</div>
   </div>
 
