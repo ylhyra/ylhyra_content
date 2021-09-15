@@ -5,7 +5,7 @@ reviewed: no
 <vocabulary>
 </vocabulary>
 {{Blær styles}}
-{{Blær|http://blaer.is/grein/lunga}}
+{{Blær|https://blaer.is/grein/lunga}}
 
 <div class="book" data-translate=true>
 
@@ -279,23 +279,9 @@ reviewed: no
 
   </div>
 
-  <div class="article-authors-wrap">
-    <div class="article-authors">
-      <div class="article-authors-writers">
-        <h2>Texti</h2>
-        <a href="/profill/birna" class="user">
-          <img loading="lazy"src="http://blaer.is/cpresources/userphotos/birna/100/1-5.jpg?d=1402868172">
-          <h3>Birna </h3>
-        </a>
-      </div>
-      <div class="article-authors-photographers">
-        <h2>Ljósmyndir</h2>
-        <a href="/profill/julia" class="user right">
-          <img loading="lazy"src="http://blaer.is/cpresources/userphotos/julia/100/1-3-2.jpg?d=1402867947">
-          <h3>Júlía</h3>
-        </a>
-      </div>
-    </div>
+  <div class="sans-serif center-text">
+    Text by [https://blaer.is/profill/birna Birna Ketilsdóttir Schram]<br/>
+    Images by [https://blaer.is/profill/julia Júlía Runólfsdóttir]
   </div>
 
 </div>

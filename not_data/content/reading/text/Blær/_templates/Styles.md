@@ -2,8 +2,8 @@
 title: Template:Blær styles
 ---
 <!--
-  Copyright © 2014 - BLÆR
-  Author: Hugi Hlynsson
+  Copyright © 2014 - Blær
+  Original author: Hugi Hlynsson
   (With minor adaptations to fit into Ylhýra)
 -->
 <style>
@@ -125,7 +125,7 @@ title: Template:Blær styles
       font-family: europa, Europa, Futura, Helvetiva, sans-serif;
       color: #e74c3c;
       font-size: 1em;
-      margin: 1em 0 -0.5em;
+      margin: 1em 0 1em;
       padding: 0;
       max-width: 550px;
     }
