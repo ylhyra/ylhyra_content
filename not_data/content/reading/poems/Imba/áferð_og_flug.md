@@ -31,6 +31,7 @@ eiginkona
 ekki lengur
 </vocabulary>
 <Book>
+  <div class="sans-serif">
 
 {{poem|
 '''áferð og flug'''<note>The title of this poem is a play on words. „Að vera á ferð og flugi“ means to be on the move or to be traveling to many places. „Á ferð“ (on travels) sound exactly like „áferð“ (texture).</note>
@@ -44,7 +45,7 @@ ekki lengur
 {{line|og áferðin á því var eins og húð reiðrar eiginkonu sem elskaði mig ekki lengur}}
 }}
 }}
-
+  </div>
 </Book>
 
 {{imba}}

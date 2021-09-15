@@ -23,6 +23,9 @@ enda
 skandínavískur
 tík
 </vocabulary>
+
+<Book>
+<div class="sans-serif">
 {{poem|
 '''''current mood'''''
 {{line|straumur}}
@@ -35,4 +38,7 @@ tík
 {{line|tilfinningahitann}}
 {{line|enda skandinavísk tík}}
 }}
-{{imba}}
+
+</div></Book>
+
+  {{imba}}

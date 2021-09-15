@@ -3,6 +3,7 @@ title: Blær/Fyrst við erum hérna
 redirects:
 - Blær/Vestfirðir
 - Fv
+level: B2
 reviewed: no
 ---
 <vocabulary>

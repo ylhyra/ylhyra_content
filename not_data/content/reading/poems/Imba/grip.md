@@ -5,6 +5,9 @@ tags:
 - Imba
 level: B2
 reviewed: no
+classes:
+- small-screen
+- sans-serif
 ---
 <vocabulary>
 ég hef gripið
@@ -60,6 +63,9 @@ meira
 að óttast
 að grípa í tómt
 </vocabulary>
+
+<Book>
+  <div class="sans-serif">
 {{poem|
 '''grip'''
 {{line|það er svo hljótt}}
@@ -86,4 +92,6 @@ að grípa í tómt
 {{line|að grípa í tómt}}
 }}
 
+  </div>
+</Book>
 {{imba}}

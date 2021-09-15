@@ -9,6 +9,7 @@ reviewed: no
 <vocabulary>
 </vocabulary>
 <Book audio="Imba Afi.mp3">
+  <div class="sans-serif">
 {{poem|
 '''afi'''
 {{verse|
@@ -35,8 +36,6 @@ reviewed: no
 {{line|með þig í huganum}}
 }}
 }}
-
-{{imba}}
-
+  </div>
 </Book>
-
+{{imba}}

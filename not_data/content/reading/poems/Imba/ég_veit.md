@@ -5,6 +5,9 @@ tags:
 - Poems
 level: B2
 reviewed: no
+classes:
+- small-screen
+- sans-serif
 ---
 <vocabulary>
 ég veit
@@ -47,6 +50,7 @@ brjálaður
 ástfanginn
 </vocabulary>
 <Book audio="Imba eg veit.mp3">
+  <div class="sans-serif">
 {{poem|
 '''ég veit'''
 
@@ -68,5 +72,6 @@ brjálaður
 {{line|brjálæðislega ástfangin}}
 }}
 }}
+  </div>
 </Book>
 {{imba}}

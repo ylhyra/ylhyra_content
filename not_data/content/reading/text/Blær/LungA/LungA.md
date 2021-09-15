@@ -1,6 +1,7 @@
 ---
 title: Blær/LungA
 reviewed: no
+level: B2
 ---
 <vocabulary>
 </vocabulary>
