@@ -1242,8 +1242,7 @@ title: Data:Imba/áferð og flug
 ],
 "direct": "incline themselves backwards",
 "inline_translation": "recline",
-"meaning": "recline (their airplane seat)",
-"show_definition_above": true
+"meaning": "recline (their airplane seat)"
 },
 "1510c70": {
 "contains": [
@@ -1464,7 +1463,7 @@ title: Data:Imba/áferð og flug
 "sentences": {
 "s_5s1p0": {
 "meaning": "Texture and flight",
-"note": "Play on word on „á ferð og flugi“ (on the move)"
+"note": "A word-play on „á ferð og flugi“ (on the move)"
 },
 "s_5s1p21": {
 "meaning": "I was further back"
