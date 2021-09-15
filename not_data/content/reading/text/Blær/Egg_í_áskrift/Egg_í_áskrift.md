@@ -20,7 +20,7 @@ typos fixed: true
     </div>
 
     <div class="image-box image-box-medium">
-      <img src="https://blaer.is/assets/images/_large/1-1-8_2.jpg">
+      <Image src="Blaer_egg_i_askrift_1-1-8_2.jpg"/>
     </div>
 
     <div class="article-entry">
@@ -38,7 +38,7 @@ typos fixed: true
         væntumþykju til stofns íslensku landnámshænunnar.</i>
 
       <div class="image-box image-box-medium">
-        <img src="https://blaer.is/assets/images/_medium/1-1-14_2.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-14_2.jpg"/>
       </div>
 
       Júlíus tók á móti okkur umkringdur skrautlegum hænum á túnfæti bæjarins eftir að við höfðum tekið nokkrar
@@ -47,9 +47,9 @@ typos fixed: true
       fugla sem ganga frjálsir um túnið.
 
       <div class="image-box image-box-large">
-        <video poster="https://blaer.is/assets/images/hæna-labba.png" autoplay="" loop="" muted="true">
-          <source src="https://blaer.is/assets/videos/hæna-labba.webmhd.webm" type="video/webm">
-          <source src="https://blaer.is/assets/videos/hæna-labba.iphone5.mp4" type="video/mp4">
+        <video poster="/api/content?title=File:Blaer_egg_i_askrift_hæna-labba.png" autoplay="" loop="" muted="true">
+          <source src="/api/content?title=File:Blaer_egg_i_askrift_hæna-labba.webmhd.webm" type="video/webm">
+          <source src="/api/content?title=File:Blaer_egg_i_askrift_hæna-labba.iphone5.mp4" type="video/mp4">
         </video>
       </div>
 
@@ -63,10 +63,10 @@ typos fixed: true
 
       <div class="images-two-up">
         <div class="image-box image-box-half">
-          <img src="https://blaer.is/assets/images/_articleSmall/1-1-6_5.jpg">
+          <Image src="Blaer_egg_i_askrift_1-1-6_5.jpg"/>
         </div>
         <div class="image-box image-box-half">
-          <img src="https://blaer.is/assets/images/_articleSmall/1-1-2_11.jpg">
+          <Image src="Blaer_egg_i_askrift_1-1-2_11.jpg"/>
         </div>
       </div>
 
@@ -79,7 +79,7 @@ typos fixed: true
       <blockquote>„Þetta er víst það sem markaðurinn vildi. Fleiri egg, meira kjöt og það ódýrt.“</blockquote>
 
       <div class="image-box image-box-medium">
-        <img src="https://blaer.is/assets/images/_medium/1-1-12_3.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-12_3.jpg"/>
       </div>
 
       Starfsemin á Þykkvabæ hefur blómstrað síðustu ár en Júlíus er kominn með um sextíu áskrifendur eða
@@ -91,7 +91,7 @@ typos fixed: true
       veit nema hænan sendi þér jólakort.“
 
       <div class="image-box image-box-medium">
-        <img src="https://blaer.is/assets/images/_medium/1-1-21_1.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-21_1.jpg"/>
       </div>
 
       Júlíus segir að það sé stöðugt að aukast að fólk hafi hænur við heimili sitt í borginni. Það eina sem þær
@@ -104,9 +104,9 @@ typos fixed: true
 
 
       <div class="image-box image-box-large">
-        <video poster="https://blaer.is/assets/images/hænur-borða.png" autoplay="" loop="" muted="true">
-          <source src="https://blaer.is/assets/videos/hænur-borða.webmhd.webm" type="video/webm">
-          <source src="https://blaer.is/assets/videos/hænur-borða.iphone5.mp4" type="video/mp4">
+        <video poster="/api/content?title=File:Blaer_egg_i_askrift_hænur-borða.png" autoplay="" loop="" muted="true">
+          <source src="/api/content?title=File:Blaer_egg_i_askrift_hænur-borða.webmhd.webm" type="video/webm">
+          <source src="/api/content?title=File:Blaer_egg_i_askrift_hænur-borða.iphone5.mp4" type="video/mp4">
         </video>
       </div>
 
@@ -117,7 +117,7 @@ typos fixed: true
       leigusamningurinn út og hænan kemur aftur til mín.“
 
       <div class="image-box image-box-medium">
-        <img src="https://blaer.is/assets/images/_medium/1-1-13_3.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-13_3.jpg"/>
       </div>
 
       Júlíus segir eggin frá landnámshænunni vera lífræn með rauðu sem líkist mandarínu á litinn. Bragðið sé auk
@@ -127,7 +127,7 @@ typos fixed: true
       hægja á. Engin hér er eldri en fjögurra ára svo þær klifra flestar upp í hólfin daglega og verpa.“
 
       <div class="image-box image-box-medium">
-        <img src="https://blaer.is/assets/images/_medium/1-1-10_3.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-10_3.jpg"/>
       </div>
 
       <blockquote>„Skemmtilegt er að fylgjast með því hvaða hólf eru vinsælust hjá þeim. Stundum safnast fyrir 15
@@ -135,7 +135,7 @@ typos fixed: true
       </blockquote>
 
       <div class="image-box image-box-large">
-        <img src="https://blaer.is/assets/images/_large/1-1-7_4.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-7_4.jpg"/>
       </div>
 
       Á Þykkvabæ fá fuglarnir lífrænt fóður en Júlíus segir þær vera alætur. „Þær ganga svo langt að borða hver
@@ -146,11 +146,11 @@ typos fixed: true
       veðri sem er. Landnámshænan lætur ekki veður- og fóðurbreytingar hafa áhrif á sig ólíkt verksmiðjufuglinum.“
 
       <div class="image-box image-box-medium">
-        <img src="https://blaer.is/assets/images/_medium/1-1-20_1.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-20_1.jpg"/>
       </div>
 
       <div class="image-box image-box-large">
-        <img src="https://blaer.is/assets/images/_large/1-1-16_1.jpg">
+        <Image src="Blaer_egg_i_askrift_1-1-16_1.jpg"/>
       </div>
 
       Yfir kaffi og súkkulaði sammælumst við gestirnir um að okkur vanti fleiri hænur í líf okkar. Eftir að hafa
