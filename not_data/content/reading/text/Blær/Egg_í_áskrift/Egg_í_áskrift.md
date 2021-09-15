@@ -31,7 +31,7 @@ typos fixed: true
         bæinn í kjölfarið eftir að landbúnaðarráðuneytið úthlutaði lóðinni annað. Áður tókst honum þó að bjarga um
         hundrað eggjum frá bruna og koma þeim fyrir í útungunarvél nágrannans. Tíu hanar lifðu af sem voru
         staðsettir í öðru húsi en hænurnar. Þannig varðveittist stofninn og varð að þeim 230 hænum
-        <!-- TODO Á þetta orð heima hér? --> sem hann er í dag. Júlíus var ákveðinn í að halda ótrauður áfram; rækta
+        sem hann er í dag. Júlíus var ákveðinn í að halda ótrauður áfram; rækta
         stofninn og dreifa honum í borgir og bæi. Til þess er Júlíus með opið bú þar sem öllum gefst færi á að sjá
         fuglinn í sínu rétta umhverfi, fræðast um hann og vonandi heillast. Öllum stendur auk þess til boða að kaupa
         sér hænu eða egg, leigja hænu eða taka í fóstur. Starfsemin á Þykkvabæ er rekin af ástríðu og einskærri
@@ -168,7 +168,7 @@ typos fixed: true
   Images by [https://blaer.is/profill/julia Júlía Runólfsdóttir]
 </div>
 
-
+<Footer>
 {{Copyright/Blær}}
-
+</Footer>
 <!-- TODO: Laga "og sem hann er í dag" -->
