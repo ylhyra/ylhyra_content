@@ -16,6 +16,7 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 
 ***
 
+<div class="sans-serif">
 <!-- Total: 2150 words -->
 <TOC>
 *{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/1|'''Part 1''' – Njáll adopts Höskuldur.<!-- 160 words -->}}
@@ -30,7 +31,7 @@ The following is a highly simplified retelling of the middle part of ''[[w:Njál
 *{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/10|'''Part 10''' – The others try to flee, but most fail. The house burns down.<!-- 245 words -->}}
 *{{link with percentage|Brennu-Njáls saga/Höskuldur og brennan/Discussion|'''Discussion'''}}
 </TOC>
-
+</div>
 <Footer>
 '''Links'''
 
