@@ -413,4 +413,353 @@ rows:
     alternative_id: forslagene (Osló);; forslagan^ (Þrándheimi)
     row_id: 101
     last_seen: "2021-09-07"
+  - icelandic: å utfordre
+    english: að mana
+    alternative_id: å utfordre
+    row_id: 102
+  - icelandic: det er juks
+    english: það er svindl
+    alternative_id: det er juks
+    row_id: 103
+  - icelandic: et ordforråd
+    english: orðaforði
+    alternative_id: et ordforråd
+    row_id: 104
+  - icelandic: ei løgn
+    english: lygi
+    alternative_id: ei løgn
+    row_id: 105
+  - icelandic: å forberede
+    english: að undirbúa
+    alternative_id: å forberede
+    row_id: 106
+  - icelandic: et humør
+    english: skap; a mood
+    alternative_id: et humør
+    row_id: 107
+  - icelandic: en humor
+    english: húmor
+    alternative_id: en humor
+    row_id: 108
+  - icelandic: ei mor; mora; mødre; mødrene
+    english: mamma; mamman; mömmur; mömmurnar
+    alternative_id: ei mor; mora; mødre; mødrene
+    row_id: 109
+  - icelandic: en far; faren; fedre; fedrene
+    english: pabbi; pabbinn; pabbar; pabbarnir
+    alternative_id: en far; faren; fedre; fedrene
+    row_id: 110
+  - icelandic: en bror; broren; brødre; brødrene
+    english: bróðir; bróðirinn; bræður; bræðurnir
+    alternative_id: en bror; broren; brødre; brødrene
+    row_id: 111
+  - icelandic: syden
+    english: sólarlönd
+    alternative_id: syden
+    row_id: 112
+  - icelandic: n*ettopp
+    english: rétt í þessu; mjög nýlega
+    alternative_id: n*ettopp
+    row_id: 113
+  - icelandic: det e ingenting æ syns så veldig om sjøl^
+    english: mér finnst það sjálfum ekkert sérstakt
+    alternative_id: det e ingenting æ syns så veldig om sjøl^
+    row_id: 114
+  - icelandic: å s*ynes om*
+    english: að finnast um
+    alternative_id: å s*ynes om*
+    row_id: 115
+  - icelandic: "der borte (n: Þrándheimi: borti der^)"
+    english: þar; over there
+    alternative_id: "der borte (n: Þrándheimi: borti der^)"
+    row_id: 116
+  - icelandic: bort dit
+    alternative_id: bort dit
+    row_id: 117
+  - icelandic: o*mtrentelig
+    english: sirka
+    alternative_id: o*mtrentelig
+    row_id: 118
+  - icelandic: en programmerer
+    english: forritari
+    alternative_id: en programmerer
+    row_id: 119
+  - icelandic: et bær
+    english: ber (ávöxtur)
+    alternative_id: et bær
+    row_id: 120
+  - icelandic: å vessta; æ veit; æ visst
+    english: að vita; ég veit; ég vissi (Þrándheimi)
+    alternative_id: å vessta; æ veit; æ visst
+    row_id: 121
+  - icelandic: jeg skal sende deg det (æ ska send dæ det)^
+    english: Ég skal senda þér það
+    alternative_id: jeg skal sende deg det (æ ska send dæ det)^
+    row_id: 122
+  - icelandic: en dårlig vane
+    english: a bad habit
+    alternative_id: en dårlig vane
+    row_id: 123
+  - icelandic: ei ordrekkefølge
+    english: orðaröð
+    alternative_id: ei ordrekkefølge
+    row_id: 124
+  - icelandic: en venn; mange venna
+    english: einn vinur; margir vinir
+    alternative_id: en venn; mange venna
+    row_id: 125
+  - icelandic: fedren vorres e venna
+    english: pabbar okkar eru vinir
+    alternative_id: fedren vorres e venna
+    row_id: 126
+  - icelandic: for nånn år sida^
+    english: fyrir nokkrum árum síðan
+    alternative_id: for nånn år sida^
+    row_id: 127
+  - icelandic: vennan^ demmers^
+    english: vinur þeirra
+    alternative_id: vennan^ demmers^
+    row_id: 128
+  - icelandic: du kjenne^
+    english: þú þekkir
+    alternative_id: du kjenne^
+    row_id: 129
+  - icelandic: å overleve
+    english: að lifa af
+    alternative_id: å overleve
+    row_id: 130
+  - icelandic: å være sikker på
+    english: að vera viss um
+    alternative_id: å være sikker på
+    row_id: 131
+  - icelandic: å samle
+    english: að safna
+    alternative_id: å samle
+    row_id: 132
+  - icelandic: et gebyr
+    english: greiðsla; þóknun; gjald
+    alternative_id: et gebyr
+    row_id: 133
+  - icelandic: t%ilstanden t*att i betraktning*
+    english: miðað við aðstæður
+    alternative_id: t%ilstanden t*att i betraktning*
+    row_id: 134
+  - icelandic: f*orholdsvis
+    english: miðað við aðstæður
+    alternative_id: f*orholdsvis
+    row_id: 135
+  - icelandic: et forhold
+    english: aðstæður; kjör;; ástarsamband
+    alternative_id: et forhold
+    row_id: 136
+  - icelandic: ei slekt
+    english: ættfólk
+    alternative_id: ei slekt
+    row_id: 137
+  - icelandic: å være i slekt med
+    english: að vera skyldur
+    alternative_id: å være i slekt med
+    row_id: 138
+  - icelandic: et par tiår
+    english: nokkrir áratugir
+    alternative_id: et par tiår
+    row_id: 139
+  - icelandic: en sau
+    english: kind
+    alternative_id: en sau
+    row_id: 140
+  - icelandic: et reinsdyr
+    english: hreindýr
+    alternative_id: et reinsdyr
+    row_id: 141
+  - icelandic: skuffende
+    english: svekkjandi
+    alternative_id: skuffende
+    row_id: 142
+  - icelandic: kjip
+    english: að vera slappt / illa gert af einhverjum;; sad; depressing; boring
+    alternative_id: kjip
+    row_id: 143
+  - icelandic: relaterbart
+    english: "= relatable"
+    alternative_id: relaterbart
+    row_id: 144
+  - icelandic: j%eg k%jenner *meg igjen*
+    english: ég tengi (við það sem þú ert að segja)
+    alternative_id: j%eg k%jenner *meg igjen*
+    row_id: 145
+  - icelandic: vældig kjekt
+    english: mjög fínt; mjög skemmtilegt
+    alternative_id: vældig kjekt
+    row_id: 146
+  - icelandic: å fullføre
+    english: að ljúka við
+    alternative_id: å fullføre
+    row_id: 147
+  - icelandic: kresen
+    english: matvandur
+    alternative_id: kresen
+    row_id: 148
+  - icelandic: han er igjen
+    english: hann er eftir
+    alternative_id: han er igjen
+    row_id: 149
+  - icelandic: vakkert
+    english: fallegt
+    alternative_id: vakkert
+    row_id: 150
+  - icelandic: pappa si side av familien
+    english: dad's side of the family
+    alternative_id: pappa si side av familien
+    row_id: 151
+  - icelandic: å begrense
+    english: að takmarka
+    alternative_id: å begrense
+    row_id: 152
+  - icelandic: et gjerde
+    english: girðing
+    alternative_id: et gjerde
+    row_id: 153
+    last_seen: "2021-09-19"
+  - icelandic: å være lei seg
+    english: að vera leiður
+    alternative_id: å være lei seg
+    row_id: 154
+  - icelandic: å høre på
+    english: að hlusta á
+    alternative_id: å høre på
+    row_id: 155
+  - icelandic: kaffen
+    english: kaffið
+    alternative_id: kaffen
+    row_id: 156
+  - icelandic: for1resten
+    english: by the way
+    alternative_id: for1resten
+    row_id: 157
+  - icelandic: å 2foretrekke
+    english: to prefer
+    alternative_id: å 2foretrekke
+    row_id: 158
+  - icelandic: jeg vet ikke engang
+    english: ég veit ekki einu sinni
+    alternative_id: jeg vet ikke engang
+    row_id: 159
+  - icelandic: å være i stand til å
+    english: að vera fær um
+    alternative_id: å være i stand til å
+    row_id: 160
+  - icelandic: en hovedstad
+    english: höfuðborg
+    alternative_id: en hovedstad
+    row_id: 161
+  - icelandic: å tenke på
+    english: að hugsa um
+    alternative_id: å tenke på
+    row_id: 162
+  - icelandic: å omgås
+    english: að umgangast
+    alternative_id: å omgås
+    row_id: 163
+  - icelandic: en fyr
+    english: gaur
+    alternative_id: en fyr
+    row_id: 164
+  - icelandic: en aksent /ak’saŋ/
+    english: hreimur
+    alternative_id: en aksent /ak’saŋ/
+    row_id: 165
+  - icelandic: sjøl bor æ i leiligheta te bestemora mi
+    english: sjálfur bý ég í íbúð ömmu minnar
+    alternative_id: sjøl bor æ i leiligheta te bestemora mi
+    row_id: 166
+  - icelandic: om du føle for det
+    english: ef þú ert í stuði fyrir það
+    alternative_id: om du føle for det
+    row_id: 167
+  - icelandic: å fortsette
+    english: að halda áfram
+    alternative_id: å fortsette
+    row_id: 168
+  - icelandic: ei hodepine
+    english: hausverkur
+    alternative_id: ei hodepine
+    row_id: 169
+  - icelandic: et hode
+    english: höfuð
+    alternative_id: et hode
+    row_id: 170
+  - icelandic: av ein eller anna grunn
+    english: for one reason or another
+    alternative_id: av ein eller anna grunn
+    row_id: 171
+  - icelandic: å bryte sosiale normer
+    english: að brjóta samfélagsreglur
+    alternative_id: å bryte sosiale normer
+    row_id: 172
+  - icelandic: å si ha det
+    english: að kveðja
+    alternative_id: å si ha det
+    row_id: 173
+  - icelandic: å g%odta
+    english: að samþykkja
+    alternative_id: å g%odta
+    row_id: 174
+  - icelandic: en feil æ ofte gjør på dansk
+    english: villa sem ég geri oft á dönsku
+    alternative_id: en feil æ ofte gjør på dansk
+    row_id: 175
+  - icelandic: s*litsomt
+    english: þreytandi
+    alternative_id: s*litsomt
+    row_id: 176
+  - icelandic: et samtaleemne
+    english: umræðuefni
+    alternative_id: et samtaleemne
+    row_id: 177
+  - icelandic: ei retning
+    english: a direction
+    alternative_id: ei retning
+    row_id: 178
+  - icelandic: å ferdigstille;; å gjøre ferdig
+    english: að ljúka við
+    alternative_id: å ferdigstille;; å gjøre ferdig
+    row_id: 179
+  - icelandic: å forbli
+    english: to remain; að vera áfram
+    alternative_id: å forbli
+    row_id: 180
+  - icelandic: å vær sikker på
+    english: að vera viss um
+    alternative_id: å vær sikker på
+    row_id: 181
+  - icelandic: å kjed sæ
+    english: að leiðast
+    alternative_id: å kjed sæ
+    row_id: 182
+  - icelandic: et kyss
+    english: koss
+    alternative_id: et kyss
+    row_id: 183
+  - icelandic: å konkurrere
+    english: að keppa við
+    alternative_id: å konkurrere
+    row_id: 184
+  - icelandic: å love bra/dårlig
+    english: að lofa góðu/slæmu
+    alternative_id: å love bra/dårlig
+    row_id: 185
+  - icelandic: bevisst
+    english: meðvitað
+    alternative_id: bevisst
+    row_id: 186
+  - icelandic: et yrke
+    english: fag; a profession
+    alternative_id: et yrke
+    row_id: 187
+  - icelandic: ei takknemlighet
+    english: þakklæti
+    alternative_id: ei takknemlighet
+    row_id: 188
+    last_seen: "2021-09-22"
 sound: []

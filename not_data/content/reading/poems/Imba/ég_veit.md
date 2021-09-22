@@ -1,5 +1,5 @@
 ---
-title: Imba/ég veit
+title: Imba/Ég veit
 tags:
 - Imba
 - Poems

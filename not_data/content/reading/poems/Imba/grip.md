@@ -1,5 +1,5 @@
 ---
-title: Imba/grip
+title: Imba/Grip
 tags:
 - Poems
 - Imba

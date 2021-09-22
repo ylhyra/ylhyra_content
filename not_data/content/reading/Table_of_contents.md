@@ -69,8 +69,8 @@ reviewed: no
 **{{link with percentage|Tweets/Kristín Ólafs/Slúður|Slúður|<!-- x -->by Kristín Ólafs}}
 **{{link with percentage|Tweets/Imba/Þjóðverjar|Þjóðverjar|<!-- x -->by Imba}}
 *Poems
-**{{link with percentage|Imba/afi|''afi''|<!-- x -->by Imba}}
-**{{link with percentage|Imba/current_mood|''current mood''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/Afi|''Afi''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/Current mood|''Current mood''|<!-- x -->by Imba}}
 
 ## [[B2]]
 
@@ -84,8 +84,8 @@ reviewed: no
 **{{link with percentage|Blær/LungA|''LungA''|<!-- x -->by Blær}}
 *Poems
 **{{link with percentage|Sofðu unga ástin mín|''Sofðu unga ástin mín''|<!-- x -->by Jóhann Sigurjónsson}}
-**{{link with percentage|Imba/ég veit|''ég veit''|<!-- x -->by Imba}}
-**{{link with percentage|Imba/grip|''grip''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/Ég veit|''Ég veit''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/Grip|''Grip''|<!-- x -->by Imba}}
 *Videos
 **{{link with percentage|Villi Neto/Bubbi|Bubbi|<!-- x -->by Villi Neto}}
 **{{link with percentage|Villi Neto/Skata|Skata|<!-- x -->by Villi Neto}}
@@ -113,7 +113,7 @@ reviewed: no
 *Videos
 **{{link with percentage|Villi Neto/Forníslenski sjomlinn|Forníslenski sjomlinn|<!-- x -->by Villi Neto}}
 *Poems
-**{{link with percentage|Imba/áferð og flug|''áferð og flug''|<!-- x -->by Imba}}
+**{{link with percentage|Imba/Áferð og flug|''Áferð og flug''|<!-- x -->by Imba}}
 **{{link with percentage|Jónas Hallgrímsson/Ásta/1|''Ásta''|<!-- x -->by Jónas Hallgrímsson}}
 **{{link with percentage|Sveinbjörn Egilsson/Bí bí og blaka|''Bí bí og blaka''|<!-- x -->by Sveinbjörn Egilsson}}
 **{{link with percentage|Vísur Vatnsenda-Rósu|''Vísur Vatnsenda-Rósu''}}

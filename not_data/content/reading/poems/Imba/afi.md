@@ -1,5 +1,5 @@
 ---
-title: Imba/afi
+title: Imba/Afi
 tags:
 - Imba
 - Poems

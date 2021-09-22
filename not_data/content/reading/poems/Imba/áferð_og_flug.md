@@ -1,5 +1,5 @@
 ---
-title: Imba/áferð og flug
+title: Imba/Áferð og flug
 redirects:
 - Imba/áferð og flugi
 tags:

@@ -738,7 +738,7 @@ að komast að einhverju
 má ekki vera að því
 
 
-í kjöl­farið = as a result of that
+í kjölfarið = as a result of that
 
 Getur þú mætt fyrr? = Can you show up earlier?
 Ég hitti fyrrverandi áðan. = I met my ex earlier today.
@@ -749,6 +749,9 @@ Gott mál [„A good matter“ = We are in agreement regarding this matter]
 stjórnmál
 svalir
 skottið
+framhjá
+að bíða eftir
+á virkum dögum
 
 
 
@@ -759,5 +762,5 @@ skottið
 
 
 
-
-
+speglar /speíglar/
+að ákveða sig

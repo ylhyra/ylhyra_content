@@ -1,5 +1,5 @@
 ---
-title: Imba/current mood
+title: Imba/Current mood
 tags:
 - Poems
 - Imba
