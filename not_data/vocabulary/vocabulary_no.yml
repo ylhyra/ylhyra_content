@@ -762,4 +762,105 @@ rows:
     alternative_id: ei takknemlighet
     row_id: 188
     last_seen: "2021-09-22"
+  - icelandic: Ka skjer?
+    english: Hvað segist?; Hvað er í gangi?
+    alternative_id: Ka skjer?
+    row_id: 189
+  - icelandic: å bli anmeldt
+    english: að vera lögsóttur
+    alternative_id: å bli anmeldt
+    row_id: 190
+  - icelandic: det høres finsk ut
+    english: það hljómar finnskt
+    alternative_id: det høres finsk ut
+    row_id: 191
+  - icelandic: et telt
+    english: tjald
+    alternative_id: et telt
+    row_id: 192
+  - icelandic: å o%rdlegge s%eg
+    english: að orða hlutina
+    alternative_id: å o%rdlegge s%eg
+    row_id: 193
+  - icelandic: Ka hadda det vært i fleirtall?
+    english: Hvað myndi það vera í fleirtölu?
+    alternative_id: Ka hadda det vært i fleirtall?
+    row_id: 194
+  - icelandic: ei tå; tåa; tær; tærne
+    english: tá; táin; tær; tærnar
+    alternative_id: ei tå; tåa; tær; tærne
+    row_id: 195
+  - icelandic: kjerring
+    english: kjelling
+    alternative_id: kjerring
+    row_id: 196
+  - icelandic: det høres ikke så godt ut
+    english: það hljómar ekki svo vel
+    alternative_id: det høres ikke så godt ut
+    row_id: 197
+  - icelandic: t%rivelig
+    english: ánægjulegur; notalegur; huggulegur
+    alternative_id: t%rivelig
+    row_id: 198
+  - icelandic: et kulturkræsj
+    english: menningarsjokk
+    alternative_id: et kulturkræsj
+    row_id: 199
+  - icelandic: en oppførsel
+    english: hegðun; framkoma
+    alternative_id: en oppførsel
+    row_id: 200
+  - icelandic: bestemte land
+    english: ákveðin lönd
+    alternative_id: bestemte land
+    row_id: 201
+  - icelandic: en personlighet
+    english: persónuleiki
+    alternative_id: en personlighet
+    row_id: 202
+  - icelandic: å oppføre seg
+    english: að hegða sér
+    alternative_id: å oppføre seg
+    row_id: 203
+  - icelandic: ei selvsikkerhet; ei sjølsikkerhet^
+    english: sjálfsöryggi
+    alternative_id: ei selvsikkerhet; ei sjølsikkerhet^
+    row_id: 204
+  - icelandic: å gjør noe feil
+    english: að gera eitthvað vitlaust
+    alternative_id: å gjør noe feil
+    row_id: 205
+  - icelandic: tilfeldig
+    english: random
+    alternative_id: tilfeldig
+    row_id: 206
+  - icelandic: en mote
+    english: tíska
+    alternative_id: en mote
+    row_id: 207
+  - icelandic: å lage mat
+    english: að búa til mat
+    alternative_id: å lage mat
+    row_id: 208
+  - icelandic: en færøying
+    english: Færeyingur
+    alternative_id: en færøying
+    row_id: 209
+  - icelandic: en danske; mange dansker
+    english: einn Dani; margir Danir
+    alternative_id: en danske; mange dansker
+    row_id: 210
+  - icelandic: en svenske; mange svensker
+    english: einn Svíi; margir Svíar
+    alternative_id: en svenske; mange svensker
+    row_id: 211
+  - icelandic: en tysker; mange tyskere
+    english: einn Þjóðverji; margir Þjoðverjar
+    alternative_id: en tysker; mange tyskere
+    row_id: 212
+  - icelandic: m%edvitende
+    english: meðvitandi
+    alternative_id: m%edvitende
+    row_id: 213
+    last_seen: "2021-09-23"
 sound: []
