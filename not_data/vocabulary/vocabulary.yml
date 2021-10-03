@@ -22985,7 +22985,7 @@ sound:
     filename: E1_Var_vinkona_þín_ánægð_með_það.mp3
     speed: slow
     speaker: E
-    date: "021-10-03"
+    date: 021-10-03
   - recording_of: hann var
     filename: E1_hann_var.mp3
     speed: slow
@@ -22998,6 +22998,1031 @@ sound:
     date: "2021-10-03"
   - recording_of: Hann er upptekinn.
     filename: E1_Hann_er_upptekinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvernig var?
+    filename: E1_Hvernig_var.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: borðið
+    filename: E1_borðið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: húsið
+    filename: E1_húsið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: amma
+    filename: E1_amma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvar býr amma þín?
+    filename: E1_Hvar_býr_amma_þín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Var gaman?
+    filename: E1_Var_gaman.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: pabbi minn
+    filename: E1_pabbi_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvernig var dagurinn þinn?
+    filename: E1_Hvernig_var_dagurinn_þinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: árið
+    filename: E1_árið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Kann afi þinn ensku?
+    filename: E1_Kann_afi_þinn_ensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: árið mitt
+    filename: E1_árið_mitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hárið
+    filename: E1_hárið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að fljúga
+    filename: E1_að_fljúga.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: mjólk
+    filename: E1_mjólk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bók
+    filename: E1_bók.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bókin
+    filename: E1_bókin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: vikan
+    filename: E1_vikan.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: grasið
+    filename: E1_grasið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: vatnið
+    filename: E1_vatnið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: vínið
+    filename: E1_vínið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: mjólkin
+    filename: E1_mjólkin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: fólkið
+    filename: E1_fólkið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: konan
+    filename: E1_konan.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: nóttin
+    filename: E1_nóttin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: mynd
+    filename: E1_mynd.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Kvöldið!
+    filename: E1_Kvöldið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Góða kvöldið.
+    filename: E1_Góða_kvöldið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Gott kvöld.
+    filename: E1_Gott_kvöld.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: landið
+    filename: E1_landið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: vikan mín
+    filename: E1_vikan_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: klukkan
+    filename: E1_klukkan.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bjórinn minn
+    filename: E1_bjórinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er vinur
+    filename: E1_hér_er_vinur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um vin
+    filename: E1_um_vin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um mann
+    filename: E1_um_mann.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: eldhúsið þitt
+    filename: E1_eldhúsið_þitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er fiskurinn
+    filename: E1_hér_er_fiskurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um fiskinn
+    filename: E1_um_fiskinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er maður
+    filename: E1_hér_er_maður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: kaffið mitt
+    filename: E1_kaffið_mitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er dagurinn
+    filename: E1_hér_er_dagurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er fiskur
+    filename: E1_hér_er_fiskur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um fisk
+    filename: E1_um_fisk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Borðarðu fisk?
+    filename: E1_Borðarðu_fisk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: dagurinn minn
+    filename: E1_dagurinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hárið þitt
+    filename: E1_hárið_þitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: flugvélin mín
+    filename: E1_flugvélin_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: barn
+    filename: E1_barn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: barnið mitt
+    filename: E1_barnið_mitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um daginn
+    filename: E1_um_daginn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: maturinn minn
+    filename: E1_maturinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: konan mín
+    filename: E1_konan_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er maðurinn
+    filename: E1_hér_er_maðurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um manninn
+    filename: E1_um_manninn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: frænka mín
+    filename: E1_frænka_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tölvan mín
+    filename: E1_tölvan_mín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: garðurinn
+    filename: E1_garðurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: garðurinn minn
+    filename: E1_garðurinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bókin þín
+    filename: E1_bókin_þín.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er hundur
+    filename: E1_hér_er_hundur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um hund
+    filename: E1_um_hund.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er kötturinn minn
+    filename: E1_hér_er_kötturinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um köttinn minn
+    filename: E1_um_köttinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég veit ekki hvar hundurinn minn er.
+    filename: E1_Ég_veit_ekki_hvar_hundurinn_minn_er.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Maðurinn minn á hund.
+    filename: E1_Maðurinn_minn_á_hund.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvað er þátturinn um?
+    filename: E1_Hvað_er_þátturinn_um.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Um hvað er þátturinn?
+    filename: E1_Um_hvað_er_þátturinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að horfa á
+    filename: E1_að_horfa_á.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég er að horfa á þátt.
+    filename: E1_Ég_er_að_horfa_á_þátt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: frá þér
+    filename: E1_frá_þér.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þú átt
+    filename: E1_þú_átt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Áttu hund?
+    filename: E1_Áttu_hund.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þessi hamborgari
+    filename: E1_þessi_hamborgari.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þessi maður
+    filename: E1_þessi_maður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er hamborgarinn minn
+    filename: E1_hér_er_hamborgarinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um hamborgarann minn
+    filename: E1_um_hamborgarann_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég er að tala við vin minn.
+    filename: E1_Ég_er_að_tala_við_vin_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvernig eldar maður fisk?
+    filename: E1_Hvernig_eldar_maður_fisk.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Langar vin þinn að koma með?
+    filename: E1_Langar_vin_þinn_að_koma_með.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þessi bók er eftir vin minn.
+    filename: E1_Þessi_bók_er_eftir_vin_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þessi bók er um vin minn.
+    filename: E1_Þessi_bók_er_um_vin_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hér er þátturinn
+    filename: E1_hér_er_þátturinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: um þáttinn
+    filename: E1_um_þáttinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hvert?
+    filename: E1_hvert.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að eiga að
+    filename: E1_að_eiga_að.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tónlistarmaður
+    filename: E1_tónlistarmaður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þrír
+    filename: E1_þrír.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að hreyfa
+    filename: E1_að_hreyfa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Bandaríkin
+    filename: E1_Bandaríkin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: enginn
+    filename: E1_enginn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að sækja
+    filename: E1_að_sækja.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að vilja
+    filename: E1_að_vilja.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég skil ekki.
+    filename: E1_Ég_skil_ekki.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: rangur
+    filename: E1_rangur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þú hefur
+    filename: E1_þú_hefur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Það er vitlaust.
+    filename: E1_Það_er_vitlaust.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Það er rangt.
+    filename: E1_Það_er_rangt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: sumar
+    filename: E1_sumar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ég fer
+    filename: E1_ég_fer.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: í sumar
+    filename: E1_í_sumar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvar áttu heima?
+    filename: E1_Hvar_áttu_heima.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að trúa
+    filename: E1_að_trúa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tveir
+    filename: E1_tveir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: áður en
+    filename: E1_áður_en.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að kaupa
+    filename: E1_að_kaupa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: fimm
+    filename: E1_fimm.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hundrað
+    filename: E1_hundrað.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Spánn
+    filename: E1_Spánn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: spænska
+    filename: E1_spænska.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Það eru fimm manns hérna.
+    filename: E1_Það_eru_fimm_manns_hérna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: frá henni
+    filename: E1_frá_henni.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að ganga
+    filename: E1_að_ganga.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að hittast
+    filename: E1_að_hittast.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: illa
+    filename: E1_illa.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: frá honum
+    filename: E1_frá_honum.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hann er veikur.
+    filename: E1_Hann_er_veikur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ég þarf
+    filename: E1_ég_þarf.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að slaka á
+    filename: E1_að_slaka_á.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: veðrið
+    filename: E1_veðrið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þrisvar sinnum
+    filename: E1_þrisvar_sinnum.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: átta
+    filename: E1_átta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að sjá
+    filename: E1_að_sjá.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að sjást
+    filename: E1_að_sjást.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: sjö
+    filename: E1_sjö.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að finna
+    filename: E1_að_finna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að finnast
+    filename: E1_að_finnast.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tvisvar sinnum
+    filename: E1_tvisvar_sinnum.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: níu
+    filename: E1_níu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: næstum
+    filename: E1_næstum.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: næstum því
+    filename: E1_næstum_því.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ég vil
+    filename: E1_ég_vil.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ekkert
+    filename: E1_ekkert.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ekki neitt
+    filename: E1_ekki_neitt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég er að reyna.
+    filename: E1_Ég_er_að_reyna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: yfir
+    filename: E1_yfir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hún er reið.
+    filename: E1_Hún_er_reið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tíminn
+    filename: E1_tíminn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: En áhugavert!
+    filename: E1_En_áhugavert.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Er erfitt að vera kennari?
+    filename: E1_Er_erfitt_að_vera_kennari.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: fjórir
+    filename: E1_fjórir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þrjú hundruð
+    filename: E1_þrjú_hundruð.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hann heitir
+    filename: E1_hann_heitir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvað heitir kötturinn þinn?
+    filename: E1_Hvað_heitir_kötturinn_þinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: slæmur
+    filename: E1_slæmur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: sextíu
+    filename: E1_sextíu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Það er of dýrt.
+    filename: E1_Það_er_of_dýrt.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: mínúta
+    filename: E1_mínúta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: til hægri
+    filename: E1_til_hægri.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tvö hundruð
+    filename: E1_tvö_hundruð.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að flytja
+    filename: E1_að_flytja.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: setningin
+    filename: E1_setningin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Það tekur tvo tíma.
+    filename: E1_Það_tekur_tvo_tíma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þetta tekur tvo tíma.
+    filename: E1_Þetta_tekur_tvo_tíma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: svolítið
+    filename: E1_svolítið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Skál!
+    filename: E1_Skál.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þú getur
+    filename: E1_þú_getur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hann getur
+    filename: E1_hann_getur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ég á að
+    filename: E1_ég_á_að.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég ætla að tala við mömmu hans.
+    filename: E1_Ég_ætla_að_tala_við_mömmu_hans.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: sömuleiðis
+    filename: E1_sömuleiðis_107.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bærinn
+    filename: E1_bærinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: „Kæri Gunnar, ...“
+    filename: E1_„Kæri_Gunnar_“.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: til Englands
+    filename: E1_til_Englands.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Mig langar að flytja til Englands.
+    filename: E1_Mig_langar_að_flytja_til_Englands.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þrjátíu
+    filename: E1_þrjátíu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: fáir
+    filename: E1_fáir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: strax
+    filename: E1_strax.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég ætla að tala við mömmu mína.
+    filename: E1_Ég_ætla_að_tala_við_mömmu_mína.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Takk, sömuleiðis.
+    filename: E1_Takk_sömuleiðis.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að kynnast einhverjum
+    filename: E1_að_kynnast_einhverjum.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: krakkinn
+    filename: E1_krakkinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: eitt prósent
+    filename: E1_eitt_prósent.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég ætla að flytja til Bandaríkjanna.
+    filename: E1_Ég_ætla_að_flytja_til_Bandaríkjanna.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: til vinstri
+    filename: E1_til_vinstri.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: loksins
+    filename: E1_loksins.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvernig gerir maður þetta?
+    filename: E1_Hvernig_gerir_maður_þetta.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: nítján
+    filename: E1_nítján.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: þú borðar
+    filename: E1_þú_borðar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tækið
+    filename: E1_tækið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ég geri það á eftir.
+    filename: E1_Ég_geri_það_á_eftir.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: gamall
+    filename: E1_gamall.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hún ætlar að tala við mömmu sína.
+    filename: E1_Hún_ætlar_að_tala_við_mömmu_sína.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Ertu í stuði fyrir mynd?
+    filename: E1_Ertu_í_stuði_fyrir_mynd.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: fallegur
+    filename: E1_fallegur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Vinkona mín borðar ekki pítsu.
+    filename: E1_Vinkona_mín_borðar_ekki_pítsu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þetta var erfið vika.
+    filename: E1_Þetta_var_erfið_vika.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: partíið
+    filename: E1_partíið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: list
+    filename: E1_list.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: tónlistin
+    filename: E1_tónlistin.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: eldri
+    filename: E1_eldri.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: flugvöllurinn
+    filename: E1_flugvöllurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Viltu pítsu?
+    filename: E1_Viltu_pítsu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: foreldrar
+    filename: E1_foreldrar.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Það er frábært.
+    filename: E1_Það_er_frábært.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hann býr einn.
+    filename: E1_Hann_býr_einn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hún býr með foreldrum sínum.
+    filename: E1_Hún_býr_með_foreldrum_sínum.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: blár
+    filename: E1_blár.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: harður
+    filename: E1_harður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þetta var góð vika.
+    filename: E1_Þetta_var_góð_vika.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hann er þyrstur.
+    filename: E1_Hann_er_þyrstur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þetta er gott lag.
+    filename: E1_Þetta_er_gott_lag.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hann er íslenskur.
+    filename: E1_Hann_er_íslenskur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Tekur þetta langan tíma?
+    filename: E1_Tekur_þetta_langan_tíma.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: að hlusta á
+    filename: E1_að_hlusta_á.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hálfur
+    filename: E1_hálfur.mp3
     speed: slow
     speaker: E
     date: "2021-10-03"
