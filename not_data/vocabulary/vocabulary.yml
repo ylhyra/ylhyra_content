@@ -484,7 +484,7 @@ rows:
   - icelandic: Hann er upptekinn.
     english: He's busy.; He's occupied.
     depends_on: að taka, upp, ég get tekið
-    alternative_id: upptekinn
+    alternative_id: upptekinn, Hann var upptekinn.
     level: 1
     note: Made from "að vera tekinn upp" ("to be taken up").
     row_id: 83
@@ -18964,13 +18964,6 @@ rows:
     level: 1
     row_id: 3178
     last_seen: "2021-08-06"
-  - icelandic: Hann var upptekinn.
-    english: He was busy.
-    depends_on: upptekinn
-    alternative_id: Hann var upptekinn.
-    level: 1
-    row_id: 3179
-    last_seen: "2021-08-06"
   - icelandic: Hvernig var dagurinn þinn?
     english: How was your day?
     lemmas: að vera, dagur
@@ -22885,6 +22878,126 @@ sound:
     date: "2021-10-03"
   - recording_of: Er þetta kötturinn þinn?
     filename: E1_Er_þetta_kötturinn_þinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: fiskurinn
+    filename: E1_fiskurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þátturinn er á ensku.
+    filename: E1_Þátturinn_er_á_ensku.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hundur
+    filename: E1_hundur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hundurinn þinn
+    filename: E1_hundurinn_þinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hundurinn þinn er mjög stór.
+    filename: E1_Hundurinn_þinn_er_mjög_stór.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvernig er fiskurinn?
+    filename: E1_Hvernig_er_fiskurinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bjórinn
+    filename: E1_bjórinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: bíllinn
+    filename: E1_bíllinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvar er bíllinn þinn?
+    filename: E1_Hvar_er_bíllinn_þinn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: hamborgarinn minn
+    filename: E1_hamborgarinn_minn.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Vinur minn kemur á morgun.
+    filename: E1_Vinur_minn_kemur_á_morgun.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hvar varstu?
+    filename: E1_Hvar_varstu.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: kjötið
+    filename: E1_kjötið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: pabbi
+    filename: E1_pabbi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ég var
+    filename: E1_ég_var.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: upp
+    filename: E1_upp.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þetta var erfiður dagur.
+    filename: E1_Þetta_var_erfiður_dagur.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: afi
+    filename: E1_afi.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Þátturinn var frekar góður.
+    filename: E1_Þátturinn_var_frekar_góður.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: með
+    filename: E1_með.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Var vinkona þín ánægð með það?
+    filename: E1_Var_vinkona_þín_ánægð_með_það.mp3
+    speed: slow
+    speaker: E
+    date: "021-10-03"
+  - recording_of: hann var
+    filename: E1_hann_var.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: ég get tekið
+    filename: E1_ég_get_tekið.mp3
+    speed: slow
+    speaker: E
+    date: "2021-10-03"
+  - recording_of: Hann er upptekinn.
+    filename: E1_Hann_er_upptekinn.mp3
     speed: slow
     speaker: E
     date: "2021-10-03"
