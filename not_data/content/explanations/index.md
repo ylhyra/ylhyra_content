@@ -4,20 +4,21 @@ redirects:
 - Explanation
 tags:
 - Content
-license: CC0
+license:
 reviewed: no
 ---
 
-<Image src="Landmannalaugar2.jpg"/>
+The following articles offer a brief introduction to various aspects of the language. The articles are not extensive.
+
 ## External resources
 
-*[[Resources]]
+*[[List of external resources]]
 
 ## Reference material
 
 *[[How to learn a language]]
-*[[How to use Ylhýra|Using ''Ylhýra'']]
-*[[Course/A1/About Icelandic|About Icelandic]]
+<!--*[[How to use Ylhýra|Using ''Ylhýra'']]-->
+<!--*[[Course/A1/About Icelandic|About Icelandic]]-->
 *[[Alphabet and pronunciation]] <level level="a1"/>
 **[[R]] <level level="a1"/>
 **[[Devoicing]] <level level="a1"/>
@@ -86,3 +87,4 @@ reviewed: no
 **[[Style of Icelandic used in the news]] <level level="b2"/>
 **[[Nicknames]] <level level="c1"/>
 <!--Linguistic purism-->
+<Image src="Landmannalaugar2.jpg"/>

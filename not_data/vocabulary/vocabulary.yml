@@ -712,20 +712,14 @@ rows:
     level: 1
     row_id: 117
     last_seen: "2021-07-01"
-  - icelandic: vitlaus; rangur
-    english: wrong; incorrect
-    level: 1
-    direction: <-
-    fix: splitta?
-    row_id: 118
-    last_seen: "2021-07-01"
-  - icelandic: Það er vitlaust.; Það er rangt.
+  - icelandic: Það er v*itlaust*.
     english: That's incorrect.
-    lemmas: vitlaus, rangur
+    lemmas: vitlaus
     level: 1
+    note: Synonymous with "Það er rangt".
     should_split: "no"
     row_id: 119
-    last_seen: "2021-07-02"
+    last_seen: "2021-10-12"
   - icelandic: Segðu honum að hann geti komið klukkan fimm.
     english: Tell him that he can come at 5 o'clock.
     depends_on: að segja, að koma
@@ -19540,6 +19534,13 @@ rows:
     level: 2
     row_id: 3262
     last_seen: "2021-09-02"
+  - icelandic: Það er r*angt*.
+    english: That's incorrect.;; That's wrong.
+    lemmas: rangur%
+    level: 1
+    note: You can also use "Það er vitlaust".
+    row_id: 3263
+    last_seen: "2021-10-12"
 sound:
   - recording_of: níu sinnum
     filename: E1_níu_sinnum.mp3
