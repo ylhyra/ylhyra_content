@@ -25,7 +25,6 @@ grunnur
 kæruleysi
 ást
 að trúa á
-að trúa blint á
 að duga manni
 fram eftir öllu
 þráin
