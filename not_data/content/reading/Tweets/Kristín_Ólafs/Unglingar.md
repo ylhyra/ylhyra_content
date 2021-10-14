@@ -20,7 +20,8 @@ að viðurkenna
 hrædd
 </vocabulary>
 <Tweet
-data-translate="true"audio="ao7p.mp3"
+data-translate="true"
+audio="ao7p.mp3"
 id="843774940147015680"
 date="1490006596000"
 favorites="176"

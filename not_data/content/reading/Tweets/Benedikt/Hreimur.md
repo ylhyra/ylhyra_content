@@ -21,7 +21,8 @@ heldur
 ég held að þú sért
 </vocabulary>
 <Tweet
-data-translate="true"audio="Ákveðinn.mp3"
+data-translate="true"
+audio="Ákveðinn.mp3"
 id="659789103605653504"
 date="1446140955000"
 favorites="13"

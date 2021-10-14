@@ -10273,10 +10273,10 @@ rows:
   - icelandic: í staðinn fyrir
     english: instead of
     lemmas: staður
-    alternative_id: í staðinn fyrir
+    alternative_id: í staðinn fyrir, í staðinn
     level: 1
     row_id: 1533
-    last_seen: "2021-07-29"
+    last_seen: "2021-10-14"
   - icelandic: núll
     english: zero
     alternative_id: núll
@@ -12205,12 +12205,6 @@ rows:
     literally: as good
     row_id: 1813
     last_seen: "2021-07-29"
-  - icelandic: Það er ekkert '''eins''' gaman og að vera úti.
-    english: Nothing is '''as''' fun as being outside.
-    alternative_id: eins
-    level: 3
-    row_id: 1814
-    last_seen: "2021-07-29"
   - icelandic: að sitja
     english: "to be sitting (note: no movement)"
     alternative_id: að sitja
@@ -13103,12 +13097,13 @@ rows:
     level: 2
     row_id: 1975
     last_seen: "2021-07-30"
-  - icelandic: fram og til baka
+  - icelandic: f%ram og t%il b%aka
     english: back and forth
-    alternative_id: fram, til baka
+    alternative_id: f%ram og t%il b%aka
     level: 3
+    literally: forwards and back
     row_id: 1976
-    last_seen: "2021-10-13"
+    last_seen: "2021-10-14"
   - icelandic: Þýskaland
     english: Germany
     alternative_id: Þýskaland
@@ -21818,6 +21813,91 @@ rows:
     level: 3
     note: "\"Skítugur\" is synonymous with \"óhreinn\", but implies more filth. Related to \"skítur\" (shit)."
     row_id: 3303
+    last_seen: "2021-10-14"
+  - icelandic: Hvenær kemur{{ðu}} t%il b%aka?
+    english: When will you come back?; When will you return?
+    lemmas: að koma
+    alternative_id: til baka
+    level: 3
+    row_id: 3304
+    last_seen: "2021-10-14"
+  - icelandic: Komdu *fram* í stofu.
+    english: Come to the living room (which is more "forwards" in the house∆ i.e. closer to the doors of the house).
+    lemmas: að koma, stofa
+    depends_on: fram
+    alternative_id: Komdu *fram* í stofu.
+    level: 3
+    note: "\"Fram\" means forwards. If the living room is located closer to the exit of the house (in this context considered to be the front-most part of the house), you go \"fram í stofu\", but otherwise you go \"inn í stofu\"."
+    row_id: 3305
+    last_seen: "2021-10-14"
+  - icelandic: að s%núa f%ram
+    english: to face forwards; to be facing forwards
+    alternative_id: að s%núa f%ram
+    level: 3
+    note: "\"Fram\" means \"forwards\"/\"in a forward direction\"."
+    literally: to be turned forwards
+    row_id: 3306
+    last_seen: "2021-10-14"
+  - icelandic: Hundurinn er f*rammi.
+    english: The dog is in a location in this house that is closer to the front door (such as the corridor or living room∆ but not in a bedroom).
+    depends_on: hundur, fram
+    alternative_id: frammi
+    level: 3
+    note: "\"Frammi\" means \"out front\". \"Fram\" is for a forwards direction (movement), while \"frammi\" is stationary."
+    row_id: 3308
+    last_seen: "2021-10-14"
+  - icelandic: Ég tók ekki eftir því.
+    english: I didn't notice it.
+    lemmas: að taka eftir
+    alternative_id: Ég tók ekki eftir því.
+    level: 2
+    row_id: 3309
+    last_seen: "2021-10-14"
+  - icelandic: Það k%om ekki f%ram í bæklingnum.
+    english: That was not stated in the brochure.; That was not mentioned in the brochure.
+    lemmas: að koma fram%, bæklingur
+    alternative_id: Það k%om ekki f%ram í bæklingnum.
+    level: 4
+    note: "\"Að koma fram\" (literally \"to come forward\") can refer to a piece of information being stated somewhere, but also to perform on stage."
+    row_id: 3310
+    last_seen: "2021-10-14"
+  - icelandic: Þér hefur farið fram.
+    english: "You have improved. (n: referring to skills getting better)"
+    lemmas: þú, að fara fram%
+    alternative_id: Þér hefur farið fram.
+    level: 3
+    row_id: 3311
+    last_seen: "2021-10-14"
+  - icelandic: Það f%ór f%ram h%já mér.
+    english: I failed to notice that.
+    lemmas: að fara fram hjá%
+    alternative_id: Það f%ór f%ram h%já mér.
+    level: 3
+    literally: it went past me
+    row_id: 3312
+    last_seen: "2021-10-14"
+  - icelandic: Hann t%ók það ekki f%ram.
+    english: He did not mention it specifically.; He did not point out that piece of information.
+    lemmas: að taka fram%
+    alternative_id: Hann t%ók það ekki f%ram.
+    level: 3
+    literally: He did not take it forward.
+    row_id: 3313
+    last_seen: "2021-10-14"
+  - icelandic: Ég átti leið *fram hjá* húsinu þínu.
+    english: I happened to be passing by near your house.
+    lemmas: að eiga leið hjá, fram hjá, hús
+    alternative_id: fram hjá
+    level: 3
+    literally: I had a route past by your house.
+    row_id: 3314
+    last_seen: "2021-10-14"
+  - icelandic: að labba *fram hjá* einhverjum
+    english: to walk past someone
+    alternative_id: að labba fram hjá, fram hjá
+    level: 3
+    note: "\"Fram hjá\" means \"by\" or \"past\". It can also be written as one word: \"framhjá\"."
+    row_id: 3315
     last_seen: "2021-10-14"
 sound:
   - recording_of: níu sinnum

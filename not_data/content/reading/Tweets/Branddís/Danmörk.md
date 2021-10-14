@@ -23,7 +23,8 @@ búinn
 ég held að ég sé
 </vocabulary>
 <Tweet
-data-translate="true"audio="IOUM.mp3"
+data-translate="true"
+audio="IOUM.mp3"
 id="717404017232646144"
 date="1459877421000"
 favorites="136"

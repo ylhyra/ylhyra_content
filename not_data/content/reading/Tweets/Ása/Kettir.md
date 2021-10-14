@@ -21,7 +21,8 @@ fjallganga
 að ganga
 </vocabulary>
 <Tweet
-data-translate="true"audio="Lausaganga.mp3"
+data-translate="true"
+audio="Lausaganga.mp3"
 id="860604707705901060"
 date="1494019126000"
 favorites="11"

@@ -19,7 +19,8 @@ himinn
 betur
 </vocabulary>
 <Tweet
-data-translate="true"audio="hRki.mp3"
+data-translate="true"
+audio="hRki.mp3"
 id="769722373633351680"
 date="1472351089000"
 favorites="7"

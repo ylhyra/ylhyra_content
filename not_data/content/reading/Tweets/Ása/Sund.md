@@ -13,7 +13,8 @@ ferð
 að fæðast
 </vocabulary>
 <Tweet
-data-translate="true"audio="qiQ3.mp3"
+data-translate="true"
+audio="qiQ3.mp3"
 id="857346862172565506"
 date="1493242395000"
 favorites="7"

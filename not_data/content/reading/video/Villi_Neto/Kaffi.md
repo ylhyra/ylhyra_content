@@ -25,6 +25,7 @@ alveg
 ég hef fengið
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Villi Neto – Kaffi.mp4"
 url="https://www.instagram.com/p/Bu8dSzbAJIs/"
 user_image="VilliNeto.jpg"

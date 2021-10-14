@@ -21,7 +21,8 @@ sig
 að ganga vel
 </vocabulary>
 <Tweet
-data-translate="true"audio="sVkS.mp3"
+data-translate="true"
+audio="sVkS.mp3"
 id="770686446307008513"
 date="1472580942000"
 favorites="3"

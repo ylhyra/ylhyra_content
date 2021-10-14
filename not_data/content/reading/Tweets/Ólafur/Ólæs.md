@@ -24,7 +24,8 @@ að verða
 vegur
 </vocabulary>
 <Tweet
-data-translate="true"audio="fxWp.mp3"
+data-translate="true"
+audio="fxWp.mp3"
 id="794722123755515904"
 date="1478311494000"
 favorites="74"

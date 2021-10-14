@@ -49,6 +49,7 @@ til þess að
 að ræna
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Video by villineto-Bm1QnH2jnci.mp4"
 url="https://www.instagram.com/p/Bm1QnH2jnci/"
 user_image="VilliNeto.jpg"

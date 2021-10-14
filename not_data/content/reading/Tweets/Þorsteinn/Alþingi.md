@@ -26,7 +26,8 @@ nóg
 að nægja
 </vocabulary>
 <Tweet
-data-translate="true"audio="Siðareglur.mp3"
+data-translate="true"
+audio="Siðareglur.mp3"
 id="831543287605493760"
 date="1487090343000"
 favorites="4"

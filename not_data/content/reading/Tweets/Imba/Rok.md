@@ -15,7 +15,8 @@ veður
 fjölskylda
 </vocabulary>
 <Tweet
-data-translate="true"audio="Rok.mp3"
+data-translate="true"
+audio="Rok.mp3"
 id="783029128605802496"
 date="1475523666000"
 favorites=""

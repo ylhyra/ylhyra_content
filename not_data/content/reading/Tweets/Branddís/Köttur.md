@@ -19,7 +19,8 @@ að djóka
 frá mér
 </vocabulary>
 <Tweet
-data-translate="true"audio="Wp1s.mp3"
+data-translate="true"
+audio="Wp1s.mp3"
 id="762811956881399808"
 date="1470703517000"
 favorites="59"

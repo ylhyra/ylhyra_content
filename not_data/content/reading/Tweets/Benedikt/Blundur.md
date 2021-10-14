@@ -16,7 +16,8 @@ að fá sér
 blundur
 </vocabulary>
 <Tweet
-data-translate="true"audio="cGBK.mp3"
+data-translate="true"
+audio="cGBK.mp3"
 id="660387255022940160"
 date="1446283565000"
 favorites="17"

@@ -59,6 +59,7 @@ hérna
 sólarvörn
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Villi Neto – Íslendingar í sólarlöndum.mp4"
 url="https://www.instagram.com/p/Bxh97plgX94/"
 user_image="VilliNeto.jpg"

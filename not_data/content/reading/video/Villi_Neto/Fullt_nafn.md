@@ -12,6 +12,7 @@ nafn
 kjaftæði
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Video by villineto-Bm510Y-HUDD.mp4"
 url="https://www.instagram.com/p/Bm510Y-HUDD/"
 user_image="VilliNeto.jpg"

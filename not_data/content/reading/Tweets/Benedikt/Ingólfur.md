@@ -17,7 +17,8 @@ að sökkva
 ég hélt að ég hefði
 </vocabulary>
 <Tweet
-data-translate="true"audio="LoeT.mp3"
+data-translate="true"
+audio="LoeT.mp3"
 photo1="Tweet-forseti2k32-1lavjxo.jpg"
 id="810807254823923712"
 date="1482146488000"

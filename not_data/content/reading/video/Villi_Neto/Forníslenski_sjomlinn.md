@@ -38,6 +38,7 @@ bein
 biti
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Villi Neto – Forníslenski sjomlinn.mp4"
 url="https://www.instagram.com/p/BysuJIVg2Qv/"
 user_image="VilliNeto.jpg"

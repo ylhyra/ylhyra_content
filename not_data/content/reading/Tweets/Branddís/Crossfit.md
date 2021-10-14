@@ -20,7 +20,8 @@ svolítið
 grófur
 </vocabulary>
 <Tweet
-data-translate="true"audio="GRof.mp3"
+data-translate="true"
+audio="GRof.mp3"
 id="830106220111474689"
 date="1486747720000"
 favorites="220"

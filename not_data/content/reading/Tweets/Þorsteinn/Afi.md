@@ -21,7 +21,8 @@ liðugur
 heldur
 </vocabulary>
 <Tweet
-data-translate="true"audio="XbLk.mp3"
+data-translate="true"
+audio="XbLk.mp3"
 id="826462411788005377"
 date="1485878968000"
 favorites="1"

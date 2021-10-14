@@ -22,7 +22,8 @@ að muna
 mig minnir
 </vocabulary>
 <Tweet
-data-translate="true"audio="cYmI.mp3"
+data-translate="true"
+audio="cYmI.mp3"
 photo1="Tweet-forseti2k32-ulgig.jpg"
 id="814138149882437633"
 date="1482940635000"

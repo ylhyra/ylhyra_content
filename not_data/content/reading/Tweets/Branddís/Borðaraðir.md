@@ -26,7 +26,8 @@ sáttur
 fyrirkomulag
 </vocabulary>
 <Tweet
-data-translate="true"audio="LdUP.mp3"
+data-translate="true"
+audio="LdUP.mp3"
 id="823969533950119936"
 date="1485284620000"
 favorites="51"

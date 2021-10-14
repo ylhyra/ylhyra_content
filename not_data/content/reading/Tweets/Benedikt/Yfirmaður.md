@@ -18,7 +18,8 @@ að sjá til einhvers
 svefnherbergi
 </vocabulary>
 <Tweet
-data-translate="true"audio="o2Js.mp3"
+data-translate="true"
+audio="o2Js.mp3"
 id="660387447524691968"
 date="1446283611000"
 favorites="9"

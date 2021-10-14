@@ -16,7 +16,8 @@ mér er sama
 alveg
 </vocabulary>
 <Tweet
-data-translate="true"audio="FoRe.mp3"
+data-translate="true"
+audio="FoRe.mp3"
 photo1="Tweet-krolafs-qvk4l4.jpg"
 photo2="Tweet-krolafs-1g6gtyg.jpg"
 id="839796729511804928"

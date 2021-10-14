@@ -13,6 +13,7 @@ hnífur
 merki
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Video by villineto-BoUBRXViuAQ.mp4"
 url="https://www.instagram.com/p/BoUBRXViuAQ/"
 user_image="VilliNeto.jpg"

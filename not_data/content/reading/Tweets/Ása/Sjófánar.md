@@ -21,7 +21,8 @@ vinna
 heimur
 </vocabulary>
 <Tweet
-data-translate="true"audio="RjKt.mp3"
+data-translate="true"
+audio="RjKt.mp3"
 id="872909868767866880"
 date="1496952905000"
 favorites="3"

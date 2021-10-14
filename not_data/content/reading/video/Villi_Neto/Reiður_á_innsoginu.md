@@ -24,6 +24,7 @@ næstum því
 bara
 </vocabulary>
 <Instagram
+data-translate="true"
 file="Villi Neto – Reiður á innsoginu.mp4"
 url="https://www.instagram.com/p/BmQZOMfFLZv/"
 user_image="VilliNeto.jpg"

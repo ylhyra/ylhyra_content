@@ -25,7 +25,8 @@ langur
 þau
 </vocabulary>
 <Tweet
-data-translate="true"audio="nHTo.mp3"
+data-translate="true"
+audio="nHTo.mp3"
 id="815344952162983936"
 date="1483228359000"
 favorites="45"

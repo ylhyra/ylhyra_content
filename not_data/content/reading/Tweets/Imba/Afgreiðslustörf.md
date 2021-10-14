@@ -18,7 +18,8 @@ hann sér
 frá manninum
 </vocabulary>
 <Tweet
-data-translate="true"audio="ZM8a.mp3"
+data-translate="true"
+audio="ZM8a.mp3"
 id="753706794082504707"
 date="1468532677000"
 favorites="3"

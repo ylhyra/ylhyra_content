@@ -24,6 +24,7 @@ hann er
 gefðu mér þetta
 </vocabulary>
 <Instagram
+data-translate="true"
 file="VilliNetoLýsi.mp4"
 url="https://www.instagram.com/p/B3UWZ_0g5rP/"
 user_image="VilliNeto.jpg"

@@ -13,7 +13,8 @@ eftir
 að vera með
 </vocabulary>
 <Tweet
-data-translate="true"audio="Harðsperrur.mp3"
+data-translate="true"
+audio="Harðsperrur.mp3"
 id="755469675270668288"
 date="1468952981000"
 favorites="1"

@@ -15,7 +15,8 @@ dagur
 nammi
 </vocabulary>
 <Tweet
-data-translate="true"audio="YM0v.mp3"
+data-translate="true"
+audio="YM0v.mp3"
 id="881501962423894016"
 date="1499001420000"
 favorites="2"
