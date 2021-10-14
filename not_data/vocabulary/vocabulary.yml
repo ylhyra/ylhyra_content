@@ -795,7 +795,7 @@ rows:
     english: Are you in the mood for watching a film?
     lemmas: að vera í stuði
     depends_on: stuð
-    alternative_id: Ertu í stuði fyrir mynd?
+    alternative_id: Ertu í stuði fyrir mynd?, að vera í stuði
     level: 1
     row_id: 115
     last_seen: "2021-07-01"
@@ -4036,10 +4036,11 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: að kíkja
     english: to have a look at something; to have a quick look somewhere
-    alternative_id: að kíkja
+    alternative_id: að kíkja, ég kíki
     level: 2
+    example_declension: ég kíki í dag, ég kíkti í gær, ég hef kíkt
     row_id: 576
-    last_seen: "2021-07-30"
+    last_seen: "2021-10-14"
   - icelandic: að kíkja í heimsókn
     english: to go for a short visit to someone
     depends_on: að kíkja, heimsókn, á eftir
@@ -4082,7 +4083,7 @@ rows:
     alternative_id: meiddur; slasaður
     level: 4
     row_id: 582
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Er einhver heima?
     english: Is someone home?; Is there anyone home?
     depends_on: heima
@@ -5244,54 +5245,53 @@ rows:
     categories: time
     row_id: 748
     last_seen: "2021-08-03"
-  - icelandic: Hann er þrítugur
-    alternative_id: Hann er þrítugur
-    level: 4
-    categories: time
-    row_id: 749
-    last_seen: "2021-08-03"
-  - icelandic: Hún er þrítug.
-    alternative_id: Hún er þrítug.
+  - icelandic: Hún er þ*rítu*g.
+    english: She is 30 years old.
+    alternative_id: Hún er þrítug., þrítugur
     level: 4
     categories: time
     row_id: 750
-    last_seen: "2021-08-03"
-  - icelandic: Hann er fertugur.
+    last_seen: "2021-10-14"
+  - icelandic: Hann er f*ertugu*r.
+    english: He is 40 years old.
     alternative_id: Hann er fertugur.
     level: 4
     categories: time
     row_id: 751
-    last_seen: "2021-08-03"
-  - icelandic: Hann er fimmtugur.
+    last_seen: "2021-10-14"
+  - icelandic: Hann er f*imm*t*ugu*r.
+    english: He is 50 years old.
     alternative_id: Hann er fimmtugur.
     level: 4
     categories: time
     row_id: 752
-    last_seen: "2021-08-03"
-  - icelandic: Hann er sextugur.
+    last_seen: "2021-10-14"
+  - icelandic: Hann er s*ex*t*ugur.
+    english: He is 60 years old.
     alternative_id: Hann er sextugur.
     level: 4
     categories: time
     row_id: 753
-    last_seen: "2021-08-03"
-  - icelandic: Hann er sjötugur.
+    last_seen: "2021-10-14"
+  - icelandic: Hann er s*jö*t*ugur.
+    english: He is 70 years old.
     alternative_id: Hann er sjötugur.
     level: 4
     categories: time
     row_id: 754
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Hann er áttræður.
     alternative_id: Hann er áttræður.
     level: 4.4
     categories: time
     row_id: 755
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Hann er níræður.
     alternative_id: Hann er níræður.
     level: 4.4
     categories: time
     row_id: 756
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Ég er alveg b%úinn *á* þ%ví.
     english: I'm completely exhausted.
     depends_on: búinn
@@ -5635,6 +5635,7 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: u%m l%eið o%g
     english: as soon as
+    alternative_id: u%m l%eið o%g
     level: 2
     row_id: 807
     last_seen: "2021-10-13"
@@ -5874,21 +5875,26 @@ rows:
     level: 4
     row_id: 842
     last_seen: "2021-07-02"
-  - icelandic: vanvirðing
+  - icelandic: v*an*v*irðing
+    english: disrespect
+    depends_on: að virða
     alternative_id: vanvirðing
-    level: 4
+    level: 5
+    note: "\"Van\" means \"too little of\"."
     row_id: 843
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Mig grunar...
     alternative_id: Mig grunar...
     level: 4
     row_id: 844
-    last_seen: "2021-08-03"
-  - icelandic: vörn
+    last_seen: "2021-10-14"
+  - icelandic: vörnin
+    english: the defense
     alternative_id: vörn
     level: 4
+    example_declension: ein vörn, margar varnir
     row_id: 845
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Ert{{u}} að vinna á morgun?
     english: Are you working tomorrow?
     depends_on: að vinna, á morgun
@@ -6196,11 +6202,6 @@ rows:
     level: 2
     row_id: 888
     last_seen: "2021-07-30"
-  - icelandic: að vera í stuði
-    alternative_id: í stuði, stuð
-    level: 2
-    row_id: 890
-    last_seen: "2021-08-03"
   - icelandic: Hún er þriggja barna móðir.
     english: She is the mother of three children.
     lemmas: þrír, barn
@@ -8852,13 +8853,13 @@ rows:
     row_id: 1319
     last_seen: "2021-07-02"
   - icelandic: að vera í vandræðum
-    english: to be in troubles
+    english: to be in trouble
     lemmas: vandræði%
     alternative_id: að vera í vandræðum
     level: 2
     note: "\"Vandræði\" is a plural term."
     row_id: 1320
-    last_seen: "2021-07-31"
+    last_seen: "2021-10-14"
   - icelandic: maginn
     english: the stomach
     lemmas: magi%
@@ -13340,11 +13341,12 @@ rows:
   - icelandic: h$elst e$kki
     english: preferably not
     lemmas: gjarnan
+    depends_on: helstur
     alternative_id: helst
     level: 2
     note: "\"Helst\" is the superlative of \"gjarnan -> heldur -> helst\" (\"willingly/readily -> more willingly -> most willingly\")"
     row_id: 2013
-    last_seen: "2021-07-30"
+    last_seen: "2021-10-14"
   - icelandic: hlutirnir
     english: the things; the objects
     lemmas: hlutur%
@@ -14293,6 +14295,7 @@ rows:
   - icelandic: Ég er uppi.
     english: I'm upstairs.
     depends_on: upp, uppi
+    alternative_id: Ég er uppi.
     level: 2
     row_id: 2158
     last_seen: "2021-10-14"
@@ -17931,6 +17934,7 @@ rows:
     last_seen: "2021-08-02"
   - icelandic: að rúlla
     alternative_id: að rúlla
+    eyða: IGNORED
     row_id: 2690
     last_seen: "2021-08-02"
   - icelandic: athyglin
@@ -17947,9 +17951,13 @@ rows:
     row_id: 2692
     last_seen: "2021-10-14"
   - icelandic: að forvitnast um
+    english: to ask about something out of curiosity; to inquire; to look into something out of curiosity
+    depends_on: forvitinn
     alternative_id: að forvitnast um
+    level: 5
+    note: From "forvitinn" ("curious").
     row_id: 2693
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: eitrið
     english: the poison
     lemmas: eitur%
@@ -17990,10 +17998,14 @@ rows:
     level: 4
     row_id: 2699
     last_seen: "2021-08-02"
-  - icelandic: að hitta á einhvern
-    alternative_id: að hitta á einhvern
+  - icelandic: að h*itta á* einhvern
+    english: to encounter someone unexpectedly; to bump into someone
+    depends_on: að hitta
+    alternative_id: að hitta á einhvern, að hitta á
+    level: 4
+    note: "\"Að hitta á\" implies an unexpected encounter, while \"að hitta\" implies a longer meeting"
     row_id: 2700
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: stelpurnar
     english: the girls
     alternative_id: stelpurnar, stelpur
@@ -18015,11 +18027,15 @@ rows:
     level: 2
     row_id: 2704
     last_seen: "2021-08-02"
-  - icelandic: helstur
+  - icelandic: helstu áhugamálin mín; mín helstu áhugamál
+    english: my main interests; my main hobbies
+    lemmas: helstur%
     depends_on: helst
     alternative_id: helstur
+    level: 3
+    note: Using the word order in "mín helstu áhugamál" is more poetic.
     row_id: 2705
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: almenningssamgöngur
     english: public transport
     depends_on: almenningur, saman, fjallganga
@@ -18036,10 +18052,14 @@ rows:
     level: 5
     row_id: 2707
     last_seen: "2021-08-02"
-  - icelandic: núorðið
+  - icelandic: n*úorði*ð
+    english: nowadays
+    depends_on: ég hef orðið
     alternative_id: núorðið
+    level: 4
+    literally: now become
     row_id: 2708
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: að r%æða *um* eitthvað
     english: to discuss something
     alternative_id: að ræða um, að ræða
@@ -18111,7 +18131,7 @@ rows:
   - icelandic: aftastur
     alternative_id: aftastur
     row_id: 2720
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: eiginkona
     english: a wife
     depends_on: að eiga, kona
@@ -18137,7 +18157,7 @@ rows:
   - icelandic: mest
     alternative_id: mest
     row_id: 2724
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: hjólið
     english: the wheel;; the bicycle
     lemmas: hjól%
@@ -18172,10 +18192,13 @@ rows:
     level: 3
     row_id: 2729
     last_seen: "2021-08-02"
-  - icelandic: að prófa sig áfram
+  - icelandic: að p%rófa s%ig á%fram í einhverju
+    english: to build a new skill by slowly trying new things; to have a crack at something
     alternative_id: að prófa sig áfram
+    level: 4
+    literally: to try oneself forward
     row_id: 2730
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: við keyptum
     english: we bought
     lemmas: að kaupa
@@ -18196,10 +18219,13 @@ rows:
     level: 3
     row_id: 2735
     last_seen: "2021-08-02"
-  - icelandic: allar
-    alternative_id: allar
+  - icelandic: allir menn - allar konur - öll börn
+    english: all men - all women - all children
+    lemmas: allur
+    alternative_id: allar, öll
+    level: 2
     row_id: 2736
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: á sama tíma
     english: at the same time
     lemmas: sami, tími
@@ -18207,11 +18233,13 @@ rows:
     level: 2
     row_id: 2737
     last_seen: "2021-08-02"
-  - icelandic: án þess að
+  - icelandic: án þess að tala
+    english: without speaking
     alternative_id: án þess
+    level: 2
     fix: laga
     row_id: 2738
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: að v*ita* *af* ei*nhverju
     english: to be aware of something; to know that something is occurring without necessarily being involved
     alternative_id: að vita af einhverju, að vita af
@@ -18349,9 +18377,13 @@ rows:
     row_id: 2762
     last_seen: "2021-08-02"
   - icelandic: um mitt sumarið
+    english: during the middle of the summer
+    lemmas: miður
+    depends_on: um sumarið
     alternative_id: um mitt sumarið
+    level: 4
     row_id: 2763
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: Það kemur að því.
     lemmas: að koma að%
     alternative_id: Það kemur að því., að koma að
@@ -18440,10 +18472,14 @@ rows:
     level: 2
     row_id: 2776
     last_seen: "2021-08-02"
-  - icelandic: að sinna
+  - icelandic: að s%inna einhverju
+    english: to take care of something
     alternative_id: að sinna
+    level: 4
+    note: As in to take care of children or animals, or taking care of an aspect of some business.
+    example_declension: ég sinni í dag, ég sinnti í gær, ég hef sinnt
     row_id: 2777
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: hestarnir
     english: the horses
     lemmas: hestur
@@ -18509,14 +18545,21 @@ rows:
     level: 3
     row_id: 2787
     last_seen: "2021-08-02"
-  - icelandic: glatað
+  - icelandic: Þessi bíómynd er gl*ötuð.
+    english: "This film is totally terrible. (n: very informal)"
+    lemmas: glataður%
     alternative_id: glatað
+    level: 4
+    note: "\"Glataður\" means \"lost\", but is used in informal contexts by younger speakers to refer to something that is awful or totally not cool."
     row_id: 2789
-    last_seen: "2021-08-02"
-  - icelandic: hreinna
-    alternative_id: hreinna
+    last_seen: "2021-10-14"
+  - icelandic: hr%eint - hr%einna - hr%einast
+    english: "clean - cleaner - cleanest (n: neuter)"
+    lemmas: hreinn
+    alternative_id: hreinna, hreinni, hreint
+    level: 3
     row_id: 2790
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: Ertu í bænum?
     english: Are you in town?
     lemmas: bær
@@ -18608,35 +18651,48 @@ rows:
     level: 4
     row_id: 2804
     last_seen: "2021-08-02"
-  - icelandic: sjaldgæf
-    alternative_id: sjaldgæf
+  - icelandic: Það er s*jaldgæft.
+    english: That is rare.; That is uncommon.
+    depends_on: sjaldan
+    alternative_id: sjaldgæf, sjaldgæfur
+    level: 3
     row_id: 2805
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: barnið
     alternative_id: barnið
     eyða: DELETED
     row_id: 2806
     last_seen: "2021-08-02"
   - icelandic: ég hef fylgst með
+    english: I have paid attention
+    lemmas: að fylgjast með
     alternative_id: ég hef fylgst með
+    level: 3
+    pronunciation: fylst
     row_id: 2807
-    last_seen: "2021-08-02"
-  - icelandic: að spá í
-    alternative_id: að spá í
+    last_seen: "2021-10-14"
+  - icelandic: Ég er að s*pá í* að fara í sund.
+    english: I'm thinking of going swimming.
+    alternative_id: að spá í, að spá
+    level: 3
+    note: "\"Að spá\" by itself means to predict."
     row_id: 2808
-    last_seen: "2021-08-02"
-  - icelandic: ég kíki
-    alternative_id: ég kíki
-    row_id: 2809
-    last_seen: "2021-08-02"
-  - icelandic: ljósmynd
+    last_seen: "2021-10-14"
+  - icelandic: l*jósmynd
+    english: a photograph
+    depends_on: ljós, mynd
     alternative_id: ljósmynd
+    level: 3
+    note: Usually shortened to "mynd".
     row_id: 2810
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: straumur
+    english: a stream; a current
     alternative_id: straumur
+    level: 4
+    note: Referring both to river currents and electrical currents.
     row_id: 2811
-    last_seen: "2021-08-02"
+    last_seen: "2021-10-14"
   - icelandic: Ég hef ekki hugmynd.; Ég hef enga hugmynd.
     english: I have no idea.
     lemmas: að hafa, enginn
@@ -20091,11 +20147,14 @@ rows:
     level: 2
     row_id: 3045
     last_seen: "2021-08-03"
-  - icelandic: að vera með leiðindi
+  - icelandic: að vera með l*eiðindi
+    english: to be causing troubles; to be causing drama; to be negative
+    lemmas: leiðindi%
     alternative_id: að vera með leiðindi
     level: 4
+    literally: to have troubles
     row_id: 3046
-    last_seen: "2021-08-03"
+    last_seen: "2021-10-14"
   - icelandic: Það er satt.
     english: It is true.
     lemmas: sannur%
@@ -21647,6 +21706,7 @@ rows:
     last_seen: "2021-10-13"
   - icelandic: u%m l%eið
     english: right away; immediately
+    alternative_id: u%m l%eið
     level: 2
     row_id: 3291
     last_seen: "2021-10-13"
@@ -21672,6 +21732,7 @@ rows:
     english: to be down-town
     lemmas: bær
     depends_on: niður, niðri
+    alternative_id: að vera niðri í bæ
     level: 2
     note_regarding_english: "\"Niðri\" approximately means \"located in a low position\"."
     row_id: 3294
@@ -21698,8 +21759,25 @@ rows:
   - icelandic: Það eru fimm mánuðir liðnir.
     english: Five months have passed.
     lemmas: mánuður, að líða
+    alternative_id: Það eru fimm mánuðir liðnir.
     level: 3
     row_id: 3297
+    last_seen: "2021-10-14"
+  - icelandic: Í hverju á ég að vera?
+    english: What am I supposed to wear?
+    lemmas: að vera í, hvað, að vera
+    depends_on: að vera í einhverju
+    level: 2
+    literally: In what am I supposed to be?
+    row_id: 3298
+    last_seen: "2021-10-14"
+  - icelandic: Hann er í peysu.
+    english: He is wearing a sweater.
+    lemmas: að vera í%, peysa
+    alternative_id: að vera í einhverju
+    level: 2
+    literally: He is in a sweater.
+    row_id: 3299
     last_seen: "2021-10-14"
 sound:
   - recording_of: níu sinnum
