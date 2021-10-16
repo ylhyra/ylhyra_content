@@ -773,7 +773,7 @@ ekki nema von
 í staðinn = instead
 að taka fram
 að fara fram
-framfarir
+vo að framfarir
 að sjá fram á
 fram eftir kvöldi
 að bjóða sig fram
@@ -806,3 +806,6 @@ vetrarins is long sound
 annan hvern dag
 allt í einu
 í einu
+
+ættingjum sínum er ekki með greini
+skrifborð = a desk

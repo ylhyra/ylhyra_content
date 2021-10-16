@@ -8836,9 +8836,9 @@ rows:
   - icelandic: að verða
     english: to become; will be;; to need to
     alternative_id: að verða
-    level: 2
+    level: 1
     row_id: 1318
-    last_seen: "2021-07-02"
+    last_seen: "2021-10-15"
   - icelandic: pappírinn
     english: the paper
     lemmas: pappír%
@@ -19859,12 +19859,12 @@ rows:
     row_id: 2994
     last_seen: "2021-08-03"
   - icelandic: þú v*erður
-    english: you have to; you must
+    english: you will be;; you have to; you must
     lemmas: að verða
     alternative_id: þú verður
     level: 2
     row_id: 2995
-    last_seen: "2021-10-14"
+    last_seen: "2021-10-15"
   - icelandic: að búa hjá einhverjum
     english: to live at someone's place
     alternative_id: að búa hjá einhverjum

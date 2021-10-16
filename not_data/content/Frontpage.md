@@ -42,7 +42,7 @@ classes:
 
 <h3>[[Vocabulary]]</h3>
 
-It also includes a simple [[vocabulary|flashcard game]] that uses spaced repetition to assist you in building a deeper active vocabulary. Intended to be be used daily, the game’s 2,500 words and sentences focus on giving you a feel for idiomatic language use and grammar. Suitable for beginners up to the [[B2]] level. Includes 600 audio recordings.
+It also includes a simple [[vocabulary|flashcard game]] that uses spaced repetition to assist you in building a deeper active vocabulary. Intended to be be used daily, the game’s 2,000 words and sentences focus on giving you a feel for idiomatic language use and grammar. Suitable for beginners up to the [[B2]] level. Includes 600 audio recordings.
 {{spacer|10}}
 
 <h3>[[Course]]</h3>

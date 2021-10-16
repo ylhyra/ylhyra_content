@@ -45,6 +45,9 @@ The following articles offer a brief introduction to various aspects of the lang
 **[[Pronouns]] <level level="a1"/>
 ***[[Þetta]] <level level="a1"/>
 ***[[Possessions]] <level level="a1"/>
+***Indefinite pronouns
+****[[Annar]] <level level="a2"/>
+****[[Nokkrir]] <level level="a2"/>
 **Prepositions
 ***[[Í vs. á]] <level level="a1"/>
 ***[[Prepositions that cause cases]] <level level="a1"/>

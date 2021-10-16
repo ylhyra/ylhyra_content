@@ -45,3 +45,5 @@ Annars er ekki mikið um að vera hérna.
 # Annar
 
 This is an excercise in the use of "annar" (''another; the second one'') in the singular. <!--It is an [[w:indefinite pronoun|indefinite pronoun]]. -->
+
+{{inflection|478796|give_me=et&columns=gender&rows=cases}}

@@ -10,7 +10,7 @@ classes:
 
 # About
 
-Ylhýra is a collaborative project that publishes software and material for making Icelandic accessible to language learners. Our own content is available under [[Project:License|an open license]]. This site was first published in 2020.
+Ylhýra is a collaborative project that publishes material and software for Icelandic-as-a-second-language students. Our own content is available under [[Project:License|an open license]]. This site was first published in 2020.
 
 {{spacer|10}}
 <div class="centered-button">
@@ -33,7 +33,7 @@ The project has been supported by the Municipality of Kópavogur, Landsvirkjun, 
 ---
 
 <div class="notes">
-* [[project:name|What does the project's name mean?]]
+* [[project:name|Meaning of the project's name]]
 * [https://github.com/ylhyra/ylhyra See the code on GitHub]
 * [[Project:Become a collaborator|Become a collaborator]]
 </div>

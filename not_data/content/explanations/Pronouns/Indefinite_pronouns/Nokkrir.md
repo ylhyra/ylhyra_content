@@ -42,3 +42,5 @@ nokkrum sinnum á dag
 # Nokkrir
 
 This is an excercise in the use of "nokkrir" (''a few, several'') in the plural. It is an [[w:indefinite pronoun|indefinite pronoun]]. You will most often see this term in the plural, where it means "a few", but in the singular it means "a certain ''X'' / a particular ''X''".
+
+{{inflection|478806|give_me=ft&columns=gender&rows=cases}}
