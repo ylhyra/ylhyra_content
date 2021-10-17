@@ -84,8 +84,6 @@ Sundlaugar eru mjög vinsælar á Íslandi. Það er sundlaug í næstum því h
 Það kostar sirka þúsund krónur að fara í sund, það kostar minna ef maður fer oft. Mér finnst það alveg þess virði.
 </Book>
 
-<div class=notes>
-'''Notes''':
-
+<notes>
 *The pool itself is called ''sundlaug'' ("swimming pool"), but the activity of going to the pools is called ''að fara í sund'' ("go into a swimming"). If you are at the pools, you are ''í sundi'' ("in a swimming").
-</div>
+</notes>

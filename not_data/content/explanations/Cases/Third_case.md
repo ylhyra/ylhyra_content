@@ -43,6 +43,3 @@ And these prepositions can either cause the [[Second case|second]] or the third 
 *að svara (to respond)
 *að kynnast (to get to know someone)
 *að hjálpa (to help)
-
-{{cases}}
-

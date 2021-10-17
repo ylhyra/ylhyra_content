@@ -140,7 +140,7 @@ Examples:
 *Ég sé hann í vikunni. {{þgf}} = I'll see him this week. This is a phrase.
 *Mikið ertu í flottri peysu. {{þgf}} = Oh my, the sweater you're wearing is really nice. You are already wearing the sweater, there is no movement.
 
-## [[Prepositions that cause cases/Í – exercise 1|Exercise 1 for ''í'']]
+[[Prepositions that cause cases/Í – exercise 1|Exercise 1 for <i>í</i>]]
 ***
 
 '''með''' (with)
@@ -189,4 +189,3 @@ The [[third case]] can be seen in some word phrases:
 ## See also 
 
 * [[Verbs that cause cases|Verbs and the cases they cause]]
-

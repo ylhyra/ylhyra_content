@@ -22,8 +22,8 @@ While you should learn to understand this style of Icelandic, you rarely have a 
 ## Examples
 These examples are from the article ''[https://www.frettabladid.is/frettir/villikettirnir-fa-lagalega-stodu/ Villikettirnir fá lagalega stöðu]'' from [https://www.frettabladid.is/ Fréttablaðið].
 
-*„''Nefnir Arndís fyrsta verkefni félagsins...''“ In this example, they have placed the verb in the first position. In spoken Icelandic, this would be „''Arndís nefnir fyrsta verkefni félagsins''“.
-*„''Staða þeirra hefur verið mjög bágborin í gegnum tíðina.''“ The word ''bágborin'' is almost never used in spoken Icelandic, so this is an example of the use of a formal variety of Icelandic.
+*„<i>Nefnir Arndís fyrsta verkefni félagsins...</i>“ In this example, they have placed the verb in the first position. In spoken Icelandic, this would be „<i>Arndís nefnir fyrsta verkefni félagsins</i>“.
+*„<i>Staða þeirra hefur verið mjög bágborin í gegnum tíðina.</i>“ The word ''bágborin'' is almost never used in spoken Icelandic, so this is an example of the use of a formal variety of Icelandic.
 
 Other examples:
 
@@ -31,4 +31,3 @@ Other examples:
 * ''„... að því er Reuters greinir frá.“'' The phrase „að því er“ is one example of a phrase that you'll only see in newspapers.
 
 </div>
-

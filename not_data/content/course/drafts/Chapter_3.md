@@ -25,7 +25,7 @@ Some words don't have this click sound, those words tend to be either foreign or
 ## Sæll! 
 Now that you know how to pronounce your {{code|LL}}s, it's time to learn the business casual greeting.
 
-{{Text:Sæll/Intro}}
+{{Sæll/Intro}}
 
 Hlustunarleikir:
 * sæll
@@ -46,4 +46,3 @@ Hvar ert þú? Ég er heima.
 
 Hvenær kemur þú til Íslands?Ég kem í febrúar.
 -->
-

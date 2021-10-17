@@ -30,12 +30,14 @@ Ylhýra is a collaborative project that publishes material and software for Icel
 
 The project has been supported by the Municipality of Kópavogur, Landsvirkjun, and Isavia.
 
+{{-}}
+
 ---
 
 <div class="notes">
 * [[project:name|Meaning of the project's name]]
-* [https://github.com/ylhyra/ylhyra See the code on GitHub]
 * [[Project:Become a collaborator|Become a collaborator]]
+* [https://github.com/ylhyra/ylhyra See the code on GitHub]
 </div>
 <br/>
 <Image src="Loftmynd 2.jpg" width="600"/>

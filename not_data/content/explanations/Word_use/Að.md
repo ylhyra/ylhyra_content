@@ -16,7 +16,7 @@ This is the basic form of verbs, known as the [[infinitive]]:
 
 *Ég ætla '''að''' koma á sunnudaginn, mig langar '''að''' vera lengi.
 
-### 2. Joining together sentences – ''<translate>that ...</translate>''
+### 2. Joining together sentences – <i>that ...</i>
 
 *Ég held '''að''' ég komi seint, mamma segir '''að''' ég þurfi að elda þó '''að''' ég hafi eldað í gær.
 
@@ -40,4 +40,3 @@ This is the basic form of verbs, known as the [[infinitive]]:
 
 *Kötturinn er úti '''að''' nóttu til.
 *'''Að''' lokum endaði allt vel.
-

@@ -2,254 +2,281 @@
 title: Template:Noun declension patterns
 ---
 
-{| class="wikitable small"
-|+
-! rowspan="2" |
-! colspan="4" |Singular
-! rowspan="2" |
-! colspan="4" |Plural
-! rowspan="2" |
-|-
-![[First case|1st]]
-![[Second case|2nd]]
-![[Third case|3rd]]
-![[Fourth case|4th]]
-![[First case|1st]]
-![[Second case|2nd]]
-![[Third case|3rd]]
-![[Fourth case|4th]]
-|-
-!<u>FISKUR</u>
-|ur
-|
-|i
-|s
-| rowspan="23" |
-|ar
-|a
-|um
-|a
-| rowspan="12" |{{kk}}
-|-
-!fugl
-|
-|
-|i
-|s
-|ar
-|a
-|um
-|a
-|-
-!bjór
-|
-|
-|
-|s
-|ar
-|a
-|um
-|a
-|-
-!skógur
-|ur
-|
-|i
-|ar
-|ar
-|a
-|um
-|a
-|-
-!matur
-|ur
-|
-|
-|ar
-|ar
-|a
-|um
-|a
-|-
-!læknir
-|ir
-|i
-|i
-|is
-|ar
-|a
-|um
-|a
-|-
-!vinur
-|ur
-|
-|i
-|ar
-|ir
-|i
-|um
-|a
-|-
-!staður
-|ur
-|
-|
-|ar
-|ir
-|i
-|um
-|a
-|-
-!hvalur
-|ur
-|
-|
-|s
-|ir
-|i
-|um
-|a
-|-
-!bróðir
-|ir
-|ur
-|ur
-|ur
-|ur
-|ur
-|rum
-|ra
-|-
-!<u>PABBI</u>
-|i
-|a
-|a
-|a
-|ar
-|a
-|um
-|a
-|-
-!frændi
-|i
-|a
-|a
-|a
-|ur
-|ur
-|um
-|a
-|-
-!bygging
-|
-|u
-|u
-|ar
-|ar
-|ar
-|um
-|a
-| rowspan="8" |{{kvk}}
-|-
-!flugvél
-|
-|
-|
-|ar
-|ar
-|ar
-|um
-|a
-|-
-!búð
-|
-|
-|
-|ar
-|ir
-|ir
-|um
-|a
-|-
-!keppni
-|
-|
-|
-|
-|ir
-|ir
-|um
-|a
-|-
-!bók
-|
-|
-|
-|ar
-|ur
-|ur
-|um
-|a
-|-
-!hönd
-|
-|
-|i
-|ar
-|ur
-|ur
-|um
-|a
-|-
-!<u>MAMMA</u>
-|a
-|u
-|u
-|u
-|ur
-|ur
-|um
-|a
-|-
-!steik
-|
-|
-|
-|ur
-|ur
-|ur
-|um
-|a
-|-
-!<u>PÍANÓ</u>
-|
-|
-|i
-|s
-|
-|
-|um
-|a
-| rowspan="3" |{{hk}}
-|-
-!eyra
-|a
-|a
-|a
-|a
-|u
-|u
-|um
-|a
-|-
-!stræti
-|i
-|i
-|um
-|a
-|i
-|i
-|um
-|a
-|}
+<table class="wikitable small">
+  <tbody>
+  <tr>
+    <th rowspan="2"></th>
+    <th colspan="4">Singular</th>
+    <th rowspan="2"></th>
+    <th colspan="4">Plural</th>
+    <th rowspan="2"></th>
+  </tr>
+  <tr>
+    <th>[[First_case|1st]]</th>
+    <th>[[Second_case|2nd]]</th>
+    <th>[[Third_case|3rd]]</th>
+    <th>[[Fourth_case|4th]]</th>
+    <th>[[First_case|1st]]</th>
+    <th>[[Second_case|2nd]]</th>
+    <th>[[Third_case|3rd]]</th>
+    <th>[[Fourth_case|4th]]</th>
+  </tr>
+  <tr>
+    <th><u>FISKUR</u></th>
+    <td>ur</td>
+    <td></td>
+    <td>i</td>
+    <td>s</td>
+    <td rowspan="23"></td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+    <td rowspan="12">{{kk}}</td>
+  </tr>
+  <tr>
+    <th>fugl</th>
+    <td></td>
+    <td></td>
+    <td>i</td>
+    <td>s</td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>bjór</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>s</td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>skógur</th>
+    <td>ur</td>
+    <td></td>
+    <td>i</td>
+    <td>ar</td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>matur</th>
+    <td>ur</td>
+    <td></td>
+    <td></td>
+    <td>ar</td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>læknir</th>
+    <td>ir</td>
+    <td>i</td>
+    <td>i</td>
+    <td>is</td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>vinur</th>
+    <td>ur</td>
+    <td></td>
+    <td>i</td>
+    <td>ar</td>
+    <td>ir</td>
+    <td>i</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>staður</th>
+    <td>ur</td>
+    <td></td>
+    <td></td>
+    <td>ar</td>
+    <td>ir</td>
+    <td>i</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>hvalur</th>
+    <td>ur</td>
+    <td></td>
+    <td></td>
+    <td>s</td>
+    <td>ir</td>
+    <td>i</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>bróðir</th>
+    <td>ir</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>rum</td>
+    <td>ra</td>
+  </tr>
+  <tr>
+    <th><u>PABBI</u></th>
+    <td>i</td>
+    <td>a</td>
+    <td>a</td>
+    <td>a</td>
+    <td>ar</td>
+    <td>a</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>frændi</th>
+    <td>i</td>
+    <td>a</td>
+    <td>a</td>
+    <td>a</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>bygging</th>
+    <td></td>
+    <td>u</td>
+    <td>u</td>
+    <td>ar</td>
+    <td>ar</td>
+    <td>ar</td>
+    <td>um</td>
+    <td>a</td>
+    <td rowspan="8">{{kvk}}</td>
+  </tr>
+  <tr>
+    <th>flugvél</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ar</td>
+    <td>ar</td>
+    <td>ar</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>búð</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ar</td>
+    <td>ir</td>
+    <td>ir</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>keppni</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ir</td>
+    <td>ir</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>bók</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ar</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>hönd</th>
+    <td></td>
+    <td></td>
+    <td>i</td>
+    <td>ar</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th><u>MAMMA</u></th>
+    <td>a</td>
+    <td>u</td>
+    <td>u</td>
+    <td>u</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>steik</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>ur</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th><u>PÍANÓ</u></th>
+    <td></td>
+    <td></td>
+    <td>i</td>
+    <td>s</td>
+    <td></td>
+    <td></td>
+    <td>um</td>
+    <td>a</td>
+    <td rowspan="3">{{hk}}</td>
+  </tr>
+  <tr>
+    <th>eyra</th>
+    <td>a</td>
+    <td>a</td>
+    <td>a</td>
+    <td>a</td>
+    <td>u</td>
+    <td>u</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <th>stræti</th>
+    <td>i</td>
+    <td>i</td>
+    <td>um</td>
+    <td>a</td>
+    <td>i</td>
+    <td>i</td>
+    <td>um</td>
+    <td>a</td>
+  </tr>
+  </tbody>
+</table>

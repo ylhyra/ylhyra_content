@@ -16,7 +16,7 @@ Adding ''nú'' to a sentence is an easy trick that will immediately make you sou
 
 Please remember: Don't emphasize the word ''nú'' – it should always be in an unstressed position. If you stress the word it sounds like you're saying "now" instead of "well ...". The entire sentence has to be pronounced nonchalantly.
 
-## Excercise 1 – Add ''nú''
+## Excercise 1 – Add <i>nú</i>
 
 Það er alltaf gaman að sjá þig. – It's always nice to see you.
 
@@ -83,4 +83,3 @@ Please remember: Don't emphasize the word ''nú'' – it should always be in an 
 <Collapse>
 Ég veit það '''nú''' ekki alveg. – '''Well''', I don't quite know.
 </Collapse>
-

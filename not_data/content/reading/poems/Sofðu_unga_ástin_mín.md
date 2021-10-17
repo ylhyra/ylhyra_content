@@ -44,5 +44,3 @@ nætur
 {{line|að mennirnir elska, missa, gráta og sakna.}}
 }}
 -->
-
-{{end|Sofðu unga ástin mín}}

@@ -6551,7 +6551,7 @@ title: Data:Sund
                 "meaning": "At swimming facilities, there is one big swimming pool and also some hot tubs."
             },
             "s_1ohk60": {
-                "meaning": "It *is* possible to go to the swimming pool to swim,"
+                "meaning": "It <i>is</i> possible to go to the swimming pool to swim,"
             },
             "s_1ohk7": {
                 "meaning": "There is a swimming pool in almost every single town, and there are seventeen swimming pools in or near Reykjavik. "

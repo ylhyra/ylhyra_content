@@ -43,7 +43,6 @@ The following articles offer a brief introduction to various aspects of the lang
 **[[Subjunctive]] <level level="b1"/>
 ***[[Politeness]] <level level="a2"/>
 **[[Pronouns]] <level level="a1"/>
-***[[Þetta]] <level level="a1"/>
 ***[[Possessions]] <level level="a1"/>
 ***Indefinite pronouns
 ****[[Annar]] <level level="a2"/>

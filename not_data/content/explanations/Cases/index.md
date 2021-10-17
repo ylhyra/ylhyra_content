@@ -10,7 +10,6 @@ license: CC0
 reviewed: no
 ---
 
-<onlyinclude>
 [[Nouns]], [[adjectives]], and [[pronouns]] all change their form depending on what's happening to them in a sentence. There are four such '''cases''' in Icelandic:
 
 *The '''[[first case]]''' indicates '''being'''. It shows that the word is doing something. <small class="gray">([[nominative case]])</small>
@@ -29,8 +28,8 @@ But other words, like “cat”, change a lot:
 The [[first case]] is the default case and is the one that is shown in dictionaries.
 
 ## Comparison to English
-The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with '''''him'''''”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[first case]] in Icelandic, "him" is analogous to both the [[Second case|second]] and the [[third case]], and "his" is analogous to the [[fourth case]].
-</onlyinclude>
+The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with <b><i>him</i></b>”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[first case]] in Icelandic, "him" is analogous to both the [[Second case|second]] and the [[third case]], and "his" is analogous to the [[fourth case]].
+
 ## Further reading
 
 *[[List of noun declension patterns]]
@@ -39,10 +38,8 @@ The Icelandic cases can be compared to the different forms that English [[pronou
 *[[Prepositions that cause cases]]
 *[[Cases/Verbs that cause cases|Verbs that cause cases]]
 
-<div class="notes">
-'''Notes'''
-
-*For simplicity's sake, Ylhýra refers to the cases as the "first case", "second case" and so on instead of using the grammatical terms. This is non-standard; all other resources use the grammatical terms.
+<notes>
+*For simplicity's sake, this website refers to the cases as the "first case", "second case" and so on instead of using the grammatical terms. This is completely non-standard; all other resources use the grammatical terms.
 *The explanation of what the cases indicate is a simplification.
 *If you have studied German, do note that the standard way of showing the four German cases is ''[[nominative]], [[genitive]], [[dative]], [[accusative]]'' while in Icelandic the order is ''[[nominative]], [[accusative]], [[dative]], [[genitive]]''.
-</div>
+</notes>

@@ -2,7 +2,7 @@
 title: Course/A1/Sæll
 vocabulary:
 redirects:
-- Text:Sæll/Intro
+- Template:Sæll/Intro
 reviewed: no
 ---
 
@@ -16,4 +16,3 @@ reviewed: no
 !{{Kvk}}
 |<translate>sæl</translate>
 |}
-

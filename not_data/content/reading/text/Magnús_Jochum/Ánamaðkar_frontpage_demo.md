@@ -1,5 +1,5 @@
 ---
-title: Text:Demo
+title: Template:Demo
 reviewed: no
 ---
 <vocabulary>
@@ -10,4 +10,3 @@ reviewed: no
 <div id="frontpage-splash-screen-demo-byline">
 From [[Magnús Jochum Pálsson/Ánamaðkar|Ánamaðkar]] by Magnús Jochum
 </div>
-

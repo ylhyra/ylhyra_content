@@ -12,7 +12,7 @@ This is an overview page of the [[declension]] patterns for [[nouns]]. It lists 
 
 Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about {{number of declension patterns}} basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[sound change]], and occasionally an additional letter pops up or disappears.
 
-The following table lists all the common patterns. <!--[https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview over the patterns. The most important patterns are shown in uppercase.
+The following table lists all the common patterns. <!--[https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview for the patterns. The most important patterns are shown in uppercase.
 
 {{Noun declension patterns}}
 
@@ -43,7 +43,9 @@ Names:
 *Ólafur, Haukur, Haraldur, Eiríkur, Ingólfur, Hlynur, Vilhjálmur, Gunnlaugur
 
 ## The “fugl” pattern
-This is exactly the same pattern as "fiskur" except for the lack of the "ur" in the first case.{{Declension singular and plural
+This is exactly the same pattern as "fiskur" except for the lack of the "ur" in the first case.
+
+{{Declension singular and plural
 |hákarl
 |hákarl
 |hákarl'''i'''
@@ -75,7 +77,7 @@ Names:
 
 *Jón, Gunnar, Einar, Kristján, Stefán, Jóhann, Björn,<ref name=":0">The name Björn can either be declined "til Björns" or "til Bjarnar", but the animal can only be "til bjarnar".</ref> Halldór, Pétur, Arnar, Kristinn, Ragnar, Guðjón, Óskar, Karl, Ásgeir, Ágúst, Kjartan, Sigurjón, Friðrik, Aron, Hilmar, Baldur, Rúnar, Brynjar, Ómar, Ingvar, Sævar, Garðar, Viktor, Þórarinn, Hafsteinn, Ívar, Grétar, Aðalsteinn
 
-## The “matur” pattern ''(rare)''
+## The “matur” pattern <i>(rare)</i>
 This is a rare pattern.
 
 {{Declension singular and plural
@@ -261,7 +263,7 @@ Names:
 
 *Árni, Bjarni, Helgi, Gísli, Andri, Bjarki, Atli, Guðni, Sindri, Snorri, Kári, Tryggvi, Ingi, Ari, Hjalti
 
-## The “frændi” pattern ''(rare)''
+## The “frændi” pattern <i>(rare)</i>
 This pattern is the same as "pabbi" in the singular, but has a different plural. It only appears in a handful of words that all end in "-ndi".{{Declension singular and plural
 |frænd'''i'''
 |frænd'''a'''
@@ -456,7 +458,7 @@ Umlaut:
 
 *nótt (ó→æ, ó->á)
 
-Irregularities*
+Irregularities:
 
 *nótt has "tt" only in the some cases
 

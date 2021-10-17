@@ -153,6 +153,3 @@ you: Vilt þú bjór?
 me: Já takk!
 }}
 -->
-
-{{end|Yes}}
-

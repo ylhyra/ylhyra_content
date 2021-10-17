@@ -1,5 +1,5 @@
 ---
-title: Data:Text:Demo
+title: Data:Template:Demo
 ---
 
 {

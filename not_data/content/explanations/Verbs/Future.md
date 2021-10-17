@@ -24,7 +24,7 @@ The only exception to the simple explanation above is that you use ''að vera'' 
 *Þetta er mjög skemmtilegt.
 *Þetta verður mjög skemmtilegt.
 
-## Mun (''will be'')
+## Mun (<i>will be</i>)
 <level level="b1"/>
 
 There does exist one other way to speak about the future, using ''mun'' (will):

@@ -1,5 +1,5 @@
 ---
-title: Data:Text:Ylhýra
+title: Data:Template:Ylhýra
 ---
 
 {

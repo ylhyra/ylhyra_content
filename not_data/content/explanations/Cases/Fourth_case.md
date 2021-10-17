@@ -33,5 +33,3 @@ The following [[prepositions]] always [[Prepositions that cause cases|cause]] th
 It also appears in sentences showing ownership such as:
 
 *Þetta er köttur '''Gunnars'''. (This is the cat of Gunnar)
-{{cases}}
-

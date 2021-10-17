@@ -29,12 +29,12 @@ classes:
 <h3>[[text|Read]]</h3>
 <div id="frontpage-splash-screen">
 <div id="frontpage-splash-screen-english">
-<span class="xxunderline_links_normal">{{Text:Ylhýra}}</span> is a [[texts|collection of Icelandic texts]] where translations are shown for each word and sentence.
+<span class="xxunderline_links_normal">{{Ylhýra}}</span> is a [[texts|collection of Icelandic texts]] where translations are shown for each word and sentence.
 </div>
 {{spacer|10}}
 <div id="frontpage-splash-screen-demo">
 <div>
-{{Text:Demo}}
+{{Demo}}
 </div>
 </div>
 </div>
