@@ -47,6 +47,6 @@ Ylhýra <span title="Einkahlutafélag (Icelandic private company)">ehf.</span>
 <span title="Kennitala (Icelandic identification number)">kt.</span> 480520-0170
 <br/>
 [mailto:ylhyra@ylhyra.is ylhyra@ylhyra.is]
-<br/
-[[Privacy policy]]
+<br/>
+[[Privacy policy|<span class="gray">Privacy policy</span>]]
 </div>
