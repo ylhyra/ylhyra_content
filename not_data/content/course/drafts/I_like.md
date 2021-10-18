@@ -11,9 +11,7 @@ reviewed: no
 
 
 
-Mér finnst hamborgari góður.
 Finnst þér gott að búa hérna?
-Mér finnst hann ágætur.
 Mér finnst hann sætur.
 Mér finnst það fyndið.
 Finnst þér þetta fyndið?
