@@ -2661,8 +2661,9 @@ rows:
     depends_on: að gera
     alternative_id: að gerast
     level: 1
+    note: Can also mean "to become" in formal language.
     row_id: 384
-    last_seen: "2021-07-01"
+    last_seen: "2021-10-18"
   - icelandic: Hvað gerðist?
     english: What happened?
     lemmas: að gerast

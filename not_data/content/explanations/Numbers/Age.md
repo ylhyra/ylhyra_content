@@ -12,7 +12,7 @@ reviewed: no
 
 # Age
 
-Ages are discussed in the fourth case ([[genitive case]] {{ef}}).
+Ages are discussed in the [[fourth case]] ([[genitive case]]).
 
 {| class="wikitable"
 !1 year
@@ -31,11 +31,16 @@ Ages are discussed in the fourth case ([[genitive case]] {{ef}}).
 |'''tveggja ára'''
 |}
 
-*Hann er bara '''eins árs gamall'''. ''He’s just '''1 year old'''.''
-*Ég ætla að flytja til Danmerkur þegar ég verð '''tuttugu og eins árs gamall'''. ''I’m going to move to Denmark when I become '''21 years old'''.''
-*Pabbi minn er '''fimmtíu og eins árs gamall'''.
+* Hann er '''eins árs gamall'''. ''He’s '''1 year old'''.''
+* Ég ætla að flytja til Danmerkur þegar ég verð '''tuttugu og eins árs gamall'''. ''I’m going to move to Denmark when I become '''21 years old'''.''
+* Pabbi minn er '''fimmtíu og eins árs gamall'''.
 
-The reason for the age being in the genitive case is the same as ''„Þetta er þriggja hæða hús“ = This is a house '''of''' three stories'' and ''„Þetta er tveggja metra reipi“ = This is a rope '''of''' two meters''. Most students find it strange that the genitive is also used when using adjectives, ''„Hann er tveggja metra langur“ = He is long '''of''' two meters'', ''„Hann er tveggja ára gamall“ = He is old '''of''' two years'', but that is how it is.
+The reason for the age being in the genitive case is the same as in:
+
+* ''„Þetta er þriggja hæða hús“ = This is a house '''of''' three stories''
+* ''„Þetta er tveggja metra reipi“ = This is a rope '''of''' two meters''
+
+The reason being that it is describing an attribute *of* something; you are *of* 3 years.
 
 It is okay to just skip the “gamall” part:
 
@@ -45,10 +50,16 @@ It’s even okay to just skip the “ára” part as well, it is just implied.:
 
 *Ég get ekki fengið nýtt skírteini fyrr en ég verð þrjátíu og tveggja.
 
-# Módel
+# Year of birth
 
-Most people don't actually know how old they are, instead they know which year they were born in. So, just like with car models you describe yourself as:
+It is common for people to not know exactly how old they are, instead they tell you what year they are born in.
 
-*Hvaða módel ertu? Ég er ’95 módel.
-*Bíddu, hvað er Ingibjörg aftur gömul? Hún er ’92.
+* Ég er fæddur ‘64. = I was born in 1964.
+* Hvenær ertu fæddur? = What year were you born?
 
+Notice that this uses the present tense.
+
+Younger speakers will use "módel", similar to describing what model a car is:
+
+* Hvaða módel ertu?
+* Ég er ‘95 módel.

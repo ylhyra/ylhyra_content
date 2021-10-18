@@ -1,22 +1,19 @@
 ---
 title: Privacy policy
+published: October 2021
 ---
 
-Ylhýra collects a limited amount of data. No data is shared with a third party (but [see below](#Third parties)) and no data is used for marketing purposes.
+# Privacy policy
 
-The following information is collected:
+The amount of data Ylhýra collects is limited and is not sold to a third party nor used for marketing purposes.
 
-- IP addresses in serves access logs. This information is deleted on a regular basis.
-- Email addresses:
-  - If an email address is entered on signup. The purpose is to allow for password resets. This information will not be used for other purposes.
-  - When a payment is made through PayPal. Email addresses may show up in payment logs. This information will not be used for other purposes.
-- Site interaction analysis. Used to: 1. Keep track of what a user has read in order to recommend what the user should read next 2. Keep track of an article's popularity.
-  <!-- Use the offline version -->
+Ylhýra logs which pages you have read for internal analytics regarding an article's popularity. The country you are accessing the site from is logged alongside your browser's preferred language, but your IP address is not logged.
 
-## Third parties
+### Third parties
 
-The following third parties are used:
+Ylhýra is stored behind Cloudflare's content delivery network. Cloudflare may log which pages you access and your IP address.
 
-<!-- - hCaptcha – Used on the login and signup screens for bot prevention -->
-- PayPal – Payment
-<!-- - MailChimp – Email newsletter subscription -->
+PayPal is used for payment processing. Your real name, email, and billing country are by default attached to your PayPal transaction; that information is accessible to Ylhýra but will not be used for any purpose except for handling billing and calculating taxes (value-added-tax or sales tax).
+
+Mailinator is used for email newsletters. Newsletters are opt-in.
+
