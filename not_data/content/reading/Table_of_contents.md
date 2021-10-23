@@ -79,7 +79,6 @@ reviewed: no
 *Articles
 **{{link with percentage|Magnús Jochum Pálsson/Pípulækningar|''Pípulækningar''|<!-- x -->by Magnús Jochum}}
 **{{link with percentage|Magnús Jochum Pálsson/Ánamaðkar|''Ánamaðkar''|<!-- x -->by Magnús Jochum}}
-**{{link with percentage|Blær/Egg í áskrift|''Egg í áskrift''|<!-- x -->by Blær}}
 **{{link with percentage|Blær/Fyrst við erum hérna|''Fyrst við erum hérna''|<!-- x -->by Blær}}
 **{{link with percentage|Blær/LungA|''LungA''|<!-- x -->by Blær}}
 *Poems
