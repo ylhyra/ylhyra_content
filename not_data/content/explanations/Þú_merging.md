@@ -11,7 +11,7 @@ reviewed: no
 
 ## Þú
 
-If the word `þú` ("you") comes directly after a verb (such as in [[questions]]: "Are you?"), `þú` is usually merged with the verb. This only happens with the word form `þú` and not any of its other cases (such as `þig` ).
+If the word `þú` ("you") comes directly after a verb (such as in [[questions]]: "Are you?"), `þú` is usually merged with the verb. This only happens with the word form `þú` and not any of its other cases (such as `þig`).
 
 The rules are:
 

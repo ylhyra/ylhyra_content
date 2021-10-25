@@ -20,13 +20,13 @@ The vocabulary game starts at the beginner level. If you already know some Icela
 ## The buttons
 
 An explanation of what you should expect from the buttons:
-* "Bad" is for cards that you didn't know, didn't know perfectly, or had to think hard about. Clicking "Bad" will show you the card again in your current session and will schedule the card to be seen tomorrow.
-* "Good" is for terms you knew perfectly but which you had to think a little bit about. Clicking "Good" will not show it again in your current session.
-  * If this is the first time you see this card, it will be scheduled to be seen in three days.
-  * Otherwise the card's previous time interval will be doubled. Always clicking "Good" will therefore show a card in 3 days, then 6 days, then 12, 24 and so on.
-* "Easy" is for terms that are far too easy for you.
-  * If this is the first time you see this card, it will be scheduled to be seen in 20 days.
-  * Otherwise the card's previous time interval will be multiplied by 6. Always clicking "Easy" will therefore show a card in 20 days, then 4 months, then 2 years.
+- "Bad" is for cards that you didn't know, didn't know perfectly, or had to think hard about. Clicking "Bad" will show you the card again in your current session and will schedule the card to be seen tomorrow.
+- "Good" is for terms you knew perfectly but which you had to think a little bit about. Clicking "Good" will not show it again in your current session.
+  - If this is the first time you see this card, it will be scheduled to be seen in three days.
+  - Otherwise the card's previous time interval will be doubled. Always clicking "Good" will therefore show a card in 3 days, then 6 days, then 12, 24 and so on.
+- "Easy" is for terms that are far too easy for you.
+  - If this is the first time you see this card, it will be scheduled to be seen in 20 days.
+  - Otherwise the card's previous time interval will be multiplied by 6. Always clicking "Easy" will therefore show a card in 20 days, then 4 months, then 2 years.
 
 You will in most cases only use the "Bad" and "Good" buttons.
 
