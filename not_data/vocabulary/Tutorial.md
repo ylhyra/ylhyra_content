@@ -1,8 +1,8 @@
 ---
 title: Vocabulary/Tutorial
 classes:
-- xsans-serif
-- xbrown-screen
+- sans-serif
+- brown-screen
 - xwide-screen
 ---
 
@@ -15,7 +15,7 @@ The game works best if used daily.
 
 ## If you're not a beginner
 
-The vocabulary game starts at the beginner level. If you already know some Icelandic, simply answer truthfully to how well you know the terms and in a couple of minutes the game will have adjusted to your level. (More specifically, answering "Easy" several times in a row on new cards will increase your level.)
+The vocabulary game starts at the beginner level. If you already know some Icelandic, simply answer truthfully to how well you know the terms and in a couple of minutes the game should have adjusted to your level. (More specifically, answering "Easy" several times in a row on new cards will increase your level.)
 
 ## The buttons
 
