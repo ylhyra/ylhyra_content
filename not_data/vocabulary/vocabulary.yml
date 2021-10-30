@@ -10508,11 +10508,11 @@ rows:
     last_seen: "2021-07-29"
   - icelandic: Ég geri það '''þegar''' ég kem.
     english: I will do it '''when''' I come.
-    lemmas: erfiður, góður
+    lemmas: að gera, að koma
     alternative_id: þegar
     level: 1
     row_id: 1566
-    last_seen: "2021-07-29"
+    last_seen: "2021-10-30"
   - icelandic: til Íslands
     english: to Iceland
     lemmas: Ísland
