@@ -1145,13 +1145,13 @@ rows:
     level: 1
     row_id: 164
     last_seen: "2021-06-29"
-  - icelandic: Það er gott veður.
-    english: There is good weather.; The weather is good.
+  - icelandic: Það er *gott veður.
+    english: The weather is good.
     lemmas: góður, veður
     alternative_id: Það er gott veður.
     level: 1
     row_id: 165
-    last_seen: "2021-07-01"
+    last_seen: "2021-10-30"
   - icelandic: Er veðrið gott?
     english: Is the weather good?
     lemmas: veður, góður
@@ -23199,6 +23199,7 @@ rows:
   - icelandic: Eru ekki a%llir hr%essir?
     english: Isn't everyone here in a great mood?
     lemmas: hress
+    alternative_id: Eru ekki a%llir hr%essir?
     level: 4
     note_regarding_english: Cliche but hilarious phrase said by everyone when they are on stage addressing a crowd. "Eru ekki allir í stuði?" can also be used.
     row_id: 3528

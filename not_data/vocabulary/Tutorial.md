@@ -21,7 +21,7 @@ The vocabulary game starts at the beginner level. If you already know some Icela
 
 This game contains some 2,000 words and sentences that are shown as an infinite stack of flashcards. The cards are sorted based on difficulty and importance. Simpler cards have priority when you're reviewing cards.
 
-The game will try to make sure you know prerequisite words well before showing you a card. As an example, it will try not to show you "hálftími" unless you know "hálfur" and "tími", and it will try not to show you a sentence unless you know all of the words in it. If you fail a card, the game may schedule some of its prerequisite words to be shown to you right away.
+If you fail a card, the game may show you some of its prerequisite words (such as showing you "hálfur" and "tími" when you fail "hálftími", and showing you each of  the words in a sentence you failed, if you didn't know them well already).
 
 New terms are shown with a green border on top. Cards that have an audio recording are shown with a small gray dot in the top corner.
 
