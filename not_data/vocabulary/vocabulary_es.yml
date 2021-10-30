@@ -2469,10 +2469,11 @@ rows:
     english: umferðarhnútur
     alternative_id: embotellamiento
     row_id: 617
-  - icelandic: precario
+  - icelandic: pr*ecario
     english: ótryggur; varasamur
     alternative_id: precario
     row_id: 618
+    last_seen: "2021-10-29"
   - icelandic: recelo
     english: tortryggni; vantraust
     alternative_id: recelo
@@ -3649,7 +3650,9 @@ rows:
   - icelandic: echar una bronca a algn
     english: skamma einhvern
     alternative_id: echar una bronca a algn
+    direction: "->"
     row_id: 912
+    last_seen: "2021-10-30"
   - icelandic: apelmazado
     english: þéttur; samþjappaður
     alternative_id: apelmazado
@@ -6562,4 +6565,83 @@ rows:
     alternative_id: m*orar
     row_id: 1641
     last_seen: "2021-09-22"
+  - icelandic: salir a%iroso
+    english: standa sig með prýði
+    alternative_id: salir a%iroso
+    note: airoso = vindasamur
+    row_id: 1642
+    last_seen: "2021-10-29"
+  - icelandic: la piel
+    english: húðin
+    alternative_id: la piel
+    row_id: 1643
+  - icelandic: hacer la vista gorda
+    english: to turn a blind eye to
+    alternative_id: hacer la vista gorda
+    row_id: 1644
+  - icelandic: f%ulminante
+    english: eldfljótur; leifturhraður
+    alternative_id: f%ulminante
+    row_id: 1645
+  - icelandic: p*aisano
+    english: compatriot
+    alternative_id: p*aisano
+    row_id: 1646
+  - icelandic: des*valijar
+    english: að hnupla; ræna; ræna þar til allt er tómt
+    alternative_id: des*valijar
+    row_id: 1647
+  - icelandic: moneda
+    english: currency
+    alternative_id: moneda
+    row_id: 1648
+  - icelandic: dejar un recado
+    english: að skilja eftir skilaboð
+    alternative_id: dejar un recado
+    row_id: 1649
+  - icelandic: pr*ecisar
+    english: þurfa; vanta
+    alternative_id: p*recisar - þurfa; vanta
+    row_id: 1650
+    last_seen: "2021-10-30"
+  - icelandic: desván
+    english: háaloft
+    alternative_id: desván
+    row_id: 1651
+  - icelandic: a*chacarle* algo a algn
+    english: kenna einhverjum um eitthvað
+    alternative_id: a*chacarle* algo a algn
+    row_id: 1652
+  - icelandic: eructar
+    english: að ropa
+    alternative_id: eructar
+    row_id: 1653
+  - icelandic: c*onformarse
+    english: sætta sig við
+    alternative_id: c*onformarse
+    row_id: 1654
+  - icelandic: ch*áchara
+    english: mas; mal; blaður
+    alternative_id: ch*áchara
+    row_id: 1655
+  - icelandic: pa*rvulario
+    english: leikskóli
+    alternative_id: pa*rvulario
+    row_id: 1656
+  - icelandic: mo*farse de
+    english: hæðast að; gera gys að
+    alternative_id: mo*farse de
+    row_id: 1657
+  - icelandic: ma*quiavélico
+    english: slægvitur; slóttugur; slægur; kænn
+    alternative_id: ma*quiavélico
+    row_id: 1658
+  - icelandic: franquicia
+    english: a franchise;; undanþága; sérleyfi
+    alternative_id: franquicia
+    row_id: 1659
+  - icelandic: esc*abullirse
+    english: laumast burt
+    alternative_id: esc*abullirse
+    row_id: 1660
 sound: []

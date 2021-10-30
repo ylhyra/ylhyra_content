@@ -5184,7 +5184,7 @@ rows:
     lemmas: að svipta
     depends_on: ökuréttindi, að svipta
     alternative_id: Hann var sviptur ökuréttindum.
-    level: 4
+    level: 6
     note: "\"Að svipta\" is to deprive someone of something, or to snatch something away from someone. It is only used in a handful of phrases."
     row_id: 740
     last_seen: "2021-08-03"
@@ -5193,7 +5193,7 @@ rows:
     lemmas: að svipta%
     depends_on: líf, að svipta
     alternative_id: Hún svipti sig lífi.
-    level: 4.1
+    level: 5
     note: "\"Að svipta\" is to deprive someone of something, or to snatch something away from someone. It is only used in a handful of phrases."
     row_id: 741
     last_seen: "2021-08-03"
