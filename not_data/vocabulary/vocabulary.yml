@@ -7895,11 +7895,11 @@ rows:
     row_id: 1144
     last_seen: "2021-07-02"
   - icelandic: að koma
-    english: to come
+    english: to come;; to arrive
     alternative_id: að koma
     level: 1
     row_id: 1145
-    last_seen: "2021-07-02"
+    last_seen: "2021-11-01"
   - icelandic: þrír
     english: three
     alternative_id: þrír

@@ -67,10 +67,11 @@ rows:
     english: klaufalegur; sljór; heimskur; dónalegur
     alternative_id: torpe
     row_id: 17
-  - icelandic: reproche
+  - icelandic: r*eproche
     english: ásökun
     alternative_id: reproche
     row_id: 18
+    last_seen: "2021-11-01"
   - icelandic: arándano
     english: bláber
     alternative_id: arándano
@@ -872,10 +873,11 @@ rows:
     english: formlegur;; alvarlegur;; áreiðanlegur; trausverðulegur
     alternative_id: formal
     row_id: 218
-  - icelandic: ajustado
+  - icelandic: aj*ustado
     english: vel hertur;; þröngur
     alternative_id: ajustado
     row_id: 219
+    last_seen: "2021-11-01"
   - icelandic: estar de chungo
     english: vera í góðu skapi (ath. öfugt við það sem orðið þýðir eitt og sér)
     alternative_id: estar de chungo
@@ -1644,10 +1646,11 @@ rows:
     english: lamb
     alternative_id: cordero
     row_id: 411
-  - icelandic: surco
+  - icelandic: su*rco
     english: rák; rispa; rás
     alternative_id: surco
     row_id: 412
+    last_seen: "2021-11-01"
   - icelandic: pachanga
     english: veisla (Suðurameríku)
     alternative_id: pachanga
@@ -2132,10 +2135,11 @@ rows:
     english: hreiður
     alternative_id: nido
     row_id: 533
-  - icelandic: parroquiano
-    english: sóknarbarn;; fastur viðskiptavinur
+  - icelandic: p*arroquiano
+    english: sóknarbarn;; fastur viðskiptavinur (sér í lagi einhver sem eyðir miklum tíma á bar)
     alternative_id: parroquiano
     row_id: 534
+    last_seen: "2021-11-01"
   - icelandic: mordida
     english: bit
     alternative_id: mordida
@@ -3653,10 +3657,11 @@ rows:
     direction: "->"
     row_id: 912
     last_seen: "2021-10-30"
-  - icelandic: apelmazado
+  - icelandic: ap*elmazado
     english: þéttur; samþjappaður
     alternative_id: apelmazado
     row_id: 913
+    last_seen: "2021-10-31"
   - icelandic: autóctono
     english: innfæddur; upprunninn á tilteknum stað
     alternative_id: autóctono
@@ -4002,10 +4007,11 @@ rows:
     english: flatt þak; þakverönd
     alternative_id: azotea
     row_id: 1000
-  - icelandic: colegial
+  - icelandic: c*olegial
     english: schoolboy
     alternative_id: colegial
     row_id: 1001
+    last_seen: "2021-11-01"
   - icelandic: trincar
     english: reyra; rígbinda;; taka fastan (handtaka); halda föstum
     alternative_id: trincar
@@ -4030,10 +4036,11 @@ rows:
     english: hné
     alternative_id: rodilla
     row_id: 1007
-  - icelandic: patente
+  - icelandic: p*atente
     english: augljós; greinilegur
     alternative_id: patente
     row_id: 1008
+    last_seen: "2021-11-01"
   - icelandic: cama elástica
     english: trampólín
     alternative_id: cama elástica
@@ -4046,10 +4053,11 @@ rows:
     english: prenta út
     alternative_id: imprimir
     row_id: 1011
-  - icelandic: zafarse
+  - icelandic: z*afarse
     english: stinga af; flýja
     alternative_id: zafarse
     row_id: 1012
+    last_seen: "2021-11-01"
   - icelandic: chute
     english: skammtur af eiturlyfi
     alternative_id: chute
@@ -4075,10 +4083,11 @@ rows:
     english: grimmur; miskunnarlaus
     alternative_id: desalmado
     row_id: 1018
-  - icelandic: apogeo
+  - icelandic: a*pogeo
     english: hátindur; hámark
     alternative_id: apogeo
     row_id: 1019
+    last_seen: "2021-10-31"
   - icelandic: chisme
     english: slúður
     alternative_id: chisme
@@ -4127,10 +4136,11 @@ rows:
     english: óþekkur; hrekkjóttur; órólegur; líflegur
     alternative_id: travieso
     row_id: 1031
-  - icelandic: fardar
+  - icelandic: f*arda*r
     english: monta sig
     alternative_id: fardar
     row_id: 1032
+    last_seen: "2021-11-01"
   - icelandic: percatarse de
     english: taka eftir; veita athygli
     alternative_id: percatarse de
@@ -4439,10 +4449,11 @@ rows:
     english: with a rash
     alternative_id: escocido
     row_id: 1109
-  - icelandic: fanfarronear
+  - icelandic: f*an*f*arronear
     english: að monta
     alternative_id: fanfarronear
     row_id: 1110
+    last_seen: "2021-11-01"
   - icelandic: holgar
     english: hvíla sig;; vera iðjulaus
     alternative_id: holgar
@@ -4455,10 +4466,11 @@ rows:
     english: hvað hann nú heitir; náungi
     alternative_id: fulano
     row_id: 1113
-  - icelandic: entrometido
+  - icelandic: en*trometido
     english: afskiptasamur
     alternative_id: entrometido
     row_id: 1114
+    last_seen: "2021-11-01"
   - icelandic: aséptico
     english: dauðhreinsaður; gerlafrír
     alternative_id: aséptico
@@ -4873,10 +4885,11 @@ rows:
     english: öxull; ás; snúningsás
     alternative_id: el eje
     row_id: 1217
-  - icelandic: burdo
+  - icelandic: b*urdo
     english: grófur; hrjúfur
     alternative_id: burdo
     row_id: 1218
+    last_seen: "2021-11-01"
   - icelandic: talón
     english: hæll
     alternative_id: talón
@@ -6456,10 +6469,11 @@ rows:
     english: komast í uppnám
     alternative_id: llevarse un sofocón
     row_id: 1614
-  - icelandic: malavenido
+  - icelandic: mal*avenido
     english: ósammála; ósáttur
     alternative_id: malavenido
     row_id: 1615
+    last_seen: "2021-10-31"
   - icelandic: estorbar
     english: hindra; tálma; koma í veg fyrir;; trufla; vera til ama
     alternative_id: estorbar
@@ -6472,10 +6486,11 @@ rows:
     english: dúkur
     alternative_id: mantel
     row_id: 1618
-  - icelandic: zarpa
+  - icelandic: z*arpa
     english: (de león; tigre; gato) hrammur; loppa
     alternative_id: zarpa
     row_id: 1619
+    last_seen: "2021-11-01"
   - icelandic: témpano de hielo
     english: ísjaki
     alternative_id: témpano de hielo
