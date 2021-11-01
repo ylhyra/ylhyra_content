@@ -25,7 +25,7 @@ If you fail a card, the game may show you some of its prerequisite words *(such 
 
 New terms are shown with a green border on top. Cards that have an audio recording are shown with a small gray dot in the top corner.
 
-"Dictionary form" is the basic form of a word that is listed in dictionaries. When available, [[noun]]s are always shown in the [[first case]] (nominative) [[singular]] without a [[definite article]], [[adjective]]s are always shown in the [[masculine]] [[first case]] [[singular]] [[strong declension]], [[pronoun]]s are shown in the [[masculine]] [[first case]] [[singular]], and [[verb]]s are shown in the [[infinitive]] form (albeit without the infinitive marker "að").
+"[[Dictionary form]]" is the basic form of a word that is listed in dictionaries.
 
 ## The buttons
 

@@ -70,7 +70,7 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 *að heimsækja
 **„Þú heimsækir aldrei mömmu þína.“
 *að heyra
-**„Ég heyrði nýja lagið han.“
+**„Ég heyrði nýja lagið hans.“
 *að hitta
 **„Ég hitti þá áðan.“
 *að kaupa
@@ -225,4 +225,3 @@ kThis is a list of the most common verbs and which [[case]] they cause.
 ## See also
 
 *[[Prepositions that cause cases|Prepositions and the cases they cause]]
-
