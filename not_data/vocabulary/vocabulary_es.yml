@@ -866,9 +866,10 @@ rows:
     alternative_id: desmoronarse
     row_id: 216
   - icelandic: pila
-    english: rafhlaða;; vaskur
+    english: rafhlaða
     alternative_id: pila
     row_id: 217
+    last_seen: "2021-11-01"
   - icelandic: formal
     english: formlegur;; alvarlegur;; áreiðanlegur; trausverðulegur
     alternative_id: formal
@@ -2032,9 +2033,11 @@ rows:
     alternative_id: suero
     row_id: 507
   - icelandic: canijo
-    english: veikburða; veiklulegur
+    english: veikburða; veiklulegur;; stuttur/stubbaralegur maður
     alternative_id: canijo
+    note_regarding_english: Óformlegt
     row_id: 508
+    last_seen: "2021-11-01"
   - icelandic: remitente
     english: sendandi
     alternative_id: remitente
@@ -2421,10 +2424,12 @@ rows:
     english: traðka á; stappa með fótunum
     alternative_id: pisar
     row_id: 604
-  - icelandic: reticente
-    english: reluctant
+  - icelandic: r*eticente
+    english: reluctant; tregur; ófús
     alternative_id: reticente
+    note: estar/ser reticente a hacer algo
     row_id: 605
+    last_seen: "2021-11-01"
   - icelandic: acertar
     english: giska rétt
     alternative_id: acertar
@@ -3622,10 +3627,11 @@ rows:
     english: hengilás
     alternative_id: candado
     row_id: 904
-  - icelandic: gozar
+  - icelandic: g*ozar
     english: njóta
     alternative_id: gozar
     row_id: 905
+    last_seen: "2021-11-01"
   - icelandic: prorrogar
     english: framlengja; fresta
     alternative_id: prorrogar
@@ -6101,10 +6107,11 @@ rows:
     english: ósvífinn; dónalegur
     alternative_id: in*solente*
     row_id: 1522
-  - icelandic: desvanecersea
+  - icelandic: desvanecerse
     english: hverfa; leysast upp;; dofna
     alternative_id: desvanecersea
     row_id: 1523
+    last_seen: "2021-11-01"
   - icelandic: lavavajillas
     english: uppþvottavél
     alternative_id: lavavajillas
