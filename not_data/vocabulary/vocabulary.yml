@@ -1471,7 +1471,7 @@ rows:
   - icelandic: bara
     english: only;; just
     level: 1
-    importance: "1"
+    importance: 2
     dont_confuse: barn, bar
     row_id: 242
     last_seen: "2021-07-01"
@@ -2039,7 +2039,7 @@ rows:
   - icelandic: tími
     english: time;; a class;; an hour
     level: 1
-    importance: "1"
+    importance: 2
     row_id: 338
     last_seen: "2021-07-01"
   - icelandic: Það tekur tvo tíma.
@@ -2239,7 +2239,7 @@ rows:
     english: this evening
     depends_on: kvöld
     level: 1
-    importance: "1"
+    importance: 2
     row_id: 369
     last_seen: "2021-07-01"
   - icelandic: um kvöld
@@ -2812,7 +2812,7 @@ rows:
   - icelandic: aldrei
     english: never
     level: 1
-    importance: "1"
+    importance: 2
     dont_confuse: alltaf
     row_id: 457
     last_seen: "2021-07-01"
@@ -4217,7 +4217,7 @@ rows:
     icelandic: að reyna
     english: to try; to attempt
     level: 1
-    importance: "1"
+    importance: 2
     row_id: 683
     last_seen: "2021-07-01"
   - icelandic: Ég er að reyna.
@@ -4352,7 +4352,7 @@ rows:
   - icelandic: Ameríka
     english: America
     level: 2
-    importance: "-1"
+    importance: -2
     note: Usually referring to the U.S. More colloquial than "Bandaríkin".
     row_id: 705
     last_seen: "2021-07-09"
@@ -4684,7 +4684,7 @@ rows:
     english: Well∆ that's relatively fine.
     depends_on: svo sem
     level: 3.2
-    importance: "-1"
+    importance: -2
     direction: "->"
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
     row_id: 758
@@ -4693,7 +4693,7 @@ rows:
     english: "'''Well'''∆ I don't quite know what I plan on doing."
     depends_on: svo sem
     level: 3.2
-    importance: "-1"
+    importance: -2
     direction: "->"
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
     row_id: 759
@@ -4973,7 +4973,7 @@ rows:
     lemmas: rusl
     depends_on: rusl
     level: 3.5
-    importance: "-0.2"
+    importance: -1
     direction: "->"
     row_id: 805
     last_seen: "2021-08-03"
@@ -4991,7 +4991,7 @@ rows:
     english: "a square (n: shape)"
     depends_on: fjórir, horn
     level: 5
-    importance: "-1"
+    importance: -2
     note: "\"Fer-\" is related to \"fjórir\""
     row_id: 808
     last_seen: "2021-08-03"
@@ -5103,7 +5103,7 @@ rows:
     english: the hole
     lemmas: gat%
     level: 2.7
-    importance: "-1"
+    importance: -2
     dont_confuse: að geta
     note_regarding_english: Referring to a hole in clothes or in the wall, but not a hole in the ground.
     row_id: 826
@@ -5125,7 +5125,7 @@ rows:
     english: the beans
     lemmas: baun%
     level: 3
-    importance: "-1"
+    importance: -2
     row_id: 829
     last_seen: "2021-07-30"
   - icelandic: að fara í sturtu
@@ -5265,7 +5265,7 @@ rows:
     english: twins
     lemmas: tvíburi%
     level: 4
-    importance: "-0.5"
+    importance: -1
     row_id: 854
     last_seen: "2021-08-03"
   - icelandic: þríburar
@@ -5273,7 +5273,7 @@ rows:
     lemmas: þríburi%
     depends_on: tvíburar
     level: 4
-    importance: "-1"
+    importance: -2
     row_id: 855
     last_seen: "2021-08-03"
   - icelandic: j*arðarför
@@ -5323,7 +5323,7 @@ rows:
     english: That's doable.; That's achievable.; That can be done.
     depends_on: hægt
     level: 1
-    importance: "1"
+    importance: 2
     row_id: 863
     last_seen: "2021-07-01"
   - icelandic: Það er ekki hægt að keyra hægt hérna
@@ -6029,7 +6029,7 @@ rows:
   - icelandic: ex∆ ufsilon i∆ ufsilon í
     english: What is the name of the letters "X∆ Y∆ Ý"?
     level: 1
-    importance: "0.5"
+    importance: 1
     direction: <-
     categories: alphabet
     row_id: 987
@@ -10044,7 +10044,7 @@ rows:
     english: I own a river in Iceland.
     lemmas: að eiga ("to own"), á ("a river"), á ("on")
     level: 1
-    importance: "-1"
+    importance: -2
     row_id: 1695
     last_seen: "2021-07-12"
   - icelandic: Er hann góður í fótbolta?
@@ -11291,7 +11291,7 @@ rows:
   - icelandic: betri
     level: 1
     row_id: 1916
-    last_seen: "2021-10-14"
+    last_seen: "2021-11-10"
   - icelandic: að ýta
     english: to push
     level: 3
@@ -15164,7 +15164,7 @@ rows:
     english: to be 100 years old
     alternative_id: tíræður
     level: 5
-    importance: "-1"
+    importance: -2
     note: Very uncommon.
     row_id: 2570
     last_seen: "2021-08-01"
@@ -15610,7 +15610,7 @@ rows:
   - icelandic: að vera peppaður
     english: "to be excited; to be pumped (n: slang)"
     level: 5
-    importance: "-1"
+    importance: -2
     direction: "->"
     note_regarding_english: Not an important word, slang from the 2010s.
     row_id: 2642
