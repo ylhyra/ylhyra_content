@@ -607,7 +607,7 @@ rows:
     english: I'm bored.
     lemmas: að leiðast%
     depends_on: að leiðast, leiðinlegur
-    level: 2.9
+    level: 2
     row_id: 101
     last_seen: "2021-07-10"
   - icelandic: Okkur leiðist.
@@ -622,7 +622,7 @@ rows:
     english: We are walking hand in hand.; We are walking while holding each other's hand.
     lemmas: að leiðast
     depends_on: að leiða
-    level: 3.3
+    level: 3
     dont_confuse: Okkur leiðist.
     note: The [[impersonal]] "okkur leiðist" means "we are bored", but the personal "við leiðumst" means "we walk while holding hands".
     row_id: 103
@@ -1027,7 +1027,7 @@ rows:
   - icelandic: myndband
     english: a video
     depends_on: mynd, band
-    level: 2.5
+    level: 2
     row_id: 168
     last_seen: "2021-07-01"
   - icelandic: Hvað heitir hann aftur?
@@ -3830,7 +3830,7 @@ rows:
   - icelandic: Ég ætla bara að taka því rólega.
     english: I am just going to take it easy.
     depends_on: rólegur
-    level: 1.8
+    level: 1
     row_id: 623
     last_seen: "2021-07-09"
   - icelandic: að skipta sér af
@@ -4138,7 +4138,7 @@ rows:
   - icelandic: ég flaug
     english: I flew
     lemmas: að fljúga
-    level: 2.5
+    level: 2
     row_id: 671
     last_seen: "2021-07-30"
   - icelandic: ég flýg
@@ -4321,7 +4321,7 @@ rows:
     english: I want to move to a foreign country.
     lemmas: að langa, að flytja, útland
     depends_on: útlönd, að flytja, að ætla
-    level: 1.7
+    level: 1
     row_id: 699
     last_seen: "2021-07-09"
   - icelandic: að flytja
@@ -4359,7 +4359,7 @@ rows:
   - icelandic: B*andaríkin*
     english: the United States
     depends_on: ríki
-    level: 1.9
+    level: 1
     note: This term is commonly used, "Ameríka" can also be used colloquially.
     row_id: 706
     last_seen: "2021-08-07"
@@ -4472,7 +4472,7 @@ rows:
     english: What is your hourly rate?; How much do you charge for each hour of your time?
     lemmas: að taka, mikill, tími
     depends_on: að taka, tími, mikill
-    level: 3.3
+    level: 3
     row_id: 724
     last_seen: "2021-08-03"
   - icelandic: að vinna
@@ -4525,7 +4525,7 @@ rows:
     english: I find that difficult to believe.
     lemmas: að eiga erfitt með
     depends_on: að eiga, að eiga erfitt með, að trúa
-    level: 2.9
+    level: 2
     row_id: 732
     last_seen: "2021-07-30"
   - icelandic: Það er ekki til neitt kaffi.; Það er ekkert kaffi til.
@@ -4537,7 +4537,7 @@ rows:
   - icelandic: Það er ekki hægt að gera neitt í því.; Það er ekkert hægt að gera í því.
     english: There's nothing one can do about that.
     depends_on: ekki neinn
-    level: 2.2
+    level: 2
     fix: "?"
     row_id: 734
     last_seen: "2021-07-30"
@@ -4602,7 +4602,7 @@ rows:
     english: every five years
     lemmas: ár, frestur%
     depends_on: að fresta
-    level: 2.1
+    level: 2
     note: "\"Að fresta\" is to postpone. Derived from it is \"frestur\", which means \"a waiting interval\". \"Frestur\" is used to refer to things happening every X years, but also to refer to deadlines."
     row_id: 744
     last_seen: "2021-07-30"
@@ -4662,12 +4662,12 @@ rows:
     row_id: 754
     last_seen: "2021-10-14"
   - icelandic: Hann er áttræður.
-    level: 4.4
+    level: 4
     categories: time
     row_id: 755
     last_seen: "2021-10-14"
   - icelandic: Hann er níræður.
-    level: 4.4
+    level: 4
     categories: time
     row_id: 756
     last_seen: "2021-10-14"
@@ -4675,7 +4675,7 @@ rows:
     english: I'm completely exhausted.
     depends_on: búinn
     alternative_id: búinn á því
-    level: 3.3
+    level: 3
     direction: "->"
     literally: done on it
     row_id: 757
@@ -4683,7 +4683,7 @@ rows:
   - icelandic: Það er svo sem ágætt.
     english: Well∆ that's relatively fine.
     depends_on: svo sem
-    level: 3.2
+    level: 3
     importance: -2
     direction: "->"
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
@@ -4692,7 +4692,7 @@ rows:
   - icelandic: Ég veit '''s%vo s%em''' ekki alveg hvað ég ætla að gera.
     english: "'''Well'''∆ I don't quite know what I plan on doing."
     depends_on: svo sem
-    level: 3.2
+    level: 3
     importance: -2
     direction: "->"
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
@@ -4730,7 +4730,7 @@ rows:
     english: to talk (negatively) about someone behind their back
     depends_on: bak, að tala
     alternative_id: að baktala
-    level: 3.8
+    level: 3
     row_id: 764
     last_seen: "2021-08-03"
   - icelandic: að tala illa um einhvern
@@ -4749,12 +4749,12 @@ rows:
   - icelandic: Þetta kemur vel út.
     depends_on: að koma, vel, út
     alternative_id: að koma vel út
-    level: 2.4
+    level: 2
     row_id: 768
     last_seen: "2021-10-14"
   - icelandic: Þetta kemur illa út.
     depends_on: að koma vel út, illa
-    level: 2.4
+    level: 2
     row_id: 769
     last_seen: "2021-10-14"
   - icelandic: Ég veit ekki alveg hvað þú átt við.
@@ -4892,7 +4892,7 @@ rows:
   - icelandic: Láttu mig vita.
     english: Let me know.; Please inform me.
     lemmas: að láta, að vita
-    level: 2.9
+    level: 2
     note_regarding_english: "{{bhet}}"
     grammar_tags: bh
     row_id: 791
@@ -4913,7 +4913,7 @@ rows:
   - icelandic: Þú ert með krabbamein.
     english: You have cancer.
     depends_on: krabbamein
-    level: 3.2
+    level: 3
     row_id: 795
     last_seen: "2021-08-03"
   - icelandic: að ala upp
@@ -4924,7 +4924,7 @@ rows:
   - icelandic: að alast upp
     english: to grow up somewhere; to be raised in some location; to spend one's childhood in some location
     depends_on: að ala upp
-    level: 3.1
+    level: 3
     note: "\"Að ala upp\" is to raise a child, \"að alast upp\" ([[middle voice]]) is to '''be''' raised as a child."
     grammar_tags: mm
     row_id: 797
@@ -4934,7 +4934,7 @@ rows:
     lemmas: Bandaríkin, að alast upp
     depends_on: Bandaríkin, að alast upp
     alternative_id: Ég ólst upp í Bandaríkjunum., ég ólst upp
-    level: 3.1
+    level: 3
     row_id: 798
     last_seen: "2021-08-03"
   - icelandic: Börnin hans eru illa upp alin.
@@ -4947,12 +4947,12 @@ rows:
     english: I frankly did not expect that.;; I simply did not expect that.
     lemmas: að búast við
     depends_on: hreinn, hreinlega%, að búast við
-    level: 3.1
+    level: 3
     row_id: 800
     last_seen: "2021-08-03"
   - icelandic: Manst{{u}}?
     english: Do you remember?
-    level: 1.4
+    level: 1
     row_id: 801
     last_seen: "2021-07-09"
   - icelandic: Mundu að fara út með ruslið.
@@ -4972,11 +4972,11 @@ rows:
     english: He's absolutely devastated by it.; He feels terrible about it.
     lemmas: rusl
     depends_on: rusl
-    level: 3.5
+    level: 3
     importance: -1
     direction: "->"
     row_id: 805
-    last_seen: "2021-08-03"
+    last_seen: "2021-11-10"
   - icelandic: strax
     english: immediately
     level: 1
@@ -5006,7 +5006,7 @@ rows:
     english: Thank God!
     lemmas: Guð, að vera, lof%
     depends_on: Guð
-    level: 3.3
+    level: 3
     dont_confuse: að lofa
     literally: Praise should be given to God.
     row_id: 811
@@ -5027,7 +5027,7 @@ rows:
     english: Take your socks off.
     lemmas: að fara, sokkur
     depends_on: sokkur, að fara úr
-    level: 2.2
+    level: 2
     note_regarding_english: "{{bhet}}"
     grammar_tags: bh
     row_id: 815
@@ -5058,14 +5058,14 @@ rows:
   - icelandic: vinkona
     english: a female friend
     depends_on: vinur, kona
-    level: 1.5
+    level: 1
     note: "\"Vinkona\" is pronounced \"v'''í'''nkona\"."
     row_id: 819
     last_seen: "2021-07-09"
   - icelandic: vinkonur
     english: female friends
     depends_on: vinkona
-    level: 1.6
+    level: 1
     pronunciation: v'''í'''nkonur
     row_id: 820
     last_seen: "2021-07-09"
@@ -5096,13 +5096,13 @@ rows:
   - icelandic: rassinn
     english: the ass; the butt; the buttocks
     lemmas: rass%
-    level: 2.2
+    level: 2
     row_id: 825
     last_seen: "2021-07-30"
   - icelandic: gatið
     english: the hole
     lemmas: gat%
-    level: 2.7
+    level: 2
     importance: -2
     dont_confuse: að geta
     note_regarding_english: Referring to a hole in clothes or in the wall, but not a hole in the ground.
@@ -5112,13 +5112,13 @@ rows:
     english: the asshole
     lemmas: rassgat%
     depends_on: rass, gat
-    level: 2.9
+    level: 2
     note_regarding_english: Only referring to the anatomical part and not referring to behaving like a jerk.
     row_id: 827
     last_seen: "2021-07-30"
   - icelandic: að flokka
     english: to sort; to classify
-    level: 3.5
+    level: 3
     row_id: 828
     last_seen: "2021-08-03"
   - icelandic: baunirnar
@@ -5132,7 +5132,7 @@ rows:
     english: to take a shower
     lemmas: sturta
     alternative_id: sturta
-    level: 2.5
+    level: 2
     dont_confuse: að sturta
     row_id: 831
     last_seen: "2021-07-30"
@@ -5251,13 +5251,13 @@ rows:
   - icelandic: örvhentur
     english: left-handed
     depends_on: hönd
-    level: 4.2
+    level: 4
     row_id: 852
     last_seen: "2021-08-03"
   - icelandic: rétthentur
     english: right-handed
     depends_on: hönd, rétt
-    level: 4.2
+    level: 4
     dont_confuse: örvhentur
     row_id: 853
     last_seen: "2021-08-03"
@@ -5279,7 +5279,7 @@ rows:
   - icelandic: j*arðarför
     english: a funeral; a burial
     depends_on: jörð, að fara
-    level: 3.8
+    level: 3
     literally: the act of going into the earth
     row_id: 856
     last_seen: "2021-07-31"
@@ -5330,7 +5330,7 @@ rows:
     english: It is not possible to drive slowly here.; Driving slowly here is not doable.
     lemmas: hægt, hægur
     depends_on: hægur, að keyra
-    level: 1.3
+    level: 1
     row_id: 864
     last_seen: "2021-07-30"
   - icelandic: að líta niður á einhvern
@@ -5353,7 +5353,7 @@ rows:
     lemmas: að kunna vel við
     depends_on: að kunna
     alternative_id: að kunna vel við
-    level: 3.3
+    level: 3
     dont_confuse: að kunna við
     note_regarding_english: Refers to you being able to get along with someone. It is slightly formal or distant and does not refer to liking someone romantically.
     row_id: 867
@@ -5535,7 +5535,7 @@ rows:
   - icelandic: Ég er glaðvakandi.
     english: I am wide awake.; I am fully awake.
     depends_on: vakandi
-    level: 3.5
+    level: 3
     row_id: 902
     last_seen: "2021-07-10"
   - icelandic: Hvað er þetta e*iginlega*?
@@ -6090,7 +6090,7 @@ rows:
     row_id: 999
     last_seen: "2021-08-03"
   - icelandic: Sonur minn er tveggja og hálfs árs.
-    level: 3.5
+    level: 3
     note: "\"Ár\" is here in singular because \"a half\" is singular."
     row_id: 1000
     last_seen: "2021-10-14"
@@ -6168,7 +6168,7 @@ rows:
   - icelandic: Þessi klipping fer þér vel.
     english: This haircut looks good on you.; This haircut suits you.
     lemmas: að fara einhverjum vel%
-    level: 2.7
+    level: 2
     row_id: 1011
     last_seen: "2021-07-30"
   - icelandic: á nítjándu öld
@@ -6257,7 +6257,7 @@ rows:
     last_seen: "2021-07-30"
   - icelandic: að reka fyrirtæki
     english: to run a company
-    level: 3.5
+    level: 3
     row_id: 1027
     last_seen: "2021-07-10"
   - icelandic: að reka einhvern
@@ -9292,202 +9292,202 @@ rows:
   - icelandic: hér eru nokkrir menn
     english: here are a few men
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1569
     last_seen: "2021-07-10"
   - icelandic: um nokkra menn
     english: about a few men
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1570
     last_seen: "2021-07-10"
   - icelandic: frá nokkrum mönnum
     english: from a few men
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1571
     last_seen: "2021-07-10"
   - icelandic: til nokkurra manna
     english: to a few men
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1572
     last_seen: "2021-07-10"
   - icelandic: hér eru nokkrar konur
     english: here are a few women
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1573
     last_seen: "2021-07-10"
   - icelandic: um nokkrar konur
     english: about a few women
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1574
     last_seen: "2021-07-10"
   - icelandic: frá nokkrum konum
     english: from a few women
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1575
     last_seen: "2021-07-10"
   - icelandic: til nokkurra kvenna
     english: to a few women
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1576
     last_seen: "2021-07-10"
   - icelandic: hér eru nokkur börn
     english: here are a few children
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1577
     last_seen: "2021-07-10"
   - icelandic: um nokkur börn
     english: about a few children
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1578
     last_seen: "2021-07-10"
   - icelandic: frá nokkrum börnum
     english: from a few children
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1579
     last_seen: "2021-07-10"
   - icelandic: til nokkurra barna
     english: to a few children
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1580
     last_seen: "2021-07-10"
   - icelandic: Ég kem eftir nokkra daga.
     english: I'll come in a few days.
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1581
     last_seen: "2021-07-10"
   - icelandic: Þetta verður nokkurra daga ferðalag.
     english: This will be a few days' trip.
     lemmas: nokkur, dagur
-    level: 2.5
+    level: 2
     row_id: 1582
     last_seen: "2021-07-10"
   - icelandic: eftir nokkrar vikur
     english: in a few weeks
     lemmas: nokkur, vika
-    level: 2.5
+    level: 2
     row_id: 1583
     last_seen: "2021-07-10"
   - icelandic: Ég á nokkra vini á Íslandi.
     english: I have a few friends in Iceland.
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1584
     last_seen: "2021-07-10"
   - icelandic: Nokkrir vinir mínir eru í heimsókn.
     english: A few of my friends are over for a visit.
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1585
     last_seen: "2021-07-10"
   - icelandic: eftir nokkur ár
     english: in a few years
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1586
     last_seen: "2021-07-10"
   - icelandic: fyrir nokkrum árum
     english: a few years ago
     lemmas: nokkur, ár
-    level: 2.5
+    level: 2
     row_id: 1587
     last_seen: "2021-07-10"
   - icelandic: Það eru nokkrir staðir sem mig langar að heimsækja.
     english: There are a few places that I want to visit.
     lemmas: nokkur, staður
-    level: 2.5
+    level: 2
     row_id: 1588
     last_seen: "2021-07-10"
   - icelandic: Langar þig að græða nokkra þúsundkalla?
     english: Do you want to make a few bucks (ISK 1.000)?
     lemmas: nokkur, þúsundkall
     depends_on: að græða
-    level: 2.5
+    level: 2
     note: Þúsundkall is a ISK 1.000 bill.
     row_id: 1589
     last_seen: "2021-07-10"
   - icelandic: Þetta tekur nokkra mánuði.
     english: This will take a few months.
     lemmas: nokkur
-    level: 2.5
+    level: 2
     row_id: 1590
     last_seen: "2021-07-10"
   - icelandic: Ég er ekki búinn að borða neitt nema harðfisk í nokkra daga.
     english: I haven't eaten anything apart from fish jerky for a few days.
     lemmas: neinn, harðfiskur, nokkur
-    level: 2.5
+    level: 2
     row_id: 1591
     last_seen: "2021-07-10"
   - icelandic: Ég eyddi nokkrum dögum í þetta.
     english: I spent a few days on this.
     lemmas: að eyða, nokkur
     depends_on: dagur
-    level: 2.5
+    level: 2
     row_id: 1592
     last_seen: "2021-07-10"
   - icelandic: Ég mæli með að horfa á nokkra þætti á íslensku.
     english: I recommend watching a few TV shows in Icelandic.
     lemmas: nokkur, þáttur
     depends_on: að mæla með
-    level: 2.5
+    level: 2
     row_id: 1593
     last_seen: "2021-07-10"
   - icelandic: Ég ætla að kíkja niður í bæ með nokkrum vinum mínum.
     english: I'm going to go for a quick visit downtown with a few friends.
     lemmas: nokkur
     depends_on: bær
-    level: 2.5
+    level: 2
     row_id: 1594
     last_seen: "2021-07-10"
   - icelandic: nokkrum sinnum á dag
     english: a few times per day
     lemmas: nokkur
     depends_on: dagur
-    level: 2.5
+    level: 2
     row_id: 1595
     last_seen: "2021-07-10"
   - icelandic: Hún mætti nokkrum mínútum á undan þér.
     english: She showed up a few minutes before you.
     lemmas: nokkur
     depends_on: að mæta, á undan
-    level: 2.5
+    level: 2
     row_id: 1596
     last_seen: "2021-07-10"
   - icelandic: Ég hef sagt þér þetta nokkrum sinnum áður.
     english: I have told you this a few times before.
     lemmas: nokkur
     depends_on: sinnum, áður
-    level: 2.5
+    level: 2
     row_id: 1597
     last_seen: "2021-07-10"
   - icelandic: Það er nokkurra klukkutíma bið.
     english: There is a few hours' wait.; There is a few hours' delay.
     lemmas: nokkur, bið
-    level: 2.5
+    level: 2
     row_id: 1598
     last_seen: "2021-07-10"
   - icelandic: Ég geri þetta á nokkurra mánaða fresti.
     english: I do this every few months.
     lemmas: nokkur, mánuður, frestur
-    level: 2.5
+    level: 2
     row_id: 1599
     last_seen: "2021-07-10"
   - icelandic: Þú verður að gefa mér nokkurra mínútna fyrirvara.
     english: You will have to give me a few minutes' notice.
     lemmas: nokkur, fyrirvari
     depends_on: mínúta
-    level: 2.5
+    level: 2
     row_id: 1600
     last_seen: "2021-07-10"
   - icelandic: ég ætla
