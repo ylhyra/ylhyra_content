@@ -89,7 +89,7 @@ rows:
     depends_on: þangað, áðan
     level: 2
     row_id: 15
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Hvernig bíl átt{{u}}?; Hvers konar bíl átt{{u}}?
     english: What kind of a car do you own?
     lemmas: bíll, að eiga
@@ -385,7 +385,7 @@ rows:
     english: Do you still live in Akureyri?
     level: 1
     row_id: 65
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: að bæta
     english: to improve something
     level: 3
@@ -531,8 +531,10 @@ rows:
     lemmas: áhyggja
     alternative_id: áhyggja
     level: 1
+    importance: 4
+    difficulty: 2
     row_id: 89
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Ég hef áhyggjur af þessu.
     english: I'm worried about this.
     lemmas: að hafa, áhyggja, þessi
@@ -588,8 +590,10 @@ rows:
     depends_on: laus
     alternative_id: Ertu laus?, laus
     level: 1
+    importance: 5
+    difficulty: 2
     row_id: 98
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Ég er ekki laus í þessari viku.
     english: I'm not available this week.
     lemmas: þessi, vika
@@ -949,14 +953,18 @@ rows:
     english: to be going well;; {{g|for something}} to be progressing in a satisfactory manner
     depends_on: að ganga, vel
     level: 1
+    importance: 4
+    difficulty: 2
     row_id: 154
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: að ganga illa
     english: "{{g|for someone}} to be doing badly;; {{g|for something}} to be progressing in an unsatisfactory manner"
     depends_on: að ganga, illa
     level: 1
+    importance: 4
+    difficulty: 2
     row_id: 155
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Mér líður illa.
     english: I feel bad.
     lemmas: ég, að líða, illa
@@ -988,8 +996,10 @@ rows:
   - icelandic: að slaka á
     english: to relax
     level: 2
+    importance: 4
+    difficulty: 2
     row_id: 160
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: helgi
     english: a weekend
     level: 1
@@ -1010,8 +1020,10 @@ rows:
   - icelandic: Ert{{u}} á Íslandi?
     english: Are you in Iceland?
     level: 1
+    importance: 4
+    difficulty: 2
     row_id: 164
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Það er *gott veður.
     english: The weather is good.
     lemmas: góður, veður
@@ -1163,8 +1175,10 @@ rows:
     english: Is it difficult being a teacher?
     depends_on: erfitt, að vera, kennari
     level: 1
+    importance: 3
+    difficulty: 1
     row_id: 193
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Það er erfitt að vera kennari.
     english: Being a teacher is difficult.
     lemmas: erfiður
@@ -1235,7 +1249,7 @@ rows:
     depends_on: gaman, að læra, íslenska
     level: 1
     row_id: 204
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Þetta var skemmtileg mynd.
     english: This was a fun/entertaining movie.
     lemmas: skemmtilegur
@@ -1471,7 +1485,7 @@ rows:
   - icelandic: bara
     english: only;; just
     level: 1
-    importance: 2
+    importance: 5
     dont_confuse: barn, bar
     row_id: 242
     last_seen: "2021-07-01"
@@ -1602,7 +1616,7 @@ rows:
     depends_on: að drekka, kaffi
     level: 1
     row_id: 266
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: kaffi
     english: coffee
     level: 1
@@ -1868,21 +1882,25 @@ rows:
     english: to be
     level: 1
     row_id: 311
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: að vera til
-    english: to exist
+    english: to exist;; to be ready
     depends_on: að vera
     level: 1
+    importance: 4
+    difficulty: 2
     row_id: 312
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: að vera til í eitthvað
-    english: to be up for it; to be willing to do something
+    english: to be up for something; to be willing to do something
     depends_on: að vera, til, í
     alternative_id: að vera til í
     level: 2
+    importance: 5
+    difficulty: 3
     note: This meaning is unrelated to "að vera til" ("to exist").
     row_id: 313
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: tónlistin
     english: the music
     lemmas: tónlist%
@@ -1965,7 +1983,7 @@ rows:
     depends_on: að eiga
     level: 1
     row_id: 326
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Þú átt marga vini.
     english: You have many friends.
     lemmas: að eiga, margur, vinur
@@ -1995,7 +2013,7 @@ rows:
     depends_on: Þú átt bíl.
     level: 1
     row_id: 331
-    last_seen: "2021-06-29"
+    last_seen: "2021-11-10"
   - icelandic: Ég á eitt barn.
     english: I have one child.
     lemmas: að eiga, barn, einn
@@ -2039,7 +2057,7 @@ rows:
   - icelandic: tími
     english: time;; a class;; an hour
     level: 1
-    importance: 2
+    importance: 5
     row_id: 338
     last_seen: "2021-07-01"
   - icelandic: Það tekur tvo tíma.
@@ -2239,7 +2257,7 @@ rows:
     english: this evening
     depends_on: kvöld
     level: 1
-    importance: 2
+    importance: 5
     row_id: 369
     last_seen: "2021-07-01"
   - icelandic: um kvöld
@@ -2812,7 +2830,7 @@ rows:
   - icelandic: aldrei
     english: never
     level: 1
-    importance: 2
+    importance: 5
     dont_confuse: alltaf
     row_id: 457
     last_seen: "2021-07-01"
@@ -4217,7 +4235,7 @@ rows:
     icelandic: að reyna
     english: to try; to attempt
     level: 1
-    importance: 2
+    importance: 5
     row_id: 683
     last_seen: "2021-07-01"
   - icelandic: Ég er að reyna.
@@ -4352,7 +4370,7 @@ rows:
   - icelandic: Ameríka
     english: America
     level: 2
-    importance: -2
+    importance: 1
     note: Usually referring to the U.S. More colloquial than "Bandaríkin".
     row_id: 705
     last_seen: "2021-07-09"
@@ -4684,7 +4702,7 @@ rows:
     english: Well∆ that's relatively fine.
     depends_on: svo sem
     level: 3
-    importance: -2
+    importance: 1
     direction: "->"
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
     row_id: 758
@@ -4693,7 +4711,7 @@ rows:
     english: "'''Well'''∆ I don't quite know what I plan on doing."
     depends_on: svo sem
     level: 3
-    importance: -2
+    importance: 1
     direction: "->"
     note: "\"Svo sem\" only serves to add nonchalance to the sentence."
     row_id: 759
@@ -4973,7 +4991,7 @@ rows:
     lemmas: rusl
     depends_on: rusl
     level: 3
-    importance: -1
+    importance: 2
     direction: "->"
     row_id: 805
     last_seen: "2021-11-10"
@@ -4991,7 +5009,7 @@ rows:
     english: "a square (n: shape)"
     depends_on: fjórir, horn
     level: 5
-    importance: -2
+    importance: 1
     note: "\"Fer-\" is related to \"fjórir\""
     row_id: 808
     last_seen: "2021-08-03"
@@ -5103,7 +5121,7 @@ rows:
     english: the hole
     lemmas: gat%
     level: 2
-    importance: -2
+    importance: 1
     dont_confuse: að geta
     note_regarding_english: Referring to a hole in clothes or in the wall, but not a hole in the ground.
     row_id: 826
@@ -5125,7 +5143,7 @@ rows:
     english: the beans
     lemmas: baun%
     level: 3
-    importance: -2
+    importance: 1
     row_id: 829
     last_seen: "2021-07-30"
   - icelandic: að fara í sturtu
@@ -5265,7 +5283,7 @@ rows:
     english: twins
     lemmas: tvíburi%
     level: 4
-    importance: -1
+    importance: 2
     row_id: 854
     last_seen: "2021-08-03"
   - icelandic: þríburar
@@ -5273,7 +5291,7 @@ rows:
     lemmas: þríburi%
     depends_on: tvíburar
     level: 4
-    importance: -2
+    importance: 1
     row_id: 855
     last_seen: "2021-08-03"
   - icelandic: j*arðarför
@@ -5323,7 +5341,7 @@ rows:
     english: That's doable.; That's achievable.; That can be done.
     depends_on: hægt
     level: 1
-    importance: 2
+    importance: 5
     row_id: 863
     last_seen: "2021-07-01"
   - icelandic: Það er ekki hægt að keyra hægt hérna
@@ -6029,7 +6047,7 @@ rows:
   - icelandic: ex∆ ufsilon i∆ ufsilon í
     english: What is the name of the letters "X∆ Y∆ Ý"?
     level: 1
-    importance: 1
+    importance: 4
     direction: <-
     categories: alphabet
     row_id: 987
@@ -10044,7 +10062,7 @@ rows:
     english: I own a river in Iceland.
     lemmas: að eiga ("to own"), á ("a river"), á ("on")
     level: 1
-    importance: -2
+    importance: 1
     row_id: 1695
     last_seen: "2021-07-12"
   - icelandic: Er hann góður í fótbolta?
@@ -15164,7 +15182,7 @@ rows:
     english: to be 100 years old
     alternative_id: tíræður
     level: 5
-    importance: -2
+    importance: 1
     note: Very uncommon.
     row_id: 2570
     last_seen: "2021-08-01"
@@ -15610,7 +15628,7 @@ rows:
   - icelandic: að vera peppaður
     english: "to be excited; to be pumped (n: slang)"
     level: 5
-    importance: -2
+    importance: 1
     direction: "->"
     note_regarding_english: Not an important word, slang from the 2010s.
     row_id: 2642
