@@ -1791,8 +1791,9 @@ rows:
     lemmas: að vera illt, magi
     depends_on: illt, magi
     level: 2
+    pronunciation: íllt
     row_id: 298
-    last_seen: "2021-07-30"
+    last_seen: "2021-11-10"
   - icelandic: Er þér illt?
     english: Do you feel pain in some body part?
     depends_on: illt
@@ -1804,14 +1805,9 @@ rows:
     english: My toe hurts.
     lemmas: að vera illt, tá
     level: 2
+    pronunciation: íllt
     row_id: 300
-    last_seen: "2021-07-30"
-  - icelandic: Honum er illt í tönninni.
-    english: His tooth hurts.
-    depends_on: illt, tönn
-    level: 2
-    eyða: IGNORED
-    row_id: 301
+    last_seen: "2021-11-10"
   - icelandic: að búa
     english: to live somewhere; to reside
     level: 1
@@ -6988,7 +6984,7 @@ rows:
   - icelandic: sinn
     level: 1
     row_id: 1148
-    last_seen: "2021-10-14"
+    last_seen: "2021-11-10"
   - icelandic: Hann er spænskur.
     english: He is Spanish.
     alternative_id: spænskur
@@ -7166,7 +7162,7 @@ rows:
   - icelandic: ekki neinn
     level: 1
     row_id: 1186
-    last_seen: "2021-10-14"
+    last_seen: "2021-11-10"
   - icelandic: átta
     english: eight
     level: 1
@@ -11241,8 +11237,9 @@ rows:
     last_seen: "2021-07-30"
   - icelandic: illur
     level: 1
+    pronunciation: íllur
     row_id: 1907
-    last_seen: "2021-10-14"
+    last_seen: "2021-11-10"
   - icelandic: krakkinn
     english: the kid
     lemmas: krakki%
