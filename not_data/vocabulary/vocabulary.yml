@@ -1029,7 +1029,7 @@ rows:
     row_id: 153
     last_seen: "2021-07-02"
   - icelandic: að ganga vel
-    english: to be going well;; {{g|for something}} to be progressing in a satisfactory manner
+    english: to be going well;; _for something_ to be progressing in a satisfactory manner
     depends_on: að ganga, vel
     level: 1
     importance: 4
@@ -1037,7 +1037,7 @@ rows:
     row_id: 154
     last_seen: "2021-11-10"
   - icelandic: að ganga illa
-    english: "{{g|for someone}} to be doing badly;; {{g|for something}} to be progressing in an unsatisfactory manner"
+    english: "_for someone_ to be doing badly;; _for something_ to be progressing in an unsatisfactory manner"
     depends_on: að ganga, illa
     level: 1
     importance: 4
@@ -1137,7 +1137,7 @@ rows:
     row_id: 170
     last_seen: "2021-07-30"
   - icelandic: v*itlaus*
-    english: incorrect; wrong;; {{g|a}} stupid {{g|person}}
+    english: incorrect; wrong;; _a_ stupid _person_
     depends_on: að vita, laus
     level: 1
     direction: "->"
@@ -1394,7 +1394,7 @@ rows:
     eyða: IGNORED
     row_id: 212
   - icelandic: Hún ætlar að tala við mömmu *sína*.
-    english: She is going to talk to *her {{g|own}}* mom.
+    english: She is going to talk to *her _own_* mom.
     lemmas: að ætla, mamma, sinn
     level: 1
     row_id: 213
@@ -2337,7 +2337,7 @@ rows:
     row_id: 362
     last_seen: "2021-07-01"
   - icelandic: Þetta er vinur minn.
-    english: This is my {{g|(male)}} friend.
+    english: This is my _(male)_ friend.
     level: 1
     row_id: 363
     last_seen: "2021-11-10"
@@ -2510,7 +2510,7 @@ rows:
     row_id: 387
     last_seen: "2021-11-10"
   - icelandic: Langar þig að koma með?
-    english: Do you want to come along?; Do you want to come with {{g|us}}?
+    english: Do you want to come along?; Do you want to come with _us_?
     lemmas: að langa
     depends_on: að koma
     level: 1
@@ -4701,7 +4701,7 @@ rows:
     row_id: 727
     last_seen: "2021-07-01"
   - icelandic: Ég er á leiðinni í vinnuna.
-    english: I'm on my way to {{g|(my)}} job.
+    english: I'm on my way to _(my)_ job.
     lemmas: leið, vinna
     depends_on: á leiðinni
     alternative_id: Ég er á leiðinni í vinnuna., á leiðinni
@@ -6820,7 +6820,7 @@ rows:
     row_id: 1083
     last_seen: "2021-07-16"
   - icelandic: Hvernig finnst þér?
-    english: How do you like {{g|it}}?; What's your opinion {{g|of it}}?
+    english: How do you like _it_?; What's your opinion _of it_?
     lemmas: að finnast
     level: 1
     importance: 4
@@ -7114,7 +7114,7 @@ rows:
     row_id: 1127
     last_seen: "2021-07-02"
   - icelandic: að skilja
-    english: to understand;; {{g|to seperate}};; {{g|to divorce}}
+    english: to understand;; _to seperate_;; _to divorce_
     level: 1
     row_id: 1129
     last_seen: "2021-07-02"
@@ -7291,7 +7291,7 @@ rows:
     row_id: 1170
     last_seen: "2021-07-02"
   - icelandic: að f*innast*
-    english: to be of the opinion;; to be found {{g|somewhere}}
+    english: to be of the opinion;; to be found _somewhere_
     depends_on: að finna
     level: 1
     row_id: 1171
@@ -7460,7 +7460,7 @@ rows:
     row_id: 1204
     last_seen: "2021-10-13"
   - icelandic: vinur
-    english: a {{g|(male)}} friend
+    english: a _(male)_ friend
     level: 1
     row_id: 1205
     last_seen: "2021-07-02"
@@ -8036,7 +8036,7 @@ rows:
     row_id: 1321
     last_seen: "2021-07-02"
   - icelandic: að rækta
-    english: to cultivate {{g|plants}}
+    english: to cultivate _plants_
     level: 2
     row_id: 1322
     last_seen: "2021-07-02"
@@ -8104,7 +8104,7 @@ rows:
     row_id: 1335
     last_seen: "2021-10-14"
   - icelandic: að virka
-    english: to work {{g|properly}}; to function {{g|properly}}
+    english: to work _properly_; to function _properly_
     level: 2
     row_id: 1336
     last_seen: "2021-07-02"
@@ -8220,8 +8220,8 @@ rows:
     level: 2
     row_id: 1355
     last_seen: "2021-07-02"
-  - icelandic: "{{g|að vera}} fyrir ofan"
-    english: "{{g|to be}} above"
+  - icelandic: "_að vera_ fyrir ofan"
+    english: "_to be_ above"
     depends_on: yfir
     alternative_id: ofan, fyrir ofan
     level: 2
