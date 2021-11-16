@@ -1037,7 +1037,7 @@ rows:
     row_id: 154
     last_seen: "2021-11-10"
   - icelandic: að ganga illa
-    english: "_for someone_ to be doing badly;; _for something_ to be progressing in an unsatisfactory manner"
+    english: _for someone_ to be doing badly;; _for something_ to be progressing in an unsatisfactory manner
     depends_on: að ganga, illa
     level: 1
     importance: 4
@@ -7114,10 +7114,11 @@ rows:
     row_id: 1127
     last_seen: "2021-07-02"
   - icelandic: að skilja
-    english: to understand;; _to seperate_;; _to divorce_
+    english: to understand
     level: 1
+    note: Can in other contexts mean "to seperate things" or "to divorce".
     row_id: 1129
-    last_seen: "2021-07-02"
+    last_seen: "2021-11-11"
   - icelandic: að *kunna*
     english: to know how to do something
     level: 1
@@ -8220,8 +8221,8 @@ rows:
     level: 2
     row_id: 1355
     last_seen: "2021-07-02"
-  - icelandic: "_að vera_ fyrir ofan"
-    english: "_to be_ above"
+  - icelandic: _að vera_ fyrir ofan
+    english: _to be_ above
     depends_on: yfir
     alternative_id: ofan, fyrir ofan
     level: 2
@@ -9927,7 +9928,7 @@ rows:
     row_id: 1637
     last_seen: "2021-07-12"
   - icelandic: Ég veit ekki hvar hann er.
-    english: I don't knwo where he is.
+    english: I don't know where he is.
     lemmas: að vita
     level: 1
     row_id: 1638
@@ -9980,8 +9981,8 @@ rows:
     level: 1
     row_id: 1647
     last_seen: "2021-07-12"
-  - icelandic: Ég kann s*má* íslensku.
-    english: I not a little bit of Icelandic.
+  - icelandic: Ég kann s*má* í*slensku.
+    english: I know a little bit of Icelandic.
     lemmas: að kunna, íslenska
     level: 1
     row_id: 1648
@@ -12421,7 +12422,7 @@ rows:
     row_id: 2091
     last_seen: "2021-07-30"
   - icelandic: að dreifa úr sér
-    english: to spread onself out
+    english: to spread oneself out
     depends_on: að dreifa
     level: 4
     note: For example, a person may spread themselves out on the couch, or a plant may grow across a region.
@@ -12454,7 +12455,7 @@ rows:
     depends_on: að skilja
     level: 2
     row_id: 2097
-    last_seen: "2021-07-30"
+    last_seen: "2021-11-11"
   - icelandic: að vera ósáttur við eitthvað
     english: to be unhappy about some issue; to be discontent about something
     depends_on: sáttur
@@ -16463,7 +16464,7 @@ rows:
     row_id: 2749
     last_seen: "2021-08-02"
   - icelandic: að segja _eitthvað_ við _einhvern_
-    english: to say _something_ to _somone_
+    english: to say _something_ to _someone_
     lemmas: að segja
     alternative_id: að segja eitthvað við einhvern, að segja við
     level: 2
@@ -17799,7 +17800,7 @@ rows:
     row_id: 2974
     last_seen: "2021-10-14"
   - icelandic: heldur en
-    english: rathen than
+    english: rather than
     level: 3
     fix: "?"
     row_id: 2975
@@ -18441,7 +18442,7 @@ rows:
     row_id: 3095
     last_seen: "2021-10-14"
   - icelandic: Verið þæg.
-    english: Be well-behæved.
+    english: Be well-behaved.
     lemmas: að vera, þægur%
     alternative_id: verið
     level: 3
@@ -19470,7 +19471,7 @@ rows:
     row_id: 3266
     last_seen: "2021-10-13"
   - icelandic: Hvað ertu að læra?
-    english: What are you studing?; Whare are you learning?
+    english: What are you studying?; What are you learning?
     level: 1
     row_id: 3267
     last_seen: "2021-10-13"
@@ -19816,7 +19817,7 @@ rows:
     row_id: 3330
     last_seen: "2021-10-18"
   - icelandic: að vera v%el a%ð s%ér
-    english: to be knowledgable about a topic
+    english: to be knowledgeable about a topic
     level: 5
     row_id: 3331
     last_seen: "2021-10-18"
@@ -20892,7 +20893,7 @@ rows:
     row_id: 3517
     last_seen: "2021-10-18"
   - icelandic: Hvar er hann grafinn?
-    english: "Where is he buried? (n: in a cemetary)"
+    english: "Where is he buried? (n: in a cemetery)"
     lemmas: að grafa
     alternative_id: grafinn
     level: 3
