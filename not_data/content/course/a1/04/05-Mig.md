@@ -34,6 +34,6 @@ The first two [[cases]] of the [[personal pronouns]] are:
 * hér ert þú, um þig (*you*)
 * hér er hann, um hann (*he*)
 * hér er hún, um hana (*she*)
-* ég er það, um það (*it*)
+* hér er það, um það (*it*)
 
 You already recognize the second case from "mig langar" and "þig langar", the only new form here is the form "um hana".
