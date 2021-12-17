@@ -10333,7 +10333,7 @@ rows:
     level: 1
     row_id: 1707
     last_seen: "2021-07-12"
-  - icelandic: Ég ætla á vera á Íslandi í eina viku.
+  - icelandic: Ég ætla að vera á Íslandi í eina viku.
     english: I plan on being in Iceland for one week.
     lemmas: Ísland, einn, vika
     level: 1
@@ -23843,7 +23843,7 @@ sound:
     speed: slow
     speaker: E
     date: "2021-07-19"
-  - recording_of: Ég ætla á vera á Íslandi í eina viku.
+  - recording_of: Ég ætla að vera á Íslandi í eina viku.
     filename: E1_Ég_ætla_á_vera_á_Íslandi_í_eina_viku.mp3
     speed: slow
     speaker: E

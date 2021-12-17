@@ -762,7 +762,7 @@ rows:
     alternative_id: erigirse
     row_id: 190
   - icelandic: cofradía
-    english: bræðralag; söfnuður; hópur;;
+    english: bræðralag; söfnuður; hópur
     alternative_id: cofradía
     row_id: 191
   - icelandic: emprender
@@ -2936,9 +2936,10 @@ rows:
     alternative_id: ráfaga
     row_id: 731
   - icelandic: trámite
-    english: ferli;; (í fleirtölu)
+    english: ferli;; (í fleirtölu) pappírsvinna; vinnuferli
     alternative_id: trámite
     row_id: 732
+    last_seen: "2021-12-16"
   - icelandic: inquietud
     english: órói; kvíði; áhyggjur
     alternative_id: inquietud
@@ -3392,7 +3393,7 @@ rows:
     alternative_id: chusma
     row_id: 845
   - icelandic: cuerdo
-    english: heill á geði; með fulla dómgreind;; skynsamur; vitur;;
+    english: heill á geði; með fulla dómgreind;; skynsamur; vitur
     alternative_id: cuerdo
     row_id: 846
   - icelandic: bulto
@@ -6201,7 +6202,7 @@ rows:
     alternative_id: estampado
     row_id: 1545
   - icelandic: hacer la pelota (a algn)
-    english: smjaðra (fyrir einhverjum);
+    english: smjaðra (fyrir einhverjum)
     alternative_id: hacer la pelota (a algn)
     row_id: 1546
   - icelandic: tregua
@@ -6453,7 +6454,7 @@ rows:
     alternative_id: cabezota
     row_id: 1608
   - icelandic: rebozado
-    english: steiktur í raspi;
+    english: steiktur í raspi
     alternative_id: rebozado
     row_id: 1609
   - icelandic: boniato
@@ -6665,5 +6666,8 @@ rows:
   - icelandic: esc*abullirse
     english: laumast burt
     alternative_id: esc*abullirse
+    row_id: 1660
+sound: []
+
     row_id: 1660
 sound: []
