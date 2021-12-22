@@ -3247,7 +3247,7 @@ title: Data:Vestmannaeyjar
 "contains": [
 "w_xkvp81"
 ],
-"meaning": "wend"
+"meaning": "went"
 },
 "uvqqri": {
 "contains": [
