@@ -2202,18 +2202,13 @@ rows:
     level: 1
     row_id: 342
     last_seen: "2021-07-01"
-  - icelandic: Því miður.
-    english: Unfortunately not.; Sadly not.
-    level: 1
-    row_id: 343
-    last_seen: "2021-07-01"
-  - icelandic: Ég get því miður ekki hjálpað þér.
-    english: I can sadly not help you.
+  - icelandic: Ég get *því miður* ekki hjálpað þér.
+    english: Unfortunately∆ I can not help you.
     lemmas: að geta, að hjálpa, þú
-    depends_on: því miður
+    alternative_id: því miður
     level: 1
     row_id: 344
-    last_seen: "2021-07-01"
+    last_seen: "2022-01-05"
   - icelandic: Nei∆ því miður.
     english: No∆ unfortunately not.; No∆ sadly not.
     depends_on: því miður
@@ -3816,7 +3811,7 @@ rows:
   - icelandic: Hann vill fá að tala við þig.
     level: 2
     row_id: 584
-    last_seen: "2021-10-14"
+    last_seen: "2022-01-05"
   - icelandic: D*rífðu* þ*ig*.
     english: Hurry up!
     lemmas: að drífa sig%
@@ -9893,11 +9888,11 @@ rows:
     row_id: 1631
     last_seen: "2021-07-12"
   - icelandic: „Ætlar{{ðu}} að koma?“ „Já∆ ég ætla að koma.“
-    english: "\"Don't you plan on coming?\" \"Yes∆ I plan on coming.\""
+    english: "\"Do you plan on coming?\" \"Yes∆ I plan on coming.\""
     lemmas: að ætla
     level: 1
     row_id: 1632
-    last_seen: "2021-07-12"
+    last_seen: "2022-01-05"
   - icelandic: „Ætlar{{ðu}} ekki að koma?“ „Jú∆ ég ætla að koma.“
     english: "\"Don't you plan on coming?\" \"Yes∆ I plan on coming.\""
     lemmas: að ætla
@@ -11515,7 +11510,7 @@ rows:
   - icelandic: hinn
     level: 1
     row_id: 1918
-    last_seen: "2021-10-14"
+    last_seen: "2022-01-05"
   - icelandic: langt
     level: 1
     eyða: IGNORED
