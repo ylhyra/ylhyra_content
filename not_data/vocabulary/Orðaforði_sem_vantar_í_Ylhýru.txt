@@ -852,3 +852,7 @@ mér líður miklu betur
 Klukkan er orðin margt. = It is late.
 Er þetta ekki komið gott? = Is this not sufficient by now? (Meaning, shall we call it a day and quit?)
 
+
+fyrir utan
+ekki fyrr en á morgun
+skónna (er ekki með [dn])

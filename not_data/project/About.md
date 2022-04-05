@@ -21,7 +21,7 @@ Ylhýra is a collaborative project that publishes material and software for Icel
 ## Authors
 <Image src="Eliza og Ylhýra.jpg" link="Project:Eliza Reid" position="right" caption="Ylhýra with [[Project:Eliza Reid|Eliza Reid]], First Lady of Iceland, who herself has Icelandic as a second language."/>
 
-*Egill <i><small>[mailto:egill@egill.xyz (email)]</small></i>
+*Egill
 *Anna Steinunn Ingólfsdóttir
 *Magnús Jochum Pálsson
 *Zoë Vala Sands
@@ -42,9 +42,6 @@ The project has been supported by the Municipality of Kópavogur, Landsvirkjun, 
 <br/>
 <Image src="Loftmynd 2.jpg" width="600"/>
 <div class="sans-serif gray center small">
-Ylhýra <span title="Einkahlutafélag (Icelandic private company)">ehf.</span>
-<br/>
-<span title="Kennitala (Icelandic identification number)">kt.</span> 480520-0170
 <br/>
 [mailto:ylhyra@ylhyra.is ylhyra@ylhyra.is]
 <br/>
