@@ -9,7 +9,7 @@ classes:
 - small-screen
 ---
 
-<SignupSteps/>
+<!--<SignupSteps/>-->
 ## Create an account
 Creating an account allows you to save your vocabulary progress and continue the game on other devices. Creating an account is free.
 

@@ -1,0 +1,312 @@
+rows:
+  - icelandic: der Anfänger
+    english: byrjandinn
+    alternative_id: der Anfänger
+    row_id: 1
+  - icelandic: anfangen
+    english: að byrja
+    alternative_id: anfangen
+    row_id: 2
+  - icelandic: spannend
+    english: spennandi
+    alternative_id: spannend
+    row_id: 3
+  - icelandic: entspannend
+    english: slakandi
+    alternative_id: entspannend
+    row_id: 4
+  - icelandic: der Zug
+    english: lestin
+    alternative_id: der Zug
+    row_id: 5
+  - icelandic: a*nstrengend
+    english: mjög þreytandi
+    alternative_id: a*nstrengend
+    row_id: 6
+  - icelandic: Hast du dort Bier getrunken?
+    english: Drakkstu bjór þar?
+    alternative_id: Hast du dort Bier getrunken?
+    row_id: 7
+  - icelandic: lout
+    english: með hávaða
+    alternative_id: lout
+    row_id: 8
+  - icelandic: ich hatte Unterricht
+    english: ég var í tíma;; ég fékk kennslu
+    row_id: 9
+  - icelandic: Wie lang nimmst du schon Indonesischunterricht?
+    english: Hversu lengi hefurðu tekið indónesískutíma?
+    alternative_id: Wie lang nimmst du schon Indonesischunterricht?
+    note: "nehmen = að taka"
+    row_id: 10
+  - icelandic: Ich habe einen Freund∆ der
+    english: Ég á vin∆ sem
+    row_id: 11
+  - icelandic: Alle meine Freunde sind schon einmal nach Bali gereist.
+    english: Allir vinir mínir hafa ferðast til Balí.
+    alternative_id: Alle meine Freunde sind schon einmal nach Bali gereist.
+    row_id: 12
+  - icelandic: der Schüler
+    english: nemandinn
+    alternative_id: der Schüler
+    row_id: 13
+  - icelandic: zwischen
+    english: á milli
+    alternative_id: zwischen
+    row_id: 14
+  - icelandic: der einzige den ich kenne
+    english: sá eini sem ég þekki
+    alternative_id: der einzige den ich kenne
+    row_id: 15
+  - icelandic: fast alles
+    english: næstum því allt
+    alternative_id: fast alles
+    row_id: 16
+  - icelandic: Wir sind uns nicht einig.
+    english: Við erum ósammála.
+    alternative_id: Wir sind uns nicht einig.
+    row_id: 17
+  - icelandic: Ich bin allein diese Woche.
+    english: Ég er einn þessa vikuna.
+    alternative_id: Ich bin allein diese Woche.
+    row_id: 18
+  - icelandic: ruhig
+    english: rólegt
+    alternative_id: ruhig
+    row_id: 19
+  - icelandic: das Dorf
+    english: þorpið
+    alternative_id: das Dorf
+    row_id: 20
+  - icelandic: Ich habe versucht ein Bild mit Ölfarben zu malen.
+    english: Ég reyndi að mála mynd með olíulitum.
+    alternative_id: Ich habe versucht ein Bild mit Ölfarben zu malen.
+    row_id: 21
+  - icelandic: "*die Übun*g"
+    english: æfingin
+    alternative_id: "*die Übun*g"
+    row_id: 22
+  - icelandic: der Geschäftsmann
+    english: bisnissmaðurinn
+    alternative_id: der Geschäftsmann
+    row_id: 23
+  - icelandic: du weißt
+    english: þú veist
+    alternative_id: du weißt
+    row_id: 24
+  - icelandic: Hast du eine gute Woche gehabt?
+    english: Var vikan þín góð
+    alternative_id: Hast du eine gute Woche gehabt?
+    row_id: 25
+  - icelandic: er ist teuer
+    english: hann er dýr
+    alternative_id: er ist teuer
+    row_id: 26
+  - icelandic: der Durchschnitt
+    english: meðaltalið
+    alternative_id: der Durchschnitt
+    row_id: 27
+  - icelandic: Ich kann mich *nicht daran erinnern*
+    english: Ég man ekki
+    alternative_id: Ich kann mich *nicht daran erinnern*
+    row_id: 28
+  - icelandic: Was kann man in Bonn machen?
+    english: Hvað getur maður gert í Bonn?
+    alternative_id: Was kann man in Bonn machen?
+    row_id: 29
+  - icelandic: der Baum
+    english: tréð
+    alternative_id: der Baum
+    row_id: 30
+  - icelandic: Es gibt so viel∆ das man nicht weiß.
+    english: Það er svo margt sem maður veit ekki.
+    alternative_id: Es gibt so viel; das man nicht weiß.
+    row_id: 31
+  - icelandic: Ich habe noch nie indonesische Filme gesehen.
+    english: Ég hef aldrei séð indónesíska bíómynd.
+    alternative_id: Ich habe noch nie indonesische Filme gesehen.
+    row_id: 32
+  - icelandic: Ich gucke gerne
+    english: Mér finnst gaman að horfa á
+    alternative_id: Ich gucke gerne
+    row_id: 33
+  - icelandic: gewöhnen
+    english: að venjast
+    alternative_id: gewöhnen
+    row_id: 34
+  - icelandic: Es hat *viele Jahre gedauert.
+    english: Það tók mörg ár.
+    alternative_id: Es hat *viele Jahre gedauert.
+    row_id: 35
+  - icelandic: Das klingt interessant.
+    english: Það hljómar áhugavert.
+    alternative_id: Das klingt interessant.
+    row_id: 36
+  - icelandic: Ich habe angefangen.
+    english: Ég er byrjaður.
+    alternative_id: Ich habe angefangen.
+    row_id: 37
+  - icelandic: Welche Art von Musik?
+    english: Hvers konar tónlist?
+    alternative_id: Welche Art von Musik?
+    row_id: 38
+  - icelandic: Du sprichst so viel Japanisch∆ '''dass''' du das verstehen kannst?
+    english: Þú talar það japönsku '''að''' þú getur skilið hana?
+    alternative_id: Du sprichst so viel Japanisch; '''dass''' du das verstehen kannst?
+    row_id: 39
+  - icelandic: Ich habe gehört∆ '''dass''' du krank bist.
+    english: Ég heyrði '''að''' þú værir veikur.
+    alternative_id: Ich habe gehört; '''dass''' du krank bist.
+    row_id: 40
+  - icelandic: seit ich klein bin
+    english: frá því að ég var lítill
+    alternative_id: seit ich klein bin
+    row_id: 41
+  - icelandic: vor vielen Jahren
+    english: fyrir mörgum árum
+    alternative_id: vor vielen Jahren
+    row_id: 42
+  - icelandic: Warst du schon mal in Island?
+    english: Hefurðu komið til Íslands?
+    alternative_id: Warst du schon mal in Island?
+    row_id: 43
+  - icelandic: Meine Nachbarin hat einen thailändischen Mann.
+    english: Nágrannakona mín á tælanskan mann.
+    alternative_id: Meine Nachbarin hat einen thailändischen Mann.
+    row_id: 44
+  - icelandic: Ihr Mann spricht gutes Isländisch.
+    english: Maðurinn hennar talar góða íslensku.
+    alternative_id: Ihr Mann spricht gutes Isländisch.
+    row_id: 45
+  - icelandic: Sie sieht aus∆ wie die Art Mädchen∆ die Spiritualität mag.
+    english: Hún lítur út fyrir að vera þannig gella sem fílar spiritúalisma.
+    alternative_id: Sie sieht aus; wie die Art Mädchen; die Spiritualität mag.
+    row_id: 46
+  - icelandic: Es ist zu offensichtlich dass Sie nicht Isländerin ist∆ weil Sie mit ihren Nachbarn redet.
+    english: Það er mjög greinilegt að hún er ekki Íslendingur þar sem hún talar við nágrannana sína.
+    alternative_id: Es ist zu offensichtlich dass Sie nicht Isländerin ist; weil Sie mit ihren Nachbarn redet.
+    row_id: 47
+  - icelandic: Es ist nicht üblich.
+    english: Það er ekki venjan.
+    alternative_id: Es ist nicht üblich.
+    row_id: 48
+  - icelandic: obwohl
+    english: jafvel þó
+    alternative_id: obwohl
+    row_id: 49
+  - icelandic: Redest du mit deinen Nachbarn?
+    english: Talar þú við nágrannana þína?
+    alternative_id: Redest du mit deinen Nachbarn?
+    row_id: 50
+  - icelandic: Ich sollte meine Nachbarn besuchen.
+    english: Ég ætti að heimsækja nágrannana mína.
+    alternative_id: Ich sollte meine Nachbarn besuchen.
+    row_id: 51
+  - icelandic: einladen
+    english: að bjóða
+    alternative_id: einladen
+    row_id: 52
+  - icelandic: Vielleicht sollte ich sie einladen∆ zum Ski fahren.
+    english: Kannski ætti ég að bjóða henni á skíði.
+    alternative_id: Vielleicht sollte ich sie einladen; zum Ski fahren.
+    note: "[zum"
+    row_id: 53
+  - icelandic: wütend
+    english: reiður
+    alternative_id: wütend
+    row_id: 54
+  - icelandic: genervt
+    english: pirraður
+    alternative_id: genervt
+    row_id: 55
+  - icelandic: ich hab getroffen
+    english: ég hef hitt
+    alternative_id: ich hab getroffen
+    row_id: 56
+  - icelandic: Willst du nach Vietnam gehen?
+    english: Langar þig að fara til Víetnam?
+    alternative_id: Willst du nach Vietnam gehen?
+    row_id: 57
+  - icelandic: Ich kenne Leute∆ die nach Thailand gereist sind∆ aber niemanden∆ der nach Vietnam gereist ist.
+    english: Ég þekki fólk sem hefur ferðast til Tælands∆ en engann sem hefur ferðast til Víetnam.
+    alternative_id: Ich kenne Leute; die nach Thailand gereist sind; aber niemanden; der nach Vietnam gereist ist.
+    row_id: 58
+  - icelandic: noch nie
+    english: ekki enn
+    alternative_id: noch nie
+    row_id: 59
+  - icelandic: fortsetzen
+    english: að halda áfram
+    alternative_id: fortsetzen
+    row_id: 60
+  - icelandic: Setzt du den Plan fort?
+    english: Ætlarðu að halda áfram með það plan?
+    alternative_id: Setzt du den Plan fort?
+    row_id: 61
+  - icelandic: Ich gucke '''gar''' keine Anime.
+    english: Ég horfi '''alls''' ekki á neitt anime.
+    alternative_id: Ich gucke '''gar''' keine Anime.
+    row_id: 62
+  - icelandic: gar kein
+    english: alls ekkert
+    alternative_id: gar kein
+    row_id: 63
+  - icelandic: Wirst du in Japan wohnen?
+    english: Munt þú búa í Japan?
+    alternative_id: Wirst du in Japan wohnen?
+    note: "werden = að munu"
+    row_id: 64
+  - icelandic: werden
+    english: að verða;; að munu
+    alternative_id: werden
+    row_id: 65
+  - icelandic: die Miete bezahlen
+    english: að borga leiguna
+    alternative_id: die Miete bezahlen
+    row_id: 66
+  - icelandic: weniger
+    english: færri
+    alternative_id: weniger
+    row_id: 67
+  - icelandic: billig
+    english: ódýrt
+    alternative_id: billig
+    row_id: 68
+  - icelandic: Es kostet mehr in den Norden von Island zu reisen∆ als nach Spanien.
+    english: Það kostar meira að ferðast til Norður-Íslands en til Spánar.
+    alternative_id: Es kostet mehr in den Norden von Island zu reisen; als nach Spanien.
+    row_id: 69
+  - icelandic: das Polen
+    english: Pólandið
+    alternative_id: das Polen
+    row_id: 70
+  - icelandic: lange dauern
+    english: að taka langan tíma
+    alternative_id: lange dauern
+    row_id: 71
+  - icelandic: Ich war nicht zuhause; als
+    english: Ég var ekki heima þegar
+    alternative_id: Ich war nicht zuhause; als
+    row_id: 72
+  - icelandic: Bist du mal nach Spanien gereist?
+    english: Hefurðu einhvern tímann ferðast til Spánar?
+    alternative_id: Bist du mal nach Spanien gereist?
+    row_id: 73
+  - icelandic: "*schwieri*g"
+    english: erfitt
+    alternative_id: "*schwieri*g"
+    note: "[samheiti: schwer]"
+    row_id: 74
+  - icelandic: schwieriger
+    english: erfiðara
+    alternative_id: schwieriger
+    row_id: 75
+  - icelandic: Die Flüge auf die Insel sind sehr teuer.
+    english: Flugin út í eyjuna eru mjög dýr.
+    alternative_id: Die Flüge auf die Insel sind sehr teuer.
+    row_id: 76
+  - icelandic: faul
+    english: latur
+    alternative_id: faul
+    row_id: 77
+sound: []
