@@ -11,28 +11,28 @@ title: Template:Declension singular and plural
 <th>[[Plural]]
 </th></tr>
 <tr>
-<th>[[First case]]
+<th>[[First case|Nom.]]
 </th>
 <td><small>[[hér er]] $1</small>
 </td>
 <td><small>[[hér eru]] $5</small>
 </td></tr>
 <tr>
-<th>[[Second case]]
+<th>[[Second case|Acc.]]
 </th>
 <td><small>[[um]] $2</small>
 </td>
 <td><small>[[um]] $6</small>
 </td></tr>
 <tr>
-<th>[[Third case]]
+<th>[[Third case|Dat.]]
 </th>
 <td><small>[[frá]] $3</small>
 </td>
 <td><small>[[frá]] $7</small>
 </td></tr>
 <tr>
-<th>[[Fourth case]]
+<th>[[Fourth case|Gen.]]
 </th>
 <td><small>[[til]] $4</small>
 </td>

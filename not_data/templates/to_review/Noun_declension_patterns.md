@@ -12,14 +12,14 @@ title: Template:Noun declension patterns
     <th rowspan="2"></th>
   </tr>
   <tr>
-    <th>[[First_case|1st]]</th>
-    <th>[[Second_case|2nd]]</th>
-    <th>[[Third_case|3rd]]</th>
-    <th>[[Fourth_case|4th]]</th>
-    <th>[[First_case|1st]]</th>
-    <th>[[Second_case|2nd]]</th>
-    <th>[[Third_case|3rd]]</th>
-    <th>[[Fourth_case|4th]]</th>
+    <th>[[First_case|Nom.]]</th>
+    <th>[[Second_case|Acc.]]</th>
+    <th>[[Third_case|Dat.]]</th>
+    <th>[[Fourth_case|Gen.]]</th>
+    <th>[[First_case|Nom.]]</th>
+    <th>[[Second_case|Acc.]]</th>
+    <th>[[Third_case|Dat.]]</th>
+    <th>[[Fourth_case|Gen.]]</th>
   </tr>
   <tr>
     <th><u>FISKUR</u></th>

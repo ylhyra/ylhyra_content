@@ -1,7 +1,7 @@
 ---
-title: Third case
+title: Dative
 redirects:
-- Dative
+- Third case
 - Dative case
 - Þgf
 - Þágufall
@@ -12,14 +12,14 @@ license: CC0
 reviewed: no
 ---
 
-There are four [[cases]] in Icelandic. The '''third case''' in the [[declension table]] is known as the "dative case".<note>On Ylhýra we refer to it as the "third case" for simplicity's sake since you will always see these four cases listed in the same order in the [[declension table]].
+# Dative case – the third case
 
-In Icelandic the first case is called '''þágufall''' and is abbreviated as '''þgf.''' Þágufall literally means "receiving case". The English name "dative" means "appropriate for giving" in Latin.</note> It shows that the word has something or is being given something.
+There are four [[cases]] in Icelandic. The third case in the [[declension table]] is the '''dative case'''.<note>Known as '''þágufall''' in Icelandic, abbreviated as '''þgf.''' Þágufall literally means "receiving case". The word "dative" means "appropriate for giving" in Latin.</note> It shows that the word has something or is being given something.
 
-The [[helper word]] you use to force a word into the third case is „frá“ ("from").
+The [[helper word]] you use to force a word into the dative case is „frá“ ("from").
 
 ## Things that cause the third case
-The following [[prepositions]] always [[Prepositions that cause cases|cause]] the third case:
+The following [[prepositions]] always [[Prepositions that cause cases|cause]] the dative case:
 
 *frá (from)
 *hjá (by)
@@ -27,7 +27,7 @@ The following [[prepositions]] always [[Prepositions that cause cases|cause]] th
 *handa (for)
 *á móti (against)
 
-And these prepositions can either cause the [[Second case|second]] or the third case depending on context (click [[Prepositions that cause cases|here]] to see the difference):
+And these prepositions can either cause the [[accusative case]] (the second case) or the dative case (the third case) depending on context (click [[Prepositions that cause cases|here]] to see the difference):
 
 *á (on)
 *eftir (after)
@@ -38,7 +38,7 @@ And these prepositions can either cause the [[Second case|second]] or the third 
 *við (to someone)
 *yfir (above)
 
-[[Cases caused by verbs|Verbs that cause the third case]] include:
+[[Cases caused by verbs|Verbs that cause the dative case]] include:
 
 *að svara (to respond)
 *að kynnast (to get to know someone)
