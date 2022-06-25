@@ -23,4 +23,4 @@ In the same way that the English word "she" turns into "her" depending on what's
 
 The grammar of "mig langar" is fairly confusing – it's "''**me** wants''" instead of "''**I** want''". The reason behind it<note>The reason is that "að langa" is an [[impersonal verb]].</note> is not important right now.
 
-The [[accusative case]] (second case) of "þú" (*you*) is "þig", so "you want" is "þig langar".
+The [[accusative case]] (the second case) of "þú" (*you*) is "þig", so "you want" is "þig langar".

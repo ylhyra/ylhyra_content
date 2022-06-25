@@ -30,7 +30,7 @@ Langar vin þinn að koma með?
 
 # Second case of the masculine definite article
 
-The [[definite article]] "hinn" has the same form in the [[first case|first]] and [[accusative case]] (second case) for [[masculine]] [[singular]] [[noun]]s. As you know, you create the first case like so:
+The [[definite article]] "hinn" has the same form in the [[first case|first]] and [[accusative case]] (the second case) for [[masculine]] [[singular]] [[noun]]s. As you know, you create the first case like so:
 * hér er hamborgari + {{g|h}}inn -> hér er hamborgari**nn** (here is **the** hamburger).
 
 The second case then follows the same pattern:

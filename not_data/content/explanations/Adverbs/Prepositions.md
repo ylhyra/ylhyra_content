@@ -45,7 +45,7 @@ The following prepositions always cause words to be in the [[Genitive|'''fourth 
 ## Prepositions that can either cause the second or the third case
 Several prepositions can cause either the [[accusative case]] (the second case) or the [[dative case]] (the third case) depending on context. A general rule is that:
 
-*The [[accusative case]] (second case) {{þf}} indicates that the subject is moving relative to the object.
+*The [[accusative case]] (the second case) {{þf}} indicates that the subject is moving relative to the object.
 *The [[dative case]] (the third case) {{þgf}} indicates that the subject is ''not'' moving relative to the object.
 
 The words are:
