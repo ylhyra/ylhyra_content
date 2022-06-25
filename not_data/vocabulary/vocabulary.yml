@@ -364,7 +364,7 @@ rows:
     lemmas: þú, heitur
     alternative_id: mér er heitt
     level: 1
-    note: Notice that "þér" is in the [[third case]] and "heitt" is [[neuter]]. This is an uncommon type of phrase, the reason is that it describes someone's feelings, making it a "Is it hot unto you?"
+    note: Notice that "þér" is in the [[dative case]] (the third case) and "heitt" is [[neuter]]. This is an uncommon type of phrase, the reason is that it describes someone's feelings, making it a "Is it hot unto you?"
     row_id: 57
     last_seen: "2021-08-02"
   - icelandic: Mér er kalt.
@@ -3495,7 +3495,7 @@ rows:
     english: There are 100 people who live in this town.
     lemmas: maður, hundrað, að búa
     level: 1
-    note: "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]]."
+    note: "\"Menn\" in the [[nominative case]] (the first case) means \"men\" in this context, but \"people\" if it's in the [[genitive case]] (the fourth case)."
     row_id: 535
     last_seen: "2021-07-01"
   - icelandic: Það eru fimm *manns* hérna.
@@ -3503,7 +3503,7 @@ rows:
     depends_on: maður, fimm
     alternative_id: manns
     level: 1
-    note: "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]]."
+    note: "\"Menn\" in the [[nominative case]] (the first case) means \"men\" in this context, but \"people\" if it's in the [[genitive case]] (the fourth case)."
     row_id: 536
     last_seen: "2021-07-29"
   - icelandic: Það eru fimm *menn* hérna.
@@ -3512,7 +3512,7 @@ rows:
     depends_on: maður, fimm
     level: 1
     dont_confuse: Það eru fimm manns hérna.
-    note: "\"Menn\" in the [[first case]] means \"men\" in this context, but \"people\" if it's in the [[fourth case]]."
+    note: "\"Menn\" in the [[nominative case]] (the first case) means \"men\" in this context, but \"people\" if it's in the [[genitive case]] (the fourth case)."
     row_id: 537
     last_seen: "2021-07-30"
   - icelandic: Ég gleymdi því.

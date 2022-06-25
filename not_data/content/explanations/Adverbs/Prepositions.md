@@ -43,18 +43,18 @@ The following prepositions always cause words to be in the [[Genitive|'''fourth 
 ***
 
 ## Prepositions that can either cause the second or the third case
-Several prepositions can cause either the [[second case]] or the [[third case]] depending on context. A general rule is that:
+Several prepositions can cause either the [[accusative case]] (the second case) or the [[dative case]] (the third case) depending on context. A general rule is that:
 
-*The [[second case]] {{þf}} indicates that the subject is moving relative to the object.
-*The [[third case]] {{þgf}} indicates that the subject is ''not'' moving relative to the object.
+*The [[accusative case]] (second case) {{þf}} indicates that the subject is moving relative to the object.
+*The [[dative case]] (the third case) {{þgf}} indicates that the subject is ''not'' moving relative to the object.
 
 The words are:
 ***
 
 '''á''' (onto; on)
 
-*If the subject is in the [[second case]] {{þf}} , then the object is moving ''onto'' the subject.
-*If the subject is in the [[third case]] {{þgf}} , then the object is already ''on'' the subject and is not moving.
+*If the subject is in the [[accusative case]] (the second case) {{þf}} , then the object is moving ''onto'' the subject.
+*If the subject is in the [[dative case]] (the third case) {{þgf}} , then the object is already ''on'' the subject and is not moving.
 
 Examples:
 
@@ -71,8 +71,8 @@ Examples:
 
 Most of the uses of the word eftir appear in idiom-like phrases, but otherwise:
 
-*If the subject is in the [[second case]] {{þf}} , the subject is comes after the object in time or is created by the object.
-*If the subject is in the [[third case]] {{þgf}} , the object is usually behind the subject in space.
+*If the subject is in the [[accusative case]] (the second case) {{þf}} , the subject is comes after the object in time or is created by the object.
+*If the subject is in the [[dative case]] (the third case) {{þgf}} , the object is usually behind the subject in space.
 
 Examples:
 
@@ -92,8 +92,8 @@ Word phrases that include this preposition include:
 
 '''fyrir''' (for, before; standing in the way of)
 
-*If the subject is in the [[second case]] {{þf}} , the object is going to be given to the subject and so there is an imagined "movement" to the subject. This can also indicate a relationship in time.
-*If the subject is in the [[third case]] {{þgf}} , the subject is standing still and is standing in the way of the object.
+*If the subject is in the [[accusative case]] (the second case) {{þf}} , the object is going to be given to the subject and so there is an imagined "movement" to the subject. This can also indicate a relationship in time.
+*If the subject is in the [[dative case]] (the third case) {{þgf}} , the subject is standing still and is standing in the way of the object.
 
 Examples
 
@@ -124,8 +124,8 @@ Examples
 
 '''í''' (in, into; inside of)
 
-*If the subject is in the [[second case]] {{þf}} , there is movement ''into'' it. Can also discuss time spans.
-*If the subject is in the [[third case]] {{þgf}} , the object is already ''inside of'' it.
+*If the subject is in the [[accusative case]] (the second case) {{þf}} , there is movement ''into'' it. Can also discuss time spans.
+*If the subject is in the [[dative case]] (the third case) {{þgf}} , the object is already ''inside of'' it.
 
 Examples:
 
@@ -169,7 +169,7 @@ Examples:
 *Ég tala við þig {{þf}} á eftir = I'll talk to you later.
 *Hann er góður við mig {{þf}} = He is good to me
 
-The [[third case]] can be seen in some word phrases:
+The [[dative case]] (the third case) can be seen in some word phrases:
 
 *Verður einhver heima til að taka við mér? {{þgf}} = Will someone be home to receive me?
 *Viðbrögð við laginu {{þgf}} hafa ekki látið á sér standa. = Reactions to the song have been immense.
@@ -184,8 +184,8 @@ The [[third case]] can be seen in some word phrases:
 *Flugvélin fer yfir húsið {{þf}} = The airplane goes over the house. There is movement.
 *Flugvélin er yfir húsinu {{þgf}} = The airplane is above the house. There is ''no'' movement.
 
-  
 
-## See also 
+
+## See also
 
 * [[Verbs that cause cases|Verbs and the cases they cause]]

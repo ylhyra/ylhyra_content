@@ -22,7 +22,7 @@ Because this term is so blunt, you have to be careful never to use it when askin
 
 Because of this, it's the word you should use when describing what you want. It's more polite and has a much less demanding tone than "ég vil".
 
-"Mig langar" is one of the [[Impersonal verb|rare words]] where you don't use the [[first case]] ("ég"), instead you use the second case ("mig").<note>To get a sense for why the [[second case]] is used, you can imagine the phrase "'''Mig''' langar að fara" being "It interests '''me''' to go."</note> The "langar" part [[Impersonal verb|doesn't change]] its form depending on who it applies to.
+"Mig langar" is one of the [[Impersonal verb|rare words]] where you don't use the [[nominative case]] (the first case) ("ég"), instead you use the second case ("mig").<note>To get a sense for why the [[accusative case]] (the second case) is used, you can imagine the phrase "'''Mig''' langar að fara" being "It interests '''me''' to go."</note> The "langar" part [[Impersonal verb|doesn't change]] its form depending on who it applies to.
 
 Opposite to "ég vil", with "mig langar" you do use the "að" part for the verb that comes after it:
 

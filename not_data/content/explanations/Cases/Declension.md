@@ -19,10 +19,10 @@ Nobody actually remembers this table by heart, instead people construct some sen
 
 The helper sentences you use for this are:
 
-* ''hér er'' = here is. This sentence will always need a word in the [[first case]].
-* ''um'' = about. This word will always need a word in the [[second case]].
-* ''frá'' = from. This word will always need a word in the [[third case]].
-* ''til'' = to. This word will always need a word in the [[fourth case]].
+* ''hér er'' = here is. This sentence will always need a word in the [[nominative case]] (the first case).
+* ''um'' = about. This word will always need a word in the [[accusative case]] (the second case).
+* ''frá'' = from. This word will always need a word in the [[dative case]] (the third case).
+* ''til'' = to. This word will always need a word in the [[genitive case]] (the fourth case).
 
 And since the declension table is always shown in the same order, we fill in our table like so:{{declension-singular|hér er '''lamb'''|um '''lamb'''|frá '''lambi'''|til '''lambs'''}}
 When declining words that are [[plural]], you switch "hér er" out with "hér er'''u'''":{{declension-singular|hér eru '''lömb'''|um '''lömb'''|frá '''lömbum'''|til '''lamba'''}}

@@ -12,23 +12,23 @@ reviewed: no
 
 # Age
 
-Ages are discussed in the [[fourth case]] ([[genitive case]]).
+When describing the age of something, you use the [[genitive case]] (the fourth case) ([[genitive case]]).
 
 {| class="wikitable"
 !1 year
 !2 years
 |-
-|eitt ár
-|tvö ár
+|hér er eitt ár
+|hér eru tvö ár
 |-
-|eitt ár
-|tvö ár
+|um eitt ár
+|um tvö ár
 |-
-|einu ári
-|tveimur árum
+|frá einu ári
+|frá tveimur árum
 |-
-|'''eins árs'''
-|'''tveggja ára'''
+|til '''eins árs'''
+|til '''tveggja ára'''
 |}
 
 * Hann er '''eins árs gamall'''. ''He’s '''1 year old'''.''

@@ -28,7 +28,7 @@ Er hann góður í fótbolta?
 
 "Að eiga" means "to own". It is also used to mean "to have" as in "I have a family". It is an [[irregular verb]] that changes significantly, being "ég **á**" (*I own*) in the [[first person]]. Remember that "á" is also a preposition meaning "on; onto".
 
-Like most [[verbs]], "að eiga" causes the [[second case]].
+Like most [[verbs]], "að eiga" causes the [[accusative case]] (the second case).
 
 # The "pabbi" declension pattern
 

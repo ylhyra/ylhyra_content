@@ -15,7 +15,7 @@ reviewed: no
 * To greet waiters, bartenders, and other staff.
 * To greet your customers.
 
-Notice that the phrase is using the [[second case]] rather than the [[first case]] as one would assume. It makes sense if you think of the phrase as being a shortened version of "(I hope you have) a good day".
+Notice that the phrase is using the [[accusative case]] (the second case) rather than the [[nominative case]] (the first case) as one would assume. It makes sense if you think of the phrase as being a shortened version of "(I hope you have) a good day".
 
 {{inflection|412191|give_me=kk,þf}}
 {{inflection|5752|give_me=þf,meðgr}}

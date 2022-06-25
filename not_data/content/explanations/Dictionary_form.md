@@ -10,9 +10,9 @@ classes:
 
 For [[inflection|inflected]] words, only one form of a word is listed in dictionaries. When available, the form listed will be:
 
-* [[Nouns]] – Shown in the [[first case]] (nominative), [[singular]], without a [[definite article]].
-* [[Adjective]]s – Shown in the [[masculine]], [[first case]], [[singular]], [[strong declension]], [[positive degree]].
-* [[Pronoun]]s – Shown in the [[masculine]], [[first case]], [[singular]].
+* [[Nouns]] – Shown in the [[nominative case]] (the first case) (nominative), [[singular]], without a [[definite article]].
+* [[Adjective]]s – Shown in the [[masculine]], [[nominative case]] (first case), [[singular]], [[strong declension]], [[positive degree]].
+* [[Pronoun]]s – Shown in the [[masculine]], [[nominative case]] (first case), [[singular]].
 * [[Verb]]s – Shown in the [[infinitive]] form.<!--<note>Ylhýra lists verbs in the infinitive form with the infinitive marker "að" (e.g. "að koma"), while dictionaries will only list "koma".</note>-->
 * [[Adverbs]] –  Shown in the [[positive degree]].
 

@@ -16,11 +16,10 @@ So:
 *Get ég fengið fisk? (Can I get fish?)
 *Get ég fengið tvo bjóra? (Can I get two beers?)
 
-The word you're asking for has to be placed into the [[second case]].
+The word you're asking for has to be placed into the [[accusative case]] (the second case).
 ***
 
 English speakers have a tendency to incorrectly ask for things with "má ég fá ...?" because they are directly translating the English phrase "may I get ...?". But "má ég" can usually not be used in this context, "má ég" means "do I have permission to" and so is mostly used to ask permission from an authority figure. For example, you might use it to ask for permission from your parents.
 
 *Mamma, má ég fá nammi? (Mom, am I allowed to get some candy?)
 *Mamma, get ég fengið nammi? (Mom, could you please hand me some candy?)
-

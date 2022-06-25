@@ -28,7 +28,7 @@ Hvað segirðu gott?
 *when you meet a stranger on the street (from morning until 6 PM)
 *when greeting or addressing employees when you're a client (such as at the store, the café, the bank), including when calling a company on the phone
 
-"Góðan" is the word "[https://inflections.ylhyra.is/g%C3%B3%C3%B0ur góður]", just in a different [[case]]. At this point in time you should not think about why this particular phrase uses a different word form,<note>The reason why this phrase uses unexpected grammatical forms ("góður" uses the [[second case]] and "dagur" has a [[definite article]]) is that the phrase is short for "I hope that you have the day good".</note> you should just memorize it as a phrase.
+"Góðan" is the word "[https://inflections.ylhyra.is/g%C3%B3%C3%B0ur góður]", just in a different [[case]]. At this point in time you should not think about why this particular phrase uses a different word form,<note>The reason why this phrase uses unexpected grammatical forms ("góður" uses the [[accusative case]] (the second case) and "dagur" has a [[definite article]]) is that the phrase is short for "I hope that you have the day good".</note> you should just memorize it as a phrase.
 
 Notes on pronunciation:
 

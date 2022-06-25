@@ -15,7 +15,9 @@ reviewed: no
 
 # Genitive case – the fourth case
 
-There are four [[cases]] in Icelandic. The fourth case in the [[declension table]] is the '''genitive case'''.<note>Known as '''eignarfall''' in Icelandic, abbreviated as '''ef.''' Eignarfall literally means "owning case". The word "genitive" means "pertaining to origin" in Latin.</note> It shows that the word belongs to something.
+There are four [[cases]] in Icelandic. The fourth case in the [[declension table]] is the '''genitive case'''.<note>Known as '''eignarfall''' in Icelandic, abbreviated as '''ef.''' Eignarfall literally means "owning case". The word "genitive" means "pertaining to origin" in Latin.</note> It often shows that the word belongs to something.
+
+The genitive case roughly corresponds to the English "of" or "-'s" (the house '''of''' John, John<b>'s</b> house). You very often see it in compound words ('''mjólkur'''glas, "glass '''of milk''').
 
 The [[helper word]] you use to force a word into the genitive case is „til“ ("to").
 
@@ -33,4 +35,8 @@ The following [[prepositions]] always [[Prepositions that cause cases|cause]] th
 
 It also appears in sentences showing ownership such as:
 
-*Þetta er kötturinn '''hans'''. (This is his cat)
+*Þetta er kötturinn '''hans'''. ("This is '''his''' cat")
+
+And when talking about the attributes that describe something:
+
+*Þetta er '''fjögurra metra''' hús. ("This is a four-meter house", literally "This is a house of four meters")

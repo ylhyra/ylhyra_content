@@ -7,9 +7,9 @@ reviewed: no
 
 In English, the word "'''the'''" is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the word ("hús'''ið'''"). The "the" is known as the [[w:Definite article|definite article]]. There is no "''a / an''" in Icelandic, "'''a''' house" is just "hús".
 
-The suffix for the "the" changes depending on a word's [[gender]], [[case]], and [[plurality]]. There are a total of 15 distinct forms it can have.<note>The possible different suffixes (all of which just mean "the") are: ''-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in''.</note> In this chapter we'll only learn the form used for the most basic form of nouns, which is the [[first case]] in the [[singular]].
+The suffix for the "the" changes depending on a word's [[gender]], [[case]], and [[plurality]]. There are a total of 15 distinct forms it can have.<note>The possible different suffixes (all of which just mean "the") are: ''-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in''.</note> In this chapter we'll only learn the form used for the most basic form of nouns, which is the [[nominative case]] (the first case) in the [[singular]].
 
-[[Masculine]] words have to end in "'''inn'''":<ref name=":0">In the [[first case]], [[singular]].</ref>
+[[Masculine]] words have to end in "'''inn'''":<ref name=":0">In the [[nominative case]] (the first case), [[singular]].</ref>
 {| class="wikitable"
 |+
 !Word
