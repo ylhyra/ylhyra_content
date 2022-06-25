@@ -13,7 +13,7 @@ license: CC0
 reviewed: no
 ---
 
-# Genitive case – the fourth case
+# Genitive case <small>– the fourth case</small>
 
 There are four [[cases]] in Icelandic. The fourth case in the [[declension table]] is the '''genitive case'''.<note>Known as '''eignarfall''' in Icelandic, abbreviated as '''ef.''' Eignarfall literally means "owning case". The word "genitive" means "pertaining to origin" in Latin.</note> It often shows that the word belongs to something.
 
@@ -40,3 +40,5 @@ It also appears in sentences showing ownership such as:
 And when talking about the attributes that describe something:
 
 *Þetta er '''fjögurra metra''' hús. ("This is a four-meter house", literally "This is a house of four meters")
+
+{{cases}}

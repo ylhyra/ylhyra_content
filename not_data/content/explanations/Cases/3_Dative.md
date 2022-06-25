@@ -12,7 +12,7 @@ license: CC0
 reviewed: no
 ---
 
-# Dative case – the third case
+# Dative case <small>– the third case</small>
 
 There are four [[cases]] in Icelandic. The third case in the [[declension table]] is the '''dative case'''.<note>Known as '''þágufall''' in Icelandic, abbreviated as '''þgf.''' Þágufall literally means "receiving case". The word "dative" means "appropriate for giving" in Latin.</note> It shows that the word has something or is being given something.
 
@@ -43,3 +43,5 @@ And these prepositions can either cause the [[accusative case]] (the second case
 *að svara (to respond)
 *að kynnast (to get to know someone)
 *að hjálpa (to help)
+
+{{cases}}

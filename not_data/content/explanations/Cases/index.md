@@ -10,7 +10,7 @@ license: CC0
 reviewed: no
 ---
 
-# Cases (<i>föll</i>)
+# Cases <small class="gray">(föll)</small>
 
 [[Nouns]], [[adjectives]], and [[pronouns]] all change their form depending on what's happening to them in a sentence. There are four such '''cases''' in Icelandic:
 

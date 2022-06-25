@@ -13,7 +13,7 @@ reviewed: no
 level: A1
 ---
 
-# Accusative case – the second case
+# Accusative case <small>– the second case</small>
 
 There are four [[cases]] in Icelandic. The second case in the [[declension table]] is the '''accusative case'''.<note>Known as '''þolfall''' in Icelandic, abbreviated as '''þf.'''</note><note>A way to remember this word is to think that if someone is "accused", then there is some action that is happening to them.<br/>Þolfall literally means "suffering/enduring case".</note> It shows that the word is having something done to it.
 
@@ -44,3 +44,5 @@ And these prepositions can either cause the accusative case (the second case) or
 *undir (under)
 *við (by)
 *yfir (over)
+
+{{cases}}
