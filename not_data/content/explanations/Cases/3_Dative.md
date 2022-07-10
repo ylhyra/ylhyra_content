@@ -14,7 +14,7 @@ reviewed: no
 
 # Dative case <small>– the third case</small>
 
-There are four [[cases]] in Icelandic. The third case in the [[declension table]] is the '''dative case'''.<note>Known as '''þágufall''' in Icelandic, abbreviated as '''þgf.''' Þágufall literally means "receiving case". The word "dative" means "appropriate for giving" in Latin.</note> It shows that the word has something or is being given something.
+There are four [[cases]] in Icelandic. The third case in the [[declension table]] is the '''dative case''' (''þágufall'', abbreviated as ''þgf.'').<note>Þágufall literally means "receiving case". The word "dative" means "appropriate for giving" in Latin.</note> It usually implies that the word has something or is being given something.
 
 The [[helper word]] you use to force a word into the dative case is „frá“ ("from").
 

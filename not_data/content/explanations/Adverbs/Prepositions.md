@@ -14,19 +14,20 @@ reviewed: no
 
 [[w:Prepositions|Prepositions]] are the small words that indicate relationship between things, such as "from", "about", "below", "through" and so on.
 
-Prepositions in Icelandic cause words to have a particular [[cases|case]]. A preposition will never cause the first case ([[nominative]]), it will always cause one of the other three ([[accusative]], [[dative]], or [[genitive]]).
+Prepositions in Icelandic cause words to have a particular [[cases|case]]. A preposition will never cause the [[nominative case]] (first case), it will always cause one of the other three ([[accusative]], [[dative]], or [[genitive]]).
+
 ***
 
 ## Prepositions that always result in the same case
 Certain prepositions always result in the same case.
 
-The following prepositions always cause words to be in the [[Accusative|'''second case''' (accusative)]]:
+The following prepositions always cause words to be in the [[Accusative|'''accusative case''']] (second case):
 
 *um (about)
 *gegnum (through)
 *kringum (around)
 
-The following prepositions always cause words to be in the [[Dative|'''third case''' (dative)]]:
+The following prepositions always cause words to be in the [[Dative|'''dative case''']] (third case):
 
 *frá (from)
 *hjá (by)
@@ -34,7 +35,7 @@ The following prepositions always cause words to be in the [[Dative|'''third cas
 *handa (for)
 *á móti (against)
 
-The following prepositions always cause words to be in the [[Genitive|'''fourth case''' (genitive)]]:
+The following prepositions always cause words to be in the [[Genitive|'''genitive case''']] (fourth case):
 
 *til (to)
 *vegna (because of)

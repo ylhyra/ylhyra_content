@@ -10,13 +10,15 @@ reviewed: no
 
 This is an overview page of the [[declension]] patterns for [[nouns]]. It lists all the words and names a [[B2]] level student needs to be able to decline.
 
-Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about {{number of declension patterns}} basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to those words ending patterns, each category can include a [[sound change]], and occasionally an additional letter pops up or disappears.
+Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about {{number of declension patterns}} basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to these patterns regarding endings, words can include a [[sound change]] (one vowel turns into some other vowel), and occasionally an additional letter pops up or disappears.
 
 The following table lists all the common patterns. <!--[https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview for the patterns. The most important patterns are shown in uppercase.
 
 {{Noun declension patterns}}
 
-To memorize this list, start by studying only words that follow the most common patterns (fiskur, pabbi, mamma, and píanó). Don't memorize the endings, instead memorize the words themselves by reciting the four cases, including the [[helper words]]. Start by learning the [[singular]], leave the [[plural]] for later. Recite a few words a day like they were your evening prayers until it begins to stick. Always recite the tables including the [[helper words]], so that your phrase is: "hér er fiskur, um fisk, frá fiski, til fisks". Focus on learning only a handful of words really well. If you know a few words really well, your brain will begin to pick up on patterns as you read more text in Icelandic by yourself.
+To memorize this list, start by studying only words that follow the most common patterns (fiskur, pabbi, mamma, and píanó). Don't memorize the endings, instead memorize the words themselves by reciting the four cases, including the [[helper words]].
+
+Start by learning the [[singular]], leave the [[plural]] for later. Recite the same few words each day until they begin to stick. Don't forget to include the [[helper words]], using them will train your internal sense for the cases since the words are being used in context. As an example, you would recite the following: "_**hér er fiskur, um fisk, frá fiski, til fisks**_". Focus on learning only a handful of words really well. If you know a few words really well, your brain will begin to pick up on patterns as you read more text in Icelandic.
 # Masculine
 ## The “fiskur” pattern
 This is the most common pattern for [[strong]] masculine nouns.

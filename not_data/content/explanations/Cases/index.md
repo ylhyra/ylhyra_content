@@ -29,10 +29,10 @@ But other words, like “cat”, change a lot:
 
 {{declension-singular|kött'''ur'''|kött|k'''e'''tt'''i'''|k'''a'''tt'''ar'''}}
 
-The first case (the [[nominative]]) is the default case and is the one that is shown in dictionaries.
+The [[nominative]] case (the first case) is the default case and is the one that is shown in dictionaries.
 
 ## Comparison to English
-The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with <b><i>him</i></b>”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[nominative case]] (the first case) in Icelandic, "him" is analogous to both the [[Second case|second]] and the [[dative case]] (the third case), and "his" is analogous to the [[genitive case]] (the fourth case).
+The Icelandic cases can be compared to the different forms that English [[pronouns]] have. In the sentence “'''''He''''' took '''''his''''' book with <b><i>him</i></b>”, the word “he” appears three times, but is different each time, indicating what function the word has in the sentence. "He" is analogous to the [[nominative case]] (the first case), "him" is analogous to both the [[accusative]] (the second case) and the [[dative]] (the third case), and "his" is analogous to the [[genitive case]] (the fourth case).
 
 ## Further reading
 
