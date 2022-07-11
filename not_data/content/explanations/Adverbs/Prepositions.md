@@ -44,7 +44,7 @@ The following prepositions always cause words to be in the [[Genitive|'''genitiv
 ***
 
 ## Prepositions that can either cause the second or the third case
-Several prepositions can cause either the [[accusative case]] (the second case) or the [[dative case]] (the third case) depending on context. A general rule is that:
+Several prepositions can cause either the [[accusative case]] (the second case) or the [[dative case]] (the third case) depending on context. In most of the following examples, the general rule is:
 
 *The [[accusative case]] (the second case) {{þf}} indicates that the subject is moving relative to the object.
 *The [[dative case]] (the third case) {{þgf}} indicates that the subject is ''not'' moving relative to the object.
@@ -54,38 +54,38 @@ The words are:
 
 '''á''' (onto; on)
 
-*If the subject is in the [[accusative case]] (the second case) {{þf}} , then the object is moving ''onto'' the subject.
-*If the subject is in the [[dative case]] (the third case) {{þgf}} , then the object is already ''on'' the subject and is not moving.
+*_á_ in the [[accusative case]] (the second case) {{þf}} means "onto". The object is moving onto something.
+*_á_ in the [[dative case]] (the third case) {{þgf}} means "on". The object is not moving.
 
 Examples:
 
-*Ég set húfuna á mig {{þf}} = I put the beanie cap onto me. The beanie is moving relative to me.
-*Húfan er á mér {{þgf}} = The beanie cap is already on me. The beanie is not moving relative to me.
+*Ég setti ost á hamborgarann {{þf}} = I put cheese onto the hamburger. There is movement towards the hamburger.
+*Það er ostur á hamborgaranum {{þgf}} = There is cheese on the hamburger. There is no movement.
+
 *Ég fer á bílinn {{þf}} = I go onto the (roof of the) car. I am moving relative to the car.
-*Ég fer á bílnum {{þgf}} = I will travel there using the car. Although the car is moving, we are both moving together and so I am not moving relative to the car.
-*Ég leggst á mosann = I lay myself down onto the moss. I am moving relative to the moss.
-*Ég ligg á mosanum = I am laying on the moss. I am not moving relative to the moss.
+*Ég fer á bílnum {{þgf}} = I will travel there using the car. (This is an idiomatic phrase.) Although the car is moving, we are both moving together and so I am not moving relative to the car.
 
 ***
 
 '''eftir''' (by, after)
 
-Most of the uses of the word eftir appear in idiom-like phrases, but otherwise:
+In general:
 
-*If the subject is in the [[accusative case]] (the second case) {{þf}} , the subject is comes after the object in time or is created by the object.
-*If the subject is in the [[dative case]] (the third case) {{þgf}} , the object is usually behind the subject in space.
+*If the subject is in the [[accusative case]] (the second case) {{þf}}, then:
+** The subject comes after the object in time.
+** The subject was created (authored) by the object.
+*If the subject is in the [[dative case]] (the third case) {{þgf}}, the object is usually behind the subject in space.
 
 Examples:
 
 *Þessi bók er eftir hann. {{þf}} = This book is authored by him.
-*Eftir daginn {{þf}} í dag fer ég í sumarfrí = After today, I will go on vacation.
-*Myndin kemur út eftir mánuð {{þf}} = The movie will be released in a month.
-*Eftir það {{þf}} er ég búinn = After that I'm done.
-*Ég kem á eftir þér {{þgf}} = I will be there right after you. Indicates that the person will be walking behind the other person in space.
+*Myndin kemur út eftir mánuð {{þf}} = The movie will be released in a month. Here we use the dative since the subject is behind the object in time.
+*Eftir það {{þf}} er ég búinn = After that I'm done. Here we use the dative since the subject is behind the object in time.
+*Ég er á eftir þér {{þgf}} = I am behind you in the queue. Here we use the dative since the subject is behind the object in space.
 
-Word phrases that include this preposition include:
+However, _eftir_ also exists in many idiomatic phrases that need to be studied separately.
 
-*Það fer eftir því {{þgf}} hvort... = It depends on whether...
+*Það fer eftir því {{þgf}} hvort ... = It depends on whether ...
 *Ég sé eftir því {{þgf}} = I regret it.
 *Ég tók ekki eftir því {{þgf}} = I didn't notice.
 
@@ -93,40 +93,38 @@ Word phrases that include this preposition include:
 
 '''fyrir''' (for, before; standing in the way of)
 
-*If the subject is in the [[accusative case]] (the second case) {{þf}} , the object is going to be given to the subject and so there is an imagined "movement" to the subject. This can also indicate a relationship in time.
-*If the subject is in the [[dative case]] (the third case) {{þgf}} , the subject is standing still and is standing in the way of the object.
+*If the subject is in the [[accusative case]] (the second case) {{þf}}, the object is going to be given to the subject (and so there is an imagined "movement" towards the subject). This can also indicate a relationship in time.
+*If the subject is in the [[dative case]] (the third case) {{þgf}}, the subject is standing still and is standing _in the way of_ the object.
+
+There are also a few idiomatic phrases you need to recognize:
+
+* fyrir mig {{þf}} = for me
+* fyrir mér {{þgf}} = in my opinion
+* að velta einhverju fyrir sér {{þgf}} = to be wondering about something
+* að hafa rétt fyrir sér {{þgf}} = to be correct
 
 Examples
 
 *Þessi bíll er fyrir mig {{þf}} = This car is for me. This car has already been allocated to me and is going to be my property soon.
 *Þessi bíll er fyrir mér {{þgf}} = This car is standing in my way. I can't move because the car is there. There is no movement.
+
 *Ég myndi gera hvað sem er fyrir þig {{þf}} = I would do anything for you.
-*Ég kem heim fyrir jól {{þf}} = I'll be home before Christmas. A relationship in time.
-*Geturðu farið út í búð fyrir mig {{þf}} ? = Can you do this for me and go to the store?
-*Geturðu lýst húsið fyrir mig {{þf}} ? = Can you do this for me and give the house a lighter color?
-*Geturðu lýst húsinu fyrir mér {{þgf}} ? = Can you describe the house to me?
-*Geturðu útskýrt þetta fyrir mig {{þf}} ? = Can you do this for me and explain this?
-*Geturðu útskýrt þetta fyrir mér {{þgf}} ? = Can you explain this to me?
-*Verðurður kominn fyrir kvöldið {{þf}} ? = Will you be home before the evening? A relationship in time.
+*Ég kem heim fyrir jólin {{þf}} = I'll be home before Christmas. A relationship in time.
+*Geturðu farið út í búð fyrir mig {{þf}}? = Can you go to the store for me?
+*Verðurðu kominn fyrir kvöldið {{þf}}? = Will you be home before the evening? A relationship in time.
 *Ég var að velta því fyrir mér {{þgf}} hvort þig langaði að koma í sund.
 *Þú hefur rétt fyrir þér. {{þgf}} = You are correct.
-*Fyrir mig {{þf}} byrja jólin í október. = For me Christmas begins in October. This does not explain the person's view about when Christmas should start, it is just a matter of fact that in their life Christmas happens to start in October. The speaker may for example work at a store, and they may dislike it.
-*Fyrir mér {{þgf}} byrja jólin í október. = In my view, Christmas begins in October. This explains the person's worldview and their view about how things should be.
-*Fyrir mig {{þf}} er þetta tímaeyðsla. = This is a waste of time for me. This does not explain the person's view about the task, but it explains that the task is not specifically beneficial to them.
-*Fyrir mér {{þgf}} er þetta tímaeyðsla. = This is a waste of time in my view. This does explain the person's view about the value of the task, not only for them but for everyone.
-*Norska og sænska hljóma alveg eins fyrir mér. {{þgf}} = In my view, Norwegian and Swedish sound exactly the same.
-*Tungumálanám er náttúruleg bara lífsstíll fyrir mér. {{þgf}} = Of course, I view language learning as a lifestyle.
-*Nú mega jólin koma fyrir mér. {{þgf}} = In my view, now Christmas may come.
-*Skiptir engu máli fyrir mig {{þf}} = Doesn't make any difference to me.
-*Skiptir engu máli fyrir mér {{þgf}} = In my opinion, this doesn't make any difference. (Note that this means practically the exact same thing as the item above.)
-*Ég varð fyrir bílnum {{þgf}} = I got run over by the car. This is a bit complex since this is a phrase, but: I was standing in the way of the car. The car could not move because I was standing in its way. There has not been any movement yet. However, as soon as there is movement I will be run over by the car.
+
+*Skiptir engu máli fyrir mig {{þf}} = Makes no difference to me. / That doesn't affect me.
+*Skiptir engu máli fyrir mér {{þgf}} = In my opinion, this doesn't make any difference.
+<!--*Ég varð fyrir bílnum {{þgf}} = I got run over by the car. This is a bit complex since this is a phrase, but: I was standing in the way of the car. The car could not move because I was standing in its way. There has not been any movement yet. However, as soon as there is movement I will be run over by the car.-->
 
 ***
 
 '''í''' (in, into; inside of)
 
-*If the subject is in the [[accusative case]] (the second case) {{þf}} , there is movement ''into'' it. Can also discuss time spans.
-*If the subject is in the [[dative case]] (the third case) {{þgf}} , the object is already ''inside of'' it.
+*If the subject is in the [[accusative case]] (the second case) {{þf}}, there is movement ''into'' it. Can also discuss time spans.
+*If the subject is in the [[dative case]] (the third case) {{þgf}}, the object is already ''inside of'' it.
 
 Examples:
 
@@ -134,14 +132,9 @@ Examples:
 *Vertu í íbúðinni þinni. {{þgf}} = Stay in your apartment. There is no movement.
 *Ég fer í úlpuna {{þf}} = I put the jacket on. I go into the jacket, there is movement.
 *Ég fer í úlpunni {{þgf}} = I go there wearing my jacket. I go there while I am already inside of the jacket, there is no movement relative to the subject.
-*Ekki í dag. {{þf}} = Not today.
-*Ég hef ekki séð hana í marga mánuði. {{þf}} = I haven't seen her for several months.
-*Ég bý í stóru húsi. {{þgf}} = I live in a big house. There is no movement.
-*Allt í lagi. {{þgf}} = Okay.
-*Ég sé hann í vikunni. {{þgf}} = I'll see him this week. This is a phrase.
-*Mikið ertu í flottri peysu. {{þgf}} = Oh my, the sweater you're wearing is really nice. You are already wearing the sweater, there is no movement.
 
 [[Prepositions that cause cases/Í – exercise 1|Exercise 1 for <i>í</i>]]
+
 ***
 
 '''með''' (with)
