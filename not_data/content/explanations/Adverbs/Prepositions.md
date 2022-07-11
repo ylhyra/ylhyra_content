@@ -146,18 +146,31 @@ Examples:
 
 '''með''' (with)
 
+_Með_ is very difficult for students:
+
+* The [[accusative]] {{þf}} implies that you are holding something or carrying something as if it were an object. It can be used to say that you are with a person only if that person does not have agency (cannot make their own decisions, for example if they are young children, if they are inconscious, or if you're taking someone on a surprise trip).
+* The [[dative]] {{þgf}} implies either:
+** That you are hanging out with some person who has agency (they can make their own decisions).
+** That you are using some object as a tool for some purpose.
+
+Examples:
+
 *{{þf}} ég er með hann = I am holding him
 *{{þgf}} ég er með honum = I am with him / I am hanging out with him
-*{{þf}} Ég ætla að fara til Svíþjóðar með kærastann minn. = I am going to Sweden carrying my boyfriend (implying that you are literally holding him under your arm or in your luggage). This sentence makes no sense and would not be used unless you are a human trafficker or want to show that you are taking him to Sweden against his will.
-*{{þgf}} Ég ætla að fara til Svíþjóðar með kærastanum mínum. = I am going to go to Sweden accompanied by my boyfriend. This is the correct sentence.
-*{{þf}} Ég er með bækur. = I have books.
-*{{þgf}} Ég er með bókum. = I am hanging out with some books. This sentence does not make any sense. This sentence makes no sense and would never be used.
-*{{þf}} Ég slæ þig í höfuðið með bækur. = I hit you in the head, and at the same time I am also carrying books. This sentence makes little sense and would never be used.
-*{{þgf}} Ég slæ þig í höfuðið með bókum. = I hit you in the head using books.
+*{{þf}} Ég ætla að fara til útlanda með börnin mín. = I am taking my children on vacation abroad. This sentence implies that you are _taking_ your children on vacation, they are either not old enough to make their own decisions or you are fully in charge of all planning.
+*{{þgf}} Ég ætla að fara til útlanda með börnunum mínum. = I am going abroad with my children / I am going abroad accompanied by my children. Here, the dative case implies that the children are your equals – you are hanging out with them. This implies that the children are old enough to make their own decisions – it wasn't just you who made all the plans.
+*{{þf}} Ég er með bókina. = I have the book.
+*{{þgf}} Ég er með bókinni. = I am hanging out with the book. Here you are treating the book as if it were a person. This sentence does not make any sense and would never be used.
+*{{þf}} Hann sló mig með bókina. = He hit me, and at the same time I am also carrying the book. This sentence makes little sense and would never be used.
+*{{þgf}} Hann sló mig með bókinni. = He hit me with the book. This sentence is correct, the book is being used as a tool.
+*{{þf}} Ég fór með hana upp á spítala. = I took her to the hospital. Here, the accusative implies that she didn't have agency – you _took_ her to the hospital. This would for example be if the person is badly hurt and could therefore not refuse the offer, or if the person is a child or is unconscious.
+*{{þgf}} Ég fór með henni upp á spítala. = I went with her to the hospital. Here, it implies that she is your equal – she has agency. You would use this when accompanying someone to their doctor's appointment.
 
 ***
 
 '''undir''' (under)
+
+_Undir_ causes a different case depending on whether there is movement or not:
 
 *Ég fer undir sófann {{þf}} = I go underneath the sofa
 *Ég er undir sófanum {{þgf}} = I am beneath the sofa
@@ -166,26 +179,26 @@ Examples:
 
 '''við''' (by, to)
 
+_Við_ normally usese the [[accusative]] case:
+
 *Ég sit við vatnið. {{þf}} = I sit by the lake.
 *Ég tala við þig {{þf}} á eftir = I'll talk to you later.
 *Hann er góður við mig {{þf}} = He is good to me
 
-The [[dative case]] (the third case) can be seen in some word phrases:
+However, you will see the [[dative case]] (the third case) in many idiomatic phrases:
 
 *Verður einhver heima til að taka við mér? {{þgf}} = Will someone be home to receive me?
-*Viðbrögð við laginu {{þgf}} hafa ekki látið á sér standa. = Reactions to the song have been immense.
 *Ég þarf að vara þig við honum. {{þgf}} = I have to warn you about him.
-*Við mér {{þgf}} blasti sorgleg sjón. = A sad sight laid there before my eyes.
 *Það er ekki til lækning við sjúkdómnum. {{þgf}} = No cure exists for the disease.
 
 ***
 
 '''yfir''' (over; above)
 
-*Flugvélin fer yfir húsið {{þf}} = The airplane goes over the house. There is movement.
+_Yfir_ causes a different case depending on whether there is movement or not:
+
+*Flugvélin flaug yfir húsið {{þf}} = The airplane flew over the house. There is movement.
 *Flugvélin er yfir húsinu {{þgf}} = The airplane is above the house. There is ''no'' movement.
-
-
 
 ## See also
 
