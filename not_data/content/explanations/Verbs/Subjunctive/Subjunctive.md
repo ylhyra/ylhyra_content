@@ -53,7 +53,7 @@ The last one is the most common situation where you will encounter the subjuncti
 |Secondary sentence (connected with ''að'')
 |-
 |Ég '''get''' komið til Íslands.
-|Ég vona að ég '''geti''' komað til Íslands
+|Ég vona að ég '''geti''' komið til Íslands
 |Secondary sentence (connected with ''að'')
 |-
 |Ég '''kem'''.
