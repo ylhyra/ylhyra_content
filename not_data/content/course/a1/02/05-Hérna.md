@@ -20,4 +20,4 @@ Remember that "rn" is pronounced "dn", so "hérna" is pronounced {{pron|hédna}}
 
 *Hvað ætlar þú, '''hérna''', að gera í dag? = What are you, '''uhh''', going to do today?
 *'''Hérna''', hvað ætlar þú að gera í dag? = '''Uhh so''', what are you going to do today?
-*Ég, '''hérna''', ætla að borða, '''hérna''', hamborga. = I am, '''uhh''', going to eat an, '''uhh''', hamburger.
+*Ég, '''hérna''', ætla að borða, '''hérna''', hamborgara. = I am, '''uhh''', going to eat an, '''uhh''', hamburger.
