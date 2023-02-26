@@ -730,7 +730,7 @@ rows:
     row_id: 109
     last_seen: "2021-11-10"
   - icelandic: Ég held að ég verði laus á morgun.
-    english: I think that I will be available.
+    english: I think I will be available tomorrow.
     lemmas: að verða, laus
     level: 3
     difficulty: 3
