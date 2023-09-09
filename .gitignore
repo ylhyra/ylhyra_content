@@ -2,3 +2,4 @@ not_data/test/*
 **/OLD/**
 **TMP**
 **/BACKUP/**
+.idea

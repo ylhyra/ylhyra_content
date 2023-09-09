@@ -271,8 +271,8 @@ title: Template:Noun declension patterns
     <th>stræti</th>
     <td>i</td>
     <td>i</td>
-    <td>um</td>
-    <td>a</td>
+    <td>i</td>
+    <td>is</td>
     <td>i</td>
     <td>i</td>
     <td>um</td>
