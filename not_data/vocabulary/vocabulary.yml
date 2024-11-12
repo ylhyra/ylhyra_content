@@ -1639,7 +1639,7 @@ rows:
     row_id: 253
     last_seen: "2021-07-01"
   - icelandic: Ég ætla út.
-    english: I'm intend to go outside.
+    english: I intend to go outside.
     depends_on: út, að ætla
     level: 1
     row_id: 254
@@ -4005,7 +4005,7 @@ rows:
     row_id: 617
     last_seen: "2021-07-01"
   - icelandic: Ég er bara að grínast.
-    english: I just joking.
+    english: I'm just joking.
     depends_on: að grínast
     alternative_id: Ég er bara að grínast., að grínast
     level: 2
@@ -6742,8 +6742,6 @@ rows:
     english: something
     lemmas: einhver
     level: 1
-    note_regarding_english: neuter
-    pronunciation: ei{{h}}gva{{gray|ð}}
     row_id: 1072
     last_seen: "2021-07-29"
   - icelandic: landnám
@@ -19739,7 +19737,7 @@ rows:
     row_id: 3316
     last_seen: "2021-10-18"
   - icelandic: að l*íta á
-    english: too look at
+    english: to look at
     alternative_id: að líta
     level: 2
     row_id: 3318
