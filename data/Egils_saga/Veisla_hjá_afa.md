@@ -9319,7 +9319,7 @@ title: Data:Egils saga/Veisla hjá afa
 },
 "sentences": {
 "s_esty0": {
-"meaning": "The year is 1907."
+"meaning": "The year is 907."
 },
 "s_esty102": {
 "meaning": "\"This is a huge party and everyone there will be drunk.\""
