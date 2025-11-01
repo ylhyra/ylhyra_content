@@ -516,7 +516,7 @@ rows:
     row_id: 81
     last_seen: "2021-07-30"
   - icelandic: Ertu upptekinn á morgun?
-    english: Are you busy {{kk}} tomorrow?
+    english: Are you busy{{kk}} tomorrow?
     depends_on: upptekinn, á morgun
     level: 1
     importance: 5
@@ -4963,7 +4963,7 @@ rows:
     row_id: 769
     last_seen: "2021-10-14"
   - icelandic: Ég veit ekki alveg hvað þú átt við.
-    english: I'm don't quite know what you're referring to.
+    english: I don't quite know what you're referring to.
     depends_on: að eiga við, alveg
     level: 3
     row_id: 770
@@ -6589,7 +6589,7 @@ rows:
     row_id: 1047
     last_seen: "2021-10-14"
   - icelandic: Ætlið þið að borga saman eða í sitt hvoru lagi?
-    english: Will you be paying together or seperately?
+    english: Will you be paying together or separately?
     lemmas: sitt hvor
     alternative_id: saman eða í sitt hvoru, sitt hvor
     level: 3
@@ -12856,7 +12856,7 @@ rows:
     row_id: 2166
     last_seen: "2021-07-30"
   - icelandic: frosin pítsa
-    english: frozen pítsa
+    english: frozen pizza
     lemmas: að frjósa
     alternative_id: frosin pítsa, frosið
     level: 4
@@ -13654,7 +13654,7 @@ rows:
     row_id: 2289
     last_seen: "2021-07-31"
   - icelandic: Það er síminn til þín.
-    english: Someone is asking for you one the phone.
+    english: Someone is asking for you on the phone.
     lemmas: sími
     level: 4
     note: "\"Það\" doesn't refer to anything, in the same way that \"'''it''' is sunny\" doesn't."
@@ -14285,7 +14285,7 @@ rows:
     row_id: 2386
     last_seen: "2021-08-01"
   - icelandic: Ég er með hálsbólgu.
-    english: I have a soar throat.
+    english: I have a sore throat.
     lemmas: hálsbólga%
     depends_on: bólga, háls
     level: 3
@@ -18699,7 +18699,7 @@ rows:
     row_id: 3141
     last_seen: "2021-08-03"
   - icelandic: Hann n*ær því* ekki.
-    english: Is isn't able to manage to do so.
+    english: He isn't able to manage to do so.
     lemmas: að ná
     depends_on: að ná að
     alternative_id: hann nær
@@ -20780,7 +20780,7 @@ rows:
     row_id: 3495
     last_seen: "2021-10-18"
   - icelandic: Það er *verst hvað* maður þekkir f*áa* hérna.
-    english: Oh∆ it such a shame how few people I know here.; One particularly negative aspect is how few people I know here.
+    english: Oh∆ it's such a shame how few people I know here.; One particularly negative aspect is how few people I know here.
     lemmas: slæmur, að þekkja, fár
     alternative_id: verst hvað
     level: 3
