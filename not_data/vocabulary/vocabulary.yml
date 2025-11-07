@@ -3028,8 +3028,9 @@ rows:
     last_seen: "2021-07-01"
   - icelandic: sex sinnum
     english: six times
-    depends_on: sex, sinnum
+    depends_on: sinnum
     level: 1
+    lemmas: sex%
     categories: number
     row_id: 464
     last_seen: "2021-07-01"
@@ -7616,11 +7617,6 @@ rows:
     note: The term literally means "happy / content". It can be used in both formal and informal situations.
     row_id: 1240
     last_seen: "2021-07-09"
-  - icelandic: sex
-    english: six
-    level: 1
-    row_id: 1241
-    last_seen: "2021-07-02"
   - icelandic: húsið
     english: the house
     lemmas: hús%
