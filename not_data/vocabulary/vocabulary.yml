@@ -7501,7 +7501,7 @@ rows:
     level: 1
     row_id: 1215
     last_seen: "2021-07-02"
-  - icelandic: list
+  - icelandic: list (ísl.)
     english: art
     level: 1
     row_id: 1216
@@ -14097,7 +14097,7 @@ rows:
     row_id: 2358
     last_seen: "2021-08-01"
   - icelandic: Við förum '''þá''' bara tveir.
-    english: "'''Then''' we will just go∆ the two of us.; '''In that case''' the two of us will just be the one's going."
+    english: "'''Then''' we will just go∆ the two of us.; '''In that case''' the two of us will just be the ones going."
     depends_on: þá
     level: 3
     note_regarding_english: Describing two males.
@@ -18710,7 +18710,7 @@ rows:
     row_id: 3143
     last_seen: "2021-08-03"
   - icelandic: þú drapst
-    english: you killed
+    english: you killed; you died
     lemmas: að drepa
     level: 3
     row_id: 3144
