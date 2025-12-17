@@ -7501,11 +7501,12 @@ rows:
     level: 1
     row_id: 1215
     last_seen: "2021-07-02"
-  - icelandic: list (ísl.)
-    english: art
+  - icelandic: listin
+    english: the art
     level: 1
     row_id: 1216
     last_seen: "2021-07-02"
+    lemmas: list
   - icelandic: foreldrar
     english: parents
     depends_on: eldri
@@ -18709,8 +18710,8 @@ rows:
     level: 3
     row_id: 3143
     last_seen: "2021-08-03"
-  - icelandic: þú drapst
-    english: you killed; you died
+  - icelandic: þú drapst hann
+    english: you killed him
     lemmas: að drepa
     level: 3
     row_id: 3144
