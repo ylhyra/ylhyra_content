@@ -16637,7 +16637,7 @@ rows:
     alternative_id: skemmtilegt, skemmtilegur
     level: 1
     dont_confuse: gaman
-    note: "\"Skemmtilegur\" is an adjective while \"gaman\" is an adverb, meaning that which one you use depends on your sentence structure. \"Gaman\" could not be used in the above sentence."
+    note: "\"Skemmtilegur\" is an adjective while \"gaman\" is a noun, meaning that which one you use depends on your sentence structure. \"Gaman\" could not be used in the above sentence."
     row_id: 2781
     last_seen: "2021-08-02"
   - icelandic: við hittumst
@@ -19504,7 +19504,7 @@ rows:
   - icelandic: Klukkan hvað kemur pabbi?
     eyða: IGNORED
     row_id: 3280
-  - icelandic: hér er fótbolti - um fóbolta
+  - icelandic: hér er fótbolti - um fótbolta
     english: here is football - about football
     level: 1
     row_id: 3281
