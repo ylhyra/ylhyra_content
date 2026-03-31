@@ -166,7 +166,7 @@ Umlaut:
 
 Additional letter:
 
-*drykkur, lækur, verkur, veggur, bekkur, verkur, fótleggur, handleggur (j)
+*drykkur, lækur, verkur, veggur, bekkur, fótleggur, handleggur (j)
 
 In the singular, this is the same pattern as "matur".
 
