@@ -52,7 +52,7 @@ The following articles offer a brief introduction to various aspects of the lang
 ***[[Prepositions that cause cases]] <level level="a1"/>
 ** [[Course/A1/Questions|Questions]]
 <!--*** [[Questions|Word flipping]] <level level="a1"/>-->
-*** [[Word merging]] <level level="a1"/>
+*** [[Þú merging]] <level level="a1"/>
 *Word use
 **[[Asking for things]] <level level="a1"/>
 **[[Búinn vs. hef]] <level level="a1"/>
@@ -73,7 +73,6 @@ The following articles offer a brief introduction to various aspects of the lang
 **[[Sæll]] <level level="a1"/>
 **[[Positivity]] <level level="a1"/>
 **[[Að]] <level level="a1"/>
-**[[Þú merging]] <level level="a1"/>
 **[[Kunna vs. þekkja vs. vita vs. geta]] <level level="a1"/>
 **[[Ha?]] <level level="a1"/>
 **[[Kær]] <level level="a1"/>
