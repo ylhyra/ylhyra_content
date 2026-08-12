@@ -7022,7 +7022,7 @@ rows:
     row_id: 1114
     last_seen: "2021-07-29"
   - icelandic: M%ikið v%ar!
-    english: Finally!; Well that took you long enough!
+    english: Finally!; Well∆ that took you long enough!
     lemmas: mikill, að vera
     depends_on: mikið, það var
     level: 3
