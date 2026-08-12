@@ -2816,9 +2816,9 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_1cQKB4SEeivQ": {
         "id": "s_1cQKB4SEeivQ",
-        "text": "\"Við eigum bæði stórafmæli á næsta ári.",
+        "text": "„Við eigum bæði stórafmæli á næsta ári.",
         "words": [
-          "\"",
+          "„",
           {
             "id": "w_Jrmp65UrEVLe",
             "text": "Við"
@@ -16014,9 +16014,9 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_1cQKB4SEeivQ": {
         "id": "s_1cQKB4SEeivQ",
-        "text": "\"Við eigum bæði stórafmæli á næsta ári.",
+        "text": "„Við eigum bæði stórafmæli á næsta ári.",
         "words": [
-          "\"",
+          "„",
           {
             "id": "w_Jrmp65UrEVLe",
             "text": "Við"
@@ -35593,9 +35593,9 @@ title: Data:Blær/Fyrst við erum hérna
       "sentences": [
         {
           "id": "s_1cQKB4SEeivQ",
-          "text": "\"Við eigum bæði stórafmæli á næsta ári.",
+          "text": "„Við eigum bæði stórafmæli á næsta ári.",
           "words": [
-            "\"",
+            "„",
             {
               "id": "w_Jrmp65UrEVLe",
               "text": "Við"
