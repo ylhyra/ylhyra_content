@@ -827,7 +827,7 @@ title: Data:Tweets/Branddís/Köttur
         "meaning": "My cat is always pooping on the floor but the poop is large and the cat is small"
       },
       "s_ly6j16": {
-        "meaning": "Maybe these are my roomates playing a joke on me"
+        "meaning": "Maybe these are my roommates playing a joke on me."
       }
     },
     "words": {
