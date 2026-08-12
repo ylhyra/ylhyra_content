@@ -869,7 +869,7 @@ title: Data:Conversations/Prentari
         "contains": [
           "w_vhhs13"
         ],
-        "meaning": "will take on the responsibility, I shall"
+        "meaning": "shall, will (offering to do something)"
       },
       "1aefi61": {
         "contains": [
