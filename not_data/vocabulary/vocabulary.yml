@@ -20288,7 +20288,7 @@ rows:
     row_id: 3411
     last_seen: "2021-10-18"
   - icelandic: þið kynntust
-    english: you first met each other; you got to know each other
+    english: you{{ft}} first met each other; you{{ft}} got to know each other
     lemmas: að kynnast
     level: 3
     row_id: 3412
