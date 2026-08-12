@@ -6465,7 +6465,7 @@ title: Data:Sund
         "meaning": "Everybody feels good when they're lying in heat, and when you feel good then it's easy to chat."
       },
       "s_v4pd26": {
-        "meaning": "Hot water is cheaper in Iceland, so it is cheaper to have swimming pools here than elsewhere in Europe."
+        "meaning": "Hot water is cheap in Iceland, so it is cheaper to have swimming pools here than elsewhere in Europe."
       }
     },
     "words": {
