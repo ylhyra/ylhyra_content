@@ -11715,7 +11715,7 @@ title: Data:Blær/Egg í áskrift
         ],
         "show_definition_above": true,
         "difficult": true,
-        "meaning": "to support, to mantain",
+        "meaning": "to support, to maintain",
         "inline_translation": "to support"
       },
       "1eukt7u": {
