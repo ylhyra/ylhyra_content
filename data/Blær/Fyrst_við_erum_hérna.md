@@ -45534,7 +45534,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_ow-KQlnwU0Cx"
         ],
-        "meaning": "powers, strenghts"
+        "meaning": "powers, strengths"
       },
       "fwi3ko": {
         "contains": [
