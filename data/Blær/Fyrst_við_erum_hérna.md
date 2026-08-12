@@ -1058,7 +1058,6 @@ title: Data:Blær/Fyrst við erum hérna
       "w_nbA_A-RUhIZs",
       "w_u88jfi7bA5gR",
       "w_HGePDOz4zj-u",
-      "w_3DT0MPLxzQtY",
       "w_eQEa6vs0Rtk7",
       "w_xKlGG_lsNvbq",
       "w_f3LbvoVf0Ruz",
@@ -2339,7 +2338,6 @@ title: Data:Blær/Fyrst við erum hérna
       "w_nbA_A-RUhIZs",
       "w_u88jfi7bA5gR",
       "w_HGePDOz4zj-u",
-      "w_3DT0MPLxzQtY",
       "w_eQEa6vs0Rtk7",
       "w_xKlGG_lsNvbq",
       "w_f3LbvoVf0Ruz",
@@ -4811,7 +4809,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_D3LObj6qOTc1": {
         "id": "s_D3LObj6qOTc1",
-        "text": "Við komum á hótelið og fengum þær fréttir að köku- og brauðtertu hlaðborð væri í vændum og við gætum sest niður og fengið okkur frítt kaffi meðan við biðum.",
+        "text": "Við komum á hótelið og fengum þær fréttir að köku- og brauðtertuhlaðborð væri í vændum og við gætum sest niður og fengið okkur frítt kaffi meðan við biðum.",
         "words": [
           {
             "id": "w_mFzFj4nNKsyR",
@@ -4870,12 +4868,7 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_HGePDOz4zj-u",
-            "text": "brauðtertu"
-          },
-          " ",
-          {
-            "id": "w_3DT0MPLxzQtY",
-            "text": "hlaðborð"
+            "text": "brauðtertuhlaðborð"
           },
           " ",
           {
@@ -9976,11 +9969,6 @@ title: Data:Blær/Fyrst við erum hérna
         "id": "w_3BFCdIXjdzs",
         "text": "sem"
       },
-      "w_3DT0MPLxzQtY": {
-        "belongsToSentence": "s_D3LObj6qOTc1",
-        "id": "w_3DT0MPLxzQtY",
-        "text": "hlaðborð"
-      },
       "w_3DrkwlL4Fv9D": {
         "belongsToSentence": "s_ZGuG99MPfjaw",
         "id": "w_3DrkwlL4Fv9D",
@@ -11404,7 +11392,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_HGePDOz4zj-u": {
         "belongsToSentence": "s_D3LObj6qOTc1",
         "id": "w_HGePDOz4zj-u",
-        "text": "brauðtertu"
+        "text": "brauðtertuhlaðborð"
       },
       "w_HJ3DsRfNSyH0": {
         "belongsToSentence": "s_Mzo9i8ZyJ5pG",
@@ -18020,7 +18008,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_D3LObj6qOTc1": {
         "id": "s_D3LObj6qOTc1",
-        "text": "Við komum á hótelið og fengum þær fréttir að köku- og brauðtertu hlaðborð væri í vændum og við gætum sest niður og fengið okkur frítt kaffi meðan við biðum.",
+        "text": "Við komum á hótelið og fengum þær fréttir að köku- og brauðtertuhlaðborð væri í vændum og við gætum sest niður og fengið okkur frítt kaffi meðan við biðum.",
         "words": [
           {
             "id": "w_mFzFj4nNKsyR",
@@ -18079,12 +18067,7 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_HGePDOz4zj-u",
-            "text": "brauðtertu"
-          },
-          " ",
-          {
-            "id": "w_3DT0MPLxzQtY",
-            "text": "hlaðborð"
+            "text": "brauðtertuhlaðborð"
           },
           " ",
           {
@@ -23187,11 +23170,6 @@ title: Data:Blær/Fyrst við erum hérna
         "id": "w_3BFCdIXjdzs",
         "text": "sem"
       },
-      "w_3DT0MPLxzQtY": {
-        "belongsToSentence": "s_D3LObj6qOTc1",
-        "id": "w_3DT0MPLxzQtY",
-        "text": "hlaðborð"
-      },
       "w_3DrkwlL4Fv9D": {
         "belongsToSentence": "s_ZGuG99MPfjaw",
         "id": "w_3DrkwlL4Fv9D",
@@ -24615,7 +24593,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_HGePDOz4zj-u": {
         "belongsToSentence": "s_D3LObj6qOTc1",
         "id": "w_HGePDOz4zj-u",
-        "text": "brauðtertu"
+        "text": "brauðtertuhlaðborð"
       },
       "w_HJ3DsRfNSyH0": {
         "belongsToSentence": "s_Mzo9i8ZyJ5pG",
@@ -32494,7 +32472,6 @@ title: Data:Blær/Fyrst við erum hérna
       "w_3A7cjSq67dBb": "keyrt",
       "w_3AfDYId3zHWD": "hægt",
       "w_3BFCdIXjdzs": "sem",
-      "w_3DT0MPLxzQtY": "hlaðborð",
       "w_3DrkwlL4Fv9D": "íslensku",
       "w_3QlGyVYFdge": "um að gera",
       "w_3U2Og9fI64C3": "við",
@@ -32768,7 +32745,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_H2xmgmK85XZ7": "er",
       "w_H5lzxhhb-3EA": "að skoða",
       "w_H8_hQqiC-D6": "ferðaáætlun",
-      "w_HGePDOz4zj-u": "brauðtertu",
+      "w_HGePDOz4zj-u": "brauðtertuhlaðborð",
       "w_HJ3DsRfNSyH0": "að halda partý",
       "w_HONfuqKT0iaL": "en",
       "w_HOq_77bXMY1n": "um kring",
@@ -39122,7 +39099,7 @@ title: Data:Blær/Fyrst við erum hérna
         },
         {
           "id": "s_D3LObj6qOTc1",
-          "text": "Við komum á hótelið og fengum þær fréttir að köku- og brauðtertu hlaðborð væri í vændum og við gætum sest niður og fengið okkur frítt kaffi meðan við biðum.",
+          "text": "Við komum á hótelið og fengum þær fréttir að köku- og brauðtertuhlaðborð væri í vændum og við gætum sest niður og fengið okkur frítt kaffi meðan við biðum.",
           "words": [
             {
               "id": "w_mFzFj4nNKsyR",
@@ -39181,12 +39158,7 @@ title: Data:Blær/Fyrst við erum hérna
             " ",
             {
               "id": "w_HGePDOz4zj-u",
-              "text": "brauðtertu"
-            },
-            " ",
-            {
-              "id": "w_3DT0MPLxzQtY",
-              "text": "hlaðborð"
+              "text": "brauðtertuhlaðborð"
             },
             " ",
             {
@@ -46870,7 +46842,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "uwrisx": {
         "contains": [
-          "w_3DT0MPLxzQtY"
+          "w_HGePDOz4zj-u"
         ],
         "meaning": "buffet"
       },
@@ -47733,7 +47705,6 @@ title: Data:Blær/Fyrst við erum hérna
       "w_3A7cjSq67dBb": "i1xdza",
       "w_3AfDYId3zHWD": "nwspej",
       "w_3BFCdIXjdzs": "atcyln",
-      "w_3DT0MPLxzQtY": "uwrisx",
       "w_3DrkwlL4Fv9D": "jfmx2l",
       "w_3QlGyVYFdge": "t14ta5",
       "w_3U2Og9fI64C3": "16vfo51",
