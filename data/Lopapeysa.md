@@ -3978,7 +3978,7 @@ title: Data:Lopapeysa
         "contains": [
           "w_naaf98"
         ],
-        "meaning": "old-timey"
+        "meaning": "old-fashioned"
       },
       "1mrz792": {
         "contains": [
