@@ -25347,7 +25347,7 @@ title: Data:Blær/LungA
         "meaning": "It is important that you have passion to learn and explore,"
       },
       "s_9QtDMvw_im": {
-        "meaning": "The festival celebrated its 15 year old birthday this year."
+        "meaning": "The festival celebrated its fifteenth anniversary this year."
       },
       "s_9UV191lwvcs": {
         "meaning": "Here it isn't like that."
