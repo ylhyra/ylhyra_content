@@ -5796,7 +5796,7 @@ title: Data:Bláa lónið
           "w_1nio139",
           "w_1nio140"
         ],
-        "meaning": "for which"
+        "meaning": "why, that … for"
       },
       "1dog80x": {
         "contains": [
@@ -6620,7 +6620,7 @@ title: Data:Bláa lónið
         "meaning": "but it is definitely worth it."
       },
       "s_1nio199": {
-        "meaning": "There is something so cozy about being in this hot water out in the lava field."
+        "meaning": "There is something so cozy about being in this white water out in the lava field."
       },
       "s_1nio24": {
         "meaning": "Keflavík Airport and the Blue Lagoon"
