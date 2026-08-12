@@ -1435,7 +1435,7 @@ title: Data:Imba/áferð og flug
         "meaning": "in the very back seat"
       },
       "s_5s1p29": {
-        "meaning": "and the texture on the seat was like the skin of an angry wife who no longer loved me."
+        "meaning": "and the texture of the seat was like the skin of an angry wife who no longer loved me."
       },
       "s_5s1p4": {
         "meaning": "1. I was ecstatic 2. I was in the clouds"
