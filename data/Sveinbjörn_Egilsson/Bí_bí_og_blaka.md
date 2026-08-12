@@ -1186,7 +1186,7 @@ title: Data:Sveinbjörn Egilsson/Bí bí og blaka
         "meaning": "the small children waddle"
       },
       "s_146g28": {
-        "meaning": "onto several mountain crests"
+        "meaning": "out onto the mountain crests"
       },
       "s_146g32": {
         "meaning": "looking for lambs"
