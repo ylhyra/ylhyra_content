@@ -7631,7 +7631,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w198"
         ],
-        "meaning": "of the country"
+        "meaning": "the country"
       },
       "1wzkibu": {
         "contains": [
