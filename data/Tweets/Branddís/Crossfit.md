@@ -639,7 +639,7 @@ title: Data:Tweets/Branddís/Crossfit
           "w_177k18"
         ],
         "meaning": "1. coarse, rough 2. crude, obscene, vulgar",
-        "note": "This is a pun, the word has two meaning so it can refer to the sandpaper being coarse and her behavior being obscene."
+        "note": "This is a pun: the word has two meanings, so it can refer both to the sandpaper being coarse and to her behavior being obscene."
       },
       "jvb0eq": {
         "contains": [
@@ -672,7 +672,7 @@ title: Data:Tweets/Branddís/Crossfit
       },
       "s_177k10": {
         "meaning": "I asked her whether that wasn't a little bit coarse/obscene.",
-        "note": "This is a pun, \"grófur\" word has two meaning so it can refer to the sandpaper being coarse and her behavior being obscene."
+        "note": "This is a pun: the word `grófur` has two meanings, so it can refer both to the sandpaper being coarse and to her behavior being obscene."
       }
     },
     "words": {
