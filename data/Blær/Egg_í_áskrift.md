@@ -13150,7 +13150,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_lc2qi"
         ],
-        "meaning": "absurd, ridiculous ideea",
+        "meaning": "absurd, a ridiculous idea",
         "show_definition_above": true,
         "difficult": true
       },
