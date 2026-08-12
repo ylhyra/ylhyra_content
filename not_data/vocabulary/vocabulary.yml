@@ -12447,7 +12447,7 @@ rows:
     row_id: 2097
     last_seen: "2021-11-11"
   - icelandic: að vera ósáttur við eitthvað
-    english: to be unhappy about some issue; to be discontent about something
+    english: to be unhappy about something; to be discontented with something
     depends_on: sáttur
     alternative_id: ósáttur, ósáttur við, sáttur
     level: 3
