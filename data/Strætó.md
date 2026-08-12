@@ -5375,7 +5375,7 @@ title: Data:Strætó
         "contains": [
           "w_m3id66"
         ],
-        "meaning": "the"
+        "meaning": "it"
       },
       "an1t8v": {
         "contains": [
