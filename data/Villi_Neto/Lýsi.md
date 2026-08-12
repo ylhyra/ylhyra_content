@@ -1610,7 +1610,7 @@ title: Data:Villi Neto/Lýsi
         "meaning": "Whoa"
       },
       "s_glfx23": {
-        "meaning": "Wait, is he wearing a baseball cap?"
+        "meaning": "Hold on, dude… is he wearing… is he wearing a baseball cap?"
       },
       "s_glfx35": {
         "meaning": "Holy shit"
