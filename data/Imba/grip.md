@@ -4145,7 +4145,7 @@ title: Data:Imba/grip
         "contains": [
           "w_vdav10"
         ],
-        "meaning": "crowded"
+        "meaning": "a crowd, a throng of people"
       },
       "1yuydhm": {
         "contains": [
