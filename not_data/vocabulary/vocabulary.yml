@@ -19591,7 +19591,7 @@ rows:
     row_id: 3295
     last_seen: "2021-10-14"
   - icelandic: að fara niður í bæ
-    english: to go down-town
+    english: to go downtown
     lemmas: bær
     depends_on: niður
     alternative_id: niður í bæ
