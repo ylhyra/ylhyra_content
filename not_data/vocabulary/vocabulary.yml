@@ -4573,7 +4573,7 @@ rows:
     row_id: 708
     last_seen: "2021-07-30"
   - icelandic: Bandaríkin eru stórt land.
-    english: The United States are a large country.
+    english: The United States is a large country.
     lemmas: stór
     depends_on: Bandaríkin, stór, land
     level: 1
