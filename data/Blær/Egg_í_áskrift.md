@@ -9181,7 +9181,7 @@ title: Data:Blær/Egg í áskrift
           "w_orqz4",
           "w_1obry"
         ],
-        "meaning": "by passion"
+        "meaning": "out of passion"
       },
       "1pzj7n9": {
         "contains": [
