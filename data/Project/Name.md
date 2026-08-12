@@ -342,7 +342,7 @@ title: Data:Project:Name
     },
     "sentences": {
       "s_30w-vAGsJpY": {
-        "meaning": "The Norwegian kids are singing on our belowed warm"
+        "meaning": "The Norwegian kids are singing in our beloved, warm tongue"
       }
     },
     "words": {
