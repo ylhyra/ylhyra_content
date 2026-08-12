@@ -25167,7 +25167,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_BPgeRLnTI3V"
         ],
-        "meaning": "themself"
+        "meaning": "themselves"
       },
       "y6bgsg": {
         "contains": [
