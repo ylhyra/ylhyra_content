@@ -8248,7 +8248,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "contains": [
           "w_-A8kU4IuVA"
         ],
-        "meaning": "streets"
+        "meaning": "the streets"
       },
       "tnzk3a": {
         "contains": [
