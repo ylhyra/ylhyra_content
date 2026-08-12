@@ -41590,7 +41590,7 @@ title: Data:Blær/Fyrst við erum hérna
           "w_-HemxUlNpC7b",
           "w_ekCuKlFk7c6P"
         ],
-        "meaning": "to lay"
+        "meaning": "to lie"
       },
       "16l9js6": {
         "contains": [
@@ -41946,7 +41946,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_-oCoMzV9Glwq"
         ],
-        "meaning": "West fjords"
+        "meaning": "the Westfjords"
       },
       "1ax9i9q": {
         "contains": [
@@ -42001,7 +42001,7 @@ title: Data:Blær/Fyrst við erum hérna
           "w_hmHdych0aPO",
           "w_2lk3l-D4P2V"
         ],
-        "meaning": "66° North (Icelandic outwear brand)"
+        "meaning": "66° North (Icelandic outerwear brand)"
       },
       "1bq3w8r": {
         "contains": [
@@ -43281,7 +43281,7 @@ title: Data:Blær/Fyrst við erum hérna
           "w_c8pJ1bpOrhFx",
           "w_3sVq5BUZdNDV"
         ],
-        "meaning": "in the look for"
+        "meaning": "in search of, looking for"
       },
       "1ocl5gy": {
         "contains": [
@@ -43503,7 +43503,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_6qtlaUAr6Nu"
         ],
-        "meaning": "West fjords"
+        "meaning": "the Westfjords"
       },
       "1q6cm3z": {
         "contains": [
@@ -44106,7 +44106,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_L14eQMOeyVBo"
         ],
-        "meaning": "West fjords"
+        "meaning": "the Westfjords"
       },
       "1x3emie": {
         "contains": [
@@ -44150,7 +44150,7 @@ title: Data:Blær/Fyrst við erum hérna
           "w_ss1S_-xGS1XL",
           "w_pGLGV_h1Bhq-"
         ],
-        "meaning": "in look for"
+        "meaning": "in search of, looking for"
       },
       "1xhinqf": {
         "contains": [
@@ -46238,7 +46238,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_Y-dGQhTSNGk"
         ],
-        "meaning": "Þingeyri is a town in West fjords"
+        "meaning": "Þingeyri is a town in the Westfjords"
       },
       "nkkn8b": {
         "contains": [
@@ -47280,7 +47280,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "We had read about the amazing view out to Húnaflói, which was nowhere to be seen."
       },
       "s_1XSP-cCfBiE": {
-        "meaning": "Our first stop was at Þórhallur at Þingeyrir, it was quite lovely of him to open up his home for us late during the evening."
+        "meaning": "Our first stop was with Þórhallur in Þingeyri, who was kind enough to open his home to us late in the evening."
       },
       "s_1cQKB4SEeivQ": {
         "meaning": "Both of us have big milestone birthdays next year."
@@ -47338,7 +47338,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "There, Hanna sold her handiwork, but now the camper is on the verge of collapse and the couple say that they're going to have to renovate it."
       },
       "s_8SL7sxoALsvL": {
-        "meaning": "Malcolm, a 62 years old from Britain, was on his ninth day of walking around Iceland when we met him right outside Djúpavík."
+        "meaning": "Malcolm, a 62-year-old from Britain, was on his ninth day of walking around Iceland when we met him just outside Djúpavík."
       },
       "s_8dbz4nzdKss5": {
         "meaning": "If you're lucky, seals will swim up to the pool and bathe themselves with you."
@@ -47380,10 +47380,10 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "The summer vacation accidentally became 20 years long."
       },
       "s_EdxwUBJgvtQ": {
-        "meaning": "This article is a collaboration with the outwear fashion brand 66° North"
+        "meaning": "This article is a collaboration with the outerwear brand 66° North."
       },
       "s_EevgqlM2OPIb": {
-        "meaning": "The waterfall Eiðrofli trickles over the cliff's edge that borders the town."
+        "meaning": "The waterfall Eiðrofi trickles over the cliff's edge that borders the town."
       },
       "s_Ey8NH2li33br": {
         "meaning": "We're going to rent the community center, no less."
@@ -47398,7 +47398,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "One of us mentioned how mysterious this town was, which the rest of us agreed with wholeheartedly."
       },
       "s_H3qBdVAUbiPY": {
-        "meaning": "The town of Ísafjörður, the capital city of West fjords"
+        "meaning": "The town of Ísafjörður, the capital of the Westfjords"
       },
       "s_HKHCkSdZkoZN": {
         "meaning": "It took some time and quite a long detour to get to the area, there we were received by tourists, and plenty of them."
@@ -47433,7 +47433,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "A barn was made into a greenhouse, filled with tropical vegetation, and there's a lovely swimming pool there."
       },
       "s_PqPNMkCmHw_d": {
-        "meaning": "Agnes, 18 years old, works at Simbahöllin coffe house."
+        "meaning": "Agnes, 18 years old, works at the Simbahöllin coffee house."
       },
       "s_QTCCrjfrP5xB": {
         "meaning": "20 years of vacation"
@@ -47478,7 +47478,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "the way we went"
       },
       "s_YwvFhQnkzmXh": {
-        "meaning": "We reccomend going for a swim in the ocean to shake up the body."
+        "meaning": "We recommend going for a swim in the ocean to invigorate the body."
       },
       "s_ZGuG99MPfjaw": {
         "meaning": "It wasn't until we had already gone into the pool that we experienced the powers of the Icelandic weather gods."
@@ -47541,19 +47541,19 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Previously there was a grocery store here."
       },
       "s_i_B7_SqnUd1f": {
-        "meaning": "According to her, the Simbahöllin coffe house offers the world's best Belgian waffles."
+        "meaning": "According to her, the Simbahöllin coffee house offers the world's best Belgian waffles."
       },
       "s_kFce5VG2glKm": {
         "meaning": "It was barely possible to see your hands."
       },
       "s_lAqwcxC2Vjz": {
-        "meaning": "We travelled to West fjords one Thursday in the month of June"
+        "meaning": "We travelled to the Westfjords one Thursday in June."
       },
       "s_lB8fpfFNwjht": {
         "meaning": "Látrabjarg was the most overhyped part of our trip."
       },
       "s_le8wO5jDMHpT": {
-        "meaning": "Djúpavík is a small town on the nothern part of the West fjords."
+        "meaning": "Djúpavík is a small town in the northern part of the Westfjords."
       },
       "s_n6Q6Nd_iEDIV": {
         "meaning": "By the seashore in Norðurfjörður is an outside pool made of concrete, the pool of Krossnes"
@@ -47562,7 +47562,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Picnics"
       },
       "s_nM2ZDgsdQ4d9": {
-        "meaning": "Outside there are hot tubs that you can lay in and enjoy the view over the valley."
+        "meaning": "Outside there are hot tubs where you can lie back and enjoy the view over the valley."
       },
       "s_nSnHtCHVEUT": {
         "meaning": "We are going to be the first customers."
@@ -47574,7 +47574,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "The breakfast table was crowded the next day"
       },
       "s_phJKeWNl40-e": {
-        "meaning": "A thick cloud of fog covered everything as we drove upto the deserted streets of the town."
+        "meaning": "A thick cloud of fog covered everything as we drove up to the town's deserted streets."
       },
       "s_pky7pMM4MEgF": {
         "meaning": "He lives in Reykjavík and has a family here."
