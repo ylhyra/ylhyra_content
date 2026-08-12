@@ -3202,7 +3202,7 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         "contains": [
           "w_1w5j28"
         ],
-        "direct": "place of entertainment ",
+        "direct": "place of entertainment",
         "meaning": "the club"
       },
       "muql3r": {
@@ -3263,7 +3263,7 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         "contains": [
           "w_1w5j92"
         ],
-        "meaning": "I "
+        "meaning": "I"
       },
       "v6dt00": {
         "contains": [

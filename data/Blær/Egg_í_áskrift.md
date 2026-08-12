@@ -6944,7 +6944,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "learn about it, and hopefully, to find it mesmerizing."
       },
       "s_4s2b8": {
-        "meaning": "In addition, everyone can purchase a hen or an egg, "
+        "meaning": "In addition, everyone can purchase a hen or an egg,"
       },
       "s_2grzn": {
         "meaning": "rent a hen, or take a hen into foster care."

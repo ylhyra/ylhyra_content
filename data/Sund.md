@@ -6453,7 +6453,7 @@ title: Data:Sund
         "meaning": "It <i>is</i> possible to go to the swimming pool to swim,"
       },
       "s_1ohk7": {
-        "meaning": "There is a swimming pool in almost every single town, and there are seventeen swimming pools in or near Reykjavik. "
+        "meaning": "There is a swimming pool in almost every single town, and there are seventeen swimming pools in or near Reykjavik."
       },
       "s_1ohk72": {
         "meaning": "but I never do that."

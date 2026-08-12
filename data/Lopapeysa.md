@@ -3900,7 +3900,7 @@ title: Data:Lopapeysa
         "contains": [
           "w_naaf29"
         ],
-        "meaning": "they "
+        "meaning": "they"
       },
       "1d5soy0": {
         "contains": [
@@ -4483,7 +4483,7 @@ title: Data:Lopapeysa
     },
     "sentences": {
       "s_naaf0": {
-        "meaning": "If you have gone camping in Iceland or been to an outdoor festival, you will have seen people wearing sweaters which are knitted out of wool. "
+        "meaning": "If you have gone camping in Iceland or been to an outdoor festival, you will have seen people wearing sweaters which are knitted out of wool."
       },
       "s_naaf106": {
         "meaning": "Even some teenagers knit wool sweaters."

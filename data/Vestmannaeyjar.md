@@ -3276,13 +3276,13 @@ title: Data:Vestmannaeyjar
         "meaning": "it only costs one thousand six hundred krona one way."
       },
       "s_xkvp42": {
-        "meaning": "Many people go to the Westman Islands to see the cute birds that live in the cliffs. "
+        "meaning": "Many people go to the Westman Islands to see the cute birds that live in the cliffs."
       },
       "s_xkvp56": {
         "meaning": "They are called puffins and there is a lot of them in the Westman Islands."
       },
       "s_xkvp69": {
-        "meaning": "In 1973 there was a big volcanic eruption in the Westman Islands. "
+        "meaning": "In 1973 there was a big volcanic eruption in the Westman Islands."
       },
       "s_xkvp77": {
         "direct": "Half of all houses went under ash.",

@@ -416,7 +416,7 @@ title: Data:Tweets/Imba/Rok
         "contains": [
           "w_Oz0MNtpWR"
         ],
-        "meaning": "the sheep, "
+        "meaning": "the sheep,"
       }
     },
     "sentences": {

@@ -1389,7 +1389,7 @@ title: Data:Imba/áferð og flug
         "contains": [
           "w_5s1p30"
         ],
-        "meaning": "and "
+        "meaning": "and"
       },
       "utadfz": {
         "contains": [
@@ -1438,7 +1438,7 @@ title: Data:Imba/áferð og flug
         "meaning": "and the texture on the seat was like the skin of an angry wife who no longer loved me."
       },
       "s_5s1p4": {
-        "meaning": "1. I was ecstatic 2. I was in the clouds "
+        "meaning": "1. I was ecstatic 2. I was in the clouds"
       },
       "s_5s1p9": {
         "meaning": "until I saw that everyone else could recline their airplane seat"

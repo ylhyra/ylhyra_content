@@ -3746,7 +3746,7 @@ title: Data:Nafn Vestmannaeyja
         "meaning": "but he is looked at as the first settler."
       },
       "s_r398100": {
-        "meaning": "Because of those Irish slaves these islands to the south of Iceland are called \"the Westman Islands\". "
+        "meaning": "Because of those Irish slaves these islands to the south of Iceland are called \"the Westman Islands\"."
       },
       "s_r39819": {
         "meaning": "His blood brother Hjörleifur came with him."
@@ -3764,7 +3764,7 @@ title: Data:Nafn Vestmannaeyja
         "meaning": "He found them on islands to the south of Iceland and killed them."
       },
       "s_r39886": {
-        "meaning": "Ireland is to the west of Norway, and for this reason Irish people were called \"Westmen\". "
+        "meaning": "Ireland is to the west of Norway, and for this reason Irish people were called \"Westmen\"."
       }
     },
     "words": {

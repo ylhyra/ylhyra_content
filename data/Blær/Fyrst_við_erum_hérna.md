@@ -41105,7 +41105,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_1QJCops8Npy8"
         ],
-        "meaning": "it "
+        "meaning": "it"
       },
       "11twpmz": {
         "contains": [
@@ -41177,7 +41177,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_1sHj_R1ije_2"
         ],
-        "meaning": "this "
+        "meaning": "this"
       },
       "12kv3yh": {
         "contains": [
@@ -41339,7 +41339,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_YyXNtFVmfJ9I"
         ],
-        "meaning": "a popular "
+        "meaning": "a popular"
       },
       "14b45lz": {
         "contains": [
@@ -46786,7 +46786,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_obj7pH_J9NEy"
         ],
-        "meaning": "so "
+        "meaning": "so"
       },
       "u663wp": {
         "contains": [

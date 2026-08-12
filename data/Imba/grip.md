@@ -4193,7 +4193,7 @@ title: Data:Imba/grip
         "contains": [
           "w_vdav124"
         ],
-        "meaning": "and "
+        "meaning": "and"
       },
       "5vrpfj": {
         "contains": [

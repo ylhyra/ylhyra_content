@@ -3136,7 +3136,7 @@ title: Data:Text:A1/Garðvinna
         "contains": [
           "w_5xuu35"
         ],
-        "meaning": "I "
+        "meaning": "I"
       },
       "1sll4zq": {
         "contains": [

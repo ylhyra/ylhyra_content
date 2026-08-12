@@ -21651,7 +21651,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_i4vWPhVDCB1"
         ],
-        "meaning": "I "
+        "meaning": "I"
       },
       "14srw94": {
         "contains": [
@@ -22283,7 +22283,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_8KBEWxWHDLn"
         ],
-        "meaning": "so "
+        "meaning": "so"
       },
       "1fsrund": {
         "contains": [
@@ -24039,7 +24039,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_FeXknFuiLV"
         ],
-        "meaning": "years "
+        "meaning": "years"
       },
       "eoqmkq": {
         "contains": [
