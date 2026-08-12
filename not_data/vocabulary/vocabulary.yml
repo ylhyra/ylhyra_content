@@ -19573,7 +19573,7 @@ rows:
     row_id: 3293
     last_seen: "2021-10-14"
   - icelandic: að vera niðri í bæ
-    english: to be down-town
+    english: to be downtown
     lemmas: bær
     depends_on: niður, niðri
     level: 2
