@@ -13126,7 +13126,7 @@ rows:
     row_id: 2209
     last_seen: "2021-07-31"
   - icelandic: langalangafi
-    english: great great grandfather
+    english: great-great-grandfather
     depends_on: langamma, afi
     alternative_id: langafi
     level: 4
