@@ -626,7 +626,7 @@ title: Data:Tweets/Branddís/Crossfit
         "contains": [
           "w_177k16"
         ],
-        "meaning": "no"
+        "meaning": "not"
       },
       "9xyeha": {
         "contains": [
