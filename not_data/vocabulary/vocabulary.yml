@@ -7534,7 +7534,7 @@ rows:
     lemmas: allur%
     alternative_id: allir
     level: 1
-    note: "\"Allir\" can mean \"all of, every\" if it stands with another word, but if it stands alone it means \"everybody\"."
+    note: "\"Allir\" means \"all\" or \"every\" when it stands with another word, but on its own it means \"everybody\"."
     row_id: 1223
     last_seen: "2021-10-13"
   - icelandic: hann
