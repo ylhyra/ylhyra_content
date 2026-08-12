@@ -6263,7 +6263,7 @@ title: Data:Bláa lónið
         "contains": [
           "w_1nio202"
         ],
-        "meaning": "somewhat"
+        "meaning": "something"
       },
       "gh7iql": {
         "contains": [
