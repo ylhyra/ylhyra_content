@@ -15611,7 +15611,7 @@ rows:
     row_id: 2608
     last_seen: "2021-08-01"
   - icelandic: sólarlönd
-    english: sunny countries; tropical countries where tourists can lay in the sun on the beach
+    english: sunny countries; tropical countries where tourists can lie in the sun on the beach
     depends_on: sól, land
     level: 4
     note: Typically used when discussing package holiday trips.
