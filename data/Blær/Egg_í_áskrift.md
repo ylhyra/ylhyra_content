@@ -11055,13 +11055,13 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_yjjzm"
         ],
-        "meaning": "days-old"
+        "meaning": "day-old"
       },
       "12xktw7": {
         "contains": [
           "w_1bvvi"
         ],
-        "meaning": "chicken, nestling"
+        "meaning": "chicks"
       },
       "55tren": {
         "contains": [
@@ -13015,7 +13015,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_16hvc"
         ],
-        "meaning": "us"
+        "meaning": "we"
       },
       "1f8tegq": {
         "contains": [
@@ -13034,7 +13034,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_es3kp"
         ],
-        "meaning": "we"
+        "meaning": "us"
       },
       "1tz07mh": {
         "contains": [
