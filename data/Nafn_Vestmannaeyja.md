@@ -3755,7 +3755,7 @@ title: Data:Nafn Vestmannaeyja
         "meaning": "At that time it was popular to go to Ireland on Viking raids and take back some slaves."
       },
       "s_r39849": {
-        "meaning": "When they arrived in Iceland, Hjörleifur's slaves killed him."
+        "meaning": "Hjörleifur had taken several Irish slaves with him to Iceland,"
       },
       "s_r39861": {
         "meaning": "Ingólfu was very angry about this and went to look for the slaves."
