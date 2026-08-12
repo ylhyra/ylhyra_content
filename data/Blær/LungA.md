@@ -23121,7 +23121,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_WkFhzm8a6vp"
         ],
-        "meaning": "town"
+        "meaning": "the town"
       },
       "1x35h3q": {
         "contains": [
