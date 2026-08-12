@@ -6760,7 +6760,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -6805,7 +6805,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -6850,7 +6850,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -7465,7 +7465,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -7500,7 +7500,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -7535,7 +7535,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -8049,7 +8049,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -8084,7 +8084,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -8119,7 +8119,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -8985,7 +8985,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -9020,7 +9020,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -9055,7 +9055,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -10042,7 +10042,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -10087,7 +10087,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -10132,7 +10132,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -11873,7 +11873,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -11924,7 +11924,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -11975,7 +11975,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -12171,7 +12171,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -12206,7 +12206,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -12241,7 +12241,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -12766,7 +12766,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -12806,7 +12806,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -12846,7 +12846,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -15266,7 +15266,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -15301,7 +15301,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -15336,7 +15336,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -15997,7 +15997,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -16042,7 +16042,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -16087,7 +16087,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -16736,7 +16736,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -16771,7 +16771,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -16806,7 +16806,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -17153,7 +17153,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -17188,7 +17188,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -17223,7 +17223,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -18578,7 +18578,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -18623,7 +18623,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -18668,7 +18668,7 @@ title: Data:Þúfa
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
