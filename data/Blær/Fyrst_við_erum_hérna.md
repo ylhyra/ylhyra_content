@@ -46004,7 +46004,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_mER34S_xeMSn"
         ],
-        "meaning": "is"
+        "meaning": "are"
       },
       "kygn89": {
         "contains": [
