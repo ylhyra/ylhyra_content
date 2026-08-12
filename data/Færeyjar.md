@@ -6134,7 +6134,7 @@ title: Data:Færeyjar
         "meaning": "I don't understand you."
       },
       "s_151v108": {
-        "meaning": "I feel like the Faroese people are our little cousins because they are situated so close to us."
+        "meaning": "I feel like the Faroese people are our little cousins because they are so close to us."
       },
       "s_151v11": {
         "meaning": "They are a part of Denmark."
