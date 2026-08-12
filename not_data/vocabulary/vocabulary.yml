@@ -20086,7 +20086,7 @@ rows:
     row_id: 3378
     last_seen: "2021-10-18"
   - icelandic: bútasaumsteppi
-    english: "quilted tapestry (n: a large blanket made from combining many rectangular pieces)"
+    english: "a patchwork quilt (n: a large blanket made from combining many rectangular pieces)"
     depends_on: teppi, að sauma, bútur
     alternative_id: bútasaumsteppi, bútasaumur
     level: 6
