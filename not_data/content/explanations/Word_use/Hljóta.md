@@ -21,32 +21,31 @@ Hljóta is irregular:
 |-
 |ég hlýt að
 |I must
-|ég hlaut
-|I must
+|ég hlaut að
+|I must have
 |-
 |þú hlýtur að
 |You must
-|þú hlaust
-|you must
+|þú hlaust að
+|you must have
 |-
 |hann hlýtur að
 |He must
-|hún hlaut
-|she must
+|hún hlaut að
+|she must have
 |-
 |við hljótum að
 |We must
-|við hlutum
-|we must
+|við hlutum að
+|we must have
 |-
 |Þið hljótið að
 |You must
-|þið hlutuð
-|you must
+|þið hlutuð að
+|you must have
 |-
 |Þau hljóta að
 |They must
-|þau hlutu
-|they must
+|þau hlutu að
+|they must have
 |}
-
