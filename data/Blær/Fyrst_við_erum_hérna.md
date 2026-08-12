@@ -43131,7 +43131,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_4Fv1-FPtImac"
         ],
-        "meaning": "the above"
+        "meaning": "the upper"
       },
       "1m3rztb": {
         "contains": [
