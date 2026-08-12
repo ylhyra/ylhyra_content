@@ -859,7 +859,7 @@ title: Data:Tweets/Branddís/Mössuð
     },
     "sentences": {
       "s_kdd60": {
-        "meaning": "This year I plan on becoming so incredibly muscular that my hands fall out proportion with my body and my thighs become as wide as they are long."
+        "meaning": "This year I plan on becoming so incredibly muscular that my arms fall out of proportion with my body and my thighs become as wide as they are long."
       }
     },
     "words": {
