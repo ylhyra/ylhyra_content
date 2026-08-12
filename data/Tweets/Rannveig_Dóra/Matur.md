@@ -392,7 +392,7 @@ title: Data:Tweets/Rannveig Dóra/Matur
     },
     "sentences": {
       "s_13g90": {
-        "meaning": "Rannveig Dóra, food is ready."
+        "meaning": "Rannveig Dóra, the food is ready."
       },
       "s_13g96": {
         "meaning": "My favorite sentence in life."
