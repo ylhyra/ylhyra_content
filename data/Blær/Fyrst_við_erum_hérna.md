@@ -47623,7 +47623,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "a man made pool by the sea"
       },
       "s_zp_tTAF2MzI7": {
-        "meaning": "The machine factory on Þingeyri"
+        "meaning": "The machine works in Þingeyri"
       }
     },
     "words": {
