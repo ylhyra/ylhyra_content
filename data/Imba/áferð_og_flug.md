@@ -1267,7 +1267,7 @@ title: Data:Imba/áferð og flug
         "contains": [
           "w_5s1p34"
         ],
-        "meaning": "war"
+        "meaning": "was"
       },
       "1jfiny0": {
         "contains": [
