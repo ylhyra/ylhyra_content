@@ -4759,7 +4759,7 @@ rows:
     row_id: 736
     last_seen: "2021-07-01"
   - icelandic: Mér þykir leitt að hafa b%rugðist þér.
-    english: I am sad for having let you down.; I am sad for having failed you.
+    english: I'm sorry that I let you down.; I'm sorry that I failed you.
     lemmas: að þykja, að bregðast%
     depends_on: að bregðast, að þykja leitt
     level: 4
