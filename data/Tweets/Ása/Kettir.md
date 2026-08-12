@@ -819,7 +819,7 @@ title: Data:Tweets/Ása/Kettir
         "contains": [
           "w_ofwkkkhK1m"
         ],
-        "meaning": "of cats"
+        "meaning": "cats"
       }
     },
     "sentences": {
