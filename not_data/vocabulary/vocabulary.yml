@@ -11950,7 +11950,7 @@ rows:
     depends_on: helstur
     alternative_id: helst
     level: 2
-    note: "\"Helst\" is the superlative of \"gjarnan -> heldur -> helst\" (\"willingly/readily -> more willingly -> most willingly\")"
+    note: "\"Helst\" is the superlative of \"gjarnan -> heldur -> helst\" (\"willingly/readily -> more willingly -> most willingly\")."
     row_id: 2013
     last_seen: "2021-10-14"
   - icelandic: hlutirnir
