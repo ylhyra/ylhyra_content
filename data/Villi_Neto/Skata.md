@@ -998,7 +998,7 @@ title: Data:Villi Neto/Skata
         ],
         "difficult": true,
         "direct": "",
-        "meaning": "filled with energy and entusiasm",
+        "meaning": "filled with energy and enthusiasm",
         "note": "same as the English \"pep up\""
       },
       "xbaved": {
