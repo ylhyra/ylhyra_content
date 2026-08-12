@@ -47533,7 +47533,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Our expectations were high, since there are so many stories of the cliff's greatness."
       },
       "s_gi539VnX_P04": {
-        "meaning": "it offered black coffee and twisted doughnuts."
+        "meaning": "black coffee and kleinur (twisted doughnuts)."
       },
       "s_h3EMMkoaAGFA": {
         "meaning": "All around the beauty of nature really shines, and the view over the fjord is like no other."
