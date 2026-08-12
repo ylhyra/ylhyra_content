@@ -722,7 +722,7 @@ rows:
     row_id: 108
     last_seen: "2021-07-30"
   - icelandic: heimsending
-    english: food delivery service
+    english: home delivery; food delivery service
     depends_on: heima, að senda
     level: 3
     difficulty: 1
