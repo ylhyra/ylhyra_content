@@ -715,7 +715,7 @@ title: Data:Tweets/Imba/Ligeglad
     },
     "sentences": {
       "s_1mx60": {
-        "meaning": "Life is about having a sufficiently relaxed outlook on life that you enjoy things, and to also be sufficiently strict to yourself for things to be going well."
+        "meaning": "Life is about being relaxed enough to enjoy things, and strict enough with yourself for things to go well."
       }
     },
     "words": {
