@@ -22006,7 +22006,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_Pi5boC4fQf"
         ],
-        "meaning": "are in agreemnet"
+        "meaning": "are in agreement, agree"
       },
       "1bke7ld": {
         "contains": [
