@@ -23142,7 +23142,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_a9DVmZOssZI"
         ],
-        "meaning": "hafe"
+        "meaning": "have"
       },
       "1x090ag": {
         "contains": [
