@@ -8237,7 +8237,7 @@ title: Data:Lúpína
         "meaning": "The lupine did not become very widespread until around the year 1990 when people started to spread seeds alongside roads."
       },
       "s_1t9w17": {
-        "meaning": "There were some forest in Iceland before the island was settled,"
+        "meaning": "There were some forests in Iceland before the island was settled,"
       },
       "s_1t9w178": {
         "meaning": "Some also threw lupine seeds out of airplanes."
