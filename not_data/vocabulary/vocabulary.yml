@@ -13120,7 +13120,7 @@ rows:
     row_id: 2208
     last_seen: "2021-07-31"
   - icelandic: langamma
-    english: great grandmother
+    english: great-grandmother
     depends_on: langur, amma
     level: 3
     row_id: 2209
