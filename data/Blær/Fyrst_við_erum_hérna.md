@@ -47375,7 +47375,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "The pool of Krossnes"
       },
       "s_D3LObj6qOTc1": {
-        "meaning": "We arrived at the hotel and were told that a buffet of cakes and sandwich loafs was coming soon, and that we could sit down and get some free coffee while we waited."
+        "meaning": "We arrived at the hotel and were told that a buffet of cakes and sandwich loaves was coming soon, and that we could sit down and get some free coffee while we waited."
       },
       "s_EZId8J7uCPAp": {
         "meaning": "In one of them we met Darri, 13 years old, who was in the middle of moving from one house to the one next to it."
