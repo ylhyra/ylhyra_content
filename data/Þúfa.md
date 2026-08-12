@@ -20684,7 +20684,7 @@ title: Data:Þúfa
         "contains": [
           "w_13i7152"
         ],
-        "meaning": "the ciy"
+        "meaning": "the city"
       },
       "14w5dl2": {
         "contains": [
