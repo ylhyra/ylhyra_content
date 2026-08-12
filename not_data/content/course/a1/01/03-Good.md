@@ -60,7 +60,7 @@ Notice which form of the word "good" is used in the following conversation:
 you: Hvað segirðu '''gott'''?
 me: Allt '''gott'''. En þú?
 you: Allt '''gott'''.
-you: Ert þú '''góður''' í íslensku.
+you: Ert þú '''góður''' í íslensku?
 me: Já. Ég er mjög '''góður''' í íslensku.
 you: Það er '''gott'''.
 you: Er mamma þín líka '''góð''' í íslensku?
