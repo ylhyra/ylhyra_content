@@ -3758,7 +3758,7 @@ title: Data:Nafn Vestmannaeyja
         "meaning": "Hjörleifur had taken several Irish slaves with him to Iceland,"
       },
       "s_r39861": {
-        "meaning": "Ingólfu was very angry about this and went to look for the slaves."
+        "meaning": "Ingólfur was very angry about this and went to look for the slaves."
       },
       "s_r39874": {
         "meaning": "He found them on islands to the south of Iceland and killed them."
