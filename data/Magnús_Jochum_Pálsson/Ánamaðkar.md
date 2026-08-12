@@ -7843,7 +7843,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "contains": [
           "w_R94-WiH5QL"
         ],
-        "meaning": "shoesoles",
+        "meaning": "soles (of shoes)",
         "show_definition_above": true
       },
       "17gqs0e": {
