@@ -8702,7 +8702,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1gz2u"
         ],
-        "meaning": "of the neighbor"
+        "meaning": "the neighbor"
       },
       "9394vn": {
         "contains": [
