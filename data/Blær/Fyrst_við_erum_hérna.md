@@ -47614,7 +47614,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "The pool of Krossnes"
       },
       "s_wufhbkOq1LxA": {
-        "meaning": "Heydalur in Mjóijörður"
+        "meaning": "Heydalur in Mjóifjörður"
       },
       "s_xSR8qJ21xnQ": {
         "meaning": "Since we're already on this rock in the ocean, then we should by all means just enjoy it."
