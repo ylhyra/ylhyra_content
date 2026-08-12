@@ -3452,7 +3452,7 @@ rows:
     english: 100 Icelandic króna coin;; 100 Icelandic króna
     depends_on: kall, hundrað
     level: 2
-    note_regarding_english: "\"Kall\" (meaning \"a man\") is used similar to the English \"bucks\"."
+    note_regarding_english: "\"Kall\" (meaning \"a man\") is used similarly to the English \"bucks\"."
     row_id: 529
     last_seen: "2021-07-30"
   - icelandic: H*altu* k*jafti*.
