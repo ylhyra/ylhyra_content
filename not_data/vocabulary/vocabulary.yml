@@ -10370,7 +10370,7 @@ rows:
     row_id: 1715
     last_seen: "2021-07-12"
   - icelandic: Ég skil þig.
-    english: I understand you.; "Yeah I get what you mean."
+    english: I understand you.; "Yeah∆ I get what you mean."
     lemmas: að skilja, þú
     level: 1
     row_id: 1716
