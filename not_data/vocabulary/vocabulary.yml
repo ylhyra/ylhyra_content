@@ -3307,7 +3307,7 @@ rows:
     row_id: 504
     last_seen: "2021-07-30"
   - icelandic: Fylgist{{u}} með boltanum?
-    english: Do you pay attention to football/handball/basketball?
+    english: Do you follow football/handball/basketball?
     depends_on: að fylgjast með, bolti
     level: 2
     eyða: IGNORED
