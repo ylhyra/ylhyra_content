@@ -6733,7 +6733,7 @@ rows:
     row_id: 1070
     last_seen: "2021-07-29"
   - icelandic: einhver
-    english: someone; something
+    english: someone; somebody
     depends_on: einn, hver
     level: 1
     note_regarding_english: masculine
