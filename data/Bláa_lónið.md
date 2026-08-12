@@ -6074,7 +6074,7 @@ title: Data:Bláa lónið
         "contains": [
           "w_1nio209"
         ],
-        "meaning": "hot"
+        "meaning": "white"
       },
       "2l4o3r": {
         "contains": [
