@@ -712,7 +712,7 @@ title: Data:Tweets/Þorsteinn/Afi
         "contains": [
           "w_7v8811"
         ],
-        "meaning": "100 year old"
+        "meaning": "100-year-old"
       },
       "uqtpi6": {
         "contains": [
@@ -737,7 +737,7 @@ title: Data:Tweets/Þorsteinn/Afi
     "sentences": {
       "s_7v880": {
         "direct": "You really need to do something in your matters if [...]",
-        "meaning": "You know you really need to get your life together if your 100 year old grandfather is both more muscular and more flexible than you."
+        "meaning": "You really need to get your life together if your 100-year-old grandfather is both more muscular and more flexible than you."
       }
     },
     "words": {
