@@ -11410,7 +11410,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_wvpdt"
         ],
-        "meaning": "appreciated",
+        "meaning": "valued",
         "show_definition_above": true
       },
       "x2edhs": {
