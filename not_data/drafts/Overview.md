@@ -118,7 +118,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 **The items in [[Game:Kyn]] are sorted by ease of remembering word but not based on obviousness of which gender a word is. Needs reordering to make more fun for beginners and needs pruning of less important words.
 **<small>Helper material: [[Project:Helpful links|Third party material]] • [[Project:Cognates|Common English cognates]].</small>
 *[[Project:Todo|Unsorted stream of material that needs to be explained some time]] <sup>[<u>[https://ylhyra.is/index.php?title=Project:Todo&action=edit&section=new ''add new item'']]</u></sup>
-*[[Project:Software work in progess|Software]]
+*[[Project:Software work in progress|Software]]
 *Vantar að gera ítarlegri leiðbeiningar um hvernig hugbúnaðurinn virkar.
 
 ### Ideas
@@ -141,4 +141,3 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 * helgi er beygt "til helgar" ef það þýðir weekend, annars "til helgi"
 * https://inflections.ylhyra.is/sj%C3%B3
-

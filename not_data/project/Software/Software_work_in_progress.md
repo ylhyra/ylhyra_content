@@ -1,5 +1,7 @@
 ---
-title: Project:Software work in progess
+title: Project:Software work in progress
+redirects:
+- Project:Software work in progess
 tags:
 - Code
 ---
@@ -13,4 +15,4 @@ tags:
 *Make sure text is in view when listening to audio.
 *Speech recordings need to be made easier, also needs post-processing of short audio recordings. [https://github.com/lucianodato/speech-denoiser]
 *Add script to an external CDN? [https://www.jsdelivr.com]
-*[[Project:Software work in progess/Útlit]]
+*[[Project:Software/Útlit]]
