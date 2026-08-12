@@ -2843,7 +2843,7 @@ title: Data:Fóstbræður
         "meaning": "Fóstbræður is an Icelandic TV show which was shown from 1997 to 2001."
       },
       "s_1a7n19": {
-        "meaning": "Fóstbræður were very popular in Iceland any many still use funny sentences from this show."
+        "meaning": "Fóstbræður was very popular in Iceland, and many people still quote funny lines from the show."
       },
       "s_1a7n35": {
         "meaning": "The humor in this show is rather strange"
