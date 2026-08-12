@@ -3267,7 +3267,7 @@ title: Data:Vestmannaeyjar
     },
     "sentences": {
       "s_xkvp0": {
-        "meaning": "To the south of Iceland are islands called Westman Islands."
+        "meaning": "To the south of Iceland are islands called the Westman Islands."
       },
       "s_xkvp21": {
         "meaning": "Of course, it is much cheaper to go by boat"
