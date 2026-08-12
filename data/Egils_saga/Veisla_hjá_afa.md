@@ -9290,7 +9290,7 @@ title: Data:Egils saga/Veisla hjá afa
         "meaning": "Thank you, my Egill.\""
       },
       "s_esty245": {
-        "meaning": "The next days he gives Egill three shells and a duck egg for the poem."
+        "meaning": "The next day he gives Egill three shells and a duck egg for the poem."
       },
       "s_esty257": {
         "meaning": "Egill is very happy with the gifts and writes a poem about them."
