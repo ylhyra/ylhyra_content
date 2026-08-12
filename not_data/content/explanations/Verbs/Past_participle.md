@@ -100,7 +100,7 @@ Irregular words that include the same change as in the [[past tense]] include:
 **Same change as in the past tense "mér þótti"
 *að segja → ég hef sagt
 **Same change as in the past tense "ég sagði"
-*að spyrja → ég spurt
+*að spyrja → ég hef spurt
 **Same change as in the past tense "ég spurði"
 *að sækja → ég hef sótt
 **Same change as in the past tense "ég sótti"
@@ -125,4 +125,3 @@ The words listed above are the most important past participle forms that you nee
 *There are a handful of other helper words that can also result in a past participle, but they are so rarely used that you should not learn them.
 
 </div>
-
