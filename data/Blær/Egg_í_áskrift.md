@@ -6923,7 +6923,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "Júlíus has been a farmer for quite some years, but has been working on rebuilding the farm at Þykkvabær after a catastrophic fire at his old farm, at Tjörn in Vatnsnes."
       },
       "s_jyduc": {
-        "meaning": "Over 200 of his Icelandic Chicken perished in the fire. As a result, Júlíus was forced to abandon the farm, as the Ministry of Agriculture had by now allocated his land to other causes."
+        "meaning": "Over 200 of his Icelandic chickens perished in the fire. As a result, Júlíus was forced to abandon the farm after the Ministry of Agriculture allocated the plot elsewhere."
       },
       "s_1jr5g": {
         "meaning": "But prior to that, he managed to save around 100 eggs from the fire and put them in his neighbor’s incubator *(a machine that keeps eggs warm until they hatch)*."
@@ -6988,19 +6988,19 @@ title: Data:Blær/Egg í áskrift
         "meaning": "In addition, the hen is colorful"
       },
       "s_10fo9": {
-        "meaning": "has an big attitude, and that the eggs it lays are way more delicious."
+        "meaning": "spirited, and lays much tastier eggs."
       },
       "s_sbat6": {
         "meaning": "\"Here the Icelandic Chicken is allowed to grow and thrive. It can become up to 7 years old."
       },
       "s_11qs4": {
-        "meaning": "The factory bird, however, is only allowed to live in 2 years, locked in a cage."
+        "meaning": "The factory-farmed bird, however, is allowed to live for only two years, confined to a cage."
       },
       "s_1c6z8": {
         "meaning": "There they are grouped together without ever seeing the light of day."
       },
       "s_1hfnh": {
-        "meaning": "They are exhausted, and then slaughtered."
+        "meaning": "They are taken away and then slaughtered."
       },
       "s_1ms8j": {
         "meaning": "The houses are disinfected and new chickens are bought in their place."
@@ -7009,7 +7009,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "I suppose this is what the market wanted."
       },
       "s_ahy8v": {
-        "meaning": "More eggs, more meat, and have it cheap."
+        "meaning": "More eggs, more meat, all at a low price."
       },
       "s_976dy": {
         "meaning": "The business at Þykkvabæ has flourished in recent years. Júlíus has gotten around sixty subscribers, or \"foster parents\"."
@@ -7033,7 +7033,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "I send out press releases, and who knows, maybe the hen will send you a Christmas card."
       },
       "s_12ksf": {
-        "meaning": "Julius says it is constantly increasing that people have chickens at their home in the city."
+        "meaning": "Júlíus says it is becoming increasingly common for people to keep chickens at home in the city."
       },
       "s_vod1l": {
         "meaning": "All they need is a shack, a container, and some love."
@@ -7076,7 +7076,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "Julius says the eggs from the Icelandic Chicken are organic, and that the egg yolk has the color of a mandarin (a fruit similar to an orange)."
       },
       "s_1rh0l": {
-        "meaning": "In addition, the flavor is much stronger and fuller than traditional eggs."
+        "meaning": "The flavor is also much stronger and fuller than that of a conventional egg."
       },
       "s_p6vbd": {
         "meaning": "When the Icelandic Chicken is at it's maximum egg-laying capacity, it lays one egg a day."
@@ -7124,7 +7124,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "The Icelandic Chicken doens't let changes in weather or feed affect it, unlike the factory-chicken."
       },
       "s_yyse4": {
-        "meaning": "Over coffee and chocolate, we the guests agree  that we lack more chickens in our lives."
+        "meaning": "Over coffee and chocolate, we guests agree that we need more chickens in our lives."
       },
       "s_i6quy": {
         "meaning": "After having visited and learned about these excellent birds, it's doesn't appear to be such a bad idea to establish a farm in your own backyard."
