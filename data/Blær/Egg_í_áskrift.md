@@ -8618,7 +8618,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_19zvz"
         ],
-        "meaning": "he"
+        "meaning": "him, to him"
       },
       "1bcxl1y": {
         "contains": [
