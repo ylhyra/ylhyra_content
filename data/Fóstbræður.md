@@ -2640,7 +2640,7 @@ title: Data:Fóstbræður
         "contains": [
           "w_1a7n2"
         ],
-        "meaning": "are"
+        "meaning": "is"
       },
       "1w80hj4": {
         "contains": [
