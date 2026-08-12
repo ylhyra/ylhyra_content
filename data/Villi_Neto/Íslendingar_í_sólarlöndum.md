@@ -3313,7 +3313,7 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         "meaning": "Yeah, we have to go there again."
       },
       "s_1w5j49": {
-        "meaning": "Guys, I think don't think I'll be able to leave the house today, I like totally burned myself yesterday."
+        "meaning": "Guys, I don't think I'll be able to leave the house today, I like totally burned myself yesterday."
       },
       "s_1w5j70": {
         "meaning": "Has anybody seen by sombrero hat?"
