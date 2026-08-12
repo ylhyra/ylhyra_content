@@ -11253,7 +11253,7 @@ title: Data:Blær/Egg í áskrift
           "w_1akim",
           "w_ujny5"
         ],
-        "meaning": "asked for, requested"
+        "meaning": "asked to"
       },
       "1hpw7gy": {
         "contains": [
