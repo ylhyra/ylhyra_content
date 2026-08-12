@@ -1065,7 +1065,7 @@ title: Data:Text/Milk
         "contains": [
           "w_19j63"
         ],
-        "meaning": "mil"
+        "meaning": "milk"
       },
       "16y8h8e": {
         "contains": [
