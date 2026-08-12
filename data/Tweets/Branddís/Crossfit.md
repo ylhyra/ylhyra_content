@@ -632,7 +632,7 @@ title: Data:Tweets/Branddís/Crossfit
         "contains": [
           "w_177k9"
         ],
-        "meaning": "their"
+        "meaning": "her, her own"
       },
       "eno2n2": {
         "contains": [
