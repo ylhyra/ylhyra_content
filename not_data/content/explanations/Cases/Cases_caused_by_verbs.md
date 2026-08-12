@@ -30,7 +30,7 @@ This is a list of the most common verbs and which [[case]] they cause.
 *að baka
 **„Bakaðirðu þetta súrdeigsbrauð sjálfur?“
 *að bera
-**„Ég þarf að bera þetta upp allann stigann.“
+**„Ég þarf að bera þetta upp allan stigann.“
 *að biðja
 **„Er hægt að biðja þig um hjálp?“
 *að borða
@@ -137,8 +137,6 @@ This is a list of the most common verbs and which [[case]] they cause.
 **„Ég veit það ekki.“
 *að vona
 **„Ég meina, ég vona það.“
-*að vanta
-**„Mig vantar ekkert.“
 *að æfa
 **„Ég er að æfa mig.“
 *að þekkja
