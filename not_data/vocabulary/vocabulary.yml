@@ -6951,7 +6951,7 @@ rows:
   - icelandic: eftir Krist (e. Kr.)
     english: anno Domini (A.D.)
     level: 4
-    note: As opposed to "before Christ (B.C.)"
+    note: As opposed to "before Christ (B.C.)".
     row_id: 1103
     last_seen: "2021-07-29"
   - icelandic: fyrir Krist (f. Kr.)
