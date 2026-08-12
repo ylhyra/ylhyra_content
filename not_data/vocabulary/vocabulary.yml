@@ -103,7 +103,7 @@ rows:
     row_id: 15
     last_seen: "2021-11-10"
   - icelandic: Hvernig bíl átt{{u}}?; Hvers konar bíl átt{{u}}?
-    english: What kind of a car do you own?
+    english: What kind of car do you own?
     lemmas: bíll, að eiga
     level: 1
     row_id: 16
