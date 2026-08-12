@@ -24891,7 +24891,7 @@ title: Data:Blær/LungA
           "w_gHRtruiClOY"
         ],
         "direct": "",
-        "meaning": "posess"
+        "meaning": "possess"
       },
       "v6z4nx": {
         "contains": [
