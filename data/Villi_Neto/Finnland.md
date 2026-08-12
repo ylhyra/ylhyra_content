@@ -947,7 +947,7 @@ title: Data:Villi Neto/Finnland
         "meaning": "Is there a sauna here?"
       },
       "s_126516": {
-        "meaning": "I want a hot dog after this trip to the swimming pool"
+        "meaning": "I want a hot dog after swimming."
       },
       "s_126522": {
         "meaning": "Mmm, a good sauna and good friends."
