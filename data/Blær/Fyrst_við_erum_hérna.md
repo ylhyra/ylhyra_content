@@ -47309,7 +47309,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Next we went to the westernmost point of the country, Látrabjarg."
       },
       "s_54ffNcRYU2fA": {
-        "meaning": "In a walking distance is the old town, where you can find rows of charming houses."
+        "meaning": "Within walking distance is the old town, where you can find rows of charming houses."
       },
       "s_5VI6k3mMZIsv": {
         "meaning": "We're going to throw a proper party."
