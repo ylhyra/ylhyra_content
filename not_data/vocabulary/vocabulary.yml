@@ -19319,7 +19319,7 @@ rows:
     depends_on: fyrsta hæð
     alternative_id: Ég bý á annarri hæð., önnur hæð
     level: 3
-    note: Iceland follows the American system of numbering building storys, the ground floor is the first floor.
+    note: "Iceland follows the American system of numbering building storeys: the ground floor is the first floor."
     row_id: 3243
     last_seen: "2021-09-02"
   - icelandic: Við finnum einhverja aðra leið.
