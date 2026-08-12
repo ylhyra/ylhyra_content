@@ -4261,7 +4261,7 @@ title: Data:Villi Neto/Íslenskar myndir
         "meaning": "Dad?"
       },
       "s_12ll38": {
-        "meaning": "Your dad is actor film actor Hilmir Snær now."
+        "meaning": "Your dad is film actor Hilmir Snær now."
       },
       "s_12ll45": {
         "meaning": "My love, don't be like this."
