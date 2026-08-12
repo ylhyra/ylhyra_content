@@ -23675,7 +23675,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_01OwVp-AfQz"
         ],
-        "meaning": "of the creativity"
+        "meaning": "the creativity"
       },
       "9h60qw": {
         "contains": [
