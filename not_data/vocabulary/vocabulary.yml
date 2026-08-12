@@ -11604,7 +11604,7 @@ rows:
     row_id: 1943
     last_seen: "2021-07-30"
   - icelandic: þriggja daga fyrirvari
-    english: a three days' notice
+    english: three days' notice
     lemmas: fyrirvari%
     depends_on: þrír
     level: 3
