@@ -1432,7 +1432,7 @@ title: Data:Imba/áferð og flug
         "meaning": "I was further back"
       },
       "s_5s1p25": {
-        "meaning": "in the furthest-back seat"
+        "meaning": "in the very back seat"
       },
       "s_5s1p29": {
         "meaning": "and the texture on the seat was like the skin of an angry wife who no longer loved me."
