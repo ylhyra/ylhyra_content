@@ -21813,7 +21813,7 @@ title: Data:Þúfa
         "meaning": "The soil does not rise evenly everywhere, so it becomes uneven."
       },
       "s_13i739": {
-        "meaning": "When the weather becomes warm again, the ice turns into water again."
+        "meaning": "When it warms up, the ice turns back into water."
       },
       "s_13i749": {
         "meaning": "but before the soil is able to sink, the holes (that the ice left behind) fill with sand."
