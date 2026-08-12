@@ -3831,7 +3831,7 @@ title: Data:Imba/grip
         "contains": [
           "w_vdav87"
         ],
-        "meaning": "awakedness"
+        "meaning": "wakefulness, being awake"
       },
       "17qfl3l": {
         "contains": [
