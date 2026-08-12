@@ -1971,7 +1971,7 @@ title: Data:Vísur Vatnsenda-Rósu
         "meaning": "All that which could grace a man."
       },
       "s_o9s244": {
-        "meaning": "He really stood out among the population"
+        "meaning": "He stood out above all other people"
       },
       "s_o9s250": {
         "meaning": "I mourn you most of all people"
