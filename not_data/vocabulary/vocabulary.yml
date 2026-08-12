@@ -2043,7 +2043,7 @@ rows:
     row_id: 317
     last_seen: "2021-07-01"
   - icelandic: íslenska
-    english: Icelandic language
+    english: the Icelandic language; Icelandic
     depends_on: Ísland, íslenskur
     level: 1
     row_id: 318
