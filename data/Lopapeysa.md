@@ -565,7 +565,7 @@ title: Data:Lopapeysa
       },
       "s_naaf28": {
         "id": "s_naaf28",
-        "text": "Þær eru vanalega brúnar,​ gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni.",
+        "text": "Þær eru vanalega brúnar, gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni.",
         "words": [
           {
             "id": "w_naaf29",
@@ -586,7 +586,7 @@ title: Data:Lopapeysa
             "id": "w_naaf32",
             "text": "brúnar"
           },
-          ",​ ",
+          ", ",
           {
             "id": "w_naaf34",
             "text": "gráar"
@@ -1877,7 +1877,7 @@ title: Data:Lopapeysa
       },
       "s_naaf28": {
         "id": "s_naaf28",
-        "text": "Þær eru vanalega brúnar,​ gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni.",
+        "text": "Þær eru vanalega brúnar, gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni.",
         "words": [
           {
             "id": "w_naaf29",
@@ -1898,7 +1898,7 @@ title: Data:Lopapeysa
             "id": "w_naaf32",
             "text": "brúnar"
           },
-          ",​ ",
+          ", ",
           {
             "id": "w_naaf34",
             "text": "gráar"
@@ -3239,7 +3239,7 @@ title: Data:Lopapeysa
         },
         {
           "id": "s_naaf28",
-          "text": "Þær eru vanalega brúnar,​ gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni.",
+          "text": "Þær eru vanalega brúnar, gráar eða svartar og með mynstri sem fer svona í hring í kringum axlirnar á manni.",
           "words": [
             {
               "id": "w_naaf29",
@@ -3260,7 +3260,7 @@ title: Data:Lopapeysa
               "id": "w_naaf32",
               "text": "brúnar"
             },
-            ",​ ",
+            ", ",
             {
               "id": "w_naaf34",
               "text": "gráar"
