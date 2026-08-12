@@ -41396,7 +41396,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_rlOtl2bC9WIf"
         ],
-        "meaning": "house"
+        "meaning": "the house"
       },
       "155hmy7": {
         "contains": [
