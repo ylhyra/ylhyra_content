@@ -12985,7 +12985,7 @@ rows:
     row_id: 2188
     last_seen: "2021-07-30"
   - icelandic: ríkisborgararéttur
-    english: a citizenship
+    english: citizenship
     depends_on: ríkisborgari, rétturinn
     level: 4
     row_id: 2189
