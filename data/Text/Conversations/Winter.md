@@ -1465,7 +1465,7 @@ title: Data:Text:Conversations/Winter
         "contains": [
           "w_atj46"
         ],
-        "meaning": "mine"
+        "meaning": "my"
       },
       "mfor58": {
         "contains": [
