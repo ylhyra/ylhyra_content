@@ -941,7 +941,7 @@ title: Data:Villi Neto/Finnland
     },
     "sentences": {
       "s_12650": {
-        "meaning": "Oh, this hot tub is far too hot!"
+        "meaning": "Oh, this hot tub is too hot."
       },
       "s_126511": {
         "meaning": "Is there a sauna here?"
