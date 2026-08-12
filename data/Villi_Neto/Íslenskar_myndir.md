@@ -3916,7 +3916,7 @@ title: Data:Villi Neto/Íslenskar myndir
         "contains": [
           "w_12ll46"
         ],
-        "meaning": "the love"
+        "meaning": "darling, sweetheart"
       },
       "1xdl9xf": {
         "contains": [
