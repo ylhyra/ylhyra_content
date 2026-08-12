@@ -4746,7 +4746,7 @@ rows:
     row_id: 734
     last_seen: "2021-07-30"
   - icelandic: Hann hefur gott vald á tungumálinu.
-    english: He has good command over the language.; He is quite proficient at the language.
+    english: He has a good command of the language.; He is quite proficient at the language.
     depends_on: vald, tungumál
     level: 4
     row_id: 735
