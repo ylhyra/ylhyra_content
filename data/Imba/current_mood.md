@@ -1252,7 +1252,7 @@ title: Data:Imba/current mood
         "contains": [
           "w_qs5b4"
         ],
-        "meaning": "(a) steam, current"
+        "meaning": "(a) stream, current"
       },
       "lh8mi2": {
         "contains": [
