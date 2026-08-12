@@ -5163,7 +5163,7 @@ title: Data:Harðfiskur
         "contains": [
           "w_yww539"
         ],
-        "meaning": "nothing, anything"
+        "meaning": "anything"
       },
       "i11h59": {
         "contains": [
