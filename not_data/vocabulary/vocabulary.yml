@@ -20195,7 +20195,7 @@ rows:
     row_id: 3396
     last_seen: "2021-10-18"
   - icelandic: rúmteppið
-    english: "the bed cover; the beadspread (n: a decorative covering placed over a bed)"
+    english: "the bed cover; the bedspread (n: a decorative covering placed over a bed)"
     lemmas: rúmteppi%
     depends_on: rúm, teppi
     alternative_id: rúmteppi
