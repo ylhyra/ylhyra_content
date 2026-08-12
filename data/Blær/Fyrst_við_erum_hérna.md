@@ -42702,7 +42702,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_9d6GxRZLKpZI"
         ],
-        "meaning": "s"
+        "meaning": "is"
       },
       "1hx2wcr": {
         "contains": [
