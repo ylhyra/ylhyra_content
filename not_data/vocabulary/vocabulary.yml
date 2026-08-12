@@ -17515,7 +17515,7 @@ rows:
   - icelandic: ég held að það hafi verið
     english: I think it was
     level: 3
-    note: When the main clause is in the present tense ("held"), the subordinate clause uses the subjunctive helper verb "hafi" rather than the plain past "var".
+    note: The helper phrase "ég held að" ("I think that") commonly introduces a clause in the subjunctive. To refer to a past situation here, Icelandic uses the perfect-subjunctive helper phrase "hafi verið" ("was/has been") rather than simply substituting the indicative past "var".
     row_id: 2928
     last_seen: "2021-08-02"
   - icelandic: þeir drápu
