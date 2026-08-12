@@ -47321,7 +47321,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Through the years, Djúpavík has become a popular center for artists and some say that the town is the new Seyðisfjörður"
       },
       "s_60fnbBYeXYWa": {
-        "meaning": "Heydalur and a swim in a greenhosue"
+        "meaning": "Heydalur and a swim in a greenhouse"
       },
       "s_6CETAzFLic_v": {
         "meaning": "The town is constantly becoming more vibrant,"
