@@ -11180,7 +11180,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_ganpg"
         ],
-        "meaning": "the housewifes",
+        "meaning": "the housewives",
         "show_definition_above": true,
         "difficult": true
       },
