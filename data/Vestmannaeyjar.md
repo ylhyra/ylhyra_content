@@ -3286,7 +3286,7 @@ title: Data:Vestmannaeyjar
       },
       "s_xkvp77": {
         "direct": "Half of all houses went under ash.",
-        "meaning": "Half of the houses were covered by volcanic ash."
+        "meaning": "Half of all the houses were buried in volcanic ash."
       },
       "s_xkvp84": {
         "meaning": "But the town was rebuilt and now four thousand people live in the Westman Islands."
