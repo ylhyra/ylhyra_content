@@ -7080,7 +7080,6 @@ title: Data:Lúpína
       },
       "13iq204": {
         "contains": [
-          "w_1t9w102",
           "w_1t9w103"
         ],
         "meaning": "around"
