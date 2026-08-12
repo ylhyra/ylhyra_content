@@ -2203,7 +2203,7 @@ rows:
     row_id: 342
     last_seen: "2021-07-01"
   - icelandic: Ég get *því miður* ekki hjálpað þér.
-    english: Unfortunately∆ I can not help you.
+    english: Unfortunately∆ I cannot help you.
     lemmas: að geta, að hjálpa, þú
     alternative_id: því miður
     level: 1
