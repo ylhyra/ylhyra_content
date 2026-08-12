@@ -41,8 +41,8 @@ It would also be nice to have some indication of what kind of exercises would wo
 
 ### Day 4 
 
-* ''‚Þarna‘ pronounciation'' Here and there.
-* ''son &amp; dóttir'' Surnames, families. (Needs noting that you can strictly speaking take your moms name but no-one does this. Is a recurring topic on fora.
+* ''‚Þarna‘ pronunciation'' Here and there.
+* ''son &amp; dóttir'' Surnames, families. (Needs noting that you can strictly speaking take your mom’s name but no-one does this. Is a recurring topic on fora.)
 * ''Numbers (age)'' ára in accusative! And with e.g. 21 it becomes árs? Maybe something with counting money as well.
 * ''-ðu, -tu (ætlarðu/kauptu)''
 * ''Describing: smá, mjög, stundum''

@@ -42,7 +42,7 @@ This sound also occurs when the two letters "hr" are written together. Notice th
 
 *'''rn''' – The letter cluster "rn" is pronounced "dn"<ref group="lower-alpha">As a student, you should always pronounce it as "dn", it sounds better and more natural. Native speakers do occasionally pronounce it as "rdn" (especially when speaking slowly), but you should try not to.
 
-The reason for this odd pronunciation is that when you go from "r" to "n", you want do start with a strong "n" sound, which is easier to do if the "n" is pronounced like "dn". Now you have "rdn". The "r" is difficult to pronounce in this position, so it is overshadowed by that "d" sound, so you're left with a "dn" sound.</ref>
+The reason for this odd pronunciation is that when you go from "r" to "n", you want to start with a strong "n" sound, which is easier to do if the "n" is pronounced like "dn". Now you have "rdn". The "r" is difficult to pronounce in this position, so it is overshadowed by that "d" sound, so you're left with a "dn" sound.</ref>
 **bö'''rn''', bi'''rn'''i'''rn'''ir, fo'''rn''', kja'''rn'''i
 * '''rl''' – The letter cluster "rl" is pronounced "dl" or "rdl"
 ** karlar ({{pron|kadlar}}), varla ({{pron|vadla}})

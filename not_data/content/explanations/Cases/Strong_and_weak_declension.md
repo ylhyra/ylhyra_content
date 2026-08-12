@@ -71,7 +71,7 @@ Strong declension
 |-
 |
 |{{kk}}
-|Femine
+|Feminine
 |{{hk}}
 |-
 |{{nf}}

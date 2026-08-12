@@ -8,7 +8,7 @@ classes:
 
 # About the vocabulary game
 
-This is a simple flaschard-based vocabulary game that schedules words using [[w:Spaced repetition|spaced repetition]].
+This is a simple flashcard-based vocabulary game that schedules words using [[w:Spaced repetition|spaced repetition]].
 After rating how well you know terms, you will see difficult terms frequently until they begin to stick in memory. After that, you will see them in ever-increasing intervals.
 
 The game works best if used daily.
@@ -42,11 +42,11 @@ Unless you already know some Icelandic, you will in most cases only use the "Bad
 
 ## Timer
 
-Each session lasts <Constant name="EACH_SESSION_LASTS_X_MINUTES"/> minutes; the progess can be seen in the progress bar at the bottom of your screen. The timer will automatically pause when there's no activity from the user, so you can easily step away from the session. You don't have to finish the entire session, the words will still be scheduled correctly.
+Each session lasts <Constant name="EACH_SESSION_LASTS_X_MINUTES"/> minutes; the progress can be seen in the progress bar at the bottom of your screen. The timer will automatically pause when there's no activity from the user, so you can easily step away from the session. You don't have to finish the entire session, the words will still be scheduled correctly.
 
 ## Keyboard shortcuts
 
-Click <kbd>1</kbd> for "Bad", <kbd>2</kbd> for "Good", and <kbd>3</kbd> for "Easy",
+Click <kbd>1</kbd> for "Bad", <kbd>2</kbd> for "Good", and <kbd>3</kbd> for "Easy".
 
 The buttons <kbd>&larr;</kbd>, <kbd>↓</kbd>, <kbd>&rarr;</kbd>, or <kbd>J</kbd>, <kbd>K</kbd>, <kbd>L</kbd>, or <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> can also be used for the same purpose.
 

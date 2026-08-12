@@ -27,7 +27,7 @@ The literal meaning is "I am finished reading this book."
 Fill in the blank:
 
 *I am eating. → Ég er að borða.
-*I've already eatan. → ___________
+*I've already eaten. → ___________
 
 <Collapse>
 
@@ -39,7 +39,7 @@ Fill in the blank:
 Fill in the blank:
 
 *Are you drinking coffee? → Ertu að drekka kaffi?
-*'''Have''' you had coffee? → ________________ (Have you already drunken coffee?)
+*'''Have''' you had coffee? → ________________ (Have you already drunk coffee?)
 
 <Collapse>
 

@@ -12,7 +12,7 @@ reviewed: no
 
 <level level="a1"/>
 
-[[w:Prepositions|Prepositions]] are the small words that indicate relationship between things, such as "from", "about", "below", "through" and so on.
+[[w:Prepositions|Prepositions]] are the small words that indicate the relationship between things, such as "from", "about", "below", "through" and so on.
 
 Prepositions in Icelandic cause words to have a particular [[cases|case]]. A preposition will never cause the [[nominative case]] (first case), it will always cause one of the other three ([[accusative]], [[dative]], or [[genitive]]).
 
@@ -79,8 +79,8 @@ In general:
 Examples:
 
 *Þessi bók er eftir hann. {{þf}} = This book is authored by him.
-*Myndin kemur út eftir mánuð {{þf}} = The movie will be released in a month. Here we use the dative since the subject is behind the object in time.
-*Eftir það {{þf}} er ég búinn = After that I'm done. Here we use the dative since the subject is behind the object in time.
+*Myndin kemur út eftir mánuð {{þf}} = The movie will be released in a month. Here we use the accusative since the subject is behind the object in time.
+*Eftir það {{þf}} er ég búinn = After that I'm done. Here we use the accusative since the subject is behind the object in time.
 *Ég er á eftir þér {{þgf}} = I am behind you in the queue. Here we use the dative since the subject is behind the object in space.
 
 However, _eftir_ also exists in many idiomatic phrases that need to be studied separately.
@@ -103,7 +103,7 @@ There are also a few idiomatic phrases you need to recognize:
 * að velta einhverju fyrir sér {{þgf}} = to be wondering about something
 * að hafa rétt fyrir sér {{þgf}} = to be correct
 
-Examples
+Examples:
 
 *Þessi bíll er fyrir mig {{þf}} = This car is for me. This car has already been allocated to me and is going to be my property soon.
 *Þessi bíll er fyrir mér {{þgf}} = This car is standing in my way. I can't move because the car is there. There is no movement.
@@ -141,7 +141,7 @@ Examples:
 
 _Með_ is very difficult for students:
 
-* The [[accusative]] {{þf}} implies that you are holding something or carrying something as if it were an object. It can be used to say that you are with a person only if that person does not have agency (cannot make their own decisions, for example if they are young children, if they are inconscious, or if you're taking someone on a surprise trip).
+* The [[accusative]] {{þf}} implies that you are holding something or carrying something as if it were an object. It can be used to say that you are with a person only if that person does not have agency (cannot make their own decisions, for example if they are young children, if they are unconscious, or if you're taking someone on a surprise trip).
 * The [[dative]] {{þgf}} implies either:
 ** That you are hanging out with some person who has agency (they can make their own decisions).
 ** That you are using some object as a tool for some purpose.
@@ -172,7 +172,7 @@ _Undir_ causes a different case depending on whether there is movement or not:
 
 '''við''' (by, to)
 
-_Við_ normally usese the [[accusative]] case:
+_Við_ normally uses the [[accusative]] case:
 
 *Ég sit við vatnið. {{þf}} = I sit by the lake.
 *Ég tala við þig {{þf}} á eftir = I'll talk to you later.

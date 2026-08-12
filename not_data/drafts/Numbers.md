@@ -98,7 +98,7 @@ Here are the declension tables for the numbers one to four:
 
 English uses the point as a decimal mark. English numbers: 5.2 cm = five point two centimeters $1,999.95 = one thousand nine hundred ninety nine point ninety five dollars
 
-But like in most of continental Europe, Iceland uses the comma instead of point. Icelandic numbers: 5,2 cm = fimm komma tveir sentímetrar 1.999,95$ = eitt þúsund níu hundruð níutíu og níu komma níutíu og fimm dollarar
+But like in most of continental Europe, Iceland uses the comma instead of the point. Icelandic numbers: 5,2 cm = fimm komma tveir sentímetrar 1.999,95$ = eitt þúsund níu hundruð níutíu og níu komma níutíu og fimm dollarar
 
 ## Higher numbers 
 

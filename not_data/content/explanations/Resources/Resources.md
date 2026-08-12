@@ -44,8 +44,8 @@ reviewed: no
 '''Books'''
 
 *<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-2/ ''Learning Icelandic'', textbook]. ISK 5,200
-*<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar excercises]. ISK 3,000
-*<level level="b1"/> [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. ISK 3,700 (''Can not be purchased online'')
+*<level level="a1"/> [https://www.forlagid.is/vara/learning-icelandic-grammer/ ''Learning Icelandic'', grammar exercises]. ISK 3,000
+*<level level="b1"/> [http://haskolautgafan.hi.is/sagnasyrpa ''Sagnasyrpa''] – texts with exercises. ISK 3,700 (''Cannot be purchased online'')
 
 ## Texts
 
@@ -125,7 +125,7 @@ reviewed: no
 *[https://www.youtube.com/watch?v=7calBvZbgHI Algjör Sveppi og leitin að Villa]
 *[https://www.youtube.com/watch?v=dxWF_gXTnbc Dalalíf]
 *[https://youtu.be/9aMB87Tbi_Q?t=58 Maður og kona] (theatrical play)
-*[https://www.ruv.is/sjonvarp/ RÚV– Icelandic National Television]. Only available in Iceland. Offers content with Icelandic subtitles.
+*[https://www.ruv.is/sjonvarp/ RÚV – Icelandic National Television]. Only available in Iceland. Offers content with Icelandic subtitles.
 
 '''Various videos'''
 
@@ -163,7 +163,7 @@ reviewed: no
 *Já OK ([https://open.spotify.com/show/5k9sE7xgo9lGONTIX3vh1C?si=YoK2fvKHT3a-Bl86XknXwg Spotify], [https://podcasts.apple.com/us/podcast/j%C3%A1-ok/id1467190336 iTunes], [http://www.ruv.is/thaettir/ja-ok RÚV]) – Two friends born around 1993 discuss various forgotten parts of modern Icelandic culture.
 *Skoðanabræður ([https://open.spotify.com/show/5rj3uXDZf4PzoUug0yiiOT?si=aTQlta_0Q568y4gd_gprYQ Spotify], [https://podcasts.apple.com/is/podcast/sko%C3%B0anabr%C3%A6%C3%B0ur/id1462188464 iTunes]) – Two brothers born around 1996 discuss random things and youth culture. You will find it difficult to understand them because their speech is so slurred, but it's great for practising listening skills for colloquial Icelandic.
 *Segðu mér ([https://open.spotify.com/show/08mz4AT2UJBnZ5XotT7fqt?si=3Hvi3mScRMeH2ZnTd8jFDA Spotify], [https://podcasts.apple.com/is/podcast/seg%C3%B0u-m%C3%A9r/id1017689611 iTunes]) – Various interviews with famous Icelanders.
-*BíóTvíó ([https://open.spotify.com/show/2L9ocPAFnwAK5Irhd1AoGj?si=eT5yaBp2T_uy-VLXSWboiw Spotify], [https://podcasts.apple.com/us/podcast/b%C3%AD%C3%B3-tv%C3%AD%C3%B3/id1471627037 iTunes], [https://www.ruv.is/utvarp/spila/bio-tvio/29142 RÚV]) – Two friends have the goal of watching every single Icelandic film and discuss it together in their podcast. They have so far watched around 160.
+*BíóTvíó ([https://open.spotify.com/show/2L9ocPAFnwAK5Irhd1AoGj?si=eT5yaBp2T_uy-VLXSWboiw Spotify], [https://podcasts.apple.com/us/podcast/b%C3%AD%C3%B3-tv%C3%AD%C3%B3/id1471627037 iTunes], [https://www.ruv.is/utvarp/spila/bio-tvio/29142 RÚV]) – Two friends have the goal of watching every single Icelandic film and discussing it together in their podcast. They have so far watched around 160.
 *Tvíhöfði ([https://open.spotify.com/show/0HuZ0RhNkA9Fxgr5xakbkG?si=qWWPgPkPQzqi_Sc-q9Yp7A Spotify], [https://podcasts.apple.com/us/podcast/tv%C3%ADh%C3%B6f%C3%B0i-hla%C3%B0varp/id1250504244 iTunes], [https://www.ruv.is/utvarp/spila/tvihofdi-hladvarp/25192 RÚV]) – A podcast by two comedians that were extremely popular in the 90s.
 *Grínland ([https://open.spotify.com/show/20mNd5xQGEI4fsArKzeXbL?si=XZRUBpK8Qg66dl3eeGtgPw Spotify])
 *Sögur af landi ([https://open.spotify.com/show/1v3zHKKEtgXwkMIAjfP36t?si=H0hF7NqZTwimW5hDFVqDSw Spotify], [https://podcasts.apple.com/is/podcast/s%C3%B6gur-af-landi/id1188772902 iTunes], [http://www.ruv.is/thaettir/sogur-af-landi RÚV]) – Interviews with people around the country.
@@ -173,7 +173,7 @@ reviewed: no
 
 ## Classes in real life
 
-*[https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland – Diploma (1 year) or bachelor's (3 years)], full-time classes. The classes are fully subsidized by the Icelandic government apart from a yearly ISK 70,000 inscrtiption fee.
+*[https://english.hi.is/school_of_humanities_faculty_of_icelandic_and_comparative_cultural_studies/icelandic_as_a_second University of Iceland – Diploma (1 year) or bachelor's (3 years)], full-time classes. The classes are fully subsidized by the Icelandic government apart from a yearly ISK 70,000 inscription fee.
 *[https://www.mimir.is/is/nam/icelandic-1 Mímir] – 36 classes for around 46,000. If you live in Iceland and are a part of a labour union, the classes will be subsidized.
 *[https://www.uw.is/icelandic_courses/ Summer classes in Ísafjörður] – University Center of the Westfjords
 *[http://thetincanfactory.eu/index.html The Tin Can Factory]

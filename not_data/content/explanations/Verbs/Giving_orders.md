@@ -93,7 +93,7 @@ Of course, irregularities do exist:
 |'''Verið''' tilbúnir!
 |}
 
-Note that, unlike English, orders are not perceived as rude or impolite in Icelandic as they are in English.
+Note that orders are not perceived as rude or impolite in Icelandic as they are in English.
 
 ## Giving orders to <u>''not''</u> do something
 Negative orders are easier, you just start them with "do not" (''ekki'') and the rest is simple:

@@ -24,7 +24,7 @@ yfir
 <Image src="Loftmynd.jpeg" position="right"/>
 <level level="c1"/>
 
-This is an evening prayer commonly recited for children. It was written around 1650 by reverend Sigurður Jónsson.
+This is an evening prayer commonly recited for children. It was written around 1650 by the Reverend Sigurður Jónsson.
 
 {{poem|
 {{line|Vertu nú yfir og allt um kring }}

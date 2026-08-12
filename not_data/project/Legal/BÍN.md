@@ -5,7 +5,7 @@ title: Project:Inflections
 <div class="book">
 ## About the inflection tables
 
-Ylhýra's inflection tables are from the ''[https://bin.arnastofnun.is/DMII/ The Database of Icelandic Morphology]'' (better known as '''BÍN''') by the [[w:Árni Magnússon Institute for Icelandic Studies|Árni Magnússon Institute for Icelandic Studies]]. The author and editor of the database is [https://www.arnastofnun.is/is/stofnunin/starfsfolk/kristin-bjarnadottir Kristín Bjarnadóttir].
+Ylhýra's inflection tables are from ''[https://bin.arnastofnun.is/DMII/ The Database of Icelandic Morphology]'' (better known as '''BÍN''') by the [[w:Árni Magnússon Institute for Icelandic Studies|Árni Magnússon Institute for Icelandic Studies]]. The author and editor of the database is [https://www.arnastofnun.is/is/stofnunin/starfsfolk/kristin-bjarnadottir Kristín Bjarnadóttir].
 
 Ylhýra only shows inflection examples that are considered to be standard Icelandic. Non-standard and colloquial inflections can be found by searching [https://bin.arnastofnun.is/ BÍN].
 

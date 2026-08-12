@@ -28,7 +28,7 @@ In the same vein, „þú skalt“ translates to „you'll“. It tells someone 
 *Heyrðu já, þú '''skalt''' endilega heyra í mér með þetta á eftir. = Ah yes, '''do''' get in contact with me later to discuss this, by all means.
 *Sértu með einhverjar tillögur skaltu láta mig vita. = In case you have any suggestions, '''do''' let me know.
 
-„Við skulum“ is has the same meaning, but would be translated as the English "let's".
+„Við skulum“ has the same meaning, but would be translated as the English "let's".
 
 *Já, við '''skulum''' gera það á morgun. = Yeah, '''let's''' do it tomorrow.
 *Heyrðu, við '''skulum''' fara að koma okkur. = '''Let's''' get going.
@@ -61,7 +61,7 @@ Some old phrases still survive where the meaning is still the English "shall". I
 
 ***
 
-Students have a tendency to incorrectly use this verb because they are thinking in English. They might for example incorrectly say „Skulum við byrja?“ ("Shall we start"), but what they should say is „Eigum við að byrja?“. Another example would be the incorrect „Skal ég fara?“ when what they want to say is „Á ég að fara?“.
+Students have a tendency to incorrectly use this verb because they are thinking in English. They might for example incorrectly say „Skulum við byrja?“ ("Shall we start?"), but what they should say is „Eigum við að byrja?“. Another example would be the incorrect „Skal ég fara?“ when what they want to say is „Á ég að fara?“.
 </div>
 
 <notes>

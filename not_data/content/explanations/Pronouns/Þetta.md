@@ -35,7 +35,7 @@ If there is no [[noun]], the default is <translate>þetta</translate> {{hk}}
 The default is also a neuter <translate>þetta</translate> {{hk}} when the noun is somewhere else in the sentence but not right next to the <translate>þetta</translate>:
 
 *<translate>Þetta er góð kaka.</translate> = This is a good cake
-*<translate>Þetta er konan sem kom í gær. Þessi kona kom í gær.</translate> = This is the woman that came yesterday. This woman came yesterday.`
+*<translate>Þetta er konan sem kom í gær. Þessi kona kom í gær.</translate> = This is the woman that came yesterday. This woman came yesterday.
 *<translate>Þetta er góð kaka, en þessi er betri.</translate> = This is a good cake, but this one is better.
 
 {| class="wikitable"

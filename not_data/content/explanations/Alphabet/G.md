@@ -43,9 +43,9 @@ This G sound appears in the following situations:
 
 Instead of being pronounced by closing the throat like a normal ''g'', this sound is pronounced by having the most backwards part of your tongue touch the roof of your mouth. It is very similar to the English ''s'''k'''ew''.
 
-This sound appears if the next letter after the G is '''''e''''', '''''i''''', '''''í''''', '''''j''''', '''''y''''', '''''ý''''', '''''æ''''', '''''ei''''' or '''''ey''.'''
+This sound appears if the next letter after the G is '''''e''''', '''''i''''', '''''í''''', '''''j''''', '''''y''''', '''''ý''''', '''''æ''''', '''''ei''''' or '''''ey'''''.
 
-*gítar, gefa, giska, gær, geyma, leggjast, herbergi, ógeðslega, ágæt, Belgía,
+*gítar, gefa, giska, gær, geyma, leggjast, herbergi, ógeðslega, ágæt, Belgía
 
 Many learners have difficulties with this sound, so it can be helpful to imagine ''gær'' being written as "''gyær''", and ''gefa'' written as "''gyefa''".
 
@@ -87,10 +87,10 @@ It appears:
 
 If the letter is between a vowel and '''''j''''' or '''''i''''', it sounds like the Icelandic '''''[[j]]''''' or the English '''''y'''es'':
 
-*ma'''g'''i, allt í la'''g'''i, féla'''g'''ið, bo'''g'''inn, föstu'''d'''aginn, sundlau'''g'''in, se'''gj'''a, sle'''g'''inn
+*ma'''g'''i, allt í la'''g'''i, féla'''g'''ið, bo'''g'''inn, föstuda'''g'''inn, sundlau'''g'''in, se'''gj'''a, sle'''g'''inn
 
 ## 6. No sound
-If the letter is between '''''á''''', '''''ó''''', '''''ú''''', and '''''a''','' '''''u''''', then there is no sound:
+If the letter is between '''''á''''', '''''ó''''', '''''ú''''', and '''''a''''', '''''u''''', then there is no sound:
 
 *fljúga, skógur, ljúga, plága
 

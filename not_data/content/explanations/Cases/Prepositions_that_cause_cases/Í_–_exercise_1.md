@@ -34,7 +34,7 @@ Explanation:
 Explanation:
 
 *When you go into your car, you (the subject) are moving into the car (the object). You are moving relative to the car (the object).
-*When go you somewhere driving your car, you (the subject) are already inside the car (the object). You are '''not''' moving relative to the car (the object).
+*When you go somewhere driving your car, you (the subject) are already inside the car (the object). You are '''not''' moving relative to the car (the object).
 *When you go to work, you (the subject) are moving into the job location (the object). You are moving relative to the job location (the object). You are '''not''' already inside the job location.
 
 ***

@@ -8,7 +8,7 @@ license: CC0
 reviewed: no
 ---
 
-'''Í''' (in) and '''á''' (on) are two prepositions that are used in very similar context. Language learners tend to find it very difficult to remember which one to use. In Icelandic, you are '''''in''''' a store but you're '''''on''''' a bar. You're '''''in''''' Germany but you're '''''on''''' Spain. There is no rule behind which one you should use, the only thing that matters is whether native speaker feel like they're '''''in''''' or '''''on''''' something. Therefore, you as a language learner just need to remember each one individually.
+'''Í''' (in) and '''á''' (on) are two prepositions that are used in very similar contexts. Language learners tend to find it very difficult to remember which one to use. In Icelandic, you are '''''in''''' a store but you're '''''on''''' a bar. You're '''''in''''' Germany but you're '''''on''''' Spain. There is no rule behind which one you should use, the only thing that matters is whether native speakers feel like they're '''''in''''' or '''''on''''' something. Therefore, you as a language learner just need to remember each one individually.
 ## Situations
 
 *í vinnunni
@@ -47,7 +47,7 @@ reviewed: no
 *á Grænlandi
 *í/á Englandi, both can be used but "í" is more common
 *í/á Írlandi, both can be used but "í" is more common
-*í/á Bretlandi , both can be used but "í" is more common
+*í/á Bretlandi, both can be used but "í" is more common
 
 '''Cities and towns'''
 

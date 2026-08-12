@@ -45,7 +45,7 @@ user_image="VilliNeto.jpg"
 user_name="Villi Neto"
 user_handle="villineto"
 audio="01-fornislenski.mp3">
-'''Forníslenski sjomlinn'''.<note>''Sjomli'' is a jokeful distortion of the word ''gamli'' (old one), this slang was most popular around 2016, mostly by self-identified cool guys to speak to their other cool guy friends. The title of this video is therefore "the Old Icelandic bro".</note>
+'''Forníslenski sjomlinn'''.<note>''Sjomli'' is a jokey distortion of the word ''gamli'' (old one), this slang was most popular around 2016, used mostly by self-identified cool guys to speak to their other cool guy friends. The title of this video is therefore "the Old Icelandic bro".</note>
 
 Já, ég er stoltur af mínum líkama. Ég er nú þykkari en heybaggi.
 

@@ -31,9 +31,9 @@ If “sitt hvor” wasn’t such a common phrase, the ‘correct’ way to [[dec
 |síns hvors
 |}
 
-But as you will notice, not a single person actually declenses it like this.
+But as you will notice, not a single person actually declines it like this.
 
-In the mind of a native speaker, “sitt hvor” does not behave like two different words that happen to be said together. Instead, this phrase behaves like a conjoined word, and as you know from words without spaces, only the last part is actually declensed.
+In the mind of a native speaker, “sitt hvor” does not behave like two different words that happen to be said together. Instead, this phrase behaves like a conjoined word, and as you know from words without spaces, only the last part is actually declined.
 
 {| class="wikitable"
 !{{kk}}

@@ -11,7 +11,7 @@ license: CC0
 reviewed: no
 ---
 
-Certain Icelandic [[verbs]] have another form that ends in '''-st''', such as "að komast", "að giftast", and "að sjást". If you look the [https://inflections.ylhyra.is/ inflection tables] of these words you will see them labeled as the "[[w:Middle voice|middle voice]]" (''miðmynd'').
+Certain Icelandic [[verbs]] have another form that ends in '''-st''', such as "að komast", "að giftast", and "að sjást". If you look at the [https://inflections.ylhyra.is/ inflection tables] for these words you will see them labeled as the "[[w:Middle voice|middle voice]]" (''miðmynd'').
 
 A verb having -st usually indicates one of the following:
 
@@ -22,13 +22,13 @@ A verb having -st usually indicates one of the following:
 
 Examples:
 
-*„Kakan er að '''bakast'''“ (The cake is being baked). Shows that the thing in the process of being done.
+*„Kakan er að '''bakast'''“ (The cake is being baked). Shows that the thing is in the process of being done.
 *„Við '''sjáumst''' á morgun“ (We will see each other tomorrow). Shows that the two things will do something to each other.
 *„Við '''sjáumst''' ekki í myrkrinu“ (We cannot be seen in the dark). Discusses whether something is able to be done.
 *„Ég '''kemst''' í gömlu buxurnar mínar“ (I am able to fit into my old pants). Discusses whether something is able to be done.
 *„Ég '''kemst''' ekki í afmælið þitt“ (I am not able to make it to your birthday party). Discusses whether something is able to be done.
 *„Þau '''kysstust''' þegar þau '''sáust'''“ (They kissed each other when they saw each other). Shows that the two people do something to each other.
-*„Hvað er að '''gerast'''?“ (What is happening?) Shows that the thing in the process of being done.
+*„Hvað er að '''gerast'''?“ (What is happening?) Shows that the thing is in the process of being done.
 
 ***
 

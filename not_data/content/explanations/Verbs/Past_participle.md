@@ -117,7 +117,7 @@ And finally we have some that include the same change as can be seen in the past
 *að líða → mér hefur liðið
 **Same change as in the past tense plural "við liðum"<note>But in the [[impersonal conjugation]] it's actually not declined and is just "okkur líður"</note>
 
-The words listed above are the most important past participle forms that you need to memorize. They amount of irregularity is quite annoying, but most students get a hang of them quickly.
+The words listed above are the most important past participle forms that you need to memorize. The amount of irregularity is quite annoying, but most students get the hang of them quickly.
 
 <div class="notes">
 '''Notes'''

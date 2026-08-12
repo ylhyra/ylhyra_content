@@ -42,7 +42,7 @@ However, if they *aren't* emphasized, their pronunciation becomes extremely slur
 
 * When "það" isn't emphasized, it's pronounced as {{p|ða}}. The letter [[Þ]] has a tendency to become softer at the beginning of certain common words (in particular when they aren't emphasized), often turning into an [[Ð]] sound, an [[H]] sound, or completely disappearing. [[Þ]] and [[Ð]] are already very similar sounds, the difference is that [[Ð]] is pronounced with the voice. 
 
-* When "þetta" isn't emphasized, it's pronounced as {{p|edda}}. As above, the letter [[Þ]] has a tendency to become softer and in this case it has completely disappeared. But notice that the breathiness (exhalation) before the double T also disappeared. When a word is emphasized, the breathiness is absolutely vital — without it you won't be understood. But, when a word *isn't* emphasized, the breathiness isn't of any importance and it should be skipped in when pronouncing the most common words.
+* When "þetta" isn't emphasized, it's pronounced as {{p|edda}}. As above, the letter [[Þ]] has a tendency to become softer and in this case it has completely disappeared. But notice that the breathiness (exhalation) before the double T also disappeared. When a word is emphasized, the breathiness is absolutely vital — without it you won't be understood. But, when a word *isn't* emphasized, the breathiness isn't of any importance and it should be skipped when pronouncing the most common words.
 
 See how the pronunciation changes depending on which word you emphasize:
 

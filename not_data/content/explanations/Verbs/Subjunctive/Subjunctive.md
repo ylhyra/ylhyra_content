@@ -146,7 +146,7 @@ When learning the conjugation tables of the viðtengingarháttur, you add "I thi
 |I thought they were
 |}
 
-## Miscallenous
+## Miscellaneous
 
 *The viðtengingarháttur is slowly disappearing – many younger speakers (born after 1995) have a much weaker sense of this verb mood and will for some types of sentences use the regular verb mood in cases where older speakers (born before 1985) would have used viðtengingarháttur. Young people still use it when describing hypothetical situations, but are less likely to use it in secondary sentences. For example, standard Icelandic is „Hann spurði mig hvað ég '''væri''' að læra“ but many people born after 1995 would say „Hann spurði mig hvað ég '''er''' að læra“.
 
@@ -167,7 +167,7 @@ Forseti Indlands ___ (að segjast) ___ (að vera) spenntur fyrir geimfaraáætlu
 Það þýðir að ég ___ (að hafa) rétt á því að fá ríkisborgararétt. -->
 
 <notes>
-*The name ''viðtengingarháttur'' comes from "að tengja við" (to connect to) and "háttur" (manner of doing something; [[grammatical mood]]), referring to how it often appears in sentences that are joined to the main sentence and are dependant on it.
+*The name ''viðtengingarháttur'' comes from "að tengja við" (to connect to) and "háttur" (manner of doing something; [[grammatical mood]]), referring to how it often appears in sentences that are joined to the main sentence and are dependent on it.
 </notes>
 <!--'''References'''
 

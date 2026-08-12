@@ -49,9 +49,9 @@ Gefðu mér þetta.<note>The phrase "Gefðu mér þetta" is [[Slurring|slurred]]
 </div>
 
 <div class="video-explanation" data-translate="no">
-Lýsi is [[w:Cod liver oil|cod liver oil]], a dietary supplement derived from the liver of a fish. It was important for the Icelandic diet in previous centuries, but is viewed as an disgusting annoyance by children who are forced to have a spoonful of it with breakfast, as the substance is oily and a little bit fishy.
+Lýsi is [[w:Cod liver oil|cod liver oil]], a dietary supplement derived from the liver of a fish. It was important for the Icelandic diet in previous centuries, but is viewed as a disgusting annoyance by children who are forced to have a spoonful of it with breakfast, as the substance is oily and a little bit fishy.
 
 The children's packaging of fish oil contains a character who is cool, has a baseball cap, and rides a skateboard.
-<div>
+</div>
 
 </Instagram>

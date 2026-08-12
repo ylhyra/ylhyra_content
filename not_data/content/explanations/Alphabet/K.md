@@ -20,7 +20,7 @@ It appears:
 *In some loan words
 **ó'''k'''ei
 
-Doing the small breath of air (exhaling) after the letter is necessary. It is better to exaggerate the strength of the breath rather than to do to little. Native speakers of Spanish and Dutch in particular have a harder time making this breathy sound. If you forget to do the exhalation, the letter will sound like a [[G]].
+Doing the small breath of air (exhaling) after the letter is necessary. It is better to exaggerate the strength of the breath rather than to do too little. Native speakers of Spanish and Dutch in particular have a harder time making this breathy sound. If you forget to do the exhalation, the letter will sound like a [[G]].
 
 ## K in the throat (without a breath)
 <Audio src="YJEW.mp3" inline/>
@@ -36,9 +36,9 @@ It appears in the middle of words when surrounded by [[vowels]] and at the end o
 
 This sound is similar to the English '''''c'''ute''. Instead of being pronounced by closing the throat like a normal ''k'', this sound is pronounced by having the most backwards part of your tongue touch the roof of your mouth. You have to give out a small breath of air (exhaling) after this letter.
 
-It appears at the beginning of word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''':
+It appears at the beginning of a word, before '''e''', '''i''', '''í''', '''y''', '''ý''', '''æ''', '''ei''' or '''ey''':
 
-*'''k'''ennari, '''k'''ind, '''k'''íló, '''k'''ynnast, '''k'''ærasti, '''k'''irkja, '''K'''eflavík,
+*'''k'''ennari, '''k'''ind, '''k'''íló, '''k'''ynnast, '''k'''ærasti, '''k'''irkja, '''K'''eflavík
 
 Many learners have difficulties with this sound, so it can be helpful to imagine ''kennari'' being written as "''kyennari''", and ''kærasti'' written as "''kyærasti''".
 

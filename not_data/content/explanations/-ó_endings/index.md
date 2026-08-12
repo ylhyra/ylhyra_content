@@ -6,7 +6,7 @@ reviewed: no
 ---
 There exists a fun little pattern of shortening Icelandic words, which is to take the first syllable of the word<note>In rarer cases the word can also somehow be distilled into a single syllable, like in ''afbrýðisamur''→''abbó''.</note> and then add {{nowrap|"-ó"}} to it. This pattern is surprisingly common in certain contexts. While most of them can only be used in informal contexts or make you sound like a teenager, a handful can be used in relatively formal speech.
 
-Words shortened on this format are always two syllables. This trick does not work for any word, it only works on word that already have an established short version.
+Words shortened in this format are always two syllables. This trick does not work for any word, it only works on words that already have an established short version.
 
 This page contains a list of words you are relatively likely to encounter. For a list of less common words, see [[-ó endings/Less common words|here]].
 
@@ -68,5 +68,5 @@ The following words are heard in everyday speech:
 
 '''Notes'''
 
-The word „bíó“ (cinema) is a [[loan word]] taken from the Danish "'''bio'''graf-teater" (biographical theater), meaning that it has not been constructed like the other shortened word shown here. The same applies to sjampó and vídjó.
+The word „bíó“ (cinema) is a [[loan word]] taken from the Danish "'''bio'''graf-teater" (biographical theater), meaning that it has not been constructed like the other shortened words shown here. The same applies to sjampó and vídjó.
 </Footer>

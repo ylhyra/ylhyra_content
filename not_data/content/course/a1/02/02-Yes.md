@@ -39,7 +39,7 @@ There's only one "no":
 *Er þetta '''ekki''' góður hamborgari? Nei.
 
 ## Yeah sure
-You can duplicate the words to be more casual. "Já já" means "yeah sure" like you're less committed to the answer. This lack of committment can be used to show politeness, like you're saying "sure no problem".
+You can duplicate the words to be more casual. "Já já" means "yeah sure" like you're less committed to the answer. This lack of commitment can be used to show politeness, like you're saying "sure no problem".
 
 * já já = yeah sure (more casual than just "já")
 * jú jú = yeah sure (responding to a negative question, more casual than just "jú")
@@ -59,7 +59,7 @@ You can duplicate the words to be more casual. "Já já" means "yeah sure" like 
 *You didn’t hear what the other person said
 *You just ''can’t believe'' what the other person said
 
-The manner in which it is said is a bit harsh, and therefore many students feel that it sounds agressive or rude. That's not the case at all, "ha?" is a very normal word and is not rude at all. It is used both between friends and in professional settings.
+The manner in which it is said is a bit harsh, and therefore many students feel that it sounds aggressive or rude. That's not the case at all, "ha?" is a very normal word and is not rude at all. It is used both between friends and in professional settings.
 
 Remember that you don't say "Could you repeat that?" or "Would you mind talking a bit slower?", you just say "Ha?".
 

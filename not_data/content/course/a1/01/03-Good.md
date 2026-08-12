@@ -40,7 +40,7 @@ Like all other [[adjectives]], the word "good" changes its form depending on the
 *Hún er '''góð'''. = She is good.
 *Það er '''gott'''. = It is good.
 
-The letter [[Ó]] pronounced <Audio src="UKe9.mp3" inline/>, like in the English "''g'''oa'''l''". Ó is pronounced as a sequence of two sounds: "[[o]][[ú]]". In both "góð" and "góður" it's a [[long sound]], and it's better to exaggerate the length of long sounds rather than making them too short.
+The letter [[Ó]] is pronounced <Audio src="UKe9.mp3" inline/>, like in the English "''g'''oa'''l''". Ó is pronounced as a sequence of two sounds: "[[o]][[ú]]". In both "góð" and "góður" it's a [[long sound]], and it's better to exaggerate the length of long sounds rather than making them too short.
 
 If you're male, you use the [[masculine]] form and say:
 

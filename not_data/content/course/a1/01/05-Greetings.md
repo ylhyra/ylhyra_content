@@ -54,7 +54,7 @@ Notes on pronunciation:
 Notes on pronunciation:
 
 *"Sæll" is pronounced quickly (the æ is [[short]] because it's followed by two [[consonant]] letters). The double L is a [[clicky double L]], meaning that you first pronounce a [[D]] sound and then a [[breathy L]] sound.
-*The æ in "sæl" is [[Long vowel|long]] (it's only followed by one consonant). Althought the L in "sæl" is a normal L, several sounds [[Voiceless at the end of sentences|lose their voice at the ends of sentences]], so "Sæl!" is pronounced with a [[breathy L]].
+*The æ in "sæl" is [[Long vowel|long]] (it's only followed by one consonant). Although the L in "sæl" is a normal L, several sounds [[Voiceless at the end of sentences|lose their voice at the ends of sentences]], so "Sæl!" is pronounced with a [[breathy L]].
 
 ### When to use which greeting
 To summarize the above:

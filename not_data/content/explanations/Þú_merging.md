@@ -30,4 +30,4 @@ If you want to emphasize "þú", you don't have to merge these words.
 
 ## Þið
 
-A similar thing regarding pronunciation happens when the word form `þið` is behind a verb: "Eruð þið" is pronounced {{pron|eruði}} and "fóruð þið" is pronounced {{pron|fóruði}}. However, the words are just written seperately.<note>Some people do write them as "fóruði", but it is non-standard.</note>
+A similar thing regarding pronunciation happens when the word form `þið` is behind a verb: "Eruð þið" is pronounced {{pron|eruði}} and "fóruð þið" is pronounced {{pron|fóruði}}. However, the words are just written separately.<note>Some people do write them as "fóruði", but it is non-standard.</note>

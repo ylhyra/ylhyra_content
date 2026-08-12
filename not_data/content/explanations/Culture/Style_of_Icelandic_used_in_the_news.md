@@ -15,7 +15,7 @@ Apart from using the stricter style that [[formal written Icelandic]] uses, news
 * In headlines, they will often drop the subject, saying just "Eats cake" instead of "Pétur eats cake".
 * They really like changing the word order of the sentence, in particular they will place the verb in the first position. As an example, they might say "Says Pétur that he is thirsty" instead of "Pétur says that he is thirsty". There is no reason for doing this apart from sounding more formal and "newspaper-like".
 
-Newsanchors will also use this style of Icelandic when announcing the news, since they're reading from a piece of paper.
+News anchors will also use this style of Icelandic when announcing the news, since they're reading from a piece of paper.
 
 While you should learn to understand this style of Icelandic, you rarely have a reason to write like this yourself, and you should most definitely not try to speak like this.
 

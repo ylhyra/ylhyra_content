@@ -10,7 +10,7 @@ classes:
 
 # About
 
-Ylhýra is project made for Icelandic-as-a-second-language students that was published in 2020. Our own content is available under [[Project:License|an open license]].
+Ylhýra is a project made for Icelandic-as-a-second-language students that was published in 2020. Our own content is available under [[Project:License|an open license]].
 
 {{spacer|10}}
 <div class="centered-button">

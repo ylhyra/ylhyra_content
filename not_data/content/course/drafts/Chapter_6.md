@@ -46,7 +46,7 @@ You might not be leafing through a book about Icelandic grammar at the moment of
 
 Notice that '''að lesa''' is translated in the second sentence as '''reading''', while in the third sentence it is translated as '''to read'''. The að-construction can be translated as both. The context will make it clear which interpretation is needed. But notice, too, that they are sometimes exchangeable: in sentence 3 we might as well have said 'I find reading books much fun'.
 
-##An introduction to verbs
+## An introduction to verbs
 
 The word you'll probably use the most is the verb "to be".
 að vera (to be)
@@ -61,13 +61,13 @@ Look closely at the table. You'll need to recognize að vera very well.
 ``
 Ég er 14 ára. Ég er ekki í vinnu, en ég er í skóla. Það er gaman í skólanum, vinir mínir eru skemmtilegir. Í gær vorum við lengi í skólanum, allir mánudagarnir mínir eru langir. Ég var frekar þreyttur. Það er samt allt í lagi, kennarinn minn segir að ég sé góður nemandi.
 
-I am 14 years old. I am not at work (working?), but I am in school. It is fun in school, my friends are great fun. Yesterday we were at school a long time, all my mondays are long. I was rather tired. It is still okay, my teacher said that I am a good student.
+I am 14 years old. I am not at work (working?), but I am in school. It is fun in school, my friends are great fun. Yesterday we were at school a long time, all my Mondays are long. I was rather tired. It is still okay, my teacher said that I am a good student.
 ``
 
 As you'll notice, the word að ("to") pops up a lot in Icelandic. It is used to make the base version of a verb (infinitive). You recognize this from English:
 Ég þarf að fara = I need to go
 Hann ætlar að borða þetta = He is going to eat that
-But the base version of verbs is use more broadly than in English:
+But the base version of verbs is used more broadly than in English:
 Ég er að borða = I am eating
 Hann er að keyra = He is driving
 Ég fíla ekki að hlaupa = I don't like running

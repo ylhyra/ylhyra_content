@@ -11,7 +11,7 @@ license: CC0
 reviewed: no
 ---
 
-'''Búinn''' means "done" or "finished". You use the word to when explaining what you '''have''' been doing, or more specifically when explaining what you've done ''recently'' and what you've ''already'' done.
+'''Búinn''' means "done" or "finished". You use the word when explaining what you '''have''' been doing, or more specifically when explaining what you've done ''recently'' and what you've ''already'' done.
 
 Examples:
 

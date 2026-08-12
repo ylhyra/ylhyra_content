@@ -15,7 +15,7 @@ Let's not stay awake in the dark nights.
 The darkness knows many things.
 My thoughts are heavy.
 Often I have watched the dark sand
-scorch <!-- destroy --> green fiields.
+scorch <!-- destroy --> green fields.
 In the glacier the cracks in the ice, deep as death, cry out.
 
 Sleep for long, sleep tight.

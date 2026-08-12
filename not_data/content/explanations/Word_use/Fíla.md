@@ -8,7 +8,7 @@ reviewed: no
 
 '''Fíla''' is slang for "to like something", it's particularly common when discussing how you liked a book, movie, or an activity.
 
-It's an old loan word from the English "to feel", it is used similarly to how 1940's jazz musicians say: "Ya feel?" and "I'm feeling this music".
+It's an old loan word from the English "to feel", it is used similarly to how 1940s jazz musicians said: "Ya feel?" and "I'm feeling this music".
 
 ## External links 
 

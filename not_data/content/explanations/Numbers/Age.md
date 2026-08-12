@@ -12,7 +12,7 @@ reviewed: no
 
 # Age
 
-When describing the age of something, you use the [[genitive case]] (the fourth case) ([[genitive case]]).
+When describing the age of something, you use the [[genitive case]] (the fourth case).
 
 {| class="wikitable"
 !1 year
@@ -46,7 +46,7 @@ It is okay to just skip the “gamall” part:
 
 *Gísli er orðinn tveggja ára.
 
-It’s even okay to just skip the “ára” part as well, it is just implied.:
+It’s even okay to just skip the “ára” part as well, it is just implied:
 
 *Ég get ekki fengið nýtt skírteini fyrr en ég verð þrjátíu og tveggja.
 

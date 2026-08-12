@@ -13,14 +13,14 @@ The letter '''L''' can represent a few different sounds.
 
 ## Normal L
 
-This sound is same as the English L.
+This sound is the same as the English L.
 
 *land, heili, gulur, lamb
 
 ## Breathy L
 This sound is a whispery L that's pronounced without using the voice.
 
-To pronounce you have to create turbulent airflow behind your [[w:Premolar|premolar teeth]] (the teeth that are next to your [[w:Canine tooth|canine teeth]]). To do so you can either:
+To pronounce it you have to create turbulent airflow behind your [[w:Premolar|premolar teeth]] (the teeth that are next to your [[w:Canine tooth|canine teeth]]). To do so you can either:
 
 * Make the tip of your tongue touch the roof of your mouth. Lift your tongue slightly so it comes close to touching your premolar teeth as well. Now blow air out of your mouth, directing it around your premolar teeth.
 * Make your tongue touch your premolar teeth only on the right side of your mouth. Create a small opening between your tongue and your premolar teeth and blow air out through that opening.
@@ -63,7 +63,7 @@ And lastly, a double L can represent just a normal L sound.
 
 It appears in the following situations:
 
-*When a double L is folllowed by an '''s''':
+*When a double L is followed by an '''s''':
 **fulls, alls, fjalls
 *In words that are foreign loanwords:
 **`halló`, `milljón`, `brilljant`, `kanilbollur`, núll

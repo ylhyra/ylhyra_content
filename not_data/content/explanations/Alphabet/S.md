@@ -8,7 +8,7 @@ The letter '''S''' is pronounced the same as in English ("'''''s'''ome, '''s'''i
 
 *'''s'''andur, ble'''ss''', '''s'''æll
 
-The name of the letter is "ess", same as in English
+The name of the letter is "ess", same as in English.
 
 ***
 

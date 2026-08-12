@@ -10,9 +10,9 @@ status: draft
 <!--[[Nicknames]] {{C1}}-->
 
 <!--November 2020:-->
-<!--[[Cases/A1/Exercise 1|Excercise for cases]] {{A1}} •-->
-<!--[[Búinn/A1/Exercise 1|Excercise for "búinn"]] {{A1}} •-->
-<!--[[Subjunctive/Exercise 1|Excercise for the subjunctive]] {{B1}} •-->
+<!--[[Cases/A1/Exercise 1|Exercise for cases]] {{A1}} •-->
+<!--[[Búinn/A1/Exercise 1|Exercise for "búinn"]] {{A1}} •-->
+<!--[[Subjunctive/Exercise 1|Exercise for the subjunctive]] {{B1}} •-->
 <!--[[Past participle]] {{A1}} •-->
 <!--[[Present participle]] {{B2}} •-->
 <!--[[Asking for things]] {{A1}} •-->

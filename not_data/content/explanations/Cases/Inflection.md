@@ -28,7 +28,7 @@ An [[adjective|'''adjective''']] can have 120 possible forms (although most of t
 *[[case]] (there are four possibilities)
 *[[gender]] (there are three available)
 *[[Plurality|number]] (there are two possibilities, either there is one item or more items)
-*[[Strong and weak declension|does the word it describe have a "the" attached or not]]? (there are two possibilities)
+*[[Strong and weak declension|does the word it describes have a "the" attached or not]]? (there are two possibilities)
 *[[Comparative|are we comparing it to something else]]? (there are three possibilities)
 
 The basic form of a '''[[verb]]''' has around 30 possible forms (and some more derived forms)<note>Referring to the [[middle voice]] and [[past participle]] as derived forms.</note> which indicate:

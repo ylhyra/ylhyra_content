@@ -115,7 +115,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 **Fleiri hlekki vantar á hlaðvörp og þessháttar.
 *Tengja inn BÍN
 *Course
-**The items in [[Game:Kyn]] are sorted by ease of remembing word but not based on obviousness of which gender a word is. Needs reordering to make more fun for beginners and needs pruning of less important words.
+**The items in [[Game:Kyn]] are sorted by ease of remembering word but not based on obviousness of which gender a word is. Needs reordering to make more fun for beginners and needs pruning of less important words.
 **<small>Helper material: [[Project:Helpful links|Third party material]] • [[Project:Cognates|Common English cognates]].</small>
 *[[Project:Todo|Unsorted stream of material that needs to be explained some time]] <sup>[<u>[https://ylhyra.is/index.php?title=Project:Todo&action=edit&section=new ''add new item'']]</u></sup>
 *[[Project:Software work in progess|Software]]
@@ -123,7 +123,7 @@ Núna (mars 2021) er í vinnslu byrjendanámskeiðið '''[[Course]]'''. Ýmisleg
 
 ### Ideas
 
-*Add declension and vocabulary excercises after reading texts.
+*Add declension and vocabulary exercises after reading texts.
 *Add a very slow recording to [[Intonation]] and videos.
 
 ### Annað

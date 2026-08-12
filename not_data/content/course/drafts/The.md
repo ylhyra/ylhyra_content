@@ -5,7 +5,7 @@ reviewed: no
 <vocabulary>
 </vocabulary>
 
-In English, the word "'''the'''" is a seperate word ("'''the''' house") but in Icelandic it is attached to the end of the word ("hús'''ið'''"). The "the" is known as the [[w:Definite article|definite article]]. There is no "''a / an''" in Icelandic, "'''a''' house" is just "hús".
+In English, the word "'''the'''" is a separate word ("'''the''' house") but in Icelandic it is attached to the end of the word ("hús'''ið'''"). The "the" is known as the [[w:Definite article|definite article]]. There is no "''a / an''" in Icelandic, "'''a''' house" is just "hús".
 
 The suffix for the "the" changes depending on a word's [[gender]], [[case]], and [[plurality]]. There are a total of 15 distinct forms it can have.<note>The possible different suffixes (all of which just mean "the") are: ''-inn -ið -inum -ins -num -an -una -unni -unnar -nar -unum -anna -inu -ins -in''.</note> In this chapter we'll only learn the form used for the most basic form of nouns, which is the [[nominative case]] (the first case) in the [[singular]].
 
@@ -49,7 +49,7 @@ The suffix for the "the" changes depending on a word's [[gender]], [[case]], and
 |'''the''' school
 |}
 
-[[Feminine]] words end in an "'''an'''" if the word already ends in an "a", otherwise it ends in "'''in'''":<ref name=":0" />
+[[Feminine]] words end in an "'''an'''" if the word already ends in an "a", otherwise they end in "'''in'''":<ref name=":0" />
 {| class="wikitable"
 |+
 !Word
@@ -70,7 +70,7 @@ The suffix for the "the" changes depending on a word's [[gender]], [[case]], and
 |-
 |sósa
 |sósan
-|'''the''' sause
+|'''the''' sauce
 |-
 |vika
 |vikan
@@ -128,7 +128,7 @@ The suffix for the "the" changes depending on a word's [[gender]], [[case]], and
 |ár'''ið'''
 |'''the''' year
 |}
-For now you will have to memorize which [[gender]] a word has, it's not possible to tell which category it belongs to just by looking at it. Later on in your studies you be able to notice a word's gender by seeing how it interacts with other words in the sentence such as [[adjectives]] and [[pronouns]].
+For now you will have to memorize which [[gender]] a word has, it's not possible to tell which category it belongs to just by looking at it. Later on in your studies you will be able to notice a word's gender by seeing how it interacts with other words in the sentence such as [[adjectives]] and [[pronouns]].
 
 ## Excercises
 Translate the following:

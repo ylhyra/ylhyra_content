@@ -22,6 +22,6 @@ Newspapers drop certain words from the headlines:
 *''Fylgjast grannt með. –'' A normal sentence would be: „<i>Þau fylgjast grannt með.</i>“
 
 ## Word use
-Examples of words use you can only use in written language:
+Examples of word use you can only use in written language:
 
 *''Það var snemma morguns '''er''' hann lagði af stað. –'' '''Er''' is not the verb "to be", instead it means "when".

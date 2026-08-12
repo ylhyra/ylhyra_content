@@ -8,7 +8,7 @@ reviewed: no
 </vocabulary>
 <div class="book" data-translate="true" data-audio-file="Pípulækningar.mp3">
 <Audio src="Pípulækningar.mp3"/>
-<h1>[[Magnús Jochum Pálsson/Pípulækningar|Pípulækningar]]<note>The title of this piece is a wordplay on the word `pípulagningar` (plumbing) and `lækningar` (practice of medicine). </note></h1>
+<h1>[[Magnús Jochum Pálsson/Pípulækningar|Pípulækningar]]<note>The title of this piece is a wordplay on the words `pípulagningar` (plumbing) and `lækningar` (practice of medicine). </note></h1>
 <div class="subtitle">{{no audio|eftir [[Magnús Jochum Pálsson|Magnús Jochum]]}}</div>
 
 Ég hef misst alla trú á því að leita til lækna þegar eitthvað kemur fyrir mig. Ég fæ aldrei neinar útskýringar eða lækningu við þeim kvillum sem hrjá mig. Læknarnir yppa bara öxlum og segja mér að fara heim, sjá hvort ég lagist ekki. Síðan borga ég þeim svívirðilegar upphæðir fyrir ekkert.

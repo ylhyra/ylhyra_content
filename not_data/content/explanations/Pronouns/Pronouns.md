@@ -28,7 +28,7 @@ Here, both ''bróðir'' and ''minn'' are in dative, because they follow the prep
 
 :Við fórum kringum '''húsið þítt''' ''We went around '''your house'''.''
 
-Here, both ''hús'' and ''þinn'' are in accusitive, because they follow the preposition ''kringum''.
+Here, both ''hús'' and ''þinn'' are in accusative, because they follow the preposition ''kringum''.
 
 Other possessive pronouns, like ''hennar'' (her), ''ykkar'' (your) and ''þess'' (its), do not change according to the case. In other words, you always use the same form:
 
@@ -38,7 +38,7 @@ Here, ''bróðir'' is still in dative (because of the ''handa''), but ''hennar''
 
 :Við fórum kringum '''húsið okkar''' ''We went to '''our house'''.''
 
-Again, ''hús'' is in accusitive (because of the ''kringum'') but ''okkar'' is still in genitive, because it expresses possession.
+Again, ''hús'' is in accusative (because of the ''kringum'') but ''okkar'' is still in genitive, because it expresses possession.
 
 This difference may seem very unintuitive at first. It might help to realize that ''minn'' and ''þinn'' have an entire declension table:
 
@@ -134,9 +134,9 @@ Icelandic has verbs that work just the same way:
 
 :Hann '''rakar sig''' áður en að hann fer í leikhús. ''He '''shaves himself''' before going to the theatre''
 
-:Barnið '''skemmtir sitt''' mjög mikið í sundlauginu! ''The child '''enjoyed itself''' much in the pool!''
+:Barnið '''skemmtir sitt''' mjög mikið í sundlauginu! ''The child '''enjoyed itself''' very much in the pool!''
 
-For such verbs, the personal pronouns ''sinn''(m) ''sín''(f) and ''sitt''(n) are used. These are, like everything else, also declensed for case and number:
+For such verbs, the personal pronouns ''sinn''(m) ''sín''(f) and ''sitt''(n) are used. These are, like everything else, also declined for case and number:
 
 {| class="wikitable"
 !

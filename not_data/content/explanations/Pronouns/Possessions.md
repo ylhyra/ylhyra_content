@@ -10,7 +10,7 @@ reviewed: no
 
 When saying that something belongs to you, you have to add "[[the]]" to the word. "My cat" in Icelandic is "''köttur'''inn''' '''minn'''''" ("'''the''' cat (of) '''mine'''").
 
-''Mine'', ''yours'', ''his'', ''theirs'' and so on are [[pronoun|pronouns]] and so they change depending on [[gender]], [[case]], and [[Plurality|number]] of the word being discussed. They usually look similar to the "[[the]]" part of the word, but not always:
+''Mine'', ''yours'', ''his'', ''theirs'' and so on are [[pronoun|pronouns]] and so they change depending on the [[gender]], [[case]], and [[Plurality|number]] of the word being discussed. They usually look similar to the "[[the]]" part of the word, but not always:
 
 *„hér er köttur'''inn''' '''minn'''“ ("here is '''the''' cat (of) '''mine'''")
 *„hér eru strákar'''nir''' '''mínir'''“ ("here are '''the''' boys (of) '''mine'''")

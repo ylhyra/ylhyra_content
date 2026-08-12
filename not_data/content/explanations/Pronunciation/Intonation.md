@@ -38,7 +38,7 @@ Again, this is the most common way to sing sentences, even questions:
 
 Of course you have some freedom in your intonations. Sometimes people use sentences where the pitch is going up, it usually doesn't change the meaning at all.
 
-In these examples, sentences are shown where the pitch is going up and where it is going down. Ending sentence on a high pitch means exactly the same thing, but it sounds a little bit more like inviting the other speaker to reply:
+In these examples, sentences are shown where the pitch is going up and where it is going down. Ending a sentence on a high pitch means exactly the same thing, but it sounds a little bit more like inviting the other speaker to reply:
 
 *`Góðan daginn`
 **<sup>Góðan</sup> <sub>daginn</sub>

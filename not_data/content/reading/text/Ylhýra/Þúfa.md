@@ -95,7 +95,7 @@ nútími
 í kring
 </vocabulary>
 <div class="sans-serif notes">
-Here you will read about „þúfur“ ([[w:Hummock#Earth_hummocks_of_cryogenic_origin|earth hummocks]]), an unusual earthen formation found in regions near the arctic. These tiny mounds are formed from the soil going through freeze-thaw cycles.
+Here you will read about „þúfur“ ([[w:Hummock#Earth_hummocks_of_cryogenic_origin|earth hummocks]]), an unusual earthen formation found in regions near the Arctic. These tiny mounds are formed from the soil going through freeze-thaw cycles.
 </div>
 
 <div class="book" data-translate="true" data-audio-file="Þúfa.mp3">

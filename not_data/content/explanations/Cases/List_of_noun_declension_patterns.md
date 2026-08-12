@@ -12,7 +12,7 @@ This is an overview page of the [[declension]] patterns for [[nouns]]. It lists 
 
 Memorizing the [[declension]] of nouns is one of the hardest and most tedious things about learning Icelandic. There are about {{number of declension patterns}} basic patterns for the endings a word can take (and a handful of other irregular declensions), and you cannot know for sure what category a word falls into without already having studied its declension. In addition to these patterns regarding endings, words can include a [[sound change]] (one vowel turns into some other vowel), and occasionally an additional letter pops up or disappears.
 
-The following table lists all the common patterns. <!--[https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview for the patterns. The most important patterns are shown in uppercase.
+The following table lists all the common patterns. <!--[https://ylhyra.is/Template:Noun_declension_patterns?printable=yes Click here] for a printable version.todo--> You should ''not'' memorize this table, instead you should use it as a reference to get an overview of the patterns. The most important patterns are shown in uppercase.
 
 {{Noun declension patterns}}
 
@@ -292,7 +292,7 @@ Words with umlaut:
 # Feminine
 
 ## The “bygging” pattern
-This patterns appears in words that end in "-ing" and most female names that are [[Strong|strongly]] declined. Nouns that end in "-ing" are all derived from verbs, like how the English "a build'''ing'''" is derived from "to build".{{Declension singular and plural
+This pattern appears in words that end in "-ing" and most female names that are [[Strong|strongly]] declined. Nouns that end in "-ing" are all derived from verbs, like how the English "a build'''ing'''" is derived from "to build".{{Declension singular and plural
 |bygging
 |bygging'''u'''
 |bygging'''u'''
@@ -414,7 +414,7 @@ Additional letter ("-na") in fourth case plural:
 
 *fjölskylda, pylsa, sekúnda, mínúta, klukka, síða, stelpa, tunga, úlpa, tala, gúrka, hilla, regla, skyrta, súpa, þoka, fluga, veisla, vika, lögregla, blaðsíða, ryksuga, ástæða, kirkja, sulta, heilsugæsla
 
-Extreme irregulary:
+Extreme irregularity:
 
 *kona, vinkona – in the fourth case plural it becomes "til k'''ve'''nna"
 
@@ -424,7 +424,7 @@ Names:
 
 Names with umlaut:
 
-*Anna, Jóhanna, Sara, Hanna, Kristjana, Sandra, Arna, Halla, Svava,
+*Anna, Jóhanna, Sara, Hanna, Kristjana, Sandra, Arna, Halla, Svava
 
 ## The “keppni” pattern
 This is a rare pattern where the words don't change their form in the singular. Luckily, you almost never see these words in the plural so you don't need to study it.{{Declension singular and plural
@@ -462,7 +462,7 @@ Umlaut:
 
 Irregularities:
 
-*nótt has "tt" only in the some cases
+*nótt has "tt" only in some cases
 
 ***
 
@@ -536,7 +536,7 @@ Umlaut:
 
 Regular words:
 
-*afmæli, atriði, belti, bindi, efni, einkenni, epli, fangelsi, frelsi, gengi, heimili, , kerfi, leyfi, leyti, læri, merki, ríki, salerni, skilti, skíði, stræti, stykki, stæði, súkkulaði, svæði, systkini, teppi, typpi, tæki, öryggi, snjóbretti, hádegi, verkefni, hljóðfæri, tækifæri, baðherbergi, viðskipti, samhengi,<ref name="singular" /> áfengi,<ref name="singular" /> ofbeldi,<ref name="singular" /> ofnæmi,<ref name="singular" /> helvíti,<ref name="singular" /> kaffi,<ref name="singular" /> nammi<ref name="singular" />
+*afmæli, atriði, belti, bindi, efni, einkenni, epli, fangelsi, frelsi, gengi, heimili, kerfi, leyfi, leyti, læri, merki, ríki, salerni, skilti, skíði, stræti, stykki, stæði, súkkulaði, svæði, systkini, teppi, typpi, tæki, öryggi, snjóbretti, hádegi, verkefni, hljóðfæri, tækifæri, baðherbergi, viðskipti, samhengi,<ref name="singular" /> áfengi,<ref name="singular" /> ofbeldi,<ref name="singular" /> ofnæmi,<ref name="singular" /> helvíti,<ref name="singular" /> kaffi,<ref name="singular" /> nammi<ref name="singular" />
 
 Insertion of a "j" in the third case plural:
 
@@ -547,7 +547,7 @@ These family terms follow the same highly irregular pattern:
 
 *bróðir, systir, faðir, móðir, dóttir
 
-These words also do not cleanly fit into any pattern and must be studied seperately:
+These words also do not cleanly fit into any pattern and must be studied separately:
 
 *vetur
 *maður

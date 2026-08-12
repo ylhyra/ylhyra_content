@@ -101,7 +101,7 @@ yfir
 
 <Image src="Iceland_Nootka_Lupin_Flower_Fields.jpg" width="700"/>
 <Book audio="Lúpína.mp3">
-<!--<note>Forests were cut down to make coal or to create more grassland for sheeps. Sheeps eat small plants and so they prevent new trees from growing.</note>-->
+<!--<note>Forests were cut down to make coal or to create more grassland for sheep. Sheep eat small plants and so they prevent new trees from growing.</note>-->
 
 Það eru næstum því engir skógar á Íslandi. Það voru einhverjir skógar á Íslandi fyrir landnám, en vegna áhrifa frá mönnum og kindum er nú lítið eftir nema gras og sandur.
 

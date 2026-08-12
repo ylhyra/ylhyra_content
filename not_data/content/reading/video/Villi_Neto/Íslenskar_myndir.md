@@ -70,7 +70,7 @@ audio="08-islenskarmyndir.mp3">
 
 – Pabbi þinn er [[w:Hilmir Snær|Hilmir Snær]]<note>Hilmir Snær is a popular film and stage actor.</note> núna.
 
-– Elskan mín, láttu ekki svona. Ég er bara Hilmir Snær.<note>An imitaion of how the actor Hilmir Snær talks.</note>
+– Elskan mín, láttu ekki svona. Ég er bara Hilmir Snær.<note>An imitation of how the actor Hilmir Snær talks.</note>
 
 – Hann er búinn að vera nakinn allan þennan tíma.<note>Hilmir Snær is often nude in his films.</note>
 

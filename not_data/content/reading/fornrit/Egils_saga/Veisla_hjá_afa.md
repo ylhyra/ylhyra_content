@@ -129,7 +129,7 @@ Næsta dag gefur hann Agli þrjár skeljar og andaregg fyrir ljóðið. Egill er
 </Book>
 
 <div class="sans-serif">
-In summary, Egill is an unruly three year old boy who disobeys his father to go to a party, where he composes an extremely complex poem praising his grandfather. The poems are not published above, but can be seen [https://www.snerpa.is/net/isl/egils.htm#:~:text=Kominn%20emk%20til%20arna here] (English translation [https://sagadb.org/egils_saga.en#31:~:text=Hasting%20I%20came%20to%20the%20hearth%20fire here]). The poems are likely an embellishment, as it is unlikely a three year old could write them.
+In summary, Egill is an unruly three-year-old boy who disobeys his father to go to a party, where he composes an extremely complex poem praising his grandfather. The poems are not published above, but can be seen [https://www.snerpa.is/net/isl/egils.htm#:~:text=Kominn%20emk%20til%20arna here] (English translation [https://sagadb.org/egils_saga.en#31:~:text=Hasting%20I%20came%20to%20the%20hearth%20fire here]). The poems are likely an embellishment, as it is unlikely a three-year-old could write them.
 
 As exemplified by this chapter, there is great honor in being a good poet.
 

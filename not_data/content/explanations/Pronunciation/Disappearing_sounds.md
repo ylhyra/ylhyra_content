@@ -18,11 +18,11 @@ It takes a significant amount of practice to be able to understand spoken Icelan
 In the examples below, letters that are shown in gray aren't pronounced at all. Practice pronouncing those sentences.
 
 ## Vowels at word boundaries
-When a word ends in a vowel that doesn't have an accent mark (a, e, i, o, u, ö) and the next word starts in a vowel, the first vowel disappears.
+When a word ends in a vowel that doesn't have an accent mark (a, e, i, o, u, ö) and the next word starts with a vowel, the first vowel disappears.
 
 *`Mamma mín er bakari. Mamm<u>{{gray|a}} e</u>r bakari.`
 
-The word `er` starts in a vowel, and so it "eats" the vowel that comes before it.
+The word `er` starts with a vowel, and so it "eats" the vowel that comes before it.
 
 This can cause different words to sound the same:
 
@@ -69,7 +69,7 @@ In particular you should remember the following common words:
 <level level="a2"/>
 
 ### {{anchor|Thorn}}Þ disappearing, or sounding like Ð or H
-[[Þ]] has a tendancy to become softer, especially when it comes to common words like "this, that, there, it" when they are not the most important word of the sentence. There are four different ways you will hear Þ being pronounced:
+[[Þ]] has a tendency to become softer, especially when it comes to common words like "this, that, there, it" when they are not the most important word of the sentence. There are four different ways you will hear Þ being pronounced:
 
 *Þ, such as in `'''Þ'''ess vegna.`
 *Ð, such as in `Ég kem með '''þ'''að.` {{pron|é kem me ða}}
@@ -78,7 +78,7 @@ In particular you should remember the following common words:
 
 Yes, you heard correctly, Þ sounds like H in some contexts. This is quite common at the start of sentences.
 
-'''Examples of Þ disapperaring''':
+'''Examples of Þ disappearing''':
 
 *<Audio src="Racc.mp3" inline/> `Hva{{gray|ð}} er {{gray|þ}}etta?` {{pron|kva er etta}}
 *<Audio src="4Gr2.mp3" inline/> `Er{{gray|u}} {{gray|þ}}essar pítsur ekki tilbúnar?` {{pron|er essar ...}} Notice in this example that since Þ had disappeared, the "e" in the remaining "essar" [[Disappearing vowel|caused the previous vowel to disappear]], as explained in the above section.

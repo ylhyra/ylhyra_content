@@ -6,7 +6,7 @@ redirects:
 reviewed: no
 ---
 
-<translate>[[Að]]</translate> is used a lot in Icelandic. It can have several different uses, but most often it means '''to''' as in "'''to''' sing" (<translate>'''að''' syngja</translate>). Another common use of "að" is to connect sentence together: <translate>Bjarni segir '''að''' mamma komi á eftir</translate>, but that is a more advanced topic.
+<translate>[[Að]]</translate> is used a lot in Icelandic. It can have several different uses, but most often it means '''to''' as in "'''to''' sing" (<translate>'''að''' syngja</translate>). Another common use of "að" is to connect sentences together: <translate>Bjarni segir '''að''' mamma komi á eftir</translate>, but that is a more advanced topic.
 
 Like in English, when using the basic form of the verb (called the [[infinitive]] {{nh}} form), we usually include the "að":
 

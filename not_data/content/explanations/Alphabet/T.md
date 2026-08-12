@@ -18,7 +18,7 @@ It appears:
 *In the middle of a handful of foreign loan words:
 **hó'''t'''el
 
-Doing the small breath of air (exhaling) after the letter is necessary. It is better to exaggerate the strength of the breath rather than to do to little. Native speakers of Spanish and Dutch in particular have a harder time making this breathy sound. If you forget to do the exhalation, the letter will sound like a [[D]].
+Doing the small breath of air (exhaling) after the letter is necessary. It is better to exaggerate the strength of the breath rather than to do too little. Native speakers of Spanish and Dutch in particular have a harder time making this breathy sound. If you forget to do the exhalation, the letter will sound like a [[D]].
 
 ## Without a breath
 <Audio src="Jap5.mp3" inline/>

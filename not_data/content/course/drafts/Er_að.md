@@ -12,7 +12,7 @@ Hvað ert{{u}} að læra?
 </vocabulary>
 
 ## The basic form of verbs
-The most basic form of a [[verb]], and the form always shown in dictionaries, is the form used in "to do", "to learn", and "to be". It is known as the [[infinitive]] form. Verbs on this form usually end with the letter "a":
+The most basic form of a [[verb]], and the form always shown in dictionaries, is the form used in "to do", "to learn", and "to be". It is known as the [[infinitive]] form. Verbs in this form usually end with the letter "a":
 
 *'''að''' gera = '''to''' do
 *'''að''' læra = '''to''' learn, '''to''' study
@@ -27,7 +27,7 @@ While English uses verbs that end in "-ing" to show what you're currently doing,
 
 Like in English, "Ég er að læra íslensku" (I am studying Icelandic) can either mean that it's what you're doing at this very moment, or more generally, that it's what you're doing these days.
 
-Note that the G in "gera" is not pronounced a normal G, instead it's pronounced [[G in the roof of the mouth|in the roof of the mouth]] <Audio src="7M7w.mp3" inline/>, similar to the sound in the English word "''s'''k'''ew''". It's not pronounced by closing your throat, instead it's pronounced with the backwards part of your tongue touching the roof of your mouth. This sound appears when a hard G sound is followed by letters such as "e" or "i" and a few others. Pronouncing this sound is easier if you imagine that the word "gera" is written as "g'''y'''era".
+Note that the G in "gera" is not pronounced as a normal G, instead it's pronounced [[G in the roof of the mouth|in the roof of the mouth]] <Audio src="7M7w.mp3" inline/>, similar to the sound in the English word "''s'''k'''ew''". It's not pronounced by closing your throat, instead it's pronounced with the backwards part of your tongue touching the roof of your mouth. This sound appears when a hard G sound is followed by letters such as "e" or "i" and a few others. Pronouncing this sound is easier if you imagine that the word "gera" is written as "g'''y'''era".
 
 <Conversation>
 you: Hæ. Hvað segirðu gott?

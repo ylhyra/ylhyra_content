@@ -28,6 +28,6 @@ handle="forseti2k32"
 user_picture="Tweet-forseti2k32-1rhck2j.jpg"
 verified=""
 >„Við minnumst Ingólfs Arnarsonar í veislum<br>
-en óskum þess að skipið hans það hefði sokkið“<ref>According to tradition Ingólfur Arnarson was first permanent settler of Iceland who founded Reykjavík in the year 874.
+en óskum þess að skipið hans það hefði sokkið“<ref>According to tradition Ingólfur Arnarson was the first permanent settler of Iceland who founded Reykjavík in the year 874.
 
-This tweet is a quote to a song by singer-songwriter [[w:Megas|Megas]] (who is more or less the Icelandic version of Bob Dylan), the song is called ''Um óþarflega fundvísi Ingólfs Arnarsonar''. The quote refers to how even though Icelanders celebrate Ingólfur's feats, they still wish that his ship had sunk and so the country would not have become populated, because the weather and nature in Iceland is so hostile.</ref></Tweet>
+This tweet is a quote from a song by singer-songwriter [[w:Megas|Megas]] (who is more or less the Icelandic version of Bob Dylan), the song is called ''Um óþarflega fundvísi Ingólfs Arnarsonar''. The quote refers to how even though Icelanders celebrate Ingólfur's feats, they still wish that his ship had sunk and so the country would not have become populated, because the weather and nature in Iceland are so hostile.</ref></Tweet>
