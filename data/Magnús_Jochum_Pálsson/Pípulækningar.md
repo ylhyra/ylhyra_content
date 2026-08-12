@@ -5829,7 +5829,7 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
         "meaning": "The doctors just shrug and tell me to go home"
       },
       "s_KZGm4liFtgc": {
-        "meaning": "Recently I've began calling tradesmen instead."
+        "meaning": "Recently I've begun calling tradesmen instead."
       },
       "s_fpCngpQEKMd": {
         "meaning": "Then I pay them an outrageous amount of money for nothing"
