@@ -186,7 +186,7 @@ title: Data:Tweets/Ása/Sund
     "sentences": {
       "s_1er40": {
         "meaning": "Each trip to the swimming pool is a rebirth.",
-        "note": "This is reffering to how good you always feel after a trip to the pool, it is like being born again."
+        "note": "This refers to how good you always feel after a trip to the pool — it is like being born again."
       }
     },
     "words": {
