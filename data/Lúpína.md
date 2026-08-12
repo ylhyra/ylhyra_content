@@ -7422,7 +7422,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w25"
         ],
-        "meaning": "little, small"
+        "meaning": "little"
       },
       "1li4beu": {
         "contains": [
