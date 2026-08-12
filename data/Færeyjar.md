@@ -5946,7 +5946,7 @@ title: Data:Færeyjar
         "contains": [
           "w_151v117"
         ],
-        "meaning": "ours"
+        "meaning": "our"
       },
       "lsb3ok": {
         "contains": [
