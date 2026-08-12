@@ -3628,7 +3628,7 @@ title: Data:Blær/LungA
       },
       "s_TTMExcx9CD": {
         "id": "s_TTMExcx9CD",
-        "text": "Dvölin var töfrum líkast.“",
+        "text": "Dvölin var töfrum líkust.“",
         "words": [
           {
             "id": "w_HZgqouPkBv",
@@ -3647,7 +3647,7 @@ title: Data:Blær/LungA
           " ",
           {
             "id": "w_lYrb2cFYd3",
-            "text": "líkast"
+            "text": "líkust"
           },
           ".“"
         ]
@@ -8413,7 +8413,7 @@ title: Data:Blær/LungA
       "w_lYrb2cFYd3": {
         "belongsToSentence": "s_TTMExcx9CD",
         "id": "w_lYrb2cFYd3",
-        "text": "líkast"
+        "text": "líkust"
       },
       "w_lkvi8Yiu_8c": {
         "belongsToSentence": "s_U_1xcWTuEy2",
@@ -11414,7 +11414,7 @@ title: Data:Blær/LungA
       },
       "s_TTMExcx9CD": {
         "id": "s_TTMExcx9CD",
-        "text": "Dvölin var töfrum líkast.“",
+        "text": "Dvölin var töfrum líkust.“",
         "words": [
           {
             "id": "w_HZgqouPkBv",
@@ -11433,7 +11433,7 @@ title: Data:Blær/LungA
           " ",
           {
             "id": "w_lYrb2cFYd3",
-            "text": "líkast"
+            "text": "líkust"
           },
           ".“"
         ]
@@ -16201,7 +16201,7 @@ title: Data:Blær/LungA
       "w_lYrb2cFYd3": {
         "belongsToSentence": "s_TTMExcx9CD",
         "id": "w_lYrb2cFYd3",
-        "text": "líkast"
+        "text": "líkust"
       },
       "w_lkvi8Yiu_8c": {
         "belongsToSentence": "s_U_1xcWTuEy2",
@@ -18328,7 +18328,7 @@ title: Data:Blær/LungA
         },
         {
           "id": "s_TTMExcx9CD",
-          "text": "Dvölin var töfrum líkast.“",
+          "text": "Dvölin var töfrum líkust.“",
           "words": [
             {
               "id": "w_HZgqouPkBv",
@@ -18347,7 +18347,7 @@ title: Data:Blær/LungA
             " ",
             {
               "id": "w_lYrb2cFYd3",
-              "text": "líkast"
+              "text": "líkust"
             },
             ".“"
           ]
