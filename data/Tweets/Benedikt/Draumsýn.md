@@ -587,7 +587,7 @@ title: Data:Tweets/Benedikt/Draumsýn
         "meaning": "A fantasy that I have: To draw flowers during the day"
       },
       "s_1iv111": {
-        "meaning": "Live in a lighthouse in a suptropical climate."
+        "meaning": "Live in a lighthouse in a subtropical climate."
       },
       "s_1iv16": {
         "meaning": "catch fish during the evenings."
