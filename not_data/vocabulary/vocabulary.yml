@@ -4707,7 +4707,7 @@ rows:
     row_id: 728
     last_seen: "2021-11-10"
   - icelandic: Ég þarf að fara í vinnuna.
-    english: I need to go to (my) job.
+    english: I need to go to work.
     lemmas: að þurfa, vinna
     depends_on: vinna, að þurfa
     level: 2
