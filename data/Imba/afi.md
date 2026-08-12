@@ -5533,7 +5533,7 @@ title: Data:Imba/afi
         "contains": [
           "w_9z5525"
         ],
-        "meaning": "how much"
+        "meaning": "how"
       },
       "tui26n": {
         "contains": [
