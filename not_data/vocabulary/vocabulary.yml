@@ -11980,7 +11980,7 @@ rows:
     row_id: 2017
     last_seen: "2021-10-18"
   - icelandic: umkringdur
-    english: surrounded by
+    english: surrounded
     depends_on: kringum
     level: 4
     note_regarding_english: masculine
