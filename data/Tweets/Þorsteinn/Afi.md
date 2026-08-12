@@ -688,7 +688,7 @@ title: Data:Tweets/Þorsteinn/Afi
         "contains": [
           "w_7v886"
         ],
-        "meaning": "somethings"
+        "meaning": "something"
       },
       "irboq6": {
         "contains": [
