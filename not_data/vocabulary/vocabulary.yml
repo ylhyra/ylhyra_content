@@ -2155,7 +2155,7 @@ rows:
     depends_on: að eignast
     level: 3
     difficulty: 1
-    literally: I plan on acquiring a child.
+    literally: I plan on acquiring children.
     row_id: 335
     last_seen: "2021-11-10"
   - icelandic: Það getur verið erfitt að eignast vini á Íslandi.
