@@ -5740,7 +5740,7 @@ title: Data:Strætó
         "meaning": "These kinds of \"-ó\" endings are somewhat common in Icelandic,"
       },
       "s_m3id75": {
-        "meaning": "It is also possible to take a bus in many towns outside in the countryside (outside of Reykjavík) but they do not travel as frequently there."
+        "meaning": "It is also possible to take a bus in many towns out in the countryside (outside Reykjavík), but buses do not run as frequently there."
       },
       "s_m3id96": {
         "meaning": "Buses are yellow in Iceland."
