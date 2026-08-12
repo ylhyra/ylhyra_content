@@ -5728,7 +5728,7 @@ title: Data:Strætó
         "meaning": "for example, the word \"boyfriend / girlfriend\" can be shortened to \"boyfriend\"."
       },
       "s_m3id28": {
-        "meaning": "Anyhow, in Iceland there are neither trains nor subways (there aren-t enough people in Iceland for trains to be profitable),"
+        "meaning": "Anyhow, in Iceland there are neither trains nor subways (there aren't enough people in Iceland for trains to be profitable),"
       },
       "s_m3id51": {
         "meaning": "so the best way to travel between places is by bus."
