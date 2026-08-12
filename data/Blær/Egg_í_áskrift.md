@@ -6991,7 +6991,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "spirited, and lays much tastier eggs."
       },
       "s_sbat6": {
-        "meaning": "\"Here the Icelandic Chicken is allowed to grow and thrive. It can become up to 7 years old."
+        "meaning": "\"Here the Icelandic chicken is allowed to grow and thrive. It can live to be up to seven years old."
       },
       "s_11qs4": {
         "meaning": "The factory-farmed bird, however, is allowed to live for only two years, confined to a cage."
@@ -7018,7 +7018,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "By becoming a foster parent to an Icelandic Chicken, you are supporting the breeding of the stock."
       },
       "s_13ckl": {
-        "meaning": "\"From your hen you get around 20 eggs per month, over a two-year period. You can pick up your eggs in the gourmet shop \"Frú Lauga\", or just according to an aggreement with me."
+        "meaning": "\"From your hen you get around 20 eggs per month over a two-year period. You can collect them from Frú Lauga or make another arrangement with me."
       },
       "s_1dzai": {
         "meaning": "You can always come and visit the hen, and see how it lives,"
@@ -7045,14 +7045,14 @@ title: Data:Blær/Egg í áskrift
         "meaning": "You can easily go away for a few days, if you leave behind enough animal feed."
       },
       "s_1bhq8": {
-        "meaning": "At Júlíus, you can purchase a day-olds chicken for only 1,000 ISK (10 USD)."
+        "meaning": "From Júlíus, you can purchase a day-old chick for only 1,000 ISK (10 USD)."
       },
       "s_1400q": {
         "meaning": "The price is low, he says, because of how little respect people generally have for chickens.",
         "direct": "The price is low, he says, because of how low chickens are in the ladder of respect."
       },
       "s_38vr9": {
-        "meaning": "In earlier times, the housewifes had chickens and took care of them."
+        "meaning": "In earlier times, the housewives kept chickens and took care of them."
       },
       "s_1vicf": {
         "meaning": "For country boys, however, it was humiliating to be asked to go to the henhouse to pick eggs."
@@ -7079,7 +7079,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "The flavor is also much stronger and fuller than that of a conventional egg."
       },
       "s_p6vbd": {
-        "meaning": "When the Icelandic Chicken is at it's maximum egg-laying capacity, it lays one egg a day."
+        "meaning": "When the Icelandic chicken is at peak egg production, it lays one egg a day."
       },
       "s_67ztu": {
         "meaning": "eleven months of the year."
@@ -7091,10 +7091,10 @@ title: Data:Blær/Egg í áskrift
         "meaning": "They usually start laying eggs when they are 5-6 months old and lay very well until they reach three years of age, then their egg-laying rate starts slowing down."
       },
       "s_kpznx": {
-        "meaning": "Nobody of them is over four years old, so most of them climb up to their compartments and lay their eggs."
+        "meaning": "None of them is over four years old, so most of them climb up to their compartments and lay their eggs."
       },
       "s_a8faz": {
-        "meaning": "It's fun to keep observe which of the compartments are the most popular with them."
+        "meaning": "It is interesting to observe which compartments are the most popular with them."
       },
       "s_1qvod": {
         "meaning": "Sometimes 15 eggs accumulate in one compartment, while the next one over remains completely empty, it's quite remarkable."
@@ -7103,7 +7103,7 @@ title: Data:Blær/Egg í áskrift
         "meaning": "At Þykkvabær the birds get organic feed, but Julius says they are omnivores."
       },
       "s_127qe": {
-        "meaning": "They go so far to eat each other."
+        "meaning": "They go so far as to eat each other."
       },
       "s_180a2": {
         "meaning": "It's not a beautiful sight in the morning."
@@ -7115,25 +7115,25 @@ title: Data:Blær/Egg í áskrift
         "meaning": "Then their bird excrement is the best fertilizer, it can be sold for a fortune."
       },
       "s_1ps78": {
-        "meaning": "Julius claims to be careful to give them fish-liver-oil and vitamins during the vinters."
+        "meaning": "Júlíus says that he makes sure to give them fish-liver oil and vitamins during the winters."
       },
       "s_1dckg": {
         "meaning": "These chickens are hardcore and go outside in any type of weather."
       },
       "s_1m66b": {
-        "meaning": "The Icelandic Chicken doens't let changes in weather or feed affect it, unlike the factory-chicken."
+        "meaning": "The Icelandic chicken doesn't let changes in weather or feed affect it, unlike the factory-farmed bird."
       },
       "s_yyse4": {
         "meaning": "Over coffee and chocolate, we guests agree that we need more chickens in our lives."
       },
       "s_i6quy": {
-        "meaning": "After having visited and learned about these excellent birds, it's doesn't appear to be such a bad idea to establish a farm in your own backyard."
+        "meaning": "After visiting and learning about these excellent birds, it does not seem at all far-fetched to start a small farm in your own backyard."
       },
       "s_dmb7o": {
         "meaning": "Then you can rent a few chickens at Júlíus and then see how it goes."
       },
       "s_1nodj": {
-        "meaning": "You cannot help but to admire the farmer's passion and catch some of his fascination with the Icelandic Chicken."
+        "meaning": "You cannot help but admire the farmer's passion and share some of his enthusiasm for the Icelandic chicken."
       },
       "s_1vmu8": {
         "meaning": "Our motto here is:"
@@ -9836,7 +9836,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1uk7g"
         ],
-        "meaning": "with a big attitude"
+        "meaning": "spirited"
       },
       "6lksgs": {
         "contains": [
@@ -11948,7 +11948,7 @@ title: Data:Blær/Egg í áskrift
           "w_87nwf"
         ],
         "difficult": true,
-        "meaning": "at it's maximum egg-laying capacity"
+        "meaning": "at peak egg production"
       },
       "43rj06": {
         "contains": [
@@ -12377,7 +12377,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1d4nr"
         ],
-        "meaning": "the comparment"
+        "meaning": "the compartment"
       },
       "lqmpbt": {
         "contains": [
