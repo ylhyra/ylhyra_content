@@ -24,7 +24,7 @@ reviewed: no
 
 '''Day 2'''
 
-*👁 [[Cases/Excercise 1|Introduction to cases]]
+*👁 [[Cases/Exercise 1|Introduction to cases]]
 *👁 [[Course/A1/Thanks|Thanks]]
 *👁 [[Course/A1/Good day|Good day]]
 *👁 [[Course/A1/Questions|Questions]]

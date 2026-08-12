@@ -2,6 +2,7 @@
 title: Course/Introduction to cases
 redirects:
 - Cases/Excercise 1
+- Cases/Exercise 1
 tags:
 - Exercises
 level: A1
