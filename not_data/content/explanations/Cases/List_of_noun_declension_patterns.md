@@ -469,7 +469,7 @@ Irregularities:
 # Neuter
 
 ## The “píanó” pattern
-Almost all neuter words follow this pattern. These words don't have a suffix in the first case plural, instead the plural is either the same as the singular (meaning people have to figure out from context whether you're talking about one or many items), or they can indicate the plural with a sound change.{{Declension singular and plural
+Almost all neuter words follow this pattern. These words don't have a suffix in the first case plural. Instead, the plural is either the same as the singular (meaning people have to figure out from context whether you're talking about one or many items), or it is indicated with a sound change.{{Declension singular and plural
 |píanó
 |píanó
 |píanó'''i'''
