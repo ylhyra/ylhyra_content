@@ -1593,7 +1593,7 @@ rows:
     row_id: 242
     last_seen: "2021-07-01"
   - icelandic: Mér þykir vænt um þig.
-    english: I care about you; I feel affection for you
+    english: I care about you.; I feel affection for you.
     lemmas: að þykja vænt um%, vænn%
     level: 3
     difficulty: 3
