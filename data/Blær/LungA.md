@@ -24167,7 +24167,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_Roj7xn-56DW"
         ],
-        "meaning": "constant"
+        "meaning": "constantly"
       },
       "hdzuaf": {
         "contains": [
