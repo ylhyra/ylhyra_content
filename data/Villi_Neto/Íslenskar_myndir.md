@@ -4001,7 +4001,7 @@ title: Data:Villi Neto/Íslenskar myndir
           "w_12ll7",
           "w_12ll8"
         ],
-        "meaning": "am arrived"
+        "meaning": "have arrived, am home"
       },
       "9bsu4n": {
         "contains": [
