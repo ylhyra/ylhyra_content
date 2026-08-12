@@ -12614,7 +12614,7 @@ rows:
     row_id: 2126
     last_seen: "2021-07-30"
   - icelandic: f%ljótandi
-    english: to be floating;; to be on a liquid form
+    english: to be floating;; to be in liquid form
     depends_on: að fljóta
     level: 5
     row_id: 2127
