@@ -40995,7 +40995,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_GyuVtWZLL18O"
         ],
-        "meaning": "upto"
+        "meaning": "up to"
       },
       "10sy97c": {
         "contains": [
