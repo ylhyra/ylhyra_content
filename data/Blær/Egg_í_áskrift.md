@@ -9836,7 +9836,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1uk7g"
         ],
-        "meaning": "with a big attidute"
+        "meaning": "with a big attitude"
       },
       "6lksgs": {
         "contains": [
