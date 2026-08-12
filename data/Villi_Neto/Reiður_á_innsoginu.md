@@ -1129,7 +1129,7 @@ title: Data:Villi Neto/Reiður á innsoginu
         "contains": [
           "w_zxfi22"
         ],
-        "meaning": "explain that to me"
+        "meaning": "huh?"
       },
       "1h3sy5q": {
         "contains": [
