@@ -11369,7 +11369,7 @@ title: Data:Blær/Egg í áskrift
           "w_3t0v1",
           "w_1vfi5"
         ],
-        "meaning": "to a certain exctent"
+        "meaning": "to a certain extent"
       },
       "17prx2r": {
         "contains": [
