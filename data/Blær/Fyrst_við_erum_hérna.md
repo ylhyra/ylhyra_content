@@ -43543,7 +43543,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_alXdwehFOTE"
         ],
-        "meaning": "the fyrst"
+        "meaning": "the first"
       },
       "1qihpqz": {
         "contains": [
