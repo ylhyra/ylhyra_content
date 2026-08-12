@@ -13007,7 +13007,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_15flq"
         ],
-        "meaning": "aggree",
+        "meaning": "agree",
         "show_definition_above": true,
         "difficult": true
       },
