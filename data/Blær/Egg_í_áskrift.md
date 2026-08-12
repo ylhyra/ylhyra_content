@@ -327,7 +327,7 @@ title: Data:Blær/Egg í áskrift
       },
       "s_1vmu8": {
         "id": "s_1vmu8",
-        "text": "„Móttóið okkar hérna er:"
+        "text": "„Mottóið okkar hérna er:"
       },
       "s_ukzdi": {
         "id": "s_ukzdi",
@@ -5662,7 +5662,7 @@ title: Data:Blær/Egg í áskrift
       },
       "w_1dvv0": {
         "id": "w_1dvv0",
-        "text": "Móttóið",
+        "text": "Mottóið",
         "belongsToSentence": "s_1vmu8"
       },
       "w_g1kcn": {
