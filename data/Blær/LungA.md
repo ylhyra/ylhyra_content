@@ -24045,7 +24045,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_4bsuGtFJqjs"
         ],
-        "meaning": "week"
+        "meaning": "weeks"
       },
       "f3rzc4": {
         "contains": [
