@@ -25216,7 +25216,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_Y2L3KH--50"
         ],
-        "meaning": "was"
+        "meaning": "were"
       },
       "yojhzk": {
         "contains": [
