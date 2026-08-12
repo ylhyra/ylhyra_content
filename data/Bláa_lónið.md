@@ -6614,7 +6614,7 @@ title: Data:Bláa lónið
         "meaning": "It's not exactly cheap to visit it,"
       },
       "s_1nio16": {
-        "meaning": "There are two main things that tourists know about that are on Reykjanesskagi:"
+        "meaning": "There are two things on Reykjanesskagi that tourists mainly know about:"
       },
       "s_1nio161": {
         "meaning": "but it is definitely worth it."
