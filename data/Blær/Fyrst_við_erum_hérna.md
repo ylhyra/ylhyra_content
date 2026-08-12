@@ -47297,7 +47297,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "After having visited the southern parts of the fjords the summer before, we wanted to take a long weekend this time and investigate which places would be worth visiting."
       },
       "s_3ccKO1HewLbO": {
-        "meaning": "The couple also furnished the second floor and they live there."
+        "meaning": "The couple have also furnished the upper floor and live there."
       },
       "s_3hWyr8-3zK96": {
         "meaning": "We were extremely anxious and our palms were sweaty watching the tourists dangling their feet over the edge, looking for puffins, so we let a few images of the cliff be enough for us."
