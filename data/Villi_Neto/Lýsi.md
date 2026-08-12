@@ -1607,13 +1607,13 @@ title: Data:Villi Neto/Lýsi
         "meaning": "Are you sure?"
       },
       "s_glfx21": {
-        "meaning": "Whoa"
+        "meaning": "Whoa."
       },
       "s_glfx23": {
         "meaning": "Hold on, dude… is he wearing… is he wearing a baseball cap?"
       },
       "s_glfx35": {
-        "meaning": "Holy shit"
+        "meaning": "Holy shit!"
       },
       "s_glfx38": {
         "meaning": "And is he using a skateboard?"
