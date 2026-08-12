@@ -801,7 +801,7 @@ title: Data:Tweets/Branddís/Köttur
         "contains": [
           "w_d6yu16"
         ],
-        "meaning": ""
+        "meaning": "maybe, perhaps"
       },
       "qwzoca": {
         "contains": [
