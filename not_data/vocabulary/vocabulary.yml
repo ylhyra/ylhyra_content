@@ -4697,7 +4697,7 @@ rows:
     row_id: 727
     last_seen: "2021-07-01"
   - icelandic: Ég er á leiðinni í vinnuna.
-    english: I'm on my way to _(my)_ job.
+    english: I'm on my way to work.
     lemmas: leið, vinna
     depends_on: á leiðinni
     alternative_id: Ég er á leiðinni í vinnuna., á leiðinni
