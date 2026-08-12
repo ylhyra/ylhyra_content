@@ -4639,7 +4639,7 @@ title: Data:Harðfiskur
         "contains": [
           "w_yww5111"
         ],
-        "meaning": ""
+        "meaning": "dried fish"
       },
       "12zm9pd": {
         "contains": [
