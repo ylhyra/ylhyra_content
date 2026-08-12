@@ -2394,7 +2394,7 @@ title: Data:Villi Neto/Forníslenski sjomlinn
         "contains": [
           "w_t63e54"
         ],
-        "meaning": "further, in a "
+        "meaning": "further forward (in the queue)"
       },
       "pcqxb1": {
         "contains": [
