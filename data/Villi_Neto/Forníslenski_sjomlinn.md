@@ -2476,7 +2476,7 @@ title: Data:Villi Neto/Forníslenski sjomlinn
         "note": "Extremely antiquated language."
       },
       "s_t63e43": {
-        "meaning": "Today there will be the mythological end of the world."
+        "meaning": "Tonight there's going to be Ragnarök, the mythological end of the world."
       },
       "s_t63e50": {
         "meaning": "Let us skip in line, I am of course a VIP, very important person.",
