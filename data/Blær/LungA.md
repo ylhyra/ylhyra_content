@@ -24644,7 +24644,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_yWEsvhfGaS"
         ],
-        "meaning": "festival"
+        "meaning": "the festival"
       },
       "qkrzsz": {
         "contains": [
