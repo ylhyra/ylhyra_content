@@ -4428,7 +4428,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_B8w-b51v9FaM": {
         "id": "s_B8w-b51v9FaM",
-        "text": "það eru til dæmis Dýrafjarðadagar núna um helgina” segir Agnes okkur.",
+        "text": "það eru til dæmis Dýrafjarðardagar núna um helgina” segir Agnes okkur.",
         "words": [
           {
             "id": "w_1QJCops8Npy8",
@@ -4452,7 +4452,7 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_XrZetlMX5LFL",
-            "text": "Dýrafjarðadagar"
+            "text": "Dýrafjarðardagar"
           },
           " ",
           {
@@ -13031,7 +13031,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_XrZetlMX5LFL": {
         "belongsToSentence": "s_B8w-b51v9FaM",
         "id": "w_XrZetlMX5LFL",
-        "text": "Dýrafjarðadagar"
+        "text": "Dýrafjarðardagar"
       },
       "w_XuVeIhErkLxu": {
         "belongsToSentence": "s_le8wO5jDMHpT",
@@ -17626,7 +17626,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_B8w-b51v9FaM": {
         "id": "s_B8w-b51v9FaM",
-        "text": "það eru til dæmis Dýrafjarðadagar núna um helgina” segir Agnes okkur.",
+        "text": "það eru til dæmis Dýrafjarðardagar núna um helgina” segir Agnes okkur.",
         "words": [
           {
             "id": "w_1QJCops8Npy8",
@@ -17650,7 +17650,7 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_XrZetlMX5LFL",
-            "text": "Dýrafjarðadagar"
+            "text": "Dýrafjarðardagar"
           },
           " ",
           {
@@ -26231,7 +26231,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_XrZetlMX5LFL": {
         "belongsToSentence": "s_B8w-b51v9FaM",
         "id": "w_XrZetlMX5LFL",
-        "text": "Dýrafjarðadagar"
+        "text": "Dýrafjarðardagar"
       },
       "w_XuVeIhErkLxu": {
         "belongsToSentence": "s_le8wO5jDMHpT",
@@ -33059,7 +33059,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_XUg9zbWxpOs7": "að hafa",
       "w_XYYx_8pP8hMz": "sund",
       "w_XiUT4V_Diwbq": "almennilegt",
-      "w_XrZetlMX5LFL": "dýrafjarðadagar",
+      "w_XrZetlMX5LFL": "dýrafjarðardagar",
       "w_XuVeIhErkLxu": "á",
       "w_Xw_u-gugozFq": "krossneslaug",
       "w_XzVtQCJ6cLEW": "eigin",
@@ -36781,7 +36781,7 @@ title: Data:Blær/Fyrst við erum hérna
         },
         {
           "id": "s_B8w-b51v9FaM",
-          "text": "það eru til dæmis Dýrafjarðadagar núna um helgina” segir Agnes okkur.",
+          "text": "það eru til dæmis Dýrafjarðardagar núna um helgina” segir Agnes okkur.",
           "words": [
             {
               "id": "w_1QJCops8Npy8",
@@ -36805,7 +36805,7 @@ title: Data:Blær/Fyrst við erum hérna
             " ",
             {
               "id": "w_XrZetlMX5LFL",
-              "text": "Dýrafjarðadagar"
+              "text": "Dýrafjarðardagar"
             },
             " ",
             {
