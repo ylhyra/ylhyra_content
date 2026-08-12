@@ -13537,7 +13537,7 @@ rows:
     row_id: 2272
     last_seen: "2021-07-31"
   - icelandic: Það er hlýrra en í gær.
-    english: It's warmer _(outside)_ than yesterday
+    english: It's warmer _(outside)_ than yesterday.
     lemmas: hlýr
     alternative_id: hlýrra
     level: 3
