@@ -12762,7 +12762,7 @@ rows:
     row_id: 2152
     last_seen: "2021-07-30"
   - icelandic: við hliðina á
-    english: to the side of
+    english: next to; beside
     lemmas: hlið
     depends_on: hliðin
     level: 3
