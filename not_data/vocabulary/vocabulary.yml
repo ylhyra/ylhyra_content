@@ -9393,7 +9393,7 @@ rows:
     alternative_id: fleiri, fleira
     level: 1
     dont_confuse: meira
-    note: "\"Meira\" is used for uncountable things like coffee and time, while \"fleira\" is used for countable things like apples and days."
+    note: "\"Meira\" is used for uncountable things like coffee and time, while \"fleiri\" (\"fleira\" in the neuter singular) is used for countable things like apples and days."
     row_id: 1552
     last_seen: "2021-08-02"
   - icelandic: ég get fengið
