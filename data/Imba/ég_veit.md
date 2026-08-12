@@ -3009,7 +3009,7 @@ title: Data:Imba/ég veit
         "contains": [
           "w_1xdm40"
         ],
-        "meaning": "she"
+        "meaning": "it (the love)"
       },
       "xgzp9e": {
         "contains": [
