@@ -5377,7 +5377,7 @@ title: Data:Harðfiskur
         "meaning": "That's why it is hard."
       },
       "s_yww590": {
-        "meaning": "Harðfiskur is eighty-percent protein, so you don't need to eat a lot to feel full."
+        "meaning": "Harðfiskur is eighty percent protein, so you don't need to eat a lot to feel full."
       }
     },
     "words": {
