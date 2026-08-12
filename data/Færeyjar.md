@@ -6137,7 +6137,7 @@ title: Data:Færeyjar
         "meaning": "I feel like the Faroese people are our little cousins because they are situated so close to us."
       },
       "s_151v11": {
-        "meaning": "They are a part of the Danish Kingdom."
+        "meaning": "They are a part of Denmark."
       },
       "s_151v126": {
         "meaning": "Talking to them is fun, and we also think alike."
