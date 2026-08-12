@@ -4497,10 +4497,10 @@ title: Data:Imba/grip
         "meaning": "and now she is the greedy one,"
       },
       "s_vdav130": {
-        "meaning": "always wants more and fears"
+        "meaning": "always wants more but fears"
       },
       "s_vdav137": {
-        "meaning": "trying to grab something that isn't there."
+        "meaning": "grasping at nothing."
       },
       "s_vdav16": {
         "meaning": "and never see me."
