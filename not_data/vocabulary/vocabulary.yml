@@ -16504,7 +16504,7 @@ rows:
     row_id: 2760
     last_seen: "2021-08-02"
   - icelandic: spenntur
-    english: excited;; to have seatbelts fastened
+    english: excited;; strapped in _(with a seatbelt)_
     depends_on: spennandi
     level: 3
     row_id: 2761
