@@ -41621,7 +41621,7 @@ title: Data:Blær/Fyrst við erum hérna
           "w_EdpsLaxi_S2V",
           "w_S_Wx5-GE6YHi"
         ],
-        "meaning": "read bout"
+        "meaning": "read up about, read about"
       },
       "1713p2s": {
         "contains": [
