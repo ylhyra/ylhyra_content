@@ -800,7 +800,7 @@ title: Data:Tweets/Ólafur/Ólæs
         "contains": [
           "w_1xk615"
         ],
-        "meaning": "am"
+        "meaning": "I"
       },
       "1hxag7w": {
         "contains": [
