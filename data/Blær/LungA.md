@@ -22126,7 +22126,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_ArzA10P6hI"
         ],
-        "meaning": "foot"
+        "meaning": "the foot"
       },
       "1edtw54": {
         "contains": [
