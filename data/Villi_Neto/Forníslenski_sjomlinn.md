@@ -2326,7 +2326,7 @@ title: Data:Villi Neto/Forníslenski sjomlinn
         "contains": [
           "w_t63e61"
         ],
-        "meaning": "very "
+        "meaning": "very"
       },
       "detuay": {
         "contains": [
