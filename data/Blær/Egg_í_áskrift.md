@@ -10100,7 +10100,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_q7ai1"
         ],
-        "meaning": "driven"
+        "meaning": "worn out, run into the ground"
       },
       "c7qclh": {
         "contains": [
