@@ -8235,7 +8235,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_zaxmc"
         ],
-        "meaning": "the"
+        "meaning": "who, that"
       },
       "1gkd5f2": {
         "contains": [
