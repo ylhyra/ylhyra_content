@@ -5324,7 +5324,7 @@ title: Data:Imba/afi
         "contains": [
           "w_12wu26"
         ],
-        "meaning": "at that moment"
+        "meaning": "immediately, instantly"
       },
       "c10ik8": {
         "contains": [
