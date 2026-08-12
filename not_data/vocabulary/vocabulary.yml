@@ -13456,7 +13456,7 @@ rows:
     row_id: 2260
     last_seen: "2021-07-31"
   - icelandic: sa%mfarirnar
-    english: "the sexual intercourse (note: formal)"
+    english: "sexual intercourse (note: formal)"
     lemmas: samfarir%
     depends_on: samferða, ferð, að fara
     level: 4
