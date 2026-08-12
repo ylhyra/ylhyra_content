@@ -14375,7 +14375,7 @@ rows:
     depends_on: matur
     alternative_id: uppáhalds
     level: 2
-    note: "\"Uppáhalds-\" (the fourth case of \"uppáhald\") is used when describing your favorite something. People often write it seperately (\"uppáhalds maturinn\")."
+    note: "\"Uppáhalds-\" (the fourth case of \"uppáhald\") is used when describing your favorite something. People often write it separately (\"uppáhalds maturinn\")."
     row_id: 2401
     last_seen: "2021-08-01"
   - icelandic: lífið mitt
