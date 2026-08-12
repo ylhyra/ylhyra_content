@@ -17210,7 +17210,7 @@ rows:
     row_id: 2875
     last_seen: "2021-10-14"
   - icelandic: að gera greinarmun á einhverju
-    english: to make a distinction between some thing _(and another)_
+    english: to make a distinction between one thing _(and another)_
     lemmas: greinarmunur%
     depends_on: munur
     alternative_id: að gera greinarmun
