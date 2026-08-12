@@ -46587,7 +46587,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_6NoJcqWqK1Ur"
         ],
-        "meaning": "of the trip"
+        "meaning": "the trip"
       },
       "seman5": {
         "contains": [
