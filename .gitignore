@@ -3,3 +3,4 @@ not_data/test/*
 **TMP**
 **/BACKUP/**
 .idea
+exports

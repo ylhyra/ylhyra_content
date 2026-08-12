@@ -1,5 +1,5 @@
 ---
-title: i
+title: I
 license: CC0
 reviewed: no
 ---
