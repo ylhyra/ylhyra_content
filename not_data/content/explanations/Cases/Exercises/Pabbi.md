@@ -17,7 +17,7 @@ hér er sími - um síma
 Ég hef ekki tíma. 
 Tekur þetta langan tíma?
 Klukkan hvað kemur pabbi?
-hér er fótbolti - um fóbolta
+hér er fótbolti - um fótbolta
 hér er afi - um afa
 kærasti
 hér er kærasti - um kærasta
