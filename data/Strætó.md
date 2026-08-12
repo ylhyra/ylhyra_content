@@ -5725,7 +5725,7 @@ title: Data:Strætó
         "meaning": "The best way to buy a ticket is to download the bus app and pay before you get on the bus."
       },
       "s_m3id16": {
-        "meaning": "for example, the word \"boyfriend / girlfriend\" can be shortened to \"boyfriend\"."
+        "meaning": "For example, the word `kærasti/kærasta` (boyfriend/girlfriend) can be shortened to `kæró`."
       },
       "s_m3id28": {
         "meaning": "Anyhow, in Iceland there are neither trains nor subways (there aren't enough people in Iceland for trains to be profitable),"
