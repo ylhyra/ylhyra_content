@@ -14688,7 +14688,7 @@ rows:
     english: There's '''even''' a swimming pool here!
     alternative_id: meira að segja
     level: 2
-    note: "\"Meira að segja\" adds emphasis to what you're saying. It can not be used if the sentence includes \"ekki\", then you have to use \"ekki einu sinni\" (\"not even!\")."
+    note: "\"Meira að segja\" adds emphasis to what you're saying. It cannot be used if the sentence includes \"ekki\"; in that case you have to use \"ekki einu sinni\" (\"not even!\")."
     row_id: 2453
     last_seen: "2021-08-01"
   - icelandic: sumir
