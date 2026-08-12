@@ -25213,7 +25213,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_SpzoKcopOf3"
         ],
-        "meaning": "of people"
+        "meaning": "people"
       },
       "yvjj2t": {
         "contains": [
