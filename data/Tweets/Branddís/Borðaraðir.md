@@ -805,7 +805,7 @@ title: Data:Tweets/Branddís/Borðaraðir
     },
     "sentences": {
       "s_14jg0": {
-        "meaning": "I created a scheme where the people the university library's desk rows would take turns giving the next desk row a shoulder massage."
+        "meaning": "I made up a plan where the desk rows at the university library take turns giving each other shoulder massages."
       },
       "s_14jg14": {
         "meaning": "Obtaining general agreement about this arrangement is not going well."
