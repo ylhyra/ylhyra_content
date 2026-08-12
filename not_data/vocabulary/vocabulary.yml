@@ -18121,7 +18121,7 @@ rows:
     row_id: 3039
     last_seen: "2021-08-03"
   - icelandic: þeir hlógu
-    english: they laughed
+    english: they{{kk}} laughed
     lemmas: að hlæja
     level: 3
     row_id: 3041
