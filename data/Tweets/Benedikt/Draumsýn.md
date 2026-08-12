@@ -572,7 +572,7 @@ title: Data:Tweets/Benedikt/Draumsýn
         "contains": [
           "w_1iv17"
         ],
-        "meaning": "hunt"
+        "meaning": "catch, fish for"
       },
       "z1hyb8": {
         "contains": [
