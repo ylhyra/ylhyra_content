@@ -48,7 +48,7 @@ It also has some alternative uses. The one students usually find really strange 
 You can also use „skal“ to construct hypothetical sentences. They often sound hyper-polite, making them a great choice for writing business emails. Here the word means "If it so happens that ... / In case that ..."
 
 *Bara að benda á þetta ef þú '''skyldir''' ekki vita af þessu. = I'm just pointing this out '''in case''' you didn't know about this.
-*Ef þig skyldi þig langa í sund á morgun er ég laus. = '''In case''' you would be up for going for a swim tomorrow, then I'm free.
+*Ef þig skyldi langa í sund á morgun er ég laus. = '''In case''' you would be up for going for a swim tomorrow, then I'm free.
 
 ***
 
@@ -67,4 +67,3 @@ Students have a tendency to incorrectly use this verb because they are thinking 
 <notes>
 *The base form ([[infinitive]]) of "skal" is the extremely strange-looking "að skul'''u'''". You do not need to memorize this quirk because you will practically never see this verb in the infinitive.
 </notes>
-
