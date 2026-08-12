@@ -4318,7 +4318,7 @@ title: Data:Lopapeysa
           "w_naaf72",
           "w_naaf73"
         ],
-        "meaning": "came into existance"
+        "meaning": "came into existence"
       },
       "mws6w6": {
         "contains": [
