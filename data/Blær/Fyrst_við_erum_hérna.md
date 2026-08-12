@@ -43509,7 +43509,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_qamMpKerAPxW"
         ],
-        "meaning": "view"
+        "meaning": "the view"
       },
       "1q87lrl": {
         "contains": [
