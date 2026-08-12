@@ -73,15 +73,25 @@ function sentenceIdOf(wid) {
   return null;
 }
 
-/* rebuild sentence.text from its words, keeping the original outer whitespace */
-function resync(sid) {
+/* Rebuild sentence.text from its words, keeping the original outer whitespace.
+   The older schema (e.g. Egg í áskrift) stores sentences without a `words` array —
+   the words only exist in list.words with `belongsToSentence` — so there is nothing to
+   rebuild from and the text has to be patched directly. `fallback` carries the
+   old/new strings for that case. */
+function resync(sid, fallback) {
   for (const s of sentenceObjects(sid)) {
-    if (!s.words) continue;
-    const body = s.words.map((w) => (typeof w === "string" ? w : w.text)).join("");
-    const orig = s.text ?? "";
-    const lead = orig.slice(0, orig.length - orig.trimStart().length);
-    const trail = orig.slice(orig.trimEnd().length);
-    s.text = lead + body.trim() + trail;
+    if (s.words) {
+      const body = s.words.map((w) => (typeof w === "string" ? w : w.text)).join("");
+      const orig = s.text ?? "";
+      const lead = orig.slice(0, orig.length - orig.trimStart().length);
+      const trail = orig.slice(orig.trimEnd().length);
+      s.text = lead + body.trim() + trail;
+    } else if (fallback && s.text) {
+      const [oldS, newS] = fallback;
+      const re = new RegExp(`(^|[^\\p{L}])${oldS.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?![\\p{L}])`, "u");
+      if (!re.test(s.text)) throw new Error(`"${oldS}" not found as a whole word in ${sid}`);
+      s.text = s.text.replace(re, (m, pre) => pre + newS);
+    }
   }
 }
 
@@ -100,7 +110,7 @@ if (op === "rename") {
   if (d.short_audio?.wordID_to_text?.[wid] !== undefined) {
     d.short_audio.wordID_to_text[wid] = text.toLowerCase();
   }
-  resync(sentenceIdOf(wid));
+  resync(sentenceIdOf(wid), [before, text]);
   summary = `${objs.length} copies: "${before}" -> "${text}"`;
 } else if (op === "sep") {
   const [sid, oldS, newS] = args;

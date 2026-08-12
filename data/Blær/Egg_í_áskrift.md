@@ -199,7 +199,7 @@ title: Data:Blær/Egg í áskrift
       },
       "s_zfog7": {
         "id": "s_zfog7",
-        "text": "Þú kemst auðveldlega í burtu í nokkra dag ef skilið er eftir nóg af fóðri.“"
+        "text": "Þú kemst auðveldlega í burtu í nokkra daga ef skilið er eftir nóg af fóðri.“"
       },
       "s_1bhq8": {
         "id": "s_1bhq8",
@@ -3352,7 +3352,7 @@ title: Data:Blær/Egg í áskrift
       },
       "w_c3y29": {
         "id": "w_c3y29",
-        "text": "dag",
+        "text": "daga",
         "belongsToSentence": "s_zfog7"
       },
       "w_pzuyt": {
