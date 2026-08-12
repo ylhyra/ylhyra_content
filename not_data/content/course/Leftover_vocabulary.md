@@ -88,7 +88,7 @@ When you have not yet specified a word, or when the word stands by itself like w
 *Þetta er gott kaffi. = This thing here is some good coffee.
 *Þetta er góður hamborgari. = This thing here is a good hamburger. — We use the neuter form by default since we're saying "this thing" and not "this hamburger".
 
-## Excercise
+## Exercise
 
 Translate the following:
 
