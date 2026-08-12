@@ -12684,7 +12684,7 @@ rows:
     row_id: 2138
     last_seen: "2021-07-30"
   - icelandic: Surtsey myndaðist í Vestmannaeyjagosinu 1963.
-    english: Surtsey was formed in the Vestmannaeyjar volcanic eruption 1963.
+    english: Surtsey was formed in the 1963 Vestmannaeyjar volcanic eruption.
     lemmas: að myndast
     depends_on: mynd
     level: 4
