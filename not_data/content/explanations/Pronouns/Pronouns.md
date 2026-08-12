@@ -26,7 +26,7 @@ In Icelandic, we may make a distinction between my/your and the other possessive
 
 Here, both ''bróðir'' and ''minn'' are in dative, because they follow the preposition ''handa''.
 
-:Við fórum kringum '''húsið þítt''' ''We went around '''your house'''.''
+:Við fórum kringum '''húsið þitt''' ''We went around '''your house'''.''
 
 Here, both ''hús'' and ''þinn'' are in accusative, because they follow the preposition ''kringum''.
 
@@ -134,7 +134,7 @@ Icelandic has verbs that work just the same way:
 
 :Hann '''rakar sig''' áður en að hann fer í leikhús. ''He '''shaves himself''' before going to the theatre''
 
-:Barnið '''skemmtir sitt''' mjög mikið í sundlauginu! ''The child '''enjoyed itself''' very much in the pool!''
+:Barnið '''skemmtir sér''' mjög mikið í sundlauginni! ''The child '''enjoys itself''' very much in the pool!''
 
 For such verbs, the personal pronouns ''sinn''(m) ''sín''(f) and ''sitt''(n) are used. These are, like everything else, also declined for case and number:
 
@@ -209,4 +209,3 @@ and between
 :Katrín þvær dóttur '''hennar''' ''Katrín washes '''her''' (i.e. someone else’s) daughter''
 
 {{Parts of speech}}
-
