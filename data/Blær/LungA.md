@@ -23327,7 +23327,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_aZAmgtIVem"
         ],
-        "meaning": "til"
+        "meaning": "to"
       },
       "1yvljf9": {
         "contains": [
