@@ -9267,7 +9267,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_qjxrg"
         ],
-        "meaning": "of the farm"
+        "meaning": "the farm"
       },
       "bed3up": {
         "contains": [
