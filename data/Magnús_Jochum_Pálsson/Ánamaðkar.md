@@ -4540,12 +4540,12 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
     "s_DkycO2w13k": [
       {
         "definition": {
-          "meaning": "A long and ard harsh journey is what comes next."
+          "meaning": "A long and arduous journey comes next."
         }
       },
       {
         "definition": {
-          "meaning": "A long and ard harsh journey is what comes next."
+          "meaning": "A long and arduous journey comes next."
         }
       }
     ],
@@ -5542,7 +5542,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       },
       {
@@ -5587,7 +5587,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -8307,7 +8307,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "meaning": "Because of the disaster, the earthworms are forced to flee their homes."
       },
       "s_DkycO2w13k": {
-        "meaning": "A long and ard harsh journey is what comes next."
+        "meaning": "A long and arduous journey comes next."
       },
       "s_JErXmyqlF": {
         "meaning": "Large puddles cover the streets and the earth is soaked with water."

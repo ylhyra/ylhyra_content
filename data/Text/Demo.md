@@ -2630,7 +2630,7 @@ title: Data:Template:Demo
     "s_DkycO2w13k": [
       {
         "definition": {
-          "meaning": "A long and ard harsh journey is what comes next."
+          "meaning": "A long and arduous journey comes next."
         }
       }
     ],
@@ -2962,7 +2962,7 @@ title: Data:Template:Demo
       },
       {
         "definition": {
-          "meaning": "upto"
+          "meaning": "up to"
         }
       }
     ],
@@ -3866,7 +3866,7 @@ title: Data:Template:Demo
         "meaning": "Because of the disaster, the earthworms are forced to flee their homes."
       },
       "s_DkycO2w13k": {
-        "meaning": "A long and ard harsh journey is what comes next."
+        "meaning": "A long and arduous journey comes next."
       },
       "s_JErXmyqlF": {
         "meaning": "Large puddles cover the streets and the earth is soaked with water."
