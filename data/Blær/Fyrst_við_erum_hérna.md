@@ -47512,7 +47512,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Hot spring of Hörgshlíð in Mjóifjörður"
       },
       "s_cvOmKv0yAEC": {
-        "meaning": "We were determined in doing that which you rarely do in your own country – getting to know and speak to the people you meet."
+        "meaning": "We were determined to do what you rarely do in your own country – getting to know and speak to the people you meet."
       },
       "s_dcWGH1T65": {
         "meaning": "Since we're already here"
