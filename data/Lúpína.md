@@ -7317,7 +7317,7 @@ title: Data:Lúpína
         "contains": [
           "w_kg9q175"
         ],
-        "meaning": "she"
+        "meaning": "it"
       },
       "1ga181g": {
         "contains": [
