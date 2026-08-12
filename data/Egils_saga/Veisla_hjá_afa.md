@@ -9308,7 +9308,7 @@ title: Data:Egils saga/Veisla hjá afa
         "meaning": "Despite the fact that he is just three years old, Egill is very strong and is a very good poet."
       },
       "s_esty58": {
-        "meaning": "He is a difficult child and is bad with other kids."
+        "meaning": "He is a difficult child and is mean to other kids."
       },
       "s_esty69": {
         "meaning": "Tonight there is a party at Egill's grandfather's house."
