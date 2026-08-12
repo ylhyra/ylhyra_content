@@ -14568,7 +14568,7 @@ rows:
     depends_on: að óska
     alternative_id: "3"
     level: 3
-    note: "\"I wish.\" by itself er \"Ég vildi óska þess\". However, as soon as you add something to the sentence and make it \"I wish that ...\", then there's no need for the word \"að óska\" (to wish) and you can instead simply say \"I would want to ...\"."
+    note: "\"I wish.\" by itself is \"Ég vildi óska þess\". However, as soon as you add something to the sentence and make it \"I wish that ...\", then there's no need for the word \"að óska\" (to wish) and you can instead simply say \"I would want to ...\"."
     literally: I would want that I could help you.
     row_id: 2431
     last_seen: "2021-08-01"
