@@ -860,7 +860,7 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
         "contains": [
           "w__t4HnKPHdJL"
         ],
-        "meaning": "photocopy"
+        "meaning": "the photocopy"
       },
       "ro99rn": {
         "contains": [
