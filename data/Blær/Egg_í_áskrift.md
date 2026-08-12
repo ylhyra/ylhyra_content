@@ -8440,7 +8440,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1t6hr"
         ],
-        "meaning": "the far"
+        "meaning": "the farm"
       },
       "1fyf1t0": {
         "contains": [
