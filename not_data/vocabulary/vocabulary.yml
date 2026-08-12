@@ -14308,7 +14308,7 @@ rows:
     row_id: 2390
     last_seen: "2021-08-01"
   - icelandic: s%teiktur l%aukur
-    english: dry fried onion; cronions
+    english: crispy fried onions
     depends_on: að steikja, laukur
     level: 3
     note: Used as a condiment on hot dogs.
