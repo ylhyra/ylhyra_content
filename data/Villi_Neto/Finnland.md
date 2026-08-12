@@ -86,6 +86,7 @@ title: Data:Villi Neto/Finnland
           },
           " ",
           {
+            "belongsToSentence": "s_12650",
             "id": "w_12655",
             "text": "of"
           },
@@ -312,11 +313,6 @@ title: Data:Villi Neto/Finnland
         "id": "w_12654",
         "text": "er"
       },
-      "w_12655": {
-        "belongsToSentence": "s_12650",
-        "id": "w_12655",
-        "text": "of"
-      },
       "w_12656": {
         "belongsToSentence": "s_12650",
         "id": "w_12656",
@@ -331,6 +327,11 @@ title: Data:Villi Neto/Finnland
         "belongsToSentence": "s_12657",
         "id": "w_12659",
         "text": "á"
+      },
+      "w_12655": {
+        "belongsToSentence": "s_12650",
+        "id": "w_12655",
+        "text": "of"
       }
     },
     "sentences": {
@@ -359,6 +360,7 @@ title: Data:Villi Neto/Finnland
           },
           " ",
           {
+            "belongsToSentence": "s_12650",
             "id": "w_12655",
             "text": "of"
           },
@@ -587,11 +589,6 @@ title: Data:Villi Neto/Finnland
         "id": "w_12654",
         "text": "er"
       },
-      "w_12655": {
-        "belongsToSentence": "s_12650",
-        "id": "w_12655",
-        "text": "of"
-      },
       "w_12656": {
         "belongsToSentence": "s_12650",
         "id": "w_12656",
@@ -606,6 +603,11 @@ title: Data:Villi Neto/Finnland
         "belongsToSentence": "s_12657",
         "id": "w_12659",
         "text": "á"
+      },
+      "w_12655": {
+        "belongsToSentence": "s_12650",
+        "id": "w_12655",
+        "text": "of"
       }
     }
   },
@@ -646,6 +648,7 @@ title: Data:Villi Neto/Finnland
             },
             " ",
             {
+              "belongsToSentence": "s_12650",
               "id": "w_12655",
               "text": "of"
             },
