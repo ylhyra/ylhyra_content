@@ -5838,7 +5838,7 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
         "meaning": "I have lost all faith in seeking out doctors when something happens to me."
       },
       "s_osl7CIWyBbp": {
-        "meaning": "That way I can have my house fixed and get medical opinions."
+        "meaning": "That way I can both have my house fixed and get a medical opinion."
       },
       "s_s2waqMJvHZv": {
         "meaning": "I never get an explanation or a cure for the ailments that afflict me."
