@@ -17254,7 +17254,7 @@ rows:
     row_id: 2881
     last_seen: "2021-08-02"
   - icelandic: gráðugur
-    english: greedy;; voracious; someone who devours a lot of food
+    english: greedy;; voracious; devouring a lot of food
     depends_on: græðgi
     level: 5
     row_id: 2882
