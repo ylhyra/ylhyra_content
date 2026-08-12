@@ -8178,7 +8178,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w28"
         ],
-        "meaning": "grassland"
+        "meaning": "grass"
       },
       "y4zwf4": {
         "contains": [
