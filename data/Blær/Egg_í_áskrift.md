@@ -12749,7 +12749,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_lb12b"
         ],
-        "meaning": "are"
+        "meaning": "is"
       },
       "1j2y7y6": {
         "contains": [
