@@ -16424,7 +16424,7 @@ rows:
     row_id: 2744
     last_seen: "2021-08-02"
   - icelandic: sjálfsmynd
-    english: "a selfie;; a self-image (n: psychology)"
+    english: "a self-portrait;; a self-image (n: psychology)"
     depends_on: sjálfur, mynd
     level: 5
     row_id: 2745
