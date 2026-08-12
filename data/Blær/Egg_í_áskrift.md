@@ -10757,7 +10757,7 @@ title: Data:Blær/Egg í áskrift
           "w_1tn8y",
           "w_18hvn"
         ],
-        "meaning": "*it just might be so*",
+        "meaning": "*who knows, maybe*",
         "base_direct": "\"who knows except\""
       },
       "auob6d": {
