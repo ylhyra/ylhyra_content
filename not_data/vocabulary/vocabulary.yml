@@ -8105,7 +8105,7 @@ rows:
     level: 2
     row_id: 1337
     last_seen: "2021-07-02"
-  - icelandic: M%ér þ%ykir þ%að á%hugavert
+  - icelandic: M%ér þ%ykir þ%að á%hugavert.
     english: I find it to be interesting.
     lemmas: að þykja%, áhugaverður
     alternative_id: að þykja, mér þykir
