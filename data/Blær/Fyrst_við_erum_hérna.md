@@ -42445,7 +42445,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_iyJsX__kq_hR"
         ],
-        "meaning": "of the cliff"
+        "meaning": "the cliff"
       },
       "1fp0wa3": {
         "contains": [
