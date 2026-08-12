@@ -754,7 +754,7 @@ title: Data:Tweets/Ása/Kettir
         "contains": [
           "w_HuxbbjRF66"
         ],
-        "meaning": "of children"
+        "meaning": "children"
       },
       "1uzjeq": {
         "contains": [
