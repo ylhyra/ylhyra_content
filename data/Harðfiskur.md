@@ -5209,7 +5209,7 @@ title: Data:Harðfiskur
         "contains": [
           "w_yww582"
         ],
-        "meaning": ""
+        "meaning": "dried fish"
       },
       "ozjptb": {
         "contains": [
