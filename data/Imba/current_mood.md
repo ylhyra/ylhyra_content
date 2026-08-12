@@ -1306,7 +1306,7 @@ title: Data:Imba/current mood
         "meaning": ""
       },
       "s_qs5b38": {
-        "meaning": "which is natural given that I am a cold Scandinavian bitch."
+        "meaning": "which figures, given that I'm a Scandinavian bitch."
       },
       "s_qs5b5": {
         "meaning": "through everything"
