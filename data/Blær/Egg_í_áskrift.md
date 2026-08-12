@@ -10516,7 +10516,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1v2rh"
         ],
-        "meaning": "aggreement"
+        "meaning": "agreement"
       },
       "1ckf17u": {
         "contains": [
