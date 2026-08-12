@@ -47415,7 +47415,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Next year, Hanna will be 80 years old and Gunnar 85."
       },
       "s_IVYvgFiI5nvS": {
-        "meaning": "I was moving from the red house to the blue one right besdie it."
+        "meaning": "I was moving from the red house to the blue one right beside it."
       },
       "s_IWjNmtdbb9bL": {
         "meaning": "In Hörgshlíð in Mjóifjörður is the hot spring of Hörgshlíð"
