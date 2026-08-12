@@ -1017,7 +1017,7 @@ title: Data:Villi Neto/Skata
         "contains": [
           "w_1m4v27"
         ],
-        "meaning": "this\"; or change the sentence translation to \"let's go and eat this skate"
+        "meaning": "this"
       }
     },
     "sentences": {
@@ -1031,7 +1031,7 @@ title: Data:Villi Neto/Skata
         "meaning": "Aren't you filled with enthusiasm for the skate banquet?"
       },
       "s_1m4v21": {
-        "meaning": "Why yes indeed, let's go and eat that skate."
+        "meaning": "Why yes indeed, let's go and eat this skate."
       },
       "s_1m4v7": {
         "meaning": "The good old skate."
