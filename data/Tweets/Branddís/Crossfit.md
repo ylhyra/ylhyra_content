@@ -663,7 +663,7 @@ title: Data:Tweets/Branddís/Crossfit
         "contains": [
           "w_177k13"
         ],
-        "meaning": "wheather"
+        "meaning": "whether"
       }
     },
     "sentences": {
