@@ -4516,12 +4516,12 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
     "s_14P-dNcGAO": [
       {
         "definition": {
-          "meaning": "There, far more horrible fate than drowning awaits them."
+          "meaning": "There, a fate far more horrible than drowning awaits them."
         }
       },
       {
         "definition": {
-          "meaning": "There, far more horrible fate than drowning awaits them."
+          "meaning": "There, a fate far more horrible than drowning awaits them."
         }
       }
     ],
@@ -4564,12 +4564,12 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
     "s_UUvavmFsbX": [
       {
         "definition": {
-          "meaning": "On the surface, they are welcomed by the miniscule fingers of children."
+          "meaning": "On the surface, they are welcomed by the minuscule fingers of children."
         }
       },
       {
         "definition": {
-          "meaning": "On the surface, they are welcomed by the miniscule fingers of children."
+          "meaning": "On the surface, they are welcomed by the minuscule fingers of children."
         }
       }
     ],
@@ -8301,7 +8301,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "meaning": "Today it's been raining for hours."
       },
       "s_14P-dNcGAO": {
-        "meaning": "There, far more horrible fate than drowning awaits them."
+        "meaning": "There, a fate far more horrible than drowning awaits them."
       },
       "s_99oxBabNjW": {
         "meaning": "Because of the disaster, the earthworms are forced to flee their homes."
@@ -8313,7 +8313,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "meaning": "Large puddles cover the streets and the earth is soaked with water."
       },
       "s_UUvavmFsbX": {
-        "meaning": "On the surface, they are welcomed by the miniscule fingers of children."
+        "meaning": "On the surface, they are welcomed by the minuscule fingers of children."
       },
       "s_UuaMZfmT_M": {
         "meaning": "Then, the children break the worms apart or crush them under the soles of their winter boots."
