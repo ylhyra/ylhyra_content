@@ -55,7 +55,7 @@ title: Data:Blær/Egg í áskrift
       },
       "s_4sjkk": {
         "id": "s_4sjkk",
-        "text": "Þannig varðveittist stofninn og varð að þeim 230 hænum og sem hann er í dag. "
+        "text": "Þannig varðveittist stofninn og varð að þeim 230 hænum sem hann er í dag. "
       },
       "s_n85md": {
         "id": "s_n85md",
