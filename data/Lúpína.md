@@ -8233,7 +8233,7 @@ title: Data:Lúpína
         "meaning": "When soil contains nitrogen other plants can then grow in areas where before there was nothing but sand."
       },
       "s_1t9w155": {
-        "meaning": "The lupine did not become very widespread until around the year 1990 when people started to spread seeds alongside roads."
+        "meaning": "The lupine did not become very widespread until around 1990, when people started collecting seeds and spreading them alongside roads and over sandy areas."
       },
       "s_1t9w17": {
         "meaning": "There were some forests in Iceland before the island was settled,"
