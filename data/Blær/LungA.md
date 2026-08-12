@@ -25434,7 +25434,7 @@ title: Data:Blær/LungA
         "meaning": "It is because of the mountains."
       },
       "s_bKOD0opY7X": {
-        "meaning": "Jonatan Spjelberg and Lasse Hogenhof are Danes (from Denmark). They first came to Seyðifsjörður in the year 2010 and fell in love with the place right away,"
+        "meaning": "Jonatan Spjelberg and Lasse Høgenhof are Danish. They first came to Seyðifsjörður in the year 2010 and fell in love with the place right away,"
       },
       "s_ejwwBBOL-I_": {
         "meaning": "Below you can find images from the festival."
