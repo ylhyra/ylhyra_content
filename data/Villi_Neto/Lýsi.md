@@ -1412,7 +1412,7 @@ title: Data:Villi Neto/Lýsi
         "contains": [
           "w_glfx6"
         ],
-        "meaning": "cod lived oil"
+        "meaning": "cod liver oil"
       },
       "1agvdq8": {
         "contains": [
