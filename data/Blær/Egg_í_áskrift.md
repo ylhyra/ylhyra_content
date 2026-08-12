@@ -9803,7 +9803,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_y9xk4"
         ],
-        "meaning": "instinct for self-reservation",
+        "meaning": "instinct for self-preservation",
         "show_definition_above": true,
         "difficult": true
       },
