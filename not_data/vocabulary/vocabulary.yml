@@ -5073,7 +5073,7 @@ rows:
     depends_on: að segja, sjálfur
     level: 1
     direction: "->"
-    note: Literally "towards being self-said", it's so obvious that the matter says it itself.
+    note: Literally "towards being self-said" — it's so obvious that the matter says it itself.
     row_id: 786
     last_seen: "2021-07-01"
   - icelandic: herbergið
