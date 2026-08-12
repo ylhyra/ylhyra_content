@@ -823,7 +823,7 @@ title: Data:Tweets/Kristín Ólafs/Unglingar
           "w_1oxl7"
         ],
         "meaning": "Hagaskóli",
-        "note": "highschool in Reykjavík"
+        "note": "a school in Reykjavík"
       },
       "6z5v1i": {
         "contains": [
