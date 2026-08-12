@@ -13543,7 +13543,7 @@ rows:
     level: 3
     row_id: 2273
     last_seen: "2021-07-31"
-  - icelandic: reyndar ekki.
+  - icelandic: reyndar ekki
     english: actually not; in fact not
     depends_on: reyndar
     alternative_id: Reyndar ekki
