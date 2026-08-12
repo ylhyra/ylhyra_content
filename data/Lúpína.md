@@ -8100,7 +8100,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w30"
         ],
-        "meaning": "sands"
+        "meaning": "sand"
       },
       "slfflq": {
         "contains": [
