@@ -12385,7 +12385,7 @@ title: Data:Blær/Egg í áskrift
           "w_c44g8",
           "w_9r87n_2"
         ],
-        "meaning": "by the side"
+        "meaning": "next to, beside"
       },
       "1isdi3t": {
         "contains": [
