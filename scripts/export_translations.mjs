@@ -392,6 +392,61 @@ for (const r of liveSents) {
 }
 say("");
 
+/* ---- gloss-convention consistency ----
+   Two conventions worth holding steady across the corpus:
+     1. definiteness — a definite Icelandic form is glossed "the x", consistently
+     2. case is NOT spelled out — a genitive is glossed "the fjords", not "of the fjords",
+        because the sentence translation already supplies the preposition
+   These are reported, never enforced; the right convention is the author's call. */
+const singleWord = liveDefs.filter((r) => r[2] && r[2] !== "?" && !r[2].includes(" "));
+const glossesOf = new Map();
+for (const r of singleWord) {
+  const k = r[2].toLowerCase();
+  if (!glossesOf.has(k)) glossesOf.set(k, new Map());
+  const m = glossesOf.get(k);
+  m.set(r[3], (m.get(r[3]) || 0) + 1);
+}
+
+say("## Gloss convention: same word glossed both with and without \"the\"\n");
+let bothWays = 0;
+for (const [term, gl] of [...glossesOf.entries()].sort()) {
+  const withThe = [...gl.keys()].filter((g) => /^the /i.test(g));
+  const bare = [...gl.keys()].filter((g) => !/^(the |to |an? |of )/i.test(g));
+  if (withThe.length && bare.length) {
+    bothWays++;
+    say(`- **${term}**: ${withThe.map((g) => `"${g}"`).join(", ")} — vs — ` +
+        bare.map((g) => `"${g}"`).join(", "));
+  }
+}
+say(`\nTotal: ${bothWays}\n`);
+
+say("## Gloss convention: case spelled out with \"of\"\n");
+say("A genitive glossed \"of the x\" states in the gloss what the sentence already says.");
+say("Consider \"the x\" (or just \"x\"), unless the word is inherently possessive.\n");
+const ofGlosses = [...new Set(singleWord
+  .filter((r) => /^of( the)? /i.test(r[3]))
+  .map((r) => `- **${r[2]}**: "${r[3]}"`))].sort();
+for (const l of ofGlosses) say(l);
+say(`\nTotal: ${ofGlosses.length}\n`);
+
+/* Definite suffixes that are unambiguous on a noun (-inn/-in/-ið are skipped: they
+   collide with adjective and past-participle endings and produce mostly noise). */
+const DEFINITE = ["unum", "arinnar", "irnar", "urnar", "arnir", "sins", "inum", "inni",
+                  "unni", "anna", "inu", "num", "ins", "nir", "nar"];
+say("## Gloss convention: definite noun forms glossed without \"the\"\n");
+say("Heuristic — the term ends in an unambiguous definite suffix but its most common");
+say("gloss does not start with \"the\". Adjectives and verbs sharing those endings will");
+say("still slip through, so read before acting.\n");
+let missingThe = 0;
+for (const [term, gl] of [...glossesOf.entries()].sort()) {
+  if (term.length < 6 || !DEFINITE.some((s) => term.endsWith(s))) continue;
+  const top = [...gl.entries()].sort((a, b) => b[1] - a[1])[0][0];
+  if (/^(the |to |of )/i.test(top)) continue;
+  missingThe++;
+  say(`- **${term}**: "${top}"`);
+}
+say(`\nTotal: ${missingThe}\n`);
+
 say("## Icelandic terms with more than one gloss (used >= 3 times)\n");
 const byTerm = new Map();
 for (const r of liveDefs) {
