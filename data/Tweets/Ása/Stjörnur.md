@@ -563,7 +563,7 @@ title: Data:Tweets/Ása/Stjörnur
           "w_zh2411"
         ],
         "direct": "",
-        "meaning": "(he) may"
+        "meaning": "(they) may, (the person) may"
       },
       "r66v5y": {
         "contains": [
