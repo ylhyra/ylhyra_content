@@ -3279,7 +3279,7 @@ title: Data:Vestmannaeyjar
         "meaning": "Many people go to the Westman Islands to see the cute birds that live in the cliffs."
       },
       "s_xkvp56": {
-        "meaning": "They are called puffins and there is a lot of them in the Westman Islands."
+        "meaning": "They are called puffins, and there are many of them in the Westman Islands."
       },
       "s_xkvp69": {
         "meaning": "In 1973 there was a big volcanic eruption in the Westman Islands."
