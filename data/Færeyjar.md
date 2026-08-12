@@ -6143,7 +6143,7 @@ title: Data:Færeyjar
         "meaning": "Talking to them is fun, and we also think alike."
       },
       "s_151v138": {
-        "meaning": "However, there isn't exactly a lot of communication going on between (the people of) Iceland and (the people of) the Faroese Islands"
+        "meaning": "However, there isn't much communication between Iceland and the Faroe Islands."
       },
       "s_151v151": {
         "meaning": "I don't know why"
