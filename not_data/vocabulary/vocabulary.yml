@@ -11780,7 +11780,7 @@ rows:
     row_id: 1980
     last_seen: "2021-10-14"
   - icelandic: sólkremið
-    english: the sun cream
+    english: the sunscreen; the sun cream
     lemmas: sólkrem%
     depends_on: sól
     level: 3
