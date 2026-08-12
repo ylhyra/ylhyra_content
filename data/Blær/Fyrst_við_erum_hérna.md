@@ -44028,7 +44028,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_4NMEfNVE-Jej"
         ],
-        "meaning": "of the land"
+        "meaning": "the land"
       },
       "1w14w2j": {
         "contains": [
