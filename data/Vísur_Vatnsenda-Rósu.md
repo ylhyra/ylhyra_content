@@ -1977,7 +1977,7 @@ title: Data:Vísur Vatnsenda-Rósu
         "meaning": "I mourn you most of all people"
       },
       "s_o9s256": {
-        "meaning": "with a flood of tears"
+        "meaning": "worn down by a flood of tears"
       },
       "s_o9s26": {
         "meaning": "Oh, those pretty stones"
