@@ -704,7 +704,7 @@ title: Data:Tweets/Branddís/Danmörk
         "contains": [
           "w_1aef18"
         ],
-        "meaning": "independant"
+        "meaning": "independent"
       },
       "hl2ae": {
         "contains": [
