@@ -17076,7 +17076,7 @@ rows:
     row_id: 2854
     last_seen: "2021-08-02"
   - icelandic: gítargripið
-    english: the guitar chord grip
+    english: the guitar chord _(fingering)_
     lemmas: gítargrip%
     depends_on: að grípa, ég hef gripið
     alternative_id: gítargrip
