@@ -8964,7 +8964,7 @@ title: Data:Egils saga/Veisla hjá afa
         "contains": [
           "w_esty266"
         ],
-        "meaning": "poems"
+        "meaning": "poem"
       },
       "nq9yj3": {
         "contains": [
