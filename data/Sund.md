@@ -5889,7 +5889,7 @@ title: Data:Sund
         "contains": [
           "w_1ohk164"
         ],
-        "meaning": "and"
+        "meaning": "but"
       },
       "1uqyc80": {
         "contains": [
