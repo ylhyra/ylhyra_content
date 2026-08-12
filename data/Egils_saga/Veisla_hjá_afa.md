@@ -8885,7 +8885,7 @@ title: Data:Egils saga/Veisla hjá afa
         "contains": [
           "w_esty249"
         ],
-        "meaning": "him"
+        "meaning": "he"
       },
       "htyoaq": {
         "contains": [
