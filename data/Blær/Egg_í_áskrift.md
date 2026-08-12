@@ -12879,7 +12879,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_19yfu"
         ],
-        "meaning": "got"
+        "meaning": "go"
       },
       "lt76yo": {
         "contains": [
