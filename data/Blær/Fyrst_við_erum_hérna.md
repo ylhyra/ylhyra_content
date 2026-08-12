@@ -42373,7 +42373,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_piPOO4qlBrZo"
         ],
-        "meaning": "e grass"
+        "meaning": "the grass"
       },
       "1etoas1": {
         "contains": [
