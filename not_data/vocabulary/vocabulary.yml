@@ -3435,7 +3435,7 @@ rows:
     row_id: 525
     last_seen: "2021-11-10"
   - icelandic: fimmhundruðkall
-    english: 500 Icelandic króna; 500 Icelandic króna bank note
+    english: 500 Icelandic krónur; a 500-króna bank note
     depends_on: hundraðkall
     level: 2
     direction: "->"
