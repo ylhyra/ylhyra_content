@@ -3316,7 +3316,7 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         "meaning": "Guys, I don't think I'll be able to leave the house today, I like totally burned myself yesterday."
       },
       "s_1w5j70": {
-        "meaning": "Has anybody seen by sombrero hat?"
+        "meaning": "Has anybody seen my sombrero hat?"
       },
       "s_1w5j78": {
         "meaning": "Are you guys going to the beach?"
