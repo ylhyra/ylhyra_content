@@ -5198,7 +5198,7 @@ rows:
     depends_on: fjórir, horn
     level: 5
     importance: 1
-    note: "\"Fer-\" is related to \"fjórir\""
+    note: "\"Fer-\" is related to \"fjórir\"."
     row_id: 808
     last_seen: "2021-08-03"
   - icelandic: mjólkurferna
