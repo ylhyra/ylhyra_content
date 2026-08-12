@@ -5665,7 +5665,7 @@ title: Data:Imba/afi
         "meaning": "you would have instead screamed in traffic,"
       },
       "s_9z5594": {
-        "meaning": "driving faster than me in my first driving lesson:"
+        "meaning": "driving slower than me in my first driving lesson:"
       }
     },
     "words": {
