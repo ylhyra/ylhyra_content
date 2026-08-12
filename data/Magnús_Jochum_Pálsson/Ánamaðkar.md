@@ -7950,7 +7950,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "contains": [
           "w_6ob85kGBky"
         ],
-        "meaning": "and"
+        "meaning": "but"
       },
       "1kaahxv": {
         "contains": [
