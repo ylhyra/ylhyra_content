@@ -3813,7 +3813,7 @@ title: Data:Imba/grip
         "contains": [
           "w_vdav101"
         ],
-        "meaning": "make"
+        "meaning": "makes"
       },
       "171rfah": {
         "contains": [
