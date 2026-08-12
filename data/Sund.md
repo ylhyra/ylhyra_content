@@ -5877,7 +5877,7 @@ title: Data:Sund
         "contains": [
           "w_1ohk102"
         ],
-        "meaning": "a heat"
+        "meaning": "heat, the heat"
       },
       "1u63i0o": {
         "contains": [
