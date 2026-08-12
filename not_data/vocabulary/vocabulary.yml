@@ -12511,7 +12511,7 @@ rows:
     row_id: 2109
     last_seen: "2021-07-30"
   - icelandic: annaðhvort eða
-    english: either or
+    english: either ... or
     depends_on: annar, hvor
     alternative_id: annaðhvort
     level: 2
