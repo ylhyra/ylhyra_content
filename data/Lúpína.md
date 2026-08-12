@@ -7286,7 +7286,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w252"
         ],
-        "meaning": "to"
+        "meaning": "that"
       },
       "1dtx03l": {
         "contains": [
