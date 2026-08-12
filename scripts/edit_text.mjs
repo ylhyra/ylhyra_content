@@ -190,6 +190,17 @@ if (op === "rename") {
   }
   resync(sid);
   summary = `merged ${removed} into ${wid} -> "${merged}"`;
+  /* The absorbed word may have had its own gloss, which is now unreachable. The
+     surviving word keeps only the first half's meaning, so it usually needs updating
+     by hand — warn rather than guess at a combined wording. */
+  const orphan = d.translation?.words?.[removed];
+  const survivor = d.translation?.words?.[wid];
+  if (orphan && d.translation.definitions?.[orphan]) {
+    summary += `\n  ! "${d.translation.definitions[orphan].meaning}" (gloss of the absorbed` +
+      ` word) is now orphaned; the surviving gloss is` +
+      ` "${d.translation.definitions?.[survivor]?.meaning ?? "—"}". Combine them by hand,` +
+      ` then delete the orphan.`;
+  }
 } else if (op === "split") {
   const [wid, first, second] = args;
   const sid = sentenceIdOf(wid);
