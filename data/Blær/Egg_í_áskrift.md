@@ -13393,7 +13393,7 @@ title: Data:Blær/Egg í áskrift
           "w_1d4m7",
           "w_km4gh"
         ],
-        "meaning": "not at least"
+        "meaning": "not least"
       },
       "16iv0cd": {
         "contains": [
