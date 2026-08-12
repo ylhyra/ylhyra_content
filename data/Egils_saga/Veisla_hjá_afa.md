@@ -8940,7 +8940,7 @@ title: Data:Egils saga/Veisla hjá afa
         "contains": [
           "w_esty196"
         ],
-        "meaning": "sits downs"
+        "meaning": "sits down"
       },
       "menafb": {
         "contains": [
