@@ -12174,7 +12174,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1h3wa"
         ],
-        "meaning": "nobody"
+        "meaning": "none (of them)"
       },
       "35q4uc": {
         "contains": [
