@@ -1053,7 +1053,7 @@ title: Data:Tweets/Benedikt/Hreimur
     },
     "sentences": {
       "s_QGslLLhmG": {
-        "meaning": "It truly is a certain type of a victory when native speakers just assume you're from a distant part of the country rather than being a foreigner."
+        "meaning": "A certain kind of victory: when natives think you speak a dialect from a far-off part of the country rather than that you're a foreigner."
       }
     },
     "words": {
