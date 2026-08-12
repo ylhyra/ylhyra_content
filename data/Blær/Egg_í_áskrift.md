@@ -11993,7 +11993,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_dyj5u"
         ],
-        "meaning": "of the year"
+        "meaning": "the year"
       },
       "1rw00gk": {
         "contains": [
