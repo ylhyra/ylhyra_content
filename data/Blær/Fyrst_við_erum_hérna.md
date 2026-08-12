@@ -5824,7 +5824,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_IcxrnOtAub4D": {
         "id": "s_IcxrnOtAub4D",
-        "text": "Það er að segja ef við verðum ofar moldu.”",
+        "text": "Það er að segja ef við verðum ofar moldu.“",
         "words": [
           {
             "id": "w_0uXIfMBOLdOy",
@@ -5870,7 +5870,7 @@ title: Data:Blær/Fyrst við erum hérna
             "id": "w_aCgpfuj7aKIY",
             "text": "moldu"
           },
-          ".”"
+          ".“"
         ]
       },
       "s_Kaf6o6_MQX2": {
@@ -19022,7 +19022,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_IcxrnOtAub4D": {
         "id": "s_IcxrnOtAub4D",
-        "text": "Það er að segja ef við verðum ofar moldu.”",
+        "text": "Það er að segja ef við verðum ofar moldu.“",
         "words": [
           {
             "id": "w_0uXIfMBOLdOy",
@@ -19068,7 +19068,7 @@ title: Data:Blær/Fyrst við erum hérna
             "id": "w_aCgpfuj7aKIY",
             "text": "moldu"
           },
-          ".”"
+          ".“"
         ]
       },
       "s_Kaf6o6_MQX2": {
@@ -35717,7 +35717,7 @@ title: Data:Blær/Fyrst við erum hérna
         },
         {
           "id": "s_IcxrnOtAub4D",
-          "text": "Það er að segja ef við verðum ofar moldu.”",
+          "text": "Það er að segja ef við verðum ofar moldu.“",
           "words": [
             {
               "id": "w_0uXIfMBOLdOy",
@@ -35763,7 +35763,7 @@ title: Data:Blær/Fyrst við erum hérna
               "id": "w_aCgpfuj7aKIY",
               "text": "moldu"
             },
-            ".”"
+            ".“"
           ]
         }
       ]
