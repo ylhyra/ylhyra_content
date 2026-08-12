@@ -16844,7 +16844,7 @@ rows:
     depends_on: að höndla
     alternative_id: enda, að höndla
     level: 4
-    note: Here "enda" is a conjugation and not the word "endi" (an end). It approximately means "that is of course natural/obvious because".
+    note: Here "enda" is a conjunction and not the word "endi" (an end). It approximately means "that is of course natural/obvious because".
     row_id: 2818
     last_seen: "2021-10-14"
   - icelandic: skandínavískur
