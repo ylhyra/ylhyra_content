@@ -883,7 +883,7 @@ rows:
     row_id: 131
     last_seen: "2021-07-30"
   - icelandic: Hann var ekkert smá pirraður.
-    english: He was super annoyed
+    english: He was super annoyed.
     depends_on: ekkert smá
     level: 2
     direction: "->"
