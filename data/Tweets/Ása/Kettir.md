@@ -824,7 +824,7 @@ title: Data:Tweets/Ása/Kettir
     },
     "sentences": {
       "s_GI4mDOLt1": {
-        "meaning": "Prohibing cats from walking outside without a leash is a ridiculous idea, however it might be time to review whether children should be allowed to walk outside without a leash."
+        "meaning": "Prohibiting cats from walking outside without a leash is a ridiculous idea, however it might be time to review whether children should be allowed to walk outside without a leash."
       }
     },
     "words": {
