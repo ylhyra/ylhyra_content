@@ -9242,7 +9242,7 @@ title: Data:Egils saga/Veisla hjá afa
         "meaning": "\"This is a huge party and everyone there will be drunk.\""
       },
       "s_esty112": {
-        "meaning": "\"You are a sufficiently difficult child when you aren't drunk.\" answers Bald-Grímur."
+        "meaning": "\"You are quite difficult enough when you aren't drunk.\" answers Bald-Grímur."
       },
       "s_esty125": {
         "meaning": "Egill is not happy with this answer."
