@@ -6419,7 +6419,7 @@ rows:
     depends_on: að sækja
     alternative_id: að sækja um
     level: 3
-    note: Alternatively "að sækja um starf"
+    note: Alternatively "að sækja um starf".
     row_id: 1019
     last_seen: "2021-07-30"
   - icelandic: Ég sótti um starf hjá háskólanum.
