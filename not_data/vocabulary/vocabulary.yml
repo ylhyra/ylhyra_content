@@ -15635,7 +15635,7 @@ rows:
     depends_on: geðveikur
     alternative_id: geðveikt
     level: 3
-    note: "\"Geðveikur\" means \"mentally ill\", but it used as a slang to mean \"very much\" or \"totally great\"."
+    note: "\"Geðveikur\" means \"mentally ill\", but it is used as slang to mean \"very much\" or \"totally great\"."
     row_id: 2612
     last_seen: "2021-08-01"
   - icelandic: hann heitir
