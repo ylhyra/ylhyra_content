@@ -43642,7 +43642,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_juIbnG88_Adc"
         ],
-        "meaning": "outdoors benches"
+        "meaning": "outdoor benches"
       },
       "1rjnh9n": {
         "contains": [
