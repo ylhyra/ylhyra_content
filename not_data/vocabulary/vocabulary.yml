@@ -15161,7 +15161,7 @@ rows:
     row_id: 2535
     last_seen: "2021-08-01"
   - icelandic: röðin
-    english: "the order _(of items)_;; the queue line (n: as in waiting in line)"
+    english: "the order _(of items)_;; the queue; the line (n: as in waiting in line)"
     lemmas: röð%
     alternative_id: röð
     level: 3
