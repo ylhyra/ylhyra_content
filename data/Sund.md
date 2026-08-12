@@ -4181,7 +4181,7 @@ title: Data:Sund
           {
             "begin": 14.72,
             "elements": [
-              "s_1ohk26"
+              "s_v4pd26"
             ],
             "end": 25.2
           },
@@ -4308,10 +4308,10 @@ title: Data:Sund
               "begin": "14.720",
               "children": [],
               "end": "25.200",
-              "id": "s_1ohk26",
+              "id": "s_v4pd26",
               "language": "isl",
               "lines": [
-                "Heitt vatn er ódýrt á Íslandi svo að það er ódýrarara að vera með sundlaugar hérna en annars staðar í Evrópu."
+                "Heitt vatn er ódýrt á Íslandi svo að það er ódýrara að vera með sundlaugar hérna en annars staðar í Evrópu."
               ]
             },
             {
@@ -4447,8 +4447,8 @@ title: Data:Sund
           ]
         }
       },
-      "xml": "  <div id=\"s_1ohk0\">Sundlaugar eru mjög vinsælar á Íslandi.</div>\n <div id=\"s_1ohk7\">Það er sundlaug í næstum því hverjum einasta bæ og það eru sautján sundlaugar í eða nálægt Reykjavík.</div>\n <div id=\"s_1ohk26\">Heitt vatn er ódýrt á Íslandi svo að það er ódýrarara að vera með sundlaugar hérna en annars staðar í Evrópu.</div>\n <div id=\"s_1ohk48\">Í sundlaugum er ein stór sundlaug og svo nokkrir heitir pottar.</div>\n <div id=\"s_1ohk60\">Það er alveg hægt að fara í sund til að synda,</div>\n <div id=\"s_1ohk72\">en ég geri það aldrei.</div>\n <div id=\"s_1ohk78\">Ég fer í sund til að liggja í heita pottinum og spjalla við vini mína.</div>\n <div id=\"s_1ohk94\">Það líður öllum vel að liggja í hita og þegar manni líður vel þá er auðvelt að spjalla.</div>\n <div id=\"s_1ohk113\">Þegar maður fer í sund tekur maður með sér sundföt og handklæði.</div>\n <div id=\"s_1ohk126\">Fólk er vanalega ekki í skóm.</div>\n <div id=\"s_1ohk133\">Áður en maður fer í laugina þarf maður að þvo sér án sundfata.</div>\n <div id=\"s_1ohk147\">Mörgum túristum finnst mjög óþægilegt að þurfa að vera nakinn í sturtu með öðru fólki,</div>\n <div id=\"s_1ohk163\">en þannig er það á Íslandi.</div>\n <div id=\"s_1ohk170\">Það kostar sirka þúsund krónur að fara í sund,</div>\n <div id=\"s_1ohk180\">það kostar minna ef maður fer oft.</div>\n <div id=\"s_1ohk188\">Mér finnst það alveg þess virði.</div>\n  ",
-      "xml_hash": "oin3vg"
+      "xml": "  <div id=\"s_1ohk0\">Sundlaugar eru mjög vinsælar á Íslandi.</div>\n <div id=\"s_1ohk7\">Það er sundlaug í næstum því hverjum einasta bæ og það eru sautján sundlaugar í eða nálægt Reykjavík.</div>\n <div id=\"s_v4pd26\">Heitt vatn er ódýrt á Íslandi svo að það er ódýrara að vera með sundlaugar hérna en annars staðar í Evrópu.</div>\n <div id=\"s_1ohk48\">Í sundlaugum er ein stór sundlaug og svo nokkrir heitir pottar.</div>\n <div id=\"s_1ohk60\">Það er alveg hægt að fara í sund til að synda,</div>\n <div id=\"s_1ohk72\">en ég geri það aldrei.</div>\n <div id=\"s_1ohk78\">Ég fer í sund til að liggja í heita pottinum og spjalla við vini mína.</div>\n <div id=\"s_1ohk94\">Það líður öllum vel að liggja í hita og þegar manni líður vel þá er auðvelt að spjalla.</div>\n <div id=\"s_1ohk113\">Þegar maður fer í sund tekur maður með sér sundföt og handklæði.</div>\n <div id=\"s_1ohk126\">Fólk er vanalega ekki í skóm.</div>\n <div id=\"s_1ohk133\">Áður en maður fer í laugina þarf maður að þvo sér án sundfata.</div>\n <div id=\"s_1ohk147\">Mörgum túristum finnst mjög óþægilegt að þurfa að vera nakinn í sturtu með öðru fólki,</div>\n <div id=\"s_1ohk163\">en þannig er það á Íslandi.</div>\n <div id=\"s_1ohk170\">Það kostar sirka þúsund krónur að fara í sund,</div>\n <div id=\"s_1ohk180\">það kostar minna ef maður fer oft.</div>\n <div id=\"s_1ohk188\">Mér finnst það alveg þess virði.</div>\n  ",
+      "xml_hash": "1bcx5vo"
     }
   },
   "short_audio": {
