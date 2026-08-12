@@ -485,7 +485,7 @@ title: Data:Tweets/Benedikt/Slydda
     },
     "sentences": {
       "s_12rb0": {
-        "meaning": "I have fairly reliable sources indicating that Satan received rainy snow as a newborn's gift.",
+        "meaning": "I have fairly reliable sources indicating that Satan was given sleet as a cradle-gift.",
         "note": "The author despises the mixture of rain and snow. He here says that the Devil himself must have received it as a newborn's gift."
       }
     },
