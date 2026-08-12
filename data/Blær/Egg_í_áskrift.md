@@ -11017,7 +11017,7 @@ title: Data:Blær/Egg í áskrift
           "w_lbsyx",
           "w_1l20t"
         ],
-        "meaning": "is lef behind"
+        "meaning": "is left behind"
       },
       "1mvjgxj": {
         "contains": [
