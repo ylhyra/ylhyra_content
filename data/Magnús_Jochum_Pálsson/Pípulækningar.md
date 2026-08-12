@@ -5832,7 +5832,7 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
         "meaning": "Recently I've begun calling tradesmen instead."
       },
       "s_fpCngpQEKMd": {
-        "meaning": "Then I pay them an outrageous amount of money for nothing"
+        "meaning": "Then I pay them outrageous amounts of money for nothing."
       },
       "s_nXYz8Opb6q": {
         "meaning": "I have lost all faith in seeking out doctors when something happens to me."
