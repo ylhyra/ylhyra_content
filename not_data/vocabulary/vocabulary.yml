@@ -1622,7 +1622,7 @@ rows:
     english: He's at the grocery store.
     level: 1
     direction: "->"
-    note: "\"Að vera úti í búð\" is a phrase."
+    note: "\"Að vera úti í búð\" is a fixed phrase — the \"úti\" is idiomatic and does not mean the person is outdoors."
     row_id: 251
     last_seen: "2021-07-30"
   - icelandic: Hann ætlar út í búð.
