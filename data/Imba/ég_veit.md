@@ -2749,7 +2749,7 @@ title: Data:Imba/ég veit
           "w_1xdm17",
           "w_1xdm18"
         ],
-        "meaning": "during night"
+        "meaning": "during the night, late at night"
       },
       "1oh3ags": {
         "contains": [
