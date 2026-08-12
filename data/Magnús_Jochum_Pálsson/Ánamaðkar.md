@@ -8160,8 +8160,8 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         "contains": [
           "w_jbde7S5Svb"
         ],
-        "inline_translation": "of the winter boots",
-        "meaning": "of the winter boots, of the winter shoes"
+        "inline_translation": "the winter boots",
+        "meaning": "the winter boots, the winter shoes"
       },
       "gvkskp": {
         "contains": [
