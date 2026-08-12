@@ -20,7 +20,7 @@ Regular questions:
 <Audio src="skyrtu_fyrir_kvöldið.mp3"/>
 
 <Conversation>
-you: Góðann daginn, get ég aðstoðað?
+you: Góðan daginn, get ég aðstoðað?
 me: '''Já''', ég er að leita að skyrtu fyrir kvöldið.
 you: '''Já''' ég skil.
 </Conversation>

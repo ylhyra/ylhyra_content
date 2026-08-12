@@ -10,7 +10,7 @@ reviewed: no
 Since you will go to the store multiple times a week, you'll get very comfortable at repeating this formulaic interaction:
 
 <Conversation>
-you: Góðann daginn!
+you: Góðan daginn!
 me: Góðan dag 😊
 you: Viltu '''poka'''?
 me: Já takk.
@@ -56,4 +56,3 @@ There are two ways to say “I want” in Icelandic:
 
 ## What opinions do you hold?
 Ég held
-

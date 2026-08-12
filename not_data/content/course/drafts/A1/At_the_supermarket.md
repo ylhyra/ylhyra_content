@@ -6,7 +6,7 @@ reviewed: no
 Since you will go to the store multiple times a week, you'll get very comfortable at repeating this formulaic interaction:
 
 <Conversation>
-you: Góðann daginn!
+you: Góðan daginn!
 me: Góðan dag 😊
 you: Viltu '''poka'''?
 me: Já takk.
@@ -21,4 +21,3 @@ There are two common ways of asking if you want the receipt:
 
 *`Viltu kvittun?` = Do you want a receipt?
 *`Viltu afritið?` = Do you want the copy?
-
