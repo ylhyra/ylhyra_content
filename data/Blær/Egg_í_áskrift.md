@@ -11293,7 +11293,7 @@ title: Data:Blær/Egg í áskrift
           "w_77kxw_3",
           "w_1y0h1"
         ],
-        "meaning": "pick up"
+        "meaning": "to gather, to collect"
       },
       "191v9zo": {
         "contains": [
