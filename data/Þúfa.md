@@ -20653,7 +20653,7 @@ title: Data:Þúfa
         "contains": [
           "w_13i760"
         ],
-        "meaning": "ice"
+        "meaning": "the ice"
       },
       "12u4oqu": {
         "contains": [
