@@ -4997,7 +4997,7 @@ title: Data:Imba/afi
         "contains": [
           "w_12wu102"
         ],
-        "meaning": "devilish person, fool"
+        "meaning": "you bastard, damn you"
       },
       "1h46fqw": {
         "contains": [
