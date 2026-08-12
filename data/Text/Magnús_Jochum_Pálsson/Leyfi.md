@@ -886,7 +886,7 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
         "meaning": "You are free to copy this book in whichever way you want, and by all means tell your friends to read it."
       },
       "s_Cij1kjMnhHE": {
-        "meaning": "Make a photocopy of this book and leave the photocopies somewhere in public."
+        "meaning": "Photocopy it and leave the photocopy somewhere in public."
       }
     },
     "words": {
