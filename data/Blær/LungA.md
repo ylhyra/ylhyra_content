@@ -23369,7 +23369,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_emLzOs9FEY"
         ],
-        "meaning": "harvest festival"
+        "meaning": "harvest festival (here: celebration of the work done)"
       },
       "2yi0op": {
         "contains": [
