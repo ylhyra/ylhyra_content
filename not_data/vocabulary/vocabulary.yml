@@ -147,7 +147,7 @@ rows:
     row_id: 22
     last_seen: "2021-07-30"
   - icelandic: Tíminn líður of hratt.
-    english: The time passes too quickly.
+    english: Time passes too quickly.
     lemmas: tími, að líða
     depends_on: hraður
     alternative_id: að líða hratt
