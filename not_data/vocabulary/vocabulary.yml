@@ -3439,7 +3439,7 @@ rows:
     depends_on: hundraðkall
     level: 2
     direction: "->"
-    note: "\"Kall\" (meaning \"a man\") is used similar to the English \"bucks\"."
+    note: "\"Kall\" (meaning \"a man\") is used similarly to the English \"bucks\"."
     row_id: 526
     last_seen: "2021-07-30"
   - icelandic: tíkall
