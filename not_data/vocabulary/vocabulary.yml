@@ -19819,7 +19819,7 @@ rows:
     row_id: 3332
     last_seen: "2021-10-18"
   - icelandic: strætóstoppistöð
-    english: a bus station
+    english: a bus stop
     depends_on: strætó, að stoppa, stöð
     level: 4
     literally: bus stopping station
