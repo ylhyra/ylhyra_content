@@ -25371,7 +25371,7 @@ title: Data:Blær/LungA
         "meaning": "We get many artists from everywhere in the world who stay here for a long time."
       },
       "s_HcCoBAcHPkJ": {
-        "meaning": "Danish community colleges are the model, and we are offering 12-week courses."
+        "meaning": "Danish folk high schools are the model, and 12-week courses are on offer."
       },
       "s_Ht5PN_V4id6": {
         "meaning": "I don't know."
