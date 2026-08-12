@@ -605,11 +605,11 @@ title: Data:Lúpína
       },
       "s_1t9w121": {
         "id": "s_1t9w121",
-        "text": "Þessa planta hét lúpína.",
+        "text": "Þessi planta hét lúpína.",
         "words": [
           {
             "id": "w_1t9w122",
-            "text": "Þessa"
+            "text": "Þessi"
           },
           " ",
           {
@@ -1752,7 +1752,7 @@ title: Data:Lúpína
       "w_1t9w122": {
         "belongsToSentence": "s_1t9w121",
         "id": "w_1t9w122",
-        "text": "Þessa"
+        "text": "Þessi"
       },
       "w_1t9w123": {
         "belongsToSentence": "s_1t9w121",
@@ -2865,11 +2865,11 @@ title: Data:Lúpína
       },
       "s_1t9w121": {
         "id": "s_1t9w121",
-        "text": "Þessa planta hét lúpína.",
+        "text": "Þessi planta hét lúpína.",
         "words": [
           {
             "id": "w_1t9w122",
-            "text": "Þessa"
+            "text": "Þessi"
           },
           " ",
           {
@@ -4014,7 +4014,7 @@ title: Data:Lúpína
       "w_1t9w122": {
         "belongsToSentence": "s_1t9w121",
         "id": "w_1t9w122",
-        "text": "Þessa"
+        "text": "Þessi"
       },
       "w_1t9w123": {
         "belongsToSentence": "s_1t9w121",
@@ -5594,7 +5594,7 @@ title: Data:Lúpína
       "w_1t9w119": "í",
       "w_1t9w12": "skógar",
       "w_1t9w120": "alaska",
-      "w_1t9w122": "þessa",
+      "w_1t9w122": "þessi",
       "w_1t9w123": "planta",
       "w_1t9w124": "hét",
       "w_1t9w125": "lúpína",
@@ -6188,11 +6188,11 @@ title: Data:Lúpína
         },
         {
           "id": "s_1t9w121",
-          "text": "Þessa planta hét lúpína.",
+          "text": "Þessi planta hét lúpína.",
           "words": [
             {
               "id": "w_1t9w122",
-              "text": "Þessa"
+              "text": "Þessi"
             },
             " ",
             {
