@@ -2466,7 +2466,7 @@ title: Data:Villi Neto/Forníslenski sjomlinn
         "meaning": "Oh, Odin!"
       },
       "s_t63e18": {
-        "meaning": "Thor (god of thunder) himself could not create this kind of a thunder."
+        "meaning": "Thor (the god of thunder) himself could not summon up thunder like this."
       },
       "s_t63e27": {
         "meaning": "Brother, don't listen to this man"
