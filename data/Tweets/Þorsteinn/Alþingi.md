@@ -1052,7 +1052,7 @@ title: Data:Tweets/Þorsteinn/Alþingi
         "contains": [
           "w_riCOa8cFoM"
         ],
-        "meaning": "Hávamál (a 13th century poem)"
+        "meaning": "Hávamál (an Old Norse poem, preserved in a 13th-century manuscript)"
       },
       "1hrgtpu": {
         "contains": [
