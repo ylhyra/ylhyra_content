@@ -44040,7 +44040,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_0nncwhLukJm"
         ],
-        "meaning": "of the fjords"
+        "meaning": "the fjords"
       },
       "1w9y1lk": {
         "contains": [
