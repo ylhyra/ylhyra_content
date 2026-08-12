@@ -14746,7 +14746,7 @@ rows:
     alternative_id: ég mun
     level: 3
     dont_confuse: ég man
-    note: Usually it is not necessary to specify that something is a future event; you could just as well have said "Ég geri það", but if you want to emphasise that something '''will'' be done or emphasise that it takes place in the future, then you can use "mun".
+    note: Usually it is not necessary to specify that something is a future event; you could just as well have said "Ég geri það", but if you want to emphasize that something '''will''' be done or emphasize that it takes place in the future, then you can use "mun".
     row_id: 2461
     last_seen: "2021-08-01"
   - icelandic: að sjá til einhvers
