@@ -43757,7 +43757,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_pwQfgXU7EGV9"
         ],
-        "meaning": "are goint to, plan"
+        "meaning": "are going to, plan"
       },
       "1t2apxo": {
         "contains": [
