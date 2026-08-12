@@ -5448,7 +5448,7 @@ title: Data:Imba/afi
         "contains": [
           "w_12wu117"
         ],
-        "meaning": "the doors"
+        "meaning": "the door"
       },
       "neijky": {
         "contains": [
