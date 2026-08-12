@@ -19581,7 +19581,7 @@ rows:
     row_id: 3294
     last_seen: "2021-10-14"
   - icelandic: Hundurinn liggur u%ppi í sófa.
-    english: The dog is laying in the sofa.
+    english: The dog is lying on the sofa.
     lemmas: hundur, að liggja, sófi
     depends_on: uppi
     alternative_id: uppi í sófa
