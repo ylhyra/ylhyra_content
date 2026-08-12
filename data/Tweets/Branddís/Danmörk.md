@@ -737,8 +737,8 @@ title: Data:Tweets/Branddís/Danmörk
         "note": "This status is probably written as a response to some government scandal."
       },
       "s_1aef6": {
-        "meaning": "We can just call Denmark on the phone and tell them that our trial period as an independant nation is over.",
-        "note": "Iceland was a part of Denmark until 1918 when it became independant, but Iceland was in union with Denmark until 1945."
+        "meaning": "We can just call Denmark on the phone and tell them that our trial period as an independent nation is over.",
+        "note": "Iceland was a part of Denmark until 1918 when it became independent, but Iceland was in union with Denmark until 1944."
       }
     },
     "words": {
