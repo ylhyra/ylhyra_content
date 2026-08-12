@@ -45019,7 +45019,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_YbAbBbYhW7dI"
         ],
-        "meaning": "of the town"
+        "meaning": "the town"
       },
       "a3w5qe": {
         "contains": [
