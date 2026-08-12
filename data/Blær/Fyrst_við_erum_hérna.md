@@ -40908,7 +40908,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_dexaONji8NGr"
         ],
-        "meaning": "on"
+        "meaning": "one"
       },
       "10bjef8": {
         "contains": [
