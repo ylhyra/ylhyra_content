@@ -256,7 +256,7 @@ rows:
     row_id: 38
     last_seen: "2021-07-01"
   - icelandic: Það búa margir í New York.
-    english: There are many people that live in New York.
+    english: There are many people who live in New York.
     lemmas: margur, að búa
     level: 1
     importance: 4
