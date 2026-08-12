@@ -6242,7 +6242,7 @@ rows:
     row_id: 987
     last_seen: "2021-07-01"
   - icelandic: zeta∆ þorn∆ æ∆ ö
-    english: What is the name of the letters "Z∆ Þ∆ Æ∆ Ö"?
+    english: What are the names of the letters "Z∆ Þ∆ Æ∆ Ö"?
     level: 1
     direction: <-
     note: The letter "Z" was removed from the Icelandic alphabet in the 1970s and replaced with "S".
