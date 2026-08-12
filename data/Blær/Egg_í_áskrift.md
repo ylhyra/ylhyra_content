@@ -11239,7 +11239,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1qwfp"
         ],
-        "meaning": "humiliation"
+        "meaning": "humiliating, demeaning"
       },
       "u5mq1q": {
         "contains": [
