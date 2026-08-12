@@ -993,7 +993,7 @@ title: Data:Intonation
     "definitions": {},
     "sentences": {
       "s_1tiw0": {
-        "meaning": "Mom and dad will be coming later today."
+        "meaning": "Mom and dad are coming later."
       },
       "s_1tiw14": {
         "meaning": "What are you doing!?"
