@@ -7337,7 +7337,7 @@ title: Data:Lúpína
           "w_1t9w209",
           "w_1t9w210"
         ],
-        "meaning": "spread itelf out"
+        "meaning": "spread itself out"
       },
       "1gv5te": {
         "contains": [
