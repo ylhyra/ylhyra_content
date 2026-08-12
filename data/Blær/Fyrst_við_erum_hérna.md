@@ -41946,7 +41946,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_-oCoMzV9Glwq"
         ],
-        "meaning": "of West fjords"
+        "meaning": "West fjords"
       },
       "1ax9i9q": {
         "contains": [
