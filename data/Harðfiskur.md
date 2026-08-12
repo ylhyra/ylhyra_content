@@ -5008,7 +5008,7 @@ title: Data:Harðfiskur
         "contains": [
           "w_yww5125"
         ],
-        "meaning": "school"
+        "meaning": "the school"
       },
       "6nxfy9": {
         "contains": [
