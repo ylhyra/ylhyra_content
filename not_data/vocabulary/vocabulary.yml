@@ -9677,7 +9677,7 @@ rows:
     row_id: 1597
     last_seen: "2021-07-10"
   - icelandic: Það er nokkurra klukkutíma bið.
-    english: There is a few hours' wait.; There is a few hours' delay.
+    english: There's a wait of a few hours.; There's a delay of a few hours.
     lemmas: nokkur, bið
     level: 2
     row_id: 1598
