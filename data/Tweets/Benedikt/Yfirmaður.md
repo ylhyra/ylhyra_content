@@ -505,7 +505,7 @@ title: Data:Tweets/Benedikt/Yfirmaður
     },
     "sentences": {
       "s_1lrm0": {
-        "meaning": "If I ever become a manager at some workplace, I will see to it that it offers a bedroom.",
+        "meaning": "If I ever become a manager at some workplace, I will see to it that there is a bedroom there.",
         "note": "The author wants to offer workers a place to take a nap."
       }
     },
