@@ -2479,7 +2479,7 @@ title: Data:Villi Neto/Forníslenski sjomlinn
         "meaning": "Tonight there's going to be Ragnarök, the mythological end of the world."
       },
       "s_t63e50": {
-        "meaning": "Let us cut in line — I am of course a V.I.P., a \\\"very important person\\\".",
+        "meaning": "Let us cut in line — I am of course a V.I.P., a \"very important person\".",
         "note": "Extremely antiquated language."
       },
       "s_t63e64": {
