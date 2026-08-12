@@ -3710,7 +3710,7 @@ title: Data:Nafn Vestmannaeyja
           "w_r39889",
           "w_r39890"
         ],
-        "meaning": "westbound"
+        "meaning": "to the west, in a westerly direction"
       },
       "vme2dm": {
         "contains": [
