@@ -2991,7 +2991,7 @@ title: Data:Imba/ég veit
         "contains": [
           "w_1xdm87"
         ],
-        "meaning": "fanatical, insane"
+        "meaning": "furious, out of one's mind"
       },
       "vhbq98": {
         "contains": [
