@@ -1017,7 +1017,7 @@ title: Data:Villi Neto/Skata
         "contains": [
           "w_1m4v27"
         ],
-        "meaning": "this"
+        "meaning": "this\"; or change the sentence translation to \"let's go and eat this skate"
       }
     },
     "sentences": {
