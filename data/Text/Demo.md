@@ -3703,7 +3703,7 @@ title: Data:Template:Demo
         "contains": [
           "w_6ob85kGBky"
         ],
-        "meaning": "and"
+        "meaning": "but"
       },
       "1lwquut": {
         "contains": [
