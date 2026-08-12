@@ -206,7 +206,6 @@ title: Data:Blær/LungA
       "w_0pzMu0ru6q",
       "w_VR49FeWCyq",
       "w_mK3Dx0zN6Y",
-      "w_dG4RLQrEwz",
       "w_NGkKiZ_Ffc",
       "w_IBD4lcD5--",
       "w_elK8DZhHUE",
@@ -998,7 +997,6 @@ title: Data:Blær/LungA
       "w_0pzMu0ru6q",
       "w_VR49FeWCyq",
       "w_mK3Dx0zN6Y",
-      "w_dG4RLQrEwz",
       "w_NGkKiZ_Ffc",
       "w_IBD4lcD5--",
       "w_elK8DZhHUE",
@@ -3329,7 +3327,7 @@ title: Data:Blær/LungA
       },
       "s_N-fXSLTbhW": {
         "id": "s_N-fXSLTbhW",
-        "text": "Björt bauð okkur að koma og vera með í ungmennaskipta verkefni og taka þátt í listasmiðjunum á LungA.",
+        "text": "Björt bauð okkur að koma og vera með í ungmennaskiptaverkefni og taka þátt í listasmiðjunum á LungA.",
         "words": [
           {
             "id": "w_c6O0-4aD6e",
@@ -3378,12 +3376,7 @@ title: Data:Blær/LungA
           " ",
           {
             "id": "w_mK3Dx0zN6Y",
-            "text": "ungmennaskipta"
-          },
-          " ",
-          {
-            "id": "w_dG4RLQrEwz",
-            "text": "verkefni"
+            "text": "ungmennaskiptaverkefni"
           },
           " ",
           {
@@ -7860,11 +7853,6 @@ title: Data:Blær/LungA
         "id": "w_d3MFyI4TLpH",
         "text": "jákvæðan"
       },
-      "w_dG4RLQrEwz": {
-        "belongsToSentence": "s_N-fXSLTbhW",
-        "id": "w_dG4RLQrEwz",
-        "text": "verkefni"
-      },
       "w_dUiAX9WcJ1O": {
         "belongsToSentence": "s_-0EBMwDI5ul",
         "id": "w_dUiAX9WcJ1O",
@@ -8468,7 +8456,7 @@ title: Data:Blær/LungA
       "w_mK3Dx0zN6Y": {
         "belongsToSentence": "s_N-fXSLTbhW",
         "id": "w_mK3Dx0zN6Y",
-        "text": "ungmennaskipta"
+        "text": "ungmennaskiptaverkefni"
       },
       "w_mT92gMbSyOj": {
         "belongsToSentence": "s_zT6-r64R8QX",
@@ -11115,7 +11103,7 @@ title: Data:Blær/LungA
       },
       "s_N-fXSLTbhW": {
         "id": "s_N-fXSLTbhW",
-        "text": "Björt bauð okkur að koma og vera með í ungmennaskipta verkefni og taka þátt í listasmiðjunum á LungA.",
+        "text": "Björt bauð okkur að koma og vera með í ungmennaskiptaverkefni og taka þátt í listasmiðjunum á LungA.",
         "words": [
           {
             "id": "w_c6O0-4aD6e",
@@ -11164,12 +11152,7 @@ title: Data:Blær/LungA
           " ",
           {
             "id": "w_mK3Dx0zN6Y",
-            "text": "ungmennaskipta"
-          },
-          " ",
-          {
-            "id": "w_dG4RLQrEwz",
-            "text": "verkefni"
+            "text": "ungmennaskiptaverkefni"
           },
           " ",
           {
@@ -15648,11 +15631,6 @@ title: Data:Blær/LungA
         "id": "w_d3MFyI4TLpH",
         "text": "jákvæðan"
       },
-      "w_dG4RLQrEwz": {
-        "belongsToSentence": "s_N-fXSLTbhW",
-        "id": "w_dG4RLQrEwz",
-        "text": "verkefni"
-      },
       "w_dUiAX9WcJ1O": {
         "belongsToSentence": "s_-0EBMwDI5ul",
         "id": "w_dUiAX9WcJ1O",
@@ -16256,7 +16234,7 @@ title: Data:Blær/LungA
       "w_mK3Dx0zN6Y": {
         "belongsToSentence": "s_N-fXSLTbhW",
         "id": "w_mK3Dx0zN6Y",
-        "text": "ungmennaskipta"
+        "text": "ungmennaskiptaverkefni"
       },
       "w_mT92gMbSyOj": {
         "belongsToSentence": "s_zT6-r64R8QX",
@@ -18151,7 +18129,7 @@ title: Data:Blær/LungA
         },
         {
           "id": "s_N-fXSLTbhW",
-          "text": "Björt bauð okkur að koma og vera með í ungmennaskipta verkefni og taka þátt í listasmiðjunum á LungA.",
+          "text": "Björt bauð okkur að koma og vera með í ungmennaskiptaverkefni og taka þátt í listasmiðjunum á LungA.",
           "words": [
             {
               "id": "w_c6O0-4aD6e",
@@ -18200,12 +18178,7 @@ title: Data:Blær/LungA
             " ",
             {
               "id": "w_mK3Dx0zN6Y",
-              "text": "ungmennaskipta"
-            },
-            " ",
-            {
-              "id": "w_dG4RLQrEwz",
-              "text": "verkefni"
+              "text": "ungmennaskiptaverkefni"
             },
             " ",
             {
@@ -21947,7 +21920,7 @@ title: Data:Blær/LungA
       },
       "1ah78pb": {
         "contains": [
-          "w_dG4RLQrEwz"
+          "w_mK3Dx0zN6Y"
         ],
         "meaning": "project"
       },
@@ -25931,7 +25904,6 @@ title: Data:Blær/LungA
       "w_ctL83Lc0LBJ": "11p3z1i",
       "w_d-l0LPyUkvM": "1fbaq6w",
       "w_d3MFyI4TLpH": "10nnbdh",
-      "w_dG4RLQrEwz": "1ah78pb",
       "w_dUiAX9WcJ1O": "1k96aid",
       "w_ddKIY9vdF00": "1he2ilx",
       "w_dkCvVF6h20X": "16y1ysj",
