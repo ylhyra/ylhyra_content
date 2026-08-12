@@ -22213,7 +22213,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_u8RYp_uzdAx"
         ],
-        "meaning": "of the art"
+        "meaning": "the art"
       },
       "1fh4m6y": {
         "contains": [
