@@ -1197,6 +1197,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_85rf3Ltza9Mt",
       "w_yM7XNiyP6P4s",
       "w_GZsT0p3tgYLu",
+      "w_GZsT0p3tgYLux",
       "w_RfIcQnTuObns",
       "s_Edm6q1YJtjSX",
       "w_nFIBXz7Brc6-",
@@ -2467,6 +2468,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_85rf3Ltza9Mt",
       "w_yM7XNiyP6P4s",
       "w_GZsT0p3tgYLu",
+      "w_GZsT0p3tgYLux",
       "w_RfIcQnTuObns",
       "w_nFIBXz7Brc6-",
       "w_z87f6TSSaiat",
@@ -6718,7 +6720,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_WZh7Fc-BXc7_": {
         "id": "s_WZh7Fc-BXc7_",
-        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrunni.",
+        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí út af náttúrunni.",
         "words": [
           "„",
           {
@@ -6763,7 +6765,13 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_GZsT0p3tgYLu",
-            "text": "útaf"
+            "text": "út"
+          },
+          " ",
+          {
+            "belongsToSentence": "s_WZh7Fc-BXc7_",
+            "id": "w_GZsT0p3tgYLux",
+            "text": "af"
           },
           " ",
           {
@@ -11316,7 +11324,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_GZsT0p3tgYLu": {
         "belongsToSentence": "s_WZh7Fc-BXc7_",
         "id": "w_GZsT0p3tgYLu",
-        "text": "útaf"
+        "text": "út"
       },
       "w_G_FHgpPRR0nR": {
         "belongsToSentence": "s_3ccKO1HewLbO",
@@ -15822,6 +15830,11 @@ title: Data:Blær/Fyrst við erum hérna
         "belongsToSentence": "s_5VI6k3mMZIsv",
         "id": "w_zqb7q8BTm4Te",
         "text": "halda"
+      },
+      "w_GZsT0p3tgYLux": {
+        "belongsToSentence": "s_WZh7Fc-BXc7_",
+        "id": "w_GZsT0p3tgYLux",
+        "text": "af"
       }
     },
     "sentences": {
@@ -19916,7 +19929,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_WZh7Fc-BXc7_": {
         "id": "s_WZh7Fc-BXc7_",
-        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrunni.",
+        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí út af náttúrunni.",
         "words": [
           "„",
           {
@@ -19961,7 +19974,13 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_GZsT0p3tgYLu",
-            "text": "útaf"
+            "text": "út"
+          },
+          " ",
+          {
+            "belongsToSentence": "s_WZh7Fc-BXc7_",
+            "id": "w_GZsT0p3tgYLux",
+            "text": "af"
           },
           " ",
           {
@@ -24516,7 +24535,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_GZsT0p3tgYLu": {
         "belongsToSentence": "s_WZh7Fc-BXc7_",
         "id": "w_GZsT0p3tgYLu",
-        "text": "útaf"
+        "text": "út"
       },
       "w_G_FHgpPRR0nR": {
         "belongsToSentence": "s_3ccKO1HewLbO",
@@ -29022,6 +29041,11 @@ title: Data:Blær/Fyrst við erum hérna
         "belongsToSentence": "s_5VI6k3mMZIsv",
         "id": "w_zqb7q8BTm4Te",
         "text": "halda"
+      },
+      "w_GZsT0p3tgYLux": {
+        "belongsToSentence": "s_WZh7Fc-BXc7_",
+        "id": "w_GZsT0p3tgYLux",
+        "text": "af"
       }
     }
   },
@@ -32728,7 +32752,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_GT6GbWcc5WSe": "voru",
       "w_GVdXvTCgGVae": "fyrir utan",
       "w_GY2i9d1vXlXJ": "hlíð",
-      "w_GZsT0p3tgYLu": "útaf",
+      "w_GZsT0p3tgYLu": "út",
       "w_G_FHgpPRR0nR": "innréttað",
       "w_GaHqVmkqs1-I": "næsta",
       "w_Gfd3smd8zKK": "við",
@@ -39852,7 +39876,7 @@ title: Data:Blær/Fyrst við erum hérna
       "sentences": [
         {
           "id": "s_WZh7Fc-BXc7_",
-          "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrunni.",
+          "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí út af náttúrunni.",
           "words": [
             "„",
             {
@@ -39897,7 +39921,13 @@ title: Data:Blær/Fyrst við erum hérna
             " ",
             {
               "id": "w_GZsT0p3tgYLu",
-              "text": "útaf"
+              "text": "út"
+            },
+            " ",
+            {
+              "belongsToSentence": "s_WZh7Fc-BXc7_",
+              "id": "w_GZsT0p3tgYLux",
+              "text": "af"
             },
             " ",
             {
