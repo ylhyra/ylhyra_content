@@ -9642,7 +9642,7 @@ rows:
     row_id: 1592
     last_seen: "2021-07-10"
   - icelandic: Ég mæli með að horfa á nokkra þætti á íslensku.
-    english: I recommend watching a few TV shows in Icelandic.
+    english: I recommend watching a few episodes in Icelandic.
     lemmas: nokkur, þáttur
     depends_on: að mæla með
     level: 2
