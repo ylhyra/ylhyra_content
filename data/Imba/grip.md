@@ -4512,7 +4512,7 @@ title: Data:Imba/grip
         "meaning": "I am invisible"
       },
       "s_vdav25": {
-        "meaning": "and I fight about in the void"
+        "meaning": "and I thrash about in the void"
       },
       "s_vdav31": {
         "meaning": "but wow"
