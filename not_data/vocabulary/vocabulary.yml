@@ -1029,7 +1029,7 @@ rows:
     row_id: 153
     last_seen: "2021-07-02"
   - icelandic: að ganga vel
-    english: to be going well;; _for something_ to be progressing in a satisfactory manner
+    english: _for someone_ to be doing well;; _for something_ to be progressing in a satisfactory manner
     depends_on: að ganga, vel
     level: 1
     importance: 4
