@@ -41648,7 +41648,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_Iv-s4lCy9OsP"
         ],
-        "meaning": "lays"
+        "meaning": "lies"
       },
       "1799kco": {
         "contains": [
@@ -45448,7 +45448,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w__B_XPjAQ94EA"
         ],
-        "meaning": "lays"
+        "meaning": "lies"
       },
       "f3me00": {
         "contains": [
@@ -45959,7 +45959,7 @@ title: Data:Blær/Fyrst við erum hérna
           "w_3o7lc_uByqDm",
           "w_2CTQL-ixlhbT"
         ],
-        "meaning": "laying"
+        "meaning": "lying"
       },
       "kdpmjp": {
         "contains": [
@@ -47517,7 +47517,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Among the hotel workers were Danes and Germans, who told us they came here each summer to work and create art."
       },
       "s_dkK2hdb1Yjx8": {
-        "meaning": "Laying in the warm water and staring into the fog out to the sea in the empty pool was amazing, very much like an adventure."
+        "meaning": "Lying in the warm water and gazing through the fog towards the sea from the empty pool was amazing—like an adventure."
       },
       "s_eYVYzwva1rS": {
         "meaning": "At his house there is a constant flow of guests and he is always ready to welcome and take in people."
