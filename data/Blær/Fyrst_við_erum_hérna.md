@@ -43358,7 +43358,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_3UFRCAO2Sqk"
         ],
-        "meaning": "had"
+        "meaning": "have"
       },
       "1oxatr1": {
         "contains": [
