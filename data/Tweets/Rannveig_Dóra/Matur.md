@@ -395,7 +395,7 @@ title: Data:Tweets/Rannveig Dóra/Matur
         "meaning": "Rannveig Dóra, food is ready."
       },
       "s_13g96": {
-        "meaning": "My favorite sentence of all things in my life."
+        "meaning": "My favorite sentence in life."
       }
     },
     "words": {
