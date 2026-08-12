@@ -152,7 +152,7 @@ When you want to describe that you desire an object, you have to use the phrase 
 
 "Af hverju" and "af því að" are the most common phrases you will use for "why?" and "because", but there's another way to say the same thing. The phrases are:
 
-*hvergs vegna? = why?<note>The literal translation is "due to what?"</note>
+*hvers vegna? = why?<note>The literal translation is "due to what?"</note>
 *vegna þess að = because<note>The literal translation is "due to it that"</note>
 
 These phrases sound slightly more formal, and you're therefore more likely to see them used in writing. When speaking, however, it's more common to use "af hverju?".
