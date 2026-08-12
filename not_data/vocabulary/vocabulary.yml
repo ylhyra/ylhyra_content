@@ -13608,7 +13608,7 @@ rows:
     row_id: 2282
     last_seen: "2021-07-31"
   - icelandic: að vera u%tan v%ið s%ig
-    english: to be a bit absent minded;; to be a bit distracted with your own thought
+    english: to be a bit absent-minded;; to be a bit distracted by your own thoughts
     depends_on: utan
     alternative_id: utan við sig
     level: 3
