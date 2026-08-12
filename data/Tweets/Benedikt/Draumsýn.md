@@ -493,12 +493,6 @@ title: Data:Tweets/Benedikt/Draumsýn
   ],
   "translation": {
     "definitions": {
-      "15pjps6": {
-        "contains": [
-          "w_1iv14"
-        ],
-        "meaning": "du"
-      },
       "162c1c4": {
         "contains": [
           "w_1iv14",

@@ -1098,12 +1098,6 @@ title: Data:Text/Milk
         ],
         "meaning": "mom"
       },
-      "1eo91ug": {
-        "contains": [
-          "w_19j623"
-        ],
-        "meaning": "listen"
-      },
       "1ho733x": {
         "contains": [
           "w_19j626"
@@ -1207,12 +1201,6 @@ title: Data:Text/Milk
           "w_19j629"
         ],
         "meaning": "is"
-      },
-      "r2jala": {
-        "contains": [
-          "w_19j625"
-        ],
-        "meaning": "to"
       },
       "sx7iao": {
         "contains": [

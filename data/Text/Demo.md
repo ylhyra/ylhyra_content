@@ -3632,35 +3632,11 @@ title: Data:Template:Demo
         "direct": "",
         "meaning": "next comes, after that comes"
       },
-      "11lz30k": {
-        "contains": [
-          "w_IgOSDN3Nzv"
-        ],
-        "meaning": "have"
-      },
-      "123vtiu": {
-        "contains": [
-          "w_J4CB0No6JI"
-        ],
-        "meaning": "take"
-      },
-      "12gna2d": {
-        "contains": [
-          "w_nuWD9sMGFV"
-        ],
-        "meaning": "more terrible"
-      },
       "12qt8vs": {
         "contains": [
           "w_hEdaD8vSlH"
         ],
         "meaning": "long"
-      },
-      "1424bvk": {
-        "contains": [
-          "w__qwcNK9Lin"
-        ],
-        "meaning": "We"
       },
       "15f05ug": {
         "contains": [
@@ -3668,31 +3644,11 @@ title: Data:Template:Demo
         ],
         "meaning": "their"
       },
-      "16okye9": {
-        "base": "sóli",
-        "contains": [
-          "w_R94-WiH5QL"
-        ],
-        "meaning": "shoesoles",
-        "show_definition_above": true
-      },
       "17gqs0e": {
         "contains": [
           "w_g2rsFp0L5H"
         ],
         "meaning": "to"
-      },
-      "17mo2tt": {
-        "contains": [
-          "w_jPR_kD43ij"
-        ],
-        "meaning": "their"
-      },
-      "181ulvd": {
-        "contains": [
-          "w_OAUBZaK-aQ"
-        ],
-        "meaning": "the children"
       },
       "191zuva": {
         "contains": [
@@ -3700,26 +3656,11 @@ title: Data:Template:Demo
         ],
         "meaning": "and"
       },
-      "1arayb8": {
-        "contains": [
-          "w_NqyTzPvjpm"
-        ],
-        "meaning": "on"
-      },
       "1bks34e": {
         "contains": [
           "w_Vnd_bjld8X"
         ],
         "meaning": "the way"
-      },
-      "1c677fi": {
-        "contains": [
-          "w_TO7AiU3Pyx"
-        ],
-        "difficult": false,
-        "inline_translation": "sympathy",
-        "meaning": "sympathy, compassion",
-        "show_definition_above": true
       },
       "1cd05j3": {
         "contains": [
@@ -3752,41 +3693,11 @@ title: Data:Template:Demo
         ],
         "meaning": "the surface"
       },
-      "1gb5lv4": {
-        "contains": [
-          "w_iLNulvuDdL"
-        ],
-        "meaning": "them"
-      },
-      "1gmp5nl": {
-        "contains": [
-          "w_S2J4NobN0n"
-        ],
-        "meaning": "small"
-      },
-      "1gyj87m": {
-        "contains": [
-          "w_oHRzykrwJm"
-        ],
-        "meaning": "break apart, snap"
-      },
-      "1ihvbxi": {
-        "contains": [
-          "w_mNVqoojKKE"
-        ],
-        "meaning": "snatch, grab"
-      },
       "1iv2x9o": {
         "contains": [
           "w_Vjx6l680s2"
         ],
         "meaning": "water"
-      },
-      "1juxu9e": {
-        "contains": [
-          "w_iU6kR8WOBN"
-        ],
-        "meaning": "up"
       },
       "1jxcduv": {
         "contains": [
@@ -3794,35 +3705,11 @@ title: Data:Template:Demo
         ],
         "meaning": "and"
       },
-      "1kaahxv": {
-        "contains": [
-          "w_dEczS__Inr"
-        ],
-        "meaning": "with"
-      },
-      "1ks3zvg": {
-        "contains": [
-          "w_s96g7JIfK3"
-        ],
-        "meaning": "none"
-      },
-      "1lwk1j": {
-        "contains": [
-          "w_ba0B1xr7MJ"
-        ],
-        "meaning": "on"
-      },
       "1lwquut": {
         "contains": [
           "w_gC6LLNGr0a"
         ],
         "meaning": "home"
-      },
-      "1nl86it": {
-        "contains": [
-          "w_wdd-xDqs95"
-        ],
-        "meaning": "against"
       },
       "1s4205u": {
         "contains": [
@@ -3832,31 +3719,11 @@ title: Data:Template:Demo
         "meaning": "is soaked",
         "show_definition_above": true
       },
-      "1sdfdwm": {
-        "contains": [
-          "w_ucZfbduBzj"
-        ],
-        "meaning": "the surface"
-      },
       "1svhqb4": {
         "contains": [
           "w_6uabLqYg9G"
         ],
         "meaning": "way"
-      },
-      "1tewjnw": {
-        "contains": [
-          "w_jnXXMPvuxc"
-        ],
-        "meaning": "far"
-      },
-      "1tmlnmf": {
-        "contains": [
-          "w_qstOzF3mgF"
-        ],
-        "difficult": false,
-        "meaning": "slimy",
-        "show_definition_above": true
       },
       "1trswzr": {
         "contains": [
@@ -3864,47 +3731,11 @@ title: Data:Template:Demo
         ],
         "meaning": "harsh, arduous"
       },
-      "1u87r9x": {
-        "contains": [
-          "w_dCWE9UNre8"
-        ],
-        "meaning": "then"
-      },
-      "1v7926i": {
-        "contains": [
-          "w_G6hJFFtar3"
-        ],
-        "meaning": "takes"
-      },
-      "1xh9vzn": {
-        "contains": [
-          "w_RgaQ94KbOP"
-        ],
-        "meaning": "to"
-      },
-      "27i3ei": {
-        "contains": [
-          "w_pSFS1tjbGk"
-        ],
-        "meaning": "wait, await"
-      },
-      "2qwauy": {
-        "contains": [
-          "w_HVKWt1bk5l"
-        ],
-        "meaning": "the earthworms, the maggots"
-      },
       "3g32sg": {
         "contains": [
           "w_aIHgmoUX1t"
         ],
         "meaning": "the earth, the dirt"
-      },
-      "3or8z1": {
-        "contains": [
-          "w_jnb4sfRkzD"
-        ],
-        "meaning": "drowning"
       },
       "4m86zg": {
         "contains": [
@@ -3920,50 +3751,6 @@ title: Data:Template:Demo
           "w_YhGAlJMcV-"
         ],
         "meaning": "are able to get"
-      },
-      "6tw91h": {
-        "contains": [
-          "w_-9WP-8NcQ2"
-        ],
-        "meaning": "children's fingers"
-      },
-      "8ekn9z": {
-        "contains": [
-          "w_7kxH037iyr"
-        ],
-        "meaning": "there"
-      },
-      "8oby4w": {
-        "contains": [
-          "w_k2HQXErA3"
-        ],
-        "difficult": false,
-        "meaning": "earthworms",
-        "show_definition_above": true
-      },
-      "8t8l6h": {
-        "contains": [
-          "w_X7Yv1RDUf"
-        ],
-        "meaning": "hours"
-      },
-      "a3kmwl": {
-        "contains": [
-          "w_MUVN6nODk"
-        ],
-        "meaning": "by"
-      },
-      "bagj9s": {
-        "contains": [
-          "w_G_JDAevlA4"
-        ],
-        "meaning": "them"
-      },
-      "bj9ghf": {
-        "contains": [
-          "w_x868OXUKLu"
-        ],
-        "meaning": "them"
       },
       "c42ubm": {
         "contains": [
@@ -3983,24 +3770,6 @@ title: Data:Template:Demo
         ],
         "meaning": "has"
       },
-      "d4u9fu": {
-        "contains": [
-          "w_h_eYP0B6K3"
-        ],
-        "meaning": "and"
-      },
-      "eknv1s": {
-        "contains": [
-          "w_ixwmOXbiCI"
-        ],
-        "meaning": "they"
-      },
-      "exm63r": {
-        "contains": [
-          "w_IwyU1HZ1PZ"
-        ],
-        "meaning": "companions, friends"
-      },
       "f4ojj0": {
         "contains": [
           "w_RgaQ94KbOP",
@@ -4013,28 +3782,6 @@ title: Data:Template:Demo
           "w_Ns8nGMGin"
         ],
         "meaning": "puddles"
-      },
-      "g87f66": {
-        "contains": [
-          "w_Tg8OkuYsDm",
-          "w_vlduiRn-Vw"
-        ],
-        "meaning": "apart, in two parts"
-      },
-      "gujkqa": {
-        "base": "kuldaskór",
-        "contains": [
-          "w_jbde7S5Svb"
-        ],
-        "inline_translation": "of the winter boots",
-        "meaning": "of the winter boots, of the winter shoes",
-        "show_definition_above": true
-      },
-      "gvkskp": {
-        "contains": [
-          "w_zYQNdI4bRQ"
-        ],
-        "meaning": "crush, squash"
       },
       "h1al89": {
         "contains": [
@@ -4049,12 +3796,6 @@ title: Data:Template:Demo
         ],
         "meaning": "today"
       },
-      "i2gdcw": {
-        "contains": [
-          "w_r-yz-cpfd-"
-        ],
-        "meaning": "under"
-      },
       "ievhtn": {
         "contains": [
           "w_n9muP_402"
@@ -4067,49 +3808,11 @@ title: Data:Template:Demo
         ],
         "meaning": "some"
       },
-      "n6rsc0": {
-        "contains": [
-          "w_HNteuIPl93"
-        ],
-        "meaning": "themselves"
-      },
-      "nekjja": {
-        "contains": [
-          "w_HL2kV6ke1I"
-        ],
-        "difficult": false,
-        "meaning": "fate",
-        "show_definition_above": true
-      },
-      "pegcpg": {
-        "contains": [
-          "w_wZxVsIqO3M"
-        ],
-        "meaning": "to, towards"
-      },
-      "q62jb5": {
-        "contains": [
-          "w_0jjOLkTaL-"
-        ],
-        "meaning": "or"
-      },
       "qykjfn": {
         "contains": [
           "w_pJxQwEISU"
         ],
         "meaning": "large"
-      },
-      "qywsdm": {
-        "contains": [
-          "w_hdRCKzUORc"
-        ],
-        "meaning": "them"
-      },
-      "rqn5pf": {
-        "contains": [
-          "w_eyZx4wh2sz"
-        ],
-        "meaning": "on"
       },
       "sckgxr": {
         "contains": [
@@ -4122,12 +3825,6 @@ title: Data:Template:Demo
           "w_-A8kU4IuVA"
         ],
         "meaning": "the streets"
-      },
-      "svr8ru": {
-        "contains": [
-          "w_9xUCLXjwwN"
-        ],
-        "meaning": "escape"
       },
       "tnzk3a": {
         "contains": [
@@ -4142,12 +3839,6 @@ title: Data:Template:Demo
         ],
         "meaning": "cover"
       },
-      "vrkspr": {
-        "contains": [
-          "w_3qItsWdH7R"
-        ],
-        "meaning": "than"
-      },
       "vvsq0a": {
         "contains": [
           "w_Pa3LcyftEd"
@@ -4160,14 +3851,6 @@ title: Data:Template:Demo
         ],
         "meaning": "on"
       },
-      "xfzpu8": {
-        "contains": [
-          "w_J4CB0No6JI",
-          "w_eyZx4wh2sz",
-          "w_wdd-xDqs95"
-        ],
-        "meaning": "to welcome someone, to receive someone"
-      },
       "yqerm2": {
         "contains": [
           "w_I7dl7I2dQH"
@@ -4179,9 +3862,6 @@ title: Data:Template:Demo
       "s_0161kMEPb": {
         "meaning": "Today it's been raining for hours."
       },
-      "s_14P-dNcGAO": {
-        "meaning": "There, far more horrible fate than drowning awaits them."
-      },
       "s_99oxBabNjW": {
         "meaning": "Because of the disaster, the earthworms are forced to flee their homes."
       },
@@ -4191,59 +3871,27 @@ title: Data:Template:Demo
       "s_JErXmyqlF": {
         "meaning": "Large puddles cover the streets and the earth is soaked with water."
       },
-      "s_UUvavmFsbX": {
-        "meaning": "On the surface, they are welcomed by the miniscule fingers of children."
-      },
-      "s_UuaMZfmT_M": {
-        "meaning": "Then, the children break the worms apart or crush them under the soles of their winter boots."
-      },
-      "s_bAiDMlKNft": {
-        "meaning": "The children have no sympathy for their slimy companions, and they snatch them up."
-      },
-      "s_dWkXI2Koy5": {
-        "meaning": "by Magnús Jochum"
-      },
       "s_gs-yO8lU9E": {
         "meaning": "Most of them drown on the way, but some of them are able to get all the way up to the surface."
-      },
-      "s_o5BGbMLVJ": {
-        "meaning": "Earthworms"
       }
     },
     "words": {
-      "w_-9WP-8NcQ2": "6tw91h",
       "w_-A8kU4IuVA": "ssirg8",
-      "w_0jjOLkTaL-": "q62jb5",
-      "w_3qItsWdH7R": "vrkspr",
       "w_6Vl8eSJkWW": "n41ky6",
       "w_6ob85kGBky": "1jxcduv",
       "w_6uabLqYg9G": "1svhqb4",
-      "w_7kxH037iyr": "8ekn9z",
       "w_95rbBZtryN": "15f05ug",
       "w_9xUCLXjwwN": "f4ojj0",
       "w_G6hJFFtar3": "10v08tr",
-      "w_G_JDAevlA4": "bagj9s",
-      "w_HL2kV6ke1I": "nekjja",
-      "w_HNteuIPl93": "n6rsc0",
-      "w_HVKWt1bk5l": "2qwauy",
       "w_I7dl7I2dQH": "yqerm2",
-      "w_IgOSDN3Nzv": "11lz30k",
-      "w_IwyU1HZ1PZ": "exm63r",
-      "w_J4CB0No6JI": "xfzpu8",
       "w_M1ENauLirf": "1cd05j3",
-      "w_MUVN6nODk": "a3kmwl",
       "w_M_GFm4--gY": "1dswst5",
       "w_McEYBBI3o": "tnzk3a",
       "w_NqyTzPvjpm": "1cmfmf7",
       "w_Ns8nGMGin": "fbsjfw",
-      "w_OAUBZaK-aQ": "181ulvd",
       "w_Oai2DO0Fz": "vnrcdb",
       "w_Pa3LcyftEd": "vvsq0a",
-      "w_R94-WiH5QL": "16okye9",
       "w_RgaQ94KbOP": "f4ojj0",
-      "w_S2J4NobN0n": "1gmp5nl",
-      "w_TO7AiU3Pyx": "1c677fi",
-      "w_Tg8OkuYsDm": "g87f66",
       "w_Vjx6l680s2": "1iv2x9o",
       "w_Vnd_bjld8X": "1bks34e",
       "w_X7Yv1RDUf": "tnzk3a",
@@ -4254,48 +3902,22 @@ title: Data:Template:Demo
       "w__qwcNK9Lin": "10v08tr",
       "w_aIHgmoUX1t": "3g32sg",
       "w_bAbIfTF7bo": "xcdn0r",
-      "w_ba0B1xr7MJ": "1lwk1j",
       "w_bimyhZZjeI": "4m86zg",
-      "w_dCWE9UNre8": "1u87r9x",
-      "w_dEczS__Inr": "1kaahxv",
-      "w_eyZx4wh2sz": "xfzpu8",
       "w_g2rsFp0L5H": "17gqs0e",
       "w_gC6LLNGr0a": "1lwquut",
       "w_gPlxqplvBE": "1s4205u",
       "w_gXdheIbA0F": "1trswzr",
       "w_gZUd3Z5Ex": "hu6ep0",
       "w_hEdaD8vSlH": "12qt8vs",
-      "w_h_eYP0B6K3": "d4u9fu",
-      "w_hdRCKzUORc": "qywsdm",
-      "w_iLNulvuDdL": "1gb5lv4",
       "w_iU6kR8WOBN": "1cmfmf7",
-      "w_ixwmOXbiCI": "eknv1s",
-      "w_jPR_kD43ij": "17mo2tt",
-      "w_jbde7S5Svb": "gujkqa",
-      "w_jnXXMPvuxc": "1tewjnw",
-      "w_jnb4sfRkzD": "3or8z1",
-      "w_k2HQXErA3": "8oby4w",
       "w_mLGGuE2TK": "cpwpe9",
-      "w_mNVqoojKKE": "1ihvbxi",
       "w_n9muP_402": "ievhtn",
       "w_nf2gysTVhy": "1gam5yh",
-      "w_nuWD9sMGFV": "12gna2d",
-      "w_oHRzykrwJm": "1gyj87m",
       "w_pJxQwEISU": "qykjfn",
-      "w_pSFS1tjbGk": "27i3ei",
       "w_qUukrHn0NN": "1f27m1f",
-      "w_qstOzF3mgF": "1tmlnmf",
-      "w_r-yz-cpfd-": "i2gdcw",
-      "w_s96g7JIfK3": "1ks3zvg",
       "w_tY98Z90qOj": "191zuva",
       "w_uKq_Co_kBx": "sckgxr",
-      "w_ucZfbduBzj": "1sdfdwm",
-      "w_vU0cJOMGs": "hu6ep0",
-      "w_vlduiRn-Vw": "g87f66",
-      "w_wZxVsIqO3M": "pegcpg",
-      "w_wdd-xDqs95": "xfzpu8",
-      "w_x868OXUKLu": "bj9ghf",
-      "w_zYQNdI4bRQ": "gvkskp"
+      "w_vU0cJOMGs": "hu6ep0"
     }
   }
 }

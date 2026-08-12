@@ -5260,13 +5260,6 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
   ],
   "translation": {
     "definitions": {
-      "101cnd9": {
-        "contains": [
-          "w_S2cF-cDaksZ",
-          "w_brkfIUAj2l1"
-        ],
-        "meaning": "to call"
-      },
       "10hl5z9": {
         "contains": [
           "w_zE4tpVH7X6"
@@ -5361,13 +5354,6 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
         ],
         "meaning": "get better, improve"
       },
-      "1d9edug": {
-        "contains": [
-          "w_coNmopOqkFv"
-        ],
-        "meaning": "lift up",
-        "note": "A very rare word, only used in the "
-      },
       "1ees223": {
         "contains": [
           "w_cCx-hTr-MzG"
@@ -5397,12 +5383,6 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
           "w_nxzYtX6iJS"
         ],
         "meaning": "a mix of the words \"plumbing\" and \"medicine\""
-      },
-      "1gy42ig": {
-        "contains": [
-          "w_QqyG6aG1_u"
-        ],
-        "meaning": "to"
       },
       "1htk0ow": {
         "contains": [
@@ -5440,13 +5420,6 @@ title: Data:Magnús Jochum Pálsson/Pípulækningar
           "w_WDFtHaRbFUS"
         ],
         "meaning": "cure"
-      },
-      "1kx3od": {
-        "contains": [
-          "w_QqyG6aG1_u",
-          "w_3BxJaBMj_U"
-        ],
-        "meaning": "to"
       },
       "1l64e0i": {
         "contains": [

@@ -2366,19 +2366,6 @@ title: Data:Villi Neto/Forníslenski sjomlinn
         ],
         "meaning": "is necessary"
       },
-      "idwiwv": {
-        "contains": [
-          "w_t63e42"
-        ],
-        "difficult": true,
-        "show_definition_above": true
-      },
-      "jq3qka": {
-        "contains": [
-          "w_t63e30"
-        ],
-        "meaning": "listen"
-      },
       "jv6a73": {
         "contains": [
           "w_t63e53"
@@ -2542,7 +2529,6 @@ title: Data:Villi Neto/Forníslenski sjomlinn
       "w_t63e4": "n3v14d",
       "w_t63e40": "tf4xdp",
       "w_t63e41": "1g96pek",
-      "w_t63e42": "idwiwv",
       "w_t63e44": "3xn1ix",
       "w_t63e45": "qrotjs",
       "w_t63e46": "1rxip17",

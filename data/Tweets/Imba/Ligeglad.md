@@ -697,13 +697,6 @@ title: Data:Tweets/Imba/Ligeglad
         ],
         "meaning": "and"
       },
-      "ktus19": {
-        "contains": [
-          "w_1mx62"
-        ],
-        "direct": "revolves around",
-        "meaning": "is about"
-      },
       "q7usu": {
         "contains": [
           "w_1mx61"

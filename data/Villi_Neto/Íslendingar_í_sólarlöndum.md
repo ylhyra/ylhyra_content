@@ -3081,12 +3081,6 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         ],
         "meaning": "to clean"
       },
-      "2myf12": {
-        "contains": [
-          "w_1w5j57"
-        ],
-        "meaning": "out "
-      },
       "2uksl6": {
         "contains": [
           "w_1w5j86"

@@ -21455,12 +21455,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "its own"
       },
-      "11ntzrc": {
-        "contains": [
-          "w_NtrxVd9EFpM"
-        ],
-        "meaning": "until"
-      },
       "11ofuvd": {
         "contains": [
           "w_6ns9qAwhxa"
@@ -21610,12 +21604,6 @@ title: Data:Blær/LungA
           "w_0Ve2E00Yyq"
         ],
         "meaning": "year"
-      },
-      "146h1ir": {
-        "contains": [
-          "w_iq1CUW--JL0"
-        ],
-        "meaning": "to push"
       },
       "147x912": {
         "contains": [
@@ -22044,14 +22032,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "people"
       },
-      "1bwij75": {
-        "contains": [
-          "w_s50oMkH2H6H",
-          "w__6rh21Q5tUd",
-          "w_m--SR_btZeD"
-        ],
-        "meaning": "s"
-      },
       "1c42ide": {
         "contains": [
           "w_LYxdajvoT55"
@@ -22076,12 +22056,6 @@ title: Data:Blær/LungA
           "w_c13rnd7Gx8"
         ],
         "meaning": "phenomenal"
-      },
-      "1c85ubc": {
-        "contains": [
-          "w_Kr6tUjboh5A"
-        ],
-        "meaning": "you"
       },
       "1c9njij": {
         "contains": [
@@ -22261,12 +22235,6 @@ title: Data:Blær/LungA
           "w_q5Q8yVfgT9J"
         ],
         "meaning": "ours"
-      },
-      "1fadwkw": {
-        "contains": [
-          "w_son5_Ui2z8i"
-        ],
-        "meaning": "do"
       },
       "1fbaq6w": {
         "contains": [
@@ -22455,13 +22423,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "have"
       },
-      "1j8tj4d": {
-        "contains": [
-          "w_ekOihRM92Zs",
-          "w_5VzCfqERkHL"
-        ],
-        "meaning": "to find"
-      },
       "1jb3thw": {
         "contains": [
           "w_kb2--sJuBL"
@@ -22626,12 +22587,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "in"
       },
-      "1mr45dm": {
-        "contains": [
-          "w_1tYFes5lMyv"
-        ],
-        "meaning": "is"
-      },
       "1mudslv": {
         "contains": [
           "w_YSMVqMdL-6"
@@ -22656,12 +22611,6 @@ title: Data:Blær/LungA
           "w_vDoWsNAL4E"
         ],
         "meaning": "and"
-      },
-      "1n41hrc": {
-        "contains": [
-          "w_Hio2sRA4di"
-        ],
-        "meaning": "to"
       },
       "1n6nugy": {
         "contains": [
@@ -22933,18 +22882,6 @@ title: Data:Blær/LungA
           "w_wECnzWBG2hO"
         ],
         "meaning": "in"
-      },
-      "1sdp9y": {
-        "contains": [
-          "w_C8IwZRBMy2R"
-        ],
-        "meaning": "sometime"
-      },
-      "1se0dq5": {
-        "contains": [
-          "w_gmD4IVEuE"
-        ],
-        "meaning": "some"
       },
       "1se3uys": {
         "contains": [
@@ -23404,12 +23341,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "to here"
       },
-      "2arkmf": {
-        "contains": [
-          "w_DqHxF2b9OWX"
-        ],
-        "meaning": "offered"
-      },
       "2eba1j": {
         "contains": [
           "w_8-1ES5y4kHs"
@@ -23557,12 +23488,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "better"
       },
-      "4uxmr0": {
-        "contains": [
-          "w_uGFMTV2_iRL"
-        ],
-        "meaning": "have"
-      },
       "5d51aa": {
         "contains": [
           "w_BOAz3exd2cC",
@@ -23678,12 +23603,6 @@ title: Data:Blær/LungA
           "w__5FteUrIH9D"
         ],
         "meaning": "find"
-      },
-      "6wmspb": {
-        "contains": [
-          "w_IHNEt6_lvO"
-        ],
-        "meaning": ""
       },
       "6x3by6": {
         "contains": [
@@ -23909,12 +23828,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "are"
       },
-      "ayi1g5": {
-        "contains": [
-          "w_dllXZ7baFKG"
-        ],
-        "meaning": "out"
-      },
       "ayx6ej": {
         "contains": [
           "w_kdPWLEJTLU"
@@ -24133,12 +24046,6 @@ title: Data:Blær/LungA
           "w_4bsuGtFJqjs"
         ],
         "meaning": "week"
-      },
-      "f1j8wf": {
-        "contains": [
-          "w_jOJQlDR3zFI"
-        ],
-        "meaning": "will"
       },
       "f3rzc4": {
         "contains": [
@@ -24403,23 +24310,11 @@ title: Data:Blær/LungA
         ],
         "meaning": "time"
       },
-      "j7vzoi": {
-        "contains": [
-          "w_3fUFosVc8rj"
-        ],
-        "meaning": "matters"
-      },
       "je6l69": {
         "contains": [
           "w_eflb_pVKPuF"
         ],
         "meaning": "much"
-      },
-      "jese66": {
-        "contains": [
-          "w_zNOZce2K-V6"
-        ],
-        "meaning": "to"
       },
       "jkjg51": {
         "contains": [
@@ -24637,12 +24532,6 @@ title: Data:Blær/LungA
           "w_GKOGf4euVfs"
         ],
         "meaning": "mix"
-      },
-      "o9f1wb": {
-        "contains": [
-          "w_O9PoBqoaRjz"
-        ],
-        "meaning": "to"
       },
       "okv45m": {
         "contains": [
@@ -24884,12 +24773,6 @@ title: Data:Blær/LungA
         ],
         "meaning": "strange"
       },
-      "s835yc": {
-        "contains": [
-          "w_nPx8Eaz1qqx"
-        ],
-        "meaning": "under"
-      },
       "skgnwy": {
         "contains": [
           "w_owRh1p9vwiM"
@@ -24993,12 +24876,6 @@ title: Data:Blær/LungA
           "w_OTdP7H7tox"
         ],
         "meaning": "we"
-      },
-      "uwqgwy": {
-        "contains": [
-          "w_YEU6qu-oP7Q"
-        ],
-        "meaning": "gone"
       },
       "v0ctst": {
         "contains": [
@@ -25164,12 +25041,6 @@ title: Data:Blær/LungA
           "w_h8aG5p_yww9"
         ],
         "meaning": "the amount (of people)"
-      },
-      "wl3sid": {
-        "contains": [
-          "w_67bXosdy2DT"
-        ],
-        "meaning": "are"
       },
       "woy5bm": {
         "contains": [

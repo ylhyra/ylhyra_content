@@ -3232,12 +3232,6 @@ title: Data:Nafn Vestmannaeyja
   ],
   "translation": {
     "definitions": {
-      "10q0c9s": {
-        "contains": [
-          "w_r39858"
-        ],
-        "meaning": "his"
-      },
       "11i8tqf": {
         "contains": [
           "w_r39893"
@@ -3498,23 +3492,11 @@ title: Data:Nafn Vestmannaeyja
         ],
         "meaning": "this"
       },
-      "3b66q4": {
-        "contains": [
-          "w_r39845"
-        ],
-        "meaning": "it"
-      },
       "4572df": {
         "contains": [
           "w_r39879"
         ],
         "meaning": "islands"
-      },
-      "4c7jij": {
-        "contains": [
-          "w_r39853"
-        ],
-        "meaning": "arrived, come"
       },
       "5n6fji": {
         "contains": [
@@ -3557,12 +3539,6 @@ title: Data:Nafn Vestmannaeyja
           "w_r39878"
         ],
         "meaning": "in"
-      },
-      "8lmyui": {
-        "contains": [
-          "w_r39852"
-        ],
-        "meaning": "were"
       },
       "9pkff2": {
         "contains": [
@@ -3613,23 +3589,11 @@ title: Data:Nafn Vestmannaeyja
         ],
         "meaning": "to the south (of)"
       },
-      "famd3d": {
-        "contains": [
-          "w_r39851"
-        ],
-        "meaning": "they"
-      },
       "glr88c": {
         "contains": [
           "w_r39876"
         ],
         "meaning": "found"
-      },
-      "gnsaxt": {
-        "contains": [
-          "w_r39848"
-        ],
-        "meaning": "done"
       },
       "ijpkg7": {
         "contains": [
@@ -3648,12 +3612,6 @@ title: Data:Nafn Vestmannaeyja
           "w_r398105"
         ],
         "meaning": "are"
-      },
-      "jk1s88": {
-        "contains": [
-          "w_r39850"
-        ],
-        "meaning": "when"
       },
       "knz8zw": {
         "contains": [
@@ -3796,9 +3754,6 @@ title: Data:Nafn Vestmannaeyja
       "s_r39826": {
         "meaning": "At that time it was popular to go to Ireland on Viking raids and take back some slaves."
       },
-      "s_r39844": {
-        "meaning": "That is what Hjörleifur did."
-      },
       "s_r39849": {
         "meaning": "When they arrived in Iceland, Hjörleifur's slaves killed him."
       },
@@ -3857,19 +3812,12 @@ title: Data:Nafn Vestmannaeyja
       "w_r39841": "nmfll4",
       "w_r39842": "1nkd06j",
       "w_r39843": "cnut3e",
-      "w_r39845": "3b66q4",
       "w_r39846": "1393lbj",
-      "w_r39848": "gnsaxt",
       "w_r3985": "1ss51h4",
-      "w_r39850": "jk1s88",
-      "w_r39851": "famd3d",
-      "w_r39852": "8lmyui",
-      "w_r39853": "4c7jij",
       "w_r39854": "1y9wfcc",
       "w_r39855": "1u0h07h",
       "w_r39856": "1nbhlym",
       "w_r39857": "1j226mn",
-      "w_r39858": "10q0c9s",
       "w_r3986": "z668o4",
       "w_r39860": "167jy3v",
       "w_r39863": "14z8nuw",

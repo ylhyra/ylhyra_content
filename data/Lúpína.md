@@ -7078,13 +7078,6 @@ title: Data:Lúpína
         ],
         "meaning": "to import"
       },
-      "133d07a": {
-        "contains": [
-          "w_vkhh264",
-          "w_vkhh267"
-        ],
-        "meaning": "matters"
-      },
       "13iq204": {
         "contains": [
           "w_1t9w102",
@@ -7111,12 +7104,6 @@ title: Data:Lúpína
         ],
         "direct": "on",
         "meaning": "in"
-      },
-      "14omlqr": {
-        "contains": [
-          "w_1t9w216"
-        ],
-        "meaning": "to"
       },
       "14p1dm8": {
         "contains": [
@@ -7156,18 +7143,6 @@ title: Data:Lúpína
         ],
         "meaning": "bad"
       },
-      "163pslu": {
-        "contains": [
-          "w_1t9w217"
-        ],
-        "meaning": "do"
-      },
-      "164one1": {
-        "contains": [
-          "w_1t9w96"
-        ],
-        "meaning": "enough"
-      },
       "16q51x5": {
         "contains": [
           "w_kg9q154"
@@ -7180,35 +7155,11 @@ title: Data:Lúpína
         ],
         "meaning": "forests"
       },
-      "17da3tw": {
-        "contains": [
-          "w_1t9w64"
-        ],
-        "meaning": "not"
-      },
-      "17f60pf": {
-        "contains": [
-          "w_1t9w173"
-        ],
-        "meaning": "to"
-      },
-      "17icimf": {
-        "contains": [
-          "w_1t9w67"
-        ],
-        "meaning": "for"
-      },
       "17k7xq7": {
         "contains": [
           "w_1t9w229"
         ],
         "meaning": "that"
-      },
-      "17lvf49": {
-        "contains": [
-          "w_1t9w87"
-        ],
-        "meaning": "and"
       },
       "186muz8": {
         "contains": [
@@ -7253,12 +7204,6 @@ title: Data:Lúpína
         "direct": "it",
         "meaning": "there"
       },
-      "19exa5y": {
-        "contains": [
-          "w_1t9w264"
-        ],
-        "meaning": "will become"
-      },
       "19o1g5h": {
         "contains": [
           "w_1t9w166",
@@ -7268,20 +7213,6 @@ title: Data:Lúpína
         ],
         "meaning": "1990"
       },
-      "19pdf9i": {
-        "contains": [
-          "w_1t9w77"
-        ],
-        "meaning": "sand"
-      },
-      "19zyf1l": {
-        "contains": [
-          "w_1t9w78"
-        ],
-        "difficult": true,
-        "meaning": "blows",
-        "show_definition_above": true
-      },
       "1a112p0": {
         "contains": [
           "w_1t9w148",
@@ -7289,39 +7220,11 @@ title: Data:Lúpína
         ],
         "meaning": "where"
       },
-      "1a31pr6": {
-        "contains": [
-          "w_1t9w62"
-        ],
-        "meaning": "sand"
-      },
-      "1abj6f9": {
-        "contains": [
-          "w_vkhh270"
-        ],
-        "meaning": "is of the opinion"
-      },
-      "1ak4ouc": {
-        "contains": [
-          "w_vkhh271"
-        ],
-        "meaning": "because"
-      },
       "1ax69xw": {
         "contains": [
           "w_1t9w233"
         ],
         "meaning": "other"
-      },
-      "1azj5qd": {
-        "contains": [
-          "w_1t9w88",
-          "w_1t9w89",
-          "w_1t9w90",
-          "w_1t9w91"
-        ],
-        "direct": "gets in the way of",
-        "meaning": "prevents"
       },
       "1b3aa0g": {
         "contains": [
@@ -7337,12 +7240,6 @@ title: Data:Lúpína
         ],
         "meaning": "little"
       },
-      "1bmmdft": {
-        "contains": [
-          "w_1t9w69"
-        ],
-        "meaning": "but"
-      },
       "1bmxrrt": {
         "contains": [
           "w_1t9w197"
@@ -7355,36 +7252,17 @@ title: Data:Lúpína
         ],
         "meaning": "Iceland"
       },
-      "1c8xpba": {
-        "contains": [
-          "w_1t9w88"
-        ],
-        "meaning": "comes"
-      },
       "1c9986p": {
         "contains": [
           "w_1t9w241"
         ],
         "meaning": "understandably"
       },
-      "1cduuj9": {
-        "contains": [
-          "w_1t9w175"
-        ],
-        "meaning": "seeds"
-      },
       "1ckgyhc": {
         "contains": [
           "w_1t9w215"
         ],
         "meaning": "possible"
-      },
-      "1ct7my": {
-        "contains": [
-          "w_1t9w57",
-          "w_1t9w58"
-        ],
-        "meaning": "to grow"
       },
       "1cwesj4": {
         "contains": [
@@ -7410,12 +7288,6 @@ title: Data:Lúpína
           "w_1t9w252"
         ],
         "meaning": "to"
-      },
-      "1dtnaa0": {
-        "contains": [
-          "w_1t9w79"
-        ],
-        "meaning": "in"
       },
       "1dtx03l": {
         "contains": [
@@ -7522,23 +7394,11 @@ title: Data:Lúpína
         ],
         "meaning": "in"
       },
-      "1joaotn": {
-        "contains": [
-          "w_1t9w94"
-        ],
-        "meaning": "can"
-      },
       "1jr34ry": {
         "contains": [
           "w_kg9q25"
         ],
         "meaning": "sheep"
-      },
-      "1jre7qy": {
-        "contains": [
-          "w_1t9w268"
-        ],
-        "meaning": "more purple."
       },
       "1ka62z5": {
         "contains": [
@@ -7564,12 +7424,6 @@ title: Data:Lúpína
         ],
         "meaning": "little, small"
       },
-      "1l5hgjv": {
-        "contains": [
-          "w_1t9w85"
-        ],
-        "meaning": "on"
-      },
       "1li4beu": {
         "contains": [
           "w_1t9w161",
@@ -7588,12 +7442,6 @@ title: Data:Lúpína
           "w_1t9w12"
         ],
         "meaning": "forests"
-      },
-      "1lnfvho": {
-        "contains": [
-          "w_vkhh268"
-        ],
-        "meaning": "what"
       },
       "1lnx54y": {
         "contains": [
@@ -7633,12 +7481,6 @@ title: Data:Lúpína
         ],
         "meaning": "to"
       },
-      "1oasxrr": {
-        "contains": [
-          "w_1t9w265"
-        ],
-        "meaning": "just"
-      },
       "1omwbn6": {
         "contains": [
           "w_1t9w105"
@@ -7674,12 +7516,6 @@ title: Data:Lúpína
           "w_1t9w50"
         ],
         "meaning": "so"
-      },
-      "1q7qwww": {
-        "contains": [
-          "w_vkhh264"
-        ],
-        "meaning": "matters"
       },
       "1r1ccqf": {
         "contains": [
@@ -7718,29 +7554,11 @@ title: Data:Lúpína
         "direct": "on",
         "meaning": "in"
       },
-      "1snenmt": {
-        "contains": [
-          "w_1t9w74"
-        ],
-        "meaning": "for"
-      },
       "1sots9h": {
         "contains": [
           "w_1t9w157"
         ],
         "meaning": "became"
-      },
-      "1sppckx": {
-        "contains": [
-          "w_1t9w263"
-        ],
-        "meaning": "Iceland"
-      },
-      "1ssm7qk": {
-        "contains": [
-          "w_1t9w82"
-        ],
-        "meaning": "destroys"
       },
       "1svfw7k": {
         "contains": [
@@ -7754,18 +7572,6 @@ title: Data:Lúpína
           "w_kg9q126"
         ],
         "meaning": "to collect"
-      },
-      "1u9sw7g": {
-        "contains": [
-          "w_1t9w93"
-        ],
-        "meaning": "one, you (impersonal)"
-      },
-      "1ua2m11": {
-        "contains": [
-          "w_1t9w65"
-        ],
-        "meaning": "just"
       },
       "1unsl14": {
         "contains": [
@@ -7789,12 +7595,6 @@ title: Data:Lúpína
         "inline_translation": "casts a shadow on",
         "meaning": "casts a shadow on, overshadows",
         "show_definition_above": true
-      },
-      "1vd69r7": {
-        "contains": [
-          "w_1t9w72"
-        ],
-        "meaning": "also"
       },
       "1vfzxdd": {
         "contains": [
@@ -7822,12 +7622,6 @@ title: Data:Lúpína
         ],
         "meaning": "the lupine"
       },
-      "1wh3iv8": {
-        "contains": [
-          "w_1t9w75"
-        ],
-        "meaning": "cars"
-      },
       "1wibwia": {
         "contains": [
           "w_1t9w114"
@@ -7840,23 +7634,11 @@ title: Data:Lúpína
         ],
         "meaning": "of the country"
       },
-      "1wurtcw": {
-        "contains": [
-          "w_1t9w60"
-        ],
-        "meaning": "sand"
-      },
       "1wzkibu": {
         "contains": [
           "w_1t9w59"
         ],
         "meaning": "in"
-      },
-      "1wzu85f": {
-        "contains": [
-          "w_1t9w63"
-        ],
-        "meaning": "is"
       },
       "1xfl94n": {
         "contains": [
@@ -7872,37 +7654,17 @@ title: Data:Lúpína
         ],
         "meaning": "also"
       },
-      "1xntssk": {
-        "contains": [
-          "w_1t9w54",
-          "w_1t9w55",
-          "w_1t9w56"
-        ],
-        "meaning": "have difficulty with"
-      },
       "1xron02": {
         "contains": [
           "w_1t9w141"
         ],
         "meaning": "can"
       },
-      "1yd05kn": {
-        "contains": [
-          "w_1t9w100"
-        ],
-        "meaning": "drive"
-      },
       "1z05px2": {
         "contains": [
           "w_1t9w202"
         ],
         "meaning": "lupine"
-      },
-      "1z090uf": {
-        "contains": [
-          "w_1t9w89"
-        ],
-        "meaning": "in"
       },
       "2qt3p9": {
         "contains": [
@@ -7941,12 +7703,6 @@ title: Data:Lúpína
         ],
         "meaning": "the soil"
       },
-      "4w6t7l": {
-        "contains": [
-          "w_vkhh265"
-        ],
-        "meaning": "maybe"
-      },
       "5csczh": {
         "contains": [
           "w_1t9w182"
@@ -7978,12 +7734,6 @@ title: Data:Lúpína
         ],
         "meaning": "others"
       },
-      "5r2te": {
-        "contains": [
-          "w_1t9w73"
-        ],
-        "meaning": "bad"
-      },
       "6abn5g": {
         "contains": [
           "w_1t9w200"
@@ -8003,19 +7753,6 @@ title: Data:Lúpína
           "w_1t9w150"
         ],
         "meaning": "before"
-      },
-      "6pz5nr": {
-        "contains": [
-          "w_vkhh263"
-        ],
-        "meaning": "it"
-      },
-      "6wdhgk": {
-        "contains": [
-          "w_1t9w98",
-          "w_1t9w99"
-        ],
-        "meaning": "in order to"
       },
       "71xysk": {
         "contains": [
@@ -8041,12 +7778,6 @@ title: Data:Lúpína
         ],
         "meaning": "roads"
       },
-      "7b47e6": {
-        "contains": [
-          "w_1t9w80"
-        ],
-        "meaning": "(the) wind"
-      },
       "7dmhj6": {
         "contains": [
           "w_1t9w15"
@@ -8070,12 +7801,6 @@ title: Data:Lúpína
           "w_1t9w116"
         ],
         "meaning": "he"
-      },
-      "8savv2": {
-        "contains": [
-          "w_1t9w91"
-        ],
-        "meaning": "for"
       },
       "9dd1zk": {
         "contains": [
@@ -8123,12 +7848,6 @@ title: Data:Lúpína
         "direct": "out about all",
         "meaning": "everywhere"
       },
-      "bvrsd": {
-        "contains": [
-          "w_vkhh269"
-        ],
-        "meaning": "one, (referring to oneself)"
-      },
       "cokjjo": {
         "contains": [
           "w_1t9w147"
@@ -8155,24 +7874,6 @@ title: Data:Lúpína
         "meaning": "settlement (of Iceland)",
         "show_definition_above": true
       },
-      "f1mprh": {
-        "contains": [
-          "w_1t9w92"
-        ],
-        "meaning": "that"
-      },
-      "f4q0h2": {
-        "contains": [
-          "w_1t9w44"
-        ],
-        "meaning": "fairly, pretty"
-      },
-      "gc432v": {
-        "contains": [
-          "w_1t9w133"
-        ],
-        "meaning": "down"
-      },
       "gcqtf7": {
         "contains": [
           "w_1t9w225"
@@ -8184,12 +7885,6 @@ title: Data:Lúpína
           "w_1t9w185"
         ],
         "meaning": "airplanes"
-      },
-      "githhp": {
-        "contains": [
-          "w_1t9w83"
-        ],
-        "meaning": "thus, like that"
       },
       "gkgvbv": {
         "contains": [
@@ -8221,12 +7916,6 @@ title: Data:Lúpína
         ],
         "meaning": "and"
       },
-      "hrebor": {
-        "contains": [
-          "w_1t9w58"
-        ],
-        "meaning": "growing"
-      },
       "hzertf": {
         "contains": [
           "w_1t9w115"
@@ -8236,12 +7925,6 @@ title: Data:Lúpína
       "iaps9j": {
         "contains": [
           "w_1t9w199"
-        ],
-        "meaning": "is"
-      },
-      "j3sb6p": {
-        "contains": [
-          "w_1t9w70"
         ],
         "meaning": "is"
       },
@@ -8265,30 +7948,11 @@ title: Data:Lúpína
         ],
         "meaning": "the year"
       },
-      "klk086": {
-        "contains": [
-          "w_1t9w66"
-        ],
-        "meaning": "bad"
-      },
-      "klrbt0": {
-        "contains": [
-          "w_1t9w266",
-          "w_1t9w267"
-        ],
-        "meaning": "gradually"
-      },
       "kqrnwx": {
         "contains": [
           "w_1t9w117"
         ],
         "meaning": "had"
-      },
-      "kuk3e0": {
-        "contains": [
-          "w_1t9w86"
-        ],
-        "meaning": "cars"
       },
       "l67ak5": {
         "contains": [
@@ -8311,12 +7975,6 @@ title: Data:Lúpína
         "direct": "to them it is the same",
         "meaning": "they don't care"
       },
-      "mbqruw": {
-        "contains": [
-          "w_1t9w97"
-        ],
-        "meaning": "well"
-      },
       "mdvws9": {
         "contains": [
           "w_1t9w249"
@@ -8335,14 +7993,6 @@ title: Data:Lúpína
         ],
         "meaning": "started, began"
       },
-      "mxh6f4": {
-        "contains": [
-          "w_1t9w71"
-        ],
-        "direct": "he",
-        "meaning": "it",
-        "note": "Referring to the masculine \"sandur\""
-      },
       "n8yhj0": {
         "contains": [
           "w_kg9q151"
@@ -8354,12 +8004,6 @@ title: Data:Lúpína
           "w_1t9w213"
         ],
         "meaning": "is"
-      },
-      "o8l9f4": {
-        "contains": [
-          "w_1t9w204"
-        ],
-        "meaning": "the lupine"
       },
       "oddye2": {
         "contains": [
@@ -8378,12 +8022,6 @@ title: Data:Lúpína
           "w_1t9w118"
         ],
         "meaning": "seen"
-      },
-      "optv8o": {
-        "contains": [
-          "w_1t9w68"
-        ],
-        "meaning": "plants"
       },
       "ox678": {
         "contains": [
@@ -8464,18 +8102,6 @@ title: Data:Lúpína
         ],
         "meaning": "sands"
       },
-      "sjscu8": {
-        "contains": [
-          "w_1t9w53"
-        ],
-        "meaning": "trees"
-      },
-      "sl8r73": {
-        "contains": [
-          "w_1t9w90"
-        ],
-        "meaning": "way"
-      },
       "slfflq": {
         "contains": [
           "w_kg9q153"
@@ -8499,12 +8125,6 @@ title: Data:Lúpína
           "w_1t9w21"
         ],
         "meaning": "from"
-      },
-      "u2fixb": {
-        "contains": [
-          "w_1t9w81"
-        ],
-        "meaning": "and"
       },
       "um7c7o": {
         "contains": [
@@ -8542,12 +8162,6 @@ title: Data:Lúpína
         ],
         "meaning": "and"
       },
-      "wzx4pu": {
-        "contains": [
-          "w_vkhh266"
-        ],
-        "meaning": "little"
-      },
       "xddks0": {
         "contains": [
           "w_1t9w240"
@@ -8584,14 +8198,6 @@ title: Data:Lúpína
         ],
         "meaning": "when"
       },
-      "ye650q": {
-        "contains": [
-          "w_1t9w84"
-        ],
-        "inline_translation": "lacquer",
-        "meaning": "lacquer, polish, varnish, gloss paint",
-        "show_definition_above": true
-      },
       "ytvrde": {
         "contains": [
           "w_kg9q128"
@@ -8609,12 +8215,6 @@ title: Data:Lúpína
           "w_1t9w123"
         ],
         "meaning": "plant"
-      },
-      "zvcthm": {
-        "contains": [
-          "w_1t9w95"
-        ],
-        "meaning": "see"
       }
     },
     "sentences": {
@@ -8660,42 +8260,22 @@ title: Data:Lúpína
       "s_1t9w245": {
         "meaning": "but others find it so beautiful that they don't care if it takes over."
       },
-      "s_1t9w262": {
-        "meaning": "Iceland will just gradually become more purple."
-      },
       "s_1t9w31": {
         "meaning": "Many have tried to regrow forests,"
       },
       "s_1t9w40": {
         "meaning": "but it is difficult since the soil is so bad."
       },
-      "s_1t9w52": {
-        "meaning": "Trees have trouble growing in sand."
-      },
-      "s_1t9w61": {
-        "meaning": "Sand is not only bad for plants, but also for cars."
-      },
-      "s_1t9w76": {
-        "meaning": "Sand blows in the window and thus destroys the paint on cars, and prevents one from being able to see well enough in order to drive."
-      },
-      "s_1t9w9": {
-        "meaning": "There were forests in Iceland before it was settled,"
-      },
       "s_kg9q144": {
         "meaning": "Many were very optimistic that the lupine would save the vegetation of Iceland."
       },
       "s_kg9q18": {
         "meaning": "but because of the effects of humans and sheep,  there is now little remaining except grass and sand."
-      },
-      "s_vkhh262": {
-        "meaning": "It maybe doesn't matter much what one thinks of it, because Iceland will just gradually become more purple."
       }
     },
     "words": {
       "w_1t9w1": "19blohj",
       "w_1t9w10": "3if8n",
-      "w_1t9w100": "1yd05kn",
-      "w_1t9w102": "13iq204",
       "w_1t9w103": "13iq204",
       "w_1t9w104": "ha5pv7",
       "w_1t9w105": "1omwbn6",
@@ -8727,7 +8307,6 @@ title: Data:Lúpína
       "w_1t9w130": "110g8lw",
       "w_1t9w131": "1lin5w5",
       "w_1t9w132": "1uv17rq",
-      "w_1t9w133": "gc432v",
       "w_1t9w134": "1iypuvk",
       "w_1t9w135": "4fsq6p",
       "w_1t9w137": "yadpcj",
@@ -8770,7 +8349,6 @@ title: Data:Lúpína
       "w_1t9w172": "mwz3f6",
       "w_1t9w173": "1u4x7hm",
       "w_1t9w174": "rvnx90",
-      "w_1t9w175": "1cduuj9",
       "w_1t9w176": "1lq8weu",
       "w_1t9w177": "77brpz",
       "w_1t9w179": "1mqbs49",
@@ -8799,7 +8377,6 @@ title: Data:Lúpína
       "w_1t9w200": "6abn5g",
       "w_1t9w201": "l67ak5",
       "w_1t9w202": "1z05px2",
-      "w_1t9w204": "o8l9f4",
       "w_1t9w205": "12rp46e",
       "w_1t9w206": "12rp46e",
       "w_1t9w207": "wt6xmb",
@@ -8860,12 +8437,6 @@ title: Data:Lúpína
       "w_1t9w26": "bd9ste",
       "w_1t9w260": "alnh6a",
       "w_1t9w261": "phj4s3",
-      "w_1t9w263": "1sppckx",
-      "w_1t9w264": "19exa5y",
-      "w_1t9w265": "1oasxrr",
-      "w_1t9w266": "klrbt0",
-      "w_1t9w267": "klrbt0",
-      "w_1t9w268": "1jre7qy",
       "w_1t9w27": "ya2b7n",
       "w_1t9w28": "xy42ng",
       "w_1t9w29": "1kuwkul",
@@ -8883,7 +8454,6 @@ title: Data:Lúpína
       "w_1t9w41": "1rdj1j7",
       "w_1t9w42": "r2lodc",
       "w_1t9w43": "1dtx03l",
-      "w_1t9w44": "f4q0h2",
       "w_1t9w45": "11w1c07",
       "w_1t9w46": "bbpg84",
       "w_1t9w47": "bbpg84",
@@ -8892,54 +8462,10 @@ title: Data:Lúpína
       "w_1t9w5": "103bh2r",
       "w_1t9w50": "1pwc9sz",
       "w_1t9w51": "163eegy",
-      "w_1t9w53": "sjscu8",
-      "w_1t9w54": "1xntssk",
-      "w_1t9w55": "1xntssk",
-      "w_1t9w56": "1xntssk",
-      "w_1t9w57": "1ct7my",
-      "w_1t9w58": "1ct7my",
       "w_1t9w59": "1wzkibu",
       "w_1t9w6": "171r0mo",
-      "w_1t9w60": "1wurtcw",
-      "w_1t9w62": "1a31pr6",
-      "w_1t9w63": "1wzu85f",
-      "w_1t9w64": "17da3tw",
-      "w_1t9w65": "1ua2m11",
-      "w_1t9w66": "klk086",
-      "w_1t9w67": "17icimf",
-      "w_1t9w68": "optv8o",
-      "w_1t9w69": "1bmmdft",
       "w_1t9w7": "1sbvkfl",
-      "w_1t9w70": "j3sb6p",
-      "w_1t9w71": "mxh6f4",
-      "w_1t9w72": "1vd69r7",
-      "w_1t9w73": "5r2te",
-      "w_1t9w74": "1snenmt",
-      "w_1t9w75": "1wh3iv8",
-      "w_1t9w77": "19pdf9i",
-      "w_1t9w78": "19zyf1l",
-      "w_1t9w79": "1dtnaa0",
       "w_1t9w8": "1gj7gn2",
-      "w_1t9w80": "7b47e6",
-      "w_1t9w81": "u2fixb",
-      "w_1t9w82": "1ssm7qk",
-      "w_1t9w83": "githhp",
-      "w_1t9w84": "ye650q",
-      "w_1t9w85": "1l5hgjv",
-      "w_1t9w86": "kuk3e0",
-      "w_1t9w87": "17lvf49",
-      "w_1t9w88": "1azj5qd",
-      "w_1t9w89": "1azj5qd",
-      "w_1t9w90": "1azj5qd",
-      "w_1t9w91": "1azj5qd",
-      "w_1t9w92": "f1mprh",
-      "w_1t9w93": "1u9sw7g",
-      "w_1t9w94": "1joaotn",
-      "w_1t9w95": "zvcthm",
-      "w_1t9w96": "164one1",
-      "w_1t9w97": "mbqruw",
-      "w_1t9w98": "6wdhgk",
-      "w_1t9w99": "6wdhgk",
       "w_kg9q12": "1pg75ca",
       "w_kg9q126": "1u4x7hm",
       "w_kg9q127": "1dfvhb1",
@@ -8962,16 +8488,7 @@ title: Data:Lúpína
       "w_kg9q156": "1c2lzzv",
       "w_kg9q175": "1g9vmd6",
       "w_kg9q24": "wu66j3",
-      "w_kg9q25": "1jr34ry",
-      "w_vkhh263": "6pz5nr",
-      "w_vkhh264": "133d07a",
-      "w_vkhh265": "4w6t7l",
-      "w_vkhh266": "wzx4pu",
-      "w_vkhh267": "133d07a",
-      "w_vkhh268": "1lnfvho",
-      "w_vkhh269": "bvrsd",
-      "w_vkhh270": "1abj6f9",
-      "w_vkhh271": "1ak4ouc"
+      "w_kg9q25": "1jr34ry"
     }
   }
 }

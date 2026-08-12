@@ -724,12 +724,6 @@ title: Data:R
         ],
         "meaning": "krona (Icelandic currency)"
       },
-      "18fqpdu": {
-        "contains": [
-          "w_t2n43"
-        ],
-        "meaning": "hear"
-      },
       "1areseb": {
         "contains": [
           "w_1vix8"
@@ -778,12 +772,6 @@ title: Data:R
         ],
         "meaning": "brother"
       },
-      "1snxfk": {
-        "contains": [
-          "w_t2n41"
-        ],
-        "meaning": "red"
-      },
       "7usw94": {
         "contains": [
           "w_1vix3"
@@ -820,12 +808,6 @@ title: Data:R
         ],
         "meaning": "tough"
       },
-      "oc2dqb": {
-        "contains": [
-          "w_t2n42"
-        ],
-        "meaning": "brother"
-      },
       "s6y9ow": {
         "contains": [
           "w_t2n410"
@@ -845,7 +827,6 @@ title: Data:R
       "w_1vix3": "7usw94",
       "w_1vix7": "1shkll8",
       "w_1vix8": "1areseb",
-      "w_t2n41": "1snxfk",
       "w_t2n410": "s6y9ow",
       "w_t2n411": "nyz84x",
       "w_t2n412": "encbf6",
@@ -855,9 +836,7 @@ title: Data:R
       "w_t2n417": "11cy6yf",
       "w_t2n418": "1j34djs",
       "w_t2n419": "1ev5bzt",
-      "w_t2n42": "oc2dqb",
       "w_t2n420": "1eqcpzn",
-      "w_t2n43": "18fqpdu",
       "w_t2n44": "17ccg05",
       "w_t2n45": "1rg0rno",
       "w_t2n46": "eyb5zb",

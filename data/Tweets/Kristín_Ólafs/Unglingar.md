@@ -757,14 +757,6 @@ title: Data:Tweets/Kristín Ólafs/Unglingar
         ],
         "meaning": "smoking"
       },
-      "1gqe3eo": {
-        "contains": [
-          "w_1oxl25"
-        ],
-        "direct": "",
-        "meaning": "",
-        "note": ""
-      },
       "1i6r4fz": {
         "contains": [
           "w_1oxl8"
@@ -826,12 +818,6 @@ title: Data:Tweets/Kristín Ólafs/Unglingar
         ],
         "meaning": "a skateboard"
       },
-      "5sn65f": {
-        "contains": [
-          "w_1oxl26"
-        ],
-        "meaning": "scared"
-      },
       "63kfzk": {
         "contains": [
           "w_1oxl7"
@@ -869,12 +855,6 @@ title: Data:Tweets/Kristín Ólafs/Unglingar
           "w_1oxl14"
         ],
         "meaning": "with"
-      },
-      "pnc5s4": {
-        "contains": [
-          "w_1oxl21"
-        ],
-        "meaning": "that"
       },
       "q7afqr": {
         "contains": [

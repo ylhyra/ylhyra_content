@@ -3763,12 +3763,6 @@ title: Data:Villi Neto/Íslenskar myndir
         ],
         "meaning": "do you see"
       },
-      "1h59rv1": {
-        "contains": [
-          "w_12ll12"
-        ],
-        "meaning": "da"
-      },
       "1hy5sro": {
         "contains": [
           "w_12ll128",

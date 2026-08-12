@@ -1015,12 +1015,6 @@ title: Data:Sveinbjörn Egilsson/Bí bí og blaka
         ],
         "meaning": "as"
       },
-      "19kt1fi": {
-        "contains": [
-          "w_146g34"
-        ],
-        "meaning": "search"
-      },
       "1a6ccwy": {
         "contains": [
           "w_146g33",
@@ -1071,13 +1065,6 @@ title: Data:Sveinbjörn Egilsson/Bí bí og blaka
         ],
         "meaning": "will"
       },
-      "1iyrrhk": {
-        "contains": [
-          "w_146g1"
-        ],
-        "meaning": "",
-        "note": "sound a swan makes"
-      },
       "1pa1nqw": {
         "contains": [
           "w_146g10"
@@ -1095,12 +1082,6 @@ title: Data:Sveinbjörn Egilsson/Bí bí og blaka
           "w_146g19"
         ],
         "meaning": "be awake, stay awake"
-      },
-      "1ylwggp": {
-        "contains": [
-          "w_146g33"
-        ],
-        "meaning": "to"
       },
       "2y704u": {
         "contains": [
@@ -1137,12 +1118,6 @@ title: Data:Sveinbjörn Egilsson/Bí bí og blaka
           "w_146g30"
         ],
         "meaning": "on"
-      },
-      "k48ti2": {
-        "contains": [
-          "w_146g21"
-        ],
-        "note": ""
       },
       "m8jwvv": {
         "contains": [

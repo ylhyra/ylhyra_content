@@ -564,12 +564,6 @@ title: Data:Tweets/Kristín Ólafs/Slúður
         ],
         "meaning": "some"
       },
-      "2q4l06": {
-        "contains": [
-          "w_8kdu9"
-        ],
-        "meaning": "to"
-      },
       "4r3yak": {
         "contains": [
           "w_8kdu3"
@@ -581,12 +575,6 @@ title: Data:Tweets/Kristín Ólafs/Slúður
           "w_8kdu4"
         ],
         "meaning": "that"
-      },
-      "cd2ha": {
-        "contains": [
-          "w_8kdu10"
-        ],
-        "meaning": "gossip"
       },
       "ksqrut": {
         "contains": [

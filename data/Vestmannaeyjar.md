@@ -3240,12 +3240,6 @@ title: Data:Vestmannaeyjar
         ],
         "meaning": "of course"
       },
-      "w74rq5": {
-        "contains": [
-          "w_xkvp27"
-        ],
-        "meaning": "t"
-      },
       "wwwbis": {
         "contains": [
           "w_xkvp95"

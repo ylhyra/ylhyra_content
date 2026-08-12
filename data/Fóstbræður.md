@@ -2561,13 +2561,6 @@ title: Data:Fóstbræður
         ],
         "meaning": "very"
       },
-      "1ev23tw": {
-        "contains": [
-          "w_1a7n48",
-          "w_1a7n49"
-        ],
-        "meaning": "to watch"
-      },
       "1gxxy2r": {
         "contains": [
           "w_1a7n25"
@@ -2648,12 +2641,6 @@ title: Data:Fóstbræður
           "w_1a7n2"
         ],
         "meaning": "are"
-      },
-      "1vdao9y": {
-        "contains": [
-          "w_1a7n46"
-        ],
-        "meaning": "re"
       },
       "1w80hj4": {
         "contains": [
@@ -2761,12 +2748,6 @@ title: Data:Fóstbræður
           "w_1a7n71"
         ],
         "meaning": "is"
-      },
-      "ke20hz": {
-        "contains": [
-          "w_1a7n47"
-        ],
-        "meaning": "re"
       },
       "khio9t": {
         "contains": [

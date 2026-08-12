@@ -681,12 +681,6 @@ title: Data:Tweets/Benedikt/Ber
         "difficult": true,
         "meaning": "summarized, recapped, run down"
       },
-      "j8uj9l": {
-        "contains": [
-          "w_1fxb18"
-        ],
-        "meaning": "in"
-      },
       "mjuo44": {
         "contains": [
           "w_1fxb4"

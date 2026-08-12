@@ -914,12 +914,6 @@ title: Data:Villi Neto/Finnland
         ],
         "meaning": "exists"
       },
-      "hctpta": {
-        "contains": [
-          "w_126512"
-        ],
-        "meaning": "is"
-      },
       "ntr18f": {
         "contains": [
           "w_12652"

@@ -1054,12 +1054,6 @@ title: Data:Tweets/Þorsteinn/Alþingi
         ],
         "meaning": "Hávamál (a 13th century poem)"
       },
-      "18t2in5": {
-        "contains": [
-          "w_AzOD-Dz4lw"
-        ],
-        "meaning": "only"
-      },
       "1hrgtpu": {
         "contains": [
           "w_wjAGBDADP7"

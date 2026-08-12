@@ -704,9 +704,6 @@ title: Data:Devoicing
       "s_11604": {
         "meaning": "A language is a language."
       },
-      "s_11608": {
-        "meaning": "I am and I am."
-      },
       "s_w8nv14": {
         "meaning": "I am just the way I am."
       },

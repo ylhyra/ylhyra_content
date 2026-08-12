@@ -814,12 +814,6 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
         ],
         "meaning": "leave something"
       },
-      "3yim0w": {
-        "contains": [
-          "w_arUbSjUQbGQ"
-        ],
-        "meaning": "on"
-      },
       "ax1lx6": {
         "contains": [
           "w_LgT7IjADKky"
@@ -867,12 +861,6 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
           "w__t4HnKPHdJL"
         ],
         "meaning": "photocopy"
-      },
-      "r3xrob": {
-        "contains": [
-          "w_1rlpooZJig7"
-        ],
-        "meaning": "leave"
       },
       "ro99rn": {
         "contains": [

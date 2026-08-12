@@ -2627,12 +2627,6 @@ title: Data:Text:A1/Reykjavík
         ],
         "meaning": "in"
       },
-      "hffrel": {
-        "contains": [
-          "w_1bdd47"
-        ],
-        "meaning": "laugh"
-      },
       "inkq92": {
         "contains": [
           "w_1bdd1",

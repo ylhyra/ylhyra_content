@@ -7989,12 +7989,6 @@ title: Data:Egils saga/Veisla hjá afa
         ],
         "meaning": "answers"
       },
-      "16xhcvr": {
-        "contains": [
-          "w_esty45"
-        ],
-        "meaning": "to"
-      },
       "17yl8nr": {
         "contains": [
           "w_esty54"
@@ -8249,12 +8243,6 @@ title: Data:Egils saga/Veisla hjá afa
         ],
         "meaning": "is"
       },
-      "1kosdur": {
-        "contains": [
-          "w_13xb143"
-        ],
-        "meaning": "goes"
-      },
       "1l3gles": {
         "contains": [
           "w_esty233"
@@ -8447,13 +8435,6 @@ title: Data:Egils saga/Veisla hjá afa
         ],
         "meaning": "me"
       },
-      "1ua1144": {
-        "contains": [
-          "w_esty146",
-          "w_esty147"
-        ],
-        "meaning": "after"
-      },
       "1uf9xjh": {
         "contains": [
           "w_esty209"
@@ -8521,15 +8502,6 @@ title: Data:Egils saga/Veisla hjá afa
         ],
         "meaning": "is"
       },
-      "1ym645d": {
-        "contains": [
-          "w_esty143",
-          "w_esty144",
-          "w_esty145"
-        ],
-        "difficult": true,
-        "meaning": "sets off, sets out"
-      },
       "1yxfxlu": {
         "contains": [
           "w_esty114"
@@ -8585,12 +8557,6 @@ title: Data:Egils saga/Veisla hjá afa
           "w_esty224"
         ],
         "meaning": "grandfather"
-      },
-      "4kyb26": {
-        "contains": [
-          "w_esty19"
-        ],
-        "meaning": "is"
       },
       "4nw03o": {
         "contains": [
@@ -8787,12 +8753,6 @@ title: Data:Egils saga/Veisla hjá afa
         ],
         "meaning": "is"
       },
-      "blrx3o": {
-        "contains": [
-          "w_esty46"
-        ],
-        "meaning": "be"
-      },
       "bozoy6": {
         "contains": [
           "w_esty109"
@@ -8859,12 +8819,6 @@ title: Data:Egils saga/Veisla hjá afa
           "w_esty152"
         ],
         "meaning": "late"
-      },
-      "ekbces": {
-        "contains": [
-          "w_esty20"
-        ],
-        "meaning": "with"
       },
       "el9yk7": {
         "contains": [
@@ -9417,9 +9371,6 @@ title: Data:Egils saga/Veisla hjá afa
       "w_esty14": "tppwcz",
       "w_esty141": "1xoc136",
       "w_esty142": "anx69t",
-      "w_esty143": "1ym645d",
-      "w_esty144": "1ym645d",
-      "w_esty145": "1ym645d",
       "w_esty146": "1czam5e",
       "w_esty147": "1czam5e",
       "w_esty148": "1s2bdzf",

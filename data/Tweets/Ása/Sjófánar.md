@@ -762,12 +762,6 @@ title: Data:Tweets/Ása/Sjófánar
         ],
         "meaning": "in"
       },
-      "1gjq8fo": {
-        "contains": [
-          "w_xlcm12"
-        ],
-        "meaning": "listened"
-      },
       "1kt8pb7": {
         "base": "að dunda sér",
         "base_meaning": "to tinker with, to fiddle with",
@@ -874,13 +868,6 @@ title: Data:Tweets/Ása/Sjófánar
           "w_xlcm24"
         ],
         "meaning": "job"
-      },
-      "zx0j7u": {
-        "contains": [
-          "w_xlcm7",
-          "w_xlcm8"
-        ],
-        "meaning": "to fasten"
       }
     },
     "sentences": {

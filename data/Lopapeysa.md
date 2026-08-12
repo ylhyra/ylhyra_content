@@ -4065,12 +4065,6 @@ title: Data:Lopapeysa
         ],
         "meaning": "knitted"
       },
-      "1x1te3x": {
-        "contains": [
-          "w_naaf80"
-        ],
-        "meaning": "tho"
-      },
       "1xt4lys": {
         "contains": [
           "w_naaf122"
@@ -4461,12 +4455,6 @@ title: Data:Lopapeysa
         ],
         "meaning": "wool sweater"
       },
-      "xz84bl": {
-        "contains": [
-          "w_naaf62"
-        ],
-        "meaning": "t"
-      },
       "yxd484": {
         "contains": [
           "w_naaf134",
@@ -4508,9 +4496,6 @@ title: Data:Lopapeysa
       },
       "s_naaf28": {
         "meaning": "They are usually brown, gray, or black and they have a pattern which goes into a circle around your shoulders."
-      },
-      "s_naaf33": {
-        "meaning": "gray, or black and they have a pattern which goes into a circle around your shoulders."
       },
       "s_naaf50": {
         "meaning": "Wool sweaters are thick and warm and because of that it is very good to own a wool sweater when one goes camping."

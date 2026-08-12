@@ -5492,13 +5492,6 @@ title: Data:Færeyjar
         ],
         "meaning": "it"
       },
-      "1h0mr5w": {
-        "contains": [
-          "w_151v130",
-          "w_151v131"
-        ],
-        "meaning": "to talk"
-      },
       "1hfqw4p": {
         "contains": [
           "w_151v34"
@@ -5657,12 +5650,6 @@ title: Data:Færeyjar
           "w_151v100"
         ],
         "meaning": "like this"
-      },
-      "1wlup0e": {
-        "contains": [
-          "w_151v132"
-        ],
-        "meaning": " "
       },
       "1wxdywq": {
         "contains": [

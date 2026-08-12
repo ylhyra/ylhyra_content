@@ -4446,12 +4446,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
         ],
         "meaning": "tienen"
       },
-      "123vtiu": {
-        "contains": [
-          "w_J4CB0No6JI"
-        ],
-        "meaning": "take"
-      },
       "12gna2d": {
         "contains": [
           "w_nuWD9sMGFV"
@@ -4463,12 +4457,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
           "w_hEdaD8vSlH"
         ],
         "meaning": "largo"
-      },
-      "1424bvk": {
-        "contains": [
-          "w__qwcNK9Lin"
-        ],
-        "meaning": "We"
       },
       "15f05ug": {
         "contains": [
@@ -4507,12 +4495,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
           "w_tY98Z90qOj"
         ],
         "meaning": "y"
-      },
-      "1arayb8": {
-        "contains": [
-          "w_NqyTzPvjpm"
-        ],
-        "meaning": "on"
       },
       "1bks34e": {
         "contains": [
@@ -4589,12 +4571,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
         ],
         "meaning": "agua"
       },
-      "1juxu9e": {
-        "contains": [
-          "w_iU6kR8WOBN"
-        ],
-        "meaning": "up"
-      },
       "1jxcduv": {
         "contains": [
           "w_6ob85kGBky"
@@ -4624,12 +4600,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
           "w_gC6LLNGr0a"
         ],
         "meaning": "casas"
-      },
-      "1nl86it": {
-        "contains": [
-          "w_wdd-xDqs95"
-        ],
-        "meaning": "against"
       },
       "1s4205u": {
         "contains": [
@@ -4676,18 +4646,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
           "w_dCWE9UNre8"
         ],
         "meaning": "Luego"
-      },
-      "1v7926i": {
-        "contains": [
-          "w_G6hJFFtar3"
-        ],
-        "meaning": "takes"
-      },
-      "1xh9vzn": {
-        "contains": [
-          "w_RgaQ94KbOP"
-        ],
-        "meaning": "to"
       },
       "27i3ei": {
         "contains": [
@@ -4747,12 +4705,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
         "difficult": false,
         "meaning": "lombrices de tierra",
         "show_definition_above": true
-      },
-      "8t8l6h": {
-        "contains": [
-          "w_X7Yv1RDUf"
-        ],
-        "meaning": "hours"
       },
       "a3kmwl": {
         "contains": [
@@ -4911,12 +4863,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
         ],
         "meaning": "a ellos"
       },
-      "rqn5pf": {
-        "contains": [
-          "w_eyZx4wh2sz"
-        ],
-        "meaning": "on"
-      },
       "sckgxr": {
         "contains": [
           "w_uKq_Co_kBx"
@@ -4928,12 +4874,6 @@ title: Data:Español/Magnús Jochum Pálsson/Ánamaðkar
           "w_-A8kU4IuVA"
         ],
         "meaning": "las calles"
-      },
-      "svr8ru": {
-        "contains": [
-          "w_9xUCLXjwwN"
-        ],
-        "meaning": "escape"
       },
       "tnzk3a": {
         "contains": [

@@ -5248,12 +5248,6 @@ title: Data:Imba/afi
         ],
         "meaning": "appeared"
       },
-      "30dyzx": {
-        "contains": [
-          "w_12wu32"
-        ],
-        "meaning": "a dream"
-      },
       "3gtwfv": {
         "contains": [
           "w_12wu124"
@@ -5553,12 +5547,6 @@ title: Data:Imba/afi
         ],
         "meaning": "would have"
       },
-      "usy94f": {
-        "contains": [
-          "w_12wu30"
-        ],
-        "meaning": "positioned"
-      },
       "ux55z0": {
         "contains": [
           "w_12wu145"
@@ -5601,18 +5589,6 @@ title: Data:Imba/afi
           "w_12wu27"
         ],
         "meaning": "that"
-      },
-      "y7wxd2": {
-        "contains": [
-          "w_12wu28"
-        ],
-        "meaning": "I"
-      },
-      "ymmxu6": {
-        "contains": [
-          "w_12wu31"
-        ],
-        "meaning": "in"
       },
       "zbe058": {
         "contains": [
@@ -5661,32 +5637,17 @@ title: Data:Imba/afi
       "s_12wu2": {
         "meaning": "a few weeks ago"
       },
-      "s_12wu23": {
-        "meaning": "At that moment I knew I was in a dream,"
-      },
       "s_12wu33": {
         "meaning": "because you would have certainly never said anything like that."
       },
-      "s_12wu44": {
-        "meaning": "you would have instead sat content in your lazy boy chair and asked: "
-      },
       "s_12wu57": {
         "meaning": "\"Do you have a new boyfriend? And is he cute?\""
-      },
-      "s_12wu66": {
-        "meaning": "you would have instead stood up and yelled:"
       },
       "s_12wu7": {
         "meaning": "you appeared to me in a dream"
       },
       "s_12wu73": {
         "meaning": "\"Have some fish balls! There's coffee and cake too!\""
-      },
-      "s_12wu84": {
-        "meaning": "you would have instead screamed in traffic,"
-      },
-      "s_12wu90": {
-        "meaning": "driving faster than me in my first driving lesson:"
       },
       "s_12wu98": {
         "meaning": "\"Go to hell, you fool!\""
@@ -5768,12 +5729,8 @@ title: Data:Imba/afi
       "w_12wu25": "1ks2t57",
       "w_12wu26": "b67pyg",
       "w_12wu27": "y09n0p",
-      "w_12wu28": "y7wxd2",
       "w_12wu29": "1l1yu87",
       "w_12wu3": "os968w",
-      "w_12wu30": "usy94f",
-      "w_12wu31": "ymmxu6",
-      "w_12wu32": "30dyzx",
       "w_12wu34": "1lqj02z",
       "w_12wu35": "1pk7osq",
       "w_12wu36": "txypyh",

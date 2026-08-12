@@ -5607,12 +5607,6 @@ title: Data:Bláa lónið
   ],
   "translation": {
     "definitions": {
-      "10bzl0m": {
-        "contains": [
-          "w_1nio222"
-        ],
-        "meaning": "absolutely (intensifier)"
-      },
       "10ztsyd": {
         "contains": [
           "w_1nio67"
@@ -5648,12 +5642,6 @@ title: Data:Bláa lónið
           "w_1nio38"
         ],
         "meaning": "surrounded by"
-      },
-      "135yl1c": {
-        "contains": [
-          "w_1nio172"
-        ],
-        "meaning": "buy"
       },
       "13f7xyx": {
         "contains": [
@@ -5715,12 +5703,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "it"
       },
-      "17z9hfq": {
-        "contains": [
-          "w_1nio174"
-        ],
-        "meaning": "with"
-      },
       "188sd4k": {
         "contains": [
           "w_1nio88"
@@ -5770,12 +5752,6 @@ title: Data:Bláa lónið
           "w_1nio92"
         ],
         "meaning": "a few hundred"
-      },
-      "1c0wq09": {
-        "contains": [
-          "w_1nio184"
-        ],
-        "meaning": "not at all"
       },
       "1cflt83": {
         "contains": [
@@ -5847,12 +5823,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "the reason"
       },
-      "1fn2xfv": {
-        "contains": [
-          "w_1nio197"
-        ],
-        "meaning": "charming, fascinating"
-      },
       "1g36x8t": {
         "contains": [
           "w_1nio109",
@@ -5902,12 +5872,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "blue"
       },
-      "1ia97aa": {
-        "contains": [
-          "w_1nio226"
-        ],
-        "meaning": "visit"
-      },
       "1ibku1": {
         "contains": [
           "w_1nio58"
@@ -5926,12 +5890,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "a ticket"
       },
-      "1j81uy6": {
-        "contains": [
-          "w_1nio183"
-        ],
-        "meaning": "maybe"
-      },
       "1jdtdm9": {
         "contains": [
           "w_1nio50"
@@ -5943,12 +5901,6 @@ title: Data:Bláa lónið
           "w_1nio158"
         ],
         "meaning": "to"
-      },
-      "1kxm3cx": {
-        "contains": [
-          "w_1nio216"
-        ],
-        "meaning": "is"
       },
       "1lfnfpt": {
         "contains": [
@@ -5976,12 +5928,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "but"
       },
-      "1mcpa80": {
-        "contains": [
-          "w_1nio217"
-        ],
-        "meaning": "(the) only, one"
-      },
       "1ms50bo": {
         "contains": [
           "w_1nio101"
@@ -6005,12 +5951,6 @@ title: Data:Bláa lónið
           "w_1nio41"
         ],
         "meaning": "the water"
-      },
-      "1no5ibl": {
-        "contains": [
-          "w_1nio173"
-        ],
-        "meaning": "a ticket"
       },
       "1ooi3oi": {
         "contains": [
@@ -6093,35 +6033,11 @@ title: Data:Bláa lónið
         ],
         "meaning": "is"
       },
-      "1shgepz": {
-        "contains": [
-          "w_1nio175"
-        ],
-        "meaning": "(of) several"
-      },
-      "1slmqda": {
-        "contains": [
-          "w_oxep155"
-        ],
-        "meaning": "so"
-      },
-      "1so2io2": {
-        "contains": [
-          "w_1nio215"
-        ],
-        "meaning": "this"
-      },
       "1t06x2q": {
         "contains": [
           "w_1nio60"
         ],
         "meaning": "for"
-      },
-      "1t3dhmz": {
-        "contains": [
-          "w_1nio179"
-        ],
-        "meaning": "I"
       },
       "1t5hjdu": {
         "contains": [
@@ -6136,31 +6052,11 @@ title: Data:Bláa lónið
         ],
         "meaning": "so that"
       },
-      "1togtc4": {
-        "contains": [
-          "w_1nio194",
-          "w_1nio195"
-        ],
-        "meaning": "seriously, no joke"
-      },
-      "1u3s7cm": {
-        "contains": [
-          "w_1nio46"
-        ],
-        "meaning": "almost"
-      },
       "1v1umqo": {
         "contains": [
           "w_1nio127"
         ],
         "meaning": "much"
-      },
-      "1w0utms": {
-        "contains": [
-          "w_1nio220",
-          "w_1nio221"
-        ],
-        "meaning": "I think"
       },
       "1xy6ku4": {
         "contains": [
@@ -6180,23 +6076,11 @@ title: Data:Bláa lónið
         ],
         "meaning": "hot"
       },
-      "257f8q": {
-        "contains": [
-          "w_1nio187"
-        ],
-        "meaning": "description"
-      },
       "2l4o3r": {
         "contains": [
           "w_1nio131"
         ],
         "meaning": "especially"
-      },
-      "2y4c1w": {
-        "contains": [
-          "w_1nio176"
-        ],
-        "meaning": "weeks'"
       },
       "37d2ie": {
         "contains": [
@@ -6229,12 +6113,6 @@ title: Data:Bláa lónið
         "inline_translation": "geothermal power plant",
         "meaning": "a geothermal power plant",
         "show_definition_above": true
-      },
-      "4wn7jg": {
-        "contains": [
-          "w_1nio181"
-        ],
-        "meaning": "this"
       },
       "5089tc": {
         "contains": [
@@ -6297,24 +6175,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "and"
       },
-      "95zog2": {
-        "contains": [
-          "w_1nio170"
-        ],
-        "meaning": "need"
-      },
-      "9cxp67": {
-        "contains": [
-          "w_1nio182"
-        ],
-        "meaning": "sounds"
-      },
-      "9osjgv": {
-        "contains": [
-          "w_1nio218"
-        ],
-        "meaning": "tourist destination"
-      },
       "a3dz9w": {
         "contains": [
           "w_1nio55"
@@ -6326,12 +6186,6 @@ title: Data:Bláa lónið
           "w_1nio106"
         ],
         "meaning": "then"
-      },
-      "a9pex8": {
-        "contains": [
-          "w_1nio190"
-        ],
-        "meaning": "but"
       },
       "aqls8t": {
         "contains": [
@@ -6345,12 +6199,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "that"
       },
-      "b3vqby": {
-        "contains": [
-          "w_1nio219"
-        ],
-        "meaning": "which"
-      },
       "b4koac": {
         "contains": [
           "w_1nio44"
@@ -6362,12 +6210,6 @@ title: Data:Bláa lónið
           "w_1nio68"
         ],
         "meaning": "blue"
-      },
-      "bdnsg4": {
-        "contains": [
-          "w_1nio198"
-        ],
-        "meaning": "place"
       },
       "c2wnes": {
         "contains": [
@@ -6392,19 +6234,6 @@ title: Data:Bláa lónið
           "w_1nio100"
         ],
         "meaning": "boiling"
-      },
-      "d6mdvy": {
-        "contains": [
-          "w_1nio192"
-        ],
-        "meaning": "the lagoon"
-      },
-      "dlu4v6": {
-        "contains": [
-          "w_1nio223",
-          "w_1nio224"
-        ],
-        "meaning": "worth it"
       },
       "dma30l": {
         "contains": [
@@ -6552,18 +6381,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "it"
       },
-      "muwtt4": {
-        "contains": [
-          "w_1nio185"
-        ],
-        "meaning": "great"
-      },
-      "ngb9c5": {
-        "contains": [
-          "w_1nio177"
-        ],
-        "meaning": "notice, pre-warning"
-      },
       "nywmfx": {
         "contains": [
           "w_oxep165"
@@ -6601,12 +6418,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "in order to"
       },
-      "rb7bfv": {
-        "contains": [
-          "w_1nio186"
-        ],
-        "meaning": "from"
-      },
       "ricxnf": {
         "contains": [
           "w_1nio87"
@@ -6624,12 +6435,6 @@ title: Data:Bláa lónið
           "w_1nio96"
         ],
         "meaning": "the earth"
-      },
-      "sg22at": {
-        "contains": [
-          "w_1nio203"
-        ],
-        "meaning": "magical"
       },
       "sja1n0": {
         "contains": [
@@ -6655,12 +6460,6 @@ title: Data:Bláa lónið
         ],
         "meaning": "it"
       },
-      "to6lqb": {
-        "contains": [
-          "w_1nio171"
-        ],
-        "meaning": "to"
-      },
       "twg43f": {
         "contains": [
           "w_1nio78"
@@ -6673,24 +6472,12 @@ title: Data:Bláa lónið
         ],
         "meaning": "is"
       },
-      "u2n3ql": {
-        "contains": [
-          "w_1nio180"
-        ],
-        "meaning": "know"
-      },
       "uq7ooa": {
         "contains": [
           "w_1nio7",
           "w_1nio8"
         ],
         "meaning": "looks"
-      },
-      "urwc7h": {
-        "contains": [
-          "w_1nio191"
-        ],
-        "meaning": "blue"
       },
       "uvagtd": {
         "contains": [
@@ -6703,18 +6490,6 @@ title: Data:Bláa lónið
           "w_1nio4"
         ],
         "meaning": "is"
-      },
-      "v4w05m": {
-        "contains": [
-          "w_1nio196"
-        ],
-        "meaning": "really"
-      },
-      "v6lh9h": {
-        "contains": [
-          "w_1nio188"
-        ],
-        "meaning": "my"
       },
       "vkjpa9": {
         "contains": [
@@ -6729,12 +6504,6 @@ title: Data:Bláa lónið
         "inline_translation": "silica",
         "meaning": "silica; silicon",
         "show_definition_above": true
-      },
-      "wlqhk1": {
-        "contains": [
-          "w_1nio225"
-        ],
-        "meaning": "to"
       },
       "wmf2c0": {
         "contains": [
@@ -6754,12 +6523,6 @@ title: Data:Bláa lónið
           "w_1nio165"
         ],
         "meaning": "absolutely, definitely"
-      },
-      "xotb67": {
-        "contains": [
-          "w_1nio193"
-        ],
-        "meaning": "is"
       },
       "xq4st6": {
         "contains": [
@@ -6792,12 +6555,6 @@ title: Data:Bláa lónið
           "w_1nio45"
         ],
         "meaning": "light blue"
-      },
-      "y7d8yy": {
-        "contains": [
-          "w_1nio169"
-        ],
-        "meaning": "one, you (impersonal)"
       },
       "yhgo8z": {
         "contains": [
@@ -6862,20 +6619,8 @@ title: Data:Bláa lónið
       "s_1nio161": {
         "meaning": "but it is definitely worth it."
       },
-      "s_1nio168": {
-        "meaning": "You need to buy a ticket with several weeks' notice."
-      },
-      "s_1nio178": {
-        "meaning": "I know this doesn't sound great from my description,"
-      },
-      "s_1nio189": {
-        "meaning": "but the Blue Lagoon is with all seriousness a really charming place."
-      },
       "s_1nio199": {
         "meaning": "There is something so cozy about being in this hot water out in the lava field."
-      },
-      "s_1nio214": {
-        "meaning": "This is the one tourist destination which I find absolutely worth it to visit."
       },
       "s_1nio24": {
         "meaning": "Keflavík Airport and the Blue Lagoon"
@@ -6969,43 +6714,14 @@ title: Data:Bláa lónið
       "w_1nio165": "xlg61y",
       "w_1nio166": "krkisk",
       "w_1nio167": "krkisk",
-      "w_1nio169": "y7d8yy",
       "w_1nio17": "1ov2exe",
-      "w_1nio170": "95zog2",
-      "w_1nio171": "to6lqb",
-      "w_1nio172": "135yl1c",
-      "w_1nio173": "1no5ibl",
-      "w_1nio174": "17z9hfq",
-      "w_1nio175": "1shgepz",
-      "w_1nio176": "2y4c1w",
-      "w_1nio177": "ngb9c5",
-      "w_1nio179": "1t3dhmz",
       "w_1nio18": "aqls8t",
-      "w_1nio180": "u2n3ql",
-      "w_1nio181": "4wn7jg",
-      "w_1nio182": "9cxp67",
-      "w_1nio183": "1j81uy6",
-      "w_1nio184": "1c0wq09",
-      "w_1nio185": "muwtt4",
-      "w_1nio186": "rb7bfv",
-      "w_1nio187": "257f8q",
-      "w_1nio188": "v6lh9h",
       "w_1nio19": "1pys5ek",
-      "w_1nio190": "a9pex8",
-      "w_1nio191": "urwc7h",
-      "w_1nio192": "d6mdvy",
-      "w_1nio193": "xotb67",
-      "w_1nio194": "1togtc4",
-      "w_1nio195": "1togtc4",
-      "w_1nio196": "v4w05m",
-      "w_1nio197": "1fn2xfv",
-      "w_1nio198": "bdnsg4",
       "w_1nio2": "z2a4me",
       "w_1nio20": "37d2ie",
       "w_1nio200": "mjee06",
       "w_1nio201": "ywwhev",
       "w_1nio202": "g2jyw4",
-      "w_1nio203": "sg22at",
       "w_1nio204": "14ho09u",
       "w_1nio205": "1gv63oj",
       "w_1nio206": "y0tl5s",
@@ -7017,19 +6733,7 @@ title: Data:Bláa lónið
       "w_1nio211": "1apswee",
       "w_1nio212": "12zch39",
       "w_1nio213": "14efnyc",
-      "w_1nio215": "1so2io2",
-      "w_1nio216": "1kxm3cx",
-      "w_1nio217": "1mcpa80",
-      "w_1nio218": "9osjgv",
-      "w_1nio219": "b3vqby",
       "w_1nio22": "1cyae5w",
-      "w_1nio220": "1w0utms",
-      "w_1nio221": "1w0utms",
-      "w_1nio222": "10bzl0m",
-      "w_1nio223": "dlu4v6",
-      "w_1nio224": "dlu4v6",
-      "w_1nio225": "wlqhk1",
-      "w_1nio226": "1ia97aa",
       "w_1nio25": "1h1qbo3",
       "w_1nio26": "5089tc",
       "w_1nio27": "rrjljl",

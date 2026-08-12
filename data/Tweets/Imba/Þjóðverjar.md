@@ -271,35 +271,17 @@ title: Data:Tweets/Imba/Þjóðverjar
         ],
         "meaning": "to have"
       },
-      "1fq7epk": {
-        "contains": [
-          "w_nq-z1t8nq_"
-        ],
-        "meaning": "to"
-      },
       "1hsvesr": {
         "contains": [
           "w_xGHBHstvxR"
         ],
         "meaning": "childish"
       },
-      "5hnmbl": {
-        "contains": [
-          "w_qGq5clCesD"
-        ],
-        "meaning": "be"
-      },
       "fff644": {
         "contains": [
           "w_MBMJOlaCiY"
         ],
         "meaning": "candy day"
-      },
-      "u8lnem": {
-        "contains": [
-          "w_u3VNOwm1qX"
-        ],
-        "meaning": "with "
       },
       "wx1vkm": {
         "contains": [

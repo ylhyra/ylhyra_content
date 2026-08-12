@@ -2660,12 +2660,6 @@ title: Data:Imba/ég veit
         ],
         "meaning": "there"
       },
-      "15tkebq": {
-        "contains": [
-          "w_1xdm29"
-        ],
-        "meaning": "threatean"
-      },
       "17cjvqi": {
         "contains": [
           "w_1xdm52"
@@ -2713,12 +2707,6 @@ title: Data:Imba/ég veit
           "w_1xdm82"
         ],
         "meaning": "and"
-      },
-      "1gqb9ta": {
-        "contains": [
-          "w_1xdm12"
-        ],
-        "meaning": "to"
       },
       "1hr9bk1": {
         "contains": [
@@ -2804,12 +2792,6 @@ title: Data:Imba/ég veit
           "w_1xdm10"
         ],
         "meaning": "is"
-      },
-      "1ve75vj": {
-        "contains": [
-          "w_1xdm2"
-        ],
-        "meaning": "know"
       },
       "1vu7ejx": {
         "contains": [
@@ -2949,12 +2931,6 @@ title: Data:Imba/ég veit
         ],
         "meaning": "as"
       },
-      "iy3nc7": {
-        "contains": [
-          "w_1xdm28"
-        ],
-        "meaning": "to"
-      },
       "kh04zv": {
         "contains": [
           "w_1xdm71"
@@ -2966,19 +2942,6 @@ title: Data:Imba/ég veit
           "w_1xdm47"
         ],
         "meaning": "the longing, yearning"
-      },
-      "m3kc6g": {
-        "contains": [
-          "w_1xdm14"
-        ],
-        "meaning": "with"
-      },
-      "mdgbtw": {
-        "contains": [
-          "w_1xdm12",
-          "w_1xdm13"
-        ],
-        "meaning": "to talk"
       },
       "nfgr9n": {
         "contains": [
@@ -2997,12 +2960,6 @@ title: Data:Imba/ég veit
           "w_1xdm21"
         ],
         "meaning": "to want"
-      },
-      "p20s4o": {
-        "contains": [
-          "w_1xdm36"
-        ],
-        "meaning": "to believe"
       },
       "pzqwmm": {
         "contains": [
@@ -3048,12 +3005,6 @@ title: Data:Imba/ég veit
         ],
         "meaning": "he"
       },
-      "wt85cf": {
-        "contains": [
-          "w_1xdm13"
-        ],
-        "meaning": "speak"
-      },
       "wwot49": {
         "contains": [
           "w_1xdm40"
@@ -3075,9 +3026,6 @@ title: Data:Imba/ég veit
     },
     "sentences": {
       "s_1tky0": {
-        "meaning": "I know"
-      },
-      "s_1xdm0": {
         "meaning": "I know"
       },
       "s_1xdm11": {
@@ -3132,7 +3080,6 @@ title: Data:Imba/ég veit
       "w_1xdm16": "8mrysq",
       "w_1xdm17": "1npb5ka",
       "w_1xdm18": "1npb5ka",
-      "w_1xdm2": "1ve75vj",
       "w_1xdm20": "233gmn",
       "w_1xdm21": "oyk7m6",
       "w_1xdm22": "115bslm",

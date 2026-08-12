@@ -5554,12 +5554,6 @@ title: Data:Sund
         ],
         "meaning": "lie"
       },
-      "150kunb": {
-        "contains": [
-          "w_1ohk153"
-        ],
-        "meaning": "to"
-      },
       "15wdxsn": {
         "contains": [
           "w_1ohk52"
@@ -5604,12 +5598,6 @@ title: Data:Sund
         ],
         "meaning": "with"
       },
-      "19k6b96": {
-        "contains": [
-          "w_1ohk39"
-        ],
-        "meaning": ""
-      },
       "19kmowd": {
         "contains": [
           "w_1ohk184"
@@ -5621,12 +5609,6 @@ title: Data:Sund
           "w_1ohk29"
         ],
         "meaning": "is"
-      },
-      "19tcsmo": {
-        "contains": [
-          "w_1ohk99"
-        ],
-        "meaning": "to"
       },
       "1al0lya": {
         "contains": [
@@ -5793,12 +5775,6 @@ title: Data:Sund
         ],
         "meaning": "around, about, circa"
       },
-      "1lm60v4": {
-        "contains": [
-          "w_1ohk154"
-        ],
-        "meaning": "need"
-      },
       "1lo8way": {
         "contains": [
           "w_1ohk183"
@@ -5829,12 +5805,6 @@ title: Data:Sund
         ],
         "meaning": "some, a few"
       },
-      "1oj36ci": {
-        "contains": [
-          "w_1ohk156"
-        ],
-        "meaning": "be"
-      },
       "1oqkzl": {
         "contains": [
           "w_1ohk166"
@@ -5864,12 +5834,6 @@ title: Data:Sund
           "w_1ohk168"
         ],
         "meaning": "on"
-      },
-      "1qfmfie": {
-        "contains": [
-          "w_1ohk143"
-        ],
-        "meaning": ""
       },
       "1sbzj2c": {
         "contains": [
@@ -5949,12 +5913,6 @@ title: Data:Sund
         "meaning": "króna (Icelandic currency)",
         "note": "the currency of Iceland"
       },
-      "1v77ajc": {
-        "contains": [
-          "w_1ohk80"
-        ],
-        "meaning": ""
-      },
       "1v8wi12": {
         "contains": [
           "w_1ohk161"
@@ -5979,18 +5937,6 @@ title: Data:Sund
           "w_1ohk84"
         ],
         "meaning": "in order to"
-      },
-      "1xbwt4k": {
-        "contains": [
-          "w_1ohk15"
-        ],
-        "meaning": "single"
-      },
-      "1xnvhpe": {
-        "contains": [
-          "w_1ohk112"
-        ],
-        "meaning": "chat"
       },
       "1xpyvsh": {
         "contains": [
@@ -6064,12 +6010,6 @@ title: Data:Sund
         ],
         "meaning": "one, you (impersonal)"
       },
-      "5jvn34": {
-        "contains": [
-          "w_1ohk176"
-        ],
-        "meaning": "to"
-      },
       "5nk3v6": {
         "contains": [
           "w_1ohk20"
@@ -6087,12 +6027,6 @@ title: Data:Sund
           "w_1ohk144"
         ],
         "meaning": "oneself"
-      },
-      "71vlep": {
-        "contains": [
-          "w_1ohk155"
-        ],
-        "meaning": "to"
       },
       "76m0uv": {
         "contains": [
@@ -6225,29 +6159,11 @@ title: Data:Sund
         "meaning": "chat",
         "show_definition_above": true
       },
-      "fmsyo1": {
-        "contains": [
-          "w_1ohk100"
-        ],
-        "meaning": "lie"
-      },
       "fsdox6": {
         "contains": [
           "w_1ohk192"
         ],
         "meaning": "completely"
-      },
-      "g6nwrl": {
-        "contains": [
-          "w_1ohk111"
-        ],
-        "meaning": "to"
-      },
-      "gopis0": {
-        "contains": [
-          "w_1ohk66"
-        ],
-        "meaning": ""
       },
       "h1z8fw": {
         "contains": [
@@ -6272,12 +6188,6 @@ title: Data:Sund
           "w_1ohk42"
         ],
         "meaning": "here"
-      },
-      "i7rfkl": {
-        "contains": [
-          "w_1ohk14"
-        ],
-        "meaning": "every"
       },
       "iu1u6b": {
         "contains": [
@@ -6454,13 +6364,6 @@ title: Data:Sund
         ],
         "meaning": "one, you (impersonal)"
       },
-      "u24850": {
-        "contains": [
-          "w_1ohk37"
-        ],
-        "direct": "more inexpensive",
-        "meaning": "cheaper"
-      },
       "v5tym6": {
         "contains": [
           "w_1ohk79"
@@ -6542,9 +6445,6 @@ title: Data:Sund
       },
       "s_1ohk188": {
         "meaning": "I think it's totally worth it."
-      },
-      "s_1ohk26": {
-        "meaning": "Hot water is cheaper in Iceland, so it is cheaper to have swimming pools here than elsewhere in Europe."
       },
       "s_1ohk48": {
         "meaning": "At swimming facilities, there is one big swimming pool and also some hot tubs."
@@ -6685,7 +6585,6 @@ title: Data:Sund
       "w_1ohk34": "104f8ki",
       "w_1ohk35": "1ebjugm",
       "w_1ohk36": "q6z61h",
-      "w_1ohk37": "u24850",
       "w_1ohk38": "95vlkl",
       "w_1ohk39": "95vlkl",
       "w_1ohk4": "scbb0k",

@@ -796,41 +796,11 @@ title: Data:Tweets/Ólafur/Ólæs
         "direct": "flyingly literate",
         "meaning": "able to read fluently"
       },
-      "1awf2cb": {
-        "contains": [
-          "w_1xk620"
-        ],
-        "meaning": "all"
-      },
-      "1dh6xv5": {
-        "contains": [
-          "w_1xk619"
-        ],
-        "meaning": "to, by"
-      },
       "1dnwm7x": {
         "contains": [
           "w_1xk615"
         ],
         "meaning": "am"
-      },
-      "1erpvlk": {
-        "contains": [
-          "w_1xk623"
-        ],
-        "meaning": "which"
-      },
-      "1hngxy5": {
-        "contains": [
-          "w_1xk626"
-        ],
-        "meaning": "my"
-      },
-      "1hqkrv4": {
-        "contains": [
-          "w_1xk618"
-        ],
-        "meaning": "speak"
       },
       "1hxag7w": {
         "contains": [
@@ -857,18 +827,6 @@ title: Data:Tweets/Ólafur/Ólæs
           "w_1xk619"
         ],
         "meaning": "speak to"
-      },
-      "2s1a2": {
-        "contains": [
-          "w_1xk621"
-        ],
-        "meaning": "kinds"
-      },
-      "2yj3fj": {
-        "contains": [
-          "w_1xk624"
-        ],
-        "meaning": "on"
       },
       "7o1mwo": {
         "contains": [
@@ -918,12 +876,6 @@ title: Data:Tweets/Ólafur/Ólæs
           "w_1xk622"
         ],
         "meaning": "(of) people"
-      },
-      "r604ce": {
-        "contains": [
-          "w_1xk625"
-        ],
-        "meaning": "way"
       },
       "sxunpc": {
         "contains": [

@@ -1101,12 +1101,6 @@ title: Data:Villi Neto/Reiður á innsoginu
         ],
         "meaning": "to do"
       },
-      "18aecp7": {
-        "contains": [
-          "w_zxfi29"
-        ],
-        "meaning": "almost"
-      },
       "1cmhwj9": {
         "contains": [
           "w_zxfi5"
@@ -1181,23 +1175,11 @@ title: Data:Villi Neto/Reiður á innsoginu
         "direct": "on the inhalation",
         "meaning": "while gasping, while inhaling"
       },
-      "1pbdtbh": {
-        "contains": [
-          "w_1s6f2"
-        ],
-        "meaning": "on"
-      },
       "1qvd2i9": {
         "contains": [
           "w_zxfi1"
         ],
         "meaning": "and"
-      },
-      "1tor6o8": {
-        "contains": [
-          "w_zxfi19"
-        ],
-        "meaning": "t"
       },
       "1wldf8h": {
         "contains": [

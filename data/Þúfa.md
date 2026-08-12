@@ -20629,12 +20629,6 @@ title: Data:Þúfa
         ],
         "meaning": "before"
       },
-      "10mmt3m": {
-        "contains": [
-          "w_13i774"
-        ],
-        "meaning": "where"
-      },
       "10ondjw": {
         "contains": [
           "w_13i795",
@@ -20654,18 +20648,6 @@ title: Data:Þúfa
           "w_13i7209"
         ],
         "meaning": "when"
-      },
-      "122n4dt": {
-        "contains": [
-          "w_13i733"
-        ],
-        "meaning": "all place(s)"
-      },
-      "12b385c": {
-        "contains": [
-          "w_13i7221"
-        ],
-        "meaning": "with"
       },
       "12br3yv": {
         "contains": [
@@ -20698,24 +20680,11 @@ title: Data:Þúfa
         ],
         "meaning": "it"
       },
-      "13wvja": {
-        "contains": [
-          "w_13i761",
-          "w_13i762"
-        ],
-        "meaning": "left behind"
-      },
       "13zc4kn": {
         "contains": [
           "w_13i7152"
         ],
         "meaning": "the ciy"
-      },
-      "144te3l": {
-        "contains": [
-          "w_13i7198"
-        ],
-        "meaning": "where"
       },
       "14w5dl2": {
         "contains": [
@@ -20729,12 +20698,6 @@ title: Data:Þúfa
         ],
         "meaning": "that, which"
       },
-      "14whuk4": {
-        "contains": [
-          "w_13i763"
-        ],
-        "meaning": "itself"
-      },
       "15vp84l": {
         "contains": [
           "w_13i7136"
@@ -20746,12 +20709,6 @@ title: Data:Þúfa
           "w_13i716"
         ],
         "meaning": "takes"
-      },
-      "16dh4yo": {
-        "contains": [
-          "w_13i7111"
-        ],
-        "meaning": "because of"
       },
       "16tvs91": {
         "contains": [
@@ -20802,12 +20759,6 @@ title: Data:Þúfa
         ],
         "meaning": "earth hummock"
       },
-      "18in8i5": {
-        "contains": [
-          "w_13i7185"
-        ],
-        "meaning": "without"
-      },
       "18ku2uj": {
         "contains": [
           "w_13i7219"
@@ -20839,12 +20790,6 @@ title: Data:Þúfa
         ],
         "meaning": "to see"
       },
-      "19dv16o": {
-        "contains": [
-          "w_13i7203"
-        ],
-        "meaning": "like, as if"
-      },
       "19rcp0k": {
         "contains": [
           "w_13i7198",
@@ -20857,12 +20802,6 @@ title: Data:Þúfa
           "w_13i7206"
         ],
         "meaning": "(the) old"
-      },
-      "1a27zps": {
-        "contains": [
-          "w_13i732"
-        ],
-        "meaning": "all place(s)"
       },
       "1a6zarn": {
         "contains": [
@@ -20888,23 +20827,11 @@ title: Data:Þúfa
         ],
         "meaning": "out"
       },
-      "1bt9l50": {
-        "contains": [
-          "w_13i7104"
-        ],
-        "meaning": "go"
-      },
       "1byx03q": {
         "contains": [
           "w_13i7142"
         ],
         "meaning": "is"
-      },
-      "1c4eg5c": {
-        "contains": [
-          "w_13i7188"
-        ],
-        "meaning": "falling"
       },
       "1ckkcdi": {
         "contains": [
@@ -20918,12 +20845,6 @@ title: Data:Þúfa
           "w_13i7190"
         ],
         "meaning": "up"
-      },
-      "1crq1cw": {
-        "contains": [
-          "w_13i7230"
-        ],
-        "meaning": "around"
       },
       "1cvrqho": {
         "contains": [
@@ -20997,12 +20918,6 @@ title: Data:Þúfa
         ],
         "meaning": "that"
       },
-      "1fh5aqa": {
-        "contains": [
-          "w_13i756"
-        ],
-        "meaning": "sink, descend"
-      },
       "1fpuyih": {
         "contains": [
           "w_13i791"
@@ -21037,12 +20952,6 @@ title: Data:Þúfa
         ],
         "direct": "to go carefully",
         "meaning": "to be careful"
-      },
-      "1h9r3lv": {
-        "contains": [
-          "w_13i7222"
-        ],
-        "meaning": "that"
       },
       "1hesp46": {
         "contains": [
@@ -21100,24 +21009,6 @@ title: Data:Þúfa
         ],
         "meaning": "frozen"
       },
-      "1mr2t6g": {
-        "contains": [
-          "w_13i781"
-        ],
-        "meaning": "gradually"
-      },
-      "1myo13e": {
-        "contains": [
-          "w_13i7128"
-        ],
-        "meaning": "looks"
-      },
-      "1njgrld": {
-        "contains": [
-          "w_13i755"
-        ],
-        "meaning": "to"
-      },
       "1no0003": {
         "contains": [
           "w_13i7121"
@@ -21149,30 +21040,6 @@ title: Data:Þúfa
         ],
         "meaning": "of"
       },
-      "1on1rog": {
-        "contains": [
-          "w_13i7199"
-        ],
-        "meaning": "which"
-      },
-      "1p5xgom": {
-        "contains": [
-          "w_13i761"
-        ],
-        "meaning": "understood"
-      },
-      "1pkd3k1": {
-        "contains": [
-          "w_13i7145"
-        ],
-        "meaning": "see"
-      },
-      "1pq0iir": {
-        "contains": [
-          "w_13i7103"
-        ],
-        "meaning": "to"
-      },
       "1q4ao2e": {
         "contains": [
           "w_13i770"
@@ -21198,12 +21065,6 @@ title: Data:Þúfa
           "w_1ntv236"
         ],
         "meaning": "by"
-      },
-      "1qr6iv3": {
-        "contains": [
-          "w_13i797"
-        ],
-        "meaning": "everything"
       },
       "1r04jj1": {
         "contains": [
@@ -21243,12 +21104,6 @@ title: Data:Þúfa
         ],
         "meaning": "is"
       },
-      "1s5f2h3": {
-        "contains": [
-          "w_13i7204"
-        ],
-        "meaning": "like, as if"
-      },
       "1t3wkzl": {
         "contains": [
           "w_13i743",
@@ -21274,12 +21129,6 @@ title: Data:Þúfa
         ],
         "meaning": "drying"
       },
-      "1tqaslq": {
-        "contains": [
-          "w_13i7186"
-        ],
-        "meaning": "(of) it"
-      },
       "1ukom9c": {
         "contains": [
           "w_13i745"
@@ -21292,12 +21141,6 @@ title: Data:Þúfa
           "w_13i7194"
         ],
         "meaning": ""
-      },
-      "1v0zhyh": {
-        "contains": [
-          "w_13i7118"
-        ],
-        "meaning": "slip"
       },
       "1vj1tn4": {
         "contains": [
@@ -21414,12 +21257,6 @@ title: Data:Þúfa
         ],
         "meaning": "one, a person (impersonal)"
       },
-      "1yqrkpq": {
-        "contains": [
-          "w_13i796"
-        ],
-        "meaning": "during"
-      },
       "24c0t0": {
         "contains": [
           "w_13i736"
@@ -21495,12 +21332,6 @@ title: Data:Þúfa
         ],
         "meaning": "with"
       },
-      "5tc8o3": {
-        "contains": [
-          "w_13i7130"
-        ],
-        "meaning": "like, as if"
-      },
       "5tlwep": {
         "contains": [
           "w_13i788"
@@ -21532,12 +21363,6 @@ title: Data:Þúfa
         ],
         "meaning": "in"
       },
-      "7170bz": {
-        "contains": [
-          "w_13i7178"
-        ],
-        "meaning": "to"
-      },
       "72tc7": {
         "contains": [
           "w_13i7226"
@@ -21549,12 +21374,6 @@ title: Data:Þúfa
           "w_13i7197"
         ],
         "meaning": "shed"
-      },
-      "7ryzlp": {
-        "contains": [
-          "w_13i795"
-        ],
-        "meaning": "out"
       },
       "7staz1": {
         "contains": [
@@ -21582,13 +21401,6 @@ title: Data:Þúfa
           "w_13i78"
         ],
         "meaning": "the ground, the earth"
-      },
-      "9zruf3": {
-        "contains": [
-          "w_13i779"
-        ],
-        "direct": "then",
-        "meaning": "in addition"
       },
       "ailo7a": {
         "contains": [
@@ -21640,37 +21452,12 @@ title: Data:Þúfa
         ],
         "meaning": "the giant"
       },
-      "cqgg0x": {
-        "contains": [
-          "w_13i7154"
-        ],
-        "meaning": "beside, next to"
-      },
       "cu3903": {
         "contains": [
           "w_13i764"
         ],
         "direct": "of",
         "meaning": "with"
-      },
-      "cvj2zm": {
-        "contains": [
-          "w_13i7103",
-          "w_13i7104"
-        ],
-        "meaning": "to go"
-      },
-      "cw41ib": {
-        "contains": [
-          "w_13i7112"
-        ],
-        "meaning": "(of) it"
-      },
-      "e00kl1": {
-        "contains": [
-          "w_13i751"
-        ],
-        "meaning": "before"
       },
       "esh529": {
         "contains": [
@@ -21690,12 +21477,6 @@ title: Data:Þúfa
         ],
         "direct": "on",
         "meaning": "of"
-      },
-      "f5t5oy": {
-        "contains": [
-          "w_13i712"
-        ],
-        "meaning": "which"
       },
       "fetzlc": {
         "contains": [
@@ -21727,12 +21508,6 @@ title: Data:Þúfa
         ],
         "meaning": "is"
       },
-      "gi3tk8": {
-        "contains": [
-          "w_13i7119"
-        ],
-        "meaning": "herself"
-      },
       "h0zike": {
         "contains": [
           "w_13i769"
@@ -21763,12 +21538,6 @@ title: Data:Þúfa
         ],
         "meaning": "to"
       },
-      "hmh4n9": {
-        "contains": [
-          "w_13i7105"
-        ],
-        "meaning": "carefully"
-      },
       "hs4jlz": {
         "contains": [
           "w_13i7143"
@@ -21781,24 +21550,6 @@ title: Data:Þúfa
           "w_13i778"
         ],
         "meaning": "freezes"
-      },
-      "i2bhn9": {
-        "contains": [
-          "w_13i762"
-        ],
-        "meaning": "after"
-      },
-      "jexvlj": {
-        "contains": [
-          "w_13i735"
-        ],
-        "meaning": "that"
-      },
-      "kq1i2o": {
-        "contains": [
-          "w_13i7144"
-        ],
-        "meaning": "to"
       },
       "kvox1e": {
         "contains": [
@@ -21848,12 +21599,6 @@ title: Data:Þúfa
         ],
         "meaning": "and"
       },
-      "n84mk1": {
-        "contains": [
-          "w_13i711"
-        ],
-        "meaning": "where"
-      },
       "nx9gf5": {
         "contains": [
           "w_13i7132"
@@ -21872,12 +21617,6 @@ title: Data:Þúfa
         ],
         "meaning": "that, which"
       },
-      "ovr1jv": {
-        "contains": [
-          "w_13i782"
-        ],
-        "meaning": "together"
-      },
       "p386e5": {
         "contains": [
           "w_13i748"
@@ -21895,12 +21634,6 @@ title: Data:Þúfa
           "w_13i729"
         ],
         "meaning": "not"
-      },
-      "qbkm1u": {
-        "contains": [
-          "w_13i7131"
-        ],
-        "meaning": "like, as if"
       },
       "qg5jqu": {
         "contains": [
@@ -21932,19 +21665,6 @@ title: Data:Þúfa
         ],
         "meaning": "water"
       },
-      "reir4m": {
-        "contains": [
-          "w_13i734"
-        ],
-        "direct": "then",
-        "meaning": "in addition"
-      },
-      "rjfdpq": {
-        "contains": [
-          "w_13i7179"
-        ],
-        "meaning": "run"
-      },
       "rzkdhd": {
         "contains": [
           "w_13i7202"
@@ -21958,23 +21678,11 @@ title: Data:Þúfa
         ],
         "meaning": "to run"
       },
-      "sn1xkj": {
-        "contains": [
-          "w_13i775"
-        ],
-        "meaning": "every time"
-      },
       "sns94g": {
         "contains": [
           "w_13i789"
         ],
         "meaning": "mounds, hills"
-      },
-      "suj2et": {
-        "contains": [
-          "w_13i773"
-        ],
-        "meaning": "into"
       },
       "tm5gi8": {
         "contains": [
@@ -22032,35 +21740,11 @@ title: Data:Þúfa
         ],
         "meaning": "again"
       },
-      "wwkbqf": {
-        "contains": [
-          "w_13i7170"
-        ],
-        "meaning": "how"
-      },
-      "x8otls": {
-        "contains": [
-          "w_13i7155"
-        ],
-        "meaning": "on"
-      },
       "xb5oaw": {
         "contains": [
           "w_13i79"
         ],
         "meaning": "freezes"
-      },
-      "xecf36": {
-        "contains": [
-          "w_13i7113"
-        ],
-        "meaning": "that"
-      },
-      "xsmoln": {
-        "contains": [
-          "w_13i7129"
-        ],
-        "meaning": "out"
       },
       "xu12bp": {
         "contains": [
@@ -22080,12 +21764,6 @@ title: Data:Þúfa
         ],
         "meaning": "try"
       },
-      "zjic3z": {
-        "contains": [
-          "w_13i7187"
-        ],
-        "meaning": "that"
-      },
       "znyfsr": {
         "contains": [
           "w_13i793"
@@ -22103,12 +21781,6 @@ title: Data:Þúfa
           "w_13i77"
         ],
         "meaning": "in"
-      },
-      "zwwggp": {
-        "contains": [
-          "w_13i780"
-        ],
-        "meaning": "that"
       }
     },
     "sentences": {

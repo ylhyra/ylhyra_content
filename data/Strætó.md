@@ -4864,12 +4864,6 @@ title: Data:Strætó
   ],
   "translation": {
     "definitions": {
-      "10stej5": {
-        "contains": [
-          "w_m3id87"
-        ],
-        "meaning": "on"
-      },
       "11bcm85": {
         "contains": [
           "w_m3id162",
@@ -4976,12 +4970,6 @@ title: Data:Strætó
         ],
         "meaning": "neither"
       },
-      "18mfcu6": {
-        "contains": [
-          "w_m3id22"
-        ],
-        "meaning": "shorten"
-      },
       "18r22pa": {
         "contains": [
           "w_m3id123"
@@ -5002,12 +4990,6 @@ title: Data:Strætó
         ],
         "meaning": "towns"
       },
-      "1beo1x7": {
-        "contains": [
-          "w_m3id50"
-        ],
-        "meaning": "themselves"
-      },
       "1bgnfdh": {
         "contains": [
           "w_m3id29"
@@ -5027,12 +5009,6 @@ title: Data:Strætó
         ],
         "meaning": "somewhat, fairly"
       },
-      "1d8p7jc": {
-        "contains": [
-          "w_m3id107"
-        ],
-        "meaning": "to"
-      },
       "1dgbnxe": {
         "contains": [
           "w_m3id127",
@@ -5047,12 +5023,6 @@ title: Data:Strætó
           "w_m3id101"
         ],
         "meaning": "Iceland"
-      },
-      "1e2sqhz": {
-        "contains": [
-          "w_m3id108"
-        ],
-        "meaning": "buy"
       },
       "1ewr86n": {
         "contains": [
@@ -5072,12 +5042,6 @@ title: Data:Strætó
           "w_m3id35"
         ],
         "meaning": "trains"
-      },
-      "1ffdij0": {
-        "contains": [
-          "w_m3id130"
-        ],
-        "meaning": "unexpected, inadvertent"
       },
       "1fh1yjf": {
         "contains": [
@@ -5103,12 +5067,6 @@ title: Data:Strætó
           "w_m3id48"
         ],
         "meaning": "trains"
-      },
-      "1i9hvz": {
-        "contains": [
-          "w_m3id155"
-        ],
-        "meaning": "buy"
       },
       "1j1824f": {
         "contains": [
@@ -5154,12 +5112,6 @@ title: Data:Strætó
           "w_m3id155"
         ],
         "meaning": "buy"
-      },
-      "1mdc1d9": {
-        "contains": [
-          "w_m3id164"
-        ],
-        "meaning": "to"
       },
       "1mdhiw8": {
         "contains": [
@@ -5211,23 +5163,11 @@ title: Data:Strætó
         ],
         "meaning": "as"
       },
-      "1p39t8i": {
-        "contains": [
-          "w_m3id158"
-        ],
-        "meaning": "to"
-      },
       "1pqxzak": {
         "contains": [
           "w_m3id2"
         ],
         "meaning": "is"
-      },
-      "1qpho2y": {
-        "contains": [
-          "w_m3id127"
-        ],
-        "meaning": "comes"
       },
       "1r0l34q": {
         "contains": [
@@ -5241,12 +5181,6 @@ title: Data:Strætó
           "w_m3id88"
         ],
         "meaning": "in the countryside; outside of Reykjavík"
-      },
-      "1t2avw6": {
-        "contains": [
-          "w_m3id80"
-        ],
-        "meaning": "to"
       },
       "1usada": {
         "contains": [
@@ -5412,18 +5346,6 @@ title: Data:Strætó
         ],
         "meaning": "to take"
       },
-      "79ytyx": {
-        "contains": [
-          "w_m3id70"
-        ],
-        "meaning": "to"
-      },
-      "7c4d1v": {
-        "contains": [
-          "w_m3id49"
-        ],
-        "meaning": "pay"
-      },
       "7hhdag": {
         "contains": [
           "w_m3id170"
@@ -5474,13 +5396,6 @@ title: Data:Strætó
         ],
         "meaning": "places"
       },
-      "buwr7n": {
-        "contains": [
-          "w_m3id159"
-        ],
-        "direct": "to fetch",
-        "meaning": "visit"
-      },
       "c7y1fs": {
         "contains": [
           "w_m3id116"
@@ -5524,24 +5439,6 @@ title: Data:Strætó
         ],
         "meaning": "very"
       },
-      "effw4p": {
-        "contains": [
-          "w_m3id124"
-        ],
-        "meaning": "debit card"
-      },
-      "etuqjc": {
-        "contains": [
-          "w_m3id71"
-        ],
-        "meaning": "take"
-      },
-      "f4oxvt": {
-        "contains": [
-          "w_m3id135"
-        ],
-        "meaning": "to"
-      },
       "fyp8x6": {
         "contains": [
           "w_m3id17",
@@ -5573,12 +5470,6 @@ title: Data:Strætó
         ],
         "meaning": "it"
       },
-      "i5stg7": {
-        "contains": [
-          "w_m3id81"
-        ],
-        "meaning": "take"
-      },
       "iloj0q": {
         "contains": [
           "w_m3id107",
@@ -5591,12 +5482,6 @@ title: Data:Strætó
           "w_m3id42"
         ],
         "meaning": "many"
-      },
-      "kkgyvx": {
-        "contains": [
-          "w_m3id21"
-        ],
-        "meaning": "to"
       },
       "kqx9tn": {
         "contains": [
@@ -5716,24 +5601,12 @@ title: Data:Strætó
         ],
         "meaning": "money"
       },
-      "powh3e": {
-        "contains": [
-          "w_m3id136"
-        ],
-        "meaning": "pay"
-      },
       "qe2k6c": {
         "contains": [
           "w_m3id52",
           "w_m3id53"
         ],
         "meaning": "so"
-      },
-      "r9sw2z": {
-        "contains": [
-          "w_m3id162"
-        ],
-        "meaning": "be"
       },
       "rcfz0a": {
         "contains": [
@@ -5752,12 +5625,6 @@ title: Data:Strætó
           "w_m3id115"
         ],
         "meaning": "not"
-      },
-      "t5xgq": {
-        "contains": [
-          "w_m3id163"
-        ],
-        "meaning": "done, finished"
       },
       "twczuu": {
         "contains": [
@@ -5784,12 +5651,6 @@ title: Data:Strætó
           "w_m3id103"
         ],
         "meaning": "it"
-      },
-      "vwp2r0": {
-        "contains": [
-          "w_m3id165"
-        ],
-        "meaning": "pay"
       },
       "w09k17": {
         "contains": [
@@ -5818,18 +5679,6 @@ title: Data:Strætó
         ],
         "meaning": "to fetch, to download"
       },
-      "y01why": {
-        "contains": [
-          "w_m3id118"
-        ],
-        "meaning": "show up"
-      },
-      "y0p1e1": {
-        "contains": [
-          "w_m3id117"
-        ],
-        "meaning": "to"
-      },
       "y19fmn": {
         "contains": [
           "w_m3id67"
@@ -5849,23 +5698,11 @@ title: Data:Strætó
         "meaning": "bus",
         "note": "Short for \"strætisvagn\""
       },
-      "yyzz7i": {
-        "contains": [
-          "w_m3id88"
-        ],
-        "meaning": "land"
-      },
       "zeb4je": {
         "contains": [
           "w_m3id62"
         ],
         "meaning": "is"
-      },
-      "zm9rce": {
-        "contains": [
-          "w_m3id167"
-        ],
-        "note": "The word means \"but\", but in written language it is sometimes used to mean \"and\" to add context to a previous sentence"
       }
     },
     "sentences": {
@@ -5874,9 +5711,6 @@ title: Data:Strætó
       },
       "s_m3id102": {
         "meaning": "It is a little complicated to buy a bus ticket."
-      },
-      "s_m3id112": {
-        "meaning": "It is not possible to arrive on the bus and pay by debit card,"
       },
       "s_m3id125": {
         "meaning": "that surprises many."
@@ -5942,7 +5776,6 @@ title: Data:Strætó
       "w_m3id121": "151he3w",
       "w_m3id122": "6kzcf",
       "w_m3id123": "18r22pa",
-      "w_m3id124": "effw4p",
       "w_m3id126": "i50kq3",
       "w_m3id127": "1dgbnxe",
       "w_m3id128": "15mrdyd",

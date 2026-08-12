@@ -1263,23 +1263,11 @@ title: Data:Imba/áferð og flug
         ],
         "meaning": "1. ecstatic, very happy 2. in the clouds"
       },
-      "1d3q7t9": {
-        "contains": [
-          "w_5s1p43"
-        ],
-        "meaning": ""
-      },
       "1g6kanh": {
         "contains": [
           "w_5s1p34"
         ],
         "meaning": "war"
-      },
-      "1h9e27m": {
-        "contains": [
-          "w_5s1p8"
-        ],
-        "meaning": "the clouds"
       },
       "1jfiny0": {
         "contains": [
@@ -1310,12 +1298,6 @@ title: Data:Imba/áferð og flug
           "w_5s1p41"
         ],
         "meaning": "loved"
-      },
-      "1p3bev1": {
-        "contains": [
-          "w_5s1p7"
-        ],
-        "meaning": "in"
       },
       "1t12z9c": {
         "contains": [
@@ -1366,12 +1348,6 @@ title: Data:Imba/áferð og flug
         ],
         "meaning": "was"
       },
-      "a7fep4": {
-        "contains": [
-          "w_5s1p20"
-        ],
-        "meaning": "back"
-      },
       "a8wsh9": {
         "contains": [
           "w_5s1p16"
@@ -1414,13 +1390,6 @@ title: Data:Imba/áferð og flug
           "w_5s1p30"
         ],
         "meaning": "and "
-      },
-      "up8810": {
-        "contains": [
-          "w_5s1p18",
-          "w_5s1p19"
-        ],
-        "meaning": "recline"
       },
       "utadfz": {
         "contains": [

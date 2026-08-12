@@ -1541,12 +1541,6 @@ title: Data:Villi Neto/Lýsi
         "direct": "visor-cap",
         "meaning": "baseball cap"
       },
-      "dl7vks": {
-        "contains": [
-          "w_glfx26"
-        ],
-        "meaning": "is"
-      },
       "eak2u2": {
         "contains": [
           "w_glfx20"
@@ -1577,19 +1571,6 @@ title: Data:Villi Neto/Lýsi
           "w_glfx14"
         ],
         "meaning": "it"
-      },
-      "t2hn6l": {
-        "contains": [
-          "w_glfx9",
-          "w_glfx10"
-        ],
-        "meaning": "I want"
-      },
-      "v5k9jm": {
-        "contains": [
-          "w_glfx28"
-        ],
-        "meaning": "wi"
       },
       "vng7mm": {
         "contains": [

@@ -40985,12 +40985,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "both"
       },
-      "10m4l66": {
-        "contains": [
-          "w_07QbJbv1372n"
-        ],
-        "meaning": "to st"
-      },
       "10mqhb8": {
         "contains": [
           "w_mP7OCbKmA8dv"
@@ -41076,12 +41070,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_jIWyEvx2MO-Y"
         ],
         "meaning": "streets"
-      },
-      "11fo8ax": {
-        "contains": [
-          "w_VuyDEBBDBsBh"
-        ],
-        "meaning": "wi"
       },
       "11l406n": {
         "contains": [
@@ -41284,12 +41272,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "that"
       },
-      "13sxfnp": {
-        "contains": [
-          "w_qY_6BuJZL64"
-        ],
-        "meaning": "offe"
-      },
       "13t20cj": {
         "contains": [
           "w_7TXAVo7QlA1W"
@@ -41352,12 +41334,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_ewUVyPRvpsTB"
         ],
         "meaning": "before, ago"
-      },
-      "148lz9q": {
-        "contains": [
-          "w_S1c50LJEocNF"
-        ],
-        "meaning": "in"
       },
       "148mtce": {
         "contains": [
@@ -41431,14 +41407,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_6kgipx-IZRZA"
         ],
         "meaning": "empty"
-      },
-      "157j0v0": {
-        "contains": [
-          "w_qiyI_yL5GS3",
-          "w_82CBXm7mDJc"
-        ],
-        "direct": "we are come with",
-        "meaning": "have gotten"
       },
       "158e9sw": {
         "contains": [
@@ -41518,18 +41486,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "which"
       },
-      "15njoec": {
-        "contains": [
-          "w_eQEa6vs0Rtk7"
-        ],
-        "meaning": "were"
-      },
-      "15oapj": {
-        "contains": [
-          "w_TTU7MOSgWG5k"
-        ],
-        "meaning": "si"
-      },
       "15q7nqc": {
         "contains": [
           "w_P_WVMj5vdfA"
@@ -41548,23 +41504,11 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "the cliff"
       },
-      "15vh0q0": {
-        "contains": [
-          "w_Htr3m3Wbq_ro"
-        ],
-        "meaning": "offers"
-      },
       "15web3w": {
         "contains": [
           "w_XLKf_ZXFt5g5"
         ],
         "meaning": "lyrics"
-      },
-      "15xjcno": {
-        "contains": [
-          "w_sYQlcJzAmLjw"
-        ],
-        "meaning": "for"
       },
       "15xov1j": {
         "contains": [
@@ -41767,12 +41711,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_MDu1kklCn0Ni"
         ],
         "meaning": "was allowed to"
-      },
-      "17uwf5n": {
-        "contains": [
-          "w_Y4W5ZPMPm-oa"
-        ],
-        "meaning": "stoo"
       },
       "17x1yro": {
         "contains": [
@@ -42129,12 +42067,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "year old"
       },
-      "1cam3el": {
-        "contains": [
-          "w_CF-KAQyzzzhh"
-        ],
-        "meaning": "read"
-      },
       "1caofry": {
         "contains": [
           "w_D02xCdxeVpCR"
@@ -42321,13 +42253,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "went"
       },
-      "1dpcj3s": {
-        "contains": [
-          "w_zd_T_m7inyl6",
-          "w_xInIIfZK5JZD"
-        ],
-        "meaning": "to"
-      },
       "1drq1p2": {
         "contains": [
           "w_P13BFd8u7mxf"
@@ -42469,12 +42394,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "but"
       },
-      "1ey2rwr": {
-        "contains": [
-          "w_s0bwkr7N-X1T"
-        ],
-        "meaning": "on"
-      },
       "1f000p0": {
         "contains": [
           "w_rhTrkA-ZRdKU"
@@ -42508,12 +42427,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "into"
       },
-      "1fayrkx": {
-        "contains": [
-          "w_cYk1VJoOgKFZ"
-        ],
-        "meaning": "that"
-      },
       "1fcj1qr": {
         "contains": [
           "w_2rfG-0-Elldn"
@@ -42537,13 +42450,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_i0kHbW5vPJRB"
         ],
         "meaning": "will be"
-      },
-      "1fuh12t": {
-        "contains": [
-          "w_FK8-tSCJC18",
-          "w_8yOpVwvRgBR"
-        ],
-        "meaning": "t"
       },
       "1fuuhrp": {
         "contains": [
@@ -42829,12 +42735,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_pBtsOrdfoEj6"
         ],
         "meaning": "blue"
-      },
-      "1i2qdtj": {
-        "contains": [
-          "w_pGLGV_h1Bhq-"
-        ],
-        "meaning": "for"
       },
       "1i69dym": {
         "contains": [
@@ -43258,12 +43158,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_snKn2pAxXv5o"
         ],
         "meaning": "hot tubs"
-      },
-      "1me057h": {
-        "contains": [
-          "w_duSv_iLv86s5"
-        ],
-        "meaning": "stood"
       },
       "1mi70bn": {
         "contains": [
@@ -43859,12 +43753,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "we"
       },
-      "1sz7g2r": {
-        "contains": [
-          "w_Sipgcrq5KbOP"
-        ],
-        "meaning": "a"
-      },
       "1t0niz1": {
         "contains": [
           "w_pwQfgXU7EGV9"
@@ -43912,12 +43800,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "constant"
       },
-      "1tbp207": {
-        "contains": [
-          "w_Zs4sEh20oTp"
-        ],
-        "meaning": "t"
-      },
       "1tcsg4w": {
         "contains": [
           "w_G_FHgpPRR0nR"
@@ -43929,13 +43811,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_mt6vF0--lfyj"
         ],
         "meaning": "from"
-      },
-      "1tlhh3y": {
-        "contains": [
-          "w_qF3Dfzmcjlsb",
-          "w__mTK-QL_iWTv"
-        ],
-        "meaning": "sheak"
       },
       "1tnw7g1": {
         "contains": [
@@ -43974,13 +43849,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_hAqKCvTq6ePO"
         ],
         "meaning": "much"
-      },
-      "1u1b6tj": {
-        "contains": [
-          "w_lLMPmT8ZkL8f",
-          "w_uA0laeogs5rm"
-        ],
-        "meaning": "remind about"
       },
       "1u4waui": {
         "contains": [
@@ -44142,12 +44010,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "for"
       },
-      "1vs4agb": {
-        "contains": [
-          "w_gvLM6sYwCRS_"
-        ],
-        "meaning": "t"
-      },
       "1vt58sg": {
         "contains": [
           "w_34BkqSZTeptn"
@@ -44177,12 +44039,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_0nncwhLukJm"
         ],
         "meaning": "of the fjords"
-      },
-      "1w803yt": {
-        "contains": [
-          "w_q66KLhyBjzm"
-        ],
-        "meaning": "were"
       },
       "1w9y1lk": {
         "contains": [
@@ -44350,12 +44206,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "people"
       },
-      "1yhe2us": {
-        "contains": [
-          "w_ss1S_-xGS1XL"
-        ],
-        "meaning": "look"
-      },
       "1yoi6ba": {
         "contains": [
           "w_Jrmp65UrEVLe"
@@ -44375,12 +44225,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_dgjEWc1xjUx8"
         ],
         "meaning": "received us, welcomed us"
-      },
-      "1yv2f5v": {
-        "contains": [
-          "w_SceBsz4rF5wR"
-        ],
-        "meaning": "unt"
       },
       "1yvfijs": {
         "contains": [
@@ -44506,12 +44350,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "us"
       },
-      "2zfdcx": {
-        "contains": [
-          "w_uKurTrAyUrL"
-        ],
-        "meaning": "we"
-      },
       "34g141": {
         "contains": [
           "w_EaVI7p0wlCnV"
@@ -44541,13 +44379,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_sQ4TwE8IclH"
         ],
         "meaning": "we"
-      },
-      "3incia": {
-        "contains": [
-          "w_YkGGP1Bg59Iy",
-          "w_NUErROfHaiYS"
-        ],
-        "meaning": "to"
       },
       "3nw13i": {
         "contains": [
@@ -44579,12 +44410,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_bjmRR2P4n4HY"
         ],
         "meaning": "Britain"
-      },
-      "3wuam6": {
-        "contains": [
-          "w_FkPYVtEWs4"
-        ],
-        "meaning": "hot, warm"
       },
       "3xbyrq": {
         "contains": [
@@ -44742,12 +44567,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_I0lGKVQsK8Tt"
         ],
         "meaning": "the view"
-      },
-      "5zkzjt": {
-        "contains": [
-          "w_wPmRhfprIPSj"
-        ],
-        "meaning": "the pants"
       },
       "60ugvd": {
         "contains": [
@@ -44949,15 +44768,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "announced"
       },
-      "7v4n32": {
-        "contains": [
-          "w_2yXIgCdn9gZ8",
-          "w_5ZDSJdvGZQFE",
-          "w_wPmRhfprIPSj"
-        ],
-        "direct": "",
-        "meaning": "extremely "
-      },
       "7vk33r": {
         "contains": [
           "w_GZsT0p3tgYLu"
@@ -45061,12 +44871,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "hot spring of Hörgshlíð"
       },
-      "8wq3jw": {
-        "contains": [
-          "w_EhOcfAYfrb5-"
-        ],
-        "meaning": "in"
-      },
       "8zzd8t": {
         "contains": [
           "w_d8BsIGwiCb2N"
@@ -45108,12 +44912,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_T4fn2bB_qZ2q"
         ],
         "meaning": "we"
-      },
-      "96pqvr": {
-        "contains": [
-          "w_X0MREm_nsue7"
-        ],
-        "meaning": "by"
       },
       "97uq4o": {
         "contains": [
@@ -45228,13 +45026,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "hot springs, warm pools"
       },
-      "a6lrux": {
-        "contains": [
-          "w_O_T7shX-OUpp",
-          "w_rZeSMQCFol6Y"
-        ],
-        "meaning": "to"
-      },
       "a80g6u": {
         "contains": [
           "w_we7JpD3ZuENW"
@@ -45276,13 +45067,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_1utxf0tjiKy7"
         ],
         "meaning": "picked up"
-      },
-      "aloaka": {
-        "contains": [
-          "w_PEWfJRLpO7-C",
-          "w_zqb7q8BTm4Te"
-        ],
-        "meaning": "to throw"
       },
       "amjon3": {
         "contains": [
@@ -45380,12 +45164,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_IX-ZCq9C5na"
         ],
         "meaning": "which"
-      },
-      "bn9gr8": {
-        "contains": [
-          "w_C8mjx-gyPodu"
-        ],
-        "meaning": "with"
       },
       "bntl5w": {
         "contains": [
@@ -45492,12 +45270,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "lives"
       },
-      "cisd50": {
-        "contains": [
-          "w_zHvIm6gx90dm"
-        ],
-        "meaning": "stories"
-      },
       "claqdk": {
         "contains": [
           "w_4sqIhTdL7zr",
@@ -45522,12 +45294,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_TmKKTYpW9gII"
         ],
         "meaning": "it"
-      },
-      "cyml4v": {
-        "contains": [
-          "w_9H5iwWyp-i9K"
-        ],
-        "meaning": "play"
       },
       "cyn8jc": {
         "contains": [
@@ -45622,12 +45388,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "could"
       },
-      "e9mdy9": {
-        "contains": [
-          "w_VQNUaZVviBoO"
-        ],
-        "meaning": "pla"
-      },
       "eg6x5p": {
         "contains": [
           "w_vJ_2fpfU9Yd"
@@ -45669,12 +45429,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_8MkJKxmeYVeX"
         ],
         "meaning": "that, which"
-      },
-      "ewbiyz": {
-        "contains": [
-          "w_xeMpFqpvPlOd"
-        ],
-        "meaning": "that"
       },
       "ewtpf3": {
         "contains": [
@@ -45770,12 +45524,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "is"
       },
-      "fsk7wq": {
-        "contains": [
-          "w_X3r5ZAETq4d"
-        ],
-        "meaning": "over"
-      },
       "fukhcj": {
         "contains": [
           "w_jdjb3nUloWu1"
@@ -45802,12 +45550,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_AAj05ZUbZk7"
         ],
         "meaning": "over to"
-      },
-      "g1nzie": {
-        "contains": [
-          "w_H5lzxhhb-3EA"
-        ],
-        "meaning": "to"
       },
       "g38k0": {
         "contains": [
@@ -45852,12 +45594,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_xBeiCEyvqIk1"
         ],
         "meaning": "to work"
-      },
-      "gmbtck": {
-        "contains": [
-          "w_HnaXeFFV75Tc"
-        ],
-        "meaning": "o"
       },
       "gmz7h3": {
         "contains": [
@@ -45920,12 +45656,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_bJ6rmim4WI9B"
         ],
         "meaning": "I"
-      },
-      "h9osb6": {
-        "contains": [
-          "w_lLMPmT8ZkL8f"
-        ],
-        "meaning": "remind"
       },
       "h9t45h": {
         "contains": [
@@ -46045,12 +45775,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_fRNXxjBUJPWl"
         ],
         "meaning": "been"
-      },
-      "i4chci": {
-        "contains": [
-          "w_5m4_1QvLzgZQ"
-        ],
-        "meaning": "me"
       },
       "i4s3yl": {
         "contains": [
@@ -46247,12 +45971,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "it"
       },
-      "khpg7x": {
-        "contains": [
-          "w_FTVSCCyrwAiS"
-        ],
-        "meaning": "see"
-      },
       "kmkwiq": {
         "contains": [
           "w_OwT6uYzaD2Ua"
@@ -46435,12 +46153,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "have"
       },
-      "mhcidd": {
-        "contains": [
-          "w_aXBmYMCbq_Q0"
-        ],
-        "meaning": "to"
-      },
       "mj5pi": {
         "contains": [
           "w_Q2uEVDoEhVDz"
@@ -46453,24 +46165,11 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "neighbor"
       },
-      "mjxmmb": {
-        "contains": [
-          "w_Sipgcrq5KbOP",
-          "w_qajpk5dE-VeC"
-        ],
-        "meaning": "t"
-      },
       "mlr5jl": {
         "contains": [
           "w_Meh2NfG5hj9o"
         ],
         "meaning": "which"
-      },
-      "mmtyit": {
-        "contains": [
-          "w_2yXIgCdn9gZ8"
-        ],
-        "meaning": "the heart"
       },
       "mppphh": {
         "contains": [
@@ -46611,13 +46310,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_PihjJLsItgOc"
         ],
         "meaning": "the pool"
-      },
-      "obg7ai": {
-        "contains": [
-          "w_UGKDWTcGqx5L",
-          "w_6uvWZX1NYf0U"
-        ],
-        "meaning": "re"
       },
       "oddr7d": {
         "contains": [
@@ -46790,12 +46482,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_7-J7KhUK7qQK"
         ],
         "meaning": "will be"
-      },
-      "qx7cie": {
-        "contains": [
-          "w_93756NjUyk06"
-        ],
-        "meaning": "to"
       },
       "qxgyyy": {
         "contains": [
@@ -47066,12 +46752,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "picnics"
       },
-      "tptzdu": {
-        "contains": [
-          "w_5ZDSJdvGZQFE"
-        ],
-        "meaning": "in"
-      },
       "tte5y7": {
         "contains": [
           "w_xsisi1jiA_k-"
@@ -47133,12 +46813,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "be enough"
       },
-      "ug26zs": {
-        "contains": [
-          "w_LIBLXolTN2tI"
-        ],
-        "meaning": "say"
-      },
       "uhyuz9": {
         "contains": [
           "w_mYWmsZcke10s"
@@ -47175,12 +46849,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_cpU8C73tuHH_"
         ],
         "meaning": "originally"
-      },
-      "v7l0zb": {
-        "contains": [
-          "w_QZfXE5nhEJv"
-        ],
-        "meaning": "there"
       },
       "v7mfwn": {
         "contains": [
@@ -47477,12 +47145,6 @@ title: Data:Blær/Fyrst við erum hérna
         ],
         "meaning": "the pool"
       },
-      "yk3wcx": {
-        "contains": [
-          "w_0lDLY8jzZHS8"
-        ],
-        "meaning": "plenty of, load"
-      },
       "yn86w": {
         "contains": [
           "w_SHUGAvyXHs1"
@@ -47531,12 +47193,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_PbTxhlll805m"
         ],
         "meaning": "of"
-      },
-      "z09tiy": {
-        "contains": [
-          "w_b94MvBw3c-z1"
-        ],
-        "meaning": "before"
       },
       "z1lqwd": {
         "contains": [

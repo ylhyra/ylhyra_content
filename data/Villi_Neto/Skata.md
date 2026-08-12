@@ -890,13 +890,6 @@ title: Data:Villi Neto/Skata
   ],
   "translation": {
     "definitions": {
-      "120ne82": {
-        "contains": [
-          "w_1m4v3",
-          "w_1m4v4"
-        ],
-        "meaning": "has"
-      },
       "13jfhm": {
         "contains": [
           "w_1m4v9"
@@ -983,12 +976,6 @@ title: Data:Villi Neto/Skata
         ],
         "meaning": "are you"
       },
-      "dunq7b": {
-        "contains": [
-          "w_1m4v4"
-        ],
-        "meaning": "com"
-      },
       "hvoold": {
         "contains": [
           "w_1m4v3",
@@ -998,12 +985,6 @@ title: Data:Villi Neto/Skata
         ],
         "direct": "is come to it",
         "meaning": "the time has come"
-      },
-      "ow6qo": {
-        "contains": [
-          "w_1m4v3"
-        ],
-        "meaning": "it"
       },
       "p0z86u": {
         "contains": [

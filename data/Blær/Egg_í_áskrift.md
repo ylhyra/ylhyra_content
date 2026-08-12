@@ -6895,204 +6895,6 @@ title: Data:Blær/Egg í áskrift
   },
   "translation": {
     "sentences": {
-      "s0": {
-        "meaning": "This is an article published in 2014 by the online magazine"
-      },
-      "s11": {
-        "meaning": "tint"
-      },
-      "s13": {
-        "meaning": "(the name meaning \"gentle breeze\")"
-      },
-      "s19": {
-        "meaning": "Here we see an interview with a farmer from southern Iceland where he shows us his chicken farm and discusses his love for hens."
-      },
-      "s44": {
-        "meaning": "Read the original article on Blær.is"
-      },
-      "s52": {
-        "meaning": "- Blær -"
-      },
-      "s54": {
-        "meaning": "Eggs in subscription"
-      },
-      "s58": {
-        "meaning": "A visit to Julius the farmer at Þykkvabæ, which invites people to foster chickens and get an egg subscription"
-      },
-      "s76": {
-        "meaning": "text"
-      },
-      "s78": {
-        "meaning": "Svanhildur Gréta"
-      },
-      "s81": {
-        "meaning": "photographs"
-      },
-      "s83": {
-        "meaning": "Juliet"
-      },
-      "s85": {
-        "meaning": "Julius Már Farmer at Þykkvabær has dedicated his life to preserving the founding of the Icelandic settlers."
-      },
-      "s101": {
-        "meaning": "Julius has been a farmer for many years, but has worked on building the farm at Þykkvabær after healing his old farm on Tjörn in Vatnsnes."
-      },
-      "s127": {
-        "meaning": "There were three hundred settlers and Julius had to leave the farm after the Ministry of Agriculture allocated the land to another."
-      },
-      "s148": {
-        "meaning": "However, earlier, he managed to save about a hundred eggs from the fire and put them in the neighbor's incubator."
-      },
-      "s167": {
-        "meaning": "Ten cocks survived that were located in a house other than the hen."
-      },
-      "s180": {
-        "meaning": "Thus, the stock remained and became 230 hips, as it is today."
-      },
-      "s195": {
-        "meaning": "Julius was determined to remain untouched;"
-      },
-      "s213": {
-        "meaning": "In addition, Julius has an open farm where everyone is given the opportunity to see the bird in their proper environment,"
-      },
-      "s234": {
-        "meaning": "learn about him and hopefully grow up."
-      },
-      "s241": {
-        "meaning": "In addition, everyone is able to buy a hen or egg,"
-      },
-      "s254": {
-        "meaning": "rent a hen or embrace"
-      },
-      "s261": {
-        "meaning": "The activity at Þykkvabæ is run by passion and a warm welcome to the foundation of the Icelandic settlement camp."
-      },
-      "s276": {
-        "meaning": "Julius welcomed us surrounded by peculiar heels in the town's square after we had taken some wrong turns and missed him with missed calls as he tried to point us to the side."
-      },
-      "s311": {
-        "meaning": "There was little talk about the first time, as the hands looked all the way around."
-      },
-      "s326": {
-        "meaning": "An immense life and animation characterizes this colorful bird that walks free of the meadow."
-      },
-      "s340": {
-        "meaning": "Asking if he has any favorite hen, Julius says they all are great in their own way."
-      },
-      "s358": {
-        "meaning": "Who has his character."
-      },
-      "s363": {
-        "meaning": "Most of them have their own name, but he himself owns Dröfn,"
-      },
-      "s375": {
-        "meaning": "very calmer kelirophu."
-      },
-      "s379": {
-        "meaning": "Julius says the settlement men are very different from the traditional factory-style called \"the Italian\"."
-      },
-      "s390": {
-        "meaning": "The landlord's hand is hard,"
-      },
-      "s396": {
-        "meaning": "he says, and with great self-determination."
-      },
-      "s403": {
-        "meaning": "She is also colorful,"
-      },
-      "s409": {
-        "meaning": "creatively and deliciously delicious eggs."
-      },
-      "s416": {
-        "meaning": "\"Here, the settlers can grow and flourish, but they can grow up to seven years old."
-      },
-      "s433": {
-        "meaning": "The factory bird, however, only survives for two years in a cage."
-      },
-      "s447": {
-        "meaning": "There they are many together without seeing any daylight."
-      },
-      "s460": {
-        "meaning": "They are executed and then stored."
-      },
-      "s468": {
-        "meaning": "The houses are disinfected and new chickens are bought instead. \""
-      },
-      "s478": {
-        "meaning": "\"This is probably what the market wanted."
-      },
-      "s486": {
-        "meaning": "More eggs, more meat and cheap. \""
-      },
-      "s494": {
-        "meaning": "The activity at Þykkvabæ has flourished in recent years, while Julius has about sixty subscribers or foster parents."
-      },
-      "s512": {
-        "meaning": "By"
-      },
-      "s516": {
-        "meaning": "become a foster parent"
-      },
-      "s519": {
-        "meaning": "landowners are supporting the breeding of the stock."
-      },
-      "s527": {
-        "meaning": "\"From your hands you get about 20 eggs per month over a two-year period you can apply for"
-      },
-      "s544": {
-        "meaning": "Mrs. Laugu"
-      },
-      "s547": {
-        "meaning": "or in accordance with another agreement with me."
-      },
-      "s554": {
-        "meaning": "You can always visit the hen, see how she lives,"
-      },
-      "s563": {
-        "meaning": "hold on to her and spend time with her."
-      },
-      "s572": {
-        "meaning": "Taking a foster chicken costs 25,000 krónur, but I do not pay a salary and care about my own."
-      },
-      "s593": {
-        "meaning": "I send out press releases and who knows, unless the honey sent you a Christmas card. \""
-      },
-      "s606": {
-        "meaning": "Julius says it is constantly increasing that people have chickens at their home in the city."
-      },
-      "s624": {
-        "meaning": "All they need is a cup, container and love."
-      },
-      "s635": {
-        "meaning": "\"It's similar to keeping a hen and keeping a cat."
-      },
-      "s646": {
-        "meaning": "You can easily get away for a few days if you leave enough food. \""
-      },
-      "s662": {
-        "meaning": "At Julius, the day-olds receive only a thousand krónur pieces."
-      },
-      "s673": {
-        "meaning": "The price is low, he says because of the lower chickens in the respecting level."
-      },
-      "s687": {
-        "meaning": "\"Earlier, the housewives had their hands and looked at them."
-      },
-      "s697": {
-        "meaning": "Boy boys, however, thought that they were being asked to go to a chicken roast to pick an egg."
-      },
-      "s718": {
-        "meaning": "There was a clear gender segregation of towns and attitudes that still exist to a certain extent still today."
-      },
-      "s737": {
-        "meaning": "Therefore, this is not estimated more than this. \""
-      },
-      "s746": {
-        "meaning": "For those who are not willing to invest in the hay, it is possible to rent hens for longer or short periods."
-      },
-      "s769": {
-        "meaning": "\"I actually did this to introduce the bird and achieve a better distribution of it."
-      },
       "s_w9sew": {
         "meaning": ""
       },
@@ -7302,9 +7104,6 @@ title: Data:Blær/Egg í áskrift
       },
       "s_127qe": {
         "meaning": "They go so far to eat each other."
-      },
-      "s_evunc": {
-        "meaning": "If one hen dies during the night, the others drag out its intestines and eat them."
       },
       "s_180a2": {
         "meaning": "It's not a beautiful sight in the morning."
@@ -8395,18 +8194,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "eggs"
       },
-      "1ue537m": {
-        "contains": [
-          "w_e0dfx"
-        ],
-        "meaning": "in"
-      },
-      "1re862h": {
-        "contains": [
-          "w_1fdkl"
-        ],
-        "meaning": "subscription"
-      },
       "9i1rod": {
         "contains": [
           "w_1jq8b"
@@ -8462,18 +8249,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "people"
       },
-      "1ajd4k4": {
-        "contains": [
-          "w_6zunn"
-        ],
-        "meaning": "to"
-      },
-      "1n98twz": {
-        "contains": [
-          "w_1u2z2"
-        ],
-        "meaning": "foster"
-      },
       "fikqjc": {
         "contains": [
           "w_yi7ky"
@@ -8491,18 +8266,6 @@ title: Data:Blær/Egg í áskrift
           "w_1mgov"
         ],
         "meaning": "eggs"
-      },
-      "4v41dd": {
-        "contains": [
-          "w_cpggo"
-        ],
-        "meaning": "in"
-      },
-      "pi0tns": {
-        "contains": [
-          "w_1e3df"
-        ],
-        "meaning": "subscription"
       },
       "1sj4ey3": {
         "contains": [
@@ -8608,12 +8371,6 @@ title: Data:Blær/Egg í áskrift
         "difficult": true,
         "show_definition_above": true,
         "inline_translation": "stock"
-      },
-      "14usefj": {
-        "contains": [
-          "w_o29bd"
-        ],
-        "meaning": "of the Icelandic"
       },
       "sytdbc": {
         "contains": [
@@ -8724,12 +8481,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "on"
       },
-      "wqys6g": {
-        "contains": [
-          "w_tg767"
-        ],
-        "meaning": "the old"
-      },
       "1vx8mj4": {
         "contains": [
           "w_tg767",
@@ -8744,12 +8495,6 @@ title: Data:Blær/Egg í áskrift
           "w_9wud6_3"
         ],
         "meaning": "on"
-      },
-      "1pposep": {
-        "contains": [
-          "w_1rgvn"
-        ],
-        "meaning": "*"
       },
       "1ndi6oa": {
         "contains": [
@@ -8822,12 +8567,6 @@ title: Data:Blær/Egg í áskrift
         "show_definition_above": true,
         "difficult": true,
         "inline_translation": "as a result"
-      },
-      "1q937ke": {
-        "contains": [
-          "w_1jcj1"
-        ],
-        "meaning": "after"
       },
       "17r6wdh": {
         "contains": [
@@ -9064,12 +8803,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "and"
       },
-      "1qafwdk": {
-        "contains": [
-          "w_1bown"
-        ],
-        "meaning": "became"
-      },
       "1sc5ofy": {
         "contains": [
           "w_1bown",
@@ -9137,13 +8870,6 @@ title: Data:Blær/Egg í áskrift
           "w_chhkl"
         ],
         "meaning": "(in)"
-      },
-      "9yw94c": {
-        "contains": [
-          "w_73r3r",
-          "w_g934g"
-        ],
-        "meaning": "keeping"
       },
       "dg44wv": {
         "contains": [
@@ -9221,12 +8947,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "for that reason"
       },
-      "10tdq2r": {
-        "contains": [
-          "w_lasyi"
-        ],
-        "meaning": "is"
-      },
       "tqrccy": {
         "contains": [
           "w_lasyi",
@@ -9245,12 +8965,6 @@ title: Data:Blær/Egg í áskrift
           "w_g46at"
         ],
         "meaning": "farm"
-      },
-      "5i03ml": {
-        "contains": [
-          "w_11bwe"
-        ],
-        "meaning": "here"
       },
       "12lpu76": {
         "contains": [
@@ -9462,12 +9176,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "run, operated"
       },
-      "hukw27": {
-        "contains": [
-          "w_orqz4"
-        ],
-        "meaning": ""
-      },
       "1m4gp8w": {
         "contains": [
           "w_orqz4",
@@ -9573,12 +9281,6 @@ title: Data:Blær/Egg í áskrift
           "w_17to6"
         ],
         "meaning": "we"
-      },
-      "vfi8ji": {
-        "contains": [
-          "w_17tt5"
-        ],
-        "meaning": "had"
       },
       "hx0d4o": {
         "contains": [
@@ -9738,18 +9440,6 @@ title: Data:Blær/Egg í áskrift
         "show_definition_above": true,
         "difficult": true,
         "inline_translation": "enormous"
-      },
-      "1qabr9q": {
-        "contains": [
-          "w_or28t"
-        ],
-        "meaning": "life, vitality"
-      },
-      "aucnq2": {
-        "contains": [
-          "w_1fchk"
-        ],
-        "meaning": "and"
       },
       "1lcalqe": {
         "contains": [
@@ -9929,19 +9619,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "most of them"
       },
-      "8cmp3": {
-        "contains": [
-          "w_1sn6p"
-        ],
-        "meaning": "own"
-      },
-      "n5z2tc": {
-        "contains": [
-          "w_1sn6p",
-          "w_e6c4k"
-        ],
-        "meaning": "have"
-      },
       "g8ck0c": {
         "contains": [
           "w_1sn6p",
@@ -9968,12 +9645,6 @@ title: Data:Blær/Egg í áskrift
           "w_17nxt"
         ],
         "meaning": "himself"
-      },
-      "1eo2ngb": {
-        "contains": [
-          "w_1ru7w"
-        ],
-        "meaning": "holds"
       },
       "1qutf39": {
         "contains": [
@@ -10705,13 +10376,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "you are"
       },
-      "1yls0ji": {
-        "contains": [
-          "w_5oxpk_2",
-          "w_n2fat"
-        ],
-        "meaning": "supporting"
-      },
       "6ns6p": {
         "contains": [
           "w_5oxpk_2",
@@ -10933,12 +10597,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "and"
       },
-      "ub6lmm": {
-        "contains": [
-          "w_1h4sm"
-        ],
-        "meaning": "spe"
-      },
       "6jft9f": {
         "contains": [
           "w_1h4sm",
@@ -11030,12 +10688,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "and"
       },
-      "1akgjs2": {
-        "contains": [
-          "w_9ucx8"
-        ],
-        "meaning": "see"
-      },
       "x2wg3a": {
         "contains": [
           "w_9ucx8",
@@ -11098,12 +10750,6 @@ title: Data:Blær/Egg í áskrift
           "w_1fbm4"
         ],
         "meaning": "and"
-      },
-      "15553j": {
-        "contains": [
-          "w_yb6v9"
-        ],
-        "meaning": "who"
       },
       "x1vs9o": {
         "contains": [
@@ -11205,12 +10851,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "by"
       },
-      "1hap87r": {
-        "contains": [
-          "w_1t7p8"
-        ],
-        "meaning": "home"
-      },
       "1aamzfe": {
         "contains": [
           "w_1t7p8",
@@ -11229,12 +10869,6 @@ title: Data:Blær/Egg í áskrift
           "w_18r24"
         ],
         "meaning": "the city"
-      },
-      "1jxxq5r": {
-        "contains": [
-          "w_c0p10"
-        ],
-        "meaning": ""
       },
       "1j75aab": {
         "contains": [
@@ -11377,12 +11011,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "if"
       },
-      "3m78au": {
-        "contains": [
-          "w_1ipuv"
-        ],
-        "meaning": "is left behind"
-      },
       "z8ud2p": {
         "contains": [
           "w_1ipuv",
@@ -11490,12 +11118,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "he"
       },
-      "1gnj60g": {
-        "contains": [
-          "w_2nre6"
-        ],
-        "meaning": "*"
-      },
       "xknxuz": {
         "contains": [
           "w_2nre6",
@@ -11574,12 +11196,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "and"
       },
-      "3vhvoa": {
-        "contains": [
-          "w_1ttnh"
-        ],
-        "meaning": "are"
-      },
       "1p0ly5k": {
         "contains": [
           "w_1ttnh",
@@ -11599,12 +11215,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "boys, lads"
       },
-      "qtbent": {
-        "contains": [
-          "w_cgebw"
-        ],
-        "meaning": "in"
-      },
       "6xvssy": {
         "contains": [
           "w_cgebw",
@@ -11617,12 +11227,6 @@ title: Data:Blær/Egg í áskrift
           "w_157vt"
         ],
         "meaning": "felt like, were of the opinion"
-      },
-      "1po6aw": {
-        "contains": [
-          "w_3nqel"
-        ],
-        "meaning": "on"
       },
       "de8iwn": {
         "contains": [
@@ -11643,12 +11247,6 @@ title: Data:Blær/Egg í áskrift
           "w_q6x4t"
         ],
         "meaning": "to be"
-      },
-      "cj25qq": {
-        "contains": [
-          "w_1akim"
-        ],
-        "meaning": "asked for, requested"
       },
       "19pfgnb": {
         "contains": [
@@ -11702,12 +11300,6 @@ title: Data:Blær/Egg í áskrift
           "w_1m7as"
         ],
         "meaning": "eggs"
-      },
-      "1y80m32": {
-        "contains": [
-          "w_by7cl"
-        ],
-        "meaning": "there"
       },
       "16n3baz": {
         "contains": [
@@ -11778,12 +11370,6 @@ title: Data:Blær/Egg í áskrift
           "w_1vfi5"
         ],
         "meaning": "to a certain exctent"
-      },
-      "1yzbt0o": {
-        "contains": [
-          "w_y3p2m"
-        ],
-        "meaning": "still"
       },
       "17prx2r": {
         "contains": [
@@ -11886,13 +11472,6 @@ title: Data:Blær/Egg í áskrift
           "w_cr8d1"
         ],
         "meaning": "to"
-      },
-      "1hhm3qg": {
-        "contains": [
-          "w_5ttc5",
-          "w_1cg7l"
-        ],
-        "meaning": "to invest"
       },
       "yrqdmd": {
         "contains": [
@@ -12114,12 +11693,6 @@ title: Data:Blær/Egg í áskrift
           "w_8ytg1_2"
         ],
         "meaning": "you"
-      },
-      "1nud12h": {
-        "contains": [
-          "w_15sbq"
-        ],
-        "meaning": "see"
       },
       "1v0je19": {
         "contains": [
@@ -12453,13 +12026,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "in order to"
       },
-      "q9bw65": {
-        "contains": [
-          "w_7cba6",
-          "w_p5s8w"
-        ],
-        "meaning": "to change, to switch out"
-      },
       "isyvuw": {
         "contains": [
           "w_7cba6",
@@ -12545,12 +12111,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "well"
       },
-      "16nev6t": {
-        "contains": [
-          "w_113ri"
-        ],
-        "meaning": "un"
-      },
       "gelkh4": {
         "contains": [
           "w_113ri",
@@ -12563,12 +12123,6 @@ title: Data:Blær/Egg í áskrift
           "w_fw4fg"
         ],
         "meaning": "they"
-      },
-      "3ehyxr": {
-        "contains": [
-          "w_zthxl"
-        ],
-        "meaning": "re"
       },
       "1ppombh": {
         "contains": [
@@ -12938,18 +12492,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "to eat"
       },
-      "18p607": {
-        "contains": [
-          "w_z926m"
-        ],
-        "meaning": "each"
-      },
-      "1h3gkbt": {
-        "contains": [
-          "w_1ea0a"
-        ],
-        "meaning": "other"
-      },
       "pxouj": {
         "contains": [
           "w_z926m",
@@ -13074,18 +12616,6 @@ title: Data:Blær/Egg í áskrift
           "w_njz15"
         ],
         "meaning": "in the mornings"
-      },
-      "n9h1kh": {
-        "contains": [
-          "w_bv9e4"
-        ],
-        "meaning": "it"
-      },
-      "1undk2u": {
-        "contains": [
-          "w_161ex"
-        ],
-        "meaning": "can"
       },
       "1aqmm7k": {
         "contains": [
@@ -13548,14 +13078,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "after"
       },
-      "m5dw4z": {
-        "contains": [
-          "w_75nt0",
-          "w_jygay",
-          "w_1ohei"
-        ],
-        "meaning": "having vi"
-      },
       "qcviz3": {
         "contains": [
           "w_75nt0",
@@ -13631,13 +13153,6 @@ title: Data:Blær/Egg í áskrift
         "meaning": "absurd, ridiculous ideea",
         "show_definition_above": true,
         "difficult": true
-      },
-      "134pqfg": {
-        "contains": [
-          "w_75nt0_2",
-          "w_hsm2h"
-        ],
-        "meaning": "to establish"
       },
       "5pmnqi": {
         "contains": [
@@ -13742,19 +13257,6 @@ title: Data:Blær/Egg í áskrift
         ],
         "meaning": "but, than"
       },
-      "y1ivjh": {
-        "contains": [
-          "w_7g3v5"
-        ],
-        "meaning": "to"
-      },
-      "1mev3fd": {
-        "contains": [
-          "w_7g3v5",
-          "w_18317"
-        ],
-        "meaning": "to "
-      },
       "m5r7ek": {
         "contains": [
           "w_7g3v5",
@@ -13780,12 +13282,6 @@ title: Data:Blær/Egg í áskrift
           "w_1g5op"
         ],
         "meaning": "and"
-      },
-      "k3y1hi": {
-        "contains": [
-          "w_1wfyr"
-        ],
-        "meaning": "become infected by"
       },
       "1a1qh4u": {
         "contains": [
@@ -13817,12 +13313,6 @@ title: Data:Blær/Egg í áskrift
           "w_2zios"
         ],
         "meaning": "the Icelandic Chicken"
-      },
-      "ofu2x4": {
-        "contains": [
-          "w_1dvv0"
-        ],
-        "meaning": "the moota"
       },
       "1h6jfrk": {
         "contains": [
@@ -13897,18 +13387,6 @@ title: Data:Blær/Egg í áskrift
           "w_1g27m_3"
         ],
         "meaning": "and"
-      },
-      "9etxbq": {
-        "contains": [
-          "w_1d4m7"
-        ],
-        "meaning": "not"
-      },
-      "azxrtc": {
-        "contains": [
-          "w_km4gh"
-        ],
-        "meaning": "least"
       },
       "1gzploj": {
         "contains": [
