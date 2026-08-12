@@ -4428,7 +4428,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_B8w-b51v9FaM": {
         "id": "s_B8w-b51v9FaM",
-        "text": "það eru til dæmis Dýrafjarðardagar núna um helgina” segir Agnes okkur.",
+        "text": "það eru til dæmis Dýrafjarðardagar núna um helgina“ segir Agnes okkur.",
         "words": [
           {
             "id": "w_1QJCops8Npy8",
@@ -4469,7 +4469,7 @@ title: Data:Blær/Fyrst við erum hérna
             "id": "w_vwzSicywIRE9",
             "text": "helgina"
           },
-          "” ",
+          "“ ",
           {
             "id": "w_q1z35W31sQlL",
             "text": "segir"
@@ -17626,7 +17626,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_B8w-b51v9FaM": {
         "id": "s_B8w-b51v9FaM",
-        "text": "það eru til dæmis Dýrafjarðardagar núna um helgina” segir Agnes okkur.",
+        "text": "það eru til dæmis Dýrafjarðardagar núna um helgina“ segir Agnes okkur.",
         "words": [
           {
             "id": "w_1QJCops8Npy8",
@@ -17667,7 +17667,7 @@ title: Data:Blær/Fyrst við erum hérna
             "id": "w_vwzSicywIRE9",
             "text": "helgina"
           },
-          "” ",
+          "“ ",
           {
             "id": "w_q1z35W31sQlL",
             "text": "segir"
@@ -36781,7 +36781,7 @@ title: Data:Blær/Fyrst við erum hérna
         },
         {
           "id": "s_B8w-b51v9FaM",
-          "text": "það eru til dæmis Dýrafjarðardagar núna um helgina” segir Agnes okkur.",
+          "text": "það eru til dæmis Dýrafjarðardagar núna um helgina“ segir Agnes okkur.",
           "words": [
             {
               "id": "w_1QJCops8Npy8",
@@ -36822,7 +36822,7 @@ title: Data:Blær/Fyrst við erum hérna
               "id": "w_vwzSicywIRE9",
               "text": "helgina"
             },
-            "” ",
+            "“ ",
             {
               "id": "w_q1z35W31sQlL",
               "text": "segir"
