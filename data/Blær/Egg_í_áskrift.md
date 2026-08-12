@@ -13275,7 +13275,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_197s3"
         ],
-        "meaning": "of the farmer"
+        "meaning": "the farmer"
       },
       "18c5xsh": {
         "contains": [
