@@ -3763,7 +3763,7 @@ rows:
     row_id: 576
     last_seen: "2021-10-14"
   - icelandic: að kíkja í heimsókn
-    english: to go for a short visit to someone
+    english: to pay someone a short visit; to drop in on someone
     depends_on: að kíkja, heimsókn, á eftir
     level: 2
     note: The word "kíkja" here means that you're offering them to come over for a short visit, which sounds more polite.
