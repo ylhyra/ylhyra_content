@@ -8052,7 +8052,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w140"
         ],
-        "meaning": "nitrogren"
+        "meaning": "nitrogen"
       },
       "qzoj3j": {
         "contains": [
