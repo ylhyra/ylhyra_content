@@ -3717,7 +3717,7 @@ rows:
     row_id: 569
     last_seen: "2021-07-12"
   - icelandic: Ertu í stuði fyrir göngutúr?
-    english: Are you in the mood for going for a walk?
+    english: Are you in the mood for a walk?
     depends_on: í stuði, göngutúr
     level: 3
     difficulty: 3
