@@ -23136,7 +23136,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_0nm1gYrMdt8"
         ],
-        "meaning": "challanges"
+        "meaning": "challenges"
       },
       "1wxak24": {
         "contains": [
