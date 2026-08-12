@@ -17517,7 +17517,7 @@ rows:
   - icelandic: ég held að það hafi verið
     english: I think it was
     level: 3
-    note: Mixing present tense ("think") and past tense ("was") requires the use of a helper word ("hafi") so that our entire sentence uses the same tense.
+    note: When the main clause is in the present tense ("held"), the subordinate clause uses the subjunctive helper verb "hafi" rather than the plain past "var".
     row_id: 2928
     last_seen: "2021-08-02"
   - icelandic: þeir drápu
