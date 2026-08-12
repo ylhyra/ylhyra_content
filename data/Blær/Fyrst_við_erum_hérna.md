@@ -43940,7 +43940,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_HUAtmU4NDEL"
         ],
-        "meaning": "phonecalls"
+        "meaning": "phone calls"
       },
       "1uuc516": {
         "contains": [
