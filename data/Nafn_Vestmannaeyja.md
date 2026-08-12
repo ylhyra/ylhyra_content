@@ -3636,7 +3636,7 @@ title: Data:Nafn Vestmannaeyja
           "w_r39880",
           "w_r39881"
         ],
-        "meaning": "in the south (of)"
+        "meaning": "to the south (of)"
       },
       "mjeswv": {
         "contains": [
