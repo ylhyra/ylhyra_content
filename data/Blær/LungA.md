@@ -24024,7 +24024,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_6aaeCxdHBah"
         ],
-        "meaning": "independantly"
+        "meaning": "independently"
       },
       "f9esdn": {
         "contains": [
@@ -25122,7 +25122,7 @@ title: Data:Blær/LungA
           "w_9GGehUfLqm7"
         ],
         "direct": "",
-        "meaning": "independant"
+        "meaning": "independent"
       },
       "y3canp": {
         "contains": [
@@ -25308,7 +25308,7 @@ title: Data:Blær/LungA
         "meaning": "They either work independently or with each other, and they also do something for the town."
       },
       "s_7GpbSRrXP": {
-        "meaning": "If you ever want to finally figure out whether you're boring or not, you should go to Seyðisfjörður (in the east of Iceland) and stay there for a little while."
+        "meaning": "If you ever want to find out whether you're boring, you should go to Seyðisfjörður in eastern Iceland and stay there for a while."
       },
       "s_7j7LJEuXyf_": {
         "meaning": "It is important that you have a passion for learning and exploring,"
@@ -25323,7 +25323,7 @@ title: Data:Blær/LungA
         "meaning": "It doesn't matter if you possess any knowledge in the arts."
       },
       "s_CYU07l2Vga": {
-        "meaning": "We met her through Karos Pilot (Danish school) so coming here was the natural thing to do."
+        "meaning": "We met her through Kaos Pilot, a Danish school, so coming here was the natural thing to do."
       },
       "s_CtWwpHuCjW2": {
         "meaning": "an independent educational institution, and it is the first school of its kind in the country."
@@ -25365,10 +25365,10 @@ title: Data:Blær/LungA
         "meaning": "Björt invited us to come be a part of a young people exchange project and take part in art workshops at LungA."
       },
       "s_N3Upqp6QSG": {
-        "meaning": "Years later along with others they bought a house in Seyðisfjörður which is called HEIMA (HOME)."
+        "meaning": "A year later, they and some others bought a house in Seyðisfjörður called HEIMA (HOME)."
       },
       "s_NkzKFKLd4v": {
-        "meaning": "For a whole week in July, there were seven art workshops open, which finished by throwing an art show,"
+        "meaning": "For a whole week in July, seven art workshops were run, culminating in an art exhibition,"
       },
       "s_OnegVJwIIrg": {
         "meaning": "We focus a lot on the group being able to work close together."
@@ -25401,7 +25401,7 @@ title: Data:Blær/LungA
         "meaning": "It is because of the mountains."
       },
       "s_bKOD0opY7X": {
-        "meaning": "Jonatan Spjelberg and Lasse Høgenhof are Danish. They first came to Seyðifsjörður in the year 2010 and fell in love with the place right away,"
+        "meaning": "Jonatan Spjelberg and Lasse Høgenhof are Danish. They first came to Seyðisfjörður in 2010 and fell in love with the place right away,"
       },
       "s_ejwwBBOL-I_": {
         "meaning": "Below you can find images from the festival."
@@ -25410,10 +25410,10 @@ title: Data:Blær/LungA
         "meaning": "The atmosphere was phenomenal to say the least, and festival-goers all agreed that they'd return in a year"
       },
       "s_fme3Y1LNqQX": {
-        "meaning": "We have to started to get to know the town's way of life better and better, and we have acquired many friends."
+        "meaning": "We have gradually got to know the town's way of life better and have made many friends."
       },
       "s_jPae7wXAHv": {
-        "meaning": "Since then they have had one foot in Seyðisfjörður and are of the opinion that the town is one of the most beautiful places in the word.",
+        "meaning": "Since then they have had one foot in Seyðisfjörður and consider the town one of the most beautiful places in the world.",
         "note": "One foot in Seyðisfjörður and the other in Denmark (almost like he's living in both)"
       },
       "s_n-TaC2fqH0": {
@@ -25432,7 +25432,7 @@ title: Data:Blær/LungA
         "meaning": "It has such a large and good effect on the everyday atmosphere."
       },
       "s_qFAf-zmKxKE": {
-        "meaning": "I have spent a lot of time trying to figure that out, and I don't think I will ever understand that in reality."
+        "meaning": "I have spent a lot of time trying to figure that out, and I don't think I will ever really understand it."
       },
       "s_t8U-WbcWRW": {
         "meaning": "In the year 2011 they bought the house \"HOME\" which is an international residence for artists."
@@ -25448,16 +25448,16 @@ title: Data:Blær/LungA
         "note": "What they really mean here is ambiguous or vague."
       },
       "s_vHslEPds-Q": {
-        "meaning": "They're both alumni of the same school, \"Kaos Pilots\", and they are the founders of the LungA School along with Björt Sigfinnsdóttur, she also manages LungA's art workshops."
+        "meaning": "They are both alumni of the same school, Kaos Pilot, and founded the LungA School with Björt Sigfinnsdóttir, who also runs LungA's art workshops."
       },
       "s_vLvyMa4osyd": {
         "meaning": "and an open mind towards unexpected surprises and challenges."
       },
       "s_w29J75lyRuO": {
-        "meaning": "We want to encourage the uniqueness of individuals and support our students so they find their wood to a stronger self-image,"
+        "meaning": "We want to encourage individuality and support our students so they find their way towards a stronger self-image,"
       },
       "s_wojcr18UZ5S": {
-        "meaning": "We will have varied courses which will without a doubt expand [student's] horizons."
+        "meaning": "We will offer varied courses that will undoubtedly expand the students' horizons."
       },
       "s_xGGEO6GU2YB": {
         "meaning": "The students said the thing that stood out was the people,"
@@ -25469,7 +25469,7 @@ title: Data:Blær/LungA
         "meaning": "The first time that I came here I fell in love with the place."
       },
       "s_zT6-r64R8QX": {
-        "meaning": "Thousands of people come here over the week, which triples the amount of people in town."
+        "meaning": "More than a thousand people come here during the week, tripling the town's population."
       }
     },
     "words": {
