@@ -3127,7 +3127,7 @@ title: Data:Vestmannaeyjar
         "contains": [
           "w_xkvp44"
         ],
-        "meaning": "goe"
+        "meaning": "go"
       },
       "ehmzd": {
         "contains": [
