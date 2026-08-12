@@ -2818,7 +2818,7 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         "contains": [
           "w_1w5j62"
         ],
-        "meaning": "I'm about to explain"
+        "meaning": "you see (emphatic filler)"
       },
       "12su4pw": {
         "contains": [
@@ -2999,7 +2999,7 @@ title: Data:Villi Neto/Íslendingar í sólarlöndum
         "contains": [
           "w_1w5j17"
         ],
-        "meaning": "I'm about to explain"
+        "meaning": "you see (emphatic filler)"
       },
       "1onq23p": {
         "contains": [
