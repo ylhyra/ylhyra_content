@@ -41040,7 +41040,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_HGePDOz4zj-u"
         ],
-        "meaning": "sandwich loaf"
+        "meaning": "sandwich loaf buffet"
       },
       "117lylo": {
         "contains": [
@@ -46839,12 +46839,6 @@ title: Data:Blær/Fyrst við erum hérna
           "w_nVLWE3h_E_n1"
         ],
         "meaning": "red"
-      },
-      "uwrisx": {
-        "contains": [
-          "w_HGePDOz4zj-u"
-        ],
-        "meaning": "buffet"
       },
       "v5u6ui": {
         "contains": [

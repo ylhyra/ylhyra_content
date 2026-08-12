@@ -21835,7 +21835,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_mK3Dx0zN6Y"
         ],
-        "meaning": "young people exchange"
+        "meaning": "youth exchange project"
       },
       "18mstbp": {
         "contains": [
@@ -21917,12 +21917,6 @@ title: Data:Blær/LungA
           "w_SRcrkx8U280"
         ],
         "meaning": "yourself"
-      },
-      "1ah78pb": {
-        "contains": [
-          "w_mK3Dx0zN6Y"
-        ],
-        "meaning": "project"
       },
       "1ah79tj": {
         "contains": [
