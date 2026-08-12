@@ -24003,7 +24003,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_wUMlRiFhDG8"
         ],
-        "meaning": "carry out"
+        "meaning": "act, get things done"
       },
       "dy5yw": {
         "contains": [
