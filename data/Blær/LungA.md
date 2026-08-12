@@ -25061,7 +25061,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_RiGu1WBEc5j"
         ],
-        "meaning": "people"
+        "meaning": "the people"
       },
       "xi28wk": {
         "contains": [
