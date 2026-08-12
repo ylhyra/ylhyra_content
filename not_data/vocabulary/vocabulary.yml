@@ -5452,7 +5452,7 @@ rows:
     depends_on: kostur, lítill
     level: 2
     dont_confuse: í minnsta lagi
-    literally: in regards to the smallest choice
+    literally: in regard to the smallest choice
     row_id: 851
     last_seen: "2021-07-30"
   - icelandic: örvhentur
