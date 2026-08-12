@@ -21576,7 +21576,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_0Ve2E00Yyq"
         ],
-        "meaning": "year"
+        "meaning": "the year"
       },
       "147x912": {
         "contains": [
