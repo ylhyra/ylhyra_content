@@ -4414,8 +4414,7 @@ rows:
     level: 3
     row_id: 682
     last_seen: "2021-07-30"
-  - "3": 1
-    icelandic: að reyna
+  - icelandic: að reyna
     english: to try; to attempt
     level: 1
     importance: 5
