@@ -3798,7 +3798,7 @@ title: Data:Villi Neto/Íslenskar myndir
         "contains": [
           "w_12ll35"
         ],
-        "meaning": "yours"
+        "meaning": "your"
       },
       "1k79y3v": {
         "contains": [
@@ -4196,7 +4196,7 @@ title: Data:Villi Neto/Íslenskar myndir
         "contains": [
           "w_12ll40"
         ],
-        "meaning": "yours"
+        "meaning": "your"
       },
       "x551nu": {
         "contains": [
