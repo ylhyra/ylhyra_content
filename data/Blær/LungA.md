@@ -23967,7 +23967,7 @@ title: Data:Blær/LungA
           "w_g4GzJeJqXcY",
           "w_cMhnuJNh3WU"
         ],
-        "meaning": "all place(s)"
+        "meaning": "everywhere"
       },
       "dlu9bz": {
         "contains": [
