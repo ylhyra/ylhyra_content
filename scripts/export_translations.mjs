@@ -74,7 +74,12 @@ const fmtExtra = (extra) =>
 
 const List = await loadList();
 
-fs.mkdirSync(path.join(OUT, "review"), { recursive: true });
+/* Per-source reviews are derived files. Clear the directory first so a source that
+   has been renamed, archived, or deleted cannot leave a plausible-looking stale
+   review behind and contaminate later audits. */
+const REVIEW_OUT = path.join(OUT, "review");
+fs.rmSync(REVIEW_OUT, { recursive: true, force: true });
+fs.mkdirSync(REVIEW_OUT, { recursive: true });
 
 const allData = {};
 const sentRows = [];
