@@ -5656,7 +5656,7 @@ title: Data:Imba/afi
         "meaning": "Oh how I immediately knew I was dreaming"
       },
       "s_9z5545": {
-        "meaning": "you would have instead sat content in your lazy boy chair and asked: "
+        "meaning": "you would have instead smirked at home in your Lazy Boy chair and asked:"
       },
       "s_9z5568": {
         "meaning": "you would have instead stood up and yelled:"
