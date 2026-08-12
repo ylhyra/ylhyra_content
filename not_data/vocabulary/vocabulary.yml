@@ -697,7 +697,7 @@ rows:
     row_id: 104
     last_seen: "2021-11-10"
   - icelandic: í mesta lagi
-    english: at maximum
+    english: at most
     depends_on: mikið
     level: 2
     row_id: 105
