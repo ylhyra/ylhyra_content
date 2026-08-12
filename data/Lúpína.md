@@ -7061,7 +7061,7 @@ title: Data:Lúpína
           "w_1t9w36",
           "w_1t9w38"
         ],
-        "meaning": "bring up, raise up"
+        "meaning": "establish, grow (again)"
       },
       "12rp46e": {
         "contains": [
