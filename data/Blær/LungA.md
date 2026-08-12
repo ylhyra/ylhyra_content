@@ -23888,7 +23888,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_D1_1sECpye"
         ],
-        "meaning": "whe"
+        "meaning": "she"
       },
       "cffsx6": {
         "contains": [
