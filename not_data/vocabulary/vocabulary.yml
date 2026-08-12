@@ -5714,7 +5714,7 @@ rows:
     eyða: IGNORED
     row_id: 897
   - icelandic: Þetta er fimm mínútna myndband.
-    english: This is a 5 minute video.
+    english: This is a 5-minute video.
     lemmas: mínúta
     level: 2
     row_id: 898
