@@ -42,10 +42,15 @@ const stripNS = (s) => {
 };
 const norm = (s) => stripNS(s).trim().toLowerCase().replace(/_/g, " ");
 
-/* every name a content page answers to */
+/* Every name a *published* page answers to. Pages under not_data/drafts/ are
+   work-in-progress and are not served, so data bound only to a draft is unpublished. */
+const UNPUBLISHED_TREES = [
+  path.join(ROOT, "not_data", "drafts") + path.sep,  // top-level drafts only —
+  path.join(ROOT, "not_data", "files") + path.sep,   // content/course/drafts IS served
+];
 const names = new Set();
 for (const p of walk(path.join(ROOT, "not_data"))) {
-  if (p.includes(`${path.sep}files${path.sep}`)) continue;
+  if (UNPUBLISHED_TREES.some((t) => p.startsWith(t))) continue;
   const fm = frontMatter(p);
   const t = fm.match(/^title:\s*(.+)$/m);
   if (t) names.add(norm(t[1]));
