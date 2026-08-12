@@ -3137,7 +3137,7 @@ rows:
     row_id: 479
     last_seen: "2021-07-30"
   - icelandic: Þú mættir ekki í tímann.
-    english: You didn't show up in the class.
+    english: You didn't show up to class.
     lemmas: að mæta, tími
     level: 2
     row_id: 480
