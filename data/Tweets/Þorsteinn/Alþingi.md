@@ -1077,7 +1077,7 @@ title: Data:Tweets/Þorsteinn/Alþingi
         "contains": [
           "w_-DbI_tcPAvQ"
         ],
-        "meaning": "of parliament"
+        "meaning": "parliament"
       },
       "6bkhza": {
         "contains": [
