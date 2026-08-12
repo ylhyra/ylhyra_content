@@ -41596,7 +41596,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_QwVQtZKRWJss"
         ],
-        "meaning": "much"
+        "meaning": "great, considerable"
       },
       "16osy4h": {
         "contains": [
@@ -42043,7 +42043,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_RKdjfEXF5urJ"
         ],
-        "meaning": "as"
+        "meaning": "was"
       },
       "1c3knq8": {
         "contains": [
@@ -42433,7 +42433,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_2rfG-0-Elldn"
         ],
-        "meaning": "much"
+        "meaning": "great, considerable"
       },
       "1fdi8o6": {
         "contains": [
@@ -43590,7 +43590,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_LXIJGvYcDU5F"
         ],
-        "meaning": "as"
+        "meaning": "was"
       },
       "1r5fred": {
         "contains": [
@@ -43850,7 +43850,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_hAqKCvTq6ePO"
         ],
-        "meaning": "much"
+        "meaning": "great, considerable"
       },
       "1u4waui": {
         "contains": [
@@ -45400,7 +45400,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_tapfZg23EYwk"
         ],
-        "meaning": "much"
+        "meaning": "great, considerable"
       },
       "ejfbwq": {
         "contains": [
@@ -46042,7 +46042,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_mLUtM63UzBEM"
         ],
-        "meaning": "as"
+        "meaning": "was (subjunctive)"
       },
       "la7r9h": {
         "contains": [
@@ -46422,7 +46422,7 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_6wtqNWc-Sr-m"
         ],
-        "meaning": "as"
+        "meaning": "was"
       },
       "pvarq9": {
         "contains": [
