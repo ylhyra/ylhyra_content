@@ -25344,7 +25344,7 @@ title: Data:Blær/LungA
         "meaning": "If you ever want to finally figure out whether you're boring or not, you should go to Seyðisfjörður (in the east of Iceland) and stay there for a little while."
       },
       "s_7j7LJEuXyf_": {
-        "meaning": "It is important that you have passion to learn and explore,"
+        "meaning": "It is important that you have a passion for learning and exploring,"
       },
       "s_9QtDMvw_im": {
         "meaning": "The festival celebrated its fifteenth anniversary this year."
