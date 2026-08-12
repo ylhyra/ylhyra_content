@@ -1924,7 +1924,7 @@ rows:
     row_id: 298
     last_seen: "2021-11-10"
   - icelandic: Er þér illt?
-    english: Do you feel pain in some body part?
+    english: Are you in pain?; Does something hurt?
     depends_on: illt
     alternative_id: að vera illt, illt
     level: 2
