@@ -5533,7 +5533,7 @@ rows:
     importance: 5
     row_id: 863
     last_seen: "2021-07-01"
-  - icelandic: Það er ekki hægt að keyra hægt hérna
+  - icelandic: Það er ekki hægt að keyra hægt hérna.
     english: It is not possible to drive slowly here.; Driving slowly here is not doable.
     lemmas: hægt, hægur
     depends_on: hægur, að keyra
