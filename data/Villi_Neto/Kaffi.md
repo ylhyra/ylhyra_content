@@ -1212,7 +1212,7 @@ title: Data:Villi Neto/Kaffi
         "contains": [
           "w_o2nr8"
         ],
-        "meaning": "I'm about to explain"
+        "meaning": "you know, y'know (emphatic filler)"
       },
       "1k70bws": {
         "contains": [
