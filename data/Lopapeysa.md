@@ -4187,7 +4187,7 @@ title: Data:Lopapeysa
         "contains": [
           "w_naaf49"
         ],
-        "meaning": "you, onseself"
+        "meaning": "you, oneself"
       },
       "btam0m": {
         "contains": [
