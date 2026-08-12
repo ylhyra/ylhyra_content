@@ -778,7 +778,7 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
         "contains": [
           "w_rDRsN9KeSk"
         ],
-        "meaning": "yours"
+        "meaning": "your"
       },
       "1kujcmh": {
         "contains": [
