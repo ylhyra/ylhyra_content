@@ -5367,7 +5367,7 @@ title: Data:Imba/afi
         "contains": [
           "w_12wu92"
         ],
-        "meaning": "faster"
+        "meaning": "slower, more slowly"
       },
       "ghl7f0": {
         "contains": [
