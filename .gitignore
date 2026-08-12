@@ -4,3 +4,4 @@ not_data/test/*
 **/BACKUP/**
 .idea
 exports
+SUGGESTIONS.md
