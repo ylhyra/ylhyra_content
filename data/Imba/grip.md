@@ -4542,7 +4542,7 @@ title: Data:Imba/grip
         "meaning": "but nonetheless crowded"
       },
       "s_vdav73": {
-        "meaning": "because she is stuck supposedly in a dream"
+        "meaning": "because she is stuck in a supposed dream"
       },
       "s_vdav81": {
         "meaning": "stuck between being asleep and awake"
