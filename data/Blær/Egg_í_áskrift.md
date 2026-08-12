@@ -8198,7 +8198,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_1jq8b"
         ],
-        "meaning": "a visiti"
+        "meaning": "a visit"
       },
       "1yei5s4": {
         "contains": [
