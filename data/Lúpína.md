@@ -7758,7 +7758,7 @@ title: Data:Lúpína
         "contains": [
           "w_1t9w20"
         ],
-        "meaning": "influence"
+        "meaning": "influence, effects"
       },
       "76qnri": {
         "contains": [
