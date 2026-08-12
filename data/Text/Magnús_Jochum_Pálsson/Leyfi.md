@@ -848,7 +848,7 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
         "contains": [
           "w_g2rWLtXBQB4"
         ],
-        "meaning": "her"
+        "meaning": "it (the book)"
       },
       "oaiq7m": {
         "contains": [
@@ -872,7 +872,7 @@ title: Data:Text:Magnús Jochum Pálsson/Leyfi
         "contains": [
           "w_NlBLDIfDU-d"
         ],
-        "meaning": "her"
+        "meaning": "it (the book)"
       },
       "sqamxy": {
         "contains": [
