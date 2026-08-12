@@ -24825,7 +24825,7 @@ title: Data:Blær/LungA
         "contains": [
           "w_7lL4x5DiSrs"
         ],
-        "meaning": "bettera"
+        "meaning": "better"
       },
       "tucpf1": {
         "contains": [
