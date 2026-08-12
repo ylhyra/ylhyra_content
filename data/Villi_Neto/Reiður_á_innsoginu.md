@@ -1293,7 +1293,7 @@ title: Data:Villi Neto/Reiður á innsoginu
       },
       "s_zxfi23": {
         "meaning": "I'm practically a single father since you're just...",
-        "note": "I'm just a single father, almost, sine you're just..."
+        "note": "…almost, since you're just…"
       },
       "s_zxfi9": {
         "meaning": "What am I supposed to do?"
