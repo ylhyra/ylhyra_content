@@ -47539,7 +47539,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "All around the beauty of nature really shines, and the view over the fjord is like no other."
       },
       "s_iPLq6lkvrdE9": {
-        "meaning": "By the innermost part of the fjord is Haydalur, where a tourist service is operated."
+        "meaning": "By the innermost part of the fjord is Heydalur, where a tourist service is operated."
       },
       "s_iS5GqRN8mIPo": {
         "meaning": "Previously there was a grocery store here."
