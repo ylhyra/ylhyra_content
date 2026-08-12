@@ -6718,7 +6718,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_WZh7Fc-BXc7_": {
         "id": "s_WZh7Fc-BXc7_",
-        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrinni.",
+        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrunni.",
         "words": [
           "„",
           {
@@ -6768,7 +6768,7 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_RfIcQnTuObns",
-            "text": "náttúrinni"
+            "text": "náttúrunni"
           },
           ". "
         ]
@@ -12431,7 +12431,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_RfIcQnTuObns": {
         "belongsToSentence": "s_WZh7Fc-BXc7_",
         "id": "w_RfIcQnTuObns",
-        "text": "náttúrinni"
+        "text": "náttúrunni"
       },
       "w_RnzU4hy5r-xM": {
         "belongsToSentence": "s_dkIXdszx6oXQ",
@@ -19916,7 +19916,7 @@ title: Data:Blær/Fyrst við erum hérna
       },
       "s_WZh7Fc-BXc7_": {
         "id": "s_WZh7Fc-BXc7_",
-        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrinni.",
+        "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrunni.",
         "words": [
           "„",
           {
@@ -19966,7 +19966,7 @@ title: Data:Blær/Fyrst við erum hérna
           " ",
           {
             "id": "w_RfIcQnTuObns",
-            "text": "náttúrinni"
+            "text": "náttúrunni"
           },
           ". "
         ]
@@ -25631,7 +25631,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_RfIcQnTuObns": {
         "belongsToSentence": "s_WZh7Fc-BXc7_",
         "id": "w_RfIcQnTuObns",
-        "text": "náttúrinni"
+        "text": "náttúrunni"
       },
       "w_RnzU4hy5r-xM": {
         "belongsToSentence": "s_dkIXdszx6oXQ",
@@ -32942,7 +32942,7 @@ title: Data:Blær/Fyrst við erum hérna
       "w_RLSA30uN6Kqx": "fossinn",
       "w_RTYsug46d3vo": "í kring um",
       "w_RVo3wnwSjL6E": "í leit að",
-      "w_RfIcQnTuObns": "náttúrinni",
+      "w_RfIcQnTuObns": "náttúrunni",
       "w_RnzU4hy5r-xM": "á",
       "w_RoJsF6urw1o": "um að gera",
       "w_RvI174c4ZSFH": "ofar",
@@ -39852,7 +39852,7 @@ title: Data:Blær/Fyrst við erum hérna
       "sentences": [
         {
           "id": "s_WZh7Fc-BXc7_",
-          "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrinni.",
+          "text": "„Ég kom upphaflega hingað til Íslands í sumarfrí útaf náttúrunni.",
           "words": [
             "„",
             {
@@ -39902,7 +39902,7 @@ title: Data:Blær/Fyrst við erum hérna
             " ",
             {
               "id": "w_RfIcQnTuObns",
-              "text": "náttúrinni"
+              "text": "náttúrunni"
             },
             ". "
           ]
