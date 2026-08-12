@@ -9317,7 +9317,7 @@ title: Data:Egils saga/Veisla hjá afa
         "meaning": "Egill is a three year old boy who lives in Iceland."
       },
       "s_esty79": {
-        "meaning": "Egill's family is going (to go) to the party."
+        "meaning": "Egill's family is going to the party."
       },
       "s_esty86": {
         "meaning": "\"Can I come with you?\" Egill asks his father."
