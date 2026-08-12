@@ -16860,7 +16860,7 @@ rows:
     row_id: 2820
     last_seen: "2021-10-14"
   - icelandic: sofðu
-    english: sleep!
+    english: Sleep!
     lemmas: að sofa
     level: 3
     note_regarding_english: "{{bhet}}"
