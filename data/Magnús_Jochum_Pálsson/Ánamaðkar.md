@@ -8052,7 +8052,7 @@ title: Data:Magnús Jochum Pálsson/Ánamaðkar
         ],
         "difficult": false,
         "direct": "",
-        "meaning": "disasters",
+        "meaning": "of the disasters",
         "show_definition_above": true
       },
       "6cgcfd": {

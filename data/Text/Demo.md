@@ -3743,7 +3743,7 @@ title: Data:Template:Demo
         ],
         "difficult": false,
         "direct": "",
-        "meaning": "disasters",
+        "meaning": "of the disasters",
         "show_definition_above": true
       },
       "6cgcfd": {
