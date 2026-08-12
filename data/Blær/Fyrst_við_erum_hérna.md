@@ -47294,7 +47294,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "That is to say, if we're still alive."
       },
       "s_2Z89D5knHCJ": {
-        "meaning": "After having visited the southern parts of the fjords the summer before, we wanter to take a long weekend this time and investigate which places would be worth visiting."
+        "meaning": "After having visited the southern parts of the fjords the summer before, we wanted to take a long weekend this time and investigate which places would be worth visiting."
       },
       "s_3ccKO1HewLbO": {
         "meaning": "The couple also furnished the second floor and they live there."
