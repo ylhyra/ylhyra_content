@@ -9380,7 +9380,7 @@ title: Data:Blær/Egg í áskrift
           "w_16tdm",
           "w_u48vq"
         ],
-        "meaning": "*there was little of"
+        "meaning": "*there was little of*"
       },
       "xlsugw": {
         "contains": [
