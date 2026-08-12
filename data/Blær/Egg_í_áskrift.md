@@ -10394,7 +10394,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_u2tlj"
         ],
-        "meaning": "of the stock"
+        "meaning": "the stock"
       },
       "1kda8qk": {
         "contains": [
