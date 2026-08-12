@@ -12103,7 +12103,7 @@ title: Data:Blær/Egg í áskrift
         "contains": [
           "w_chxri"
         ],
-        "meaning": "gleamingly"
+        "meaning": "splendidly, very (well)"
       },
       "cnplh0": {
         "contains": [
