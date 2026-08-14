@@ -2991,7 +2991,7 @@ title: Data:Imba/ég veit
         "contains": [
           "w_1xdm87"
         ],
-        "meaning": "furious, out of one's mind"
+        "meaning": "fanatical, insane"
       },
       "vhbq98": {
         "contains": [
@@ -3009,7 +3009,8 @@ title: Data:Imba/ég veit
         "contains": [
           "w_1xdm40"
         ],
-        "meaning": "it (the love)"
+        "meaning": "she",
+        "note": "Refers to ástin (“love”)."
       },
       "xgzp9e": {
         "contains": [
