@@ -33,6 +33,25 @@ test("uses whole words for semantically unrelated replacements", () => {
   assert.equal(result.after, '<mark class="added">white</mark>');
 });
 
+test("shows compact context without hiding distant changes", () => {
+  const prefix = Array.from({ length: 30 }, (_, index) => `prefix${index}`).join(" ");
+  const middle = Array.from({ length: 40 }, (_, index) => `middle${index}`).join(" ");
+  const suffix = Array.from({ length: 30 }, (_, index) => `suffix${index}`).join(" ");
+  const result = inlineDiff(
+    `${prefix} wrong-one ${middle} wrong-two ${suffix}`,
+    `${prefix} right-one ${middle} right-two ${suffix}`,
+  );
+  const beforeText = result.before.replace(/<[^>]+>/gu, "");
+  const afterText = result.after.replace(/<[^>]+>/gu, "");
+  assert.doesNotMatch(result.before, /prefix0/u);
+  assert.doesNotMatch(result.after, /suffix29/u);
+  assert.match(beforeText, /wrong-one/u);
+  assert.match(beforeText, /wrong-two/u);
+  assert.match(afterText, /right-one/u);
+  assert.match(afterText, /right-two/u);
+  assert.ok((result.after.match(/class="ellipsis"/gu) ?? []).length >= 3);
+});
+
 test("groups vocabulary fields while hiding IDs and bookkeeping", () => {
   const before = `rows:\n  - icelandic: Þessi pottur er of heitur.\n    english: This pot is too hot.\n    note_regarding_english: Old note.\n    lemmas: pottur, heitur\n    row_id: 42\n    last_seen: "2021-01-01"\n`;
   const after = `rows:\n  - icelandic: Þessi pottur er of heitur.\n    english: This saucepan is too hot.\n    note_regarding_english: Clearer note.\n    lemmas: pottur, heitur\n    row_id: 42\n    last_seen: "2026-01-01"\n`;

@@ -140,31 +140,6 @@ function sequenceDiff(before, after) {
   return parts;
 }
 
-function changedFlags(before, after) {
-  const table = Array.from({ length: before.length + 1 }, () => new Uint32Array(after.length + 1));
-  for (let i = before.length - 1; i >= 0; i -= 1) {
-    for (let j = after.length - 1; j >= 0; j -= 1) {
-      table[i][j] = before[i] === after[j]
-        ? table[i + 1][j + 1] + 1
-        : Math.max(table[i + 1][j], table[i][j + 1]);
-    }
-  }
-  const beforeChanged = Array(before.length).fill(true);
-  const afterChanged = Array(after.length).fill(true);
-  let i = 0;
-  let j = 0;
-  while (i < before.length && j < after.length) {
-    if (before[i] === after[j]) {
-      beforeChanged[i] = false;
-      afterChanged[j] = false;
-      i += 1;
-      j += 1;
-    } else if (table[i + 1][j] >= table[i][j + 1]) i += 1;
-    else j += 1;
-  }
-  return { beforeChanged, afterChanged };
-}
-
 function diffWords(before, after) {
   return jsDiff?.diffWordsWithSpace
     ? jsDiff.diffWordsWithSpace(before, after)
@@ -205,24 +180,35 @@ function isSpellingScale(removed, added) {
   return longest <= 30 && editDistance(before, after) / longest <= 0.5;
 }
 
-function focusPair(beforeValue, afterValue, padding = 24, maximum = 120) {
-  const before = tokenize(beforeValue);
-  const after = tokenize(afterValue);
-  const { beforeChanged, afterChanged } = changedFlags(before, after);
-  const crop = (list, changed) => {
-    const indexes = changed.flatMap((yes, index) => yes ? [index] : []);
-    if (!indexes.length || list.length <= maximum) return { text: list.join(""), croppedStart: false, croppedEnd: false };
-    const first = indexes[0];
-    const last = indexes.at(-1);
-    let start = Math.max(0, first - padding);
-    let end = Math.min(list.length, last + padding + 1);
-    if (end - start > maximum) {
-      start = Math.max(0, first - padding);
-      end = Math.min(list.length, start + maximum);
+function compactUnchanged(parts, context = 16) {
+  const changed = parts.map((part) => Boolean(part.added || part.removed));
+  if (!changed.some(Boolean)) return parts;
+  return parts.flatMap((part, index) => {
+    if (changed[index]) return [part];
+    const tokens = tokenize(part.value);
+    const hasChangeBefore = changed.slice(0, index).some(Boolean);
+    const hasChangeAfter = changed.slice(index + 1).some(Boolean);
+    if (!hasChangeBefore && tokens.length > context) {
+      return [
+        { value: "… ", ellipsis: true },
+        { ...part, value: tokens.slice(-context).join("").trimStart() },
+      ];
     }
-    return { text: list.slice(start, end).join(""), croppedStart: start > 0, croppedEnd: end < list.length };
-  };
-  return { before: crop(before, beforeChanged), after: crop(after, afterChanged) };
+    if (!hasChangeAfter && tokens.length > context) {
+      return [
+        { ...part, value: tokens.slice(0, context).join("").trimEnd() },
+        { value: " …", ellipsis: true },
+      ];
+    }
+    if (hasChangeBefore && hasChangeAfter && tokens.length > context * 2) {
+      return [
+        { ...part, value: `${tokens.slice(0, context).join("").trimEnd()} ` },
+        { value: "…", ellipsis: true },
+        { ...part, value: ` ${tokens.slice(-context).join("").trimStart()}` },
+      ];
+    }
+    return [part];
+  });
 }
 
 function renderSide(parts, side) {
@@ -231,7 +217,8 @@ function renderSide(parts, side) {
     if (side === "before" && part.added) continue;
     if (side === "after" && part.removed) continue;
     const value = escapeHtml(part.value);
-    if ((side === "before" && part.removed) || (side === "after" && part.added)) {
+    if (part.ellipsis) rendered.push(`<span class="ellipsis">${value}</span>`);
+    else if ((side === "before" && part.removed) || (side === "after" && part.added)) {
       rendered.push(`<mark class="${side === "before" ? "removed" : "added"}">${value}</mark>`);
     } else rendered.push(value);
   }
@@ -239,27 +226,21 @@ function renderSide(parts, side) {
 }
 
 export function inlineDiff(beforeValue, afterValue) {
-  const focused = focusPair(beforeValue, afterValue);
-  const wordParts = diffWords(focused.before.text, focused.after.text);
+  const wordParts = diffWords(beforeValue, afterValue);
   const removed = wordParts.filter((part) => part.removed && part.value.trim());
   const added = wordParts.filter((part) => part.added && part.value.trim());
-  const parts = isSpellingScale(removed, added)
-    ? diffCharacters(focused.before.text, focused.after.text)
-    : wordParts;
+  const parts = compactUnchanged(isSpellingScale(removed, added)
+    ? diffCharacters(beforeValue, afterValue)
+    : wordParts);
   const empty = '<span class="empty">empty</span>';
   return {
     before: stringValue(beforeValue)
-      ? `${focused.before.croppedStart ? '<span class="ellipsis">…</span> ' : ""}${renderSide(parts, "before")}${focused.before.croppedEnd ? ' <span class="ellipsis">…</span>' : ""}`
+      ? renderSide(parts, "before")
       : empty,
     after: stringValue(afterValue)
-      ? `${focused.after.croppedStart ? '<span class="ellipsis">…</span> ' : ""}${renderSide(parts, "after")}${focused.after.croppedEnd ? ' <span class="ellipsis">…</span>' : ""}`
+      ? renderSide(parts, "after")
       : empty,
   };
-}
-
-function compact(value, maximum = 420) {
-  const clean = stringValue(value).replace(/\s+/gu, " ").trim();
-  return clean.length <= maximum ? clean : `${clean.slice(0, maximum - 1).trimEnd()}…`;
 }
 
 function buildIndex(document) {
