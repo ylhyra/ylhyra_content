@@ -1,5 +1,7 @@
 ---
 title: Cases/Exercises/Pabbi
+redirects:
+- Cases/Excercises/Pabbi
 tags:
 - Exercises
 level: A1

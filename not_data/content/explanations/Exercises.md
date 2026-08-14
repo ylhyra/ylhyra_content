@@ -1,5 +1,7 @@
 ---
 title: Exercises
+redirects:
+- Excercises
 license: CC0
 reviewed: no
 ---
