@@ -334,6 +334,53 @@ function supportingFields(changed, before, after) {
     .map(([field, value]) => ({ label: fieldLabel(field), value }));
 }
 
+export function sourceTextChanges(before, after) {
+  const oldSource = before?.list?.sentences ?? {};
+  const newSource = after?.list?.sentences ?? {};
+  const oldRemaining = new Set(Object.keys(oldSource));
+  const newRemaining = new Set(Object.keys(newSource));
+
+  // Preserve exact same-ID matches first, then pair identical text across IDs.
+  // The latter is an ID migration, not a learner-facing source-text change.
+  for (const id of oldRemaining) {
+    if (newRemaining.has(id) && stringValue(oldSource[id]?.text) === stringValue(newSource[id]?.text)) {
+      oldRemaining.delete(id);
+      newRemaining.delete(id);
+    }
+  }
+  for (const oldId of [...oldRemaining]) {
+    const text = stringValue(oldSource[oldId]?.text);
+    const newId = [...newRemaining].find((id) => stringValue(newSource[id]?.text) === text);
+    if (newId === undefined) continue;
+    oldRemaining.delete(oldId);
+    newRemaining.delete(newId);
+  }
+
+  const pairs = [];
+  for (const id of [...oldRemaining]) {
+    if (!newRemaining.has(id)) continue;
+    pairs.push([id, id]);
+    oldRemaining.delete(id);
+    newRemaining.delete(id);
+  }
+  pairs.push(...[...oldRemaining].map((id) => [id, null]));
+  pairs.push(...[...newRemaining].map((id) => [null, id]));
+
+  return pairs.flatMap(([oldId, newId]) => {
+    const oldText = oldId ? oldSource[oldId]?.text : undefined;
+    const newText = newId ? newSource[newId]?.text : undefined;
+    if (!hasTextChange(oldText, newText)) return [];
+    const context = (newId ? sentenceContext(after, newId) : null)
+      ?? (oldId ? sentenceContext(before, oldId) : null);
+    return [{
+      kind: "source",
+      label: "Icelandic source text",
+      context: context ? { before: context.before, after: context.after } : null,
+      fields: [{ label: "Icelandic", before: stringValue(oldText), after: stringValue(newText) }],
+    }];
+  });
+}
+
 const VOCABULARY_HIDDEN_FIELDS = new Set([
   "row_id", "last_seen", "level", "importance", "difficulty",
 ]);
@@ -438,20 +485,7 @@ function reviewDataFile(beforeText, afterText) {
     });
   }
 
-  const oldSource = before?.list?.sentences ?? {};
-  const newSource = after?.list?.sentences ?? {};
-  for (const id of new Set([...Object.keys(oldSource), ...Object.keys(newSource)])) {
-    const oldText = oldSource[id]?.text;
-    const newText = newSource[id]?.text;
-    if (!hasTextChange(oldText, newText)) continue;
-    const context = sentenceContext(after, id) ?? sentenceContext(before, id);
-    changes.push({
-      kind: "source",
-      label: "Icelandic source text",
-      context: context ? { before: context.before, after: context.after } : null,
-      fields: [{ label: "Icelandic", before: stringValue(oldText), after: stringValue(newText) }],
-    });
-  }
+  changes.push(...sourceTextChanges(before, after));
   return changes;
 }
 

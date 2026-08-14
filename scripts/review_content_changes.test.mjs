@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { classifyFile, hasTextChange, inlineDiff, reviewVocabularyFile } from "./review_content_changes.mjs";
+import { classifyFile, hasTextChange, inlineDiff, reviewVocabularyFile, sourceTextChanges } from "./review_content_changes.mjs";
 
 test("filters the comparison to learner-facing files", () => {
   assert.equal(classifyFile("data/Sund.md"), "translations");
@@ -50,4 +50,27 @@ test("ignores changes that only trim surrounding whitespace", () => {
   const before = `rows:\n  - icelandic: Halló.\n    english: " Hello. "\n    note_regarding_english: " Keep me. "\n    row_id: 7\n`;
   const after = `rows:\n  - icelandic: Halló.\n    english: Hello.\n    note_regarding_english: Keep me.\n    row_id: 7\n`;
   assert.deepEqual(reviewVocabularyFile(before, after), []);
+});
+
+test("does not present pullout-quote ID migrations as source rewrites", () => {
+  const sentence = (text) => ({ text });
+  const before = { list: { sentences: {
+    old_article_id: sentence("Nokkrum árum síðar vorum við í partíi."),
+    old_pullout_id: sentence("Ertu enn ástfangin af honum?"),
+  } } };
+  const after = { list: { sentences: {
+    article_id: sentence("Nokkrum árum síðar vorum við í partíi."),
+    old_article_id: sentence("Ertu enn ástfangin af honum?"),
+  } } };
+  assert.deepEqual(sourceTextChanges(before, after), []);
+});
+
+test("still reports deletion of one duplicated pullout occurrence", () => {
+  const sentence = (text) => ({ text });
+  const before = { list: { sentences: { first: sentence("Pullout"), second: sentence("Pullout") } } };
+  const after = { list: { sentences: { first: sentence("Pullout") } } };
+  const changes = sourceTextChanges(before, after);
+  assert.equal(changes.length, 1);
+  assert.equal(changes[0].fields[0].before, "Pullout");
+  assert.equal(changes[0].fields[0].after, "");
 });
