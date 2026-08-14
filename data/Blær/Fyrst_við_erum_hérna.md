@@ -46042,7 +46042,8 @@ title: Data:Blær/Fyrst við erum hérna
         "contains": [
           "w_mLUtM63UzBEM"
         ],
-        "meaning": "was (subjunctive)"
+        "meaning": "was",
+        "note": "Subjunctive form."
       },
       "la7r9h": {
         "contains": [
