@@ -47595,7 +47595,7 @@ title: Data:Blær/Fyrst við erum hérna
         "meaning": "Someone pointed us to the old bakery, which was good and reliable,"
       },
       "s_tTVg3vk_Uq2": {
-        "meaning": "It was getting on for one in the morning when we arrived, and he had prepared the best fish soup we have ever tasted."
+        "meaning": "It was around midnight when we arrived, and he had prepared the best fish soup we have ever tasted."
       },
       "s_tpGwMTSGJ-BL": {
         "meaning": "This [hiking] is quite a purification."
