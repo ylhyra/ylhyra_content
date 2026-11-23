@@ -205,13 +205,16 @@ This is a list of the most common verbs and which [[case]] they cause.
 **[[Dative case]] (the third case): „Hann tók því illa.“ (He took it badly) – Referring to emotional responses.
 *að gefa (to give someone)
 **[[Dative case]] (the third case) ''and then'' [[accusative case]] (the second case): To give ''someone'' an ''object''. „Ég gaf honum {{þgf}} jólagjöfina {{þf}}.“ (I gave him the present)
-*að þurfa
-**[[Accusative case]] (the second case): The second case usually refers to '''needing something'''. „Ég þarf gleraugu. Ég þarf þau.“
-**[[Dative case]] (the third case): The third case usually refers to '''needing to'''. „Ég þarf þess ekki.“ (I don't need to do it)
 *að borga
 **„Þú getur borgað mér {{þgf}} það {{þf}} á eftir.“ (You can pay me it later). Paying someone is the [[dative case]] (the third case), paying for something is the [[accusative case]] (the second case).
 *að kenna
 **„Hver kenndi þér {{þgf}} þetta {{þf}}?“
+
+## Can either cause the [[Second case|second]] or [[genitive case]] (the fourth case)
+
+*að þurfa
+**[[Accusative case]] (the second case): The second case usually refers to '''needing something'''. „Ég þarf gleraugu. Ég þarf þau.“
+**[[Genitive case]] (the fourth case): The fourth case usually refers to '''needing to'''. „Ég þarf þess ekki.“ (I don't need to do it)
 
 ## [[Genitive case]] (the fourth case)
 
