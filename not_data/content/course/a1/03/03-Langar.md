@@ -19,7 +19,7 @@ Mig langar að kunna íslensku.
 
 "Mig langar" means "I want / I yearn for" and by itself most often describes what you want to do. It is a slightly sentimental way of describing your desires and is related to the English phrase "I long for".
 
-In the same way that the English word "she" turns into "her" depending on what's happening to it in the sentence, the word "ég" (*I*) turns into "mig" (*me*) depending on context. "Ég" is the [[nominative case]] (the first case)<note>The nominative case</note> and "mig" is the [[accusative case]] (the second case).<note>The accusative case</note>
+In the same way that the English word "she" turns into "her" depending on what's happening to it in the sentence, the word "ég" (*I*) turns into "mig" (*me*) depending on context. "Ég" is the [[nominative case]] (the first case) and "mig" is the [[accusative case]] (the second case).
 
 The grammar of "mig langar" is fairly confusing – it's "''**me** wants''" instead of "''**I** want''". The reason behind it<note>The reason is that "að langa" is an [[impersonal verb]].</note> is not important right now.
 

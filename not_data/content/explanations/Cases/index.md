@@ -14,10 +14,10 @@ reviewed: no
 
 [[Nouns]], [[adjectives]], and [[pronouns]] all change their form depending on what's happening to them in a sentence. There are four such '''cases''' in Icelandic:
 
-1. The first case is the '''[[nominative case]]''' (''nefnifall, nf.''). It indicates '''being'''. The main word of the sentence is usually always in this case.
-2. The second case is the '''[[accusative case]]''' (''þolfall, þf.''). It indicates '''suffering'''.
-3. The third case is the '''[[dative case]]''' (''þágufall, þgf.''). It indicates '''having'''. It shows that the word has something or is being given something.
-4. The fourth case is the '''[[genitive case]]''' (''eignarfall, ef.''). It indicates '''belonging''', showing that the word belongs to something.
+1. '''[[Nominative case]]''' (''nefnifall, nf.''). It indicates '''being'''. The main word of the sentence is usually always in this case.
+2. '''[[Accusative case]]''' (''þolfall, þf.''). It indicates '''suffering'''.
+3. '''[[Dative case]]''' (''þágufall, þgf.''). It indicates '''having'''. It shows that the word has something or is being given something.
+4. '''[[Genitive case]]''' (''eignarfall, ef.''). It indicates '''belonging''', showing that the word belongs to something.
 
 These cases are always shown in the same order, and you should follow this order when [[declension|studying words]]. (If you have studied languages such as German, Latin, or Russian, note that they use a different order for their cases).<note>The standard way of showing the four cases in German is ''[[nominative]], [[genitive]], [[dative]], [[accusative]]'' while in Icelandic the order is ''[[nominative]], [[accusative]], [[dative]], [[genitive]]''.</note>
 

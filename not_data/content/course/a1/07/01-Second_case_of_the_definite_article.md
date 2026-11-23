@@ -1,5 +1,7 @@
 ---
-title: Course/Second case of the definite article (masculine)
+title: Course/Accusative case of the definite article (masculine)
+redirects:
+- Course/Second case of the definite article (masculine)
 reviewed: no
 ---
 <vocabulary>
@@ -28,15 +30,15 @@ Hvað er þátturinn um?
 Langar vin þinn að koma með?
 </vocabulary>
 
-# Second case of the masculine definite article
+# Accusative case of the masculine definite article
 
-The [[definite article]] "hinn" has the same form in the [[first case|first]] and [[accusative case]] (the second case) for [[masculine]] [[singular]] [[noun]]s. As you know, you create the first case like so:
+The [[definite article]] "hinn" has the same form in the [[nominative case|nominative]] and [[accusative case]] for [[masculine]] [[singular]] [[noun]]s. As you know, you create the nominative case like so:
 * hér er hamborgari + {{g|h}}inn -> hér er hamborgari**nn** (here is **the** hamburger).
 
-The second case then follows the same pattern:
+The accusative case then follows the same pattern:
 * um hamborgara + {{g|h}}inn. We don't care about the "h" and so we're left with "um hamborgara + inn". The vowel in the word itself is more important than the vowel in the definite article, and so we get "um hamborgara + nn" -> "um hamborgara**nn**" (about **the** hamburger).
 
-The word "minn" also has the same form in the first and second case in masculine singular:
+The word "minn" also has the same form in the nominative and accusative case in masculine singular:
 * hér er hamborgarinn minn – um hamborgarann minn
 
 ## The "fiskur" pattern

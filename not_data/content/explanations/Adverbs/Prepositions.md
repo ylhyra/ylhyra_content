@@ -43,7 +43,7 @@ The following prepositions always cause words to be in the [[Genitive|'''genitiv
 
 ***
 
-## Prepositions that can either cause the second or the third case
+## Prepositions that can either cause the accusative or the dative case
 Several prepositions can cause either the [[accusative case]] (the second case) or the [[dative case]] (the third case) depending on context. In most of the following examples, the general rule is:
 
 *The [[accusative case]] (the second case) {{þf}} indicates that the subject is moving relative to the object.

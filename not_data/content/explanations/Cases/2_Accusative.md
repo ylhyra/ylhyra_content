@@ -15,7 +15,7 @@ level: A1
 
 # Accusative case <small>– the second case</small>
 
-There are four [[cases]] in Icelandic. The second case in the [[declension table]] is the '''accusative case''' (''þolfall'', abbreviated as ''þf.'').<note>A way to remember this word is to think that if someone is "accused", then there is some action that is happening to them.<br/>Þolfall literally means "suffering/enduring case".</note> It shows that the word is having something done to it.
+There are four [[cases]] in Icelandic. The '''accusative case''' (''þolfall'', abbreviated as ''þf.'') is the second case in the [[declension table]].<note>A way to remember this word is to think that if someone is "accused", then there is some action that is happening to them.<br/>Þolfall literally means "suffering/enduring case".</note> It shows that the word is having something done to it.
 
 The [[helper word]] you use to force a word into the accusative case is „um“ ("about").
 

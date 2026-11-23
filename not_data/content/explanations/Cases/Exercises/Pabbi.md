@@ -37,10 +37,10 @@ Ekki trufla afa.
 
 ## The "pabbi" declension pattern
 
-The "pabbi" pattern is the most common [[List of noun declension patterns|declension pattern]] for [[masculine]] terms that end in "-i". The first two [[cases]] are:
+The "pabbi" pattern is the most common [[List of noun declension patterns|declension pattern]] for [[masculine]] terms that end in "-i". The [[nominative]] and [[accusative]] [[cases]] are:
 
 * hér er pabb**i**, um pabb**a**
 
-Compare this to the first two cases of the "mamma" pattern:
+Compare this to the nominative and accusative cases of the "mamma" pattern:
 
 * hér er kon**a**, um kon**u**

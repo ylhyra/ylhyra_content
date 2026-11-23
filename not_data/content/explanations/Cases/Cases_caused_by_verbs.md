@@ -195,7 +195,7 @@ This is a list of the most common verbs and which [[case]] they cause.
 *að þakka
 **„Ég verð að þakka þér fyrir það.“
 
-## Can either cause the [[Second case|second]] or [[dative case]] (the third case) (or both)
+## Can either cause the [[accusative case]] (the second case) or [[dative case]] (the third case) (or both)
 
 *að segja
 **[[Accusative case]] (the second case): „Hver sagði það {{þf}}?“ (Who '''said''' that?)
@@ -210,7 +210,7 @@ This is a list of the most common verbs and which [[case]] they cause.
 *að kenna
 **„Hver kenndi þér {{þgf}} þetta {{þf}}?“
 
-## Can either cause the [[Second case|second]] or [[genitive case]] (the fourth case)
+## Can either cause the [[accusative case]] (the second case) or [[genitive case]] (the fourth case)
 
 *að þurfa
 **[[Accusative case]] (the second case): The second case usually refers to '''needing something'''. „Ég þarf gleraugu. Ég þarf þau.“

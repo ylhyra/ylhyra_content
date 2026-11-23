@@ -2696,7 +2696,7 @@ rows:
     lemmas: kærasti, útland
     depends_on: útlönd, kærasti
     level: 2
-    note: The third case is used since you are accompanying your boyfriend and he has agency. If your boyfriend did not have agency, you would use the second case.
+    note: The dative case is used since you are accompanying your boyfriend and he has agency. If your boyfriend did not have agency, you would use the accusative case.
     row_id: 415
     last_seen: "2021-07-30"
   - icelandic: að fara til útlanda
@@ -14373,7 +14373,7 @@ rows:
     depends_on: matur
     alternative_id: uppáhalds
     level: 2
-    note: "\"Uppáhalds-\" (the fourth case of \"uppáhald\") is used when describing your favorite something. People often write it separately (\"uppáhalds maturinn\")."
+    note: "\"Uppáhalds-\" (the genitive case of \"uppáhald\") is used when describing your favorite something. People often write it separately (\"uppáhalds maturinn\")."
     row_id: 2401
     last_seen: "2021-08-01"
   - icelandic: lífið mitt

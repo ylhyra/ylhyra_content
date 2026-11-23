@@ -37,7 +37,7 @@ Unlike in English however, the same happens with the word `að geta`:
 
 *Ég get farið (I can go)
 
-The form used in this context is '''always''' the [[Gender|neuter]] form in the [[Nominative case|first case]].<note>Because this form does not change at all, you might see a few books describe it as its own form, called the ''supine'' (''sagnbót'') form. For example, [https://bin.arnastofnun.is/ BÍN] lists this form by itself. However, since it always looks and behaves like the past participle, [[neuter]], [[nominative]], standard grammar books and school textbooks do not differentiate between the two. You can safely ignore this difference.</note> It does not change depending on the subject.
+The form used in this context is '''always''' the [[Gender|neuter]] form in the [[nominative case]].<note>Because this form does not change at all, you might see a few books describe it as its own form, called the ''supine'' (''sagnbót'') form. For example, [https://bin.arnastofnun.is/ BÍN] lists this form by itself. However, since it always looks and behaves like the past participle, [[neuter]], [[nominative]], standard grammar books and school textbooks do not differentiate between the two. You can safely ignore this difference.</note> It does not change depending on the subject.
 
 ## How to form the past participle
 The formation of the past participle does not follow any rules that you can easily memorize and there are many irregular ones. What you're usually trying to do is to make the word end in `-að`, `-ið`, `-ð` or `-t`.

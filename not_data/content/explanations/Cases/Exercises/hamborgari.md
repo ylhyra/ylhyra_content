@@ -26,7 +26,7 @@ You do not need to memorize these for now, instead what you should do is that fo
 <Collapse>
 Þetta er '''hamborgarinn minn'''. {{nf}}
 
-The word "er" causes the first case, so here we use the first case.
+The word "er" causes the nominative case, so here we use the nominative case.
 </Collapse>
 ***
 
@@ -35,7 +35,7 @@ Vilt þú ______? (Do you want my hamburger?)
 <Collapse>
 Vilt þú '''hamborgarann minn'''? {{þf}}
 
-The word "vilja" causes the second case.
+The word "vilja" causes the accusative case.
 </Collapse>
 ***
 
@@ -44,7 +44,7 @@ The word "vilja" causes the second case.
 <Collapse>
 Ég ætla að setja ost á '''hamborgarann minn'''. {{þf}}
 
-Here there is movement from the cheese to the hamburger. Because there is movement, the word "á" causes the second case.
+Here there is movement from the cheese to the hamburger. Because there is movement, the word "á" causes the accusative case.
 </Collapse>
 ***
 
@@ -53,7 +53,7 @@ Here there is movement from the cheese to the hamburger. Because there is moveme
 <Collapse>
 Það er ostur á '''hamborgaranum mínum'''. {{þgf}}
 
-Here there is '''no''' movement, the cheese is staying still on the hamburger. Because there is no relative movement, the word "á" causes the third case.
+Here there is '''no''' movement, the cheese is staying still on the hamburger. Because there is no relative movement, the word "á" causes the dative case.
 </Collapse>
 ***
 
@@ -62,7 +62,7 @@ Here there is '''no''' movement, the cheese is staying still on the hamburger. B
 <Collapse>
 Ég ætla að borða '''hamborgarann minn'''. {{þf}}
 
-The word "borða" causes the second case.
+The word "borða" causes the accusative case.
 </Collapse>
 ***
 
@@ -71,5 +71,5 @@ Af hverju er ______ svona góður? (Why is my hamburger so good?)
 <Collapse>
 Af hverju er '''hamborgarinn minn''' {{nf}} svona góður?
 
-The word "er" causes the first case.
+The word "er" causes the nominative case.
 </Collapse>

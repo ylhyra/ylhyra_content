@@ -32,7 +32,7 @@ Like most [[verbs]], "að eiga" causes the [[accusative case]] (the second case)
 
 # The "pabbi" declension pattern
 
-The first two [[cases]] of "pabbi" (*dad*) are:
+The [[nominative]] and [[accusative]] [[cases]] of "pabbi" (*dad*) are:
 
 * hér er pabb**i**, um pabb**a**
 
@@ -41,5 +41,5 @@ This is a common pattern for masculine nouns. Remember that "hér er" and "um" a
 Examples:
 
 * Hann á pabb**a**. (*He has a dad.*) – Pabbi is the object of the verb "að eiga".
-* Þetta er hamborgar**i**. (*This is a hamburger.*) – The first case is used with "to be".
+* Þetta er hamborgar**i**. (*This is a hamburger.*) – The nominative case is used with "to be".
 * Ég ætla að borða hamborgar**a**. (*I'm going to eat a hamburger.*) – It is the object of the verb "að borða".

@@ -1,5 +1,7 @@
 ---
-title: Course/Second case of the personal pronouns
+title: Course/Accusative case of the personal pronouns
+redirects:
+- Course/Second case of the personal pronouns
 reviewed: no
 ---
 
@@ -26,9 +28,9 @@ Langar þig að hitta hana?
 Hana langar að hitta þig.
 </vocabulary>
 
-# Second case of the personal pronouns
+# Accusative case of the personal pronouns
 
-The first two [[cases]] of the [[personal pronouns]] are:
+The [[nominative]] and [[accusative]] [[cases]] of the [[personal pronouns]] are:
 
 * hér er ég, um mig (*I*)
 * hér ert þú, um þig (*you*)
@@ -36,4 +38,4 @@ The first two [[cases]] of the [[personal pronouns]] are:
 * hér er hún, um hana (*she*)
 * hér er það, um það (*it*)
 
-You already recognize the second case from "mig langar" and "þig langar", the only new form here is the form "um hana".
+You already recognize the accusative case from "mig langar" and "þig langar", the only new form here is the form "um hana".

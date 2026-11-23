@@ -37,11 +37,11 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 {{chapter|Course/Want 1 | Want ''(að langa)'' <!-- Langar -->}}
 {{chapter|Course/Why?}}
 # Unit {{incr}}
-{{chapter|Course/Introduction to cases|Introduction to cases <div class="toc_subtitle">The first two cases of the "mamma" pattern</div>}}
-{{chapter|Course/To own | To own  <div class="toc_subtitle">The first two cases of the "pabbi" pattern</div>}}
+{{chapter|Course/Introduction to cases|Introduction to cases <div class="toc_subtitle">The nominative and accusative cases of the "mamma" pattern</div>}}
+{{chapter|Course/To own | To own  <div class="toc_subtitle">The nominative and accusative cases of the "pabbi" pattern</div>}}
 {{chapter|Course/Future}}
 {{chapter|Course/In an hour}}
-{{chapter|Course/Second case of the personal pronouns}}
+{{chapter|Course/Accusative case of the personal pronouns}}
 # Unit {{incr}}
 {{chapter|Course/The|The "the"}}
 {{chapter|Course/My}}
@@ -52,7 +52,7 @@ Each unit should take about two weeks to master, assuming that you spend two hou
 {{chapter|Course/The (feminine)|The "the" for the feminine}}
 {{chapter|Course/My (feminine, neuter)|My (feminine and neuter)}}
 # Unit {{incr}}
-{{chapter|Course/Second case of the definite article (masculine)}}
+{{chapter|Course/Accusative case of the definite article (masculine)}}
 
 
 <!--***

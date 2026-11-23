@@ -45,7 +45,7 @@ Names:
 *Ólafur, Haukur, Haraldur, Eiríkur, Ingólfur, Hlynur, Vilhjálmur, Gunnlaugur
 
 ## The “fugl” pattern
-This is exactly the same pattern as "fiskur" except for the lack of the "ur" in the first case.
+This is exactly the same pattern as "fiskur" except for the lack of the "ur" in the nominative.
 
 {{Declension singular and plural
 |hákarl
@@ -62,11 +62,11 @@ Regular words:
 
 *háls, koss, rass, fugl, botn, ofn, örbylgjuofn
 
-Words where the consonant is duplicated only in the first case:
+Words where the consonant is duplicated only in the nominative:
 
 *morgunn, steinn, gaffall, trefill, djöfull, lykill, þjónn, himinn, Sveinn, Þorsteinn, Páll, Egill
 
-Words that show an omission of a letter in the third case:
+Words that show an omission of a letter in the dative:
 
 *hamar, sykur, gróður, gaffall, trefill, lykill, himinn, Egill
 
@@ -135,7 +135,7 @@ Predictable words:
 
 *arkitekt, ananas, vírus, ís, lás, bjór, kór, vír, gítar, mínus, pappír, bílskúr, plús, haus, lakkrís, strætó
 
-Words where the consonant is duplicated in the first case:
+Words where the consonant is duplicated in the nominative:
 
 *bíll, stóll, hæll, kjóll
 
@@ -195,7 +195,7 @@ Additional letter:
 
 *tölvuleikur, vængur, hringur, styrkur (j)
 
-Same except no "ur" in first case:
+Same except no "ur" in nominative:
 
 *bar (a->ö)
 
@@ -233,7 +233,7 @@ Names with umlaut:
 
 *Hörður (ö→e)
 
-The following words and names follow the same pattern as "vinur", except they don't have an "-ur" in the first case:
+The following words and names follow the same pattern as "vinur", except they don't have an "-ur" in the nominative:
 
 *björn (jö→i; jö→ja), Björn<ref name=":0" /> (jö→i; jö→ja), örn (ö→e; ö→a), Örn (ö→e; ö→a)
 
@@ -257,9 +257,9 @@ Words:
 
 Words with umlaut:
 
-*pabbi, afi, magi, spítali, félagi, banani, kastali, sandali (a→ö in plural third case)
-*þjálfari, kærasti, hamborgari, kennari, dómari, leikari, málari, múrari, pípari, prentari, ritari, svindlari, söngvari, þjálfari, hamborgari, geimfari, sjúkraþjálfari, ljósmyndari (a→u in plural third case)
-*brandari, bakari, hátalari, kjallari, brjóstahaldari (a→ö in plural third case, also a→u in plural third case)
+*pabbi, afi, magi, spítali, félagi, banani, kastali, sandali (a→ö in dative plural)
+*þjálfari, kærasti, hamborgari, kennari, dómari, leikari, málari, múrari, pípari, prentari, ritari, svindlari, söngvari, þjálfari, hamborgari, geimfari, sjúkraþjálfari, ljósmyndari (a→u in dative plural)
+*brandari, bakari, hátalari, kjallari, brjóstahaldari (a→ö in dative plural, also a→u in dative plural)
 
 Names:
 
@@ -330,7 +330,7 @@ Words:
 
 Irregularities:
 
-*stöð – The fourth case singular is "til stöð'''v'''ar", there is a "v" added
+*stöð – The genitive singular is "til stöð'''v'''ar", there is a "v" added
 
 Names:
 
@@ -410,13 +410,13 @@ Umlaut:
 *kaka, mamma, amma, fjara, panna, stjarna, taska, vara, karfa, kartafla, flaska, plata, saga, myndataka, tillaga, fjallganga (a→ö)
 *kærasta (a→u)
 
-Additional letter ("-na") in fourth case plural:
+Additional letter ("-na") in genitive plural:
 
 *fjölskylda, pylsa, sekúnda, mínúta, klukka, síða, stelpa, tunga, úlpa, tala, gúrka, hilla, regla, skyrta, súpa, þoka, fluga, veisla, vika, lögregla, blaðsíða, ryksuga, ástæða, kirkja, sulta, heilsugæsla
 
 Extreme irregularity:
 
-*kona, vinkona – in the fourth case plural it becomes "til k'''ve'''nna"
+*kona, vinkona – in the genitive plural it becomes "til k'''ve'''nna"
 
 Names:
 
@@ -469,7 +469,7 @@ Irregularities:
 # Neuter
 
 ## The “píanó” pattern
-Almost all neuter words follow this pattern. These words don't have a suffix in the first case plural. Instead, the plural is either the same as the singular (meaning people have to figure out from context whether you're talking about one or many items), or it is indicated with a sound change.{{Declension singular and plural
+Almost all neuter words follow this pattern. These words don't have a suffix in the nominative plural. Instead, the plural is either the same as the singular (meaning people have to figure out from context whether you're talking about one or many items), or it is indicated with a sound change.{{Declension singular and plural
 |píanó
 |píanó
 |píanó'''i'''
@@ -480,7 +480,7 @@ Almost all neuter words follow this pattern. These words don't have a suffix in 
 |píanó'''a'''
 }}
 
-Regular words that are the same in the first case singular and plural:
+Regular words that are the same in the nominative singular and plural:
 
 *ár, dæmi, hús, kjöt, bakarí, frí, hlé, partí, píanó, apótek, beikon, bein, bensín, bil, blóð, blóm, boð, borð, brauð, bréf, brjóst, bull, dót, dýr, flug, fólk, frost, gat, gler, gos, gólf, gras, grill, grín, gull, haf, haust, hár, hjól, hljóð, hraun, hunang, járn, klósett, korter, kort, krem, kvöld, lauf, lán, lið, líf, ljóð, ljós, loft, lok, lyf, mál, morð, nám, nef, net, orð, pils, pláss, próf, ráð, rán, rok, rugl, ryk, skáld, skip, skott, skyn, ský, slys, smjör, spil, stál, stig, stígvél, stríð, sund, svið, svín, tóbak, tungl, úr, verð, vín, vopn, vor, augnablik, matarboð, tilboð, gæludýr, netfang, snjóflóð, hrísgrjón, áhrif,<note>Only used in the plural</note> straujárn, blómkál, morgunkorn, ferðalag, andlit, tungumál, símanúmer, hitastig, dagatal, samtal, viðtal, álver, hlutverk, félag, rúm, bókasafn, vínber, takmark, tímabil, samfélag, lykilorð, forrit, tímarit, krabbamein, eftirlit, rafmagn, sjónvarp, brúðkaup, námskeið, málverk, vandamál, skordýr, eldhús, leikhús, útlit, listaverk, hótel, te, bíó, hlið (in the meaning of "a gate")
 
@@ -489,11 +489,11 @@ Umlaut in the plural:
 *gras, lamb, barn, fjall, glas, nafn, skjal, bað, bak, ball, blað, bragð, fjall, lag, lamb, land, kærustupar, plan, plast, salt, spjall, starf, svar, val, vatn, myndband, samband, þak, dagblað (a→ö)
 *sumar (a->u)
 
-Omission of a letter in the third case singular:
+Omission of a letter in the dative singular:
 
 *veður, höfuð, suður, austur, norður, sumar
 
-Adds "j" in third case plural:
+Adds "j" in dative plural:
 
 *egg ("frá eggjum")
 
@@ -538,7 +538,7 @@ Regular words:
 
 *afmæli, atriði, belti, bindi, efni, einkenni, epli, fangelsi, frelsi, gengi, heimili, kerfi, leyfi, leyti, læri, merki, ríki, salerni, skilti, skíði, stræti, stykki, stæði, súkkulaði, svæði, systkini, teppi, typpi, tæki, öryggi, snjóbretti, hádegi, verkefni, hljóðfæri, tækifæri, baðherbergi, viðskipti, samhengi,<ref name="singular" /> áfengi,<ref name="singular" /> ofbeldi,<ref name="singular" /> ofnæmi,<ref name="singular" /> helvíti,<ref name="singular" /> kaffi,<ref name="singular" /> nammi<ref name="singular" />
 
-Insertion of a "j" in the third case plural:
+Insertion of a "j" in the dative plural:
 
 *herbergi
 
