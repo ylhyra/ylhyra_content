@@ -180,8 +180,6 @@ This is a list of the most common verbs and which [[case]] they cause.
 **„Skilaðu þessu.“
 *að skipta
 **„Skiptir engu máli.“
-*að skulda
-**„Hvað skulda ég þér mikið?“
 *að svara
 **„Svaraðu henni.“
 *að sýna
@@ -209,6 +207,8 @@ This is a list of the most common verbs and which [[case]] they cause.
 **„Þú getur borgað mér {{þgf}} það {{þf}} á eftir.“ (You can pay me it later). Paying someone is the [[dative case]] (the third case), paying for something is the [[accusative case]] (the second case).
 *að kenna
 **„Hver kenndi þér {{þgf}} þetta {{þf}}?“
+*að skulda
+**„Ég skulda honum {{þgf}} pening {{þf}}.“
 
 ## Can either cause the [[accusative case]] (the second case) or [[genitive case]] (the fourth case)
 

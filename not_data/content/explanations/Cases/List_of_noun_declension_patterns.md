@@ -38,7 +38,16 @@ Declension singular and plural
 
 Regular words:
 
-*fiskur, hundur, hestur, dagur, tómatur, bátur, eldur, heimur, vindur, punktur, munnur, ormur, stormur, ostur, póstur, prestur, pottur, blýantur, gangur, garður, hattur, sandur, vaskur, partur, kokkur, diskur, peningar, helmingur, reikningur, víkingur, unglingur, samningur, þriðjungur, geitungur, dómur, draumur, lögfræðingur, sálfræðingur, verkfræðingur, sjúkdómur, aldur, plástur, hnífur, þjófur, laukur, strákur, hreimur, hópur, skápur, hvítlaukur, ísskápur, bakgrunnur, tölvupóstur, misskilningur
+*fiskur, hundur, hestur, bátur, eldur, heimur, vindur, punktur, munnur, ormur, stormur, ostur, póstur, prestur, pottur, kokkur, diskur, peningar, helmingur, reikningur, víkingur, unglingur, samningur, þriðjungur, geitungur, dómur, draumur, lögfræðingur, sálfræðingur, verkfræðingur, sjúkdómur, bakgrunnur, tölvupóstur, misskilningur
+
+Umlaut:
+
+*dagur (a→e in the dative singular)
+*tómatur, blýantur, gangur, garður, hattur, sandur, vaskur, partur (a→ö in dative plural)
+
+No "i" in the dative singular:
+
+*skápur, ísskápur, hnífur, þjófur, laukur, strákur, hreimur, hópur, hvítlaukur
 
 Names:
 
@@ -60,24 +69,25 @@ This is exactly the same pattern as "fiskur" except for the lack of the "ur" in 
 
 Regular words:
 
-*háls, koss, rass, fugl, botn, ofn, örbylgjuofn
+*háls, koss, fugl, botn, ofn, örbylgjuofn
 
 Words where the consonant is duplicated only in the nominative:
 
-*morgunn, steinn, gaffall, trefill, djöfull, lykill, þjónn, himinn, Sveinn, Þorsteinn, Páll, Egill
+*morgunn, steinn, gaffall, trefill, djöfull, lykill, þjónn, himinn, Sveinn, Þorsteinn, Páll, Egill, Kristinn, Þórarinn, Hafsteinn, Aðalsteinn
 
 Words that show an omission of a letter in the dative:
 
-*hamar, sykur, gróður, gaffall, trefill, lykill, himinn, Egill
+*hamar, sykur, gróður, aldur, plástur, gaffall, trefill, lykill, himinn, Egill, morgunn, djöfull, Pétur, Baldur, Kristinn, Þórarinn
 
 Words with umlaut:
 
-*karl, hákarl, snjókarl (a-ö)
+*karl, hákarl, snjókarl, rass (a-ö)
 *Egill (e→a)
+*Björn (jö→i)<ref name=":0">The name Björn can either be declined "til Björns" or "til Bjarnar", but the animal can only be "til bjarnar".</ref>
 
 Names:
 
-*Jón, Gunnar, Einar, Kristján, Stefán, Jóhann, Björn,<ref name=":0">The name Björn can either be declined "til Björns" or "til Bjarnar", but the animal can only be "til bjarnar".</ref> Halldór, Pétur, Arnar, Kristinn, Ragnar, Guðjón, Óskar, Karl, Ásgeir, Ágúst, Kjartan, Sigurjón, Friðrik, Aron, Hilmar, Baldur, Rúnar, Brynjar, Ómar, Ingvar, Sævar, Garðar, Viktor, Þórarinn, Hafsteinn, Ívar, Grétar, Aðalsteinn
+*Jón, Gunnar, Einar, Kristján, Stefán, Jóhann, Halldór, Arnar, Ragnar, Guðjón, Óskar, Karl, Ásgeir, Ágúst, Kjartan, Sigurjón, Friðrik, Aron, Hilmar, Rúnar, Brynjar, Ómar, Ingvar, Sævar, Garðar, Viktor, Ívar, Grétar
 
 ## The “matur” pattern <i>(rare)</i>
 This is a rare pattern.
@@ -133,7 +143,11 @@ Names:
 
 Predictable words:
 
-*arkitekt, ananas, vírus, ís, lás, bjór, kór, vír, gítar, mínus, pappír, bílskúr, plús, haus, lakkrís, strætó
+*arkitekt, vírus, ís, lás, bjór, kór, vír, mínus, pappír, bílskúr, plús, haus, lakkrís, strætó
+
+Umlaut:
+
+*ananas, gítar (a→ö in dative plural)
 
 Words where the consonant is duplicated in the nominative:
 
@@ -173,14 +187,14 @@ In the singular, this is the same pattern as "matur".
 ## The “hvalur” pattern
 
 {{Declension singular and plural
-|tölvuleik'''ur'''
-|tölvuleik
-|tölvuleik
-|tölvuleik'''s'''
-|tölvuleik'''ir'''
-|tölvuleik'''i'''
-|tölvuleikj'''um'''
-|tölvuleikj'''a'''
+|hval'''ur'''
+|hval
+|hval
+|hval'''s'''
+|hval'''ir'''
+|hval'''i'''
+|hvöl'''um'''
+|hval'''a'''
 }}
 
 Words:
@@ -214,7 +228,7 @@ Same except no "ur" in nominative:
 
 Words:
 
-*vinur, fundur, hönnuður, þáttur, vegur, viðburður, gestur
+*vinur, fundur, hönnuður, vegur, viðburður
 
 Words with umlaut:
 
@@ -222,7 +236,7 @@ Words with umlaut:
 *köttur, flugvöllur, ávöxtur (ö→e)
 *fjörður (jö→i)
 *markaður (a→ö, a→u)
-*afsláttur (á->æ)
+*afsláttur, þáttur (á->æ)
 *mánuður (u->a, "til mán'''a'''ðar")
 
 Names:
@@ -235,7 +249,7 @@ Names with umlaut:
 
 The following words and names follow the same pattern as "vinur", except they don't have an "-ur" in the nominative:
 
-*björn (jö→i; jö→ja), Björn<ref name=":0" /> (jö→i; jö→ja), örn (ö→e; ö→a), Örn (ö→e; ö→a)
+*björn (jö→i; jö→ja), örn (ö→e; ö→a), Örn (ö→e; ö→a)
 
 ## The “pabbi” pattern
 This is the most common pattern for [[weak]] masculine words.
@@ -253,13 +267,17 @@ This is the most common pattern for [[weak]] masculine words.
 
 Words:
 
-*metri, sími, tími, listi, klukkutími, Spánverji, Kínverji, auli, biti, bolli, bolti, fáni, gluggi, heili, hiti, hluti, jeppi, kjáni, koddi, kuldi, leki, listi, lúði, miði, mosi, penni, poki, púði, skóli, skuggi, sófi, stigi, texti, tími, ungi, vöðvi, vökvi, ökklar, afi, ansans, api, asni, banki, hávaði, jakki, kafli, kassi, klaki, lampi, líkami, magi, nagli, pabbi, pakki, spítali, takki, aumingi, vasi, túristi, olnbogi, fótbolti, handbolti, körfubolti, snjóbolti, tannbursti, bakpoki, forseti, bílstjóri, hálftími, klukkutími, hálfviti, möguleiki, vandi, fjöldi, rjómi, svimi, áhugi, nútími, raunveruleiki
+*metri, sími, tími, listi, klukkutími, Spánverji, Kínverji, auli, biti, bolli, bolti, fáni, gluggi, heili, hiti, hluti, jeppi, kjáni, koddi, kuldi, leki, lúði, miði, mosi, penni, poki, púði, skóli, skuggi, sófi, stigi, texti, ungi, vöðvi, vökvi, ökkli, afi, magi, pabbi, spítali, túristi, olnbogi, fótbolti, handbolti, körfubolti, snjóbolti, tannbursti, bakpoki, forseti, bílstjóri, hálftími, hálfviti, möguleiki, vandi, fjöldi, rjómi, svimi, áhugi, nútími, raunveruleiki
 
 Words with umlaut:
 
-*pabbi, afi, magi, spítali, félagi, banani, kastali, sandali (a→ö in dative plural)
-*þjálfari, kærasti, hamborgari, kennari, dómari, leikari, málari, múrari, pípari, prentari, ritari, svindlari, söngvari, þjálfari, hamborgari, geimfari, sjúkraþjálfari, ljósmyndari (a→u in dative plural)
+*pabbi, afi, magi, spítali, félagi, banani, kastali, sandali, geimfari, api, asni, banki, hávaði, jakki, kafli, kassi, klaki, lampi, líkami, nagli, pakki, takki, vasi (a→ö in dative plural)
+*þjálfari, kærasti, hamborgari, kennari, dómari, leikari, málari, múrari, pípari, prentari, ritari, svindlari, söngvari, sjúkraþjálfari, ljósmyndari (a→u in dative plural)
 *brandari, bakari, hátalari, kjallari, brjóstahaldari (a→ö in dative plural, also a→u in dative plural)
+
+Additional letter:
+
+*aumingi (j)
 
 Names:
 
@@ -309,7 +327,15 @@ Words:
 
 Names:
 
-*Guðrún, Kristín, Sigrún, Ingibjörg, Elín, Katrín, Guðbjörg, Guðný, Ólöf, Sólveig, Elísabet, Kolbrún, Guðlaug, Sigurbjörg, Björg, Áslaug, Laufey, Sigurlaug, Rannveig, Þorbjörg, Dagný, Sóley
+*Guðrún, Kristín, Sigrún, Elín, Katrín, Sólveig, Elísabet, Kolbrún, Guðlaug, Áslaug, Sigurlaug, Rannveig
+
+Names with umlaut:
+
+*Ingibjörg, Guðbjörg, Ólöf, Sigurbjörg, Björg, Þorbjörg (ö→a)
+
+Names with an additional letter:
+
+*Guðný, Laufey, Dagný, Sóley (j)
 
 ## The “flugvél” pattern
 
@@ -326,7 +352,7 @@ Names:
 
 Words:
 
-*flugvél, vél, nál, skeið, skál, grein, sundlaug, teskeið, eldavél, hrærivél, myndavél, uppþvottavél, helgi, París, hlið (in the meaning of "a side")
+*flugvél, vél, nál, skeið, skál, grein, sundlaug, teskeið, eldavél, hrærivél, myndavél, uppþvottavél, París, hlið (in the meaning of "a side")
 
 Irregularities:
 
@@ -350,12 +376,14 @@ Names:
 
 Regular words:
 
-*mynd, sól, tónlist, sál, átt, bið, gæs, leið, list, mynd, rás, þjóð, ást, baun, blokk, borg, búð, frétt, hjálp, hurð, húð, lest, lykt, skák, skuldir, sorg, stjórn, sveit, von, heyrn, lausn, ferð, breidd, hæð, lengd, stærð, þyngd, einkunn, vakt, dýpt, hindrun, hugsun, höfuðborg, íbúð, ísbúð, ábyrgð, bíómynd, hugmynd, ljósmynd, tilraun, hljómsveit, framtíð, heimsókn, rannsókn, aðgerð, ritgerð, afsökun, hátíð, ull, bómull, hönnun, þróun, tónlist
+*mynd, sól, tónlist, sál, átt, bið, gæs, leið, list, rás, þjóð, ást, baun, blokk, borg, búð, frétt, hjálp, hurð, húð, lest, lykt, skák, skuldir, sorg, stjórn, sveit, von, heyrn, lausn, ferð, breidd, hæð, lengd, stærð, þyngd, einkunn, dýpt, höfuðborg, íbúð, ísbúð, ábyrgð, bíómynd, hugmynd, ljósmynd, tilraun, hljómsveit, framtíð, heimsókn, rannsókn, aðgerð, ritgerð, hátíð, ull, bómull, hönnun, þróun
 
 Umlauts:
 
 *jörð, gjöf, röð, sög, þörf, jarðarför, afmælisgjöf, jólagjöf, biðröð, rödd (ö→a)
-*byrjun (ju→ja)
+*byrjun, hindrun, hugsun (u→a)
+*afsökun (ö→a, u→a)
+*vakt (a→ö in dative plural)
 
 Irregular plural:
 
@@ -382,7 +410,7 @@ Names:
 
 Regular:
 
-*kind, geit, beinagrind
+*kind, geit, beinagrind, steik
 
 Umlaut:
 
@@ -403,16 +431,16 @@ This is the most common pattern for [[Weak|weakly]] declined feminine words. {{D
 
 Regular:
 
-*pítsa, íslenska, sápa, tölva, appelsína, eyja, króna, kveðja, manneskja, miðja, náttúra, olía, sítróna, snúra, stofa, tíska, frænka, húfa, sturta, skrifstofa, ruslatunna, peysa, vinna, enska, fita, heilsa, reynsla, spænska
+*pítsa, íslenska, sápa, tölva, appelsína, eyja, króna, kveðja, manneskja, miðja, náttúra, olía, sítróna, snúra, stofa, tíska, frænka, húfa, sturta, skrifstofa, ruslatunna, peysa, vinna, enska, fita, heilsa, reynsla, spænska, heilsugæsla
 
 Umlaut:
 
-*kaka, mamma, amma, fjara, panna, stjarna, taska, vara, karfa, kartafla, flaska, plata, saga, myndataka, tillaga, fjallganga (a→ö)
+*kaka, mamma, amma, fjara, panna, stjarna, taska, vara, karfa, kartafla, flaska, plata, saga, myndataka, tillaga, fjallganga, tala (a→ö)
 *kærasta (a→u)
 
 Additional letter ("-na") in genitive plural:
 
-*fjölskylda, pylsa, sekúnda, mínúta, klukka, síða, stelpa, tunga, úlpa, tala, gúrka, hilla, regla, skyrta, súpa, þoka, fluga, veisla, vika, lögregla, blaðsíða, ryksuga, ástæða, kirkja, sulta, heilsugæsla
+*fjölskylda, pylsa, sekúnda, mínúta, klukka, síða, stelpa, tunga, úlpa, tala, gúrka, hilla, regla, skyrta, súpa, þoka, fluga, veisla, vika, lögregla, blaðsíða, ryksuga, ástæða, kirkja (the "j" disappears: "kirkna"), sulta, flaska, plata, saga, fjallganga, kaka, kartafla, tillaga
 
 Extreme irregularity:
 
@@ -420,11 +448,11 @@ Extreme irregularity:
 
 Names:
 
-*Helga, María, Ásta, Erla, Lilja, Eva, Hulda, Inga, Þóra, Jóna, Halldóra, Birna, Linda, Erna, Jónína, Edda, Lára, Harpa, Hrefna, Rósa, Brynja, Stefanía, Tinna, Andrea, Helena, Ágústa, Elsa, Ása, Soffía
+*Helga, María, Ásta, Erla, Lilja, Eva, Hulda, Inga, Þóra, Jóna, Halldóra, Birna, Linda, Erna, Jónína, Edda, Lára, Hrefna, Rósa, Brynja, Stefanía, Tinna, Andrea, Helena, Ágústa, Elsa, Ása, Soffía
 
 Names with umlaut:
 
-*Anna, Jóhanna, Sara, Hanna, Kristjana, Sandra, Arna, Halla, Svava
+*Anna, Jóhanna, Sara, Hanna, Kristjana, Sandra, Arna, Halla, Svava, Harpa
 
 ## The “keppni” pattern
 This is a rare pattern where the words don't change their form in the singular. Luckily, you almost never see these words in the plural so you don't need to study it.{{Declension singular and plural
@@ -435,30 +463,30 @@ This is a rare pattern where the words don't change their form in the singular. 
 |keppni'''r'''
 |keppni'''r'''
 |keppn'''um'''
-|keppni'''a'''
+|keppn'''a'''
 }}
 
 Words:
 
 *beiðni, keppni, samkeppni, leti,<ref name="singular">Only used in the [[singular]]</ref> athygli,<ref name="singular" /> eðlisfræði,<ref name="singular" /> efnafræði,<ref name="singular" /> jarðfræði,<ref name="singular" /> líffræði,<ref name="singular" /> lögfræði,<ref name="singular" /> stærðfræði,<ref name="singular" /> félagsfræði,<ref name="singular" /> málfræði<ref name="singular" />
 
-## The “steik” pattern
+## The “sæng” pattern
 This is a rare pattern.{{Declension singular and plural
-|steik
-|steik
-|steik
-|steik'''ur'''
-|steik'''ur'''
-|steik'''ur'''
-|steik'''um'''
-|steik'''a'''
+|sæng
+|sæng
+|sæng
+|sæng'''ur'''
+|sæng'''ur'''
+|sæng'''ur'''
+|sæng'''um'''
+|sæng'''a'''
 }}
 
-Regular: steik, sæng, mjólk<ref name="singular" />
+Regular: sæng, mjólk<ref name="singular" />
 
 Umlaut:
 
-*nótt (ó→æ, ó->á)
+*nótt (ó→æ)
 
 Irregularities:
 
@@ -482,20 +510,24 @@ Almost all neuter words follow this pattern. These words don't have a suffix in 
 
 Regular words that are the same in the nominative singular and plural:
 
-*ár, dæmi, hús, kjöt, bakarí, frí, hlé, partí, píanó, apótek, beikon, bein, bensín, bil, blóð, blóm, boð, borð, brauð, bréf, brjóst, bull, dót, dýr, flug, fólk, frost, gat, gler, gos, gólf, gras, grill, grín, gull, haf, haust, hár, hjól, hljóð, hraun, hunang, járn, klósett, korter, kort, krem, kvöld, lauf, lán, lið, líf, ljóð, ljós, loft, lok, lyf, mál, morð, nám, nef, net, orð, pils, pláss, próf, ráð, rán, rok, rugl, ryk, skáld, skip, skott, skyn, ský, slys, smjör, spil, stál, stig, stígvél, stríð, sund, svið, svín, tóbak, tungl, úr, verð, vín, vopn, vor, augnablik, matarboð, tilboð, gæludýr, netfang, snjóflóð, hrísgrjón, áhrif,<note>Only used in the plural</note> straujárn, blómkál, morgunkorn, ferðalag, andlit, tungumál, símanúmer, hitastig, dagatal, samtal, viðtal, álver, hlutverk, félag, rúm, bókasafn, vínber, takmark, tímabil, samfélag, lykilorð, forrit, tímarit, krabbamein, eftirlit, rafmagn, sjónvarp, brúðkaup, námskeið, málverk, vandamál, skordýr, eldhús, leikhús, útlit, listaverk, hótel, te, bíó, hlið (in the meaning of "a gate")
+*ár, hús, kjöt, bakarí, frí, hlé, partí, píanó, apótek, beikon, bein, bensín, bil, blóð, blóm, boð, borð, brauð, bréf, brjóst, bull, dót, dýr, flug, fólk, frost, gos, gólf, grill, grín, gull, haust, hár, hjól, hljóð, hraun, hunang, járn, klósett, korter, kort, krem, kvöld, lauf, lán, lið, líf, ljóð, ljós, loft, lok, mál, morð, nám, net, orð, pils, pláss, próf, ráð, rán, rok, rugl, ryk, skáld, skip, skott, skyn, slys, smjör, spil, stál, stig, stígvél, stríð, sund, svið, svín, tóbak, tungl, úr, verð, vín, vopn, vor, augnablik, matarboð, tilboð, gæludýr, snjóflóð, hrísgrjón, áhrif,<note>Only used in the plural</note> straujárn, blómkál, morgunkorn, andlit, tungumál, símanúmer, hitastig, álver, hlutverk, rúm, tímabil, lykilorð, forrit, tímarit, krabbamein, eftirlit, rafmagn, brúðkaup, námskeið, málverk, vandamál, skordýr, eldhús, leikhús, útlit, listaverk, hótel, te, hlið (in the meaning of "a gate")
 
 Umlaut in the plural:
 
-*gras, lamb, barn, fjall, glas, nafn, skjal, bað, bak, ball, blað, bragð, fjall, lag, lamb, land, kærustupar, plan, plast, salt, spjall, starf, svar, val, vatn, myndband, samband, þak, dagblað (a→ö)
+*gras, lamb, barn, fjall, glas, nafn, skjal, bað, bak, ball, blað, bragð, lag, land, kærustupar, plan, plast, salt, spjall, starf, svar, val, vatn, myndband, samband, þak, dagblað, gat, haf, netfang, ferðalag, dagatal, samtal, viðtal, félag, bókasafn, takmark, samfélag, sjónvarp (a→ö)
 *sumar (a->u)
 
 Omission of a letter in the dative singular:
 
 *veður, höfuð, suður, austur, norður, sumar
 
-Adds "j" in dative plural:
+Adds "j" in the dative and genitive plural:
 
-*egg ("frá eggjum")
+*egg ("frá eggjum"), gler, lyf, nef, ský, vínber
+
+No "i" in the dative singular:
+
+*bíó
 
 ## The “eyra” pattern
 This is a rare pattern that usually only appears in the words for a handful of body parts.{{Declension singular and plural
@@ -536,11 +568,11 @@ Umlaut:
 
 Regular words:
 
-*afmæli, atriði, belti, bindi, efni, einkenni, epli, fangelsi, frelsi, gengi, heimili, kerfi, leyfi, leyti, læri, merki, ríki, salerni, skilti, skíði, stræti, stykki, stæði, súkkulaði, svæði, systkini, teppi, typpi, tæki, öryggi, snjóbretti, hádegi, verkefni, hljóðfæri, tækifæri, baðherbergi, viðskipti, samhengi,<ref name="singular" /> áfengi,<ref name="singular" /> ofbeldi,<ref name="singular" /> ofnæmi,<ref name="singular" /> helvíti,<ref name="singular" /> kaffi,<ref name="singular" /> nammi<ref name="singular" />
+*afmæli, atriði, belti, bindi, efni, einkenni, epli, fangelsi, frelsi, heimili, kerfi, leyfi, leyti, læri, salerni, skilti, skíði, stræti, stæði, súkkulaði, svæði, systkini, teppi, typpi, snjóbretti, hádegi, verkefni, hljóðfæri, tækifæri, viðskipti, samhengi,<ref name="singular" /> áfengi,<ref name="singular" /> ofbeldi,<ref name="singular" /> ofnæmi,<ref name="singular" /> helvíti,<ref name="singular" /> kaffi,<ref name="singular" /> nammi<ref name="singular" />, dæmi
 
-Insertion of a "j" in the dative plural:
+Insertion of a "j" in the dative and genitive plural:
 
-*herbergi
+*herbergi, gengi, merki, ríki, stykki, tæki, öryggi, baðherbergi
 
 # Irregular
 These family terms follow the same highly irregular pattern:
@@ -550,6 +582,8 @@ These family terms follow the same highly irregular pattern:
 These words also do not cleanly fit into any pattern and must be studied separately:
 
 *vetur
+*gestur – the same as "hvalur" except the dative singular is "gesti"
+*helgi – the same as "keppni" in the singular, but the plural is "helgar"
 *maður
 *hönd
 *fótur
